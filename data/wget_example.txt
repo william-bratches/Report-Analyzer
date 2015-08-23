@@ -1,0 +1,1 @@
+ wget -i idx10K-wget.txt -P 10K
