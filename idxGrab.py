@@ -11,7 +11,11 @@ def grabIdx(root_url):
             local_url = root_url + str(year) + "/" + "QTR" + str(quarter) + "/form.idx"
 
             # save form in data
-            wget.download(local_url)
+            try:
+                wget.download(local_url)
+            except:
+                print "%s failed, skipping..." % local_url
+                pass
 
 if __name__ == '__main__':
     grabIdx(root_url)
