@@ -1,0 +1,9 @@
+#!/usr/bin/python
+# Create metadata for the bookworm.
+# {
+   "searchstring" : companyName,
+                 "filename" : filename,
+                 "year" : year,
+                 "industry" : subjectArray,
+		 "ticker": ticker,
+                }
