@@ -1,17 +1,19 @@
 const fs = require('fs');
 const industries = require('../data/industries');
 
+const dataPath = '../data/10K';
+
 const determineIndustry = () => {};
 
 const parse = (fileString) => {};
 
-const parseAll(directory) => {
+const parseAll = (directory) => {
   fs.readdir(directory, (err, files) => {
     if (err) {
       return console.log('ERROR:', err);
     }
     return files.forEach((file) => {
-      fs.readFile(file, 'utf8', (err, data) => {
+      fs.readFile(`${directory}/${file}`, 'utf8', (err, data) => {
         if (err) {
           return console.log(`Err reading file ${file}`);
         }
@@ -21,7 +23,7 @@ const parseAll(directory) => {
   });
 };
 
-parseAll('../data/10K');
+parseAll(dataPath);
 
  // {
  //   "searchstring" : companyName,
