@@ -1,0 +1,3225 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ L8bk3tnQO0bRL3qE6E57lAquJ1i6j0cQrYzd4hwJpzCQMas/TFD9aRRA1cwxGrq/
+ w0hI8TC5L0/s7Yd8PkBwJQ==
+
+<SEC-DOCUMENT>0000022551-98-000002.txt : 19980603
+<SEC-HEADER>0000022551-98-000002.hdr.sgml : 19980603
+ACCESSION NUMBER:		0000022551-98-000002
+CONFORMED SUBMISSION TYPE:	10KSB
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	19971231
+FILED AS OF DATE:		19980522
+SROS:			NASD
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			TRI VALLEY CORP
+		CENTRAL INDEX KEY:			0000022551
+		STANDARD INDUSTRIAL CLASSIFICATION:	6792
+		IRS NUMBER:				840617433
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0731
+
+	FILING VALUES:
+		FORM TYPE:		10KSB
+		SEC ACT:		
+		SEC FILE NUMBER:	000-06119
+		FILM NUMBER:		98630945
+
+	BUSINESS ADDRESS:	
+		STREET 1:		230 SOUTH MONTCLAIR STREET
+		STREET 2:		SUITE 101
+		CITY:			BAKERSFIELD
+		STATE:			CA
+		ZIP:			93309
+		BUSINESS PHONE:		8058379300
+
+	MAIL ADDRESS:	
+		STREET 1:		230 SOUTH MONTCLAIRE STREET
+		STREET 2:		SUITE 101
+		CITY:			BAKERSFIELD
+		STATE:			CA
+		ZIP:			93309
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>10KSB
+<SEQUENCE>1
+<TEXT>
+
+5
+
+                                       1
+
+
+
+
+
+
+                      SECURITIES AND EXCHANGE COMMISSION
+                            WASHINGTON, D.C. 20549
+
+                                  FORM 10-KSB
+
+[  X  ]    ANNUAL  REPORT  PURSUANT  TO SECTION 13 OR 15 (D) OF THE SECURITIES
+EXCHANGE  ACT  OF  1934  FOR  THE                            FISCAL YEAR ENDED
+DECEMBER  31,  1997  [FEE  REQUIRED}
+[]   TRANSITION REPORT  UNDER SECTION 13 OR 15 (D)  OF THE SECURITIES EXCHANGE
+ACT  OF  1934
+
+                          Commission File No. 0-6119
+
+                            TRI-VALLEY CORPORATION
+            (Exact Name of Registrant as Specified in its Charter)
+
+          Delaware                                                   84-061743
+(State  or  Other  Jurisdiction  of Incorporation or          (I.R.S. Employer
+Identification  Number)
+  Organization)
+
+     230 South Montclair Street, Suite 101,  Bakersfield, California 93309
+                   (Address of Principal Executive Offices)
+
+Registrant's  Telephone  Number  Including  Area  Code:    (805)  837-9300
+
+Securities  Registered  Pursuant  to  Section  12(b)  of  the  Act:       None
+
+Securities  Registered  Pursuant  to  Section  12(g)  of  the  Act:
+
+     Title  of  Each  Class          Name of Each Exchange on Which Registered
+           Common                                        None
+
+                        Common Stock, $0.001 par value
+                               (Title of Class)
+
+Indicate  by  check  mark  whether  the  registrant  (1) has filed all reports
+required  to be filed by Section 13 or 15(d) of the Securities Exchange Act of
+1934  during  the  preceding  12  months  (or for such shorter period that the
+registrant  was  required  to  file such reports), and (2) has been subject to
+such  requirement  for  the  past 90 days.               Yes___X__     No_____
+
+Check  if  there is no disclosure of delinquent filers in response to Item 405
+of Regulation S-B contained in this form, and no disclosure will be  contained
+to  the best of the registrant's knowledge, in definitive proxy or information
+statements  incorporated  by  reference  in  Part  III of this Form 10-KSB, if
+applicable,  or  any  amendment  to  this  Form  10-KSB.
+___X__
+
+The  issuer's  revenues  for  the  most  recent  fiscal  year  were  $915,519.
+
+As  of December 31, 1997 18,922,248 common shares were issued and outstanding.
+As  of  midnight  April30,  1998  19,061,248  common  shares  were  issued and
+outstanding, and the aggregate market value of the common shares of Tri-Valley
+Corporation  held by non-affiliates on that date was approximately$14,198,233.
+
+                      DOCUMENTS INCORPORATED BY REFERENCE
+                                     None
+
+
+
+
+
+
+
+
+                                    PART I
+
+ITEM  1.  BUSINESS
+- - ------------------
+
+Tri-Valley  Corporation,  a  Delaware  corporation,  herein  referred  to  as
+"Company,"  "Registrant,"  "Parent"  or  "Tri-Valley",  is  in the business of
+exploring,  acquiring  and  developing prospective and producing petroleum and
+precious  metals  properties  and  interests  therein.    The  wholly  owned
+subsidiary,  Tri-Valley  Oil  &  Gas  Company  ("TVOG") operates the oil & gas
+activities.   The precious metals activity is operated directly by the Parent,
+Tri-Valley  Corporation.
+
+TVOG primarily generates its own exploration prospects from internal data, and
+also  screens  submittals  from  other  geologists and companies.  TVOG enters
+exploration  co-ventures  from time to time with major industry companies such
+as  Phillips  Petroleum  Company (Houston Regional Office), Occidental USA and
+Texaco  USA.    Typically,  TVOG  will  enter agreements to look for potential
+projects to co-venture with another major oil company within a geographic area
+of  mutual  interest  ("AMI").    When  TVOG  proposes a potential project, or
+"play," within the AMI, it offers the play to its potential co-venturers.  The
+co-venturers  must then accept or reject up to 50% of the play under the terms
+of the agreement involved, within a limited time period.  TVOG is the operator
+of  these  co-ventures.
+
+In  1997,  we incorporated a new subsidiary for the Company - Tri-Valley Power
+Corporation.  We intend to convert part of our gas production into electricity
+by means of co-generation facilities.  This will allow the Company to become a
+fully  integrated  gas/power  producer.    The  deregulation  of the utilities
+industry  in California will enable Tri-Valley Power Corporation to market the
+electricity  in  California,  the  seventh  largest  economy  in  the  world.
+
+In  1987,  the  Company acquired precious metals claims on Alaska state lands.
+The  Company  has conducted exploration operations on these properties and has
+reduced  its  original  claims  to  a  block of approximately 28,160 acres (44
+square  miles).    In  1989,  the  Company recovered approximately 3,000 rough
+ounces  of gold and sold approximately 1,650 pure smelted ounces from a 30,000
+ton  bulk  sample  on  a  five  acre  area,  denominated the Richardson Mining
+property.   The Company has conducted trenching,  core drilling, bulk sampling
+and  assaying activities to date and has reason to believe that mineralization
+exists to justify additional exploration and development activities.  However,
+to  date,  the  Company  has not identified probable mineral reserves on these
+properties.  During 1997, the Company expensed exploration costs of $2,860,776
+associated  with  its  work  on these claims, which the Company had treated as
+capitalized  costs  prior  to  1997.    See  Properties-Precious  Metals.
+
+The  Company  filed  for  Chapter  11  Reorganization in January of 1996.  The
+reason  for  the  filing  was  the  Company's  inability  to arrange long term
+financing  prior to the maturity of short-term loans.  During 1996 the Company
+was  able  to  raise  several million dollars through private placement of its
+stock  to  pay all outstanding obligations in full.  Consequently, the Company
+was  dismissed  from  Chapter  11  November  1996.
+
+
+
+ITEM  1.    BUSINESS  (CONTINUED)
+- - --------------------
+
+In  1996, the Company changed its fiscal year end from July 31 to December 31.
+Tri-Valley  has  5  full  time  employees.
+
+Current  Year
+
+The  company drilled and completed three additional wells in 1997.  Two of the
+wells  were  put on line and began producing in the summer of 1997.  The third
+well  has  been  waiting  on  completion  of  a  pipeline  which  the  Company
+anticipates  completing  by  early  summer  of  1998.
+
+In  1997  the  Company  expensed  previously  capitalized  costs on its Alaska
+properties.  See  Management's  Discussion and Analysis of Operations-Precious
+Metals.
+
+Executive  Officers  of  the  Registrant
+- - ----------------------------------------
+
+F.  Lynn  Blystone  -  62                President and Chief Executive Officer
+- - -------------------------
+1974
+                         Tri-Valley  Corporation,  and  its  wholly
+                         Owned  subsidiary,  Tri-Valley  Oil  &  Gas
+                         Company,  Bakersfield,  California
+
+Mr.  Blystone became president of Tri--Valley Corporation in October 1981, and
+was  nominally  vice  president  from  July  to  October 1981.  His background
+includes  institution  management,  venture  capital  and  various  management
+functions  for  a  mainline  pipeline  contractor  including  the Trans Alaska
+Pipe-line  Project.   He has founded, run and sold companies in several fields
+including Learjet charter, commercial construction, municipal finance and land
+development.    He  is  also  president  of a family corporation, Bandera Land
+Company,  Inc.,  with  real  estate  interests  in  Kern, Riverside and Orange
+Counties,  California.    A  graduate  of Whittier College, California, he did
+graduate  work  at  George  Williams  College,  Illinois,  in  organizational
+management.    He  devotes  full  time  to  Tri-Valley  Corporation.
+
+
+Thomas  J.  Cunningham  -  55            Treasurer and Chief Financial Officer
+- - ----------------------
+1997
+                         Tri-Valley  Corporation,  and  its  wholly
+                         Owned  subsidiary,  Tri-Valley  Oil  &  Gas
+                         Company,  Bakersfield,  California
+
+Named  as  Tri-Valley  Corporation's  Treasurer and Chief Financial Officer on
+February  1997,  Mr.  Cunningham  has  over  25  years experience in corporate
+finance,  Securities  and  Exchange  Commission  public  company  reporting,
+shareholder  relations,  and  employee  benefits.   In his career he served as
+Staff  Accountant  for  Forest  Oil,  Accounting    
+
+ITEM  1.    BUSINESS  (CONTINUED)
+- - --------------------
+
+Supervisor,  for  Tesoro  Petroleum,  Controller  and  Assistant Secretary for
+Tucker  Drilling  Company,  and  as  Executive Vice President, Chief Financial
+Officer  and  Director  for  Star  Resources,  Inc.    Most  recently he was a
+Management  Consultant  in  finance,  marketing  and  human  resource  matters
+including  employee benefit planning.  He received his education in accounting
+and  business  administration  from  Angelo  State  University,  Texas.
+
+
+ITEM  2.  PROPERTIES
+- - --------------------
+
+The Company's headquarters and administrative offices are located at 230 South
+Montclair  Street,  Suite  101,  Bakersfield,  California  93309.  The Company
+leases  approximately 2,500 square feet of office space at that location.  The
+Company's  oil  and  gas  operations are conducted from office space leased by
+TVOG  in  Carpinteria,  California.    The principal properties of the Company
+consist of proven and unproven oil and gas and precious metal properties, maps
+and  geologic  records  related  to prospective oil and gas and precious metal
+properties,  office  and  other  equipment.
+
+Oil  and  Gas  Operations
+- - -------------------------
+
+The  oil and gas properties in which the Company holds interests are primarily
+located in the area of central California known as the Sacramento Valley.  The
+Company  also  leases  exploration  acreage in the San Joaquin and Santa Maria
+Valleys.  The Company contracts for the drilling of all its wells and does not
+own  any drilling equipment, bulk storage facilities, transportation pipelines
+or  refineries.
+
+The  company  has  retained  the services of Cecil Engineering, an independent
+engineer,  for  the  purposes  of estimating the Company's net share of proved
+developed  oil and gas reserves on all the Company's oil and gas properties at
+December  31,  1997.  The Company does not include any undeveloped reserves in
+these  reserve  studies  and,  accordingly, only proved developed reserves are
+reported  herein.    Price  is a material factor in the stated reserves of the
+Company,  because  higher  prices permit relatively higher-cost reserves to be
+produced  economically.  Higher prices generally permit longer recovery, hence
+larger  reserves  at  higher values.  Conversely, lower prices generally limit
+recovery  to  lower-cost  reserves,  hence  smaller  reserves.  The process of
+estimating  oil and gas reserve quantities is inherently imprecise.  Ascribing
+monetary  values to those reserves, therefore, yields imprecise estimated data
+at  best.
+
+The  estimated  future  net  recoverable  oil  and  gas  reserves  from proved
+developed  properties  as of December 31, 1997, December 31, 1996 and July 31,
+1996  were  as  follows:
+                              BBL                                      MCF
+                              ---                                  -------
+
+December 31, 1997             Condensate     224     Natural Gas     1,903,154
+December 31, 1996             Condensate     644     Natural Gas     2,003,135
+July  31,  1996               Condensate     442     Natural Gas	   1,934,339
+
+
+
+<PAGE>
+
+ITEM  2.  PROPERTIES  (CONTINUED)
+- - ---------------------------------
+
+Using  year-end  oil  and  gas  prices  and  current levels of lease operating
+expenses,  the estimated present value of the future net revenue to be derived
+from  the  Company's proved developed oil and gas reserves, discounted at 10%,
+was  $1,757,195  at  December  31,  1997,  $1,394,701 at December 31, 1996,and
+$1,126,910  at July 31, 1996.  Reference is made to the unaudited supplemental
+information  of  the consolidated financial statements for further information
+on  oil  and  gas  reserves  and  estimated  values.
+
+The following table sets forth the net quantities of natural gas and crude oil
+produced  by  Registrant  during:
+
+                                       Transition
+                     Year Ended     Period Ended     Year Ended
+             December 31, 1997     December 31, 1996     July 31, 1996
+             -----------------     -----------------     -------------
+
+             Natural Gas (MCF)     323,879     111,261     272,931
+    		 Crude Oil (BBL)           225          70         210
+
+
+
+The  following table sets forth the average sales price and average production
+(lifting)  cost  per  unit  of  oil  and  gas  produced  by registrant during:
+
+                                       Transition
+                     Year Ended     Period Ended     Year Ended
+             December 31, 1997     December 31, 1996     July 31, 1996
+             -----------------     -----------------     -------------
+
+              Natural gas (per MCF)     $2.40     $2.00     $2.00
+		  Production  Costs
+              (per MCF)      			.30       .10       .10
+
+              Net Profit per MCF   	    $2.10     $1.90     $1.90
+
+
+As  of December 31, 1997, the Company had the following gross and net position
+in  wells  and  developed  acreage:
+
+          Wells  (1)                                Acres (2)
+          ----------                                ---------
+
+        Gross     Net                             Gross     Net
+        -----     ---                             -----     ---
+         10       4.7                              2192     645
+
+
+
+(1)       "Gross" wells represent the total number of producing wells in which
+the  Company  has  a  working  interest  or  overriding  royalty.  "Net" wells
+represent the number of gross producing wells multiplied by the percentages of
+the  working  interests  and/or  royalty  interests  therein  by  the Company.
+
+(2)         "Gross" acres represent the total acres in which the Company has a
+working interest; "net" acres represent the aggregate of the working interests
+of  the  Company  in  the  gross  acres.
+
+
+
+ITEM  2.  PROPERTIES  (CONTINUED)
+- - --------------------
+The  following  table  sets forth the number of productive and dry exploratory
+and  development  wells  drilled  by  the  Company  during:
+
+                                          Transition
+                       Year Ended     Period Ended     Year Ended
+                December 31, 1997     December 31, 1996     July 31, 1996
+                -----------------     -----------------     -------------
+
+Exploratory
+ Producing             1.0                   1.0                  1.0
+ Dry                   -0-                   -0-                  -0-
+
+   Total               1.0                   1.0                  1.0
+
+
+
+Development
+ Producing             2.0                   -0-                  -0-
+ Dry                   -0-                   -0-                  -0-
+
+   Total               2.0                   -0-                  -0-
+
+The above table, regarding net wells, recognizes only those wells in which the
+Company  holds  an  overriding royalty interest or an earned working interest.
+Working  interests  to  be  earned  at  payout  have  not  been  included.
+
+The Company deals with both industry and sophisticated individual investors on
+its  oil  and  gas  projects.
+
+The  Company  continually  screens  geologically prospective acreage as to its
+availability  for  leasing.   Oil and gas prospects developed by the Company's
+own  staff  and  by  other  sources  are  regularly  evaluated.
+
+The  following  table sets forth information regarding undeveloped oil and gas
+acreage  in  which  the  Company  had  an  interest  on  December  31,  1997.
+
+                 State          Gross Acres          Net Acres
+                 -----          -----------          ---------
+
+               California          8719                 3158
+
+
+In  1997,  the Company acquired the worldwide database of San Carlos Oil & Gas
+Corporation  which also contains numerous California well logs, maps and other
+geological  data for cash and Tri-Valley stock.  In 1997, the Company acquired
+rights  to  over  20,000 miles of California seismic data from GEOONE for cash
+and  Tri-Valley  stock.  These databases enable Tri-Valley to rapidly evaluate
+both  exploration prospects and producing properties in every onshore basin in
+California.
+ITEM  2.  PROPERTIES  (CONTINUED)
+- - --------------------
+Some  of  the  Company's  undeveloped  acreage is held pursuant to leases from
+landowners.   Such leases have varying dates of execution and generally expire
+one  to  five  years  after  the  date  of  the  lease.
+
+Precious  Metals
+- - ----------------
+The  precious  metals  properties  are  located  in interior Alaska.  They are
+comprised  of  leased  claims  solely  on  State  open  lands requiring annual
+assessment work, and an annual per claim fee.  All fees are current.  However,
+the  Company  reduced  its  claim block, in Alaska, subsequent to November 30,
+1995,  to  concentrate  on  the  most  advanced  targets.
+
+The  following table sets forth the information regarding the acreage position
+the  Company  has  under  lease  in  Alaska  as  of  December  31,  1997:
+
+                 State          Gross Acres          Net Acres
+                 -----          -----------          ---------
+
+                 Alaska          24,000.00          23,300.00
+
+Mineral  properties  claimed  on  Open  State  land  require  minimum  annual
+assessment  work  of $100 worth per State of Alaska claim.  The Company had no
+Federal  claims,  1,678  State  of  Alaska  claims,  and 10 prospecting sites,
+totaling  66,281  net  acres  as  of  July  31, 1995.  Subsequent to 1995, the
+Company  reduced  its claim block to 606 claims and prospecting sites totaling
+over 24,000 acres (over 37.5 square miles) to concentrate on the most advanced
+targets.   Expenditures on the Richardson, Alaska acreage have already carried
+forward annual assessment requirements more than four years on all its claims.
+
+In  1991,  Tri-Valley  entered into an agreement with the Moscow based Central
+Research  Institute  of  Geological  Prospecting  for Base and Precious Metals
+("TsNIGRI")  to  demonstrate their proprietary technology for evaluating large
+areas  of  covered  sub-arctic terrain.  TsNIGRI has performed over 1,000 line
+miles  of  ground  traverses  for  geological,  geochemical,  biochemical,
+hydrochemical  sampling and geophysical profiles throughout Tri-Valley's claim
+block and surroundings.  Over 5,000 samples have been run through a variety of
+laboratory  analysis  including over 1,000 samples assayed by Bondar-Clegg, an
+industry  accepted  assay house.  Physical gold has been found at 60 locations
+wide spread over a 20 mile swath on the claims and TsNIGRI has increased their
+forecast to over 2 million ounces of recoverable gold. Based on the results of
+this  study  of  the  Company's  then  64  square  mile lode gold claim block,
+Tri-Valley  management  believes  it prudent for continued development of this
+precious  metals  segment  of  the  Company.
+
+In  1998, the Company retained the services of M. J. Bright and Associates, an
+independent registered geologist based in Denver, Colorado to analyze the data
+from  one core drill site and surrounding trench samples at the Democrat Dike,
+to  estimate probable reserves.  M. J. Bright delineated 141,500 tons  grading
+0.11  ounces  per ton (opt) or about 15,000 ounces, beginning at surface to 80
+feet  subsurface.  An additional 12,000 ounces is indicated from an additional
+20  feet  depth  of  108,500  tons  also grading 0.11 opt. for a total of over
+27,000 probable ounces.  This occurs in an area approximately 1,200 feet long,
+250  feet  deep  and  300  to 600 feet wide.  This represents approximately 12
+million  tons  projected  to  grade about 0.06 opt. for a possible resource of
+about  
+<PAGE>
+ITEM  2.  PROPERTIES  (CONTINUED)
+- - --------------------
+
+720,000  ounces.  The Company is undertaking further review and exploration of
+the  potential  resources  in  this  area.
+
+Management  believes it has demonstrated that the Company possesses a superior
+mineral
+property  which  could  reward  the  shareholders  dramatically from discovery
+success  with  little  downside  exposure  at  present.
+
+
+Environmental
+- - -------------
+
+The  Company's  energy  operations  are  subject  to  a  number of regulations
+relating  to  environmental  protection, as are all exploration and production
+companies.    However,  the Company believes it is in full compliance with all
+environmental  related  rules  and  regulations.
+
+
+ITEM  3.  LEGAL  PROCEEDINGS
+- - ----------------------------
+
+Tri-Valley  Oil  and  Gas  Co.  v. ABA Energy Corporation et al, No. C97-02561
+(Superior Court of Contra Costa County, California).  TVOG is the plaintiff in
+a  lawsuit  against  a  former  officer,  his  company  and  TVOG's consulting
+geologist  seeking  damages  and  imposition of a constructive trust regarding
+certain disputed oil and gas properties.  The amount, if any, which TVOG might
+recover  is  not  determinable as of the date of this report.  The case is set
+for  trial  in  June  1998.
+
+
+ITEM  4.  SUBMISSION  OF  MATTERS  TO  A  VOTE  OF  SECURITY  HOLDERS
+- - ---------------------------------------------------------------------
+
+No  matters  were  submitted  to  a vote of security holders during the fourth
+quarter  of  1997.
+
+<PAGE>
+- - ------
+
+                                    PART II
+                                    -------
+
+ITEM  5.  MARKET  PRICE OF THE REGISTRANT'S COMMON STOCK AND RELATED  SECURITY
+- - ------------------------------------------------------------------------------
+HOLDER  MATTERS
+- - ---------------
+
+Shares  of  Tri-Valley  Corporation  stock  are traded over-the-counter on the
+Electronic  Bulletin Board under the symbol "TRIL".  The following table shows
+the  high  and  low bid and asked prices of Tri-Valley stock for the quarterly
+periods  indicated  as  reported  by  the  OTC  Stock  Journal:
+<TABLE>
+<CAPTION>
+
+
+                Bid Prices   Asked Prices
+                -----------  -------------           
+                   High           Low       High    Low
+                -----------  -------------  -----  -----
+<S>             <C>          <C>            <C>    <C>
+1997:
+First Quarter.  $     2.938  $         .68  $3.00  $ .72
+Second Quarter  $     1.688  $        1.13  $1.81  $1.31
+Third Quarter.  $      1.50  $        1.13  $1.56  $1.22
+Fourth Quarter  $     1.313  $         .88  $1.38  $ .97
+</TABLE>
+
+
+                 Bid  Prices                            Asked  Prices
+                 -----------                            -------------
+          High                    Low                    High              Low
+          ----                    ---                    ----              ---
+
+
+1996:
+     First Quarter     $     .1563     $     .05     $   .1875     $     .15
+Second  Quarter        $       .15     $     .03     $     .16     $     .14
+Third  Quarter         $     .3125     $    .105     $     .50     $     .14
+ Fourth  Quarter       $     .4375     $     .13     $     .50     $     .438
+
+
+As  of December 31, 1997, the Company estimates that its common stock was held
+by  2000 shareholders of record in 40 states and 4 foreign countries of record
+of  Tri-Valley  Corporation  common  stock.
+
+The Company historically has paid no dividends, and at this time does not plan
+to  pay any dividends in the immediate future.  As of 3/20/98, the Company had
+15 market makers for our stock.  In 1997, trading volume exceeded 14.2 million
+shares.
+
+Recent  Sales  of  unregistered  Securities
+- - -------------------------------------------
+During  the  last  quarter of 1997 428,500 "A" warrants were exercised at $.50
+each,  and  12,500  "B" warrants were exercised at $1.00 each. The exercise of
+these  warrants  resulted  in 441,000 new shares to be issued.  These warrants
+were  exercised by 8 individuals. The warrants were originally issued prior to
+1997  in  privately  negotiated  transactions  exempt  from registration under
+Section  4(2) of the Securities Act of 1933 and/or Regulation D promulgated by
+the  Securities  and  Exchange  Commission.
+
+
+<PAGE>
+- - ------
+
+
+ITEM  6.    MANAGEMENT'S  DISCUSSION  AND  ANALYSIS  OF  FINANCIAL  CONDITION
+- - -----------------------------------------------------------------------------
+
+Notice  Regarding  Forward-Looking  Statements
+- - ----------------------------------------------
+
+This  report  contains  forward-looking  statements.  The words, "anticipate,"
+"believe,"  "expect," "plan," "intend," "estimate," "project," "could," "may,"
+"foresee,"  and  similar  expressions are intended to identify forward-looking
+statements.    These  statements  include  information  regarding  expected
+development  of  the Company's business, lending activities, relationship with
+customers, and development in the oil and gas industry.  Should one or more of
+these  risks  or  uncertainties  occur, or should underlying assumptions prove
+incorrect,  actual  results  may  vary  materially  and  adversely  from those
+anticipated,  believed,  estimated  or  otherwise  indicated.
+
+
+Computer  Uncertainties  for  the  Year  2000
+
+The  Company  is  aware  of the issues associated with the programming code in
+existing  computer  systems  as  the  millennium  (Year  2000)  approaches.
+Accordingly,  as  of  December 31, 1997, the Company has examined the computer
+software  and  hardware  and  is confident it will accommodate the "Year 2000"
+issue.    The  funds  spent  on  this  investigation  were  minimal.
+
+
+General
+
+The  company  in  its  35  year  history has been primarily an exploration and
+production  company.   However, in the last 11 years the Company has also been
+involved  in  exploring  gold  mining  claims  in  Alaska.
+
+
+Natural  Gas  Activities
+
+In  1997  Tri-Valley  Oil  &  Gas  Company,  the  wholly  owned  subsidiary of
+Tri-Valley  Corporation  discovered  two  new large gas pools in the Tracy gas
+field.  Drilling the Pimentel No. 1-15 discovered the new gas pools.  The well
+is  waiting  for  a  pipeline  hook-up.  The Company has been negotiating with
+Pacific  Gas  &  Electric  to  acquire a portion of pipeline that is in place.
+Hook-up  is  expected  in  the  late  spring  of  1998
+
+Two  development wells were drilled and completed in 1997, the Martins-Severin
+No.  6  and  the  Webb Tract No.2.  These new wells added significantly to the
+Company's  cash  flow.
+
+The Company sells a percentage of production on a fixed contract price and the
+remainder  at  the  monthly spot price.  This allows the Company to spread the
+risk  to both pricing scenarios.  Tri-Valley is continuing a capital formation
+program  that  it  began last year.   This will give the Company the liquidity
+and  flexibility  to  take advantage of opportunities for acquisitions as they
+are  discovered.    The  Company  is aggressively looking for such acquisition
+possibilities.
+
+ITEM  6.  MANAGEMENT'S  DISCUSSION  AND  ANALYSIS  OF  FINANCIAL  CONDITION
+(CONTINUED)
+
+Our hydrocarbon reserves were valued by independent engineers at a net present
+value  of  $1,757,195  at  December  31,  1997,  an  increase of $362,494 from
+December  31,  1996  after  taking into account the SEC mandatory 10% discount
+rate  and also taking into consideration the effect of income tax.  This value
+does  not  appear  on  the  balance  sheet  because  accounting  rules require
+discovered  reserves  to  be  carried  on  the  balance  sheet  at the cost of
+obtaining  them rather than the actual future net revenue from producing them.
+Tri-Valley  arranges to be carried in the test wells on prospects.  Therefore,
+it incurs very little cost and very little value of discovered reserves appear
+on the balance sheet despite the fact that reserves are a very important value
+to  the  Company,
+
+Precious  Metals  Activity
+The  Company  implemented  a core and reverse circulation drilling program for
+the  three  most  advanced  targets  on  its  Richardson,  Alaska  lode  gold
+exploration  project  during  the  summer  season of 1997.  The purpose was to
+drill  for  potential resources at the John Mitchell Lode at the Democrat Dike
+and  drill  infer  geologic  resources at the Banner/Buckeye and Buck/Shamrock
+anomalies.    Due  to drill breakdowns, the footage was insufficient to attain
+the  objectives.    The  Company  intends to begin processing a bulk sample of
+100,000  tons  of  its  pre-crushed  ore  in  the  next  few  months.
+
+The  price of gold has fluctuated in the last 12 months from a high of $349.00
+per  oz.  to  a  low  of $278.30 per oz.  However, the Company believes it can
+produce  the  gold  at  a  cost  that  will  still allow a significant profit.
+
+During  1997,  the  Securities  and  Exchange  Commission  staff  reconsidered
+existing accounting practices for mineral expenditures by United States junior
+mining  companies. They now interpret generally accepted accounting policy for
+junior  mining  companies to permit capitalization of acquisition, exploration
+and  development  costs only after persuasive engineering evidence is obtained
+to support recoverability of these costs (ideally upon determination of proven
+and/or  probable  reserves  based  upon dense drilling samples and feasibility
+studies  by  a  recognized  independent  engineer).  Although  the Company has
+performed  drilling  samples  and  additional  tests, management has chosen to
+follow  the more conservative method of accounting by expensing the previously
+capitalized  gold  mineral  costs  as  a  cumulative  effect  of  a  change in
+accounting  principle  in  the  consolidated  statement  of  operations.
+
+Telecommunications
+- - ------------------
+During  1997  Tri-Valley  Corporation  continued its' due diligence to try and
+acquire the assets of five telecommunication partnerships.  In May of 1997 the
+Company loaned the partnership $125,000 dollars, which is secured by property,
+on  a 6 month note which was subsequently extended for an additional period of
+time.    This note is now in default.  While the Company remains interested in
+acquiring these assets, negotiations have been inactive for several months and
+questions  about the value of the assets under consideration have arisen.  The
+Company  cannot  presently estimate the value of these assets or the price, if
+any, at which they could be acquired and has hired an independent appraiser to
+furnish  an  estimate  before  proceeding.
+
+ITEM  6.  MANAGEMENT'S  DISCUSSION  AND  ANALYSIS  OF  FINANCIAL  CONDITION
+(CONTINUED)
+
+Financial  Condition
+The  Company  continued  to  strengthen its financial condition during 1997 in
+part  due  to  the  exercise  of warrants.  Further, the price of gas averaged
+$2.15 per MCF for the year.  New production from the Webb Tract No. 2, and the
+Martins-Severin  No.  6  aided  in  revenue  increase.
+
+As  the Company is usually carried for its interest in test wells, the risk to
+the  company  is  greatly  reduced.
+
+Working  capital as of December 31, 1997 was $889,889 up from $169,219 for the
+year  ending  December  31,  1996.    This  increase  was due in large part to
+additional  paid  in  capital from the exercise of warrants and increased cash
+flow  from  new  gas  production.
+
+RESULTS  OF  OPERATIONS
+Comparison  of  Years  Ended  December  31,  1997  and  1996
+Balance  Sheet
+- - --------------
+The  Company  had  $2,778,592  cash  on hand at December 31, 1997, compared to
+$834,365 as of December 31, 1996.  This was due to advances of $1,845,064 from
+joint  venture  partners  for  their share of a well the Company, as Operator,
+will  drill.    Receivables  at  December  31,  1997  are $696,758 compared to
+$278,110 at December 31, 1996.  This $418,648 increase is due to gas sales the
+Company  had  made  at the end of December 1997.  Of the $696,758 receivables,
+$605,431  is  payable  to  joint interest partners.  On December 31, 1997, the
+Company  held a note receivable of $125,000 for a loan the Company made to the
+telecommunications  partnership  in  May  1997.   This loan is now in default.
+
+Revenues
+Sales  of  oil and gas increased to $753,466 for the period ended December 31,
+1997  from  $533,072  for  the year ended December 31, 1996.  This increase of
+$220,394  was due to the additional production of the Webb Tract No. 2 and the
+Martins-Severin  No.  6.   Other income of $66,167 is from operating overhead.
+This  had  previously been included in Oil and Gas Sales.  Gas prices remained
+favorable  during  this  last  year and the Company anticipates prices holding
+firm.    Interest income increased from $4,221 for the year ended December 31,
+1996  to  $95,886  for  the year ended December 31, 1997.  This was due to the
+Company  depositing  the  increased  cash on hand into higher interest bearing
+accounts.
+
+Costs  and  Expenses
+Costs  and  expenses  were  greater in the year ended December 31, 1997 due to
+increased  lease  operating  expenses  resulting  from the Company's increased
+drilling  activity.    General  administrative  expenses  increased  due  to
+additional staff and the President starting to again take full salary.  He had
+taken  a  reduced  salary  for the comparable period in 1996.  Accounting fees
+were  greater  due  to  the  Company's attempted stock underwriting, which was
+withdrawn  due  to  market  conditions.   Depletion and Depreciation increased
+significantly  due  to  reserve  evaluation  by  the reservoir engineer. Legal
+expenses  were  up  due  to  the  lawsuit.See  Item  3.  Legal  Proceedings.
+
+<PAGE>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                         ITEM 7:  FINANCIAL STATEMENTS
+
+<PAGE>
+
+
+
+
+
+
+     TRI-VALLEY  CORPORATION
+     INDEX
+<TABLE>
+<CAPTION>
+
+
+
+                                                                     Page(s)
+                                                                     -------
+
+<S>                                                                  <C>
+
+
+Report of Brown Armstrong Randall & Reyes,
+  Independent Auditor's Report. . . . . . . . . . . . . . . . . . .       15
+                                                                     -------
+
+Consolidated Balance Sheets at December 31, 1997,
+  December 31, 1996 and July 31, 1996 . . . . . . . . . . . . . . .    16-17
+                                                                     -------
+
+Consolidated Statements of Operations for the Year Ended
+  December 31, 1997, Transition Period Ended December 31, 1996
+  and the Year Ended July 31, 1996. . . . . . . . . . . . . . . . .       18
+                                                                     -------
+
+Consolidated Statements of Shareholders' Equity for the
+  Year Ended December 31, 1997, the Transition Period Ended
+  December 31, 1996 and for the Year Ended July 31, 1996. . . . . .    19-20
+
+
+Consolidated Statements of Cash Flows for the Year Ended
+  December 31, 1997, the Transition Period Ended December 31, 1996
+  and for the Year Ended July 31, 1996. . . . . . . . . . . . . . .    21-22
+                                                                     -------
+
+Notes to Consolidated Financial Statements. . . . . . . . . . . . .    23-43
+                                                                     -------
+
+Supplemental Information about Oil and Gas Producing Activities
+  (Unaudited) . . . . . . . . . . . . . . . . . . . . . . . . . . .       44
+- - -------------------------------------------------------------------  -------
+</TABLE>
+
+
+
+
+                                      16
+
+REPORT  OF  INDEPENDENT  AUDITORS
+
+The  Board  of  Directors
+Tri-Valley  Corporation
+Bakersfield,  California
+
+We  have  audited  the  accompanying consolidated balance sheets of Tri-Valley
+Corporation  as of December 31, 1997, December 31, 1996 and July 31, 1996, and
+the  related  consolidated  statements of operations, changes in shareholders'
+equity  and  cash  flows  for the year ended December 31, 1997, the five month
+transition  period  ended  December  31,  1996 and for the year ended July 31,
+1996.  These  financial  statements  are  the  responsibility of the Company's
+management.    Our  responsibility is to express an opinion on these financial
+statements  based  on  our  audits.
+
+We  conducted  our  audits  in  accordance  with  generally  accepted auditing
+standards.    Those  standards  require that we plan and perform the audits to
+obtain reasonable assurance about whether the financial statements are free of
+material misstatement.  An audit includes examining, on a test basis, evidence
+supporting  the amounts and disclosures in the financial statements.  An audit
+also  includes  assessing  the  accounting  principles  used  and  significant
+estimates  made  by  management,  as  well as evaluating the overall financial
+statement presentation.  We believe that our audits provide a reasonable basis
+for  our  opinion.
+
+In  our  opinion, the financial statements referred to above present fairly in
+all  material  respects,  the  consolidated  financial  position of Tri-Valley
+Corporation  at  December  31, 1997, December 31, 1996 and July 31, 1996,  and
+the  results  of  its  consolidated operations and its cash flows for the year
+ended  December  31, 1997, the five month transition period ended December 31,
+1996,  and  for  the  year  ended  July 31, 1996, in conformity with generally
+accepted  accounting  principles.
+
+As  explained  in Note 1 to the consolidated financial statements, in 1997 the
+Company  changed  its  method  of  accounting for gold mineral exploration and
+development  costs.
+
+     BROWN  ARMSTRONG  RANDALL  &  REYES
+ACCOUNTANCY  CORPORATION
+
+Bakersfield,  California
+March  6,  1998
+                            TRI-VALLEY CORPORATION
+                          CONSOLIDATED BALANCE SHEETS
+
+                                    ASSETS
+
+<TABLE>
+<CAPTION>
+
+
+
+                                                   Transition
+                                                   Year Ended     Period Ended
+                                                  December 31,    December 31,     Year Ended
+                                                      1997            1996        July 31, 1996
+                                                  -------------  --------------  ---------------
+
+<S>                                               <C>            <C>             <C>
+
+
+CURRENT ASSETS
+   Cash. . . . . . . . . . . . . . . . . . . . .  $   2,778,592  $      834,365  $      258,924 
+   Accounts receivable, trade. . . . . . . . . .        696,758         278,110         277,586 
+   Note receivable . . . . . . . . . . . . . . .        125,000   -_______2,029               - 
+                                                  -------------  --------------                 
+   Prepaid expenses. . . . . . . . . . . . . . .          2,029           2,029
+                                                  -------------  --------------                 
+
+      Total Current Assets . . . . . . . . . . .      3,602,379       1,114,504         538,539 
+                                                  -------------  --------------  ---------------
+
+PROPERTY AND EQUIPMENT, NET
+  (Notes 1 and 2)
+                                                        821,614       3,182,860       3,085,825 
+                                                  -------------  --------------  ---------------
+
+OTHER ASSETS
+   Deposits. . . . . . . . . . . . . . . . . . .        100,000          62,000          61,000 
+   Restricted cash - escrow account. . . . . . .              -          60,000               - 
+   Acquisition costs (Note 1). . . . . . . . . .        119,007          29,753               - 
+   Investments in partnerships (Note 1). . . . .          8,421          20,682          (7,152)
+   Well Database (net of accumulated of $1,539
+     At December 31, 1997) . . . . . . . . . . .         93,111               -               - 
+   Goodwill (net of accumulated amortization
+     Of $178,055 at December 31, 1997, $167,209
+     At December 31, 1996, and $162,690 at
+     July 31, 1996 (Note 1). . . . . . . . . . .        255,798         266,644         271,163 
+   Other . . . . . . . . . . . . . . . . . . . .         13,908
+                                                  -------------                                 
+                                                              -               -
+                                                  -------------  --------------                 
+
+      Total Other Assets . . . . . . . . . . . .        590,245         439,079         325,011 
+                                                  -------------  --------------  ---------------
+
+      TOTAL ASSETS . . . . . . . . . . . . . . .  $   5,014,238  $    4,736,443  $    3,949,375 
+- - ------------------------------------------------  =============  ==============  ===============
+</TABLE>
+
+
+
+     The  accompanying  notes  are  an  integral  part  of  these  financial
+statements.
+
+                                      18
+
+                     LIABILITIES AND SHAREHOLDERS' EQUITY
+
+<TABLE>
+<CAPTION>
+
+
+                                                        Transition
+                                                        Year Ended     Period Ended
+                                                       December 31,    December 31,     Year Ended
+                                                           1997            1996        July 31, 1996
+                                                      --------------  --------------  ---------------
+
+<S>                                                   <C>             <C>             <C>
+
+
+CURRENT LIABILITIES
+   Notes and contracts payable (Note 3). . . . . . .  $      90,667   $      11,042   $       77,992 
+   Trade accounts payable. . . . . . . . . . . . . .         74,796          57,566          226,057 
+   Amounts payable to joint venture participants . .        605,431         484,008          505,690 
+   Advances from joint venture participants. . . . .      1,845,064         196,527          483,412 
+   Due to related parties. . . . . . . . . . . . . .         96,532         196,142          204,392 
+   Accrued expenses and other liabilities. . . . . .              -               -          134,908 
+                                                      --------------  --------------  ---------------
+
+      Total Current Liabilities. . . . . . . . . . .      2,712,490         945,285        1,632,451 
+                                                      --------------  --------------  ---------------
+
+LONG-TERM PORTION OF NOTES AND
+  CONTRACTS PAYABLE
+   Notes payable . . . . . . . . . . . . . . . . . .         13,950          37,608           16,757 
+   Convertible notes payable . . . . . . . . . . . .              -               -          900,000 
+                                                      --------------  --------------  ---------------
+
+      Total Long-Term Portion of Notes and
+        Contracts Payable. . . . . . . . . . . . . .         13,950          37,608          916,757 
+                                                      --------------  --------------  ---------------
+
+OTHER LIABILITIES
+   Investor payable. . . . . . . . . . . . . . . . .        103,000         662,680                - 
+                                                      --------------  --------------  ---------------
+
+SHAREHOLDERS' EQUITY
+   Common stock, $.001 par value; 50,000,000 shares
+    authorized; 18,922,248, 14,102,473, and
+    8,027,248 issued and outstanding at
+    December 31, 1997, December 31, 1996 and
+    July 31, 1996, respectively. . . . . . . . . . .         18,922         141,024           80,272 
+   Less: common stock in treasury, at cost,
+    156,925 shares . . . . . . . . . . . . . . . . .        (28,639)        (28,639)         (28,639)
+   Capital in excess of par value. . . . . . . . . .      8,048,331       5,495,726        3,772,753 
+   Accumulated deficit . . . . . . . . . . . . . . .     (5,853,816)     (2,517,241)      (2,424,219)
+                                                      --------------  --------------  ---------------
+
+      Total Shareholders' Equity . . . . . . . . . .      2,184,798       3,090,870        1,400,167 
+                                                      --------------  --------------  ---------------
+
+      TOTAL LIABILITIES AND
+        SHAREHOLDERS' EQUITY . . . . . . . . . . . .  $   5,014,238   $   4,736,443   $    3,949,375 
+- - ----------------------------------------------------  ==============  ==============  ===============
+</TABLE>
+
+
+     TRI-VALLEY  CORPORATION
+     CONSOLIDATED  STATEMENTS  OF  OPERATIONS
+
+<TABLE>
+<CAPTION>
+
+
+
+                                                  Transition
+                                                  Year Ended     Period Ended
+                                                 December 31,    December 31,     Year Ended
+                                                     1997            1996        July 31,1996
+                                                --------------  --------------  --------------
+
+<S>                                             <C>             <C>             <C>
+
+
+REVENUES
+   Sale of oil and gas . . . . . . . . . . . .  $     753,466   $     470,300   $     872,386 
+   Interest income . . . . . . . . . . . . . .         95,886           4,221           6,861 
+   Other income. . . . . . . . . . . . . . . .         66,167               -               - 
+                                                --------------  --------------  --------------
+
+                                                      915,519         474,521         879,247 
+                                                --------------  --------------  --------------
+
+COST AND EXPENSES
+   Leases sold, relinquished and impaired. . .              -               -          27,593 
+   Oil and gas leases. . . . . . . . . . . . .        145,443          82,481         259,673 
+   General and administrative. . . . . . . . .      1,076,565         424,576         764,799 
+   Depreciation, depletion and amortization. .        152,490          23,448          53,453 
+   Interest. . . . . . . . . . . . . . . . . .         15,220          35,438          89,487 
+                                                --------------  --------------  --------------
+
+                                                    1,389,718         565,943       1,195,005 
+                                                --------------  --------------  --------------
+
+LOSS BEFORE INCOME TAXES AND
+  CHANGE IN ACCOUNTING PRINCIPLE . . . . . . .       (474,199)        (91,422)       (315,758)
+
+TAX PROVISION (Note 5) . . . . . . . . . . . .          1,600           1,600           1,600 
+                                                --------------  --------------  --------------
+
+NET LOSS BEFORE CHANGE IN
+  ACCOUNTING PRINCIPLE . . . . . . . . . . . .       (475,799)        (93,022)       (317,358)
+
+CHANGE IN ACCOUNTING PRINCIPLE
+  Cumulative effect of change in gold mineral
+    Exploration and development costs method
+    of accounting (Note 1) . . . . . . . . . .     (2,860,776)              -               - 
+                                                --------------  --------------  --------------
+
+NET LOSS . . . . . . . . . . . . . . . . . . .  $  (3,336,575)  $     (93,022)  $    (317,358)
+                                                ==============  ==============  ==============
+
+NET LOSS PER COMMON SHARE. . . . . . . . . . .  $        (.19)  $        (.01)  $        (.04)
+                                                ==============  ==============  ==============
+
+WEIGHTED AVERAGE NUMBER OF SHARES
+ OUTSTANDING . . . . . . . . . . . . . . . . .     17,261,723      10,191,230       7,452,248 
+- - ----------------------------------------------  ==============  ==============  ==============
+</TABLE>
+
+
+
+     (Continued  on  next  page)
+
+
+                                      19
+
+     TRI-VALLEY  CORPORATION
+     CONSOLIDATED  STATEMENTS  OF  CHANGES  IN  SHAREHOLDERS'  EQUITY
+
+<TABLE>
+<CAPTION>
+
+
+
+                  Capital in
+                   Excess of   Accumulated    Treasury     Preferred     Options    Shareholders'
+                    Shares      Par Value     Par Value     Deficit       Stock         Stock        Outstanding     Equity
+                  -----------  ------------  -----------  ------------  ---------  ---------------  -------------  -----------
+
+<S>               <C>          <C>           <C>          <C>           <C>        <C>              <C>            <C>
+
+
+Balance at
+ July 31, 1995 .   7,337,248   $     73,372  $3,284,653   $(2,106,861)  $(28,639)  $      300,000   $    191,000   $1,713,625 
+                  -----------  ------------  -----------  ------------  ---------  ---------------  -------------  -----------
+
+Issuance of
+ common stock
+ to investors. .     390,000          3,900     191,100             -          -                -       (191,000)       3,900 
+Transfer of
+ preferred stock
+ to common . . .     300,000          3,000     297,000             -          -         (300,000)             -            - 
+Net loss . . . .    (317,358)
+                  -----------                                                                                                 
+                           -              -           -      (317,358)         -                -              - 
+                  -----------  ------------  -----------  ------------  ---------  ---------------  -------------             
+
+Balance at
+ July 31, 1996 .   8,027,248        80,2725   3,772,753    (2,424,219)   (28,639)       1,400,167              -    1,400,167 
+                  -----------  ------------  -----------  ------------  ---------  ---------------  -------------  -----------
+
+Issuance of
+ common stock
+ to investors. .   6,075,225         60,752   2,100,186             -          -                -              -    2,160,938 
+Stock issuance
+ costs . . . . .           -              -    (377,213)            -          -                -              -     (377,213)
+Net loss . . . .           -              -           -       (93,022)         -                -              -      (93,022)
+- - ----------------  -----------  ------------  -----------  ------------  ---------  ---------------  -------------  -----------
+</TABLE>
+
+
+
+
+     The  accompanying  notes  are  an  integral  part  of  these  financial
+statements.
+
+                                      20
+
+     TRI-VALLEY  CORPORATION
+     CONSOLIDATED  STATEMENTS  OF  CHANGES  IN  SHAREHOLDERS'  EQUITY
+
+<TABLE>
+<CAPTION>
+
+
+
+                Capital in
+                Excess of    Accumulated    Treasury     Preferred     Options   Shareholders'
+                  Shares      Par Value     Par Value     Deficit       Stock        Stock        Outstanding      Equity
+                ----------  -------------  -----------  ------------  ---------  --------------  -------------  ------------
+
+<S>             <C>         <C>            <C>          <C>           <C>        <C>             <C>            <C>
+
+
+Balance at
+ December 31,
+ 1996. . . . .  14,102,743       141,024    5,495,726    (2,517,241)   (28,639)               -             -     3,090,870 
+                ----------  -------------  -----------  ------------  ---------  --------------  -------------  ------------
+
+Issuance of
+ common stock
+ to investors.   4,819,505        48,198    2,890,867             -          -                -             -     2,939,065 
+Stock issuance
+ costs . . . .           -             -     (508,562)            -          -                -      (508,562)
+Change due to
+  decrease in
+  par value. .           -      (170,300)     170,300             -          -                -             -             - 
+Net loss . . .           -             -            -    (3,336,575)         -                -             -    (3,336,575)
+                ----------  -------------  -----------  ------------  ---------  --------------  -------------  ------------
+
+
+Balance at
+ December 31,
+ 1997. . . . .  18,922,248  $     18,922   $8,048,331   $(5,853,816)  $(28,639)  $            -  $          -   $ 2,184,798 
+- - --------------  ==========  =============  ===========  ============  =========  ==============  =============  ============
+</TABLE>
+
+
+
+     (Continued  on  next  page)
+
+
+                                      21
+
+     TRI-VALLEY  CORPORATION
+     CONSOLIDATED  STATEMENTS  OF  CASH  FLOWS
+<TABLE>
+<CAPTION>
+
+
+
+                                                            Transition
+                                                            Year Ended     Period Ended
+                                                           December 31,    December 31,     Year Ended
+                                                               1997            1996        July 31, 1996
+                                                          --------------  --------------  ---------------
+
+<S>                                                       <C>             <C>             <C>
+
+
+CASH FLOWS FROM OPERATING ACTIVITIES
+    Net loss . . . . . . . . . . . . . . . . . . . . . .  $  (3,336,575)  $     (93,022)  $     (317,358)
+    Adjustments to reconcile net loss to net cash
+      used by operating activities:
+        Depreciation, depletion and amortization
+        Stock issued for services rendered . . . . . . .        152,490          23,448           53,453 
+        Impairment, dry hole and other disposals of. . .        133,000         147,938                - 
+          property and equipment
+        Changes in operating capital:. . . . . . . . . .      2,860,776               -           27,593 
+        (Increase) decrease in accounts receivable
+        (Increase) decrease in prepaid expenses. . . . .       (418,648)           (524)          17,784 
+        (Increase) decrease in deposits. . . . . . . . .              -               -            8,812 
+        Increase (decrease) in trade accounts payable. .        (38,000)         (1,000)          39,241 
+        Increase (decrease) in amounts payable to. . . .         17,231        (168,491)         100,687 
+          joint venture participants and related parties
+        Increase (decrease) in advances from joint . . .         21,813         (29,932)          86,521 
+          venture participants
+        Increase (decrease) in accrued expenses and. . .      1,648,537        (286,885)        (144,399)
+          other liabilities
+Net Cash (Used) Generated by Operating Activities. . . .              -        (120,845)          27,593 
+                                                          --------------  --------------  ---------------
+                                                              1,040,624        (529,313)        (135,408)
+                                                          --------------  --------------  ---------------
+
+CASH FLOWS FROM INVESTING ACTIVITIES
+    Note receivable. . . . . . . . . . . . . . . . . . .       (125,000)              -                - 
+    Capital expenditures . . . . . . . . . . . . . . . .       (824,944)       (145,718)        (240,955)
+    Investment in partnerships . . . . . . . . . . . . .         12,257         (27,834)               - 
+                                                          --------------  --------------  ---------------
+Net Cash Used by Investing Activities. . . . . . . . . .       (937,687)       (173,552)        (240,955)
+                                                          --------------  --------------  ---------------
+
+CASH FLOWS FROM FINANCING ACTIVITIES
+    Restricted cash - escrow account . . . . . . . . . .         60,000         (60,000)               - 
+    Proceeds from issuance of debt . . . . . . . . . . .              -               -        1,038,000 
+    Principal payments on long-term debt . . . . . . . .        (55,476)       (946,099)        (635,317)
+    Proceeds from issuance of common stock . . . . . . .         48,185          58,122            3,900 
+    Investor payable . . . . . . . . . . . . . . . . . .        103,000         662,680                - 
+    Additional paid in capital . . . . . . . . . . . . .      2,060,700       1,806,941                - 
+    Stock issuance costs . . . . . . . . . . . . . . . .       (375,119)       (243,338)               - 
+                                                          --------------  --------------  ---------------
+Net Cash Provided by Financing Activities. . . . . . . .      1,841,290       1,278,306          406,583 
+                                                          --------------  --------------  ---------------
+
+NET INCREASE IN CASH AND  CASH
+  EQUIVALENTS. . . . . . . . . . . . . . . . . . . . . .      1,944,227         575,441           30,220 
+CASH AT BEGINNING OF YEAR. . . . . . . . . . . . . . . .        834,365         258,924          228,704 
+                                                          --------------  --------------  ---------------
+
+CASH AT END OF YEAR. . . . . . . . . . . . . . . . . . .  $   2,778,592   $     834,365   $      258,924 
+- - --------------------------------------------------------  ==============  ==============  ===============
+</TABLE>
+
+
+
+
+     The  accompanying  notes  are  an  integral  part  of  these  financial
+statements.
+                                      22
+
+
+
+     TRI-VALLEY  CORPORATION
+     CONSOLIDATED  STATEMENTS  OF  CASH  FLOWS
+
+
+<TABLE>
+<CAPTION>
+
+
+
+                                                       Transition
+                                                       Year Ended    Period Ended
+                                                      December 31,   December 31,     Year Ended
+                                                          1997           1996       July 31, 1996
+                                                      -------------  -------------  --------------
+
+<S>                                                   <C>            <C>            <C>
+
+
+SUPPLEMENTAL DISCLOSURES OF CASH
+  FLOW INFORMATION:
+
+    Interest paid. . . . . . . . . . . . . . . . . .  $      15,220  $      35,438  $       85,487
+                                                      =============  =============  ==============
+
+    Income taxes paid. . . . . . . . . . . . . . . .  $       1,600  $       1,600  $        1,600
+                                                      =============  =============  ==============
+
+NONCASH FINANCING AND INVESTING
+  ACTIVITIES:
+
+    Issuance of common stock for services rendered .  $     133,000  $     147,938  $            -
+    Issuance of debt to satisfy stock issuance cost.        133,443              -               -
+    Issuance of common stock for well database . . .         12,500              -               -
+    Conversion of debt to common stock . . . . . . .         22,000              -               -
+    Conversion of investor payable to common stock .        662,680              -               -
+    Increase in paid in capital due to change in par
+      value of common stock. . . . . . . . . . . . .        170,300              -               -
+- - ----------------------------------------------------  -------------  -------------  --------------
+</TABLE>
+
+
+
+
+                                      48
+
+     TRI-VALLEY  CORPORATION
+     NOTES  TO  FINANCIAL  STATEMENTS
+     DECEMBER  31,  1997,  DECEMBER  31,  1996  AND  JULY  31,  1996
+
+
+NOTE  1  -  SUMMARY  OF  SIGNIFICANT  ACCOUNTING  POLICIES
+            ----------------------------------------------
+
+This  summary  of significant accounting policies of Tri-Valley Corporation is
+presented  to  assist in understanding the Company's financial statements. The
+financial  statements  and  notes  are  representations  of  the  Company's
+management,  which  is responsible for their integrity and objectivity.  These
+accounting  policies  conform  to generally accepted accounting principles and
+have been consistently applied in the preparation of the financial statements.
+
+Business  Combinations
+- - ----------------------
+
+The  information  contained in the financial statements and accompanying notes
+is  that  of  Tri-Valley  Corporation  with  which  the  subsidiary  company
+(Tri-Valley  Oil  &  Gas  Co.)  has  been  consolidated.
+
+Use  of  Estimates  in  the  Preparation  of  Financial  Statements
+- - -------------------------------------------------------------------
+
+The  preparation of financial statements in conformity with generally accepted
+accounting  principles  requires  management to make estimates and assumptions
+that affect the reported amounts of assets, liabilities and disclosures at the
+date  of  the financial statements as well as the reported amounts of revenues
+and  expenses  during  the  reporting period. Actual results could differ from
+those  estimates.
+
+Material  estimates  that  are  particularly susceptible to significant change
+relate  to  the  determination of the depreciation, depletion and amortization
+account  balance.  Depreciation,  depletion  and  amortization  is  based upon
+probable  and  proven  reserves for mining and proven reserves for oil and gas
+properties.  Depletion  will be provided on mining properties when they become
+commercial.
+NOTE  1  -  SUMMARY  OF  SIGNIFICANT  ACCOUNTING  POLICIES  (Continued)
+            ----------------------------------------------
+
+Fiscal  Year  Change
+- - --------------------
+
+Effective March 10, 1997, the Company changed its fiscal year-end from July 31
+to  December  31.   Accordingly, the consolidated financial statements include
+the results of operations for the transition period, which are not necessarily
+indicative  of  operations  for  a  full  year.
+
+Results  for  the  comparable  prior  transition  period are summarized below.
+<TABLE>
+<CAPTION>
+
+
+
+                               Twelve Months         Five Months
+                                   Ended                Ended
+                             December 31, 1996    December 31, 1995
+                                 Unaudited            Unaudited
+                            -------------------  -------------------
+
+<S>                         <C>                  <C>
+
+Revenues . . . . . . . . .  $          544,249   $          262,666 
+Operating loss . . . . . .            (196,040)             (48,117)
+Provision for income taxes              (1,600)              (1,600)
+Net Loss . . . . . . . . .             197,640              (49,717)
+
+Net Loss Per Common Share.                (.01)                (.01)
+</TABLE>
+
+
+Chapter  11  Reorganization
+- - ---------------------------
+
+On  January  30,  1996,  Tri-Valley  Corporation  ("TVC") and its wholly owned
+subsidiary,  Tri-Valley  Oil  & Gas Co. ("TVOG"), filed voluntary petitions in
+the  United  States  Bankruptcy Court (the "Bankruptcy Court") for the Eastern
+District  of  California sitting in Fresno seeking to reorganize under Chapter
+11  of  the  Federal  Bankruptcy  Code.
+
+During  the  process  of  developing a Plan, management was able to infuse the
+Company  with  capital  from  new  investors  and  increased  production.  The
+Company,  citing  the  influx  of capital, filed a motion to be dismissed from
+bankruptcy.    On November 1, 1996, the court granted the motion and dismissed
+the  case.  These financial statements, however, do not reflect any adjustment
+or  disclosure  since  no  plan  of  reorganization  was actually filed and/or
+confirmed  by  the  Bankruptcy  Court,  and  all  major obligations which were
+subject  to  compromise  were  paid  100  cents  on  the  dollar.
+NOTE  1  -  SUMMARY  OF  SIGNIFICANT  ACCOUNTING  POLICIES  (Continued)
+            ----------------------------------------------
+
+History  and  Business  Activity
+- - --------------------------------
+
+Historically  an  oil  and gas exploration and production company, emphasizing
+the  Sacramento Valley natural gas province, the Company added precious metals
+exploration  in  fiscal  1987.   The Company conducts its oil and gas business
+primarily  through  its  34  year  old  wholly  owned  oil and gas subsidiary,
+Tri-Valley  Oil  &  Gas  Company ("TVOG"). TVOG is engaged in the exploration,
+acquisition  and  production  of  oil  and  gas  properties.   At present, the
+precious  metals  exploration activities are conducted directly by the parent,
+Tri-Valley  Corporation  ("TVC").  TVC has traditionally sought acquisition or
+merger  opportunities  within and outside of petroleum and mineral industries.
+
+Basis  of  Accounting
+- - ---------------------
+
+The  Company  prepares  its  financial  statements  using the accrual basis of
+accounting  in  conformity  with  generally  accepted  accounting  principles
+consistently  applied.    Oil and gas and mining activities are recorded using
+the  successful  efforts  method  of  accounting.    See  discussion  below.
+
+Substantially  all  of  the  Company's exploration, development and production
+activities  are  conducted in the form of joint venture agreements with others
+and,  accordingly,  the  financial  statements  reflect  only  the  Company's
+proportionate  interest  in  these  joint  ventures.
+
+Cash  Equivalent  and  Short-Term  Investments
+- - ----------------------------------------------
+
+Cash  equivalents  consist  of  highly  liquid  debt  instruments  such  as
+certificates of deposit, commercial paper, and money market accounts purchased
+with  an  original  maturity  date  of  three  months  or  less.
+
+NOTE  1  -  SUMMARY  OF  SIGNIFICANT  ACCOUNTING  POLICIES  (Continued)
+            ----------------------------------------------
+
+Goodwill
+- - --------
+
+The  consolidated  financial  statements  include  the net assets purchased of
+Tri-Valley  Corporation's  wholly  owned subsidiary. Net assets are carried at
+their  fair  market  value  at the acquisition date. The excess of acquisition
+costs  over  the  fair  value  of  assets acquired is included in and has been
+allocated  to  goodwill.  Goodwill  of  $433,853  is  being  amortized  on  a
+straight-line  basis  over  40  years.  The  carrying  amount  of  goodwill is
+evaluated  periodically.  Factors  used  in the evaluation include anticipated
+cash  flows  from  operating  and  non-operating  mineral  properties,  as the
+goodwill  originally  attached  to  extractive industry properties. Tri-Valley
+Corporation  has  not  established an allowance for the impairment of goodwill
+which  may  be  realized should the Company be acquired or merged with another
+organization.
+
+Acquisition  Costs
+- - ------------------
+
+The  Company  is preparing to propose acquisition of 26 wireless communication
+licenses  held  by  five partnerships by exchanging TVC unregistered stock for
+the licenses. The costs associated with the potential license acquisitions are
+currently  being capitalized. In the event the acquisition is not consummated,
+these  costs  will  be  charged  to  operations.
+
+Drilling  Agreements/Joint  Ventures
+- - ------------------------------------
+
+Tri-Valley  frequently  participates in drilling agreements whereby it acts as
+operator  of  drilling  and  producing  activities.    As  operator,  TVOG  is
+contingently  liable for the activities of these ventures.  The Company owns a
+carried  interest and/or overriding royalty interest in such ventures, earning
+a  working  interest  at  payout.
+
+Receivables  from  and  amounts  payable  to these related parties (as well as
+other  related  parties)  have  been  segregated in the accompanying financial
+statements.  Transactions with these parties are within the ordinary course of
+business.
+
+Oil  and  Gas  Property  and  Equipment  (Successful  Efforts)
+- - --------------------------------------------------------------
+
+The  Company accounts for its oil and gas exploration and development costs on
+the  successful  efforts  method.  Under this method, costs to acquire mineral
+interests  in  oil and gas properties, to drill and complete exploratory wells
+that  find  proved  reserves  and  to drill and complete development wells are
+capitalized.  Exploratory dry-hole costs, geological and geophysical costs and
+costs  of  carrying  and  retaining  unproved  properties  are  expensed  when
+incurred.  Depletion,  depreciation  and amortization of oil and gas producing
+properties  are  computed  on an aggregate basis using the units-of-production
+method.
+NOTE  1  -  SUMMARY  OF  SIGNIFICANT  ACCOUNTING  POLICIES  (Continued)
+            ----------------------------------------------
+
+Oil  and  Gas  Property  and  Equipment  (Successful  Efforts)  (Continued)
+- - --------------------------------------------------------------
+
+In  March  1995,  the  Financial  Accounting  Standards  Board  (FASB)  issued
+Statement  of  Financial  Accounting Standards (SFAS) No. 121, "Accounting for
+the  Impairment  of  Long-Lived Assets and/or Long-Lived Assets to be Disposed
+of." This statement requires that long-lived assets be reviewed for impairment
+whenever  events or changes in circumstances indicate that the carrying amount
+of  an asset may not be recoverable. It establishes guidelines for determining
+recoverability  based  on  future net cash flows from the use of the asset and
+for the measurement of the impairment loss. Impairment loss under SFAS No. 121
+is  calculated  as the difference between the carrying amount of the asset and
+its fair value. Any impairment loss is recorded in the current period in which
+the  recognition  criteria  are  first  applied  and met. Under the successful
+efforts  method  of  accounting  for  oil  and  gas  operations,  the  Company
+periodically  assessed  its proved properties for impairments by comparing the
+aggregate  net  book  carrying  amount  of  all  proved  properties with their
+aggregate  future  net  cash  flows.  The  new  statement  requires  that  the
+impairment  review  be  performed  on  the lowest level of asset groupings for
+which  there  are  identifiable  cash  flows. In the case of the Company, this
+results  in  a  property  by  property  impairment  review.
+
+The Company adopted SFAS No. 121 in the first quarter of 1996. Impairment loss
+on  the  oil  and  gas  properties is calculated as the difference between the
+asset  book  carrying amounts and future discounted net cash flow projections,
+giving  consideration  to  recent prices, pricing trends and estimated reserve
+quantities.  These  projections  represent the Company's best estimate of fair
+value  based  on  the  information  available.
+
+Upon  the  sale  of  oil  and  gas  reserves  in place, costs less accumulated
+amortization of such property are removed from the accounts and resulting gain
+or  loss  on sale is reflected in operations.  Upon abandonment of properties,
+the  reserves are deemed fully depleted and any unamortized costs are recorded
+in  the  statement of operations under leases sold, relinquished and impaired.
+
+Gold  Mineral  Property
+- - -----------------------
+
+In  prior  years,  all  costs  related  to  mineral  properties  with economic
+development  potential,  including  mineral  claim  acquisition  costs  and
+exploration  and  development  expenditures  were  deferred  until the related
+mineral  claims achieved commercial production.  At such time, the costs would
+be  amortized  against  income  from future mining operations.  All grassroots
+exploration  costs,  which  are  costs  incurred while probing for prospective
+developmental  sites,  are  charged  to  expense  as  incurred.
+NOTE  1  -  SUMMARY  OF  SIGNIFICANT  ACCOUNTING  POLICIES  (Continued)
+            ----------------------------------------------
+
+Gold  Mineral  Property  (Continued)
+- - -----------------------
+
+During  1997,  the  Securities  and  Exchange  Commission  staff  reconsidered
+existing accounting practices for mineral expenditures by United States junior
+mining  companies. They now interpret generally accepted accounting policy for
+junior  mining  companies to permit capitalization of acquisition, exploration
+and  development  costs only after persuasive engineering evidence is obtained
+to support recoverability of these costs (ideally upon determination of proven
+and/or  probable  reserves  based  upon dense drilling samples and feasibility
+studies  by  a  recognized  independent  engineer).  Although  the Company has
+performed  drilling  samples,  and an independent engineer has deemed the gold
+properties  contain  profitable  reserves in excess of property costs incurred
+through  December  31,  1997,  management  has  chosen  to  follow  the  more
+conservative method of accounting by expensing the previously capitalized gold
+mineral  costs  as  a cumulative effect of a change in accounting principle in
+the  consolidated  statement  of  operations.
+
+Capitalization  of  Interest
+- - ----------------------------
+
+Interest  cost  is  capitalized on construction and development programs until
+placed  into  operation.
+
+Properties  and  Equipment
+- - --------------------------
+Properties  and  equipment are depreciated using the straight-line method over
+the  following  estimated  useful  lives:
+
+
+                                 Office furniture and fixtures     3 - 7 years
+                                                         Building     40 years
+                                                         --------     --------
+
+
+Leasehold  improvements  are  amortized  over the life of the lease (3 years).
+
+Maintenance  and  repairs,  which  neither  materially add to the value of the
+property nor appreciably prolong its life, are charged to expense as incurred.
+Gains  or  losses on dispositions of property and equipment other than oil and
+gas  are  reflected  in  operations.
+
+Concentration  of  Credit  Risk
+- - -------------------------------
+The  Company  sells  oil,  gas  and natural gas liquids to various oil and gas
+purchasers  primarily  in  the northern California region.  Credit is extended
+based  on  an  evaluation of the customer's financial condition, and generally
+collateral  is  not required.  Transactions with major customers are discussed
+in  detail  in  Note  6.
+
+The  Company  places  its  temporary cash investments with high credit quality
+financial  institutions  and  limits  the amount of credit exposure to any one
+financial  institution.
+NOTE  1  -  SUMMARY  OF  SIGNIFICANT  ACCOUNTING  POLICIES  (Continued)
+            ----------------------------------------------
+Net  Income  (Loss)  Per  Common  Share
+- - ---------------------------------------
+The  calculation  of net income/loss per common share is based on the weighted
+average  number  of  common  stock  shares outstanding during each period. The
+effect  of convertible preferred stock and warrants on the net income/loss per
+share  ratio  is  considered  anti-dilutive  and  was  not  included  in  the
+computation  of  earnings  per  common  share  for any of the years or periods
+presented.
+
+Reclassification
+- - ----------------
+Certain  amounts  in  the  financial  statements  have been reclassified to be
+consistent  and  comparable  from  year-to-year.
+
+Accounting  Pronouncements
+- - --------------------------
+In  June 1997, the Financial Accounting Standards Board (FASB) issued SFAS No.
+130,  "Reporting  Comprehensive  Income." This statement establishes standards
+for  reporting  and  display of comprehensive income and its components in the
+Company's  financial  statements. Comprehensive income includes all changes in
+the  Company's  equity  except  investments by and distributions to owners and
+includes,  among  other  things,  foreign currency translation adjustments. In
+June  1997,  the FASB also issued SFAS No. 131, "Disclosures about Segments of
+an  Enterprise  and Related Information." This statement establishes standards
+for  reporting  information  about  operating  segments  in  annual  financial
+statements  and  requires  selected  information  about  operating segments be
+included  in interim reports issued to shareholders. Both these statements are
+effective  for  financial  statements for periods beginning after December 15,
+1997.  As  both  SFAS  Nos.  130 and 131 establish standards for reporting and
+display,  the Company does not expect the adoption of these statements to have
+a  material  impact  on  its  financial  condition  or  results of operations.
+
+
+NOTE  2  -  PROPERTY  AND  EQUIPMENT
+            ------------------------
+Oil  and  gas properties, and equipment and fixtures consist of the following:
+<TABLE>
+<CAPTION>
+
+
+
+                                           December 31,   December 31,
+                                               1997           1996       July 31, 1996
+                                           -------------  -------------  --------------
+
+<S>                                        <C>            <C>            <C>
+
+
+Oil and Gas - California
+- - -----------------------------------------                                              
+
+Proved properties, net of accumulated
+  depletion of $378,899 at December 31,
+  1997, $250,396 at December 31, 1996 and
+  $233,259 at July 31, 1996 . . . . . . .  $     332,914  $     259,709  $      276,846
+Unproved properties . . . . . . . . . . .        399,818        483,287         695,861
+                                           -------------  -------------  --------------
+
+      Total Oil and Gas Properties. . . .  $     732,732  $     742,996  $      972,707
+- - -----------------------------------------  =============  =============  ==============
+</TABLE>
+
+
+NOTE  2  -  PROPERTY  AND  EQUIPMENT  (Continued)
+            ------------------------
+<TABLE>
+<CAPTION>
+
+
+
+                                                December 31,   December 31,
+                                                    1997           1996       July 31, 1996
+                                                -------------  -------------  --------------
+
+<S>                                             <C>            <C>            <C>
+
+
+Other Property and Equipment
+- - ----------------------------------------------                                              
+    Mining prospects . . . . . . . . . . . . .              -      2,376,005       2,057,732
+    Land . . . . . . . . . . . . . . . . . . .         11,281         11,281          11,281
+    Building net of accumulated depreciation
+      $611,045 at December 31, 1997, $4,982
+      at December 31, 1996 and $4,512 at
+      July 31, 1996. . . . . . . . . . . . . .         39,014         40,142          40,612
+    Office equipment, vehicle, and leasehold
+      improvements net of accumulated
+      depreciation of $97,998 at December 31,
+      1997, $87,524 at December 31, 1996 and
+      $86,203 at July 31, 1996 . . . . . . . .         38,587         12,436           3,493
+                                                -------------  -------------  --------------
+
+        Total Other Property and Equipment . .         88,882      2,530,057       2,113,118
+                                                -------------  -------------  --------------
+
+Property and Equipment (Net) . . . . . . . . .  $     821,614  $   3,182,860  $    3,085,825
+- - ----------------------------------------------  =============  =============  ==============
+</TABLE>
+
+
+
+NOTE  3  -  NOTES  AND  CONTRACTS  PAYABLE
+            ------------------------------
+
+Long-term  debt  is  summarized  below:
+<TABLE>
+<CAPTION>
+
+
+
+                                               December 31,   December 31,
+                                                   1997           1996       July 31, 1996
+                                               -------------  -------------  --------------
+
+<S>                                            <C>            <C>            <C>
+
+
+Note payable to National Bank of Alaska
+  dated August 27, 1992; secured by
+  property; payable in monthly
+  installments of $539 including interest.
+  Interest rate at 12.00%, December 31, 1997,
+  December 31, 1996, and July 31, 1996. . . .  $      18,092  $      22,076  $       23,225
+                                               -------------  -------------  --------------
+
+Note payable to Bandera Land Company
+  dated December 4, 1992; unsecured;
+  interest at 10.00%, December 31, 1997,
+  December 31, 1996, and July 31, 1996;
+  interest only payable on outstanding
+  balance.. . . . . . . . . . . . . . . . . .              -              -          17,950
+- - ---------------------------------------------  -------------  -------------  --------------
+</TABLE>
+
+
+NOTE  3  -  NOTES  AND  CONTRACTS  PAYABLE  (Continued)
+            ------------------------------
+<TABLE>
+<CAPTION>
+
+
+
+                                                  December 31,  December 31,
+                                                      1997          1996      July 31, 1996
+                                                  ------------  ------------  -------------    
+
+<S>                                               <C>           <C>           <C>            <C>
+
+
+Note payable to Edgar Moss dated -
+  February 1, 1994; unsecured; no
+  stated interest. . . . . . . . . . . . . . . .             -             -         11,000
+                                                  ------------  ------------  -------------       
+
+Note payable to Edgar Moss dated
+  February 22, 1995; unsecured; interest
+  at 7.20%, monthly interest payable with
+  principal balance due August 22, 1995. . . . .             -             -         16,000
+                                                  ------------  ------------  -------------       
+
+Note payable to Laurence B. Flood dated
+  September 16, 1995; unsecured; interest
+  at 10.00%, monthly interest payable
+  in cash or Tri-Valley Corporation
+  unregistered common stock at $.30 per
+  share, principal balance due September 16,
+                                                         1999.             -          7,000  7,000
+                                                                ------------  -------------  -----
+
+Note payable to Laurence B. Flood dated
+  July 19, 1995; unsecured; interest at 10.00%,
+  monthly interest payable in cash or Tri-
+  Valley Corporation unregistered common
+  stock at $.30 per share, principal balance
+  due July 19, 1999.
+                                                             -        15,000         15,000
+                                                  ------------  ------------  -------------       
+
+Note payable to Imperial Premium Finance,
+  Inc., dated June 9, 1997; secured by
+  contractual policy; interest at 12.00%;
+  payable in monthly installments of
+  $680 including interest. . . . . . . . . . . .         4,574         4,574          4,574
+                                                  ------------  ------------  -------------       
+
+Note payable to Mayal Inwald, dated
+  May 4, 1996; unsecured; interest at
+  10.00%; interest only on outstanding
+  balance with principal due May 4,
+  1998. Convertible to common stock.(*). . . . .             -             -        150,000
+                                                  ------------  ------------  -------------       
+
+Note payable to Behrooz Sarafraz, dated
+  July 19, 1996; secured by property;
+  convertible to common stock, interest
+  at 10.00%; monthly interest payable
+  with principal due July 19, 1998.(*) . . . . .             -             -        750,000
+- - ------------------------------------------------  ------------  ------------  -------------       
+</TABLE>
+
+
+NOTE  3  -  NOTES  AND  CONTRACTS  PAYABLE  (Continued)
+            ------------------------------
+<TABLE>
+<CAPTION>
+
+
+
+                                                December 31,   December 31,
+                                                    1997           1996       July 31, 1996
+                                                -------------  -------------  --------------
+
+<S>                                             <C>            <C>            <C>
+
+
+Note payable to principle shareholder, dated
+  June 28, 1997; unsecured; interest at 8.00%;
+  payable in monthly installments of $4,354,
+  including interest.. . . . . . . . . . . . .         33,811              -               -
+                                                -------------  -------------  --------------
+
+Note payable to principle shareholder, dated
+  June 28, 1997; unsecured; interest at 8.00%;
+  payable in monthly installments of $771,
+  including interest.. . . . . . . . . . . . .          6,712              -               -
+                                                -------------  -------------  --------------
+
+Note payable to principle shareholder, dated
+  June 28, 1997; unsecured; interest at 8.00%;
+  payable in monthly installments of $542,
+  including interest.. . . . . . . . . . . . .          4,716              -               -
+                                                -------------  -------------  --------------
+
+Note payable to principle shareholder, dated
+  June 28, 1997; unsecured; interest at 8.00%;
+  payable in monthly installments of $2,167,
+  including interest.. . . . . . . . . . . . .         20,893              -               -
+                                                -------------  -------------  --------------
+
+Note payable to principle shareholder, dated
+  June 28, 1997; unsecured; interest at 8.00%;
+  payable in monthly installments of $1,496,
+  including interest.. . . . . . . . . . . . .         15,819              -               -
+                                                -------------  -------------  --------------
+
+                                                      104,617         48,650         994,749
+Less current portion . . . . . . . . . . . . .         90,667         11,042          77,992
+                                                -------------  -------------  --------------
+
+Long-Term Portion of Notes and Contracts
+  Payable. . . . . . . . . . . . . . . . . . .  $      13,950  $      37,608  $      916,757
+- - ----------------------------------------------  =============  =============  ==============
+</TABLE>
+
+
+(*)         During the transition period, these notes were converted to common
+stock  in  accordance  with  the  terms  of the original agreements (Note 10).
+NOTE  3  -  NOTES  AND  CONTRACTS  PAYABLE  (Continued)
+            ------------------------------
+
+Maturities  of  long-term debt for the five years succeeding December 31, 1997
+are  as  follows:
+<TABLE>
+<CAPTION>
+
+
+
+<S>            <C>
+
+
+December 31,
+- - -------------         
+
+1998. . . . .  $90,667
+1999. . . . .    5,067
+2000. . . . .    5,709
+2001. . . . .    3,174
+Thereafter. .        -
+               -------
+
+104,617
+=============         
+</TABLE>
+
+
+
+NOTE  4  -  RELATED  PARTY  TRANSACTIONS
+            ----------------------------
+
+The following is known to the Company to be the only beneficial owner of 5% or
+more  of  the  Company's  outstanding  common  stock  at  December  31,  1997:
+
+
+
+                          Ownership Shares     Percentage
+                          ----------------     ----------
+
+                     Dennis Vaughan     967,200     5.11%
+                     --------------     -------     -----
+
+
+
+Tri-Valley  is  a  general  partner  and  operator of the Tri-Valley Oil & Gas
+exploration  Programs  1971-1 and Martins-Severin Partnerships. Income derived
+from  these  activities  follows:
+<TABLE>
+<CAPTION>
+
+
+
+                                      Transition
+                                      Year Ended    Period Ended
+                                     December 31,   December 31,     Year Ended
+                                         1997           1996       July 31, 1996
+                                     -------------  -------------  --------------
+
+<S>                                  <C>            <C>            <C>
+
+
+Partnership income, net of expenses  $     255,192  $      89,742  $      286,500
+- - -----------------------------------  =============  =============  ==============
+</TABLE>
+
+
+On  December  4, 1992, the Company entered into an agreement to borrow $15,000
+from Bandera Land Company which is owned by F. Lynn Blystone and other members
+of  the  Blystone  Family.  Interest  at  10.0%  is payable on the outstanding
+balance with no stated due date. The balance outstanding at December 31, 1997,
+December  31,  1996,  and  July 31, 1996 was $0, $0 and $17,950, respectively.
+NOTE  4  -  RELATED  PARTY  TRANSACTIONS  (Continued)
+            ----------------------------
+
+On  September  16, 1995 and July 19, 1995, the Company entered into agreements
+to  borrow  $9,000  and  $15,000,  respectively,  from  Laurence  B.  Flood, a
+shareholder  of  the  Company.  Interest at 10% is payable every two months in
+cash  or Tri-Valley Corporation unregistered common stock at $.30 per share at
+the  sole discretion of the Company. The notes were due to mature on September
+16  and July 19, 1999, respectively. Other terms of the agreements involve the
+following:
+
+  -         Principal amount convertible into TVC unregistered common stock at
+$.25  per  share  at  any  time.
+
+  -      Options on 7,000 and 15,000 shares of TVC unregistered shares at $.50
+per  share  exercisable  through September 16 and July 19, 1999, respectively.
+
+  -          TVC may force exercise of said options if the market quotes a bid
+price  of  $1.00  per  share or higher for at least twenty consecutive trading
+days.
+
+On  August 21, 1997, these notes were paid in full with the issuance of 88,000
+shares  of  unregistered,  restricted  common  stock  at  $.25  per  share.
+
+Due to related parties of $96,532, $196,142 and $204,392 at December 31, 1997,
+December  31, 1996 and July 31, 1996, respectively, consist of payroll payable
+to  F.  Lynn  Blystone.
+
+On  March  22,  1997, the directors voted to award themselves 10,000 shares of
+stock  each  in  lieu  of  services  rendered to the Company.  The shares were
+awarded  at  a  price  of $1.86 per share. Due to the restricted nature of the
+shares,  the Company has recognized the commitment in the financial statements
+at  a  discount  ($1.12  per  share).
+
+On  August  8,  1997, as provided for in his employment contract, the board of
+directors  awarded  F. Lynn Blystone, CEO and President of the Company, 40,000
+shares  of unregistered, restricted common stock for compensation for services
+rendered  to  the  Company.  The  shares were awarded at a price of $1.375 per
+share  (trading  value  at the date of the transaction) and were appropriately
+discounted  to  $.55  per  share  due  to  their  restricted  nature.
+
+On  June  28,  1997,  the  Company  recorded five notes payable to a principle
+shareholder  of  Tri-Valley  Corporation  common  stock  for services rendered
+related  to  the issuance of stock. At December 31, 1997, the aggregate amount
+of the notes payable was $81,951 (see Note 3). The principle balances totaling
+$133,400,  were  recorded  as  stock  issuance  costs which are a component of
+shareholder's  equity.
+
+During  fiscal  year  1997,  the  Company  paid  a  principle  shareholder  of
+Tri-Valley  Corporation  $322,000  for  finder fees related to the issuance of
+stock.  These  transactions  are  recorded as stock issuance costs which are a
+component  of  shareholder's  equity.
+NOTE  5  -  INCOME  TAXES
+            -------------
+
+At  December  31,  1997,  the  Company  had  available  net  operating  loss
+carryforwards  for  financial  statements  and  federal income tax purposes of
+approximately  $6,200,000. These loss carryforwards are between 1998 and 2012.
+
+The  components  of  the  net  deferred  tax  assets  were  as  follows:
+<TABLE>
+<CAPTION>
+
+
+
+                                     December 31,    December 31,
+                                         1997            1996        July 31, 1996
+                                    --------------  --------------  ---------------
+
+<S>                                 <C>             <C>             <C>
+
+
+Deferred Tax Assets:
+  Net operating loss carryforwards  $     765,000   $     782,000   $      629,000 
+  Satutory depletion carryforwards        775,000         660,000          620,000 
+                                    --------------  --------------  ---------------
+
+Total Deferred Tax Assets. . . . .      1,540,000       1,442,000        1,249,000 
+                                    --------------  --------------  ---------------
+
+Valuation Allowance. . . . . . . .     (1,540,000)     (1,442,000)      (1,249,000)
+                                    --------------  --------------  ---------------
+
+Net Deferred Tax Assets. . . . . .  $           -   $           -   $            - 
+- - ----------------------------------  ==============  ==============  ===============
+</TABLE>
+
+
+A  full  valuation  allowance has been established for the deferred tax assets
+generated  by  net  operating  loss  carry  forwards due to the uncertainty of
+future  utilization.
+
+NOTE  6  -  MAJOR  CUSTOMERS
+            ----------------
+
+Oil  and  Gas
+- - -------------
+
+The Company received in excess of 10% of its revenue from various sources (oil
+and  gas  sales  and  mineral  royalties)  as  follows:
+<TABLE>
+<CAPTION>
+
+
+
+                         A        B        C      Other
+                      -------  -------  -------  -------
+
+<S>                   <C>      <C>      <C>      <C>
+
+
+Period Ended:
+   July 31, 1996 . .  153,862  403,366        *  109,810
+   December 31, 1996   95,408        *  187,492    9,701
+   December 31, 1997   96,091  350,689  283,749   37,097
+- - --------------------  -------  -------  -------  -------
+</TABLE>
+
+
+  *    Not  a  major  source  during  the  period.
+
+All  oil  and  gas  sales have occurred in the northern California gas market.
+NOTE  7  -  FINANCIAL  INFORMATION  RELATING  TO  INDUSTRY  SEGMENTS
+            --------------------------------------------------------
+The  Company's operations are classified into two principal industry segments.
+Following  is  a  summary  of  segmented  information  for  1997  and  1996:
+<TABLE>
+<CAPTION>
+
+
+
+                                                Oil and Gas    Precious Metals      Total
+                                               -------------  -----------------  ------------
+
+<S>                                            <C>            <C>                <C>
+
+
+Year Ended December 31, 1997
+    Total Revenues. . . . . . . . . . . . . .  $    867,622   $              -   $   867,622 
+                                               =============  =================  ============
+
+Loss Before Taxes and Change in Accounting
+  Principle . . . . . . . . . . . . . . . . .  $   (474,199)  $              -   $  (474,199)
+Income Taxes. . . . . . . . . . . . . . . . .         1,600                  -         1,600 
+Change in Accounting Principle. . . . . . . .             -         (2,860,776)   (2,860,776)
+                                               -------------  -----------------  ------------
+
+Net Loss. . . . . . . . . . . . . . . . . . .  $   (475,799)  $     (2,860,776)  $(3,336,575)
+                                               =============  =================  ============
+
+Property, Plant and Equipment Additions,
+  Net of Deletions. . . . . . . . . . . . . .  $     14,759   $     (2,376,005)  $(2,361,246)
+                                               =============  =================  ============
+
+Depreciation, Depletion and Amortization. . .  $    151,362   $          1,128   $   152,490 
+                                               =============  =================  ============
+
+    Total Assets. . . . . . . . . . . . . . .  $  4,975,224   $         39,014   $ 5,014,238 
+                                               =============  =================  ============
+
+Transition Period Ended December 31, 1996
+  Total Revenues. . . . . . . . . . . . . . .  $    474,521   $              -   $   474,521 
+                                               =============  =================  ============
+
+Income (Loss) Before Taxes. . . . . . . . . .  $    (91,422)  $              -   $   (91,422)
+Income Taxes. . . . . . . . . . . . . . . . .         1,600                  -         1,600 
+                                               -------------  -----------------  ------------
+
+Net Income (Loss) . . . . . . . . . . . . . .  $    (93,022)  $              -   $   (93,022)
+                                               =============  =================  ============
+
+Property, Plant and Equipment Additions,
+  Net of Deletions. . . . . . . . . . . . . .  $   (212,575)  $        318,273   $   105,698 
+                                               =============  =================  ============
+
+Depreciation, Depletion and Amortization. . .  $     23,448   $              -   $    23,448 
+                                               =============  =================  ============
+
+    Total Assets. . . . . . . . . . . . . . .  $  2,315,313   $      2,421,130   $ 4,736,443 
+                                               =============  =================  ============
+
+Year Ended July 31, 1996
+  Total Revenues. . . . . . . . . . . . . . .  $    879,247   $              -   $   879,247 
+                                               =============  =================  ============
+
+Income (Loss) Before Taxes. . . . . . . . . .  $   (315,758)                 -   $  (315,757)
+Income Taxes. . . . . . . . . . . . . . . . .         1,600                  -         1,600 
+                                               -------------  -----------------  ------------
+
+Net Income (Loss) . . . . . . . . . . . . . .  $   (317,358)  $              -   $  (317,358)
+                                               =============  =================  ============
+
+Property, Plant and Equipment Additions, Net.  $   (305,288)  $        429,615   $   124,322 
+                                               =============  =================  ============
+
+Depreciation, Depletion and Amortization. . .  $     53,453   $              -   $    53,453 
+                                               =============  =================  ============
+    Total Assets
+                                               $  1,839,750   $      2,109,625   $ 3,949,375 
+                                               =============  =================  ============
+</TABLE>
+
+
+NOTE  8  -  COMMITMENTS
+            -----------
+
+Employee  Stock  Options
+- - ------------------------
+
+The  Company  has  a  nonqualified  stock  option plan, which provides for the
+granting  of  options to key employees, consultants, and nonemployee directors
+of  the  Company.  The  option  price,  number  of  shares  and grant date are
+determined  at  the  discretion  of  the Company's board of directors. Options
+granted  under  the plan are exercisable for a period also to be determined by
+the  board  of  directors.
+
+The  Company has elected to account for the stock option plan under Accounting
+Principles Board Opinion NO. 25, "Accounting for Stock Issued for Employees,:"
+and  related  interpretations.  Accordingly,  no compensation expense has been
+recognized  for  the  stock  option.
+
+Had  compensation expense for the stock plan been determined based on the fair
+value  of  the  options  at  the  grant  date  consistent with the methodology
+prescribed  under  Statement  of  Financial Standards No. 123, "Accounting for
+Stock-Based Compensation," the Company's net loss would have been increased by
+$258,030  in  1997.  The  weighted  average  fair value of the options granted
+during  1997  was  estimated using the Black-Scholes option pricing model with
+the  following  assumptions:
+<TABLE>
+<CAPTION>
+
+
+
+Grant Date                August 19, 1997   December 6, 1997
+                          ----------------  -----------------
+
+<S>                       <C>               <C>
+
+
+Shares granted . . . . .          200,000            100,000 
+Risk-free interest rate.              7.5%               7.5%
+Expected life (years). .                5                  2 
+Expected volatility. . .             83.1%              83.1%
+Expected dividends . . .                -                  - 
+- - ------------------------  ----------------  -----------------
+</TABLE>
+
+
+NOTE  8  -  COMMITMENTS  (Continued)
+            -----------
+
+Employee  Stock  Options  (Continued)
+- - ------------------------
+
+A  summary of option transactions during the year ended December 31, 1997, the
+transition period ended December 31, 1996, and the year ended July 31, 1996 is
+shown  below:
+<TABLE>
+<CAPTION>
+
+
+
+                                             Weighted-
+                                              Average
+                                               Number    Exercise
+                                             of Shares     Price
+                                             ----------  ---------
+
+<S>                                          <C>         <C>
+
+
+Outstanding at August 1, 1995 . . . . . . .    425,000   $    0.53
+
+  Granted . . . . . . . . . . . . . . . . .          - 
+  Exercised . . . . . . . . . . . . . . . .          - 
+  Canceled. . . . . . . . . . . . . . . . .    (70,000)  $    0.52
+                                             ----------  ---------
+
+Outstanding at July 31, 1996. . . . . . . .    355,000   $    0.52
+
+  Granted . . . . . . . . . . . . . . . . .          - 
+  Exercised . . . . . . . . . . . . . . . .          - 
+  Canceled. . . . . . . . . . . . . . . . .          - 
+                                             ----------           
+
+Outstanding at December 31, 1996. . . . . .    355,000   $    0.52
+
+  Granted . . . . . . . . . . . . . . . . .    300,000   $    0.83
+  Exercised . . . . . . . . . . . . . . . .    (16,000)  $    0.58
+  Canceled. . . . . . . . . . . . . . . . .    (70,000)  $    0.52
+                                             ----------  ---------
+
+Outstanding at December 31, 1997. . . . . .    569,000   $    0.69
+                                             ==========           
+
+Exercisable at December 31, 1997. . . . . .    569,000   $    0.69
+                                             ==========           
+
+Available for Issuance at December 31, 1997          - 
+- - -------------------------------------------  ==========           
+</TABLE>
+
+
+NOTE  8  -  COMMITMENTS  (Continued)
+            -----------
+
+Employee  Stock  Options  (Continued)
+- - ------------------------
+<TABLE>
+<CAPTION>
+
+
+
+                   Weighted-Average
+                 Remaining Contractual
+                   Number of Shares     Life of Shares  Number of Shares
+Exercise Price        Outstanding        Outstanding      Exercisable
+- - ---------------  ---------------------  --------------  ----------------
+
+<S>              <C>                    <C>             <C>
+
+0.50 . . . . .                309,000            3.49           309,000
+0.55 . . . . .                160,000             .75           160,000
+1.50 . . . . .                100.000            2.00           100,000
+                 ---------------------                  ----------------
+
+569,000 . . . .                569,000
+===============  =====================                                  
+</TABLE>
+
+
+Leases
+- - ------
+
+The  Company conducts its operations from leased facilities.  The lease, which
+is  for  one  year, is classified as an operating lease and expires on July 1,
+1998,  with  two  one  year  options  to  renew.
+
+The  following  is  a  schedule,  by  years, of future minimum rental payments
+required  under  this  lease  as  of  December  31,  1997:
+<TABLE>
+<CAPTION>
+
+
+
+<S>                <C>
+
+
+December 31, 1998  $14,850
+- - -----------------  =======
+</TABLE>
+
+
+Litigation
+- - ----------
+
+The  Company  is  engaged  in  an  on-going lawsuit in the Contra Costa County
+Superior  Court.    Company  management,  as  plaintiff, is seeking to recover
+damages incurred from a breech of contract and fiduciary responsibilities by a
+former  officer  and  a  consulting geologist.  Its outcome is unknown at this
+time.
+NOTE  8  -  COMMITMENTS  (Continued)
+            -----------
+
+Contingencies
+- - -------------
+The  Company  is  subject  to possible loss contingencies pursuant to federal,
+state and local environmental laws and regulations. These include existing and
+potential  obligations  to  investigate  the effects of the release of certain
+hydro-carbons  or  other  substances at various sites; to remediate or restore
+these  sites;  and to compensate others for damages and to make other payments
+as  required  by law or regulation. These obligations relate to sites owned by
+the  Company  or  others, and are associated with past and present oil and gas
+operations. The amount of such obligations is indeterminate and will depend on
+such  factors  as  the unknown nature and extent of contamination, the unknown
+timing,  extent  and  method  of  remedial  actions which may be required, the
+determination  of  the  Company's liability in proportion to other responsible
+parties,  and  the  state  of  the  law.
+
+
+NOTE  9  -  COMMON  STOCK
+            -------------
+On  April  21,  1995,  the  Company's  Board  resolved  that  common  stock of
+Tri-Valley  Corporation  be  increased  from  15,000,000  shares authorized to
+25,000,000  shares.   On March 22, 1997, the shareholders unanimously ratified
+this  increase  plus  additional  25,000,000  shares bringing the total shares
+authorized  to  50,000,000.  In  addition,  the  shareholders  also approved a
+decrease  in  the  par  value  of  each  share  from  $0.01  to  $0.001.
+
+Prior  to  July  31,  1996,  new investors contributed $900,000 in the form of
+convertible  notes  payable. The first $150,000 was approved by the Bankruptcy
+Court on April 25, 1996, secured by a note with a stated interest rate of 10%,
+interest  only  for two years, with the outstanding balance due and payable at
+the end of two years. The remaining $750,000 was also secured by a note with a
+stated interest rate of 10%, interest only for two years, with the outstanding
+balance  due  and payable in two years. During the transition period, both the
+above loans were converted to Tri-Valley Corporation common stock. The lenders
+converted the debt by using an exchange rate of one "unit" for each dollar due
+and payable with each unit consisting of 2.5 shares of Tri-Valley common stock
+plus  four  warrants.  The  warrants  are  transferable and consist of two "A"
+warrants  exercisable  at  $0.50 each, one "B" warrant exercisable at $1 each,
+and  one "C" warrant exercisable at $1.50 each (see Note 11.) The warrants are
+required  to  be exercised within one year from the issue or they become void.
+
+Also,  during  the transition period, an additional 460,000 "units" were sold,
+also  at  $1  per "unit". Other stock transactions occurring during the period
+included  110,000  "A"  warrants  issued  at $0.30 per share, 2,080,000 shares
+purchased  at  $0.25  per share, and 222,225 shares issued at $0.45 per share.
+The  Company  also  issued  shares  for  services  rendered. These shares were
+recorded  at  the trading value of the stock on November 13, 1996, the day the
+services  were  deemed  to be rendered. The value of the issuance on that date
+was  $147,938.  The  Company  received  $2,013,001  of  new capital during the
+transition  period  as  a  result  of  these  transactions.
+NOTE  9  -  COMMON  STOCK  (Continued)
+            -------------
+
+During  fiscal  year 1997, the investors exercised the remaining 1,372,000 "A"
+warrants  outstanding  at  various  prices,  814,000 "B" warrants at $1.00 per
+share,  and  501,000  "C" warrants at $1.50 per share. The Company received an
+additional  $2,590,790  in  additional  capital  from  the  exercise  of these
+warrants.
+
+During  fiscal  year  1997,  the  Company issued an aggregate 90,000 shares of
+unregistered,  restricted  common  stock  to  officers  and  directors  for
+compensation.  These  issuances were valued at fair market based upon the open
+market  closing  price  as of the date of each transaction and were discounted
+appropriately  due  to  their  restricted  nature.  These  transactions  were
+cumulatively  valued at approximately $78,000 and are reflected as a component
+of  general  and  administrative  expenses  in  the  accompanying consolidated
+statement  of  operations.
+
+During  fiscal  year  1997,  the Company issued an aggregate 100,000 shares of
+unregistered,  restricted  common stock to various shareholders for consulting
+services.  These issuances were valued at the fair market value as of the date
+of  each respective transaction and were discounted appropriately due to their
+restricted  nature.  These  transactions  were  cumulatively  valued  at
+approximately  $55,000  and  are  reflected  as  a  component  of  general and
+administrative  expenses  in  the  accompanying  consolidated  statement  of
+operations.
+
+On July 21, 1997, the Company issued 25,000 shares of unregistered, restricted
+common  stock to Geoone for rights to their geological database. This issuance
+was  valued at the fair market value as of the date of the transaction and was
+discounted  appropriately  due  to its restricted nature. This transaction was
+cumulatively  valued  at  approximately  $12,500  and  was  capitalized  as  a
+component  of the well database asset in the accompanying consolidated balance
+sheet.
+
+On  August  21,  1997,  the  Company  issued  88,000  shares  of unregistered,
+restricted  common stock to Lawrence Flood for payment of a note payable. This
+issuance  was  valued at the balance of the note payable, $22,000, on the date
+of  the transaction. This issuance paid the note payable due to Flood in full.
+NOTE  10  -  WARRANTS
+             --------
+
+Changes  in  common  stock  warrants  were  as  follows:
+<TABLE>
+<CAPTION>
+
+
+
+                                                 For the Five
+                                                    Months
+                                                  Year Ended              Ended
+                                                 December 31,         December 31,    Year Ended
+                                                     1997                 1996       July 31, 1996
+                                           -------------------------  -------------  -------------
+
+<S>                                        <C>                        <C>            <C>
+
+
+Outstanding "A" warrants beginning. . . .                 1,372,000      1,800,000               -
+
+Additional granted. . . . . . . . . . . .                         -        930,000       1,800,000
+Exercised during period . . . . . . . . .                (1,372,000)    (1,358,000)              -
+                                           -------------------------  -------------  -------------
+
+Outstanding "A" warrants at end of period                         -      1,372,000       1,372,000
+                                           =========================  =============  =============
+
+Outstanding "B" warrants beginning. . . .                 1,365,000        900,000               -
+
+Additional granted. . . . . . . . . . . .  -               (814,000)       465,000         900,000
+Exercised during period . . . . . . . . .                  (551,000)             -               -
+                                           -------------------------                              
+Expired during period . . . . . . . . . .                         -              - 
+                                           -------------------------  -------------               
+                                                                  - 
+                                           =========================                              
+Outstanding "B" warrants at end of period                 1,365,000        900,000 
+                                           =========================  =============               
+
+Outstanding "C" warrants beginning. . . .                 1,365,000        900,000               -
+
+Additional granted. . . . . . . . . . . .                         -        465,000         900,000
+Exercised during period . . . . . . . . .                  (501,000)             -               -
+Expired during period . . . . . . . . . .                  (864,000)             -               -
+                                           -------------------------  -------------  -------------
+
+Outstanding "C" warrants at end of period                         -      1,365,000         900,000
+- - -----------------------------------------  =========================  =============  =============
+</TABLE>
+
+
+
+NOTE  11  -  INVESTOR  PAYABLE
+             -----------------
+
+The  Company  had investor payables totaling $103,000 and $662,680 at December
+31,  1997  and  1996,  respectively.  These  payable were incurred because the
+Company  received  cash  from  investors to exercise and purchase stock before
+year  end,  however,  the  shares  were  not  issued  until after year end. At
+December  31,  1997,  the  unissued  common  stock  consisted of 1,248,000 "A"
+warrants  exercised at various prices and 575,775 shares purchased at $.45 per
+share.  At  December  31, 1997, unissued common stock consisted of 103,000 "B"
+warrants  exercised  at $1.00 per share. All unissued shares were subsequently
+issued  after  year  end  reducing  these  payables  to  zero.
+NOTE  12  -SHAREHOLDER  MEETING
+           --------------------
+
+On  March  22,  1997, Tri-Valley held its annual shareholders meeting in Santa
+Barbara,  California.   The shareholders were presented with four items on the
+proxy  to  vote  on.    Management's  slate  of  directors,  increase of stock
+authorization  from  15  million  to  50  million  shares,  the  independent
+accountants,  and  ratification of the boards past actions were the four items
+on  the  ballot,  and  they  were  all  approved  by  the  shareholders.
+
+
+NOTE  13  -  POTENTIAL  ACQUISITIONS
+             -----------------------
+
+The  Company is presently investigating the viability of acquiring 26 wireless
+communication  licenses  held by five partnerships and is currently performing
+due  diligence  relating  to this potential transaction.  All costs associated
+with  the  possible  acquisition  have  been  capitalized  in  accordance with
+generally  accepted  accounting  principles.
+
+
+NOTE  14  -  SUBSEQUENT  EVENTS
+             ------------------
+
+Subsequent  to  year  end,  the  Company  purchased a telecommunications tower
+belonging  to Northeast Telecom, Inc. for $50,000 from the U.S. Trustee of the
+Chapter  7  bankruptcy of Northeast Telecom, Inc.  The Company intends to rent
+antennae  space  on  the  tower to various telecommunications customers in the
+area.  The  tower can hold up to twenty antennae, and management has estimated
+that  potential  rental  revenue  should  be  roughly  equivalent  to $800 per
+antennae  per  month.
+     TRI-VALLEY  CORPORATION
+     SUPPLEMENTAL  INFORMATION  ABOUT  OIL  AND  GAS  PRODUCING
+     ACTIVITIES  (UNAUDITED)
+
+
+The  following  estimates  of  proved oil and gas reserves, both developed and
+undeveloped,  represent  interests  owned by the Company located solely in the
+United  States.    Proved reserves represent estimated quantities of crude oil
+and  natural  gas  which  geological  and  engineering  data demonstrate to be
+reasonably certain to be recoverable in the future from known reservoirs under
+existing  economic  and  operating  conditions.   Proved developed oil and gas
+reserves  are  reserves  that can be expected to be recovered through existing
+wells,  with existing equipment and operating methods.  Proved undeveloped oil
+and gas reserves are reserves that are expected to be recovered from new wells
+on  undrilled  acreage,  or  from  existing  wells  for which relatively major
+expenditures  are  required  for  completion.
+
+Disclosures  of  oil  and  gas  reserves  which  follow are based on estimates
+prepared  by  independent  engineering consultants for the year ended December
+31, 1997, the transition period ended December 31, 1996 and for the year ended
+July  31,  1996.  Such analyses are subject to numerous uncertainties inherent
+in  the  estimation  of quantities of proved reserves and in the projection of
+future  rates  of production and the timing of development expenditures. These
+estimates  do  not  include  probable  or  possible  reserves.
+
+These  estimates  are furnished and calculated in accordance with requirements
+of  the  Financial  Accounting Standards Board and the Securities and Exchange
+Commission ("SEC"). Because of unpredictable variances in expenses and capital
+forecasts,  crude  oil  and  natural gas price changes, largely influenced and
+controlled by U.S. and foreign government actions, and the fact that the basis
+for  such  estimates vary significantly, management believes the usefulness of
+these  projections is limited. Estimates of future net cash flows presented do
+not  represent  management's assessment of future profitability or future cash
+flows  to  the  Company.  Management's  investment and operating decisions are
+based  upon  reserve  estimates that include proved reserves prescribed by the
+SEC  as  well  as  probable  reserves,  and  upon  different  price  and  cost
+assumptions  from  those  used  here.
+
+It  should  be  recognized  that  applying  current  costs and prices and a 10
+percent  standard discount rate does not convey absolute value. The discounted
+amounts  arrived  at  are  only  one  measure of the value of proved reserves.
+Capitalized  costs  relating  to  oil and gas producing activities and related
+accumulated  depletion, depreciation and amortization at December 31, 1997 are
+as  follow:
+<TABLE>
+<CAPTION>
+
+
+
+                                             Transition
+                                             Year Ended     Period Ended
+                                            December 31,    December 31,     Year Ended
+                                                1997            1996        July 31, 1996
+                                           --------------  --------------  ---------------
+
+<S>                                        <C>             <C>             <C>
+
+
+Aggregate capitalized costs:
+  Proved properties . . . . . . . . . . .  $     711,813   $     510,106   $      510,106 
+  Unproved properties . . . . . . . . . .        399,818         483,287          695,861 
+  Accumulated depletion, depreciation and
+    amortization. . . . . . . . . . . . .       (378,899)       (250,396)        (233,259)
+                                           --------------  --------------  ---------------
+
+Net capitalized costs . . . . . . . . . .  $     732,732   $     742,997   $      972,708 
+- - -----------------------------------------  ==============  ==============  ===============
+</TABLE>
+
+
+The  following sets forth costs incurred for oil and gas property acquisition,
+exploration  and  development  activities,  whether  capitalized  or expensed,
+during:
+<TABLE>
+<CAPTION>
+
+
+
+                               Transition
+                               Year Ended    Period Ended
+                              December 31,   December 31,     Year Ended
+                                  1997           1996       July 31, 1996
+                              -------------  -------------  --------------
+
+<S>                           <C>            <C>            <C>
+
+
+Acquisition of producing
+  properties and productive
+  and non-productive acreage  $      33,566  $     212,574  $      112,703
+- - ----------------------------  =============  =============  ==============
+</TABLE>
+
+
+Results  of  operations  from  oil  and  gas  producing  activities
+- - -------------------------------------------------------------------
+
+The  results  of  operations  from  oil  and  gas  producing activities are as
+follows:
+<TABLE>
+<CAPTION>
+
+
+
+                                                 Transition
+                                                 Year Ended     Period Ended
+                                                December 31,    December 31,     Year Ended
+                                                    1997            1996        July 31, 1996
+                                               --------------  --------------  ---------------
+
+<S>                                            <C>             <C>             <C>
+
+
+Sales to unaffiliated parties . . . . . . . .  $     767,626   $     470,300   $      872,386 
+Production costs. . . . . . . . . . . . . . .        (97,546)        (82,481)        (259,673)
+Depletion, depreciation and
+ amortization . . . . . . . . . . . . . . . .       (128,503)        (18,929)         (42,607)
+                                               --------------  --------------  ---------------
+
+                                                     541,577         368,890          570,106 
+Income tax expenses . . . . . . . . . . . . .       (184,136)       (125,412)        (193,837)
+                                               --------------  --------------  ---------------
+
+Results of operations from activities before
+  extraordinary items (excluding blending
+  operations, corporate overhead and
+   interest costs). . . . . . . . . . . . . .  $     357,441   $     243,478   $      376,269 
+- - ---------------------------------------------  ==============  ==============  ===============
+</TABLE>
+
+
+Changes  in  estimated  reserve  quantities
+- - -------------------------------------------
+The  net  interest in estimated quantities of proved developed and undeveloped
+reserves  of  crude oil and natural gas at December 31, 1997, December 31, and
+July  31,  1996,  and changes in such quantities during each of the years then
+ended,  were  as  follows:
+<TABLE>
+<CAPTION>
+
+
+                                                               Transition
+                                                               Year Ended    Period Ended
+                                                              December 31,   December 31,     Year Ended
+                                                                  1997           1996       July 31, 1996
+                                                              -------------  -------------  --------------           
+
+Oil                                                                Gas            Oil            Gas                Oil
+  (BBL)                                                           (MCF)          (BBL)          (MCF)              (BBL)
+- - ------------------------------------------------------------  -------------  -------------  --------------  -------------------
+
+<S>                                                           <C>            <C>            <C>             <C>
+
+Proved developed and
+  undeveloped reserves:
+
+Beginning of year. . . . . . . . . . . . . . . . . . . . . .           644      2,003,135             442   1,934,339  180,057 
+Revisions of previous estimates Extensions, discoveries and.          (274)      (273,214)            272                  (97)
+  other additions. . . . . . . . . . . . . . . . . . . . . .             - 
+Production . . . . . . . . . . . . . . . . . . . . . . . . .            79        497,112               -             (111,261)
+                                                                                                            -------------------
+                                                                      (225)      (323,879)            (70)                (210)
+                                                              -------------  -------------  --------------  -------------------
+End of year. . . . . . . . . . . . . . . . . . . . . . . . .     2,003,135 
+                                                              =============                                                    
+                                                                       224      1,903,154             644                  442 
+                                                              =============  =============  ==============  ===================
+
+Proved developed reserves:
+
+Beginning of year. . . . . . . . . . . . . . . . . . . . . .           644      2,003,135             442            1,934,339 
+                                                              =============  =============  ==============  ===================
+
+End of year. . . . . . . . . . . . . . . . . . . . . . . . .           224      1,903,154             644            2,003,135 
+                                                              =============  =============  ==============  ===================
+
+
+
+
+
+
+
+Oil                                                              Gas
+  (BBL)                                                         (MCF)
+- - ------------------------------------------------------------  ----------      
+
+<S>                                                           <C>         <C>
+
+Proved developed and
+  undeveloped reserves:
+
+Beginning of year. . . . . . . . . . . . . . . . . . . . . .        367   1,888,231
+Revisions of previous estimates Extensions, discoveries and.   (206,836)
+  other additions
+Production . . . . . . . . . . . . . . . . . . . . . . . . .        382     525,475
+
+                                                               (272,531)
+                                                              ----------           
+End of year
+
+                                                              1,934,339 
+                                                              ==========           
+
+Proved developed reserves:
+
+Beginning of year. . . . . . . . . . . . . . . . . . . . . .        367   1,888,231
+                                                              ==========  =========
+
+End of year. . . . . . . . . . . . . . . . . . . . . . . . .        442   1,934,339
+                                                              ==========  =========
+</TABLE>
+
+
+Standardized  measure  of  discounted future net cash flows relating to proved
+- - ------------------------------------------------------------------------------
+oil  and
+- - --------
+gas  reserves
+- - -------------
+A  standardized measure of discounted future net cash flows is presented below
+for the year ended December 31, 1997, the transition period ended December 31,
+1996  and  the  year  ended  July  31,  1996.
+
+The  future  net  cash  inflows  are  developed  as  follows:
+(1)         Estimates are made of quantities of proved reserves and the future
+periods  during  which  they  are  expected  to  be produced based on year-end
+economic  conditions.
+(2)        The estimated future production of proved reserves is priced on the
+basis  of  year-end  prices.
+(3)        The resulting future gross revenue streams are reduced by estimated
+future costs to develop and to produce proved reserves, based on year end cost
+estimates.
+(4)      The resulting future net revenue streams are reduced to present value
+amounts  by  applying  a  ten  percent  discount.
+Standardized  measure  of  discounted future net cash flows relating to proved
+- - ------------------------------------------------------------------------------
+oil  and
+- - --------
+gas  reserves  (Continued)
+- - -------------
+
+Disclosure  of  principal components of the standardized measure of discounted
+future  net cash flows provides information concerning the factors involved in
+making  the calculation.  In addition, the disclosure of both undiscounted and
+discounted  net  cash flows provides a measure of comparing proved oil and gas
+reserves  both  with  and  without  an  estimate  of  production  timing.  The
+standardized  measure  of  discounted future net cash flows relating to proved
+reserves  reflects  income  taxes.
+<TABLE>
+<CAPTION>
+
+
+
+                                             Transition
+                                             Year Ended     Period Ended
+                                            December 31,    December 31,     Year Ended
+                                                1997            1996        July 31, 1996
+                                           --------------  --------------  ---------------
+
+<S>                                        <C>             <C>             <C>
+
+
+Future cash in flows. . . . . . . . . . .  $   4,166,677   $   3,098,724   $    2,989,560 
+Future production and development costs .       (990,987)       (660,118)        (608,480)
+Future income tax expenses. . . . . . . .       (380,077)       (259,282)        (674,158)
+                                           --------------  --------------  ---------------
+
+Future net cash flows . . . . . . . . . .      2,795,613       2,179,324        1,706,922 
+                                           --------------  --------------  ---------------
+
+10% annual discount for estimated timing
+  of cash flows . . . . . . . . . . . . .      1,038,418         784,623          580,012 
+                                           --------------  --------------  ---------------
+
+Standardized measure of discounted future
+  net cash flow . . . . . . . . . . . . .  $   1,757,195   $   1,394,701   $    1,126,910 
+- - -----------------------------------------  ==============  ==============  ===============
+</TABLE>
+
+
+Changes in standardized measure of discounted future net cash flow from proved
+- - ------------------------------------------------------------------------------
+reserve  quantities
+- - -------------------
+
+This  statement  discloses  the sources of changes in the standardized measure
+from  year  to  year.    The  amount  reported  as  "Net changes in prices and
+production  costs"  represents  the  present  value  of  changes in prices and
+production  costs  multiplied  by  estimates  of  proved  reserves  as  of the
+beginning  of  the  year.    The  "accretion  of  discount"  was  computed  by
+multiplying  the ten percent discount factor by the standardized measure as of
+the  beginning  of  the  year.    The  "Sales  of oil and gas produced, net of
+production  costs"  is  expressed  in  actual  dollar  amounts.  "Revisions of
+previous quantity estimates" is expressed at year-end prices.  The "Net change
+in  income  taxes" is computed as the change in present value of future income
+taxes.
+57
+
+Changes in standardized measure of discounted future net cash flow from proved
+- - ------------------------------------------------------------------------------
+reserve  quantities  (Continued)
+- - -------------------
+<TABLE>
+<CAPTION>
+
+
+
+                                                          Transition
+                                                          Year Ended     Period Ended
+                                                         December 31,    December 31,     Year Ended
+                                                             1997            1996        July 31, 1996
+                                                        --------------  --------------  ---------------
+
+<S>                                                     <C>             <C>             <C>
+
+
+Standardized measure - beginning of period . . . . . .  $   1,394,701   $   1,126,910   $      835,771 
+                                                        --------------  --------------  ---------------
+
+Sales of oil and gas produced, net of production costs       (670,080)       (387,819)        (612,715)
+                                                        --------------  --------------  ---------------
+
+Revisions of estimates of reserves provided in
+  in prior years:
+    Net changes in prices and production costs . . . .        149,033        (195,368)         985,846 
+Revisions of previous quantity estimates . . . . . . .       (614,464)        342,108         (390,920)
+
+Extensions, discoveries and improved recovery. . . . .      1,123,473               -          933,148 
+                                                        --------------  --------------  ---------------
+
+Accretion of discount. . . . . . . . . . . . . . . . .        139,470         112,691           83,577 
+Changes in production rates (timing) and other . . . .        114,268          18,697         (118,400)
+                                                        --------------  --------------  ---------------
+
+Net change in income taxes . . . . . . . . . . . . . .        120,794         414,876         (589,397)
+                                                        --------------  --------------  ---------------
+
+Net increase . . . . . . . . . . . . . . . . . . . . .        362,494         267,791          291,139 
+                                                        --------------  --------------  ---------------
+
+Standardized measure - end of period . . . . . . . . .  $   1,757,195   $   1,394,701   $    1,126,910 
+- - ------------------------------------------------------  ==============  ==============  ===============
+</TABLE>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<PAGE>
+                                    ------
+                                   PART III
+                                   --------
+
+
+ITEM  8.  DISAGREEMENTS  ON  ACCOUNTING  AND  FINANCIAL  DISCLOSURE
+- - -------------------------------------------------------------------
+
+None.
+
+
+ITEM  9.  DIRECTORS  AND  EXECUTIVE  OFFICERS  OF  THE  REGISTRANT
+- - ------------------------------------------------------------------
+
+The  following  information  is  furnished  with  respect  to  each  director:
+
+                    Year  First
+                    Elected  as                    Position  With
+Name  of  Director                    Age          Director *          Company
+- - ------------------                    ---          ----------
+
+F.  Lynn  Blystone                    62              1974          President,
+                              Chief  Executive
+                              Officer
+
+Dennis  P.  Lockhart                    51                  1982          None
+
+Milton  J.  Carlson                    68                   1985          None
+
+Earl  H.  Biestline                    82                   1992          None
+
+Loren  J.  Miller(1)                    53                  1992          None
+
+
+*    -  Term  as  director  continues until his successor is duly elected upon
+annual  shareholders  meeting  or  duly  appointed  during  the  interim.
+
+(1)-  Audit  Representative
+
+The following is a list of Tri-Valley executive officers, their ages and their
+positions  and  offices:
+
+Name                    Age              Position and Date Elected to Position
+- - ----                    ---              -------------------------------------
+
+F.  Lynn  Blystone          62          President and Chief Executive Officer,
+                    TVC/TVOG/TVPC  (October  9,  1981)
+
+
+Thomas  J.  Cunningham               55          Treasurer and Chief Financial
+Officer
+                    TVC/TVOG/TVPC  (February  28,  1997)
+
+
+
+
+
+<PAGE>
+- - ------
+
+
+
+F.  LYNN BLYSTONE - 62          President and Chief Executive Officer     1974
+- - ----------------------
+                         Tri-Valley  Corporation,  and  its  wholly
+                         Owned  subsidiary,  Tri-Valley  Oil  &  Gas
+                         Co.,  Bakersfield,  California
+
+     Mr. Blystone became president of Tri-Valley Corporation in October, 1981,
+and  was  nominally vice president from July to October, 1981.  His background
+includes  institution  management,  venture  capital  and  various  management
+functions  for  a  mainline  pipeline  contractor  including  the Trans Alaska
+Pipe-line  Project.   He has founded, run and sold companies in several fields
+including Learjet charter, commercial construction, municipal finance and land
+development.    He  is  also  president  of a family corporation, Bandera Land
+Company,  Inc.,  with  real  estate  interests  in  Kern, Riverside and Orange
+Counties  California.    A  graduate  of  Whittler College, California, he did
+graduate work at George Williams College, Illinois in organization management.
+He  gives  full  time  to  Tri-Valley.
+
+
+DENNIS  P.  LOCKHART  -  51             President                         1982
+- - ---------------------------
+                         Heller  International  Group,  Inc.
+                         Chicago,  Illinois
+
+     After service as a corporate banking officer of Citibank since 1971, most
+recently  as  vice          President  in  the Central and South America Group
+responsible  for debt-to-equity conversions, Mr. Lockhart has become president
+of  Heller  International,  an  old  line  firm
+now  owned  by  Fuji  Bank  Group.  Heller provides financing in 20 countries.
+While  with  Citibank, Mr. Lockhart served the bank's international operations
+in  Jedda  and  Riyahd,  Saudi Arabia; Athens, Greece; Beirut, Lebanon; and as
+executive vice president of Iranian's Bank of Tehran, Iran.  He then served as
+vice  president  and  regional  executive  for  corporate banking in the seven
+southeastern  states  and  Puerto  Rico for Citicorp (USA) Inc.  A graduate of
+Stanford  University,  he  has  an  M.A.  from  John  Hopkins  University.
+
+
+MILTON  J.  CARLSON  -  68                    Investor,  Kalispell,  Montana
+- - --------------------------
+1985
+- - ---
+
+     Mr.  Carlson  is  a  principal  in  Earthsong Corporation which, in part,
+consults  on  environmental  matters  and  performs  environmental  audits for
+government  agencies  and  public and private concerns.  Until its merger with
+another  firm, Mr. Carlson formerly was vice president and corporate secretary
+of  Union  Sugar Company, a $100 million unit of Sara Lee Corporation.  He was
+involved  in  representing  industrial  end  users  of  energy  tthrough  the
+California  Manufacturers  Association  as  the  former  chairman  of  the CMA
+steering  committee  of the standing energy and environmental committees.  Mr.
+Carlson  was  also  the  energy and environmental representative with Sara Lee
+energy  advisory  group  and  monitored  related matters before the California
+Public  Utilities  Commission  and Energy Commission as well as serving as the
+legislative  representative  in  Sacramento  and Washington, D.C.  Mr. Carlson
+attended  the  University of Colorado at Boulder and the University of Denver.
+
+
+
+
+
+LOREN  J.  MILLER,  CPA  - 53          Controller                         1992
+- - -----------------------------
+                         Petro  America,  Inc.
+                         Long  Beach,  California
+
+     Mr.  Miller has served in a treasury and chief financial officer capacity
+as  Vice president successively of Hershey Oil Corporation and Mock Resources,
+Inc.    Prior  to  that  he  was  vice  president and general manager of Tosco
+Production  Finance Corporation and formerly a senior auditor with Touche Ross
+& Co.  He is experienced in exploration, production, product trading, refining
+and  distribution as well as corporate finance.  He holds a B.S. in accounting
+and  a  M.B.A.  in  finance  from  the  University  of  Southern  California.
+
+
+EARL  H.  BEISTLINE,  LLD.  -  82                    Mining  Consultant
+- - ---------------------------------
+1992
+- - ---
+                         Fairbanks,  Alaska
+
+     Dr.  Beistline is a past chairman of the Alaska State Minerals Commission
+and  Dean  Emeritus  of  the  School  of Mineral Industry of the University of
+Alaska.    Born in Juneau, he has achieved a special position in Alaska during
+its transition from territorial status into statehood.  He has numerous honors
+from  local,  state  and federal governments, academia, professional and civic
+organizations and the mineral industry.  An active miner in the Central-Circle
+Mining District, Dr. Beistline also serves as a director of one of the state's
+primary  companies,  Usibelli  Coal Mines, Inc.  He holds a Bachelor of Mining
+Engineering,  Engineer  of  Mines  and  Honorary Doctor of Law degree from the
+University  of  Alaska.
+
+
+THOMAS  J.  CUNNINGHAM - 55     Treasurer and Chief Financial Officer     1997
+- - ---------------------------
+                         Tri-Valley  Corporation,  and  its  wholly
+                         Owned  subsidiary,  Tri-Valley  Oil  &  Gas
+                         Company,  Bakersfield,  California
+
+     Named  as  Tri-Valley Corporation's Treasurer and Chief Financial Officer
+on  February  1997,  Mr.  Cunningham has over 25 years experience in corporate
+finance,  Securities  and         Exchange Commission public company reporting
+shareholder  relations,  and  employee  benefits.   In his career he served as
+Staff  Accountant  for  Forest  Oil, Accounting Company, and as Executive Vice
+President, Chief Financial Officer and Director for Star Resources, Inc.  Most
+recently  he  was  a  Management  Consultant  in  finance, marketing and human
+resource  matters  including  employee  benefit  planning.    He  received his
+education  in  accounting  and  business  administration  from  Angelo  State
+University,  Texas.
+
+
+
+<PAGE>
+ITEM  10.  EXECUTIVE  COMPENSATION
+- - ----------------------------------
+
+
+The  following  table summarizes the compensation of the chairman of the board
+and  the  president of the Company and its subsidiaries, F. Lynn Blystone, for
+the  fiscal  year ended December 31, 1997, and for the fiscal years ended July
+31,  1996,  and  1995.
+
+                                                       Long Term
+                                                     Compensation
+                                Annual Compensation          Awards
+                                -------------------          ------
+           (a)          (b)          ( c )          (d)          (e)
+                                          Other          Securities
+       Name          Period Covered          Salary          Compensation
+       ----          --------------          ------          ------------
+                              Underlying Options
+                              ------------------
+
+               F. Lynn          FYE 12/31/97          $197,660(1)
+                                  195,000(2)
+                   Blystone, CEO          5 Mo. Ended 12/31/96
+                                            $42,250(1)
+                                             FYE   7/31/96          $49,610(1)
+                                             FYE   7/31/95          $43,750(1)
+
+(1)         Includes salary that was deferred when Mr. Blystone took a reduced
+salary  in  1996.
+(2)          95,000  options  expired  unexercised  in  December,  1997.
+
+Aggregated  1997  Option  Exercises  and  Year-End  Values
+- - ----------------------------------------------------------
+
+The  following  table summarizes the number and value of all unexercised stock
+options  held  by  the  Named  Officers  and  Directors  at  the  end of 1997.
+
+                        ( A )          ( B )     ( C )
+                    Number of Securities     Value of Unexercised In-
+                  Underlying Unexercised     The-Money Options/SARs at
+                       Options/SARs at FY-End (#)     FY-End ($)*
+
+     NAME          EXERCISABLE/UNEXERCISABLE     EXERCISABLE/UNEXERCISABLE
+     ----          -------------------------     -------------------------
+
+                  F. Lynn Blystone          100,000/0     0/0
+
+              Dennis P. Lockhart          30,000/0     $18,750/0
+                                 40,000/0     $23,000/0
+
+               Milton J. Carlson          30,000/0     $18,750/0
+                                 40,000/0     $23,000/0
+
+                Loren J. Miller          30,000/0     $18,750/0
+                                 40,000/0     $23,000/0
+
+               Earl H. Beistline          20,000/0     $12,500/0
+                                 40,000/0     $23,000/0
+
+
+
+ITEM  10.  EXECUTIVE  COMPENSATION(CONTINUED)
+- - ----------------------------------
+
+     *Based  on a fair market value of $1.125 per share, which was the closing
+bid  price  of the Company's Common Stock in the Nasdaq National Market System
+on  December  31,  1997.
+
+Compensation  of  Directors
+- - ---------------------------
+
+The  Company compensates non-employee directors for their service on the board
+of directors.  No directors received any stock options in 1997.  The following
+tables  sets forth information regarding the cash compensation paid to outside
+directors  in  1997.
+
+                                  (A)     (B)
+
+                                 NAME     FEES
+                                 ----     ----
+
+                           Earl Beistline     $3,800
+
+                           Milton Carlson     $3,800
+
+                         Dennis P. Lockhart     $3,450
+
+                          Loren J. Miller     $3,800
+
+
+ITEM  11.  SECURITY  OWNERSHIP  OF  CERTAIN  BENEFICIAL  OWNERS AND MANAGEMENT
+- - ------------------------------------------------------------------------------
+
+As  of December 31, 1997, there were 18,922,248 shares of the Company's common
+stock  outstanding.  The following persons were known by the Company to be the
+beneficial  owners  of  more  than  5%  of  such  outstanding  common  stock:
+
+                              Number of          Percent of
+                Name and Address          Shares          Total
+                ----------------          ------          -----
+
+Dennis  Vaughan
+2298  Featherhill  Road
+           Santa Barbara, CA 93108          1,033,200          5.6%
+
+
+The  following  table  sets  forth  the  beneficial ownership of the Company's
+common  stock  as  of  December  31,  1997  by  each  director, by each of the
+executive  officers  named  in  Item  11,  and  by  all executive officers and
+directors  as  a  group:
+
+
+                              Number of          Percent of
+                Directors          Shares(1)          Total(2)
+                ---------          ---------          --------
+
+              F. Lynn Blystone          498,909     (3)     2.6%
+
+                Dennis P. Lockhart          122,091          *
+
+
+ITEM  11.  SECURITY  OWNERSHIP  OF  CERTAIN  BENEFICIAL  OWNERS  AND
+- - --------------------------------------------------------------------
+MANAGEMENT(CONTINUED)
+- - -----------------
+
+                              Number of          Percent of
+                Directors          Shares(1)          Total(2)
+                ---------          ---------          --------
+
+                 Milton J. Carlson          129,000          *
+
+                  Loren J. Miller          95,300          *
+
+                 Earl H. Beistline          78,000          *
+
+Total  group  (all  directors  and
+- - ------------
+         Executive officers - 5 persons)          923,300          4.8%
+
+*Less  than  1%
+
+(1)     Includes shares which the listed shareholder has the right to acquire,
+from  options,  before  September  30,  1998  as  follows:  Dennis P. Lockhart
+70,000; Milton J. Carlson 70,000; Loren J. Miller 70,000 and Earl H. Beistline
+60,000.    F.  Lynn  Blystone  has  100,000.
+
+(2)         Based on total outstanding shares of 18,922,248 as of December 31,
+1997.    The  persons  named herein have sole voting and investment power with
+respect  to  all  shares of  common stock shown as beneficially owned by them,
+subject  to  community  property  laws  where  applicable.
+
+(3)     Includes 23,400 shares held in the name of Bandera Land Company, Inc.,
+a  family  corporation  of  which  Mr.  Blystone  is  the  president.
+
+
+ITEM  12.  CERTAIN  RELATIONSHIPS  AND  RELATED  TRANSACTIONS
+- - -------------------------------------------------------------
+
+None.
+
+
+ITEM  13.  EXHIBITS,  LISTS,  AND  REPORTS  ON  FORM  8-K
+- - ---------------------------------------------------------
+
+(a)          Exhibits.
+
+                                    Exhibit
+             Number          Description of Exhibit          Page
+             ------          ----------------------          ----
+
+                3          Articles of Incorporation          *
+
+
+*Included  as exhibit in the Registrant's Registration Statement and is hereby
+incorporated  by  reference  herein.
+
+
+ITEM  13.  EXHIBITS,  LISTS,  AND  REPORTS  ON  FORM  8-K(CONTINUED)
+- - ---------------------------------------------------------
+
+(b)          Reports  on  Form  8-K
+
+- - -          October  2,  1997  the Company filed an 8-K to report it had put on
+production  two  wells  which  increased  monthly  gas  production  by  68%.
+
+- - -     December 5, 1997 the Company filed and 8-K to report its withdrawal of a
+registration  for  a  public  stock  offering.
+
+
+
+
+<PAGE>
+
+
+                                  SIGNATURES
+
+
+Pursuant to the requirements of Section 13 or 15(d) of the Securities Exchange
+Act  of  1934,  the Registrant has duly caused this report to be signed on its
+behalf  by  the  undersigned,  thereunto  duly  authorized.
+
+___May  14__________,  1998       By:_/s/ F. Lynn Blystone____________________
+                                F.  Lynn  Blystone
+                                President,  Chief  Executive  Officer  and
+                                Director
+
+
+___May  21__________,  1998      By:__/s/ Thomas J. Cunningham________________
+                                Thomas  J.  Cunningham
+                                Treasurer,  Chief  Financial  Officer
+
+Pursuant  to  the  requirements  of  the Securities Exchange Act of 1934, this
+Report  has  been  signed  below  by  the  following  persons on behalf of the
+Registrant  and  in  the  capacities  and  on  the  dates  included:
+
+
+
+__May  22___________,  1998      By:__/s/ Dennis P. Lockhart__________________
+                                Dennis  P.  Lockhart,  Director
+
+
+
+__May  15___________,  1998      By:__/s/ Milton J. Carlson___________________
+                                Milton  J.  Carlson,  Director
+
+
+
+_May  19____________,  1998      By:__/s/ Earl H. Beistline___________________
+                                Earl  H.  Beistline,  Director
+
+
+
+_May  21____________,  1998       By:__/s/ Loren J. Miller____________________
+                                Loren  J.  Miller,  Director
+
+
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

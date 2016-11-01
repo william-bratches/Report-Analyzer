@@ -1,0 +1,1554 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ AkzatzuNjolXt9klkScreqDAsQf1tgFJNTtWHG65yWnpue814mH604U4YuAAaGWc
+ u3ezNzr0IHuxd/KBSGrmVg==
+
+<SEC-DOCUMENT>0000008065-95-000007.txt : 19951002
+<SEC-HEADER>0000008065-95-000007.hdr.sgml : 19951002
+ACCESSION NUMBER:		0000008065-95-000007
+CONFORMED SUBMISSION TYPE:	10KSB
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	19950630
+FILED AS OF DATE:		19950927
+SROS:			NASD
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			ASTROSYSTEMS INC
+		CENTRAL INDEX KEY:			0000008065
+		STANDARD INDUSTRIAL CLASSIFICATION:	INDUSTRIAL INSTRUMENTS FOR MEASUREMENT, DISPLAY, AND CONTROL [3823]
+		IRS NUMBER:				135691210
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0630
+
+	FILING VALUES:
+		FORM TYPE:		10KSB
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-03344
+		FILM NUMBER:		95576420
+
+	BUSINESS ADDRESS:	
+		STREET 1:		6 NEVADA DR
+		CITY:			LAKE SUCCESS
+		STATE:			NY
+		ZIP:			11042
+		BUSINESS PHONE:		5163281600
+
+	MAIL ADDRESS:	
+		STREET 1:		6 NEVADA DR
+		CITY:			LAKE SUCCESS
+		STATE:			NY
+		ZIP:			11042
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>10KSB
+<SEQUENCE>1
+<TEXT>
+
+              U.S. SECURITIES AND EXCHANGE COMMISSION
+                      Washington, D. C. 20549
+                              
+                           FORM 10-KSB
+(Mark One)
+[x]  ANNUAL REPORT UNDER SECTION 13 OR 15(d) OF THE SECURITIES
+     EXCHANGE ACT OF 1934 [FEE REQUIRED]
+
+     For the fiscal year ended June 30, 1995
+
+     TRANSITION REPORT UNDER SECTION 13 OR 15(d) OF THE
+     SECURITIES EXCHANGE ACT OF 1934 [NO FEE REQUIRED]
+
+     For the transition period from            to          
+
+Commission file number 0-3344 
+
+                         ASTROSYSTEMS, INC.
+            (Name of small business issuer in its charter)
+       Delaware                                 13-5691210
+(State or other jurisdiction of              (I.R.S. Employer
+ incorporation or organization)               Identification No.)
+
+Six Nevada Drive, Lake Success, NY                 11042 
+(Address of Principal Executive Offices)         (Zip Code)
+
+Registrant's telephone number                  (516) 328-1600    
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+                                 Name of each exchange on which
+     Title of each class                   registered       
+           None  
+
+Securities registered pursuant to Section 12(g) of the Act:
+
+               Common Stock, par value $.10 per share   
+                       (Title of Class)
+
+      Check whether the issuer (1) filed all reports required to
+be filed by Section 13 or 15(d) of the Securities Exchange Act
+during the past 12 months (or for such shorter period that the
+Registrant was required to file such reports), and (2) has been
+subject to such filing requirements for the past 90 days. 
+YES....X....      NO..........
+
+      Check if no disclosure of delinquent filers in response to
+Item 405 of Regulation S-B is contained in this form, and no
+disclosure will be contained, to the best of Registrant's
+knowledge, in definitive proxy or information statements
+incorporated by reference in Part III of this Form 10-KSB or any
+amendment to this Form 10-KSB.    
+
+      The Registrant's revenues for fiscal year ended June 30,
+
+1995 were $12,319,000.
+
+      The aggregate market value of the Registrant's Common Stock
+held by nonaffiliates of the Registrant is $14,745,741 (as of
+August 31, 1995).  
+
+                  (ISSUERS INVOLVED IN BANKRUPTCY
+              PROCEEDINGS DURING THE PAST FIVE YEARS):
+      Check whether the issuer has filed all documents and 
+reports required to be filed by Section 12, 13 or 15 (d) of the
+Securities Exchange Act after the distribution of securities
+under a plan confirmed by a court.  YES ..........   NO ...N/A...
+
+            (APPLICABLE ONLY TO CORPORATE REGISTRANTS)
+      The number of shares outstanding of the Registrant's Common
+Stock is 4,581,727 (as of August 31, 1995).
+
+                DOCUMENTS INCORPORATED BY REFERENCE
+      Proxy Statement for 1995 Annual Meeting of Stockholders
+                           (Part III)
+<PAGE>
+                            PART I
+
+Item 1.   Description of Business
+
+     (a)  Business Development.  Astrosystems, Inc. ("Registrant"
+or "Company") designs and manufactures power conversion devices
+and electronic products for measurement and display.  The
+Company's Industrial Products Division produces electronic and
+electromechanical devices for precision motion measurement and
+control.  A wholly owned subsidiary, Behlman Electronics, Inc.,
+produces commercial AC power sources.  
+
+         The Company's subsidiary, AstroPower, Inc., is engaged
+in the development of a new process for manufacturing low cost,
+thin film polycrystalline solar cells for the direct conversion
+of sunlight into electricity.  The Company currently owns 32.3%
+of the common stock of AstroPower, Inc.  Assuming certain
+convertible preferred stock is converted to common stock, the
+Company's interest in AstroPower could be reduced to 22.8%.  
+
+         Registrant is a corporation originally incorporated in
+the State of New York in 1959.  In April, 1987 Registrant changed
+its state of incorporation to Delaware.
+
+     (b)  Business of Issuer.
+
+          (1)  Principal Products.  Reference is made to Item
+1(a) above.
+
+          (2)  Distribution Methods.  Defense products are
+marketed by the Company's Program Managers and other management
+personnel.  Commercial products are marketed by the Company's
+Regional Sales Managers, manufacturer's representatives, and
+in some cases, non-exclusive distributors.  
+
+          (3)  New Product Development.  Inapplicable.
+
+          (4)  Competition.  In the marketing of its electronic
+and electromechanical products, Registrant estimates that it 
+competes regularly with approximately fifteen companies and, on
+an irregular basis, with a much larger number of companies. 
+Competition in these fields depends on such factors as price,
+product reliability and performance, engineering and production. 
+In particular, due primarily to budgetary restraints and program
+cutbacks, competition in the Company's government markets has
+been increasingly severe and price has become the major
+overriding factor in contract and subcontract awards.  To the
+best of Registrant's knowledge, some of its regular competitors
+are much larger companies with substantially greater capital
+resources and far larger engineering, administrative, sales, and
+production staffs.  Registrant does not believe that it is a
+significant factor in any of its markets.
+
+          In the field of photovoltaic solar cells (see Item 1(a)
+above), Registrant's subsidiary, AstroPower, Inc., competes with
+established manufacturers, as well as with other sources of
+energy and the companies involved therewith.  In addition, a
+number of larger concerns, including major oil companies, have
+already entered or are expected to enter this field, all of which
+have considerably greater financial, marketing and technological
+strengths than Registrant.  A number of smaller concerns are also
+actively pursuing this market.
+
+          (5)  Sources of Supply.  Registrant designs and
+assembles substantially all of its products.  It purchases parts
+and components, however, from widely diversified sources, and at
+times it has employed subcontractors to fabricate portions of its
+products.  The Registrant is not materially dependent on any one
+supplier for such items and Management believes that, barring any
+unusual shortages or economic conditions, it could develop
+alternate suppliers for such items.
+
+          (6)  Customers.  During the year ended June 30, 1995,
+approximately 8% of Registrant's sales were made directly to
+government agencies as prime contractors, 46% were made to other
+manufacturers as a subcontractor pursuant to government contracts
+and 46% were made to commercial users.  The following table sets
+forth the approximate extent to which Registrant's sales were
+made to military or commercial customers (and in the case of
+military sales, whether made by Registrant as prime contractor
+or subcontractor) for each of the fiscal years ended June 30,
+1994 and June 30, 1995.
+
+Fiscal            Military Sales         Commercial   Total
+ Year   Prime Contractor  Subcontractor   Sales (1)   Sales
+
+1994    $2,394,000        $6,525,000     $4,498,000   $13,417,000
+1995       992,000         5,658,000      5,669,000    12,319,000
+
+          (1)  Commercial sales are primarily catalog items sold
+to other manufacturers.  For Behlman sales, these manufacturers
+include defense contractors who may use such goods for test of
+military products.
+
+          During the year ended June 30, 1995, General Motors
+Hughes Aircraft Corporation accounted for approximately 43% of
+gross sales.  Production orders for this customer are scheduled
+for completion in October 1995.
+
+          (7)  Patents, Trademarks and Licenses.   The Company's
+subsidiary, AstroPower Inc., has been assigned 7 patents that
+cover various aspects of its continuing solar cell development
+activities.  In 1983, the Company acquired a 16 year license from
+the University of Delaware covering a new process for the
+manufacture of solar cells and has exclusively sublicensed the
+patents and technology to AstroPower Inc. (see Note D[4] to the
+Financial Statements).  Effective December 1993, the term of the
+license agreement was extended to 2006.
+
+
+          (8)  Government Approval.   Inapplicable.
+
+          (9)  Special Features of Government Contracts.  The
+extensive involvement of Registrant in government-related defense
+contracts subjects Registrant to several potentially adverse
+factors affecting defense contractors in general.
+
+          As noted above, approximately 54% of Registrant's sales
+during the year ended June 30, 1995 were related, directly or
+indirectly, to government defense programs, and any substantial
+ overall reduction in defense expenditures adversely affects the
+business of Registrant.
+
+          Orders under government prime or subcontracts are
+customarily subject to termination at the convenience of the
+government, in which event the contractor is normally entitled to
+reimbursement for allowable costs and a reasonable allowance for
+profits unless the termination of a contract was due to a default
+on the part of the contractor.  During the fiscal years ended
+June 30, 1995 and June 30, 1994, no government prime contracts
+were cancelled. 
+
+          (10) Research and Development.  For the years ended
+June 30, 1995 and 1994, the amounts expended for research and
+development were not material.    
+
+          (11) Environmental Regulation Compliance.  Registrant
+is of the belief that compliance with Federal, state and local
+provisions which may have been enacted or adopted regulating the
+discharge of materials into the environment, or otherwise
+relating to the protection of the environment, will have no
+material effect upon its capital expenditures, earnings and
+competitive position.
+
+          (12) Number of Employees.  Registrant currently has 113
+full time employees.  Management believes its relations with its
+employees are good.  No employees are represented by a collective
+bargaining agreement.
+
+Item 2.   Description of Property.
+
+          Registrant's principal executive offices and
+ engineering, manufacturing and testing facilities are located in
+Lake Success, Long Island, New York, where Registrant occupies
+approximately 46,550 square feet of usable space.  The premises
+are leased from an unaffiliated party through August 31, 1996
+(cancelable upon ninety days notice) at an annual rental of
+approximately $505,000, which includes common area maintenance,
+plus real estate taxes of approximately $143,000 (at 1995 rates).
+
+          Registrant's subsidiary, Behlman Electronics, Inc.,
+leases space in Ventura, California at an annual rental of
+$13,300.  The lease expires December 31, 1995.
+
+
+          Registrant's subsidiary, AstroPower, Inc., leases
+40,000 square feet of space from the University of Delaware under
+a 20 year lease starting July 1, 1991.  Current lease payments
+are $178,000 per year.
+
+Item 3.   Legal Proceedings.
+
+          There are no material pending legal proceedings to
+which Registrant or any of its subsidiaries is a party or of
+which any of their property is the subject.
+
+Item 4.   Submission of Matters to a Vote of Security Holders.
+
+          There were no matters submitted to a vote of security
+holders during the three month period ended June 30, 1995.
+<PAGE>
+                            PART II
+
+Item 5.   Market for Common Stock and Related Stockholder
+          Matters.
+
+     (a)  Registrant's Common Stock is traded in the over-the-
+counter market (NASDAQ symbol:  ASTR).  The following table sets
+forth the quarterly high and low bid prices for the last two
+fiscal years, as reported by the National Association of
+Securities Dealers, Inc.  The quotations set forth below
+represent interdealer quotations (which exclude retail markups,
+markdowns and commissions) and do not necessarily reflect actual
+transactions.
+
+
+                                                    Bid
+               Quarterly Period              High        Low
+
+          July 1993 - September 1993         4 11/16     4 1/8
+          October 1993 - December 1993       4 1/2       3 7/8
+          January 1994 - March 1994          5 1/4       4 
+          April 1994 - June 1994             4 5/8       4 1/8
+          July 1994 - September 1994         4 5/8       4 1/8
+          October 1994 - December 1994       4 3/8       3 7/8
+          January 1995 - March 1995          4 5/16      3 7/8
+          April 1995 - June 1995             5 3/8       4 
+
+
+
+     (b)  The number of stockholders of record of the
+Registrant's Common Stock, par value $.10 per share, as of June
+30, 1995 was 1,055.
+
+     (c)  Registrant has not paid any cash dividends since its
+inception in 1959.  Any decision as to the future payment of
+dividends will depend on the future financial requirements of
+Registrant.
+
+Item 6.   Management's Discussion and Analysis or Plan of
+          Operation.
+
+          Liquidity, Capital Resources and Impact of Inflation
+
+          Cash and Cash Equivalents, plus Marketable Securities,
+and U.S. Treasury Notes increased from $33,306,000 to $34,779,000
+since the beginning of the fiscal year.  This increase was
+primarily due to increased interest on investments.
+
+          Accounts Receivable - Claims are the estimated billings
+associated with terminations and changes on government contracts
+and subcontracts.  These receivables normally require a period of
+negotiation before a final price is established.
+     
+          The Company announced on October 23, 1992 a Board of
+Directors authorization for the repurchase of up to 500,000
+shares of Common Stock to be made from time to time through open
+market and privately negotiated transactions.  Since that time
+408,727 shares have been repurchased.  The Company did not
+repurchase any of its Common Stock for the fiscal year ended June
+30, 1995.
+
+          Inflation has not materially impacted the operations of
+the Company.
+
+          Results of Operations 
+
+          Comparison of Fiscal 1995 vs Fiscal 1994 - The
+Company's sales for the year ended June 30, 1995 declined from
+the prior equivalent period by $1,098,000 or 8.2%.  Defense
+Electronics Sales had an expected substantial decline which was
+partly offset by a 48.5% increase in Behlman Electronics sales. 
+Industrial Automation sales also declined.
+
+          Defense Electronics sales are expected to continue to
+decrease due to the current defense procurement environment with
+its declining budgets and resulting fierce price competition. 
+Production deliveries of ADCAP Torpedo Power Supplies, which were
+the Company's major defense product, have been completed.  The
+Company is attempting to offset a decline in Defense Electronics
+revenue by increased commercial sales for Industrial Automation
+Products and Behlman Electronics.  In addition, the Company is
+seeking niche Defense Electronics markets such as repair and
+maintenance of the Company's products as well as products of
+other manufacturers.  Behlman Electronics during fiscal 1995
+accomplished a major increase in revenue.  However, there is no
+assurance that the Company's strategy will be successful in the
+long run and the Company anticipates a further substantial
+decrease in total sales during fiscal 1996.
+
+          Cost of Sales as a percentage of revenue for the year
+ended June 30, 1995 was 72.3% of revenue versus 69.9% for the
+prior equivalent period.  The Company's Cost of Sales includes
+fixed expenses such as rent; in addition, the Company's
+Government contracts and subcontracts require certain expenses
+such as quality assurance personnel, which cannot be reduced in
+proportion to revenue.  Therefore, unless the Company can reverse
+its revenue decline, the long term Cost of Sales percentage will
+increase.
+
+          Selling, General and Administrative Expenses did not
+decrease in proportion to revenue due to certain fixed expenses
+which could not be reduced, as well as the necessity to maintain
+the Company's sales and marketing force.
+
+          Investment income for the comparative periods is shown
+below:
+ 
+                                Fiscal Year Ended June 30,
+                                1995               1994   
+Interest & Dividend Income      $1,700,000         $1,205,000
+(Loss) on Securities               (52,000)          (217,000)
+                                __________         __________
+Investment Income               $1,648,000         $  988,000
+                                 =========            =======
+
+Interest and Dividend Income increased due to higher interest
+rates on invested funds.  The Loss on Securities in Fiscal Year
+1995 was primarily due to a realized loss in a U.S. Treasury
+mutual fund; the loss in Fiscal Year 1994 was primarily due to an
+unrealized loss on the same U.S. Treasury mutual fund.
+
+     Income taxes for the year ended June 30, 1995 were
+approximately 28% of pretax income which is lower than the
+Federal statutory rate of 34% principally due to a change in
+New York State tax law permitting utilization of net operating
+loss carryforwards in computing New York State franchise tax
+under the minimum taxable income base, which resulted in
+subjecting the Company's income to New York State franchise tax
+under the entire net income base.
+
+     Income tax benefit for the year ended June 30, 1994 included
+$392,000 from the reversal of a tax reserve no longer required.
+
+     Net earnings for the fiscal year ended June 30, 1995 were
+$623,000 or $.13 per share.
+     
+     Net earnings for the fiscal year ended June 30 ,1994 were
+$1,135,000 or $.22 per share which includes $404,000 or $.08 per
+share from the cumulative effect of a change in accounting
+principle relating to accounting for income taxes (SFAS No. 109)
+and $392,000 or $.07 per share relating  to the effect of the
+reversal of income tax reserves no longer required.
+
+Item 7.        Financial Statements.
+<PAGE>
+                                 RICHARD A. EISNER & COMPANY, LLP
+                                 Accountants and Consultants
+
+
+
+
+                   REPORT OF INDEPENDENT AUDITORS
+
+
+Board of Directors and Shareholders
+Astrosystems, Inc.
+Lake Success, New York
+
+     We have audited the accompanying consolidated balance sheets
+of Astrosystems, Inc. and subsidiaries as at June 30, 1995 and
+June 30, 1994, and the related consolidated statements of
+operations, changes in shareholders' equity and cash flows for
+each of the years then ended.  These financial statements are the
+responsibility of the Company's management.  Our responsibility
+is to express an opinion on these financial statements based on
+our audits.
+
+     We conducted our audits in accordance with generally
+accepted auditing standards.  Those standards require that we
+plan and perform the audit to obtain reasonable assurance
+about whether the financial statements are free of material
+misstatement.  An audit includes examining, on a test basis,
+evidence supporting the amounts and disclosures in the financial
+statements.  An audit also includes assessing the accounting
+principles used and significant estimates made by management, as
+well as evaluating the overall financial statement
+presentation.  We believe that our audits provide a reasonable
+basis for our opinion.
+
+     In our opinion, the financial statements enumerated above
+present fairly, in all material respects, the consolidated
+financial position of Astrosystems, Inc. and subsidiaries as at
+June 30, 1995 and June 30, 1994, and the results of their
+operations and cash flows for each of the years then ended in
+conformity with generally accepted accounting principles.
+
+
+
+Richard A. Eisner & Company, LLP
+
+New York, New York
+September 8, 1995
+
+
+
+
+          575 Madison Avenue, New York, NY 10022-2597
+        Member of Summit International Associates, Inc.
+New York, NY   Melville, NY    Cambridge, MA    Florham Park, NJ
+<PAGE>
+               ASTROSYSTEMS, INC. AND SUBSIDIARIES
+                    CONSOLIDATED BALANCE SHEETS
+
+                                              June 30,
+                                         1995         1994     
+ASSETS
+Current assets:
+   Cash and cash equivalents             $13,119,000  $22,916,000
+   Marketable securities 
+      (Notes A[3] and C)                   8,680,000   10,390,000
+   Accounts receivable (less estimated
+      doubtful accounts of $58,000
+      in 1995 and $58,000 in 1994) 
+      (Notes A[6] and I[1])                4,099,000    1,977,000
+   Accounts receivable - claims              360,000    1,108,000
+   Inventories (Notes A[4] and B)          3,528,000    4,618,000
+   Prepaid expenses and other 
+      current assets                         437,000      227,000
+                                          __________    _________
+           Total current assets           30,223,000   41,236,000
+U.S. Treasury Notes (Notes A[3] and C)    12,980,000
+Long-term investments (Note E)               275,000      275,000
+Factory, laboratory and other equipment
+      (net of accumulated depreciation 
+      and amortization of $2,599,000 
+      in 1995 and $2,414,000 in 1994) 
+      (Note A[5])                            198,000      362,000
+Excess of cost over the fair value of 
+      net assets acquired, net of 
+      accumulated amortization 
+      (Note A[7])                            230,000      277,000
+Other assets                                 351,000      233,000
+                                          __________  ___________
+           TOTAL                         $44,257,000  $42,383,000
+                                          ==========   ==========
+
+LIABILITIES AND SHAREHOLDERS' EQUITY
+Current liabilities:
+   Accounts payable                      $   354,000  $   352,000
+   Accrued payroll and employee benefits     304,000      296,000
+   Other accrued liabilities (Note J)      1,034,000      347,000
+   Income taxes payable                        3,000       11,000
+                                          __________   __________
+           Total current liabilities       1,695,000    1,006,000
+Deferred income taxes (Note G)             8,240,000    8,000,000
+                                          __________   __________
+           Total liabilities               9,935,000    9,006,000
+                                          __________   __________
+Contingencies and commitments (Note D)
+
+SHAREHOLDERS' EQUITY (Notes D[3] and F)
+   Capital stock - common - authorized 
+      10,000,000 shares, $.10 par value;
+      issued and outstanding 4,581,727 
+      shares in 1995 and 4,548,848 
+      shares in 1994                         458,000      455,000
+   Additional paid-in capital              6,848,000    6,529,000
+   Retained earnings                      27,016,000   26,393,000
+                                          __________   __________
+           Total shareholders' equity     34,322,000   33,377,000
+                                          __________   __________
+           TOTAL                         $44,257,000  $42,383,000
+                                          ==========   ==========
+
+          See accompanying notes to financial statements.
+<PAGE>
+                ASTROSYSTEMS, INC. AND SUBSIDIARIES
+     CONSOLIDATED STATEMENTS OF CHANGES IN SHAREHOLDERS' EQUITY
+
+
+                         Common
+                      Shares Issued
+
+                         Number            Additional
+                           of        Par    Paid- in    Retained
+                         Shares     Value    Capital    Earnings
+
+Balance-June 30, 1993   4,551,525 $455,000 $6,526,000 $25,258,000
+
+Net earnings for the year                               1,135,000
+
+Shares issued to retire-
+  ment plan (Note D[2])    31,700    3,000    132,000
+
+Compensation attribu-
+  table to extending 
+  of stock options                             40,000
+
+Exercise of stock 
+  options                  20,500    2,000     56,000
+
+Purchase and retirement 
+  of shares               (54,877)  (5,000)  (225,000)
+                        _________  _______  _________ __________
+Balance-June 30, 1994   4,548,848  455,000  6,529,000 26,393,000
+
+Net earnings for the year                                623,000
+
+Shares issued to retire-
+  ment plan (Note D[2])    32,179    3,000    133,000
+
+Compensation attribu-
+  table to extending 
+  of stock options                            184,000
+
+Exercise of stock 
+  options                     700               2,000
+                        _________  _______  _________ __________
+BALANCE-JUNE 30, 1995   4,581,727 $458,000 $6,848,000 $27,016,000
+
+
+           See accompanying notes to financial statements.
+<PAGE>
+              ASTROSYSTEMS, INC. AND SUBSIDIARIES
+             CONSOLIDATED STATEMENTS OF OPERATIONS
+
+                                           Year Ended June 30,
+                                            1995        1994
+
+
+Sales (Notes A[6] and I[1])             $12,319,000  $13,417,000
+
+Cost of sales                             8,901,000    9,380,000 
+
+Selling, general and administrative 
+  expenses                                4,203,000    4,329,000
+                                         __________   __________
+                                         13,104,000   13,709,000 
+                                         __________   __________
+(Loss) from operations                     (785,000)    (292,000)
+Investment income (Note I[2])             1,648,000      988,000 
+                                         __________   __________
+Earnings before taxes on income             863,000      696,000  
+                                         __________   __________
+Income taxes (benefit) (Notes A[8] and G):
+   Current                                              (535,000)
+   Deferred                                 240,000      500,000 
+                                         __________   __________
+                                            240,000      (35,000)
+                                         __________   __________
+Earnings before cumulative effect 
+   of change in accounting principle        623,000      731,000 
+Cumulative effect of change in 
+   accounting principle - adoption 
+   of SFAS No. 109 (Note A[8])                           404,000  
+                                         __________   __________
+NET EARNINGS                            $   623,000   $1,135,000 
+                                         ==========    =========
+
+Primary and fully diluted earnings 
+   per share (Note  H): 
+
+Earnings before cumulative effect of 
+   change in accounting principle       $.13          $.14  
+Cumulative effect of change in 
+   accounting principle                                .08  
+                                         ___           ___
+       Net earnings per share           $.13          $.22  
+
+
+          See accompanying notes to financial statements.
+<PAGE>
+                ASTROSYSTEMS, INC. AND SUBSIDIARIES
+               CONSOLIDATED STATEMENTS OF CASH FLOWS
+
+                                           Year Ended June 30,
+                                            1995        1994
+Cash flows from operating activities:
+  Net earnings                          $   623,000  $ 1,135,000
+  Adjustments to reconcile net 
+    earnings to net cash provided by 
+    operating activities:
+      Cumulative effect of a change in 
+        accounting principle                            (404,000)
+      Depreciation and amortization         232,000      204,000 
+      Increase in provision for un-
+        realized loss on securities                      222,000
+      Reversal of income tax reserves 
+        no longer required                              (392,000)
+      Deferred taxes                        240,000      500,000 
+      (Loss) on sale of securities          (52,000)
+      Options extended                      184,000       40,000 
+      Other                                                8,000 
+      Shares issued to retirement plan      136,000      135,000 
+      Changes in operating assets 
+        and liabilities:
+        (Increase) decrease in accounts 
+          receivable                     (1,374,000)   3,915,000 
+        Decrease in inventories           1,090,000      189,000 
+        (Increase) decrease in prepaid 
+          expenses, other current assets,
+          and other assets                 (328,000)      53,000 
+        Increase (decrease) in accounts 
+          payable                             2,000     (295,000)
+        (Decrease) in taxes payable          (8,000)     (21,000)
+        Increase in accrued payroll, 
+          employee benefits and other 
+          accrued liabilities               695,000      107,000 
+                                          _________    _________ 
+          Net cash provided by operating
+            activities                    1,440,000    5,396,000 
+                                          _________    _________ 
+Cash flows from investing activities:
+  Sale and maturities of marketable 
+    securities                            6,404,000    3,598,000 
+  Purchases of marketable securities    (17,622,000)  (5,145,000)
+  Acquisition of equipment                  (21,000)    (107,000)
+  Liquidation of minority interest                       (48,000)
+  Distribution from investment                            62,000
+                                          _________    _________ 
+          Net cash (used in) 
+          investing activities          (11,239,000)  (1,640,000)
+
+Cash flows from financing activities:
+  Proceeds from exercise of stock options     2,000       58,000 
+  Purchase and retirement of common shares              (230,000)
+                                          _________    _________ 
+          Net cash provided by (used in)
+          financing activities                2,000     (172,000)
+                                          _________    _________ 
+
+NET (DECREASE) INCREASE IN CASH AND 
+  CASH EQUIVALENTS                       (9,797,000)   3,584,000 
+Cash and cash equivalents, beginning 
+  of year                                22,916,000   19,332,000 
+                                         __________    __________ 
+
+CASH AND CASH EQUIVALENTS, END OF YEAR  $13,119,000  $22,916,000 
+                                         ==========   ==========
+
+Supplemental disclosures of cash flow information:
+  Cash paid during the year 
+    for income taxes                    $    15,000  $    11,000 
+  Income tax refunds received                56,000       73,000 
+
+           See accompanying notes to financial statements.
+<PAGE>
+                ASTROSYSTEMS, INC. AND SUBSIDIARIES
+                   NOTES TO FINANCIAL STATEMENTS
+
+(NOTE A) - Summary of Significant Accounting Policies:
+
+      [1]  Principles of consolidation:
+
+           The consolidated financial statements include the
+accounts of the Company and its subsidiaries.  Material
+inter-company transactions and account balances have been
+eliminated in consolidation.
+
+      [2]  Statement of cash flows:
+
+           For purposes of the statement of cash flows, the
+Company considers all highly liquid debt instruments purchased
+with a maturity of three months or less to be cash equivalents.
+
+      [3]  Marketable securities:
+
+           In July 1994, the Company adopted the provisions of
+Statement of Financial Accounting Standards No. 115 "Accounting
+for Certain Investments in Debt and Equity Securities" (SFAS
+115).  This standard requires the Company to classify its
+investments as held-to-maturity, available for sale, or trading. 
+The Company classifies all of its securities as held-to-maturity
+which are carried at amortized cost.  The adoption of SFAS 115
+had no significant impact on the Company's financial statements
+at June 30, 1995.  At June 30, 1995 marketable securities
+consisted of U.S. Treasury obligations, of which $8,680,000 is
+current, and $12,980,000 matures through 1998.
+
+      [4]  Inventories:
+
+           Inventories are stated at the lower of cost (first-in,
+first-out) or market.
+
+      [5]  Factory, laboratory, and other equipment:
+
+           Equipment is depreciated over estimated useful lives
+of 3 to 8 years, computed primarily on the straight-line method.
+
+           Leasehold improvements are amortized on the straight-
+line method over the life of the improvement, or the term of the
+lease, whichever is shorter.
+
+      [6]  Revenue and revenue recognition:
+
+           The Company is engaged in the manufacture and sale of 
+electronic and electromechanical devices for measurement,
+display, control and power input.  The Company records its sales
+when the manufacturing process is substantially complete, and,
+accordingly, accrues all additional costs required to complete
+the units.
+
+
+           The Company's warranty on commercial sales is normally
+90 days except for certain products and customers where the 
+warranty is one year.  The warranty provisions on military sales
+are normally negotiated for each major contract.  Warranty
+expense has been minimal in recent years.
+
+      [7]  Excess of cost over the fair value of net assets
+           acquired:
+
+           The excess of cost over the fair value of net assets
+acquired is being amortized on a straight line basis over ten
+years.
+
+      [8]  Income taxes:
+
+           The Company changed its method of accounting for
+income taxes, effective as of July 1, 1993, to comply with the
+provisions of Statement of Financial Accounting Standards No. 109
+(SFAS 109), "Accounting for Income Taxes."  Deferred income taxes
+are based on the liability method as prescribed by SFAS 109,
+which requires an adjustment to the deferred tax liability to
+reflect income tax rates currently in effect rather than
+historical rates.  When income tax rates increase or decrease, a
+corresponding adjustment to income tax expense is recorded
+currently by applying the rate change to the cumulative temporary
+differences.  The cumulative effect of adopting SFAS 109 through
+June 30, 1993 was $404,000, which is included in the accompanying
+Statement of Operations for the year ended June 30, 1994.
+
+(NOTE B) - Inventories:
+
+      Inventories comprise the following:
+                                                June 30,
+                                            1995        1994
+
+           Raw material                 $1,762,000   $2,100,000
+           Work in process               1,766,000    2,518,000
+                                         _________    _________
+               TOTAL                    $3,528,000   $4,618,000
+                                         =========    =========
+
+           Work in process includes materials, labor, and
+manufacturing overhead.
+
+(NOTE C) - Marketable Securities:
+
+           At June 30, 1995 and June 30, 1994 marketable
+securities included in current assets had a cost of $8,680,000
+and $10,637,000, respectively (which includes U.S. Treasury
+obligations at a cost of $8,680,000 and $7,989,000,
+respectively).
+
+(NOTE D) - Contingencies and Commitments:
+
+      [1]  The Company has a profit-sharing plan which provides
+benefits upon retirement, death, incapacity or separation of
+eligible employees. There was no profit-sharing expense for the
+years ended June 30, 1995 and June 30, 1994.
+
+      [2]  The Company has a Retirement Savings Plan which allows
+participants to make contributions by salary reduction pursuant
+to section 401(k) of the Internal Revenue Code of 1986.  The
+Company is obligated to make  contributions (either in cash or
+Company stock) equal to 50% of the employees' contribution.  The
+Company's contributions to the plan for the years ended June 30,
+1995 and June 30, 1994 consisted of the Company's common stock
+which it valued at $136,000 and $135,000, respectively. 
+Employees vest immediately in their contribution and in the
+Company's contribution.
+
+      [3]  The Company and its three principal officers are
+parties to a stock retirement agreement which requires the
+Company, upon the death of any of these officers, to purchase
+30% of his holdings of the Company's common stock at a price
+equal to the greater of the average market price over the last
+six months or the book value.  The Company has life insurance
+policies on the lives of the aforementioned officers to fund
+substantially all of its obligations in the event of their death.
+
+      [4]  In 1983, the Company acquired a 16-year license from
+the University of Delaware covering a new  process for the
+manufacture of solar cells.  In connection with the acquisition
+of the aforementioned license, the Company issued a $20,000,000
+nonrecourse note originally due in 1993 and bearing interest at
+14% per year.  The note is secured by the Company's rights under
+the license and is to be paid prior to its due date solely on the
+basis of 4% of sales of products developed by this process,
+subject to certain minimum quarterly payments of $11,250 to
+$12,500.  An amendment to the License Agreement extended the term
+of the license agreement to 2006 as well as extended the due date
+of the note to May 1999.  As consideration for the amendment, the
+Company paid $115,000 in cash, which was charged to operations
+for the year ended June 30, 1994, and transferred 35,000 shares
+of stock in its investment in AstroPower, Inc.  For the year
+ended June 30, 1995, the Company paid $34,000 in quarterly
+payments.  The Company, for financial reporting purposes, has not
+recorded the note and will charge operations with any payments. 
+No payments based on sales were required to be made through June
+30, 1995.  To the extent that any lump-sum payment is made, the
+license cost would be amortized from that date forward, thus
+matching the cost of the license against sales from that date
+forward.  (See Note E).
+
+      [5]  The Company is obligated for minimum annual rentals
+under leases for office and factory space expiring in fiscal 1997
+as follows:
+
+           Year ending 
+             June 30, 
+               1996                                      352,000
+               1997                                       58,000
+                                                         _______
+                 TOTAL                                  $410,000
+                                                         =======
+
+           The terms of the leases include escalation clauses for
+increases in real estate taxes and certain operating expenses. 
+Total rent expense aggregated $527,000 and $505,000 for the years
+ended June 30, 1995 and June 30, 1994, respectively.  In August
+1995, the Company extended its Lake Success lease through August
+31, 1996, cancelable upon ninety days notice.
+
+      [6]  Employment contracts with the officers of the Company,
+which may be terminated by the Company on not less than three
+years prior notice, provide for minimum annual total compensation
+of approximately $748,000.  In the event of death or disability
+of the Company's principal officers while employed, the contracts
+call for payments of 50% of compensation paid in the preceding
+fiscal year for the three years following such event. 
+
+      [7]  Concentration of Credit Risk:  Most of the Company's
+customers are large prime contractors with the U.S. Government or
+various departments and agencies of the U.S.  Government (see
+Note I[1]).
+
+           The Company  maintains its operating cash account at
+one bank.  Other cash and cash equivalents are held in dollar
+denominated mutual funds which invest in United States Treasury
+obligations.  
+
+           Marketable securities are United States Treasury
+obligations.
+
+(NOTE E) - Long-term Investments:
+
+           The Company owned 81% of a subsidiary corporation, 
+ASI Solar Energy Corporation, which was liquidated in June 1994. 
+That corporation's major asset was an investment in AstroPower,
+Inc., which was distributed as part of the liquidation.  The
+Company, as a result of this transaction and the transfer of
+AstroPower, Inc. shares described in Note D[4], owns 32.3% of the
+common stock of AstroPower, Inc.  Assuming certain convertible
+preferred stock is converted to common stock, Astrosystems'
+interest in AstroPower, Inc. would be reduced to 22.8%.  Such
+investment was accounted for on the equity method and,
+accordingly, the Company recorded its share in the losses of this
+entity as a reduction of its investment.  This investment was
+fully written down to zero in prior years.
+
+           The long-term investment shown on the accompanying
+balance sheets represents an investment in a venture capital
+limited partnership.  The estimated fair value of the investment
+at June 30, 1995 is at least equal to the carrying value.
+
+(NOTE F) - Stock Options
+
+           The Company's 1981 Stock Option Plan provided for the
+granting of options to purchase up to 1,000,000 shares of its
+common stock to eligible employees and non-employee directors. 
+Such plan expired in April 1991.
+
+           The Company's 1991 Stock Option Plan provides for the
+granting of options to purchase up to 1,500,000 shares of its
+common stock to eligible employees, non- employee directors,
+consultants and advisors.
+
+           A summary of stock option activity related to the
+Company's stock option plans is as follows:
+
+                                                     Number of
+                         Number of   Option Price      Shares
+                           Shares      Per Share     Exercisable
+
+Outstanding at 
+  June 30, 1993          1,357,297   $2.88 - $3.38    1,115,006
+                                                      =========
+     Exercised             (20,500)  $2.88
+     Granted               305,000   $3.88 - $4.00
+                         _________
+Outstanding at 
+  June 30, 1994          1,641,797   $2.88 - $4.00    1,233,464
+                                                      =========
+    Exercised                 (700)  $2.88
+    Granted                  3,500   $3.88 
+                         _________
+Outstanding at 
+  June 30, 1995          1,644,597   $2.88 - $4.00    1,334,222
+                                                      =========
+
+           During the years ended June 30, 1995 and June 30,
+1994, 150,000 and 24,500 stock options, respectively, were
+extended.  The extended options are considered to have been
+granted pursuant to the 1991 Stock Option Plan.  A charge was
+made to operations for approximately $184,000 and $40,000
+respectively, which represents the difference between the option
+price and the market value at the time of their extension.  
+
+           As at June 30, 1995, options for the purchase of
+378,213 shares were available for future grant.
+
+(NOTE G) - Taxes on Income:
+
+           The components of the provision for taxes on income
+are as follows:
+
+                                          Year Ended June 30,
+
+                                          1995          1994
+Federal income taxes:
+  Current                                            $(115,000)
+  Deferred                              $500,000       400,000 
+State and local taxes:
+  Current                                             (420,000)
+  Deferred                              (260,000)      100,000 
+                                         _______       _______ 
+                                        $240,000     $ (35,000)
+
+
+           A reconciliation between the Company's effective rate
+and the U.S. Federal income tax rate is as follows:
+
+                                           Year Ended June 30,
+                                            1995        1994
+
+Statutory rate                              34.0%       34.0% 
+Reversal of reserves no longer required                (56.6)   
+Federal income tax related to the 
+  liquidation of a subsidiary                            6.2    
+State taxes (benefit), net of federal 
+  benefit (expense)                        (14.0)        9.5    
+Investment income not subject to tax                    (1.5)   
+Nondeductible expenses                       6.8         5.2    
+Other, net                                   1.0        (1.8) 
+                                            ____        ____  
+           Actual tax rate                  27.8%       (5.0)%
+                                            =====       ======
+
+The deferred tax liability  at June 30, 1995 is as follows:
+
+Deferred tax liability:
+  Difference between financial reporting and tax 
+    bases of University of Delaware license and
+    related note (see Note D[4])                     $11,419,000 
+                                                      __________
+
+Deferred tax (asset):
+
+   Utilization of net operating loss carryforward    $(2,751,000)
+   Utilization of the percentage of completion 
+     method of revenue recognition for tax purposes     (233,000)
+   Utilization of capital loss carryforward             (111,000)
+   Utilization of compensation deduction                 (71,000)
+   Expenses for financial reporting not yet 
+     deductible for taxes                                (13,000)
+                                                      __________
+                                                     $(3,179,000)
+                                                      __________
+Net deferred tax liability - June 30, 1995           $ 8,240,000 
+                                                      ==========
+
+           Deferred tax expense results from temporary
+differences in the recognition of revenue and expense for tax and
+financial reporting purposes.  The principal sources of these
+differences were amortization and accrued interest referred to in
+Note D[4], the tax effect of which was $240,000 and $500,000 for
+the years ended June 30, 1995 and June 30, 1994, respectively.
+
+           At June 30, 1995, the Company had available net
+operating loss carryforwards for income tax reporting purposes as
+follows:
+
+                             Expiring in 
+        Year Ended       Net Operating Loss      Year Ending
+         June 30,          Carry Forwards          June 30,   
+
+          1990               $1,302,000              2005
+          1991                3,252,000              2006
+          1993                  596,000              2008
+          1994                  578,000              2009
+          1995                1,200,000              2010
+                              _________
+                             $6,928,000
+                              =========
+
+(NOTE H) - Per Share Amounts:
+
+           Per share amounts are computed using the weighted
+average number of common shares outstanding and common equivalent
+shares outstanding during each period utilizing the modified
+treasury stock method. 
+
+(NOTE I) - Other Matters:
+
+      [1]  Major Customers:
+
+           During the years ended June 30, 1995 and June 30,
+1994, $6,650,000 (54%) and $8,919,000 (66%), respectively, of the
+Company's sales arose from United States government contracts
+under which the Company was either a prime contractor or a
+subcontractor.
+
+           In fiscal 1995, approximately $5,254,000 (43%) of the
+Company's revenues were from one customer.  In 1994 approximately
+$5,092,000 (38%) and $2,402,000 (18%) of the Company's revenues
+were from the customer referred to above and a second customer,
+respectively.   
+
+           At June 30, 1995 and June 30, 1994, accounts
+receivable included $2,390,000 and $1,404,000 from its major
+customer. 
+
+      [2]  Investment Income:
+                                           Year Ended June 30,
+                                            1995        1994
+
+      Interest on investments           $1,700,000   $1,166,000
+      Dividends                                          39,000
+      (Increase) in provision for 
+        unrealized loss on securities                  (222,000)
+      (Loss) gain on sale of securities    (52,000)       5,000 
+                                         _________    _________
+             TOTAL                      $1,648,000     $988,000 
+                                         =========      =======
+
+(NOTE J)  Other Accrued Liabilities:
+
+          Other accrued liabilities consist of the following:
+                                                June 30,
+                                            1995        1994
+
+
+      Commissions payable               $  205,000     $ 87,000
+      Customer credit balances             671,000
+      Accrued professional fees            101,000      117,000
+      Other accrued liabilities             57,000      143,000
+                                         _________     _________
+             TOTAL                      $1,034,000     $347,000
+
+
+Item 8.   Changes in and Disagreements with Accountants on
+          Accounting and Financial Disclosure.
+
+          Inapplicable.
+
+
+<PAGE>
+                           PART III
+
+Item 9.   Directors, Executive Officers, Promoters and Control 
+          Persons; Compliance with Section 16(a) of the Exchange
+          Act.
+
+          The information called for hereunder has been omitted
+pursuant to Paragraph E(3) of the General Instructions inasmuch
+as the Company intends to file definitive proxy materials
+containing such information with the Securities and Exchange
+Commission prior to the expiration of 120 days following the
+close of the Company's fiscal year which is the subject of
+this Annual Report.  
+
+Item 10. Executive Compensation.
+
+         The information called for hereunder has been omitted
+pursuant to Paragraph E(3) of the General Instructions inasmuch
+as the Company intends to file definitive proxy materials
+containing such information with the Securities and Exchange
+Commission prior to the expiration of 120 days following the
+close of the Company's fiscal year which is the subject of
+this Annual Report.
+
+Item 11. Security Ownership of Certain Beneficial Owners and
+         Management.
+
+         The information called for hereunder has been omitted
+pursuant to Paragraph E(3) of the General Instructions inasmuch
+as the Company intends to file definitive proxy materials
+containing such information with the Securities and Exchange
+Commission prior to the expiration of 120 days following the
+close of the Company's fiscal year which is the subject of
+this Annual Report.
+
+Item 12. Certain Relationships and Related Transactions.
+
+         The information called for hereunder has been omitted
+pursuant to Paragraph E(3) of the General Instructions inasmuch
+as the Company intends to file definitive proxy materials
+containing such information with the Securities and Exchange
+Commission prior to the expiration of 120 days following the
+close of the Company's fiscal year which is the subject of
+this Annual Report.
+
+Item 13. Exhibits, List and Reports on Form 8-K.
+
+     (a) Exhibits:
+ 
+         (3) (a)  Certificate of Incorporation and Certificate
+                  of Amendment thereto - incorporated by
+                  reference to Exhibit 3(a) to Registrant's
+                  Annual Report on Form 10-KSB for its fiscal
+                  year ended June 30, 1993.
+             (b)  Bylaws -  incorporated by reference to Exhibit
+                  3(b) to Registrant's Annual Report on Form
+                  10-KSB for its fiscal year ended June 30, 1993.
+          
+         (10)(a)  Lease with regard to 6 Nevada Drive, Lake
+                  Success, NY premises - incorporated by
+                  reference to Exhibit 10 to Registrant's Annual
+                  Report on Form 10-K for its fiscal year ended
+                  June 30, 1991.
+
+              (b) Lease with regard to AstroPower, Inc., Delaware
+                  premises - incorporated by reference to Exhibit
+                  10 to Registrant's Annual Report on Form 10-K
+                  for its fiscal year ended June 30, 1990.
+
+              (c) 1991 Stock Option Plan - incorporated by
+                  reference to Exhibit A to Registrant's
+                  definitive Proxy Statement dated December 12,
+                  1990.
+
+              (d) Settlement Agreement with Internal Revenue
+                  Service - incorporated by reference to Exhibit
+                  10 to Registrant's Annual Report on Form 10-K
+                  for its fiscal year ended June 30, 1991.
+
+              (e) Stock Retirement Agreement dated August 31,
+                  1980 among Registrant and Messrs. Barth,
+                  Bergman and G. Steinberg - incorporated by
+                  reference to Exhibit 10 to Registrant's Annual
+                  Report on Form 10-K for its fiscal year ended
+                  June 30, 1991.
+
+              (f) Employment Agreement dated as of April 18,
+                  1994 between Registrant and Seymour Barth -
+                  incorporated by reference to Exhibit 10 to
+                  Registrant's Annual Report on Form 10-KSB for
+                  its fiscal year ended June 30, 1994.
+
+              (g) Employment Agreement dated as of April 18,
+                  1994 between Registrant and Elliot Bergman - 
+                  incorporated by reference to Exhibit 10 to
+                  Registrant's Annual Report on Form 10-KSB for
+                  its fiscal year ended June 30, 1994.
+
+              (h) Employment Agreement dated as of April 18,
+                  1994 between Registrant and Gilbert H.
+                  Steinberg - incorporated by reference to
+                  Exhibit 10 to Registrant's Annual Report on
+                  Form 10-KSB for its fiscal year ended June 30,
+                  1994.
+
+              (i) Third Lease Modification Agreement with regard
+                  to 6 Nevada Drive, Lake Success, NY premises.
+
+          (11) Computation of Earnings Per Common Share.
+
+          (21) Subsidiaries of Registrant.
+
+          (23) Consent of Richard A. Eisner & Company, LLP
+
+   (b)    Reports on Form 8-K:
+
+          No Report on Form 8-K was filed during the three months
+ended June 30, 1995.
+
+
+<PAGE>
+                         SIGNATURES
+
+     In accordance with the requirements of the Exchange Act,
+the Registrant caused this report to be signed on its behalf by
+the undersigned thereunto duly authorized.
+
+                                         ASTROSYSTEMS, INC.
+
+                                         BY:
+                                             /S/
+                                             Seymour Barth,
+                                             President
+
+                                             September 27, 1995
+
+     In accordance with the Exchange Act, this report has been
+signed below by the following persons on behalf of the Registrant
+and in the capacities and on the dates indicated.
+
+/S/
+Seymour Barth, President, Principal Executive
+               Officer and Director         September 27, 1995
+
+
+/S/
+Elliot J. Bergman, Vice President, Secretary
+                   and Director             September 27, 1995
+
+
+/S/
+Gilbert Steinberg, Vice President, Treasurer,
+                   Principal Financial and
+                   Accounting Officer and
+                   Director                 September 27, 1995
+
+
+/S/
+Elliot D. Spiro, Director                   September 27, 1995
+
+
+/S/
+Walter Steinberg, Director                  September 27, 1995
+
+
+<PAGE>
+                                                     EXHIBIT 10-i
+
+                THIRD LEASE MODIFICATION AGREEMENT
+
+AGREEMENT made this 31 day of August, 1995 by and between We're
+Associates Company, a partnership with its principal office at
+100 Jericho Quadrangle, Jericho, New York ("Landlord"), and
+Astrosystems, Inc., a New York corporation with offices located
+at 6 Nevada Drive, Lake Success, New York ("Tenant"). 
+
+                           WITNESSETH:
+
+WHEREAS, Tenant presently leases from landlord approximately
+46,550 rentable square feet of space (the "demised premises")
+located in the building known as Building "C", Lake Success
+Quadrangle, Lake Success, New York, pursuant to an Agreement of
+Lease dated as of September 22, 1966 between Landlord's
+predecessor in interest, Hyde Park Associates, as Landlord, and
+Tenant, as tenant, as same were modified by First Lease
+Modification Agreement dated May 14, 1986, the Second Lease
+Modification dated July 9, 1990 (said lease, letter agreement,
+and lease modification agreements being hereinafter together
+referred to as the "Lease"): and 
+
+WHEREAS, Landlord and Tenant desire to extend the term of the
+Lease for a period of one (1) year expiring August 31, 1996;
+
+NOW, THEREFORE, the parties hereto agree as follows:
+
+1.   Article "2" of the Lease is hereby amended to provide that
+the term of the Lease shall expire on August 31, 1996.
+
+2.   The Tenant shall have the right to cancel the lease at any
+time during the remaining term provided that Tenant shall notify
+Landlord by certified mail of its intention to do so; and stating
+a date that is three months or later after the date of the notice
+(the "Cancellation Effective Date" which must be the last day of
+the month), Tenant shall continue to be and shall remain liable
+hereunder for rent and additional rent due, owing, or accruing to
+and including the Cancellation Effective Date.  Rent and
+additional rent shall be equal to the rent and additional rent
+payable by Tenant for the month of August 1995.
+
+3.   Landlord shall have the right to cancel the lease at any
+time during the remaining term provided that Landlord shall
+notify Tenant by certified mail of its intention to do so and
+stating a date that is three months or later after the date of
+the Notice (the "Cancellation Effective Date" which must be the
+last day of the month).
+
+4.   Tenant represents and warrants to Landlord that no broker
+brought about the transaction covered hereby.  Tenant hereby
+agrees to indemnify, defend and hold harmless from and against
+any loss, cost, claim, damage, expense or liability (including
+without limitation, attorney's fees and disbursements) arising
+from any person, firm or entity claiming any commission or other
+compensation in connection with this transaction.
+
+Except as amended hereby, the Lease remains, and shall remain, in
+full force and effect and each and every term, condition, and
+provision thereof is hereby confirmed, ratified, and continued.
+
+IN WITNESS WHEREOF, the parties hereto have hereunto set their
+hands and seals the day and year first above written.
+
+WE'RE ASSOCIATES COMPANY
+
+By:  /S/
+     Gary Wexler
+
+
+ASTROSYSTEMS, INC.
+
+By:  /S/
+     Gilbert H. Steinberg
+<PAGE>
+                                                       EXHIBIT 11
+
+               ASTROSYSTEMS, INC. AND SUBSIDIARIES
+        COMPUTATION OF SHARES USED FOR EARNINGS PER SHARE
+
+
+                                           Year Ended June 30,
+                                            1995        1994
+Computation of adjusted net earnings:
+
+  Net earnings                          $   623,000  $1,135,000
+
+  Additional interest earned 
+    (net of tax effect) attributable 
+    to utilization of assumed proceeds
+    from exercise of options in excess 
+    of amount required to repurchase 
+    20% of the outstanding common stock
+          at applicable market value        79,000       29,000
+                                         _________    _________
+  Adjusted net earnings                $   702,000   $1,164,000
+                                        ==========    =========
+
+Shares used for computation:
+
+  Weighted average number of shares 
+    outstanding                          4,561,876    4,537,751
+
+  Shares issuable upon assumed 
+    exercise of options in excess of
+    shares assumed to be repurchased
+    with the proceeds                      728,397      739,473
+                                         _________    _________
+Shares used for computation              5,290,273    5,277,224
+                                        ==========    =========
+
+Primary and fully diluted earnings 
+  per share                             $      .13    $     .22
+                                        ==========    =========
+
+
+
+
+
+
+
+
+
+<PAGE>
+                                                       EXHIBIT 21
+
+
+                          SUBSIDIARIES
+
+
+     NAME                                 STATE OF INCORPORATION
+
+Astrosub, Inc.                                   Delaware
+
+AstroPower, Inc. (1)                             Delaware
+
+Behlman Electronics, Inc.                        New York
+                                 
+                                                           
+
+
+
+
+
+(1)    Registrant owns 32.3 of outstanding common stock
+
+<PAGE>
+                                                       EXHIBIT 23
+
+
+
+
+                   CONSENT OF INDEPENDENT AUDITORS
+
+
+     We consent to the incorporation by reference in Registration
+Statements No. 2- 76955, No. 33-26638, No. 33-44539 and No.
+33-52816 on Form S-8 of our report dated September  8, 1995 on
+the consolidated financial statements included in the Annual
+Report on Form 10-KSB of Astrosystems, Inc. as at and for the
+year ended June 30, 1995.
+
+
+
+/S/
+Richard A. Eisner & Company, LLP
+
+New York, New York
+September 27, 1995
+
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-27
+<SEQUENCE>2
+<TEXT>
+
+<TABLE> <S> <C>
+
+<ARTICLE> 5
+<CIK> 0000008065
+<NAME> ASTROSYSTEMS, INC.
+       
+<S>                             <C>                     <C>
+<PERIOD-TYPE>                   YEAR                   YEAR
+<FISCAL-YEAR-END>                          JUN-30-1995             JUN-30-1994
+<PERIOD-START>                             JUL-01-1994             JUL-01-1993
+<PERIOD-END>                               JUN-30-1995             JUN-30-1994
+<CASH>                                          13,119                  22,916
+<SECURITIES>                                     8,680                  10,390
+<RECEIVABLES>                                    4,849                   3,085
+<ALLOWANCES>                                        58                      58
+<INVENTORY>                                      3,528                   4,618
+<CURRENT-ASSETS>                                30,613                  41,236
+<PP&E>                                           2,797                   2,776
+<DEPRECIATION>                                   2,599                   2,414
+<TOTAL-ASSETS>                                  44,647                  42,383
+<CURRENT-LIABILITIES>                            2,085                   1,006
+<BONDS>                                              0                       0
+<COMMON>                                           458                     455
+<PREFERRED-MANDATORY>                                0                       0
+<PREFERRED>                                          0                       0
+<OTHER-SE>                                           0                       0
+<TOTAL-LIABILITY-AND-EQUITY>                    44,647                  42,383
+<SALES>                                         12,319                  13,417
+<TOTAL-REVENUES>                                12,319                  13,417
+<CGS>                                            8,901                   9,380
+<TOTAL-COSTS>                                   13,104                  13,709
+<OTHER-EXPENSES>                                     0                       0
+<LOSS-PROVISION>                                     0                       0
+<INTEREST-EXPENSE>                                   0                       0
+<INCOME-PRETAX>                                    863                     696
+<INCOME-TAX>                                       240                    (35)
+<INCOME-CONTINUING>                                  0                       0
+<DISCONTINUED>                                       0                       0
+<EXTRAORDINARY>                                      0                       0
+<CHANGES>                                            0                     404
+<NET-INCOME>                                       623                   1,135
+<EPS-PRIMARY>                                      .13                     .22
+<EPS-DILUTED>                                      .13                     .22
+        
+
+</TABLE>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

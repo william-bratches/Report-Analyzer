@@ -1,0 +1,2282 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ DtzTsap0joBSvmmlTMa7mOHKafIgyfccGUBbPTkkp2EDLeEs+yiRfPhENJc5Je8x
+ nC6Btcv4ci6xXObkdAKwDw==
+
+<SEC-DOCUMENT>0000024077-98-000001.txt : 19980106
+<SEC-HEADER>0000024077-98-000001.hdr.sgml : 19980106
+ACCESSION NUMBER:		0000024077-98-000001
+CONFORMED SUBMISSION TYPE:	10KSB/A
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	19961231
+FILED AS OF DATE:		19980105
+SROS:			NASD
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			CONTINENTAL INVESTMENT CORP /GA/
+		CENTRAL INDEX KEY:			0000024077
+		STANDARD INDUSTRIAL CLASSIFICATION:	OPERATORS OF NONRESIDENTIAL BUILDINGS [6512]
+		IRS NUMBER:				580705228
+		STATE OF INCORPORATION:			GA
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10KSB/A
+		SEC ACT:		
+		SEC FILE NUMBER:	000-03743
+		FILM NUMBER:		98501067
+
+	BUSINESS ADDRESS:	
+		STREET 1:		10254 MILLER RD
+		CITY:			DALLAS
+		STATE:			TX
+		ZIP:			75238
+		BUSINESS PHONE:		2146911100
+
+	MAIL ADDRESS:	
+		STREET 1:		10254 MILLER
+		CITY:			DALLAS
+		STATE:			TX
+		ZIP:			75238
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>10KSB/A
+<SEQUENCE>1
+<TEXT>
+
+                                 UNITED STATES
+                      SECURITIES AND EXCHANGE COMMISSION
+                           Washington, D. C.  20549
+                      __________________________________
+   
+                              FORM 10-KSB/A NO. 2
+    
+(Mark One)
+     [ ]  Annual Report Pursuant to Section 13 or 15(d) of the Securities
+          Exchange Act of 1934
+
+                                      or
+
+     [X]  Transition Report Pursuant to Section 13 or 15(d) of the Securities
+          Exchange Act of 1934
+
+       For the three months ended December 31, 1996 (short fiscal year)
+
+                        Commission File Number 0-3743
+                      __________________________________
+
+                      CONTINENTAL INVESTMENT CORPORATION
+            (Exact name of registrant as specified in its charter)
+
+           Georgia                                            58-0705228
+(State or other jurisdiction of                            (I.R.S. Employer
+incorporation or organization)                            Identification No.)
+
+                    10254 Miller Road, Dallas, Texas 75238
+             (Address of principal executive offices) (Zip Code)
+
+       Registrant's telephone number, including area code: (214) 691-1100
+
+       Securities registered pursuant to Section 12(b) of the Act:  None
+
+          Securities registered pursuant to Section 12(g) of the Act:
+
+                        Common Stock, $0.50 par value
+                            (Title of each class)
+
+     Indicate by check mark whether the registrant (1) has filed all reports
+required to be filed by Section 13 or 15(d) of the Securities Exchange Act of
+1934 during the preceding 12 months (or for such shorter period that the
+registrant was required to file such reports), and (2) has been subject to
+such filing requirements for the past 90 days.  Yes [X]   No [ ]
+
+     Indicate by check mark if disclosure of delinquent filers pursuant to
+Item 405 of Regulation S-K is not contained herein, and will not be contained,
+to the best of registrant's knowledge, in definitive proxy or information
+statements incorporated by reference in Part III of this Form 10-KSB or any
+amendment to this Form 10-KSB. [X]
+
+     The aggregate market value of the voting stock held by non-affiliates of
+the registrant, as of March 31, 1997, is approximately $114,045,881 based upon
+the closing bid price of $21.25 per share as reported for such date by Trading
+and Market Services of The Nasdaq Stock Market, Inc.
+
+     As of  March 31, 1997, the registrant had outstanding 11,313,008 shares
+of Common Stock.
+
+<PAGE>
+
+                                   PART I
+                                   ------
+   
+ITEM 1. DESCRIPTION OF BUSINESS.
+- --------------------------------
+    
+Background
+- ----------
+     Continental Investment Corporation ("CICG" or the "Company") was
+incorporated on October 3, 1958, in the State of Georgia, as a real estate
+investment and development company. In 1965, the Company purchased 133 acres
+of land (the "Property") located approximately 10 miles southwest of downtown
+Atlanta, Georgia. From 1966 to 1993, 65 acres of the land along with mineral
+rights were leased to a mining and quarrying company unrelated to CICG. The
+lease and rights to extract minerals from the Property expired in 1993.
+Subsequently, CICG participated in reclamation activities in preparation for
+an alternative use of the land. During fiscal 1996, the Company purchased an
+additional 96 acres adjacent to the 133-acre Property.
+
+     In a series of transactions in fiscal 1994, 1995 and 1996, the Company
+acquired all of the operating assets of FIBER-SEAL Holdings, Inc., FIBER-SEAL
+Services International, Inc. and FIBER-SEAL of Dallas, including all
+trademarks, servicemarks, logos, and tradenames of or related to FIBER-SEAL.
+
+     CICG is now engaged in developing the operations of FIBER-SEAL and in
+analyzing waste disposal opportunities, initially at the Property located in
+Atlanta, Georgia.
+
+FIBER-SEAL Operations
+- ---------------------
+     FIBER-SEAL brand services and products provide customers with cleaning,
+stain removal and lasting protection for carpets and other fine interior
+fabric coverings and surfaces and cleaner, newer looking interiors. These
+products and services have been provided since 1971 under the FIBER-SEAL brand
+trademark and servicemark. The products and services are currently being
+provided in the United States and other countries through licensing agreements
+with approximately 60 service centers now in operation through FSSI. With over
+25 years of continuous operations, the FIBER-SEAL business has established
+long-term relationships, credibility and brand awareness with architects,
+interior designers and manufacturers. Customers' premises include individual
+residences, real estate developments, restaurants, offices, and commercial
+aircraft.
+   
+     The Company has made a strategic decision to convert its FIBER-SEAL
+Fabric Care System(R) business from a licensing mode to a franchising
+operation during fiscal years 1998 and 1999. It is the Company's opinion that
+the conversion will not result in the creation of any material risks that
+could have an adverse impact upon the Company's financial position and results
+of operations. Further, the Company intends to institute a program for the
+expansion of FIBER-SEAL operations in all unexploited geographic areas in the
+U.S. during fiscal years 1998 and 1999. It is the Company's opinion that the
+revenues derived from the FIBER-SEAL business can be significantly enhanced.
+However, as the business areas in which FIBER-SEAL competes are highly
+competitive, there can be no assurance that the Company will be able to
+accomplish its goals regarding FIBER-SEAL.
+    
+                                    -2-
+
+<PAGE>
+Proposed Atlanta Region Waste Management Facility
+- -------------------------------------------------
+   
+     A study of the Property has indicated its viability as a potential multi-
+use waste disposal, waste transfer, and recycling facility. The Company is
+presently evaluating the various categories of potential operations,
+consisting principally of the different types of waste and activities
+discussed below. Because of ongoing potential political, legal, bureaucratic
+and other factors, there can be no assurance that the Company will be able to
+accomplish any of its goals for the Property within a reasonable period of
+time.
+    
+     An inert waste landfill is a disposal facility that may accept only
+wastes that will not or are not likely to generate contamination to
+surrounding soils or groundwater. Such wastes are limited to earth and
+earth-like products, concrete, cured asphalt, rock, bricks, yard trimmings,
+stumps, limbs, and leaves. A landfill permitted for construction and
+demolition debris may accept building materials and rubble resulting from
+construction, remodeling, repair, and demolition operations on pavements,
+houses, commercial buildings and other structures. Such wastes include, but
+are not necessarily limited to, asbestos containing wastes, wood, bricks,
+metal, concrete, wallboard, paper, cardboard, all inert waste landfill
+material, and other "non-putrescible" wastes, as these wastes have a low
+potential for groundwater contamination upon decomposition.
+
+     A municipal solid waste landfill ("MSWL") can accept any waste derived
+from households, including garbage, trash and sanitary waste in septic tanks.
+Household waste includes solid waste from single-family and multi-family
+residences, hotels and motels, bunkhouses, campgrounds, picnic grounds, and
+day-use recreation areas. The term also includes commercial solid waste, but
+does not include solid waste from mining, agricultural or silvicultural
+operations or industrial processes or operations.
+
+     A transfer station is a waste management facility where solid waste is
+received from collection vehicles and then transferred to and compacted in
+large, specially designed and constructed trailers for transportation to
+distant disposal facilities. Transportation can be by road or rail. A transfer
+station operation can effectively reduce costs by positively impacting the
+utilization of personnel and equipment and by reducing fuel costs. The
+greatest benefit of transfer stations is the quick turnaround obtained for
+route collection vehicles.
+
+Industry Background
+- -------------------
+     According to the National Solid Waste Management Association ("NSWMA"),
+the North American solid waste industry was estimated to have had revenues of
+more than $32 billion in 1995. The industry is highly fragmented, with the
+four largest companies accounting, in 1995, for approximately 30% of revenues,
+seven mid-sized public companies, accounting for approximately 4% of revenues,
+and several thousand municipalities and independent collection firms
+accounting for approximately 66% of revenues. The industry has been
+
+                                    -3-
+
+<PAGE>
+consolidating in recent years as a result of increased capital requirements
+arising primarily from stringent environmental and other governmental
+regulations. The Company expects the trend toward consolidation to continue as
+many independent landfill and collection operators, including municipalities,
+lack the capital resources, management skills and technical expertise
+necessary to operate in compliance with such regulations.
+
+     The Company believes that approximately 80% of solid waste landfills are
+owned by municipalities, 15% by private companies and 5% by the federal and
+state governments. These landfills vary greatly in size and capacity. The
+Company believes that the estimated 800 privately-owned landfills represent
+approximately 50% of the remaining disposal capacity in the United States.
+Subtitle D regulations ("Subtitle D") of the Resource Conservation and
+Recovery Act ("RCRA") require landfill operators to upgrade existing disposal
+facilities by imposing requirements in the areas of facility design and
+operating criteria, closure and post-closure requirements, financial assurance
+standards and groundwater monitoring as well as corrective action standards.
+Trade group data indicate that the number of municipal solid waste landfills
+decreased by 62% from 1988 to 1995 and that the remaining number of such
+landfills in 1995 was under 3,000.
+
+     As a result of these regulatory changes, a number of independent landfill
+operators and municipalities are discontinuing or privatizing landfill and
+collection operations. In some instances, industrial companies that had
+previously operated landfills have decided to close such landfills rather than
+bring them into compliance with the new, more demanding regulations. The
+increasing requirements for capital, skilled management and technical
+expertise are, for small operators who cannot achieve economics of scale and
+integration, reducing margins and causing them to sell or close existing
+landfills. As a result, the Company expects continued availability of
+opportunities to acquire solid waste collection and disposal businesses.
+However, there can be no assurance of such continued availability or of the
+Company's ability to consummate any such potential acquisitions.
+
+     Pricing in the waste management industry has become increasingly complex
+as wastes have been sub-divided/categorized by regulation changes, and charges
+or "tipping fees" are being calculated as to specific transport and disposal
+requirements. Revenues are generated through charges or tipping fees to the
+collection and hauling companies and are calculated by volume or weight.
+Transfer stations consolidate and compact the waste for transport to distant
+sites where tipping fees may be lower, while collecting a fee per ton for
+consolidation, compaction, transportation, and disposal. The prices that are
+charged for disposal or transfer of waste are determined by the volume or
+weight, the type of waste disposed of and prices charged for similar disposal
+services by competitors. Long term disposal and collection contracts typically
+contain a formula, generally based on published price indices, for automatic
+adjustment of fees to cover increases in some, but not all, operating costs.
+
+                                    -4-
+
+<PAGE>
+The Atlanta Property
+- --------------------
+     The Company owns 229 acres of land in Fulton County, Georgia. The land is
+located within the Atlanta city limits approximately 10 miles southwest of
+downtown Atlanta. Fulton County is one of the nine individual counties that
+comprise the "Atlanta Region" which includes Fulton (City of Atlanta),
+Gwinnett, DeKalb, Rockdale, Henry, Clayton, Fayette, Douglas, and Cobb. The
+Property is effectively at the epicenter of the 9-county region.
+
+     A section of the westerly portion of the Property underwent granite
+surface mining from 1966 to 1993. Approximately 20 acres have been excavated
+to depths in excess of 500 feet (maximum depth of 641 feet). A smaller
+excavation on the Property has been mined to a depth of approximately 150
+feet. Soil borings evidence significant amounts of overburden that can be used
+for cover material in landfill operations, as well as large amounts of
+granite. Granite mining activities are presently being evaluated as an income
+source from the Property. The potential resumption of granite mining
+activities represents a possible double benefit to the Company that may also
+increase potential landfill capacity in the future.
+
+      The Property is potentially well suited to serve as a waste transfer
+station for transfer of waste outside the nine county region because a
+railroad line is located just outside of the Property's boundary. The Company
+will seek to acquire a rail spur to the Property. Although the Property's
+proximity to a major rail line provides for a viable transfer station,
+complications exist with regard to interstate transport (e.g., states trying
+to collect per ton confiscatory fees on incoming waste, etc.). There is also
+an effort by some state legislators to restrict the disposal of out-of-state
+wastes in their state's landfills. Although most legislative efforts to date
+have been rejected by the courts, there is a possibility that these laws may
+eventually pass.
+
+Competition
+- -----------
+     The solid waste industry is highly competitive and requires substantial
+amounts of capital. The waste industry is currently dominated by several
+large, national waste management companies -- WMX Technologies, Inc. (formerly
+Waste Management, Inc.), Browning-Ferris Industries, Inc. ("BFI"), U.S.A.
+Waste Services, Inc., Allied Waste Industries, Inc. and Republic Industries,
+Inc. Additionally, there are a number of regional companies and numerous local
+companies. All of these companies have significantly larger operations and
+greater financial resources than CICG. The Company may also compete with those
+counties and municipalities that maintain their own waste collection and/or
+disposal operations.
+
+     CICG would compete for landfill and transfer business on the basis of
+tipping fees, geographical location and quality of operations. The Company's
+ability to obtain landfill business may be limited by the fact that some major
+collection companies also own or operate landfills to which they send waste
+that they collect.
+
+                                    -5-
+
+<PAGE>
+Municipal Solid Waste Disposal Business Risks
+- ---------------------------------------------
+     There are potential, often unforeseen, business risks and certain cost
+exposures associated with the establishment, ownership and operation of solid
+waste landfill sites. Such risk factors include, but are not limited to: a
+reduction in the volume of solid waste available for landfill disposal
+resulting from legislative or regulatory action focused on the reduction of
+waste volume; public concern regarding the potential for adverse effects on
+public health, the environment, and land property values attributable to
+wastes disposed of at landfills; the difficulty of obtaining permits to expand
+or establish disposal sites and public and private opposition to the location,
+expansion and operation of landfills; expanding governmental actions
+attempting to restrict the interstate movement of waste for disposal; costs
+associated with liner requirements, groundwater monitoring, leachate and
+landfill gas control, surface water control, post-closure monitoring, site
+clean-up, site remedial work, maintenance and long-term care obligations; the
+obligation to manage any adverse affects on the environment that may
+materialize at the Property; possible judicial and administrative proceedings
+regarding alleged adverse environmental and health effects occasioned by
+landfill operations; and potential regulations requiring a landfill operator
+to demonstrate financial strength that would enable compliance with prescribed
+or changing standards and methods of operation, as well as closure and
+post-closure care requirements.
+
+     The Company currently intends to purchase and maintain an environmental
+impairment liability insurance policy on its potential landfill that provides
+coverage against clean-up costs and bodily injury to non-employees and
+property damage caused by off-site pollution emanating from the landfill.
+However, if the Company should be unable to obtain adequate insurance, or
+decides to operate without insurance, a partially or completely uninsured
+claim against the Company, if successfully prosecuted and of sufficient
+magnitude, could have a material adverse effect upon the Company's business
+or financial condition. Difficulty in obtaining insurance could also impair
+the Company's ability to secure future contracts, which may be conditioned
+upon the availability of adequate coverage.
+
+     Municipal and governmental waste management contracts typically require
+performance bonds or bank letters of credit to secure performance. In addition,
+the Company would be required to demonstrate satisfactory financial assurances
+to secure its closure and post-closure care obligations with respect to each
+landfill cell, some of which may be in the form of a surety bond or letter of
+credit. If the Company is unable to obtain surety bonds or letters or credit in
+sufficient amounts or at acceptable rates, it may be precluded from entering
+into disposal contracts or obtaining or retaining landfill operating permits.
+
+Environmental and Other Regulations
+- -----------------------------------
+   
+     Authority to issue Georgia permits for construction and operation of
+municipal solid waste landfills, provided they are issued subject to facility
+compliance with Subtitle D of The Federal Resource Conservation and Recovery
+Act of 1976 (the "RCRA"), rests with the Environmental Protection Division of
+the State of Georgia Department of Natural Resources ("EPD"). The Company will
+prepare an application that meets the requirements of the EPD and that
+demonstrates facility compliance with RCRA, Subtitle D requirements. Locally,
+    
+                                    -6-
+
+<PAGE>
+the City of Atlanta will be requested to issue a Special Use Permit granting
+the Company authority to operate a landfill on the Property.
+
+     In the event that the Company's applications are granted, construction of
+the landfill will be required to comply with RCRA, Subtitle D standards.
+Further, in granting a Special Use Permit, the city of Atlanta may require
+other operating protocols with which the Company will be required to comply.
+Once in operation, both the city and the state may inspect the landfill on an
+unannounced basis to investigate for regulatory and permit compliance. Once
+the landfill is full, post-closure care operations and maintenance will be
+required for 30 years.
+
+     The Company will be subject to comprehensive federal, state and local
+environmental, health and safety laws and regulations. These regulations are
+administered by various federal, state and local environmental, zoning, health
+and safety agencies. All of these agencies are empowered to monitor Company
+compliance with such laws and regulations via periodic and unannounced
+inspections.
+
+     Operation of the potential landfill will require that costs be incurred,
+some significant, related to liner requirements, groundwater monitoring,
+leachate and landfill gas control, surface water control, post-closure
+monitoring, site clean-up, site remedial work, maintenance and post-closure
+care obligations. These costs may adversely impact the profit potential of the
+Company's potential landfill operations by increasing the cost to construct
+and operate the landfill over the short and long term. The Company will
+require substantial additional financing to develop the Property. There can be
+no assurance that such financing will be available.
+
+     Resource Conservation and Recovery Act ("RCRA"), Subtitle D regulations
+require landfill operators to demonstrate financial responsibility enabling
+the operator to comply with landfill construction and operation standards, as
+well as closure and post-closure care requirements. The Company will be
+required to obtain insurance and performance bonds at potentially high cost to
+meet this requirement.
+
+     Governmental agencies have the power to enforce compliance with landfill
+regulations and permit conditions and to obtain injunctions or impose fines in
+the event violations are evidenced. During the ordinary course of its
+operation, the Company may from time to time receive citations or notices from
+such governmental agencies that its facility is not in full compliance with
+applicable environmental or health and safety regulations. Upon receipt of
+such citations or notices, the Company will work with agency representatives
+to attempt resolution of the matters cited. Failure to correct the problems to
+the satisfaction of the agencies could lead to monetary penalties, curtailed
+operations, criminal prosecution, facility closure, or the inability to obtain
+further permits.
+
+     The Company would also be subject to liability for any nuisance or
+trespass resulting from the operation of its potential landfill. A person
+bringing a nuisance or trespass action against the Company may seek an
+injunction to curtail or limit the Company's operations at the Property.
+Further, any person pursuing a nuisance or trespass cause of action may
+petition for actual and punitive damages. The awarding of such damages could
+negatively impact the Company's financial condition and business operations.
+
+                                    -7-
+
+<PAGE>
+     Recycling and other waste minimization efforts can be expected to reduce
+waste generation rates not only as more recyclables are regulated, but as
+manufacturers take more responsibility for the recyclability of the packaging
+that they use. Recycling regulations and procurement requirements for recycled
+goods will continue to create business opportunities in the recycling field
+while simultaneously serving to diminish the volume of waste available for
+disposal in landfills.
+
+     The waste disposal industry is subject to extensive and evolving
+environmental laws and regulations that have been enacted in response to
+technical advances and the public's increased concern over environmental
+issues. These regulations are administered by the United States Environmental
+Protection Agency and various other federal, state and local environmental,
+health and safety agencies. The Company believes that there will be increased
+regulation and legislation related to the solid waste collection and disposal
+industry. In light of these developments, the Company will attempt to
+anticipate future regulatory requirements that might be imposed and plan
+accordingly to remain in compliance with the regulatory framework.
+
+     In order to operate a landfill or transfer station, the Company typically
+will have to go through several governmental review processes and obtain one or
+more operating permits and often zoning and other land use approvals. These
+permits and zoning or land use approvals are difficult and time consuming to
+obtain and are usually opposed by various local elected officials and citizens'
+groups. Once obtained, in some states (but not in Georgia), operating permits
+generally must be periodically renewed and are subject to modification and
+revocation by the issuing agency.
+
+     The Company's potential landfill business would subject it to certain
+operational, monitoring, site maintenance, closure and post-closure and
+financial assurance obligations which change from time to time and could give
+rise to increased costs for monitoring and corrective measures. In connection
+with the Company's possible acquisition of existing landfills, it will often
+be necessary to expend considerable time, effort and money in complying with
+the governmental review and permitting process necessary to maintain or
+increase the capacity of these landfills. Governmental authorities have the
+power to enforce compliance with these laws and regulations and to obtain
+injunctions or impose civil or criminal penalties in case of violations. The
+Company's proposed operations will be subject to regulation, principally under
+the following federal statutes:
+
+     The Solid Waste Disposal Act ("SWDA"), as amended by th Resource
+     Conservation and Recovery Act of 1976, as amended ("RCRA")
+     -----------------------------------------------------------------
+
+     The SWDA and its implementing regulations establish a framework for
+regulating the handling, transportation, treatment, and disposal of hazardous
+and non-hazardous wastes. They also require states to develop programs to
+ensure the safe disposal of solid wastes in landfills.
+
+                                    -8-
+
+<PAGE>
+   
+     Subtitle D of RCRA establishes a framework for federal, state, and local
+government cooperation in controlling the management of non-hazardous solid
+wastes. While the role of the EPA is to provide overall regulatory direction,
+the actual planning and implementation of solid waste programs under Subtitle D
+are largely state and local functions. In October 1993, the EPA adopted
+regulations under Subtitle D with respect to solid waste disposal facility
+criteria, which include location standards, hydrogeological investigations,
+facility design requirements (including liners and leachate collection
+systems), enhanced operating and control criteria, groundwater and methane gas
+monitoring, corrective action standards, closure and extended post-closure
+requirements, and financial assurance standards, many of which have not
+commonly been in place or enforced at landfills. All Subtitle D regulations
+are in effect, except for financial responsibility requirements, which were to
+take effect in April 1997 although many states have already implemented
+financial assurance programs. These federal regulations must be implemented by
+the states, although states may impose requirements for landfill sites that
+are more stringent than the federal Subtitle D standards. Once a state has an
+approved program, it will review all existing landfill permits to ensure that
+they comply with the new regulations. Although the states were required to
+submit proposed permitting programs designed to implement the Subtitle D
+regulations to the EPA by April 1993, some states have not submitted their
+programs to the EPA and others have not fully completed their implementation.
+Because the new regulations did not take effect until late 1993 and have not
+been fully implemented by the states, their full impact may not be apparent
+for several years. The Company could incur significant costs in complying with
+such regulations; however, the Company does not believe that such enhanced
+standards will have a material adverse effect on its potential operations
+because all of the Company's potential landfills would be engineered to meet
+or exceed these requirements.
+    
+     The Federal Water Pollution Control Act of 1972 ("The Clean Water Act")
+     -----------------------------------------------------------------------
+
+     This Act establishes rules regulating the discharge of pollutants from a
+variety of sources, including solid waste disposal sites, into streams,
+groundwater or other surface or subsurface waters. If runoff from the
+Company's potential landfill or transfer station is discharged into surface
+waters, the Act would require the Company to apply for and obtain a discharge
+permit, conduct sampling and monitoring and, under certain circumstances,
+reduce the quantity of pollutants in such discharge. Also, virtually all
+landfills are required to comply with the new federal storm water regulations,
+which are designed to prevent possibly contaminated storm water from flowing
+into surface waters. The Company will work with the appropriate regulatory
+agencies to ensure that its facilities are in compliance with Clean Water Act
+requirements, particularly as they apply to treatment and discharge of
+leachate and storm water. In addition, where development may alter or affect
+"wetlands," a permit must be obtained before such development may be
+commenced. This requirement is likely to affect the construction or expansion
+of many solid waste disposal sites. The Act provides for civil, criminal and
+administrative penalties for violations of specified sections of the Act.
+
+                                    -9-
+
+<PAGE>
+     The Comprehensive Environmental Response, Compensation and
+     Liability Act of 1980, as amended ("Superfund" or "CERCLA")
+     -----------------------------------------------------------
+
+     CERCLA established a regulatory and remedial program intended to provide
+for the investigation and cleanup of facilities from which there has been, or is
+threatened, a release of any hazardous substance into the environment.
+CERCLA's primary mechanism for remedying such programs is to impose strict
+joint and several liability for cleanup of facilities on current owners and
+operators of the land, former owners and operators of the land at the time of
+the disposal of the hazardous substances, as well as the generators of the
+hazardous substances and the transporters who arranged for disposal or
+transportation of the hazardous substances. The costs of CERCLA investigation
+and cleanup can be very substantial. Liability under CERCLA does not depend
+upon the existence or disposal of "hazardous waste" but can also be founded
+upon the existence of even very small amounts of the more than 700 "hazardous
+substances" listed by the EPA, many of which can be found in household waste.
+If the Company  were found to be a responsible party for a CERCLA cleanup, the
+enforcing agency could hold the Company completely responsible for all
+investigative and remedial costs even if others may also be liable. CERCLA
+also authorized the imposition of a lien in favor of the United States upon
+all real property subject to or affected by a remedial action for all costs
+for which a party is liable. The Company's ability to obtain reimbursement
+from others for their allocable share of such costs would be limited by the
+Company's ability to find other responsible parties and prove the extent of
+their responsibility and by the financial resources of such other parties.
+In the past, legislation has been introduced in Congress to limit the
+liability of municipalities and others under CERCLA as generators and
+transporters of municipal solid waste. Although such legislation has not been
+enacted, if it were to pass it would limit the Company's ability to seek full
+contribution from municipalities for CERCLA cleanup costs even if hazardous
+substances that were released and caused the need for cleanup at the Company's
+potential landfill were generated by or transported to the landfill by a
+municipality. Depending upon whether and how Congress acts, it is possible
+that each of these laws may be changed in ways that may significantly affect
+the Company's potential waste disposal business.
+
+     The Occupational Safety and Health Act of 1970 (the "OSHA Act")
+     ---------------------------------------------------------------
+
+     The OSHA Act authorizes the Occupational Safety and Health Administration
+to promulgate occupational safety and health standards. Various of these
+standards, including standards for notices of hazards, safety in excavation
+and demolition work, and the handling of asbestos, may apply to the Company's
+operations.
+
+     The Clean Air Act
+     -----------------
+
+     The Clean Air Act provides for regulation, through state implementation
+of federal requirements, of the emission of air pollutants from certain
+landfills based upon the date of the landfill construction and volume per year
+of emissions of regulated pollutants. The EPA proposed a New Source
+Performance Standard and Emission Guidelines for municipal solid waste
+landfills. Current regulations impose limits on air emissions from municipal
+
+                                    -10-
+                                    
+<PAGE>
+solid waste landfills. The New Source Performance Standard will apply to all
+municipal solid waste landfills that commence construction after the date of
+the proposal. The Emission Guidelines are a set of standards that must be
+adopted by the states and will apply to all municipal solid waste landfills
+that received waste after November 8, 1987. The EPA may also issue regulations
+controlling the emissions of particular regulated air pollutants from
+municipal solid waste landfills. Landfills located in areas with air pollution
+problems may be subject to even more extensive air pollution controls and
+emission limitations.
+
+     Proposed Federal Legislation
+     ----------------------------
+
+     In the future, the Company's potential collection, transfer and landfill
+operations may also be affected by legislation currently pending before
+Congress that would authorize the states to enact discriminatory legislation
+governing waste shipments. The Company believes that if any such federal
+legislation is enacted, it may have a material adverse effect on the Company's
+potential operations.
+
+     State and Local Regulation
+     --------------------------
+
+     Each state in which the Company may operate in the future has laws and
+regulations governing the generation, storage, treatment, handling,
+transportation and disposal of solid waste, water and air pollution and, in
+most cases, siting, design, operation, maintenance, closure and post-closure
+of landfills and transfer stations. There has also been an increasing trend in
+various states seeking to regulate the disposal of out-of-state waste in their
+landfills. Legislative and regulatory measures to mandate or encourage waste
+reduction at the source and waste recycling have been adopted by many states
+and are also under consideration by Congress and the EPA.
+
+     The Company's potential collection and landfill operations may be
+affected by the trend toward laws requiring the development of waste
+reduction and recycling programs. For example, California, Georgia, Florida,
+Illinois, Indiana, Kentucky, Pennsylvania, Ohio, South Carolina and West
+Virginia have enacted laws that will require counties to adopt comprehensive
+plans to reduce the volume of solid waste deposited in landfills, through
+waste planning, composting and recycling or other programs, within the next
+few years. A number of states have taken, or are considering, steps to ban the
+landfilling of certain wastes, such as yard wastes, beverage containers,
+newspapers, unshredded tires, lead-acid batteries and "white goods," such as
+refrigerators. The enactment of regulations reducing the volume and types of
+wastes available for transport to and disposal in landfills could affect
+adversely the Company's ability to operate its potential facilities at their
+full capacity.
+
+     Many municipalities also have ordinances, local laws and regulations
+affecting the waste disposal industry. These include zoning and health
+measures that limit solid waste management activities to specified sites or
+activities, flow control provisions that direct the delivery of solid wastes
+to specified facilities, and bans or other restrictions on the movement of
+solid wastes into a municipality.
+
+                                    -11-
+
+<PAGE>
+     The permits or other land use approvals with respect to a landfill, as
+well as state or local regulations, may (i) limit a landfill to accepting
+waste that originates from a specified geographic area and/or (ii) specify the
+quantity of waste that may be accepted at a landfill during a given time
+period and/or (iii) specify the types of waste that may be accepted at the
+landfill.
+
+     Proposed Atlanta MSWLs must file for a Special Use Permit ("SUP") with
+the City of Atlanta, and a Permit to Construct and Operate a Landfill ("PCO")
+with the Environmental Protection Division of The State of Georgia Department
+of Natural Resources ("EPD"). Notice of such applications must be filed with
+counties lying contiguous to the county within which the Property is located.
+These permits, if granted, would give the Company authority to accept
+municipal solid waste as well as inert waste, and construction and demolition
+debris. Although there are presently no known insurmountable impediments to
+the approval of these permit applications, opposition may arise from city of
+Atlanta and surrounding county residents regarding environmental and quality
+of life issues. It is anticipated that the city of Atlanta may impose
+operating protocols on which the SUP permits are contingent. Once in
+operation, both the city and state are at liberty to inspect the Property,
+without notification to the operator, to investigate regulatory and permit
+compliance. Compliance issues covered in the required permits include liner
+installation, leachate collection system installation, periodic cover
+requirements and groundwater monitoring systems. Landfill operators may also
+petition the various permitting authorities, provided that there is sufficient
+justification, for regulatory variances that eliminate or reduce some
+requirements outlined in the petitions. In the case of the Property, this
+would include petitioning to diminish/lessen the liner requirement, as based
+on water levels, there will be little or no groundwater seepage/contamination.
+A variance would significantly reduce costs associated with the construction
+of the landfill.
+
+Disclosure Regarding Forward Looking Statements
+- -----------------------------------------------
+     This Annual Report on Form 10-KSB includes forward looking statements
+within the meaning of Section 27A of the Securities Act of 1933, as amended,
+and Section 21E of the Securities Exchange Act of 1934, as amended ("Forward
+Looking Statements"). All statements other than statements of historical fact
+included in this report are Forward Looking Statements. In the normal course
+of its business, the Company, in an effort to help keep its shareholders and
+the public informed about the Company's operations, may from time-to-time
+issue certain statements, either in writing or orally, that contain or may
+contain Forward-Looking Statements. Although the Company believes that the
+expectations reflected in such Forward Looking Statements are reasonable, it
+can give no assurance that such expectations will prove to have been correct.
+Generally, these statements relate to business plans or strategies, projected
+or anticipated benefits or other consequences of such plans or strategies,
+past and possible future, of acquisitions and projected or anticipated
+benefits from acquisitions made by or to be made by the Company, or
+projections involving anticipated revenues, earnings, levels of capital
+expenditures or other aspects of operating results. All phases of the Company
+operations are subject to a number of uncertainties, risks and other
+influences, many of which are outside the control of the Company and any one
+of which, or a combination of which, could materially affect the results of
+the Company's proposed operations and whether Forward Looking Statements made
+
+                                    -12-
+
+<PAGE>
+by the Company ultimately prove to be accurate. Such important factors
+("Important Factors") and other factors could cause actual results to differ
+materially from the Company's expectations are disclosed in this report. All
+prior and subsequent written and oral Forward Looking Statements attributable
+to the Company or persons acting on its behalf are expressly qualified in
+their entirety by the Important Factors described below that could cause
+actual results to differ materially from the Company's expectations as set
+forth in any Forward Looking Statement made by or on behalf of the Company.
+
+     Competition: The waste collection/disposal business and the fabric care
+business are both highly competitive and require substantial amounts of
+capital. If permitted and operational, the Company's facilities would compete
+with numerous enterprises, many of which have significantly larger operations
+and greater resources than the Company. The Company would also compete with
+those counties and municipalities that maintain their own waste collection and
+disposal operations. Forward Looking Statements assume that the Company will
+be able to effectively compete with these other entities.
+
+     Availability of Acquisition Targets: The Company's planned acquisition
+program is a key element of its expansion strategy. In addition, obtaining
+landfill permits has become increasingly difficult, time consuming and
+expensive. There can be no assurance, however, that the Company will succeed
+in obtaining landfill permits or locating appropriate acquisition candidates
+that can be acquired at price levels that the Company considers appropriate.
+
+     Ongoing Capital Requirements: In order to satisfy the liquidity needs of
+the Company for the following twelve months, the Company will be primarily
+dependent upon proceeds from the sale of the Company's stock and, to a lesser
+extent, revenues generated from the operation of its fabric care business.
+Historically, revenues from the fabric care operation have not been adequate
+to fund the operations of the Company. The Company raised $5,500,000 through
+private sales of newly issued restricted shares of its common stock during
+fiscal 1996.  If the Company is unable to obtain adequate funds from the sale
+of its stock in public offerings, private placements or alternative financing
+arrangements, it may be necessary to delay the potential permitting and
+development of its Atlanta Property as a municipal solid waste landfill.
+Should this delay occur, the Company may pursue one or more of its potential
+alternative plans to produce revenues from the Atlanta Property, which include
+possibly re-opening the Property as a granite quarry, and/or using the
+Property for the disposal of inert debris and/or the storage of recyclable
+materials. Because of potential political, legal, bureaucratic, and other
+factors, there can be no assurance that the Company will be able to accomplish
+any of its goals for the Property within a reasonable period of time.
+
+     Economic Conditions: The Company's potential waste collection/disposal
+business would be affected by general economic conditions. There can be no
+assurance that an economic downturn would not result in a reduction in the
+potential volume of waste that might be disposed of at the Company's potential
+facilities and/or the price that the Company would charge for its services.
+Additionally, the demand for FIBER-SEAL's services may be adversely affected
+by an economic downturn.
+
+                                    -13-
+
+<PAGE>
+     Weather Conditions: Protracted periods of inclement weather may adversely
+affect the Company's potential operations by interfering with collection and
+landfill operations, delaying the development of landfill capacity and/or
+reducing the volume of waste generated by the Company's potential customers.
+In addition, particularly harsh weather conditions may result in the temporary
+suspension of certain of the Company's potential operations. The Forward
+Looking Statements do not assume that such weather conditions will occur.
+
+     Dependence on Senior Management: The Company is highly dependent upon its
+senior management team. In addition, as the Company continues to grow, its
+requirements for operations management with franchising and waste industry
+experience will also increase. The future availability of such experienced
+management cannot be predicted. The Forward Looking Statements assume that
+experienced management will be available when needed by the Company at
+compensation levels that are within industry norms. The loss of the services
+of any member of senior management or the inability to hire experienced
+operations management could have a material adverse effect on the Company.
+
+     Influence of Government Regulation: The Company's potential operations
+would be subject to and substantially affected by extensive federal, state and
+local laws, regulations, orders and permits, which govern environmental
+protection, health and safety, zoning and other matters. These regulations may
+impose restrictions on operations that could adversely affect the Company's
+results, such as limitations on the expansion of disposal facilities,
+limitations on or the banning of disposal of out-of-state waste or certain
+categories of waste or mandates regarding the disposal of solid waste. Because
+of heightened public concern, companies in the waste management business may
+become subject to judicial and administrative proceedings involving federal,
+state or local agencies. These governmental agencies may seek to impose fines
+or to revoke or deny renewal of operating permits or licenses for violations
+of environmental laws or regulations or to require remediation of
+environmental problems at sites or nearby properties, or resulting from
+transportation or predecessors' transportation and collection operations, all
+of which could have a material adverse effect on the Company. Liability may
+also arise from actions brought by individuals or community groups in
+connection with the permitting or licensing of operations, any alleged
+violations of such permits and licenses or other matters. The Forward Looking
+Statements assume that there will be no materially negative impact on its
+operations due to governmental regulation. 
+
+     Potential Environmental Liability: The Company may incur liabilities for
+the deterioration of the environment as a result of its potential operations.
+Any substantial liability for environmental damage could materially adversely
+affect the operating results and financial condition of the Company. Due to
+the limited nature of insurance coverage of environmental liability, if the
+Company were to incur liability for environmental damage, its business and
+financial condition could be materially adversely affected.
+
+                                    -14-
+
+<PAGE>
+Inflation and Prevailing Economic Conditions
+- --------------------------------------------
+     To date, inflation has not had a significant impact on the Company's
+operations. Consistent with industry practice, most of the Company's contracts
+will provide for a pass through of certain costs, including increases in
+landfill tipping fees and, in some cases, fuel costs. The Company therefore
+believes it should be able to implement price increases sufficient to offset
+most cost increases resulting from inflation. However, competitive factors may
+require the Company to absorb cost increases, resulting from inflation. The
+Company is unable to determine the future impact of a sustained economic
+slowdown.
+
+Employees
+
+     As of March 31, 1997, the Company employed a total of 16 persons, none of
+whom are subject to a collective bargaining agreement. The Company considers
+its relations with its employees to be satisfactory.
+
+   
+ITEM 2. DESCRIPTION OF PROPERTY.
+- --------------------------------
+    
+   
+     The principal fixed asset of the Company is the Atlanta Property
+described in Item 1. that the Company proposes to develop into a landfill.
+The Company also owns 283.5 acres of real estate located approximately 50
+miles from Dallas in Ellis County, Texas. This property is held for future
+development or resale. The Company has no timetable for such development or
+resale.
+    
+     The Company leases approximately 8,481 square feet of office and
+warehouse space in Dallas, Texas.
+
+
+ITEM 3. LEGAL PROCEEDINGS.
+- --------------------------
+   
+     Sterritt Properties, Inc. v. Raymond Donner, et al, District Court of
+Dallas County Texas: On September 19, 1996 Sterritt Properties, Inc., the
+majority shareholder of the Company, filed an original Petition and
+Application For Temporary Restraining Order and Temporary Injunction (the
+"Petition") against Raymond Donner, Ronnie Davidson, Richard Jepson Egglishaw,
+Business Ventures, Inc. ("BVI"), Hilvick Investments Limited and Strachens
+Management Services, Ltd. The Petition, as amended, alleges that the
+defendants breached a contract with the plaintiff and committed fraud in
+connection with a transaction whereby the plaintiff transferred to BVI an
+$800,000 promissory note from the Company which was convertible into
+1,600,000 shares of the Company's Common Stock. The Note subsequently was
+converted by BVI and 1,600,000 shares (the "Disputed Shares") of the Common
+Stock were issued to BVI. The Petition, as amended, seeks recision, monetary
+and injunctive relief against the defendants other than the Company, and that
+the Company be enjoined from transferring the Disputed Shares and ordered to
+cancel the Disputed Shares. On October 14, 1996 the District Court of Dallas
+entered an Agreed Temporary Injunction enjoining the sale transfer or
+assignment of any of the Company's Common Stock held directly or indirectly by
+any of the defendants. On November 22, 1996 the Company was named as a
+    
+                                    -15-
+
+<PAGE>
+   
+defendant to this action in order that it would be bound by any order of the
+District Court concerning the ultimate disposition of the Disputed Shares. The
+Company is not alleged to have breached any contract with, or to have
+participated in any fraud against, the plaintiff. Thus far, based upon the
+nature of the allegations of the Petition, the Company has not taken an active
+role in this matter. As and if necessitated by the development of the facts
+underlying this dispute, the Company will take any action against any party it
+deems necessary and appropriate to protect its interests and those of its
+shareholders. The Company will comply with any final orders of the District
+Court (or any appropriate appellate court) concerning the Disputed Shares.
+    
+   
+     The Company also is currently a party to routine litigation incidental to
+its business. Based upon the scope and magnitude of these actions, the Company
+does not believe these claims, if determined adversely to the Company, would
+have a material adverse effect on the Company.
+    
+
+ITEM 4. SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS.
+- ------------------------------------------------------------
+
+     No matters were submitted to a vote of the Company's security holders
+during the fourth quarter of fiscal year 1996 or the short year ended
+December 31, 1996.
+
+
+                                  PART II
+                                  -------
+   
+ITEM 5. MARKET FOR COMMON EQUITY AND RELATED STOCKHOLDER MATTERS.
+- -----------------------------------------------------------------
+    
+     The Company's Common Stock is registered with the United States
+Securities and Exchange Commission under Section 12(g) of the Securities
+Exchange Act of 1934 but is not quoted on a national or regional securities
+exchange or on the National Association of Securities Dealers, Inc. Automated
+Quotation System. The Common Stock is traded on the Over-the-Counter Bulletin
+Board.
+
+     The following table sets forth the quarterly high and low closing bid
+prices per share for the Company's Common Stock for the periods indicated.
+These prices represent prices between dealers, do not include retail mark-up,
+mark-down or commissions and may not necessarily represent actual transactions.
+   
+                 Short Year Ended         Year Ended            Year Ended
+                 December 31, 1996    September 30, 1996    September 30, 1995
+                 -----------------    ------------------    ------------------
+  Quarters        High       Low       High        Low       High         Low
+- ------------     -------   -------    -------    -------    -------    -------
+  JUL - SEP         -        -         $30.50    $16.50       $6.00     $4.00
+  APR - JUN         -        -         $26.00    $ 3.50       $6.25     $2.88
+  JAN - MAR         -        -         $ 5.00    $ 4.13       $5.63     $2.88
+  OCT - DEC       $27.13   $20.50      $ 5.13    $ 4.00       $6.00     $4.00
+    
+
+                                    -16-
+
+<PAGE>
+     There were 1,241 holders of record of the Common Stock as of March 31,
+1997. This number does not include an indeterminate number of shareholders
+whose shares are held by brokers in "street name." The Company has not
+declared any cash dividends on its Common Stock during its short year ended
+December 31, 1996 or during its fiscal years ended September 30, 1996 and
+1995. The Board of Directors of the Company has made no determination to date
+to declare cash dividends during the foreseeable future. There are no
+restrictions on the Company's present or future ability to pay cash dividends
+other than those restrictions imposed by law on all Georgia corporations.
+
+   
+ITEM 6. MANAGEMENT DISCUSSION AND ANALYSIS OF
+        FINANCIAL CONDITION AND RESULTS OF OPERATIONS.
+- ------------------------------------------------------
+    
+     Results of Operations
+     ---------------------
+
+     Revenues of the Company are currently derived solely from the FIBER-SEAL
+fabric care and treatment business. Revenues consist of: (1) licensee fees
+based upon monthly sales, (2) product sales to licensees, and (3) direct
+product and service sales from the Dallas, Texas territory (which is owned by
+CICG).
+
+     Operating revenues decreased by $84,050 in fiscal 1996 as compared with
+the fiscal 1995. Such decrease was due to a $30,002 non-recurring sale of
+mined rock from the Atlanta quarry site in fiscal year 1995, and to a decline
+in revenue from FIBER-SEAL of Dallas as a result of management changes. The
+decline in fabric care revenues is expected to be a temporary situation as a
+result of expected improvements in performance at FIBER-SEAL of Dallas as well
+as the Company's strategic decision to convert its fabric care business from a
+licensing mode to a potentially far more lucrative franchising operation.
+
+     Operating revenues decreased by $20,581 in the short period ended
+December 31, 1996 as compared with the quarter ended December 31, 1995.
+
+     Selling, general and administrative (SG&A) expenses increased $307,599
+during fiscal 1996 as compared to fiscal 1995. The increase was caused by a
+variety of factors including consulting fees related to the potential use of
+the Atlanta Property as a waste disposal site, other consulting fees,
+increased legal fees, increased public relations expenses, and increased
+management expenses.
+
+     The net loss for fiscal 1996 was $382,110 higher than the loss for fiscal
+1995. Such increase was due primarily to the aforementioned lower revenues and
+higher SG&A expenses in fiscal 1996 as compared with fiscal 1995.
+
+     The net loss for the short period ended December 31, 1996 was $184,586
+higher than the loss for the quarter ended December 31, 1995. Such increase
+was due primarily to the higher SG&A expenses in the short period ended
+December 31, 1996.
+
+                                    -17-
+
+<PAGE>
+     Liquidity and Capital Resources
+     -------------------------------
+
+     The Company had working capital of $3,224,268 at the end of fiscal year
+1996 and a current ratio of 7.8 to 1.
+
+     The Company had working capital of $2,993,135 at the end of the short
+period ended December 31, 1996 and a current ratio of 8.6 to 1.
+
+     The primary source of capital during the 15-month period ended
+December 31, 1996 was provided by the sale of shares of common stock of the
+Company in private sales. Capital resources continue to be utilized primarily
+to (1) fund the operating losses of the Company, which have been created
+primarily by costs associated with planning for the development of the
+Company's Property in Atlanta, Georgia as a waste disposal landfill and (2) to
+acquire additional land adjacent to the Property. The Company invested
+$5,352,691 during fiscal 1996 in additional land adjacent to the Property in
+Atlanta. None of the Company's real estate holdings are encumbered by any
+debt.
+
+     In order to satisfy the liquidity needs of the Company for the following
+twelve months, the Company will be primarily dependent upon proceeds from the
+sale of the Company's stock and, to a lesser extent, revenues generated from
+the operation of its fabric care business. Historically, revenues from the
+fabric care operation have not been adequate to fund the operations of the
+Company. The Company raised $5,500,000 through private sales of newly issued
+restricted shares of its common stock during fiscal 1996. If the Company is
+unable to obtain adequate funds from the sale of its stock in public
+offerings, private placements or alternative financing arrangements, it may be
+necessary to delay the potential permitting and development of its Atlanta
+Property as a municipal solid waste landfill. Should this delay occur, the
+Company may pursue one or more of its potential alternative plans to produce
+revenues from the Atlanta Property, which include possibly re-opening the
+Property as a granite quarry, and/or using the Property for the disposal of
+inert debris and/or the storage of recyclable materials. Because of potential
+political, legal, bureaucratic, and other factors, there can be no assurance
+that the Company will be able to accomplish any of its goals for the Property
+within a reasonable period of time.
+
+     The Company has issued shares of its Common Stock from time to time in
+the past to satisfy certain obligations, and expects in the future to also
+acquire certain services, satisfy indebtedness and/or make acquisitions
+utilizing authorized shares of stock of the Company.
+
+                                    -18-
+
+<PAGE>
+   
+ITEM 7. FINANCIAL STATEMENTS.
+- -----------------------------
+    
+                       INDEX TO FINANCIAL STATEMENTS
+                       -----------------------------
+                                                                      Page
+
+Report of Independent Certified Public Accountants .................   F-1
+
+Consolidated Balance Sheet as of
+   December 31, 1996 ...............................................   F-2
+
+Consolidated Statements of Operations for the three months
+   ended December 31, 1996 and for the fiscal years ended
+   September 30, 1996 and 1995 .....................................   F-4
+
+Consolidated Statement of Stockholders' Equity
+   for the three months ended December 31, 1996 and for
+   the fiscal years ended September 30, 1996 and 1995 ..............   F-5
+
+Consolidated Statements of Cash Flows for the three
+   months ended December 31, 1996 and for the fiscal
+   years ended September 30, 1996 and 1995 .........................   F-6
+
+Notes to Financial Statements ......................................   F-8
+
+                                    -19-
+
+<PAGE>
+
+              Report of Independent Certified Public Accountants
+
+
+Board of Directors and Stockholders
+Continental Investment Corporation
+
+We have audited the accompanying consolidated balance sheet of Continental
+Investment Corporation (a Georgia corporation) and Subsidiaries as of December
+31, 1996, and the related consolidated statements of operations, stockholders'
+equity and cash flows for the three months ended December 31, 1996 and each of
+the two years in the period ended September 30, 1996. These financial statements
+are the responsibility of the Company's management. Our responsibility is to
+express an opinion on these financial statements based on our audits.
+
+We conducted our audits in accordance with generally accepted auditing
+standards. Those standards require that we plan and perform the audit to obtain
+reasonable assurance about whether the financial statements are free of material
+misstatement. An audit includes examining, on a test basis, evidence supporting
+the amounts and disclosures in the financial statements. An audit also includes
+assessing the accounting principles used and significant estimates made by
+management, as well as evaluating the overall financial statement presentation.
+We believe that our audits provide a reasonable basis for our opinion.
+
+In our opinion, the financial statements referred to above present fairly, in
+all material respects, the consolidated financial position of Continental
+Investment Corporation and Subsidiaries as of December 31, 1996, and the
+consolidated results of their operations and their consolidated cash flows for
+the three months ended December 31, 1996 and each of the two years in the period
+ended September 30, 1996, in conformity with generally accepted accounting
+principles.
+
+
+GRANT THORNTON LLP
+
+Dallas, Texas
+February 7, 1997
+
+                                     F-1
+
+<PAGE>
+             Continental Investment Corporation and Subsidiaries
+
+                         CONSOLIDATED BALANCE SHEET
+
+                              December 31, 1996
+             
+            ASSETS
+
+CURRENT ASSETS
+  Cash                                                     $   841,586
+  Note receivable                                            2,380,000
+  Accounts receivable                                           23,679
+  Inventories                                                   48,613
+  Accrued interest receivable                                   61,142
+  Prepaid expenses                                              33,967
+                                                           -----------
+          Total current assets                               3,388,987
+
+PROPERTY AND EQUIPMENT
+  Land, at cost                                              9,497,582
+  Fixtures and equipment, net of accumulated
+    depreciation of $29,960                                     41,813
+                                                           -----------
+                                                             9,539,395
+
+INTANGIBLES, net of accumulated amortization
+  of $17,361                                                    17,639
+                                                           -----------
+          Total assets                                     $12,946,021
+                                                           ===========
+
+     The accompanying notes are an integral part of this statement.
+
+                                     F-2
+
+<PAGE>
+             Continental Investment Corporation and Subsidiaries
+
+                  CONSOLIDATED BALANCE SHEET - CONTINUED
+                            
+                              December 31, 1996
+
+
+    LIABILITIES AND STOCKHOLDERS' EQUITY
+
+CURRENT LIABILITIES
+  Accounts payable - trade                                 $   119,496
+  Accrued expenses                                              46,356
+  Current portion of long-term note payable                    230,000
+                                                           -----------
+          Total current liabilities                            395,852
+
+LONG-TERM LIABILITIES
+  Note payable                                                 920,000
+  Deferred income taxes                                        747,000
+                                                           -----------
+                                                             1,667,000
+          Total liabilities                                  2,062,852
+
+COMMITMENTS                                                        -  
+
+STOCKHOLDERS' EQUITY
+  Preferred stock, $1.00 par value;
+    1,000,000 shares authorized; no shares
+    issued or outstanding                                          -
+  Common stock, $.50 par value; 25,000,000
+    shares authorized; 11,313,008 issued and
+    outstanding                                              2,782,504
+  Additional contributed capital                            11,540,444
+  Accumulated deficit                                       (3,439,779)
+                                                            ----------
+          Total stockholders' equity                        10,883,169
+                                                            ----------
+          Total liabilities and stockholders'
+            equity                                         $12,946,021
+                                                           ===========
+
+     The accompanying notes are an integral part of this statement.
+
+                                     F-3
+
+<PAGE>
+             Continental Investment Corporation and Subsidiaries
+
+                    CONSOLIDATED STATEMENTS OF OPERATIONS
+
+                                       Three months
+                                          ended       Year ended September 30,
+                                       December 31,   ------------------------
+                                           1996           1996        1995
+                                       ------------   -----------  -----------
+
+Revenues                               $  221,884     $  818,978   $  903,028
+
+Costs and expenses
+  Cost of revenues                         88,900        369,435      411,415
+  Selling, general and
+    administrative expenses               453,686      1,358,719    1,051,120
+                                       ----------     ----------   ---------- 
+                                          542,586      1,728,154    1,462,535
+                                       ----------     ----------   ----------
+          Operating loss                 (320,702)      (909,176)    (559,507)
+
+Other income (expense)
+  Interest income                          74,824          8,946          -  
+  Interest expense                        (24,991)        (8,472)     (12,068)
+                                       ----------     ----------   ----------  
+                                           49,833            474      (12,068)
+                                       ----------     ----------   ----------
+          Loss before income taxes       (270,869)      (908,702)    (571,575)
+
+Deferred income tax expense                   -              -          1,321
+                                       ----------     ----------   ----------
+          Loss before extraordinary
+            credit                       (270,869)      (908,702)    (572,896)
+
+Extraordinary credit - gain on
+  debt forgiveness                            -              -         39,246
+                                       ----------     ----------   ----------
+          NET LOSS                     $ (270,869)    $ (908,702)  $ (533,650)
+                                       ==========     ==========   ==========
+Per share data
+  Loss before extraordinary
+    credit per common share                 $(.02)         $(.09)       $(.07)
+                                            =====          =====        =====
+
+  Loss per common share                     $(.02)         $(.09)       $(.07)
+                                            =====          =====        =====
+  Weighted average number of
+    common and common equivalent
+    shares outstanding                 11,311,288      9,746,092    8,181,482
+                                       ==========     ==========   ==========
+     
+     The accompanying notes are an integral part of this statement.
+
+                                     F-4
+
+<PAGE>
+                             Continental Investment Corporation and Subsidiaries
+ 
+                                CONSOLIDATED STATEMENT OF STOCKHOLDERS' EQUITY
+<TABLE>
+<CAPTION>
+                                       Common stock         Additional     Treasury stock
+                                 -------------------------  contributed   ----------------   Accumulated
+                                   Shares      Par value      capital     Shares    Amount      deficit         Total
+                                 -----------  ------------ ------------   ------   --------   ------------   ------------
+<S>                              <C>          <C>          <C>            <C>     <C>         <C>            <C>
+Balances at October 1, 1994       7,027,327   $   639,664  $ 1,388,930    7,209   $(26,771)   $(1,726,558)   $   275,265
+
+Conversion of debt to stock       1,600,000      800,000           100      -          -              -          800,100
+Sale of stock in private
+  placement                          80,000       40,000       360,000      -          -              -          400,000
+Purchase of land for stock          150,000       75,000       675,000      -          -              -          750,000
+Issuance of stock for services       16,200        8,100        77,899      -          -              -           85,999
+Stock issued for debt
+  forgiveness                        10,000        5,000        45,000      -          -              -           50,000
+Net loss                                -            -             -        -          -         (533,650)      (533,650)
+                                 ----------   ----------   -----------    ------  ---------   -----------    -----------
+
+Balances at September 30, 1995    8,883,527    1,567,764     2,546,929    7,209    (26,771)    (2,260,208)     1,827,714
+
+Retirement of treasury stock         (7,209)      (3,604)      (23,167)  (7,209)    26,771            -              -
+Sale of stock in private           
+  placement                         955,000      477,500     5,022,500      -          -              -
+Issuance of stock for services       50,800       25,400       228,680      -          -              -
+Issuance of stock for land        1,427,940      713,969     4,877,852      -          -              -
+Distribution to Shareholder             -            -      (1,150,000)     -          -              -
+Net loss                                -            -             -        -          -         (908,702)      (908,702)
+                                 ----------   ----------   -----------    ------  --------    -----------    -----------
+
+Balances at September 30, 1996   11,310,058   $2,781,029   $11,502,794      -          -       (3,168,910)    11,114,913
+
+Issuance of stock                     2,950        1,475        37,650      -          -              -           39,125
+Net loss                                -            -             -        -          -         (270,869)      (270,869)          
+                                 ----------   ----------   -----------    ------  ---------   -----------    -----------
+
+Balances at December 31, 1996    11,313,008   $2,782,504   $11,540,444      -     $    -      $(3,439,779)   $10,883,169
+                                 ==========   ==========   ===========    ======  =========   ===========    ===========
+<FN>
+     The accompanying notes are an integral part of this statement.
+</FN>
+</TABLE>                                     
+                                     F-5
+
+<PAGE>
+             Continental Investment Corporation and Subsidiaries
+
+                      CONSOLIDATED STATEMENTS OF CASH FLOWS
+
+                                       Three months        Year ended
+                                           ended          September 30,
+                                        December 31, -------------------------
+                                           1996         1996          1995     
+                                        ----------   -----------   -----------
+Cash flows from operating activities:
+  Net loss                              $(270,869)   $ (908,702)   $ (533,650)
+  Adjustments to reconcile net loss
+    to net cash used in operating
+    activities:
+      Amortization and depreciation
+        expense                            12,265         2,333         2,334
+      Common stock issued as
+        consideration for services            -         254,080        85,999
+      Deferred income taxes                   -             -           1,321
+      Change in operating assets and
+         liabilities:
+        Accounts receivable - trade       (10,847)      (12,832)          -  
+        Accrued interest receivable       (61,142)          -             -
+        Other current assets              (34,988)      (67,711)      (24,792)
+        Accounts payable - trade           (7,564)      (39,264)       58,760
+        Accrued expenses                   31,356       (67,091)       48,705
+        Income taxes payable                  -             -         (23,921)
+        Accrued expenses to related
+          parties                         (67,999)     (274,106)      165,908
+        Deferred rent                         -             -          (8,807)
+        Other                                 -         (67,873)     (120,678)
+                                       ----------    ----------    ----------
+             Net cash used in
+               operating activities      (409,788)   (1,181,166)     (349,001)
+
+Cash flows from investing activities:
+  Issuance of note receivable          (1,500,000)     (880,000)          -  
+  Purchases of property                   (16,755)     (693,870)       (9,473)
+                                       ----------    ----------    ----------
+          Net cash used in
+            investing activities       (1,516,755)   (1,573,870)       (9,473)
+
+Cash flows from financing activities:
+  Proceeds from sale of stock               5,000     5,500,000       400,000
+  Debt repayments                             -             -         (25,676)
+  Other                                       -             -             100
+                                       ----------    ----------    ----------
+          Net cash provided by
+            financing activities           5,000     5,500,000        374,424
+                                       
+Increase (decrease) in cash           (1,921,453)    2,744,964         15,950
+Cash at beginning of period            2,763,129        18,165          2,215
+                                      ----------    ----------     ----------
+Cash at end of period                 $  841,586    $2,763,129     $   18,165
+                                      ==========    ==========     ==========
+
+     The accompanying notes are an integral part of this statement.
+
+                                     F-6
+<PAGE>
+             Continental Investment Corporation and Subsidiaries
+
+              CONSOLIDATED STATEMENTS OF CASH FLOWS - CONTINUED
+
+           Three months ended December 31, 1996 and the years ended
+                          September 30, 1996 and 1995
+
+
+NON-CASH INVESTING AND FINANCING ACTIVITIES:
+- --------------------------------------------
+
+During fiscal year ending September 30, 1995, liabilities were settled and
+land was purchased in exchange for stock as follows:
+
+   .  $800,000 debt retired in exchange for 1,600,000 shares of common stock.
+      
+   .  $75,675 note payable retired for cash of $25,675 and 10,000 shares of
+      common stock.
+      
+   .  Land was acquired for 150,000 shares of common stock valued at $750,000.
+
+During fiscal year ending September 30, 1996, liabilities were settled and
+land was purchased in exchange for stock as follows:
+
+   .  Land was acquired by issuing 1,427,940 shares of common stock valued at
+      $5,591,821 and cash of $693,870, for a total purchase price of
+      $6,285,691.
+
+
+     The accompanying notes are an integral part of this statement.
+
+                                     F-7
+
+<PAGE>
+             Continental Investment Corporation and Subsidiaries
+
+                  NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+
+NOTE A - NATURE OF OPERATIONS AND SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+- ----------------------------------------------------------------------------
+
+  Basis of Presentation and Principles of Consolidation
+  -----------------------------------------------------
+  The accompanying consolidated financial statements include the accounts of
+  Continental Investment Corporation and its subsidiaries. All significant
+  intercompany transactions and balances have been eliminated.
+
+  Nature of Operations
+  --------------------
+  The Company operates in two principal segments:  property development,
+  primarily its potential landfill site in Atlanta, Georgia, and its Fiber-
+  Seal fabric care and surface protection business.
+
+  Property
+  --------
+  Property is recorded at cost. Expenditures for major additions and
+  improvements are capitalized, while minor replacements, maintenance and
+  repairs are charged to expense as incurred. When property is retired or
+  otherwise disposed of, the cost and accumulated depreciation and depletion
+  are removed from the accounts and any resulting gain or loss is reflected in
+  current operations.
+
+  Landfill and certain treatment facility costs will be depleted using the
+  units of production method, which is calculated using the total units of
+  airspace filled during the year in relation to total estimated permitted
+  airspace capacity. Depreciation on the remaining assets will be provided
+  over the estimated useful lives of such assets using the straight-line
+  method.
+
+  Landfill improvements include direct costs incurred to obtain a landfill
+  permit and direct costs incurred to construct and improve the site, and
+  these costs will be depleted based on consumed airspace. No general and
+  administrative costs are capitalized as landfill and landfill improvements.
+
+  Income Taxes
+  ------------
+  Deferred income taxes are provided under the liability method in which
+  deferred assets and liabilities are determined based on the differences
+  between the tax basis of assets and liabilities and the amounts reported in
+  the financial statements.  Deferred tax assets and liabilities at the end of
+  each period are determined using the currently enacted tax rates.
+
+                                     F-8
+
+<PAGE>
+             Continental Investment Corporation and Subsidiaries
+
+            NOTES TO CONSOLIDATED FINANCIAL STATEMENTS - CONTINUED
+
+NOTE A - NATURE OF OPERATIONS AND SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES -
+         Continued
+- -----------------------------------------------------------------------------
+
+  Intangibles
+  -----------
+  Intangibles are amortized over fifteen years, on a straight-line basis.
+  Intangibles represent licensing and marketing rights to the intellectual
+  property of a system for fabric care treatment and protection. The Company
+  periodically reviews intangibles to assess recoverability, and impairment is
+  recognized in results of operations when recoverability is not probable.
+
+  Loss Per Share
+  --------------
+  Loss per common share is based on the weighted average number of outstanding
+  common shares during the period and, if their effect is dilutive, common
+  stock equivalents consisting of stock options.
+
+  Use of Estimates
+  ----------------
+  In preparing financial statements in conformity with generally accepted
+  accounting principles, management is required to make estimates and
+  assumptions that affect the reported amounts of assets and liabilities at
+  the date of the financial statements and revenues and expenses during the
+  reporting period. Actual results could differ from those estimates.
+
+
+NOTE B - ACQUISITION
+- --------------------
+
+  On September 30, 1996, the Company acquired all of the operating assets and
+  liabilities of Fiber-Seal of Dallas (FSD) and Fiber-Seal Services
+  International, Inc. (FSSI) from the majority stockholder of the Company in
+  exchange for a $1,150,000 note payable. Due to the common ownership of the
+  Company, FSD and FSSI, the transaction has been accounted for in a manner
+  similar to a pooling of interests and, accordingly, the consolidated
+  financial statements for all periods presented have been restated to include
+  the accounts of FSD and FSSI. The note payable exchanged in the acquisition
+  has been discounted and interest imputed at the stated rate of 8-1/2% per
+  annum as if the transaction had occurred on October 1, 1994. The excess of
+  the carrying value of the note payable over the historical cost basis of the
+  net assets acquired has been reflected as a distribution to stockholders.
+
+                                     F-9
+
+
+<PAGE>
+             Continental Investment Corporation and Subsidiaries
+
+            NOTES TO CONSOLIDATED FINANCIAL STATEMENTS - CONTINUED
+
+NOTE B - ACQUISITION - Continued
+- --------------------------------
+
+  Net sales and net earnings of the separate companies for the periods
+  preceding the acquisition were as follows:
+
+<TABLE>
+<CAPTION>
+                                                             Elimin-   Imputed  
+                            CICG         FSD       FSSI      ations    interest    Combined
+                         -----------  ---------  ---------  ---------  ---------   ---------
+  <S>                   <C>          <C>         <C>        <C>         <C>        <C>
+  Year ended
+  September 30, 1996
+    Revenues   $         $   60,000   $247,606   $539,381   $(28,009)   $   -      $818,978
+    Net earnings (loss)  (1,040,199)      (311)   137,187     (5,379)   (90,092)   (998,794)
+
+  Year ended
+  September 30, 1995
+    Revenues             $  134,002   $326,683   $491,262   $(48,919)   $   -      $903,028
+    Net earnings (loss)    (654,508)    23,112     97,746        -      (83,034)   (616,684)
+
+</TABLE>
+
+
+NOTE C -CHANGE IN FISCAL YEAR
+- -----------------------------
+  In February 1997, the Company changed its fiscal year end from September 30
+  to December 31, effective January 1, 1997. A three-month fiscal transition
+  period from October 1, 1996 to December 31, 1996 will precede the start of
+  the new fiscal year. Condensed financial information (unaudited) of the
+  Company for the three months ended December 31, 1995 is as follows:
+
+                   Revenues                $242,465
+                   Operating loss           (63,207)
+                   Net loss                 (86,283)
+
+                   Loss per common share      $(.01)
+
+
+NOTE D - NOTE RECEIVABLE
+- ------------------------
+
+  Note receivable consists of amounts due under a revolving loan agreement.
+  Amounts outstanding under the agreement are collateralized by 100,000 shares
+  of the Company's common stock, bear interest at 10% per annum, payable
+  quarterly, with principal due in five installments through December 31,
+  1997.
+
+                                    F-10
+
+<PAGE>
+             Continental Investment Corporation and Subsidiaries
+
+            NOTES TO CONSOLIDATED FINANCIAL STATEMENTS - CONTINUED
+
+
+NOTE E - PROPERTY AND EQUIPMENT
+- -------------------------------
+
+  The Company's property and equipment consists of the following at
+  December 31, 1996:
+
+  LAND
+    229 acres in Atlanta, Georgia
+      Former Granite Quarry                      $  564,222
+      Unimproved land                             8,068,360
+                                                 ---------- 
+                                                  8,632,582
+    253.5 acres, Ellis County, Texas
+      Unimproved land                               750,000
+
+    30 acres, Ferris, Texas
+      Unimproved land                               115,000
+                                                 ----------
+                                                 $9,497,582
+                                                 ==========
+    FIXTURES AND EQUIPMENT
+    Fixtures and equipment                       $   71,773
+    Accumulated depreciation                        (29,960)
+                                                 ----------
+                                                 $   41,813
+                                                 ==========
+
+NOTE F - INCOME TAXES
+- ---------------------
+
+  The Company and its subsidiaries file a consolidated tax return. At
+  December 31, 1996, the Company has, for Federal income tax purposes,
+  operating loss carryforwards of approximately $3,900,000, expiring through
+  2012 and capital loss carryforwards of approximately $310,000 expiring
+  through 1999. Tax laws limit the utilization of the net operating loss
+  carryforwards and capital loss carryforwards to approximately $250,000 per
+  year. Therefore, the Company may be required to pay income taxes in future
+  years even though significant loss carryforwards exist.
+
+                                    F-11
+
+<PAGE>
+             Continental Investment Corporation and Subsidiaries
+
+            NOTES TO CONSOLIDATED FINANCIAL STATEMENTS - CONTINUED
+
+
+NOTE F - INCOME TAXES - Continued
+- ---------------------------------
+
+  Reconciliation of income taxes computed at the Federal statutory rate and
+  income tax expense is as follows:
+  
+                                    Three months
+                                        ended         Year ended September 30,
+                                     December 31,    -------------------------
+                                        1996             1996         1995
+                                     -----------     -----------    ----------
+
+    Tax benefit at statutory rate       $(92,000)     $(340,000)    $(223,000)
+    Change in valuation allowance         89,000        307,000       223,000
+    Other                                  3,000         33,000         1,321
+                                       ---------      ---------     ---------
+                                       $     -        $     -       $   1,321
+                                       =========      =========     =========
+
+  Consolidated deferred tax assets and liabilities consist of the following
+  at December 31, 1996:
+
+  Deferred tax assets
+    Net operating loss and capital loss carryforwards            $  1,389,000
+    Valuation allowance                                            (1,389,000)
+                                                                 ------------
+                                                                          -    
+   Deferred tax liabilities
+     Property                                                         747,000
+                                                                 ------------
+       Net deferred tax liability                                $    747,000
+                                                                 ============
+
+                                    F-12
+
+<PAGE>
+             Continental Investment Corporation and Subsidiaries
+
+            NOTES TO CONSOLIDATED FINANCIAL STATEMENTS - CONTINUED
+
+
+NOTE F - INCOME TAXES - Continued
+- ---------------------------------
+
+  At December 31, 1996, the Company had capital and net operating loss
+  carryforwards for Federal tax purposes expiring as follows:
+
+                                          Year of   
+                                         expiration      Amount  
+                                         ----------    ----------
+
+  Capital losses                            1999       $  313,568
+
+  Net operating loss carryforwards          2005       $  245,018
+                                            2006          286,359
+                                            2007          682,391
+                                            2008          152,727
+                                            2009          710,373
+                                            2010          644,163
+                                            2011          902,484
+                                            2012          262,408
+                                                       ----------
+                                                       $3,885,923
+                                                       ==========
+
+NOTE G - NOTE PAYABLE
+- ---------------------
+
+  The note payable bears interest at 8.5% and is due in annual installments of
+  $230,000 commencing on January 15, 1997, with interest due quarterly. The
+  future minimum payments under this long-term note at December 31,  1996 are
+  as follows:
+
+         1997            $  230,000
+         1998               230,000
+         1999               230,000
+         2000               230,000
+         2001               230,000
+                         ----------
+                          1,150,000
+       Less current
+         maturities         230,000
+                         ---------- 
+                         $  920,000
+                         ==========
+
+                                    F-13
+
+<PAGE>
+             Continental Investment Corporation and Subsidiaries
+
+            NOTES TO CONSOLIDATED FINANCIAL STATEMENTS - CONTINUED
+
+
+NOTE H - LEASES
+- ---------------
+
+  The Company leases office and warehouse space under an agreement expiring in
+  1999. This lease, which has been classified for accounting purposes as an
+  operating lease, is subject to customary escalation clauses for executory
+  costs and operating expenses. The future minimum lease payments under the
+  noncancellable lease at December 31, 1996, are as follows:
+
+            Year ending
+            December 31,
+            ------------
+               1997          $  36,044
+               1998             36,044
+               1999             36,044
+                             ---------
+                             $ 108,132
+                             =========
+
+
+NOTE I - STOCKHOLDER'S EQUITY
+- -----------------------------
+
+  Common stock is stated at the lower of par value or consideration received,
+  as permitted by state law.
+
+  The following information relates to warrants outstanding:
+
+                                                  Number
+                                                of shares     Option price
+                                                ----------   ---------------
+
+  Warrants outstanding - October 1, 1994          144,000    $5.00 - $18.00
+    Issued during the year (1)                    210,000    $4.25 - $ 5.00
+                                                ---------
+
+  Warrants outstanding - September 30, 1995       354,000    $4.25 - $18.00
+    Issued during the year (1)                  3,622,500    $4.00 - $35.00
+    Exercised during the year                    (462,500)   $4.00 - $10.00
+                                                ---------
+
+  Warrants outstanding - September 30, 1996     3,404,000    $4.00 - $35.00
+                                                =========
+
+  Warrants exercisable - September 30, 1996     3,404,000    $4.00 - $35.00
+                                                =========
+
+  (1) During 1996 and 1995, the Company received $5,500,000 and $400,000
+      respectively for the sale of its restricted common stock and warrants
+      to purchase restricted stock which expire in varying terms (one to
+      five years).
+
+                                    F-14
+
+<PAGE>
+             Continental Investment Corporation and Subsidiaries
+
+            NOTES TO CONSOLIDATED FINANCIAL STATEMENTS - CONTINUED
+
+
+NOTE I - COMMON STOCK AND STOCK OPTIONS - Continued
+- ---------------------------------------------------
+
+                                                        Year ended
+                                                    September 30, 1995
+                                                  ---------------------
+                                                              Weighted
+                                                              average
+                                                              exercise
+                                                  Shares        price
+                                                  -------     ---------
+
+  Outstanding at beginning of year                144,000       $10.17
+  Granted                                         210,000         4.64
+
+  Outstanding at end of year                      354,000       $ 6.89
+                                                  =======       ======
+
+  Options exercisable at September 30, 1995       354,000       $ 6.89
+                                                  =======       ======
+
+ Information about stock options outstanding at December 31, 1996 is
+ summarized as follows:
+
+                          Options outstanding and exercisable
+                          -----------------------------------
+                                          Weighted average
+                              Number         remaining        Weighted average
+  Range of exercise prices  outstanding   contractual life     exercise price
+  ------------------------  -----------   ----------------    ----------------
+     $ 4.00 to $ 5.00       2,483,000        3.3 years             $ 4.84
+     $ 5.01 to $10.00         122,000         .9 years             $ 8.03
+     $10.01 to $35.00         798,000        1.0 years             $26.15
+                            ---------
+                            3,403,000
+                            =========
+                                      
+                                    F-15
+
+<PAGE>
+             Continental Investment Corporation and Subsidiaries
+
+            NOTES TO CONSOLIDATED FINANCIAL STATEMENTS - CONTINUED
+
+
+NOTE J - SEGMENTS
+- -----------------
+
+  The Company operates in two principal segments: property development,
+  primarily its potential landfill site in Atlanta, Georgia, and its Fiber-
+  Seal fabric care and surface protection business.
+
+                             Property        Fabric  
+      December 31, 1996     Development       Care     Corporate   Consolidated
+   -----------------------  ------------   ----------  ---------   ------------
+
+   Revenues                 $       -      $  221,884  $     -     $   221,884
+   Operating profit (loss)     (306,603)       35,734        -        (311,143)
+   Identifiable assets       12,640,749       305,272        -      12,022,580
+   Depreciation and
+     amortization                   -           3,266        -           3,266
+   Capital expenditures             -             -          -             -
+
+      September 30, 1996
+   -----------------------
+
+   Revenues                 $       -      $  818,978  $     -     $   818,978
+   Operating profit (loss)   (1,014,144)      105,852       (410)     (908,702)
+   Identifiable assets        13,162,202       93,895        -      13,256,097
+   Depreciation and
+     amortization                    -         13,284        -          13,284
+   Capital expenditures          693,870          -          -         693,870
+
+  September 30, 1995
+  ------------------------
+   Revenues                 $     30,002   $  873,026  $     -     $   903,028
+   Operating profit (loss)      (379,255)     186,134   (378,454)     (571,575)
+   Identifiable assets         3,282,321       25,814        -       3,308,135
+   Depreciation and
+     amortization                    -          2,334        -           2,334
+   Capital expenditures            9,473          -          -           9,473
+
+
+                                    F-16
+
+<PAGE>
+             Continental Investment Corporation and Subsidiaries
+
+            NOTES TO CONSOLIDATED FINANCIAL STATEMENTS - CONTINUED
+
+
+NOTE K - FAIR VALUE OF FINANCIAL INSTRUMENTS
+- --------------------------------------------
+
+  The Company's financial instruments include cash and debt. The fair value of
+  all instruments approximates the carrying value as they reprice within one
+  year.
+
+
+NOTE L - CONTINGENCIES
+- ----------------------
+
+  The Company is defendant in various matters in litigation which have arisen
+  in the normal course of business. In the opinion of management, such
+  litigation will not have a material effect on the Company's financial
+  position or results of operations.
+
+                                    F-17
+
+<PAGE>
+   
+ITEM 8. CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING
+        AND FINANCIAL DISCLOSURE.
+- -------------------------------------------------------------------
+        NONE
+    
+
+                                 PART III
+                                 --------
+   
+ITEM 9. DIRECTORS, EXECUTIVE OFFICERS, PROMOTERS AND CONTROL PERSONS,
+        COMPLIANCE WITH 16(a) OF THE EXCHANGE ACT.
+- ---------------------------------------------------------------------
+    
+Executive Officers of the Registrant
+- ------------------------------------
+     Set forth below is certain information concerning the Directors and
+Executive Officers of the Company as of March 31, 1997.
+
+               Name              Age       Current Position with Company
+      ----------------------     ---       ---------------------------------
+      R. Dale Sterritt, Jr.       40       Director, Chairman and CEO
+      Thomas F. Snodgrass         66       Director, President and Treasurer
+      Robert D. Luna              43       Director, Secretary
+      Martin G. Blahitka          59       Director
+      J. B. Morris                57       Director
+
+
+     Mr. R. Dale Sterritt, Jr. has served as Chairman, Chief Executive Officer
+and as a Director since July 1991.
+
+     Mr. Thomas F. Snodgrass has served as a Director, President and Treasurer
+since July 1991.
+
+     Mr. Martin G. Blahitka has served as a director of the Company since
+September 1993. He has been a private investor for more than five years.
+
+     Mr. Robert D. Luna  has served as a Director since September 1993 and
+currently serves as Secretary of the Company. Mr. Luna has been a private
+investor (in securities, real estate and oil and gas) for more than the past
+five years.
+
+     Mr. J. B. Morris has served as a Director since April 1990. He has been a
+private investor for more than five years.
+
+Key Subsidiary Executive
+- ------------------------
+   
+     Steven A. Lytle, in October 1996, was named Executive Vice President and
+Chief Operating Officer of a wholly-owned subsidiary, Continental Technologies
+Corporation, a Georgia corporation based in Atlanta. He is directing the
+development of Continental's proposed solid waste operations. Mr. Lytle, 43,
+has had 11 years experience in the solid waste industry, including extensive
+involvement in developing and managing solid waste facilities. Among other
+accomplishments, he designed and obtained the permit for a 50 million cubic
+yard disposal facility in Georgia and continued on to manage this facility as
+the District Manager for his former employer. Prior to joining Continental in
+October, 1996, Mr. Lytle was a regional executive with Sanifill, Inc. for
+Arkansas, Florida, Georgia, Kentucky, Ohio, Pennsylvania, and Puerto Rico,
+with responsibilities ranging from landfill design, engineering, permitting
+    
+                                    -20-
+
+<PAGE>
+   
+operations, and compliance to economic evaluation of potential acquisitions.
+He was with Browning-Ferris Industries ("BFI") from 1985 to 1994 in positions
+of ever-increasing responsibility. Mr. Lytle holds a degree in Civil
+Engineering from the University of Cincinnati.
+    
+   
+ITEM 10. EXECUTIVE COMPENSATION.
+- --------------------------------
+    
+     The following table sets forth the compensation earned by the Company's
+Chief Executive Officer during fiscal years ended September 30, 1994, 1995 and
+1996, and during the short-year ended December 31, 1996. No other executive
+officer received compensation in excess of $100,000 during any of those
+periods.
+<TABLE>
+<CAPTION>
+                                           Summary Compensation Table
+
+           (a)                   (b)        (c)     (d)       (e)         (f)         (g)      (h)        (i)
+                                              Annual Compensation          Long-Term Compensation
+                                           -------------------------   ------------------------------
+                                                                              Awards          Payouts
+                                                             Other     ---------------------  -------                     Payouts
+                                                             Annual    Restricted   Options/            All Other
+                                                             Compen-     Stock        SARs     LTIP      Compen-
+Name and Principal Position      Year      Salary   Bonus    sation      Awards     (Shares)  Payouts    sation
+- ----------------------------    -------    ------   -----   --------   ----------   --------  -------   ---------
+<S>                             <C>        <C>      <C>     <C>        <C>          <C>       <C>       <C>
+R. Dale Sterritt, Jr.           1996 (1)     -        -     $ 54,750       -            -        -          -
+  Chairman of the Board         1996 (2)     -        -     $234,750       -            -        -          -
+  and Chief Executive
+    Officer                     1995         -        -     $161,575       -            -        -          -
+                                1994         -        -     $142,125       -            -        -          -
+
+<FN>
+     (1) Short year October 1 through December 31, 1996
+     (2) Fiscal year October 1, 1995 through September 30, 1996.
+</FN>
+</TABLE>
+
+     The Company does not have any employment agreements with any of the
+executive officers of the parent company. Beginning January 1, 1997, Mr. R.
+Dale Sterritt, Jr., Chairman and CEO, began employment with the Company at an
+annual salary of $240,000.
+
+     Prior to 1997, the compensation paid to executive officers and directors
+of the parent company was for services rendered to the Company on a per-diem
+basis at rates prescribed by the Board: $750 per day for the Chairman, Chief
+Executive Officer and President; and $400 per day for all other executive
+officers. By resolution of the Board of Directors, directors are entitled to a
+fee of $200 per meeting; however, all such fees were waived during fiscal year
+ended September 30, 1996 and the short year ended December 31, 1996.
+
+                                    -21-
+
+<PAGE>
+   
+ITEM 11. SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT.
+- ------------------------------------------------------------------------
+    
+     The following table sets forth, to the best knowledge of the Company as
+of March 31, 1997, certain information with respect to (i) beneficial owners
+of more than five percent (5%) of the outstanding Common Stock, (ii)
+beneficial ownership of shares of the Company's Common Stock by each director,
+and (iii) beneficial ownership of shares of the Company's Common Stock by all
+officers and directors as a group.
+
+         Name and Address                Amount and Nature       Percent of
+        of Beneficial Owner            of Beneficial Ownership     Class
+- ----------------------------------   --------------------------  ----------
+Martin G. Blahitka                            10,000                (4)
+  c/o Continental Investment Corp.
+  10254 Miller Road
+  Dallas, TX 75238
+
+Robert D. Luna                                   -                   -
+  c/o Continental Investment Corp.
+  10254 Miller Road
+  Dallas, TX 75238
+
+J. B. Morris                                 170,699                1.5%
+c/o Continental Investment Corp.
+10254 Miller Road
+Dallas, TX 75238
+
+Stewart Rahr                                 883,475 (3)            7.8%
+  152-35 10th Avenue
+  Whitestone, NY 11357
+
+Thomas F. Snodgrass                           15,000                (4)
+  c/o Continental Investment Corp.
+  10254 Miller Road
+  Dallas, TX 75238
+
+R. Dale Sterritt, Jr.                            -                   -
+  c/o Continental Investment Corp.
+  10254 Miller Road
+  Dallas, TX 75238
+
+Sterritt Properties, Inc. (1)              5,750,444               50.8%
+  P. O. Box 452648
+  Garland, TX 75045
+
+Business Ventures, Inc. (2)                1,600,000               14.1%
+  50 Lincolns Inn Fields, 3rd Floor
+  London, WC 2A 3PF
+  England
+__________________________
+All Officers and Directors                   195,699                1.7%
+  as a Group (5 persons)
+
+(Continued)
+
+                                    -22-
+
+<PAGE>
+   
+(Footnotes to preceding table)
+    
+(1) Sterritt Properties, Inc. is owned 100%  by a Family Limited Partnership.
+    Richard D. Sterritt, Sr., the President of Sterritt Properties, Inc., is
+    the father of the Chairman and CEO, R. Dale Sterritt, Jr.
+
+(2) The beneficial ownership of these shares is contested. The Company does
+    not take a position as to the true beneficial ownership of such shares,
+    but has indicated the name at the time of issue for the purpose of this
+    disclosure item.
+
+(3  Does not include options to acquire 1,037,000 shares of CICG common stock.
+    Also does not include 200,000 shares owned by members of his immediate
+    family, to which Mr. Rahr disclaims beneficial ownership.
+
+(4) Less than 1%.
+
+   
+ITEM 12.  CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS.
+- ---------------------------------------------------------
+    
+     On September 20, 1996 the Company entered into an agreement with the
+20th Century Group, an entity owned by the Sterritt Family and comprised of
+Sterritt Properties, Inc. ("SPI"), FIBER-SEAL Services International, Inc.
+("FSSI"), 20th Century Partners, Inc. and 20th Century Holdings, Inc. This
+agreement called for the transfer of certain rights and assets owned by 20th
+Century Group. The consideration for the transfer was a $1,150,000 note
+payable. The property transferred consisted of assets related to the FIBER-
+SEAL business. This included all operations formerly carried out by FSSI, all
+operations of the Dallas, Texas licensee of FIBER-SEAL and all trademarks,
+servicemarks, logos, and tradenames of or related to FIBER-SEAL. As a result
+of this transaction, the Sterritt Family has transferred all of their
+FIBER-SEAL-related holdings to CICG. The effective date of the agreement was
+September 30, 1996.
+
+
+                                 PART IV
+                                 -------
+   
+ITEM 13. EXHIBITS AND REPORTS ON FORM 8-K.
+- ------------------------------------------
+    
+(a)  Following are documents filed as part of this report:
+
+     1. Consolidated Financial Statements of Continental Investment
+        Corporation and Subsidiaries.
+
+        See Item 8 of this report - "Financial Statements and Supplementary
+        Data."
+
+     2. Financial statement schedules.
+
+        There are no financial statement schedules required to be filed.
+
+                                    -23-
+
+<PAGE>
+     3. Exhibits.
+
+        Exhibit Number                      Exhibit Index
+        --------------   -----------------------------------------------------
+             3.1         - Certified copy of the Company's Articles of
+                           Incorporation and amendments thereto. 1/
+
+             3.2         - Amended and Restated Bylaws of the Company, as of
+                           August 8, 1989. 1/
+
+             3.3         - Amendment to the Company's Articles of
+                           Incorporation dated March 24, 1994. 2/
+
+            21 *         - List of the Company's Subsidiaries.
+
+______________________________
+
+* Filed herewith.
+
+            1/          - Incorporated by reference to the exhibit with the
+                          same description to the Company's Current Report on
+                          Form 8-K filed on August 11, 1989.
+
+            2/          - Incorporated by reference to the exhibit with the
+                          same description to the Company's Current Report on
+                          Form 8-K dated as of January 5, 1994.
+
+
+(b)  Reports on Form 8-K.
+
+     There were no reports filed on Form 8-K during the short fiscal period
+     ended December 31, 1996.
+
+
+Exhibit 21
+
+As of  March 31, 1997, the Company had the following subsidiaries:
+   
+(a)  Continental Technologies, Inc., a Delaware Corporation
+(b)  Continental Technologies Corporation of Georgia, a Georgia Corporation
+(c)  FIBER-SEAL Franchise Corporation, a Delaware Corporation
+(d)  FIBER-SEAL Holdings, Inc., a Texas Corporation
+    
+                                    -24-
+
+<PAGE>
+
+                                SIGNATURES
+                                ----------
+
+     Pursuant to the requirements of Section 13 or 15(d) of the Securities
+Exchange Act of 1934, the Registrant has duly caused this report to be signed
+on its behalf by the undersigned, thereunto duly authorized.
+
+
+                            CONTINENTAL INVESTMENT CORPORATION
+   
+                              By: /S/ R. Dale Sterritt, Jr.
+                                  ----------------------------
+                                  R. Dale Sterritt, Jr.
+                                  Chairman, President and Chief
+                                  Executive Officer
+                                  (Principal Executive Officer)
+    
+   
+Dated:   December 24, 1997
+    
+     Pursuant to the requirements of the Securities Exchange Act of 1934, this
+report has been signed below by the following persons on behalf of the
+Registrant and in the capacities and on the dates indicated.
+
+
+                 Name                                          Date
+
+   
+     /S/ R. Dale Sterritt, Jr.                            December 24, 1997
+     --------------------------------
+     R. Dale Sterritt, Jr., Director
+     Chairman, President and Chief
+     Executive Officer
+     (Principal Executive Officer)
+    
+   
+     /S/Robert D. Luna                                    December 24, 1997
+     --------------------------------
+     Robert D. Luna, Director
+     and Secretary
+    
+   
+     /S/Martin G. Blahitka                                December 24, 1997
+     --------------------------------
+     Martin G. Blahitka, Director
+    
+   
+     /S/ J. B. Morris                                     December 24, 1997
+     --------------------------------
+     J. B. Morris, Director
+    
+
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-27
+<SEQUENCE>2
+<TEXT>
+
+<TABLE> <S> <C>
+
+<ARTICLE> 5
+       
+<S>                             <C>
+<PERIOD-TYPE>                   3-MOS
+<FISCAL-YEAR-END>                          DEC-31-1996
+<PERIOD-END>                               DEC-31-1996
+<CASH>                                         841,586
+<SECURITIES>                                         0
+<RECEIVABLES>                                2,403,679
+<ALLOWANCES>                                         0
+<INVENTORY>                                     48,613
+<CURRENT-ASSETS>                             3,388,987
+<PP&E>                                       9,539,395
+<DEPRECIATION>                                       0
+<TOTAL-ASSETS>                              12,946,021
+<CURRENT-LIABILITIES>                          395,852
+<BONDS>                                              0
+<PREFERRED-MANDATORY>                                0
+<PREFERRED>                                          0
+<COMMON>                                     2,782,504
+<OTHER-SE>                                   8,100,665
+<TOTAL-LIABILITY-AND-EQUITY>                12,946,021
+<SALES>                                        221,884
+<TOTAL-REVENUES>                               221,884
+<CGS>                                           88,900
+<TOTAL-COSTS>                                  542,586
+<OTHER-EXPENSES>                                     0
+<LOSS-PROVISION>                                     0
+<INTEREST-EXPENSE>                              24,991
+<INCOME-PRETAX>                              (270,869)
+<INCOME-TAX>                                         0
+<INCOME-CONTINUING>                          (270,869)
+<DISCONTINUED>                                       0
+<EXTRAORDINARY>                                      0
+<CHANGES>                                            0
+<NET-INCOME>                                 (270,869)
+<EPS-PRIMARY>                                    (.02)
+<EPS-DILUTED>                                    (.02)
+        
+
+</TABLE>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

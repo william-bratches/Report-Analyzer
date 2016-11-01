@@ -1,0 +1,454 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ BG+AlWUZZboTS+BVrxgzaKn9wdVdZeVdIauEMWAT0aggumpWNEJ2ZdCPprMNhRfR
+ wR2tvZZPbXFnGfOnAQQxrA==
+
+<SEC-DOCUMENT>0000020819-02-000014.txt : 20020415
+<SEC-HEADER>0000020819-02-000014.hdr.sgml : 20020415
+ACCESSION NUMBER:		0000020819-02-000014
+CONFORMED SUBMISSION TYPE:	10KSB
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20011231
+FILED AS OF DATE:		20020321
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			CLARY CORP
+		CENTRAL INDEX KEY:			0000020819
+		STANDARD INDUSTRIAL CLASSIFICATION:	ELECTRICAL INDUSTRIAL APPARATUS [3620]
+		IRS NUMBER:				950630196
+		STATE OF INCORPORATION:			CA
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10KSB
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-03489
+		FILM NUMBER:		02581454
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1960 S WALKER AVE
+		CITY:			MONROVIA
+		STATE:			CA
+		ZIP:			91016
+		BUSINESS PHONE:		6263594486
+
+	MAIL ADDRESS:	
+		STREET 1:		1960 S WALKER AVENUE
+		CITY:			MONROVIA
+		STATE:			CA
+		ZIP:			91016
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>10KSB
+<SEQUENCE>1
+<FILENAME>ksb2001.txt
+<TEXT>
+
+                           UNITED STATES
+
+               SECURITIES AND EXCHANGE COMMISSION
+
+                     Washington, D.C. 20549
+
+                            FORM 10-KSB
+
+Quarterly Report Pursuant to Section 13 or 15(d) of the
+Securities Exchange Act of 1934
+
+For the Quarter Ended: December 31,2001
+
+Commission file Number: 1-3489
+
+
+                         CLARY CORPORATION
+- ----------------------------------------------------------------------------
+            (Exact name of Registrant as specified in its charter)
+
+          California                                           95-0630196
+- ----------------------------------------------------------------------------
+(State or other jurisdiction of                         (I.R.S. Employer
+ incorporation or organization)                           Identification No.
+
+1960 So. Walker Avenue, Monrovia, California                    91016
+- ------------------------------------------------------------------------
+(Address of principal executive offices)                       (Zip Code)
+
+Registrant's telephone number, including area code: (626) 359-4486
+
+Securities registered under Section 12(b) of the Exchange Act:
+
+Title of each class: COMMON STOCK, $1.00 PAR VALUE
+
+Name of each exchange on which registered: PACIFIC EXCHANGE
+
+Indicated by check whether the Registrant (1) has filed all reports
+required to be filed by Section 13 or 15 (d) of the Securities Exchange
+Act of 1934 during the preceding 12 months (or for such shorter period
+that the Registrant was required to file such reports), and (2) has been
+subject to such filing requirements for the past ninety (90) days.
+
+                               Yes   X    No
+                                -----     -----
+Check if there is no disclosure of delinquent filers in response to item 405
+of Regulation S-B is not contained in this form, and no disclosure will be
+contained, to the best of Registrant's knowledge in definite proxy or infor-
+mation statements  incorporated by reference to part III of this Form 10-KSB
+or any amendment to this Form 10-KSB
+
+                              (X)
+                             ------
+
+Issuer's revenues for its most recent fiscal year were $7,490,000
+
+The aggregate market value of voting stock held by non-affiliates of the
+Registrant as of March 8, 2002 amount $900,0000.
+
+The Registrant had 1,807,419 shares of common stock outstanding as of
+March 8,2002.
+
+LISTING OF DOCUMENTS INCORPORATED BY REFERENCE:
+- -----------------------------------------------
+(1) Part II - Items 5,6,7 and 8 - Annual Report to Shareholders for fiscal
+    year ended December 31,2001
+
+(2) Part III - Items 10-11, 11 and 13 - Definitive proxy statement for the 2002
+    Annual Meeting of Shareholders to be filed pursuant to Regulation 14A within
+    120 days after the close of the fiscal year ended December 31,2001.
+
+
+
+                               PART I
+                               ------
+
+ITEM 1
+- ------
+
+Business
+- --------
+The Registrant's operations are conducted through its Continuous Power Systems
+located in Monrovia,California. The products being produced consist of a line of
+uninterruptible power supplies (U.P.S) ranging in size from 500VA to 10KVA.
+The U.P.S. is a power system that can both smooth out voltage fluctuations
+maintain power loan under power blackout conditions. U.P.S.'s are designed to
+provide fifteen minutes or more (depending on the number of batteries) of
+support power to computers, medical or scientific products, communications
+systems, traffic signals or systems, or similar equipment should the utility
+power fail. While the utility power is available, the U.P.S. provides isolation
+from voltage or frequency transients that may disturb the systems operations.
+
+The Registrant markets the U.P.S. line through trade publications, tradeshows,
+web-site and telemarketing. However, Registrant generally makes sales through
+distributors who sell the products to end-users. For the year 2001, Nova Power
+Systems, a major distributor through its direct and indirect sales, accounted
+for approximately, twenty-five percent of the Registrant's total sales.
+
+The Registrant assembles finished components and others materials to power its
+products. Relatively little fabrication of raw material is done by the
+Registrant. The Registrant purchases raw materials and finished components used
+in production of Registrant's products, some of which are imported. Thus, the
+Registrant is dependent upon the ability of suppliers to meet performance
+specifications, quality standards and delivery schedules.
+The Registrant endeavors to assure availability of source of supplies and does
+not anticipate any shortages that would adversely affect product schedule.
+
+
+Competition
+- -----------
+The markets for the Registrant's products are highly competitive. The registrant
+is aware of approximately thirty competitors for online U.P.S. products. Many of
+these companies have greater financial resources than the Registrant.
+The Registrant competes primarily on the basis of the quality, reliability and
+technical sophistication of its products, although price remains an important
+factor. The Registrant attempts to locate niche markets for U.P.S. products
+where customers require greater reliability.
+
+Substantially, all of the Registrant's products are subject of on-going modifi-
+cation and improvement and are subject to scientific and technical changes.
+
+
+Backlog
+- -------
+The following table sets forth the amounts representing order the amounts
+representing orders believed by the Registrant to be firm. The backlog at
+December 31,2001, represents orders that the registrant expects to delivery
+during 2002. The only seasonal effects on orders is for the Registrant's
+traffic intersections line where the demand is much greater due to power
+shortages in many states.
+
+
+                     FIRM BACKLOG AS OF DECEMBER ,31
+                     -------------------------------
+                    2001                        2000
+                   ------                      -----
+                  $346,000                    $232,000
+
+Other
+- ----
+As of December 31,2001,the Registrant employed 43 people, all of which are
+fulltime employees.
+
+Other required information as to the Registrant's description of business
+operations and its general development is incorporated herein by reference to
+pages 1 through 3 in the Registrant's 2001 Annual Report to Shareholders and the
+Registrant's financial statements contained therein, each incorporated by
+reference in this report.
+
+
+ITEM 2
+- ------
+
+PROPERTIES                  SQ. FT. LEASED       ANNUAL RENT       TERM.DATE
+- ----------                  --------------       -----------       ---------
+Home office and Continuos
+Power System Division         26,000               $121,0000       06/30/2004
+
+Monrovia, California
+
+During the fiscal year 2001, properties were utilized at approximately 70%
+of capacity.
+
+The Registrant believes its properties are suitable for its needs.
+
+
+ITEM 3
+- ------
+Legal Proceeding - None of any significance
+
+
+
+                                  PART II
+                                  -------
+                                                                 ANNUAL REPORT
+                                                                     PAGE
+                                                                -------------
+ITEM 4
+- -------
+Submission Matters to a Vote of Security Holders - Not applicable
+
+ITEM 5
+- ------
+Market for Registrant's Common Equity and Related Shareholder Matters     10
+
+ITEM 6
+- ------
+Selected financial Data                                                   11
+
+ITEM 7
+- -------
+Management's Discussion and Analysis of financial Conditions and Result
+of Operations.                                                             3
+
+ITEM 8
+- ------
+Financial Statements and Supplemental Data                              4-5-6
+
+On above Items 5 through 8, reference is made to the Registrant's
+Annual Report to Shareholders for the year ended December 31,2001,
+incorporated by reference in this report.
+
+ITEM 9
+- ------
+Disagreements on Accounting and Financial Disclosure - NONE
+
+
+                                 PART III
+                                 --------
+                                                                  PROXY PAGES
+                                                                  -----------
+ITEM 10
+- -------
+Directors and Executive Officers of the Registrant                     2-3
+
+The Directors and Executive Officers are incorporated by reference
+to information contained in Registrant's Proxy Statements to be
+filed with the commission pursuant to Regulation 14a
+
+ITEM 11
+- -------
+Management and Remuneration and Transactions                            4-5
+
+ITEM 12
+- -------
+Security Ownership of Certain Beneficial Owners and Management            4
+
+ITEM 13
+- -------
+Certain Relationship and Related Transactions                            2-5
+
+Item 10 through 13 are incorporated by reference to information in
+the Registrant's proxy statement to be filed with the Commission
+pursuant to Regulation 14A.
+
+
+                              PART IV
+                              -------
+
+ITEM 14
+- -------
+Financial Statements Schedules, Exhibits and Reports on Form 8-K
+
+(a)  (1) FINANCIAL STATEMENTS
+         ---------------------
+         The following financial statements are included in the
+         the Registrant's Annual Report to Shareholders for the
+         year ended December 31,2001 (incorporated by reference
+         in this report):
+                                                                   ANNUAL REPORT
+                                                                       PAGES
+                                                                    ------------
+         Report of Independent Certified Public Accountants               10
+
+         Statement of Operations for the years ended December
+         31,2001, 2000 and 1999                                            4
+
+         Balance Sheets for the years ended December 31,2001
+         and 2000.                                                         5
+
+         Statements of Stockholders' Equity for the three years
+         ended December 31,2001.                                           7
+
+         Statement of Cash Flows for the years ended December 31
+         2001, 2000 and 1999                                               6
+
+         Notes to Financial Statements                                    7-10
+
+
+       (2) REPORT OF INDEPENDENT CERTIFIED PUBLIC ACCOUNTAS ON SCHEDULES
+           -------------------------------------------------------------
+             The following schedules are included in this report:
+
+                    II-Valuation Accounts and Reserves- 2001 and 2000
+
+           Schedules other than those listed are omitted as not applicable,
+           not required or the information is included in the financial
+           statements or notes thereto.
+
+       (3) EXHIBITS
+           --------
+          3.1 Articles of Incorporation with all amendments to date
+              (Incorporated by reference from Registrant's Annual Report
+               with form 10K for the year ended December 31,1992)
+
+          3.2 Bylaws of the Registrant (Incorporated by reference from
+              Registrant's Annual Report with Form 10K for the year ended
+              31,1992)
+
+          4.1 9.5% Convertible Subordinated Note Agreement (incorporated
+              by reference form Registrant's Annual Report with Form 10K
+              for the year ended December 31,1992) - See Exhibit 3.1,
+
+          4.2 9% Convertible Subordinated Note Agreement (incorporated by
+              reference from Registrant's Annual Report with form 10K for
+              the year ended December 31,1992)
+
+         10.1 Credit Agreement between Clary Corporation and First American
+              Bank (incorporated by reference with this report)
+
+         10.4 1996 Stock Option Plan (incorporated with Form 10-KSB for the
+              year ended December 31,1996)
+
+         13.1 Annual Report to Shareholders for the year ended December 31,
+              2001 (incorporated by reference in this report)
+
+
+(b) Reports on Form 8-K: NONE
+
+
+
+                             CLARY CORPORATION
+              SCHEDULE II - VALUATION ACCOUNTS AND RESERVES
+                  YEARS ENDED DECEMBER 31, 2001 AND 2000
+                  --------------------------------------
+
+<TABLE>
+                             BALANCE AT    ADDITIONAL               BALANCE AT
+                             BEGINNING   CHARGES TO COST            THE END OF
+DESCRIPTION                  OF PERIOD    AND EXPENSES    DEDUCTIONS   PERIOD
+- -----------                  -----------  ---------------  ----------  -------
+<S>                             <C>              <C>          <C>         <C>
+
+Year Ended Dec. 31,2001
+
+Allowance for Doubtful Accts.
+and Inventory Reserves        $110,000        $0.00        $0.00       $110,000
+
+Year Ended Dec. 31,2000
+
+Allowance for Doubtful Accts.
+and Inventory Reserves        $149,000       $80,000     $119,000      $110,000
+
+
+</TABLE>
+
+
+<PAGE>
+
+SIGNATURES
+- ----------
+
+Pursuant to the requirements of the Securities and Exchange Act of 1934,
+Registrant has duly caused this report to be signed on its behalf by the
+undersigned thereunto duly authorized.
+
+                                       CLARY CORPORATION
+                                          (Registrant)
+
+Date: March 18,2002
+
+         SIGNATURE                           TITLE
+         =========                           =====
+
+
+
+
+ John G. Clary                  President, Chairman of the Board and
+- -----------------                  Chief Executive Officer
+
+
+
+Directors:
+- ----------
+
+Donald G. Ash
+
+John P. Clary
+
+John G. Clary
+
+John J. Guerin
+
+
+
+
+
+                             CLARY CORPORATION
+                           1960 S. WALKER AVENUE
+                         MONROVIA, CALIFORNIA 91016
+                                              U.S.A.
+
+
+
+Securities and Exchange Commission
+Washington, D.C. 20549
+
+Gentlemen:
+
+Pursuant to the requirements of the Securities and Exchange Act of 1934,
+We are transmitting herewith the attached Form 10-ksb.
+
+Sincerely,
+
+CLARY CORPORATION
+
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

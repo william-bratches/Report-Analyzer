@@ -1,0 +1,2774 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ FbhHHFCewr5DfZUo//kWZZS6+v0MrQlI2THpS0PEEF0jbieREmjPzPe7ASvf/muv
+ lwhyw0z9NLP2BMDfSQ/txg==
+
+<SEC-DOCUMENT>0000004317-97-000021.txt : 19970701
+<SEC-HEADER>0000004317-97-000021.hdr.sgml : 19970701
+ACCESSION NUMBER:		0000004317-97-000021
+CONFORMED SUBMISSION TYPE:	10KSB
+PUBLIC DOCUMENT COUNT:		4
+CONFORMED PERIOD OF REPORT:	19970331
+FILED AS OF DATE:		19970630
+SROS:			NASD
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			SENTO TECHNICAL INNOVATIONS CORP
+		CENTRAL INDEX KEY:			0000004317
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-COMPUTER INTEGRATED SYSTEMS DESIGN [7373]
+		IRS NUMBER:				870284979
+		STATE OF INCORPORATION:			UT
+		FISCAL YEAR END:			0430
+
+	FILING VALUES:
+		FORM TYPE:		10KSB
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-06425
+		FILM NUMBER:		97632635
+
+	BUSINESS ADDRESS:	
+		STREET 1:		311 N STATE STREET
+		CITY:			OREM
+		STATE:			UT
+		ZIP:			84057
+		BUSINESS PHONE:		8012242426
+
+	MAIL ADDRESS:	
+		STREET 1:		PO BOX 1970
+		CITY:			OREM
+		STATE:			UT
+		ZIP:			84059-1970
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	SPIRE INTERNATIONAL CORP
+		DATE OF NAME CHANGE:	19960827
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	SPIRE TECHNOLOGIES INC
+		DATE OF NAME CHANGE:	19960802
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	AMACAN RESOURCES CORP
+		DATE OF NAME CHANGE:	19920703
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>10KSB
+<SEQUENCE>1
+<TEXT>
+
+
+                       SECURITIES AND EXCHANGE COMMISSION
+                             Washington, D.C.  20549
+
+                                   FORM 10-KSB
+
+_X_  Annual report under Section 13 or 15(d) of the Securities Exchange Act of
+     1934 for the fiscal year ended March 31, 1997
+                                       or
+
+___  Transition report under Section 13 or 15(d) of the Securities Act of 1934
+     for the transition period from ______________________ to
+     ______________________
+
+                                 SENTO TECHNICAL
+                             INNOVATIONS CORPORATION
+                     ______________________________________
+
+                      (Name of Small Business Issuer in its
+                                    Charter)
+
+        UTAH                                                     87-0284979
+ __________________                                          __________________
+   (State or Other                                              (IRS Employer
+   Jurisdiction of                                             Identification
+   Incorporation)                                                   No.)
+
+                             311 NORTH STATE STREET
+                                OREM, UTAH 84057
+                     ______________________________________
+
+                         (Address of Principal Executive
+                          Offices, including Zip Code)
+
+         Issuer's Telephone Number, including Area Code:  (801) 226-3355
+
+Securities registered under Section 12(g) of the Exchange Act:  
+
+                                                       Name of Each Exchange on
+               Title of Each Class                         Which Registered
+ ________________________________________________      ________________________
+
+ Common Stock, $.25 par value  . . . . . . . . .                 None
+
+Check whether the Issuer (1) filed all reports required to be filed by Section
+13 or 15(d) of the Exchange Act during the preceding 12 months (or for such
+shorter period that the Issuer was required to file such reports), and (2) has
+been subject to such filing requirements for the past 90 days.  
+(1)              Yes              _X_                     No  ___
+
+(2)              Yes              _X_                     No  ___
+
+Check if there is no disclosure of delinquent filers in response to Item 405 of
+Regulation S-B contained in this form, and no disclosure will be contained, to
+the best of Issuer's knowledge, in definitive proxy or information statements
+incorporated by reference in Part III of this Form 10-KSB or any amendment to
+this Form 10-KSB. _X_
+
+Issuer's revenues for its most recent fiscal year:  $17,609,586.
+
+The aggregate market value of voting stock held by non-affiliates computed by
+reference to the price at which the stock sold, or the average bid and asked
+prices of such stock, as of June 16, 1997, was approximately $6,663,294.
+
+Number of shares outstanding of each of Issuer's classes of common stock as of
+the latest practicable date:
+
+                                                                Outstanding at
+                          Class                                 June 16, 1996
+ _______________________________________________________        ______________
+ Common Stock, $.25 par value  . . . . . . . . . . . . .          4,351,134
+
+                       DOCUMENTS INCORPORATED BY REFERENCE
+
+Portions of the Issuer's Annual Report to Shareholders for fiscal year ended
+March 31, 1997 and Proxy Statement for Issuer's 1997 Annual Meeting of
+Shareholders to be held on August 18, 1997 are incorporated by reference in
+Parts II and III of this Annual Report on Form 10-KSB.
+<PAGE>
+                                     PART I
+
+ITEM 1.        DESCRIPTION OF BUSINESS
+
+GENERAL
+
+     Through its four wholly owned subsidiaries, Spire Technologies, Inc.
+("Spire Technologies"), Spire Systems Incorporated ("Spire Systems"), DewPoint
+Distributed Solutions Incorporated ("DewPoint") and Centerpost Innovations Pty.
+Ltd., the Company develops and implements system management and office
+automation solutions for open and proprietary computing environments, acts as a
+"service and value-added reseller" and distributor of software developed by
+third parties, resells Digital Equipment Corporation ("Digital") network
+computer systems and components on a value-added basis and manages value-added
+reseller ("VAR") and distribution channels in the United States, Europe, and
+Southeast Asia.  The Company offers a wide range of desktop, workstation,
+client/server and centralized computing software, systems and peripheral
+equipment, as well as channel management and support services for both domestic
+and international clientele in a wide variety of industries and computing
+environments, including UNIX, Windows NT and Digital OpenVMS.  
+
+BACKGROUND
+
+     The Company was incorporated in the State of Utah in May 1969 for the
+purpose of mineral exploration and development.  From 1974 until April 1996, the
+Company operated as Amacan Resources Corporation ("Amacan") and was almost
+exclusively engaged as a participant with others in oil and gas exploration and
+development.  On April 18, 1996, the Company consummated a share exchange
+transaction (together with related transactions, the "Share Exchange") by which
+the Company acquired all the issued and outstanding capital stock of Spire
+Technologies and Spire Systems in exchange for the issuance to the holders
+thereof of a number of shares of common stock of the Company ("Common Stock")
+equal to approximately 90% of the number of issued and outstanding shares of
+Common Stock immediately after the consummation of the Share Exchange. 
+Effective May 1, 1996, the Company divested itself of all oil and gas interests.
+The Company does not intend to participate in any oil and gas operations in the
+future.  See below "-- Oil and Gas Operations."
+
+THE INDUSTRY
+
+     Technological advances in the computer industry continue to create
+increasingly smaller, faster and less costly computing solutions.  The result is
+that, while some users continue to need and utilize mainframe technology, the
+largest and fastest growing segment of the computing marketplace is mid-range,
+mid-sized computing equipment for government, education and business users, and
+smaller, consumer-oriented equipment, including personal computers.  
+
+     With the proliferation of these new systems, particularly in the mid-range
+market, there has been a proliferation of new computer operating systems
+designed for these specialized machines.  Like the well-recognized "operating
+systems" or "platforms" for PCs (MS-DOS, Windows, and Windows 95 developed by
+Microsoft Corporation ("Microsoft"), IBM's OS/2, and the operating systems
+developed for Apple Computer Inc. ("Apple")), the mid-range market utilizes a 
+series of unique operating system platforms.  These platforms include Digital's 
+VMS and Open VMS operating systems, a variety of UNIX operating systems which
+have been separately developed by many different manufacturers, and Microsoft's
+new Windows NT.
+
+     Computer application software products (such as wordprocessors,
+spreadsheets, management tools, and other types of programs) are typically
+designed for use on only one operating system.  They generally cannot operate on
+other platforms without making extensive and often costly modifications to the
+original programming code.  As a result of the complexity inherent in a market
+which utilizes a wide variety of hardware and software systems, as well as the
+changing needs of buyers of such products, the Spire Companies were formed to
+serve the role of an "integrator" of solutions for the full range of mid-range
+hardware and software users in government, education, and business environments.
+The Company has reviewed the hardware and software being offered by current
+manufacturers, compared the various competing products, and elected to represent
+and sell those software and hardware systems which the Company considers to be
+the finest products available on a stand-alone basis, but which are also capable
+of being integrated with the other software and hardware product needs of its
+customers.  Accordingly, the Company is principally a sales and technical
+support organization for third-party products which its employees have tested
+and, if necessary, adapted for cross-operating system operation so that its
+customers can obtain the benefits of products that function well together in an
+often heterogeneous systems environment.
+
+SALES AND DISTRIBUTION
+
+     The Company markets its products and services domestically through a direct
+sales force of 40 representatives based in Utah and North Carolina, as well as
+through a team of distributors and resellers operating in the U.S., Canada,
+Europe and Southeast Asia managed by DewPoint.  Arrangements with manufacturers,
+resellers and authorized distributors are an increasingly important part of the
+Company's focus on providing complete solutions to its customers and expanding
+distribution of its products and services through indirect channels to domestic
+and international customers.
+
+PRODUCTS
+
+     OVERVIEW.  Through Spire Technologies, the Company strives to fill the
+computer needs of its customers by providing a combination of integrated
+software packages from different manufacturers and technical support for such
+products, including office automation, system management, performance, and
+Internet security solutions.  The Company is the licensing and support
+organization for cross-platform compatible VMS and OpenVMS versions of
+WordPerfect, WP Office, and Lotus 1-2-3.  Spire Systems is an authorized VAR of
+hardware and components manufactured by Digital, and provides its customers with
+desktop integration and system hardware.  The Company endeavors to meet the
+specialized mid-range computing needs of government, education, and corporate
+organizations worldwide by providing networking expertise in integrating multi-
+vendor networks, network consulting with respect to connectivity, compatibility,
+inter-operability and management of the end-user's local area network ("LAN"),
+installation of the end-user's LAN, including interface hardware and software,
+and timely and professional technical support.
+
+     SOFTWARE.  Spire Technologies designs, develops, acquires from third 
+parties and distributes under license, or acts as a reseller for, various
+software products for use on Digital computer operating systems, and computer
+operating systems such as UNIX and Windows NT developed by other vendors.  In
+July 1996, Spire Technologies entered into an Exclusive License and Technical
+Assistance Agreement with Australian Software Innovations (Services) Pty. Ltd.
+("ASI"), pursuant to which the Company acquired the exclusive rights to use,
+develop and sublicense SYSMON and other ASI software products in North and South
+America.
+
+          OFFICE AUTOMATION.  Under licenses from Corel, Lotus and Novell, the
+     Company has obtained the right to create derivative works of the source
+     code for WordPerfect, Lotus 1-2-3 and WP Office (a.k.a. Groupwise) with
+     ownership of such derivative works remaining in the licensors.  The
+     Company's engineers have developed, and the Company now markets, these
+     software solutions for the OpenVMS operating platform.  The Company also
+     markets these same office automation products (developed by third parties)
+     for UNIX, Digital UNIX, MS-DOS and Windows 95 operating platforms.  Because
+     of the wide variety of computing platforms used today in many
+     organizations, management believes the ability of the Company to offer
+     powerful office tools which provide cross-platform compatibility and user
+     familiarity is important in assisting customers to create effective
+     corporate standards.  The Company also offers other third-party office
+     automation products.  The office automation products currently offered by
+     the Company include WordPerfect (Corel) for OpenVMS systems, Lotus 1-2-3
+     (Lotus) for OpenVMS, FAX Sr. (Omtool, Inc.)., an enterprise server which
+     sends and receives faxes directly from within WordPerfect, or almost any
+     other OpenVMS application, and WP Office (Novell, Inc.).
+
+          SYSTEM SECURITY.  The Company offers a range of third-party UNIX and
+     OpenVMS operating system security products.  These security software tools
+     are designed to protect an organization s computer network from
+     unauthorized external access, such as from the Internet, user monitoring,
+     auditing and logging, authorization and access control, message integrity
+     and confidentiality protocols, and automated system security analysis,
+     reporting and correction tools.  System security products offered by the
+     Company include The BorderWare Firewall Server (Secure Computing
+     Corporation), promoted as a one-stop solution to a complete and secure
+     Internet gateway, WebTrack (Secure Computing Corporation), which controls
+     Internet usage based on duration of sessions or actual sites visited,
+     InterScan VirusWall (Trend Micro, Inc.), and KBLock (Raxco, Inc.), which
+     permits users to lock their unattended, logged-in terminals.
+
+          STORAGE MANAGEMENT.  The Company offers third-party media management
+     and remote device access products including media libraries, backup and
+     restoration applications, and data recovery solutions, including remote
+     device access tools THRUway and THRUnet (Software Partners/32, Inc.),
+     TAPESYS (Software Partners/32, Inc.), a tape management system, RaxMaster
+     (Raxco, Inc.), a comprehensive OpenVMS performance solution, StorageCenter
+     (Software Partners/32, Inc.), which provides comprehensive system backup,
+     archiving and restore functions, PerfectFile (Raxco, Inc.), and UltraDisk
+     (Raxco, Inc.).
+
+          USER TRAINING AND SUPPORT.  The third-party software solutions offered
+     by the Company for training and support allow customers to track user
+     problems and establish interactive links between the terminals of trainers 
+     and users.  From the trainer's keyboard, the trainer may intervene, create
+     log files of sessions and conduct local and remote product training for
+     groups of users.  The Company offers the following user-training and
+     support products:  CONTRL and ClydeSupport (Raxco, Inc.), PC-Duo (Vector
+     Networks Limited), and LANutil (Vector Networks Limited).
+
+          NETWORK MANAGEMENT AND PERFORMANCE.  The third-party software offered
+     by the Company relative to system performance management allows customers
+     to monitor systems, databases, events and remote nodes to manage
+     performance tuning, capacity planning, saturation analysis, bench marking
+     and resource accounting from a central site.  This performance management
+     is conducted in real-time interactive or background modes, across a wide
+     array of UNIX and database environments.  The Company offers the following
+     management and performance products:  (a) OpenAviator (ASI), a modular
+     system availability and analysis utility including CoPilot, AutoPilot,
+     Navigator, Data Collectors, Control Tower, and FlightLog, (b) POLYCENTER
+     Capacity Planner (Digital), a critical planning and evaluation tool, (c)
+     ENLIGHTEN (Enlighten Software), which provides distributed system
+     administration and centralized control for UNIX and Windows NT, (d)
+     PATHWORKS (Digital), which allows users to share applications, information,
+     and large system resources within OpenVMS, UNIX, Windows, MS-DOS and
+     MacIntosh environments, and (e) XJet and XConnect (XCd Corporation),
+     Ethernet print servers.
+
+     HARDWARE.  Spire Systems is an authorized VAR for Digital, and provides its
+customers with desktop integration, system and networking hardware, and Digital
+Services solutions.  Spire Systems is licensed to sell Digital's 64-bit reduced
+instruction set computing (RISC) architecture known as "Alpha", which is
+designed to support multiple operating systems.  Through Spire Systems, the
+Company offers Digital's line of Alpha-based products ranging from chips and
+boards to high performance workstations and servers.  Alpha supports three major
+operating systems:  Digital's 64-bit UNIX operating system, Digital's OpenVMS
+operating system and Microsoft's Windows NT operating system.  The Alpha-based
+systems include high performance database servers and workstations.  Spire
+Systems also offers and sells Digital's VAX computer systems, components and
+Intel-based personal computer systems, as well as peripherals manufactured by
+Digital and other entities, including magnetic disk drives, tape drives, solid
+state disk and in-film heads, video terminals, printers and network components.
+
+     TECHNICAL SERVICES AND SUPPORT.  The Company provides technical consulting,
+systems integration and product support services to help its customers plan,
+implement and manage their information technology solutions.  The Company's
+services include maintenance and support services for Company software
+solutions, as well as third-party products sold by the Company; information
+systems consulting; technical and application design services; education and
+training services; systems integration and project management services; network
+design and support services; and outsourcing and resourcing management services.
+
+
+COMPETITION
+
+     The information technology industry is highly competitive, international in
+scope, and comprised of many companies.  The methods of competition include, but
+are not limited to, marketing, product performance, price, service, technology
+and compliance with various industry standards.  Present and potential
+competition in the various markets served by the Company comes from firms of
+various sizes and types, many of which are larger and have greater resources
+than the Company.  Firms not now in direct competition with the Company may
+introduce competing products in the future.  It is possible for companies to be
+at various times competitors, customers and collaborators in different markets.
+
+SUPPLIERS
+
+     The Company is solely dependent on Digital and authorized distributors of
+Digital products for its supply of hardware.  In addition, the Company obtains
+software from numerous third-party vendors, many of which are the sole sources
+for such software.  The Company then incorporates the various hardware,
+peripheral and software components into an integrated system for on-site
+installation at each customer's location.  If one of the Company's third-party
+vendors of either hardware or software were to become unavailable to the
+Company, management believes that the Company would be able to obtain competing
+and alternate sources of supply of similar but not identical products. 
+Nonetheless, the failure of such suppliers to deliver such items on a timely
+basis could adversely effect the operating results of the Company until
+alternative sources of supply could be arranged.  Also, if any of the license
+agreements relating to the office automation products developed by the Company
+were to be terminated, the operating results of the Company could also be
+adversely affected.
+
+SIGNIFICANT CUSTOMERS
+
+     Although the Company sells to many customers involved in certain industries
+such as government and education which, if aggregated, would result in sales to
+a particular industry of more than ten percent, no single customer represents
+sales by the Company in the aggregate amount of ten percent or more of its
+consolidated revenues.  Accordingly, Company management believes that the loss
+of any single customer would not have a material adverse effect on the Company
+taken as a whole.
+
+PATENTS AND PROPRIETARY TECHNOLOGY
+
+     The Company does not own any patents nor has it filed any patent
+applications relating to its products.  The Company has a limited number of
+copyrights and has obtained licenses to create derivative works relative to
+copyrights owned by third parties.  The ownership of such derivative works vests
+in the licensor.  The Company is also seeking tradename and trademark protection
+for certain of its names and marks.  Management does not believe that any
+particular patent or group of patents, copyrights, trademarks, or tradenames is
+of material importance to the business of the Company as a whole.
+
+RESEARCH AND DEVELOPMENT
+
+     The Company competes in an industry which is characterized by rapid
+technological change.  Historically, neither the Company nor Spire Technologies 
+or Spire Systems (prior to the consummation of the Share Exchange) has incurred
+significant expenses for research and development.  Research and development
+expenditures were approximately three percent of the Company's gross revenues
+for the fiscal year ended March 31, 1997.
+
+OIL AND GAS OPERATIONS
+
+     Prior to the consummation of the Share Exchange, the Company had operated
+almost exclusively since 1974 as a participant with others in oil and gas
+exploration and development.  The Company's principal assets during this period
+were working interests in producing oil and gas wells and options or rights to
+participate in the drilling of additional wells.  During this period, the
+Company participated almost exclusively with an independent operator, Luff
+Exploration Company ("Luff Exploration") of Denver, Colorado, in its exploration
+activity.  From 1974 to April 1996, the Company participated with Luff
+Exploration in drilling a total of 122 wells, 31 of which were productive as of
+April 1996.  Of the 122 wells, 50 were exploratory wells and 72 were
+developmental wells.  During its participation with Luff Exploration, the
+Company farmed out its interests for drilling by other companies, at their
+expense, in a total of 28 additional wells, one of which was productive as of
+April 1996.  Effective May 1, 1996, the Company transferred to a group of
+purchasers, including Kenneth D. Luff, President of Luff Exploration and a
+former director of the Company, all of the Company's oil and gas interests in
+exchange for the payment of $197,000.  The Company does not intend to
+participate in any oil or gas operations in the future.
+
+EMPLOYEES
+
+     As of June 16, 1997, the Company had approximately 76 total employees,
+approximately 64 of which were full-time employees.  Competition for qualified
+personnel in the computer industry is intense.  The future success and growth of
+the Company will depend in large measure upon its ability to attract and retain
+qualified management and technical personnel.  Failure of the Company to attract
+and retain key management and technical personnel and qualified personnel
+required to continue the Company's operations could have a material adverse
+impact on the Company.  None of the Company's employees is represented by a
+labor organization with respect to their employment with the Company, the
+Company has never had a work stoppage, and the Company considers its employee
+relations satisfactory.
+
+
+ITEM 2.   DESCRIPTION OF PROPERTY
+
+     The headquarters and research and development facilities of the Company are
+located at 311 North State Street, Orem, Utah.  The Company owns a 5,200 square
+foot building, subject to encumbrances of $118,095 and $98,267 at March 31,
+1997, which bear interest at rates of 8.25% and 8.70%, respectively.  In
+addition, the Company occupies 17,500 square feet of contiguous space under two
+leases of one year and two years, respectively, both subject to options to
+extend the terms thereof for an additional five lease periods of one year each. 
+The monthly base rents of these leases are $5,500 and $4,675, respectively,
+subject to adjustment during the renewal periods.  Company management believes
+these contiguous facilities are suitable and adequate to meet the anticipated
+needs of the Company for the current fiscal year.  Management anticipates that
+continued growth of the Company will necessitate acquisition of additional 
+office space in the future.
+
+
+ITEM 3.   LEGAL PROCEEDINGS
+
+     There are no pending legal proceedings to which the Company is a party.
+
+
+ITEM 4.   SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS
+
+     No matters were submitted to a vote of security holders during the fourth
+quarter of the Company's fiscal year ended March 31, 1997.
+
+
+                                     PART II
+
+
+ITEM 5.   MARKET FOR COMMON EQUITY AND RELATED STOCKHOLDER MATTERS 
+
+     The information required by this Item is incorporated by reference to the
+section entitled "Price Range of Common Stock" in the Company's Annual Report to
+Shareholders for the fiscal year ended March 31, 1997 (the "1997 Annual
+Report").
+
+ITEM 6.   MANAGEMENT'S DISCUSSION AND ANALYSIS OR PLAN OF OPERATION
+
+     The information required by this Item is incorporated by reference to the
+section entitled "Management's Discussion and Analysis or Plan of Operation" in
+the 1997 Annual Report.
+
+ITEM 7.   FINANCIAL STATEMENTS
+
+     The information required by this Item is incorporated by reference to the
+financial statements of the Company included in the 1997 Annual Report.
+
+ITEM 8.   CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND
+          FINANCIAL DISCLOSURE
+
+     There have been no disagreements with the Company's accountants on
+accounting and financial disclosure.
+
+     On July 14, 1995, upon the recommendation and approval of the Board, Amacan
+engaged Tanner + Co. as independent auditor to audit Amacan's financial
+statements for the year ending April 30, 1995.  Upon consummation of the Share
+Exchange on April 18, 1996, and pursuant to the recommendation and approval of
+the Board, the Company determined to retain the services of KPMG Peat Marwick
+LLP ("KPMG"), who had served as the independent auditor of Spire Technologies
+and Spire Systems since October 1995, to audit the financial statements of the
+Company for the fiscal year ending April 30, 1996, and to dismiss Tanner + Co. 
+Tanner + Co.'s reports on Amacan's financial statements for the fiscal year
+ended April 30, 1995 contained no adverse opinion or disclaimer of opinion and
+were not qualified or modified as to uncertainty, audit scope or accounting
+principles.  The Company had no disagreements with Tanner + Co. on any matter of
+accounting principles or practices, financial statement disclosure, or auditing
+scope or procedure, which, if not resolved, would have caused Tanner + Co. to 
+make reference to the subject matter of the disagreement in connection with its
+reports.  In addition, during the two fiscal years and the interim period
+preceding Tanner + Co.'s dismissal, the Company had no reportable events as
+defined in Item 304(a)(1)(v) of Regulation S-B.  No consultations occurred
+between the Company and KPMG during the relevant fiscal year and any interim
+period preceding the recent retention of KPMG regarding the application of
+accounting principles, the type of audit opinion that might be rendered or other
+information considered by the Company in reaching a decision as to an
+accounting, auditing or financial reporting issue.
+
+                                    PART III
+
+ITEM 9.   DIRECTORS, EXECUTIVE OFFICERS, PROMOTERS AND CONTROL PERSONS;
+          COMPLIANCE WITH SECTION 16(A) OF THE EXCHANGE ACT
+
+     The information required by this Item is incorporated by reference to the
+sections entitled "Election of Directors - Nominees for Election as Directors,"
+"Executive Officers" and "Executive Compensation - Section 16(a) Beneficial
+Ownership Reporting Compliance" in the Company's definitive proxy statement for
+the annual meeting of the Company's shareholders to be held on August 18, 1997
+(the "1997 Proxy Statement").  The 1997 Proxy Statement will be filed with the
+Securities and Exchange Commission not later than 120 days after March 31, 1997,
+pursuant to Regulation 14A of the Securities Exchange Act of 1934, as amended.
+
+ITEM 10.  EXECUTIVE COMPENSATION
+
+     The information required by this Item is incorporated by reference to the
+sections entitled "Election of Directors - Director Compensation" and "Executive
+Compensation" in the 1997 Proxy Statement.
+
+ITEM 11.  SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT
+
+     The information required by this Item is incorporated by reference to the
+section entitled "Principal Holders of Voting Securities" in the 1997 Proxy
+Statement.
+
+ITEM 12.  CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS.
+
+     The information required by this Item is incorporated by reference to the
+section entitled "Executive Compensation - Certain Relationships and Related
+Transactions" in the 1997 Proxy Statement.
+<PAGE>
+
+ITEM 13.  EXHIBITS AND REPORTS ON FORM 8 K
+
+     (a)  Exhibits.
+
+ Number                    Description                   Incorporated     Filed
+                                                         by Reference   Herewith
+_______     _________________________________________    ____________   ________
+   3.1      Articles of Incorporation.                       (1)
+
+   3.2      Articles of Amendment and Share Exchange.        (2)
+
+   3.3      Bylaws                                           (3) 
+
+  10.1      Exclusive    License    and     Technical        (3)
+            Assistance Agreement dated  as of July 1,
+            1996 by and  between Australian  Software
+            Innovations (Services) Pty.  Ltd and  the
+            Company
+  10.2      Option   Agreement   by  and   among  the        (4)
+            Company, Australian Software  Innovations
+            (Services) Pty. Ltd, Kilat  Holdings Pty.
+            Limited,  and Eng Lee and Mary Lee, dated
+            September 10, 1996
+
+  10.3      Sento  Technical Innovations  Corporation        (5)
+            Stock Incentive Plan
+   13       Annual  Report  to  Shareholders for  the                      (6)
+            Company's Fiscal Year 1997
+
+   21       Subsidiaries of the Registrant                                 (6)
+
+   27       Financial Data Schedule.                                       (6)
+
+_________________________________
+
+(1)  Incorporated by reference to the exhibits to Registration Statement No. 2-
+     39659 on Form S-3 filed with the Securities and Exchange Commission in
+     March 1971.
+
+(2)  Incorporated by reference to Current Report on Form 8-K filed with the
+     Securities and Exchange Commission on May 2, 1996, as amended by Form 8-K/A
+     filed with the Securities and Exchange Commission on July 29, 1996.
+
+(3)  Incorporated by reference to Annual Report on Form 10-KSB for the fiscal
+     year ended April 30, 1996, filed with the Securities and Exchange
+     Commission on July 29, 1996, as amended by Form 10-KSB/A filed with the
+     Securities and Exchange Commission on August 1, 1996.
+
+(4)  Incorporated by reference to Amendment No. 1 to Registration Statement on
+     Form S-1, filed with the Securities and Exchange Commission on November 1,
+     1996.
+
+(5)  Incorporated by reference to the Company's definitive proxy statement for
+     the annual meeting of the Company's shareholders to be held on August 18,
+     1997.
+
+(6)  Filed herewith and attached to this Form 10-KSB following page 8 hereof.
+
+     (b)  REPORTS ON FORM 8-K. 
+
+     The Company filed no reports on Form 8-K during the last quarter of its
+fiscal year 1997.
+<PAGE>
+                                   SIGNATURES
+
+
+     In accordance with Section 13 or 15(d) of the Securities Exchange Act of
+1934, the registrant has duly caused this report to be signed on its behalf by 
+the undersigned, thereunto duly authorized, on June 27, 1997.
+
+                    SENTO TECHNICAL INNOVATIONS CORPORATION
+
+
+
+                    By: /s/ Robert K. Bench
+                        ___________________________________________
+                        Robert K. Bench, President, Chief Financial
+                        Officer and Director
+
+
+
+
+     In accordance with the Securities Exchange Act of 1934, this report has
+been signed below by the following persons on behalf of the registrant and in
+the capacities and on the dates indicated. 
+
+
+ Signature                             Title                       Date
+ _________                             _____                       ____
+
+
+ /s/ Gary B. Godfrey                   Chairman of the Board       June 27, 1997
+ ___________________________________   and Chief Executive
+ Gary B. Godfrey                       Officer (Principal
+                                       Executive Officer)
+
+ /s/ Robert K. Bench                   President, Chief            June 27, 1997
+ ___________________________________   Financial Officer and
+ Robert K. Bench                       Director (Principal
+                                       Financial and Accounting
+                                       Officer)
+
+                                    
+ /s/ Eng H. Lee                        Vice President, Chief       June 27, 1997
+ ___________________________________   Technical Officer and
+ Eng H. Lee                            Director
+
+
+
+ /s/ Brian W. Braithwaite              Secretary, Treasurer and    June 27, 1997
+ ___________________________________   Director
+ Brian W. Braithwaite               
+
+
+
+ /s/ William A. Fressh                 Director                    June 27, 1997
+ ___________________________________
+ William A. Fresh
+
+
+ /s/ Sherman H. Smith                  Director                    June 27, 1997
+ ___________________________________
+ Sherman H. Smith
+
+
+ /s/ Kieth E. Sorensen                 Director                    June 27, 1997
+ ___________________________________
+ Kieth E. Sorenson
+<PAGE>
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-13
+<SEQUENCE>2
+<TEXT>
+
+<PAGE>
+
+
+FINANCIAL HIGHLIGHTS
+
+                                      1997*           1996           1995
+- -------------------------------------------------------------------------------
+Revenues                              $17,609,586    $13,873,401     $9,674,683
+- -------------------------------------------------------------------------------
+Net income                                $22,416       $339,555        $98,735
+- -------------------------------------------------------------------------------
+Earnings per share                           $.01           $.08           $.03
+- -------------------------------------------------------------------------------
+Cash                                   $2,225,338     $1,552,806       $766,247
+- -------------------------------------------------------------------------------
+Working capital                        $2,139,580       $943,332       $183,268
+- -------------------------------------------------------------------------------
+Total assets                           $7,049,268     $4,544,825     $2,815,857
+- -------------------------------------------------------------------------------
+Long term debt                           $208,075       $215,691       $223,412
+- -------------------------------------------------------------------------------
+Stockholders equity                    $3,113,651     $1,480,907       $423,294
+- -------------------------------------------------------------------------------
+Shares outstanding                      4,351,134      3,891,325             --
+- -------------------------------------------------------------------------------
+
+
+[GRAPHICS]
+[GRAPHICS]
+[GRAPHICS]
+
+
+                                      2
+
+<PAGE>
+
+TABLE OF CONTENTS
+
+Financial Highlights                                 2
+- ------------------------------------------------------
+Message to the Shareholders                          4
+- ------------------------------------------------------
+An Introduction to Sento                             6
+- ------------------------------------------------------
+Highlights of Fiscal 1997                            8
+- ------------------------------------------------------
+Management's Discussion and Analysis   
+of Financial Condition and Results of Operation     12
+- ------------------------------------------------------
+Independent Auditor's Report                        17
+- ------------------------------------------------------
+   Consolidated Balance Sheets                      18
+   ---------------------------------------------------
+   Consolidated Statements of Operations            19
+   ---------------------------------------------------
+   Consolidated Statements of Stockholder's Equity  20
+   ---------------------------------------------------
+   Consolidated Statements of Cash Flows            21
+   ---------------------------------------------------
+   Notes to the Consolidated Financial Statements   22
+- ------------------------------------------------------
+Market Information                                  29
+- ------------------------------------------------------
+Corporate Information                               30
+- ------------------------------------------------------
+
+
+                                      3
+
+<PAGE>
+
+
+OUR SUCCESS CONTINUES TO BE DRIVEN BY OUR UNIQUE ENGINEERING, SALES, 
+MARKETING, AND DISTRIBUTION CAPABILITIES IN THE RAPIDLY EXPANDING WINDOWS NT, 
+UNIX, AND INTERNETWORKING COMPUTING ENVIRONMENTS. 
+
+MESSAGE TO THE SHAREHOLDERS
+
+                                    1997: BUILDING A FOUNDATION FOR GROWTH
+
+TO OUR FELLOW SHAREHOLDERS:
+
+   The theme of our annual report, "1997: Building a Foundation for Growth", 
+reflects the significant investment we are making in developing new products, 
+broadening our sales and distribution channels, and expanding our technical 
+engineering resources worldwide. These investments have resulted in the 
+strong growth reported here and have positioned us for continued success and 
+worldwide expansion.
+
+   Sento enjoyed record growth again this year with revenues of $17,609,586 
+for the eleven month period ending March 31, 1997 compared with revenues of 
+$13,873,401 for the twelve months ended April 30, 1996. This represents 27% 
+topline growth. Our financial position at March 31, 1997 is the strongest in 
+the company's history, and has significantly increased shareholder value. 
+Cash per share was $ 0.51 at the year end, and net tangible book value was $ 
+0.61 per share. It is also important to note that because we have changed our 
+fiscal year end from April 30 to March 31, the financial statements for 
+fiscal 1997 reflect only eleven months of operations.
+
+   Our success continues to be driven by our unique engineering, sales, 
+marketing, and distribution capabilities in the rapidly expanding Windows NT, 
+UNIX, and Internetworking computing environments. To maximize our sales 
+success in these high growth markets we have refocused our direct sales 
+organization this year into three areas: Applications, Internetworking & 
+Security, and Systems Management Solutions.  
+                                                                
+   We have also added and trained specialized pre-sales engineers in each of 
+these areas to support increased effectiveness in large account and on-site 
+sales situations.
+
+   To obtain greater revenue leverage from Sento's software and system 
+engineering competencies, Sento Technical Services Group was recently formed 
+as a separate and distinct business unit. This technical services group 
+expands the information technology services and consulting solutions 
+available to our growing customer base in such areas as networking, systems 
+performance, integration, automation, and Windows NT migration.   
+
+   We believe that increasing visibility and access to these services in 
+North America, Europe, and Southeast Asia will have a very favorable impact 
+on revenue growth and profitability as we move forward.
+
+   The following key accomplishments are representative 
+
+                                       4
+
+<PAGE>
+
+
+
+of our progress this year:
+
+- -Completion of an option agreement to acquire Australian Software Innovations 
+ Pty Ltd (ASI). ASI has contributed both outstanding system performance 
+ management technology and strategic access to the rapidly growing Southeast 
+ Asia/Pacific Rim region.
+
+- -Closing of the largest ever systems and services contract by Sento's wholly 
+ owned systems integration and consulting company, Spire Systems, Inc. 
+
+- -Conclusion of major development projects delivering Corel WordPerfect 7 for 
+ Digital's UNIX and OpenVMS operating systems, resulting in contracts with the 
+ United Kingdom Court Service and an agreement with Digital Equipment 
+ Corporation to bundle demonstration copies of the product with all UNIX 
+ workstations shipped. 
+
+- -Expansion of Sento's worldwide presence as a distributor of leading third 
+ party software products through the formation of DewPoint Distributed 
+ Solutions, Inc., resulting in new alliances with companies such as Secure 
+ Computing, ENLighten Software, INEX, and Corel Corporation.
+
+- -Roll-out of the OpenAviator Performance Management product line in North 
+ America and joint integration development with Digital's Polycenter Capacity 
+ Planner, resulting in sales to American Airlines, Thiokol Corporation, 
+ Lockheed-Martin, as well as other expanded sales and OEM opportunities.
+
+- -Selection by Corel Corporation as exclusive provider of support, help desk, 
+ and maintenance services on 15 different platforms for all Corel UNIX 
+ products, resulting in expansion of service related revenue through marketing 
+ and maintenance programs to a much larger installed customer base.
+
+   As you review other major accomplishments and areas of investment 
+highlighted on the following pages of this report we think you will recognize 
+indications of our growing reputation as industry leaders in providing 
+state-of-the-art products, consultation, training, and support solutions in 
+the rapidly growing information technology and computer networking markets. 
+
+   As we continue 'building' Sento's leadership in these dynamic markets, we 
+remain committed to using the finest building blocks of integrity, hard work, 
+and dedication to customer satisfaction. We are confident that this 
+commitment--in combination with the outstanding talents and continued 
+dedication of our employees--will bring the rewards we all seek as 
+shareholders.
+
+   Thank you for your continued loyalty and support!
+
+Sincerely,
+
+
+/s/ Gary B. Godfrey
+
+
+Gary B. Godfrey
+Chairman & CEO
+
+
+/s/ Robert K. Bench 
+
+Robert K. Bench 
+President & CFO
+
+
+
+[PHOTO]
+
+GARY B. GODFREY,
+CHAIRMAN & CEO OF
+SENTO TECHNICAL INNOVATIONS
+
+
+
+
+[PHOTO]
+
+
+ROBERT K. BENCH,
+PRESIDENT & CFO OF
+SENTO TECHNICAL INNOVATIONS
+
+
+
+
+                                      5
+
+
+<PAGE>
+
+AN INTRODUCTION TO SENTO
+
+SPIRE TECHNOLOGIES, INC. 
+DIRECT SOFTWARE SALES
+
+Spire Technologies, one of the leading providers of Windows NT, UNIX, and 
+OpenVMS software solutions and support services, was reorganized to more 
+effectively penetrate the server computing marketplaces. Their new sales and 
+pre-sales support teams are divided into the following three groups: 
+
+   End-User Applications: Focuses on office automation, remote control, 
+electronic faxing, network management, and communications tools.
+
+   Internet and Security Applications: Provides internet and intranet 
+security, management, and electronic commerce tools, combined with 
+consultation, design, and turnkey solutions services.
+
+   Systems Management: Delivers system monitoring, performance enhancement, 
+data storage and retrieval, help desk tools, and automated software 
+management and distribution solutions.
+
+   These teams are supported by the Sento Technical Services Group which 
+provides consultation and configuration, front line support, installation and 
+implementation services, integration assistance, user training, and custom 
+product enhancement and development.
+
+SPIRE SYSTEMS, INC.                              
+SYSTEMS INTEGRATION
+
+Spire Systems is an authorized value-added reseller of several leading 
+manufacturers, including Digital Equipment Corporation and Oracle 
+Corporation. Spire Systems provides superior system hardware, desktop 
+integration, configuration consultation, and Gold Key services. 
+
+   In addition, Spire Systems designs, implements, and manages computing 
+solutions for every level of need--from recommending and integrating add-ons 
+and peripherals, to custom configuring enterprise solutions. They are also 
+trained and experienced with the wide range of products and services 
+available from manufacturers like Digital so they can provide the detailed 
+answers clients need.
+
+   Spire Systems also offers Windows NT migration configuration services; 
+integrates multi-vendor networks; provides network consultation with respect 
+to connectivity, compatibility, interoperability, and management; performs 
+LAN installation, including interface hardware and software; and timely, 
+professional technical support.
+
+                                       6
+
+<PAGE>
+
+DEWPOINT DISTRIBUTED SOLUTIONS, INC.
+PRODUCT DISTRIBUTION
+
+DewPoint Distributed Solutions provides distribution, reseller, and channel 
+management worldwide for leading software manufacturers such as Corel 
+Corporation, Trend Micro, Inc., Secure Computing Corporation, INEX 
+Corporation, and Datapac Australia, Pty Ltd.
+
+   With consultants, resellers, installation and training teams, and customer 
+support centers located in North and South America, Europe, and Australia/ 
+Southeast Asia, DewPoint is able to provide third-party products and services 
+to Windows NT, UNIX, and Internet/Intranet resellers in virtually every 
+corner of the world.        
+  
+   As a value-added distributor, DewPoint offers superior products, technical 
+services, marketing support, and sales assistance to their channel partners 
+in order to provide key technology solutions, generate leads, and assist in 
+closing sales.
+
+[PHOTO]
+
+
+
+DOUG YATES
+PRESIDENT OF DEWPOINT
+DISTRIBUTED SOLUTIONS
+
+
+
+
+AUSTRALIAN SOFTWARE INNOVATIONS, PTY LTD.
+DEVELOPMENT AND ASIAN DISTRIBUTION
+
+ASI, in conjunction with Sento, produces the OpenAviator suite of UNIX and 
+Windows NT-based management and performance monitoring utilities.  This 
+software is complemented by professional consultancy and integration, 
+performance tuning education, and customized configuration and development 
+services.
+
+   ASI's Sydney development team, combined with Sento's development and 
+support center located in Orem, Utah, cater to and support joint development 
+efforts with organizations like Digital Equipment Corporation, and OEMs 
+throughout the world.
+
+   ASI is also the direct Asian distributor for Corel WordPerfect for OpenVMS 
+and UNIX, Lotus 1-2-3 for OpenVMS, virus detection software from Trend Micro, 
+and a number of other leading software products for end-user, 
+Internet/Intranet, and systems management markets.
+
+
+[PHOTO]
+
+
+
+ENG LEE
+MANAGING DIRECTOR OF
+AUSTRALIAN SOFTWARE
+INNOVATIONS PTY LTD.
+
+
+
+                                       7
+
+Page>
+
+
+SIGNIFICANT EVENTS OF FISCAL YEAR 1997
+
+THESE ARE JUST A FEW OF THE HIGHLIGHTS AND ACCOMPLISHMENTS OF THE PAST YEAR. 
+OUR COMPANY'S GROWTH HAS BEEN ACCOMPANIED BY AN EXCITING YEAR OF CHANGE AND 
+ACTIVITY FOR SENTO AND ITS SUBSIDIARIES. THESE KEY EVENTS OF 1997 HAVE 
+ALLOWED SENTO TO CREATE A STRONG FRAMEWORK ON WHICH TO BUILD OUR FUTURE.
+
+MAY 1996
+
+SENTO SIGNS EXCLUSIVE DISTRIBUTION AGREEMENT WITH AUSTRALIAN SOFTWARE 
+INNOVATIONS 
+
+
+Sento signed an exclusive distribution agreement with Australian Software 
+Innovations, Pty Ltd. (ASI) to distribute, license, and support ASI's system 
+monitoring and management tool, known in Australia as SYSMON.  Owing to the 
+use of that name in North America, the product is marketed under the name 
+OpenAviator, and is sold as a modular suite of solutions.  In addition, Sento 
+was established as the North American development and support center for 
+OpenAviator, providing local customization services and cooperative 
+development assistance to ASI's development team in Sydney.  In return, ASI 
+provided on-site product and market development assistance with the year-long 
+loan of key ASI sales and marketing personnel. 
+
+JUNE 1996
+
+$1.5 MILLION PRIVATE PLACEMENT 
+
+The Company successfully completed the 
+placement of one and a half million dollars of common stock and warrants. 
+These funds have provided the Company with the capital necessary to increase 
+the development and expansion of its line of products and services.
+
+
+
+
+APRIL
+6,500 PIECE LANUTIL DIRECT MAIL CAMPAIGN
+
+JUNE
+10,000 PIECE DIRECT MAIL FOR THE BORDERWARE FIREWALL SERVER
+
+NETSEE CONFERENCE - SAN FRANCISCO
+
+JOINT SPIRE/DIGITAL SEMINAR FOR OPEN AVIATOR AND CAPACITY PLANNER
+
+
+<PAGE>
+
+
+AUGUST 1996
+
+GLOBAL SOFTWARE DISTRIBUTION COMPANY FORMED: DEWPOINT DISTRIBUTED SOLUTIONS 
+
+
+
+                    [Photo]
+
+
+
+DewPoint Distributed Solutions was formed by the Company to assume 
+responsibility for worldwide software distribution and channel management for 
+a number of leading software manufacturers. DewPoint has established 
+distribution relationships with several key software manufacturers, developed 
+reseller channel partners throughout the world, and set up regional  offices 
+in the US, England, and Australia. 
+
+SEPTEMBER 1996
+
+SENTO SECURES OPTION TO ACQUIRE AUSTRALIAN SOFTWARE INNOVATIONS, PTY LTD.
+
+The Company obtained an option to acquire ASI, the manufacturer of 
+OpenAviator, a leading systems performance management and monitoring tool for 
+the UNIX and Windows NT marketplace. OpenAviator has significant market 
+penetration in Asia and Europe, with growing customer acceptance now 
+occurring in the United States and Canada. In addition to ASI's technology 
+and development staff, this acquisition provides the Company with a strong 
+point of distribution for Sento's other product offerings, including 
+WordPerfect for the OpenVMS and UNIX platforms.
+
+SEPTEMBER 1996
+
+SPIRE SYSTEMS CLOSES LARGEST HARDWARE SALE IN COMPANY HISTORY: $1.4 MILLION
+
+
+
+                [Photo]
+
+
+
+After months of negotiations, Spire Systems closed its largest sale to date: 
+US $1.4 million dollars in hardware, software, and services to Utah Higher 
+Education. 
+
+SEPTEMBER 1996
+
+SENTO ANNOUNCES NEW RELEASE OF OPENAVIATOR
+
+
+
+                [Photo]
+
+
+
+The Company completed localization of the OpenAviator system performance 
+management product and began market roll-out. This latest version provides a 
+number of enhancements, additions, and improvements,and allows customers to 
+purchase only those components currently needed, with the opportunity to buy 
+additional components as necessary. 
+
+
+
+AUGUST
+
+PERFECTCACHE DIRECT MAIL INSERT IN FALL 1996 "TO THE POINT" NEWSLETTER
+TO 9,000 CUSTOMERS
+
+
+
+SEPTEMBER
+
+EIGHT CITY INTERNET SECURITY SEMINAR ROADSHOW
+
+
+<PAGE>
+
+OCTOBER 1996
+
+COREL WORDPERFECT 7 FOR DIGITAL UNIX RELEASED
+
+
+
+                [Photo]
+
+
+
+The Company announced the successful first-time porting of Corel WordPerfect 
+7 to the Digital Equipment Corporation (Digital) UNIX computing platform. 
+This latest release is the first of several projects under way as a result of 
+the Company's strategic partnership with Corel Corporation (Corel). Corel 
+WordPerfect 7 for Digital UNIX is available in two formats: a character-based 
+version for users working on terminals, and a graphical version for customers 
+using GUI terminals and workstations. The first large sale of this new 
+product was consummated upon its release.
+
+OCTOBER 1996
+
+THREE DIRECT SALES GROUPS CREATED FOR SPIRE TECHNOLOGIES
+
+
+
+                [Photo]
+
+
+
+Spire Technologies reorganized its sales team to more effectively penetrate 
+the server computing marketplaces. These teams are the End-User Applications 
+group, which focuses on office automation, network management, remote 
+support, electronic faxing, desktop publishing, and communications tools; the 
+Internet and Security Applications group, which provides security, management, 
+and electronic commerce tools combined with consultation, design, and turnkey 
+solutions services; and the Systems Management group, which provides system 
+monitoring, performance enhancement, data storage and retrieval, help desk, 
+and automated software distribution solutions.
+
+NOVEMBER 1996
+
+SENTO INCLUDED ON THE NASDAQ STOCK MARKET
+
+Sento was accepted on the NASDAQ Small Cap Stock Market with its new symbol, 
+SNTO. Inclusion on the NASDAQ has provided additional market liquidity for 
+Sento's common stock.
+
+NOVEMBER 1996
+
+COMPLETION OF INTEGRATION OF OPENAVIATOR'S DATA COLLECTION INTERFACE WITH 
+DIGITAL'S POLYCENTER CAPACITY PLANNER TOOL
+
+Sento and Digital completed the initial integration of Sento's OpenAviator 
+product with Digital's Capacity Planner product. This allows users of 
+Capacity Planner to collect information for modeling through OpenAviator's 
+system data collectors from more than eighteen different UNIX platforms. A 
+joint sales and marketing effort to promote and sell the greatly increased 
+capabilities of both Digital's Capacity Planner and OpenAviator was begun 
+simultaneously, to be launched upon the project's completion.
+
+
+
+
+OCTOBER
+
+OPENAVIATOR "ARE YOU FLYING YOUR SYSTEMS BLIND DIRECT MAIL CAMPAIGN - 
+10,000 PIECES
+
+UNIX EXPO TRADE SHOW - NEW YORK CITY
+
+
+
+
+
+NOVEMBER
+
+DECUS '96 TRADE SHOW - ANAHEIM
+
+FULL PAGE WORKPERFECT DISPLAY AD - UNIX REVIEW
+
+RAXMASTER-DEMO CD DIRECT MAIL CAMPAIGN TO CURRENT CUSTOMER BASE
+
+
+
+
+DECEMBER
+
+CMG '96 TRADE SHOW - SAN DIEGO
+
+35,000 PIECE WORDPERFECT FOR UNIX "PICK OF THE LITTER" DIRECT MAIL CAMPAIGN
+
+OPENAVIATOR "ARE YOU FLYING YOUR SYSTEMS BLIND? SEQUENT USERS" DIRECT MAIL 
+CAMPAIGN - 11,000 PIECES
+
+
+
+
+
+JANUARY
+
+USENIX '97 TRADE SHOW - ANAHEIM
+
+SURF '97 TRADE SHOW - SAN DIEGO
+
+<PAGE>
+
+DECEMBER 1996
+
+FIRST LARGE SALE OF COREL WORDPERFECT FOR DIGITAL UNIX TO THE UK COURTS
+
+The largest sale to date of Corel WordPerfect for Digital UNIX (character 
+version) since its release was completed with the UK Courts by Sento's Master 
+European Distributor of Corel WordPerfect, Avalan Technology.
+
+DECEMBER 1996
+
+FIRST SALE OF INTEGRATED OPENAVIATOR AND CAPACITY PLANNER TO AMERICAN AIRLINES
+
+Following the completed integration of OpenAviator with Digital's Polycenter 
+Capacity Planner, Spire Technologies successfully consummated its first sale 
+of the combined products to American Airlines.
+
+JANUARY 1997
+
+NEW SENTO TECHNICAL SERVICES GROUP
+
+
+
+                [Photo]
+
+
+
+Sento organized its Technical Services Group into a separate and distinct 
+business unit to expand the visibility of the information technologies 
+services and consulting solutions available to our growing customer base. 
+This new group provides customers with a wide range of design, implementation 
+and development services, including: Windows NT migration, systems 
+integration, product installation, system tuning, product training, 
+customized product enhancements and development services, and hands-on system 
+design and configuration services.
+
+JANUARY 1997
+
+SENTO EXPANDS SERVICES GROUP TO PROVIDE WORLDWIDE HELP DESK SUPPORT FOR COREL
+
+Corel selected Sento's Technical Services Group to provide worldwide help 
+desk services and technical support for their Corel WordPerfect for UNIX and 
+CorelDRAW for UNIX customers. This arrangement has increased the Technical 
+Services Group's workload by 140%, creating the need to expand Services 
+personnel, while providing a significant new revenue opportunity to the 
+Company in the form of annual maintenance contracts, as well as customer 
+consulting, customized development, and support service contracts.
+
+ 
+           [Photo]
+
+FEBRUARY
+
+DEWPOINT RESELLER ADVERTISEMENT IN UNIX REVIEW MAGAZINE SENT TO 38,000
+RESELLERS
+
+DEWPOINT RESELLER NEWSLETTER SENT TO 550 RESELLERS
+
+MARCH
+
+UNIFORUM '97 TRADE SHOW - SAN FRANCISCO 
+
+INTERNET WORLD '97 TRADE SHOW - LOS ANGELES
+
+<PAGE>
+
+MANAGEMENT'S DISCUSSION & ANALYSIS OF FINANCIAL CONDITION & RESULTS OF 
+OPERATIONS
+
+
+OVERVIEW
+
+   Historically, Sento Technical Innovations Corporation and its wholly owned 
+subsidiaries have focused their sales and distribution efforts on two product 
+lines within the mid-range client/server computer market niche: providing 
+services as a VAR of Digital's network computer hardware systems and 
+components, and acting as a distributor/VAR for a variety of software 
+programs and applications developed by third parties. Recently, the Company 
+has entered into strategic licensing and product development arrangements 
+with IBM/Lotus, Corel/WordPerfect, Digital Equipment Corporation, and 
+Australian Software Innovations, through which the Company became the 
+licensed developer and sole distributor of various software products.
+
+   As part of its ongoing efforts to support customers' needs in the areas of 
+training, support, and system configuration, the Company offers its customers 
+an annual maintenance agreement. This allows customers access to the 
+technical resources and support personnel of the Company, including automatic 
+product updates, "bug fixes", and system configuration consulting. The demand 
+for technical computer systems consulting represents a growth opportunity for 
+the Company. The Company hired additional technical consultants in January 
+1996, and the Company has continued its efforts to concentrate on marketing 
+its consulting services to generate additional revenues.
+
+   Since November 1995, the Company has expanded its distribution model to 
+include software products that operate in the growing UNIX and Windows NT 
+operating systems environments. In addition to increased product line, the 
+Company also began marketing a family of products which provide solutions 
+relating to the Internet. These products include a third-party product known 
+in the industry as a "firewall," which is designed to protect an 
+organization's computer network from access by unauthorized users, and an 
+"anti-virus" product which is designed to protect the computer network from 
+virus intrusion originating from the Internet.
+
+   The combined revenues of the Company during fiscal year 1997 from these 
+various activities are broken down as follows:
+
+   - Open VMS software sales amounted to approximately  36% of revenues
+
+   - System configuration services and hardware sales amounted to approximately
+     50% of revenues
+
+   - Technical consulting and maintenance services amounted to approximately 14%
+     of revenues
+
+   With the addition of the new product lines, as described above, the 
+Company's management anticipates that revenues from the sale of UNIX platform 
+products, Internet security products, and technical consulting will grow 
+faster, as a percentage of revenues, than the historical product lines 
+offered by the Company.
+
+                                      12
+<PAGE>
+
+   No single market sector represents a dominant portion of the Company's 
+revenue base during fiscal year 1997. Governmental and educational 
+institutions represent approximately 32% of revenues, and small to large 
+corporations represent the remaining 68% of revenues. No single customer 
+represents more than ten percent of the revenues of the Company.
+
+   The Company sells its products through a direct sales force of 35 
+representatives in the United States, and through a number of third-party 
+resellers in the Americas, Europe, Australia, and Southeast Asia. Domestic 
+sales represented 92% of total revenues in 1997, with international sales 
+representing the remaining 8%.
+
+RESULTS OF OPERATIONS
+
+   The following table sets forth, for the three most recent fiscal years, 
+the amounts and percentage relationships to revenues of selected items of the 
+Company's consolidated financial data.
+
+
+<TABLE>
+<CAPTION>
+
+                                        1997        % OF          %        1996        % OF      %        1995    % OF     
+                                       AMOUNT (1)   REVENUE     CHANGE    AMOUNT      REVENUE  CHANGE    AMOUNT  REVENUE
+- --------------------------------------------------------------------------------------------------------------------------------
+<S>                                    <C>          <C>         <C>    <C>            <C>       <C>    <C>         <C>
+
+Revenues:                                                                                           
+  Software licenses and maintenance    $8,855,887    50%         15%   $7,694,695       55%      44%   $5,356,572   55%
+  Hardware sales and services           8,753,699    50%         42%    6,178,706       45%      43%    4,318,111   45%
+   Total Revenues                       17,609,586   100%         27%   13,873,401      100%      43%    9,674,683  100%
+                                                                                                                      
+Cost of Sales:                                                                                                     
+  Software licenses and maintenance     3,927,280    22%         27%    3,100,738       22%       8%    2,879,943   30%
+  Hardware sales and services           7,514,278    43%         40%    5,351,305       39%      43%    3,734,132   39%
+   Total Cost of Sales                 11,441,558    65%         35%    8,452,043       61%      28%    6,614,075   69%
+                                                                                                                   
+Gross Profit                            6,168,028    35%         14%    5,421,358       39%      77%    3,060,608   31%
+                                                                                                                   
+Operating Expenses:                                                                                                
+  Selling, General & Administration     5,711,061    32%         24%    4,605,402       33%      57%    2,927,081   30%
+  Research & Development                  524,787     3%         96%      268,028        2%       --           --    --
+                                                                                                                   
+Operating Income (Loss)                  (67,820)     --      (112)%      547,928        4%     310%      133,527    1%
+Other Income (Expense)                    106,375     --       1015%     (11,628)        --    (199)%      11,696    --
+Income Tax Expense                         16,139     --       (92)%      196,745        1%     323%       46,488    --
+Net Income                                 22,416     --       (93)%      339,555        3%     244%       98,735    1%
+                                                                                                                   
+Cash and Cash Equivalents               2,225,338                43%    1,552,806               103%      766,247  
+Working Capital                         2,139,580               127%      943,332               415%      183,268  
+Total Assets                            7,049,268                55%    4,544,825                61%    2,815,857  
+Stockholders' Equity                    3,113,651               110%    1,480,907               250%      423,294  
+
+
+</TABLE>
+
+   (1) Effective June 18, 1996, the Company changed its fiscal year from a 
+fiscal year end of April 30 to a fiscal year end of March 31. Information set 
+forth above for the Company's 1997 fiscal year reflects the Company's 
+operations during the eleven month period from May 1, 1996 through March 31, 
+1997. Because the information set forth above for the Company's 1996 and 1995 
+fiscal years reflects the Company's operations during the twelve month 
+periods ended April 30, 1996 and 1995, inter-year comparisons will be 
+affected accordingly.
+
+                                       13
+
+<PAGE>
+
+
+FISCAL 1997 COMPARED TO FISCAL 1996
+
+REVENUES
+
+Revenues for the eleven months ended March 31, 1997 increased to $17,609,586 
+from $13,873,401 for the twelve months ended April 30, 1996, an increase of 
+27%. The increase in revenues reflects increases in both software product 
+sales and hardware product sales. New versions of existing software as well 
+as software for new operating platforms were released during the eleven 
+months ended March 31, 1997. Positive market acceptance of Digital's Alpha 
+operating platform hardware system also contributed to the increase in 
+hardware revenues.
+
+GROSS PROFIT
+
+Gross profit increased from $5,421,358, or 39% of revenues, for the twelve 
+months ended April 30, 1996, to $6,168,028, or 35% of revenues, for the 
+eleven months ended March 31, 1997. The strong sales of hardware products, 
+which generally carry a lower margin than software products, along with 
+increased start-up costs associated with expanding the Company's new UNIX 
+product lines, contributed to the increase in cost of sales, resulting in 
+lower gross profit margins.
+
+SELLING, GENERAL AND ADMINISTRATIVE EXPENSES
+
+Selling, general, and administrative expenses increased from $4,605,402, or 
+33% of revenues, for the twelve months ended April 30, 1996, as compared to 
+$5,711,061, or 32% of revenues, for the eleven months ended March 31, 1997. 
+
+RESEARCH AND DEVELOPMENT EXPENSES
+
+Prior to fiscal 1996, research and development expenses were minimal as the 
+Company relied on its third-party manufacturers for substantially all product 
+development activities. For the eleven months ended March 31, 1997, research 
+and development expenses were $524,787, or three percent of revenues, 
+compared to $268,028, or two percent of revenues, for the twelve months ended 
+April 30, 1996. The increase was due principally to the Company's assumption 
+of the full development responsibilities for several newly licensed software 
+products. 
+
+OTHER INCOME (EXPENSE)
+
+Other income consists of interest income, interest expense, and various other 
+items. Other income (expense) increased from an expense of $11,628, or less 
+than one percent of revenues, for the twelve months ended April 30, 1996, to 
+income of $106,375, or less than one percent of revenues, for the eleven 
+months ended March 31, 1997. Interest income increased during the eleven 
+months ended March 31, 1997 due to interest earned on the proceeds received 
+by the Company from the issuance of shares of Common Stock in the Private 
+Placement which closed in June 1996.
+
+NET INCOME
+
+Net income decreased from $339,555, or two percent of revenues, for the 
+twelve months ended April 30, 1996, to $22,416, or less than one percent of 
+revenues, for the eleven months ended March 31, 1997. The decrease was 
+primarily due to the increased research and development expenditures and 
+costs related to the Company's expansion into the UNIX and Windows NT 
+operating systems markets.
+
+                                        14
+
+
+<PAGE>
+
+FISCAL 1996 COMPARED TO FISCAL 1995
+
+REVENUES
+
+Revenues increased to $13,873,401 for fiscal 1996 from $9,674,683 for
+fiscal 1995. The increase in revenues resulted principally from increased
+market penetration in both the software and hardware product lines.
+Software sales increased by $2,338,123 from fiscal 1995 to fiscal 1996. The
+increase was due primarily to the increased sales of WordPerfect for
+OpenVMS and new sales of UNIX and Windows NT products. Hardware sales in
+fiscal 1996 increased by $1,860,595 compared to fiscal 1995, largely as a
+result of the release and customer acceptance of Digital's Alpha operating
+platform hardware system during fiscal 1996. The Company's promotional
+efforts to bundle the new AlphaServer and Alpha version of WordPerfect also
+contributed to the increase in sales. 
+
+GROSS PROFIT
+
+Gross profit increased from $3,060,608, or 31% of revenues, for fiscal
+1995, to $5,421,358, to 39% of revenues, for fiscal 1996. The increase in
+gross profit as a percentage of revenues was attributable primarily to
+three major factors. First, the Company received the full license rights to
+WordPerfect for OpenVMS and Lotus products. This decreased the royalty paid
+to the owners and manufacturers of those products. Second, the new product
+lines sold by the Company were more technical in nature, and therefore
+carried a higher discount from the manufacturers. Third, the Company
+enjoyed a higher growth in revenues than the corresponding growth required
+for personnel; therefore, fixed costs related to cost of sales were spread
+over a larger sales base. 
+
+SELLING, GENERAL AND ADMINISTRATIVE EXPENSE
+
+Selling, general, and administrative expenses increased from $2,927,081, or 
+30% of revenues, for fiscal 1995 to $4,605,402, or 33% of revenues, for 
+fiscal 1996. The increase was due primarily to four factors: First, the 
+Company began expanding its international sales channel aggressively during 
+fiscal 1996. Second, a new UNIX sales division was created to focus on new 
+product lines. Third, activities relating to the Company's expanded 
+accounting, legal, and public reporting requirements increased expenses. 
+Fourth, activities relating to the Company's strategy of acquiring additional 
+products and other companies required greater expenditures.
+
+RESEARCH AND DEVELOPMENT EXPENSES
+
+Research and development expenses consist principally of programming costs 
+for new software and were not significant prior to 1996. During fiscal 1996, 
+the Company assumed total development responsibility for several newly 
+licensed products. During that year, the Company released a WordPerfect 
+upgrade, version 5.1+ for Open VMS/VAX, WordPerfect 5.1+ for Open VMS/Alpha, 
+and Lotus 1-2-3 for Open VMS/Alpha. Ongoing programming is necessary to keep 
+pace with software innovations in several segments of the Company's market 
+niche. 
+
+OTHER INCOME
+
+Other income consisted primarily of interest income and interest expense. 
+Interest income has been earned on excess cash invested in interest bearing 
+instruments. 
+
+                                       15
+
+<PAGE>
+
+NET INCOME
+
+Net income increased from $98,735, or one percent of revenues, for fiscal 
+1995, to $339,555, or three percent of revenues, for fiscal 1996. The 
+increase in net income was primarily due to the robust sales of WordPerfect 
+for OpenVMS during fiscal year 1996.
+
+LIQUIDITY AND CAPITAL RESOURCES
+
+Since inception, the Company has satisfied its liquidity and capital resource 
+requirements through cash flow from operations and Private Placement funding. 
+Long-term bank borrowings have been kept to a minimum and used primarily for 
+the purchase of a building to house a portion of the Company's operations.
+
+During fiscal 1997 and 1996, the Company used and generated cash from 
+operating activities in the amounts of ($874,429) and $362,131, respectively. 
+For the same years, net cash increased $672,532 and $786,559 respectively. 
+The Company's cash at the end of fiscal 1996 reflected the additional cash of 
+$608,408 obtained by the Company in the Share Exchange and its cash at the 
+end of fiscal 1997 reflected the addition of $1,561,168 obtained through the 
+issuance of common stock pursuant to the Private Placement which closed in 
+June 1996.
+
+Working capital increased from $943,332 at April 30, 1996 to $2,139,580 at 
+March 31, 1997. The Company's current ratio increased from 1.33 at April 30, 
+1996 to 1.57 at March 31, 1997. This increase was due to cash received from 
+the Private Placement. 
+
+Effective June 1, 1996, the Company established two lines of credit with a 
+commercial bank, one for $1,000,000, secured by trade receivables, at a rate 
+equal to prime plus two percent, which expired June 1, 1997; the other for 
+$350,000, secured by equipment, at prime plus two percent, expiring May 1, 
+1999. As of March 31, 1997, neither of these lines of credit had been used. 
+The Company anticipates the renewal of the receivables credit line.
+
+The Company continues to evaluate opportunities for the license or 
+acquisition of additional software products as well as the possible 
+acquisition of, or development of strategic alliances with, other companies 
+which may have products or distribution channels that are compatible with the 
+business objectives of the Company. The Company has obtained the Australian 
+Software Innovations Option (ASI Option), which is exercisable until 
+September 10, 1997; if the Company exercises the ASI Option or identifies and 
+proceeds with any other acquisition or alliance opportunity, additional 
+capital, in the form of debt or equity financing, may be required.
+
+In February 1997, the Financial Accounting Standards Board issued Statement 
+of Financial Accounting Standards No. 128, Earnings PER SHARE (SFAS 128). 
+SFAS 128 establishes a different method of computing earnings per share than 
+is currently required under the provisions of Accounting Principles Board No. 
+15. Under SFAS 128, the Company will be required to present both basic 
+earnings per share and diluted earnings per share. While the Company has not 
+yet performed the calculation, basic earnings per share is expected to be 
+higher than the currently presented primary earnings per share as the effect 
+of diluted stock options will not be considered in computing basic earnings 
+per share. Adoption of SFAS 128 is required for financial statements for both 
+interim and annual periods ending after December 15, 1997. Accordingly, the 
+Company plans to adopt SFAS 128 in the quarter ended December 31, 1997. At 
+that time, the Company will restate all historical earnings per share data 
+presented to conform to the provisions of SFAS 128.
+
+                                       16
+
+<PAGE>
+
+
+INDEPENDENT AUDITOR'S REPORT
+
+
+The Board of Directors and Stockholders of Sento Technical Innovations 
+Corporation:
+
+We have audited the accompanying consolidated balance sheets of Sento 
+Technical Innovations Corporation and subsidiaries as of March 31, 1997 and 
+April 30, 1996, and the related consolidated statements of operations, 
+stockholders' equity, and cash flows for the eleven and twelve month periods 
+then ended. These consolidated financial statements are the responsibility of 
+the Company's management. Our responsibility is to express an opinion on 
+these consolidated financial statements based on our audits.
+
+We conducted our audits in accordance with generally accepted auditing 
+standards. Those standards require that we plan and perform the audit to 
+obtain reasonable assurance about whether the financial statements are free 
+of material misstatement. An audit includes examining, on a test basis, 
+evidence supporting the amounts and disclosures in the financial statements. 
+An audit also includes assessing the accounting principles used and 
+significant estimates made by management, as well as evaluating the overall 
+financial statement presentation. We believe that our audits provide a 
+reasonable basis for our opinion.
+
+In our opinion, the consolidated financial statements referred to above 
+present fairly, in all material respects, the financial position of the 
+Company as of March 31, 1997 and April 30, 1996, and the results of their 
+operations and their cash flows for the eleven and twelve month periods then 
+ended in accordance with generally accepted accounting principles.
+
+KPMG PEAT MARWICK LLP
+
+Salt Lake City, Utah
+June 12, 1997
+
+
+
+                                       17
+
+<PAGE>
+
+
+
+
+CONSOLIDATED BALANCE SHEETS
+
+ASSETS
+
+<TABLE>
+<CAPTION>
+
+                                                   MARCH 31,1997     APRIL 30, 1996
+                                                  ---------------------------------
+<S>                                                 <C>                <C>
+Current assets:
+Cash                                                 $ 2,225,338        $ 1,552,806
+Accounts receivable, less allowance for                                
+doubtful accounts of $223,210 in 1997                                  
+and $137,934 in 1996                                   3,140,425          2,176,642
+Inventories                                              155,465                 --
+Other current assets (note 4)                            241,644              7,806
+Deferred tax asset (note 5)                               98,917             42,723
+- -----------------------------------------------------------------------------------
+    Total current assets                               5,861,789          3,779,977
+
+Fixed assets (note 3):                                                 
+  Land                                                    36,021             36,021
+  Buildings                                              250,489            250,489
+  Furniture and equipment                                772,321            526,005
+  Transportation equipment                                11,516             11,516
+  Accumulated depreciation                              (359,268)          (256,183)
+- -----------------------------------------------------------------------------------
+    Net fixed assets                                     711,079            567,848
+Interest in oil and gas properties (note 2)                   --            197,000
+Other assets (note 4)                                    476,400                 --
+- -----------------------------------------------------------------------------------
+                                                       7,049,268          4,544,825
+                                                  ---------------------------------
+                                                  ---------------------------------
+                                                                       
+LIABILITIES AND STOCKHOLDER'S EQUITY                                   
+                                                                       
+Current liabilities:                                                   
+  Current portion of long-term debt (note 3)          $    8,286         $    7,721
+  Accounts payable                                     2,216,634          1,050,535
+  Accrued liabilities                                    260,274            488,660
+  Income taxes payable (note 5)                          132,207             52,715
+  Deferred maintenance revenue                         1,099,849          1,017,364
+  Other deferred revenue                                   4,959            219,650
+  ---------------------------------------------------------------------------------
+    Total current liabilities                          3,722,209          2,836,645
+    -------------------------------------------------------------------------------
+Long-term liabilities:                                                 
+
+  Long-term debt, excluding current portion (note 3)     208,075            215,691
+  Deferred tax liability (note 5)                          5,333             11,582
+  ---------------------------------------------------------------------------------
+    Total long-term liabilities                          213,408            227,273
+    -------------------------------------------------------------------------------
+  Commitments (notes 4 and 6)                                            
+  Stockholders' equity (notes 2 and 8):                                  
+    Common stock, $.25 par value. Authorized 8,000,000                     
+    shares; issued and outstanding 4,351,134 shares in                     
+    1997 and 3,891,325 shares in 1996                  1,087,784            972,832
+  Additional paid-in capital                           1,595,376                 --
+  Deferred compensation                                (100,000)                 --
+  Retained earnings                                      530,491            508,075
+  ---------------------------------------------------------------------------------
+    Total stockholders' equity                         3,113,651          1,480,907
+    -------------------------------------------------------------------------------
+                                                     $ 7,049,268        $ 4,544,825
+
+
+</TABLE>
+
+SEE ACCOMPANYING NOTES TO CONSOLIDATED FINANCIAL STATEMENTS.
+
+                                                 18
+
+<PAGE>
+
+              SENTO TECHNICAL INNOVATIONS CORPORATION AND SUBSIDIARIES
+
+<TABLE>
+<CAPTION>
+
+CONSOLIDATED STATEMENTS OF OPERATIONS
+                                                  Eleven months ended     Year ended
+                                                    March 31, 1997      April 30, 1996
+                                                    ----------------------------------
+<S>                                                    <C>                 <C>
+Revenues:
+  Software licenses and maintenance                    $ 8,855,887         $ 7,694,695
+  Hardware sales and service                             8,753,699           6,178,706
+- --------------------------------------------------------------------------------------
+    Total revenues                                      17,609,586          13,873,401
+    ----------------------------------------------------------------------------------
+Cost of sales:
+  Software licenses and maintenance                      3,927,280           3,100,738
+  Hardware sales and service                             7,514,278           5,351,305
+  ------------------------------------------------------------------------------------
+    Total cost of sales                                 11,441,558           8,452,043
+    ----------------------------------------------------------------------------------
+    Gross profit                                         6,168,028           5,421,358
+Selling, general, and administrative expenses            5,711,061           4,605,402
+Research and development expense                           524,787             268,028
+- --------------------------------------------------------------------------------------
+    Income (loss) from operations                         (67,820)             547,928
+Other income (expense):
+  Interest income                                           67,769              24,918
+  Interest expense                                         (21,878)            (31,831)
+  Other income (expense)                                    60,484              (4,715)
+  ------------------------------------------------------------------------------------
+    Total other income (expense)                           106,375             (11,628)
+    ----------------------------------------------------------------------------------
+    Income before taxes                                     38,555             536,300
+    Income tax expense (note 5)                             16,139             196,745
+    ----------------------------------------------------------------------------------
+    Net income                                          $   22,416          $  339,555
+    ----------------------------------------------------------------------------------
+    ----------------------------------------------------------------------------------
+    Net income per share                                 $     .01           $    0.08
+    ----------------------------------------------------------------------------------
+    ----------------------------------------------------------------------------------
+
+</TABLE>
+
+SEE ACCOMPANYING NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS.
+
+                                           19
+
+<PAGE>
+
+              SENTO TECHNICAL INNOVATIONS CORPORATION AND SUBSIDIARIES
+
+<TABLE>
+<CAPTION>
+
+CONSOLIDATED STATEMENTS OF STOCKHOLDERS' EQUITY
+
+ELEVEN MONTHS ENDED MARCH 31, 1997 AND YEAR ENDED APRIL 30, 1996
+
+                                                                                  
+                                                             Common stock                                
+                                                       ------------------------       Additional  
+                                                       ------------------------        paid-in  Treasury   Deferred 
+                                                          Shares         Amount        capital    stock  compensation
+- ---------------------------------------------------------------------------------------------------------------------
+<S>                                                    <C>              <C>            <C>      <C>         <C> 
+Balances at April 30, 1995                               183,000        $ 2,000          7,410  (170,000)         --  
+Issuance of treasury stock                                 4,386             --         65,790    43,860          --  
+Business combination (note 2)                          3,703,939        970,832        (73,200)  126,140          --  
+Net income                                                    --             --             --        --          --  
+- ---------------------------------------------------------------------------------------------------------------------
+Balances at April 30, 1996                             3,891,325        972,832             --        --          --  
+Issuance of common stock (note 8)                        446,048        111,512      1,449,656        --          --  
+Employee stock purchases                                  13,761          3,440         38,720        --          --  
+Deferred compensation related to 
+  grant of stock warrants (note 8)                            --             --        107,000        --    (107,000) 
+Amortization of deferred 
+  compensation (note 8)                                       --             --             --        --       7,000  
+Net income                                                    --             --             --        --          --  
+- ---------------------------------------------------------------------------------------------------------------------
+Balances at March 31, 1997                             4,351,134    $ 1,087,784      1,595,376        --    (100,000)
+- ---------------------------------------------------------------------------------------------------------------------
+- ---------------------------------------------------------------------------------------------------------------------
+
+</TABLE>
+
+
+
+<TABLE>
+<CAPTION>
+
+                                                                  Total
+                                                     Retained  stockholders'
+                                                     earnings    equity
+- ------------------------------------------------------------------------
+<S>                                                   <C>       <C>    
+Balances at April 30, 1995                            583,884    423,294
+Issuance of treasury stock                                 --    109,650
+Business combination (note 2)                        (415,364)   608,408
+Net income                                            339,555    339,555
+- ------------------------------------------------------------------------
+Balances at April 30, 1996                            508,075  1,480,907
+Issuance of common stock (note 8)                          --  1,561,168
+Employee stock purchases                                   --     42,160
+Deferred compensation related to                                       
+  grant of stock warrants (note 8)                         --         --
+Amortization of deferred                                               
+  compensation (note 8)                                    --      7,000
+Net income                                             22,416     22,416
+- ------------------------------------------------------------------------
+Balances at March 31, 1997                            530,491  3,113,651
+- ------------------------------------------------------------------------
+
+</TABLE>
+
+SEE ACCOMPANYING NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS.
+
+                                             20
+
+<PAGE>
+
+
+            SENTO TECHNICAL INNOVATIONS CORPORATION AND SUBSIDIARIES
+
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+
+                                                  Eleven months              
+                                                      ended        Year ended
+                                                  March 31, 1997  April 30, 1996
+                                                  --------------  --------------
+Cash flows from operating activities:
+
+   Net income                                      $    22,416     $  339,555
+   Adjustments to reconcile net income to net
+      cash provided by operating activities:
+      Depreciation and amortization                    176,685         53,699
+      Amortization of deferred compensation              7,000             --
+      Provision for losses on accounts receivable       85,276             --
+      Stock issued in lieu of compensation                  --        109,650
+      Changes in operating assets and liabilities:                           
+          Accounts receivable                       (1,049,059)      (632,225)
+          Inventories                                 (155,465)         9,604
+          Other current assets                        (233,838)            --
+          Other assets                                (550,000)            --
+          Deferred income taxes                        (62,443)         3,127
+          Accounts payable                           1,166,099          5,327
+          Accrued liabilities                         (228,386)       (95,987)
+          Income taxes payable                          79,492         18,561
+          Deferred maintenance revenue                  82,485        331,170
+          Other deferred revenue                      (214,691)       219,650
+          -------------------------------------------------------------------
+             Net cash provided by (used in) 
+              operating activities                    (874,429)       362,131
+             ----------------------------------------------------------------
+Cash flows from investing activities:
+   Capital expenditures                               (246,316)      (153,336)
+   Proceeds from sale of oil and gas properties        197,000             --
+   Net cash acquired in business combination                --        484,781
+   --------------------------------------------------------------------------
+             Net cash provided by (used in)
+              investing activities                     (49,316)       331,445
+             ----------------------------------------------------------------
+Cash flows from financing activities:
+   Proceeds from issuance of stock                   1,603,328             --
+   Principal payments of long-term debt                 (7,051)       (87,527)
+   Deposits for private placement subscription              --        180,510
+   --------------------------------------------------------------------------
+             Net cash provided by financing
+              activities                             1,596,277         92,983
+             ----------------------------------------------------------------
+Net increase in cash                                   672,532        786,559
+Cash at beginning of year                            1,552,806        766,247
+- -----------------------------------------------------------------------------
+Cash at end of year                                $ 2,225,338     $1,552,806
+- -----------------------------------------------------------------------------
+
+SUPPLEMENTAL DISCLOSURES OF CASH FLOW INFORMATION
+Cash paid for interest                             $    21,878     $   21,016
+Cash paid for income taxes                                  --        378,587
+
+
+SEE ACCOMPANYING NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS.
+
+                                        21
+
+<PAGE>
+          SENTO TECHNICAL INNOVATIONS CORPORATION AND SUBSIDIARIES
+
+               NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS
+                     MARCH 31, 1997 AND APRIL 30, 1996
+
+(1) SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+
+Description of Business
+
+     Sento Technical Innovations Corporation (Sento) is the parent of Spire 
+Technologies, Inc. (STI), Spire Systems Incorporated (SSI) (formerly Spire 
+Technologies Systems Division, Inc.), DewPoint Distributed Solutions 
+Incorporated (DewPoint), and Centerpost Innovations Pty Limited (Centerpost) 
+(collectively, the Company). STI, SSI, and DewPoint are resellers of computer 
+software and hardware, and also provide technical support for certain 
+software. The Company's customers consist of business and governmental 
+entities, geographically dispersed throughout the United States and abroad. 
+Revenues from foreign sales for the periods ended March 31, 1997 and April 
+30, 1996, were approximately eight and nine percent of total sales, 
+respectively, most of which were from Europe. As a reseller, the Company is 
+dependent on third-party suppliers, with over seventy percent of the 
+Company's revenues derived from products it obtains from three suppliers.
+
+Basis of Presentation
+     The consolidated financial statements as of and for the periods ended 
+March 31, 1997 and April 30, 1996, include the consolidated financial 
+statements of Sento and its wholly owned subsidiaries. All significant 
+intercompany balances and transactions have been eliminated in consolidation. 
+
+     During the first quarter of fiscal 1997, the Company changed its 
+year-end from April 30 to March 31. Accordingly, the accompanying 1997 
+consolidated balance sheet is as of March 31, 1997, and the related 
+consolidated statements of operations, stockholders' equity, and cash flows 
+are for the eleven months then ended. Comparable summary income statement 
+amounts for the eleven-month periods ending March 31, 1997 and 1996, are: 
+revenues, $17,609,586 and $12,709,678; gross profit, $6,186,028 and 
+$4,988,428; income tax expense, $16,139 and $256,745; net income $22,416 and 
+$348,996; and net income per share, $0.01 and $0.08.
+
+Inventories
+     Inventories consist primarily of computer software disks and supplies 
+and third party supplier products which are stated at the lower of cost or 
+market. Cost is determined using the first-in, first-out (FIFO) method.
+
+Fixed Assets
+     Fixed assets are stated at cost. Depreciation of fixed assets is 
+computed on the straight-line method over the estimated useful lives of 
+individual classes of assets. The estimated useful lives of the individual 
+classes of assets are as follows:
+
+<TABLE>
+
+<S>                                                   <C>
+Buildings............................................   40 years
+Furniture and equipment.............................. 3-10 years
+Transportation equipment.............................    5 years
+
+</TABLE>
+
+Revenue Recognition
+
+     Revenue from the sale of software licenses and hardware sales is 
+recognized at the time of delivery. Revenue from maintenance contracts and 
+customer service is recognized as the service is performed. Deferred 
+maintenance revenue consists of payments received on software maintenance 
+contracts and recorded as revenue over the period of the contract, which is 
+typically one year.
+
+Research and Development
+
+     Research and development costs are expended as incurred.
+
+Software Development Costs and Purchased Software
+
+     Statement of Financial Accounting Standards (SFAS) No. 86, ACCOUNTING 
+FOR THE COSTS OF COMPUTER SOFTWARE TO BE SOLD, LEASED, OR OTHERWISE MARKETED, 
+provides for the capitalization of certain software development costs upon 
+the establishment of technological feasibility
+
+                                      22
+<PAGE>
+            SENTO TECHNICAL INNOVATIONS CORPORATION AND SUBSIDIARIES
+
+(1) SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES (CONTINUED)
+
+which is defined by the Company as the completion of a working model of the 
+software. Internal software development costs incurred to date that are 
+eligible for capitalization have been immaterial.
+
+Income Taxes
+
+     Income taxes are accounted for under the asset and liability method. 
+Deferred tax assets and liabilities are recognized for the future tax 
+consequences attributable to differences between the financial statement 
+carrying amounts of existing assets and liabilities and their respective tax 
+bases. Deferred tax assets and deferred tax liabilities are measured using 
+enacted tax rates expected to apply to taxable income in the years in which 
+those temporary differences are expected to be recovered or settled. The 
+effect on deferred tax assets and deferred tax liabilities of a change in tax 
+rates is recognized in income in the period that includes the enactment date.
+
+Net Income Per Common and Common Equivalent Share
+
+     Net income per common and common equivalent share is computed based on 
+the weighted average number of common shares and dilutive common stock 
+equivalents outstanding during the period. Stock options and warrants are 
+considered common stock equivalents. The number of shares used to compute net 
+income per common and common equivalent share were 4,251,240 and 3,992,768 
+shares for the periods ended March 31, 1997 and April 30, 1996, respectively.
+
+Stock-Based Compensation
+
+     Effective May 1, 1996, the Company adopted the footnote disclosure 
+provisions of Statement of Financial Accounting Standards No. 123, ACCOUNTING 
+FOR STOCK BASED COMPENSATION (SFAS 123). SFAS 123 encourages entities to 
+adopt a fair value based method of accounting for stock options or similar 
+equity instruments. However, it also allows an entity to continue measuring 
+compensation cost for stock based compensation using the intrinsic-value 
+method of accounting prescribed by Accounting Principles Board Opinion No. 
+25, ACCOUNTING FOR STOCK ISSUED TO EMPLOYEES (APB 25). The Company has 
+elected to continue to apply the provisions of APB 25 and provide pro forma 
+footnote disclosures required by SFAS 123.
+
+Concentration of Credit Risk
+
+     In the normal course of business, the Company provides unsecured credit 
+terms to its customers. Accordingly, the Company performs ongoing credit 
+evaluations of its customers and maintains allowances for possible losses 
+which, when realized, have been within the range of management's 
+expectations. No one customer accounted for more than ten percent of total 
+revenues.
+
+Use of Estimates
+
+     Management of the Company has made a number of estimates and assumptions 
+relating to the reporting of assets, liabilities, revenues, and expenses and 
+the disclosure of contingent assets and liabilities to prepare these 
+consolidated financial statements in conformity with generally accepted 
+accounting principles. Actual results could differ from those estimates.
+
+(2) BUSINESS COMBINATION AND ASSET DISPOSITION
+
+     On January 23, 1996, STI and SSI, which were both privately held by the 
+same group of owners, entered into an agreement and plan of reorganization 
+(Exchange Agreement) with Amacan Resources Corporation (Amacan) wherein STI 
+and SSI became wholly owned subsidiaries of Amacan. The Exchange Agreement 
+was approved by Amacan stockholders on April 18, 1996. Since 1974, Amacan, a 
+publicly-traded company, has been almost exclusively engaged as a participant 
+with others in oil and gas operations and development. Amacan's principal 
+assets were working interests in producing oil and gas wells and options or 
+rights to participate in the drilling of additional wells. As part of the 
+merger, Amacan was renamed Spire International Corp., which was subsequently 
+changed to Sento Technical Innovations Corporation.
+
+     Upon approval of the Exchange Agreement by the Amacan stockholders, (a) 
+the 389,102 shares of Amacan's common stock previously outstanding (as 
+adjusted for a reverse stock split) remained outstanding and (b) Amacan 
+issued an additional 3,502,223 shares of its com-
+
+                                      23
+<PAGE>
+
+         SENTO TECHNICAL INNOVATIONS CORPORATION AND SUBSIDIARIES
+
+(2) BUSINESS COMBINATION AND ASSET DISPOSITION (CONTINUED)
+
+mon stock for all of the issued and outstanding shares of STI and SSI's 
+common stock. The business combination is treated for accounting purposes as 
+a "reverse merger" wherein STI and SSI are shown as the acquiring companies 
+because the former stockholders of STI and SSI have the significant majority 
+of the outstanding common stock after the combination, and management of STI 
+and SSI has become the management of the combined companies. The business 
+combination is accounted for using the purchase method of accounting with the 
+net assets of Amacan being recorded at their fair value at the date of 
+closing and the operating results of Amacan prior to the business combination 
+are not included with the historical operating results of STI and SSI.
+
+     The following pro forma financial information presents the combined 
+results of operations of STI, SSI, and Amacan as if the acquisition had 
+occurred as of May 1, 1995. The pro forma financial information does not 
+necessarily reflect the results of operations that would have occurred had 
+STI, SSI, and Amacan constituted a single entity during such periods.
+
+<TABLE>
+
+                            Year ended April 30, 1996
+            -------------------------------------------------------
+            <S>                                        <C>
+            Net sales................................. $ 14,020,329
+            Net income................................      238,365
+            Net income per share......................         0.06
+
+</TABLE>
+
+     As described above, the Company acquired Amacan's interest in oil and 
+gas producing properties in the business combination. On May 1, 1996, these 
+properties were sold to an unrelated party. The properties were recorded at 
+fair market value as of acquisition date, as determined by the subsequent 
+sales price. Accordingly, no gain or loss was recorded on the disposal. The 
+operating loss for the oil and gas operations during the period from date of 
+acquisition (April 18, 1996) to April 30, 1996, was insignificant.
+
+(3) NOTE PAYABLE TO BANK AND LONG-TERM DEBT
+
+     The Company has a $1,000,000 line of credit, at prime plus two percent, 
+secured by the Company's accounts receivable. No amounts were outstanding at 
+March 31, 1997 or April 30, 1996. The line expired June 1, 1997. The Company 
+anticipates that the line will be renewed.  The Company also has a $350,000 
+line of credit at prime plus two percent, secured by equipment, expiring May 
+1, 1999. 
+
+     Long-term debt at March 31, 1997 and April 30, 1996, consisted of the 
+following:
+
+<TABLE>
+                                                                                                1997           1996
+                                                                                              -----------------------
+<S>                                                                                           <C>            <C>
+8.25% first mortgage payable in monthly installments of $1,173, including
+  interest, with final payment of $107,417 due July 15, 1999, secured by the 
+  Company's land and building with a book value of $250,167..............................     $118,095       $121,909
+
+8.70% SBA loan payable in monthly installments of $1,078, including interest, 
+  secured by the Company's land and building with a book value of $250,167...............       98,266        101,503
+                                                                                              ---------       -------
+Total long-term debt.....................................................................      216,361        223,412
+                                                                                              ---------       -------
+Less current portion.....................................................................        8,286          7,721
+                                                                                              ---------       -------
+Long-term debt, excluding current portion................................................     $208,075       $215,691
+                                                                                              ---------       -------
+                                                                                              ---------       -------
+     Aggregate maturities of long-term debt are as follows: 1998, $8,286; 1999, $9,009; 2000, $114,094; 2001, $4,979; 2002, 
+$5,430; and thereafter $74,563.
+
+</TABLE>
+
+                                      24
+
+
+<PAGE>
+
+            SENTO TECHNICAL INNOVATIONS CORPORATION AND SUBSIDIARIES
+
+(4) OTHER ASSETS
+
+EXCLUSIVE LICENSE AGREEMENT
+
+  Effective July 1, 1996, the Company entered into an Exclusive License and 
+Technical Assistance Agreement (the ASI License Agreement) with Australian 
+Software Innovations (Services) Pty. Ltd. (ASI), a limited company organized 
+under the laws of the Commonwealth of Australia. ASI, which maintains its 
+principal office in Sydney, Australia, develops and markets performance 
+monitoring software and provides related technical consulting services to 
+customers located in Asia, Europe, the United Kingdom, and the United States. 
+Under the terms of the ASI License Agreement, the Company acquired an 
+exclusive license (the License) in North and South America during a five-year 
+term (which may be extended for up to three additional five-year periods) to 
+use, market, modify, manufacture, assemble, test, and modify ASI's SYSMON 
+software program. In consideration of the grant of the License, the Company 
+paid to ASI a non-refundable license fee in the amount of $550,000 and agreed 
+to pay royalties to ASI during the term of the ASI License Agreement, based 
+upon product and maintenance revenues generated by the Company for the use, 
+sale, license, and provision of technical support and maintenance services 
+attributable to the SYSMON software. In the event the Company fails to meet 
+certain performance criteria set forth in the ASI License Agreement, ASI may 
+terminate the exclusive nature of the ASI License throughout the remainder of 
+the ASI License term. The license fee, included in other assets in the 
+accompanying 1997 consolidated balance sheet, is being amortized over five 
+years with $73,600 of amortization expended during fiscal 1997. Royalties 
+paid to ASI totaled $123,502 during fiscal 1997.
+
+OPTION AGREEMENT
+
+  On September 10, 1996, the Company entered into an ASI Option Agreement by 
+and among the Company, ASI, Kilat Holdings Pty. Limited (Kilat), a limited 
+company organized under the laws of Australia and the sole shareholder of ASI 
+and Eng Lee and Mary Lee, the sole shareholders of Kilat (the ASI 
+Shareholders). Under the terms of the ASI Option Agreement, ASI granted to 
+the Company an option (the ASI Option), exercisable at the Company's 
+discretion any time prior to September 10, 1997, to acquire all or any 
+portion of the tangible and intangible assets of ASI, as determined by the 
+Company.
+  As consideration for the grant of the ASI Option, the Company paid to ASI 
+an option purchase payment in the amount of $130,000. In the event the 
+Company elects to exercise the ASI Option for the purchase of all ASI assets, 
+the Company has agreed to pay to ASI the exercise price of $1,405,000, 
+consisting of cash in the amount of $1,055,000 and 87,500 shares of common 
+stock, subject to certain adjustments to the cash portion of the exercise 
+price to reflect the profit or loss of ASI for the period from April 30, 1996 
+through October 31, 1996. The Company has also agreed to assume certain 
+liabilities associated with the assets of ASI to be acquired by the Company. 
+The option purchase payment, included in other current assets in the 
+accompanying 1997 consolidated balance sheet, will either be included as part 
+of the purchase price upon exercise or expensed if not exercised by the end 
+of the option period.
+
+(5) INCOME TAXES
+
+<TABLE>
+<CAPTION>
+Income tax expense consists of:
+                                                       Current        Deferred           Total
+                                                     -----------------------------------------
+<S>                                                  <C>             <C>             <C>
+Eleven months ended March 31, 1997:
+   Federal                                             $  66,187     $ (54,438)      $  11,749
+   State                                                  12,395        (8,005)          4,390
+   -------------------------------------------------------------------------------------------
+                                                       $  78,582     $ (62,443)      $  16,139
+                                                     -----------------------------------------
+Year ended April 30, 1996:
+   Federal                                             $ 167,935     $   3,127       $ 171,062
+   State                                                  25,683            --          25,683
+   -------------------------------------------------------------------------------------------
+                                                       $ 193,618     $   3,127       $ 196,745
+                                                     -----------------------------------------
+</TABLE>
+                                       25
+
+<PAGE>
+
+            SENTO TECHNICAL INNOVATIONS CORPORATION AND SUBSIDIARIES
+
+  Actual income tax expense differs from the "expected" tax expense (computed by
+applying the U.S. federal corporate income tax rate of 34 percent to income 
+before income taxes) as follows:
+
+                                                           1997            1996
+                                                           ----            ----
+Computed "expected" tax expense                       $   13,108      $ 182,342
+Increase (decrease) in income taxes resulting from:
+   State income taxes, net of federal tax benefit          2,897         16,950
+   Other                                                     134         (2,547)
+- --------------------------------------------------------------------------------
+     Income tax expense                               $   16,139      $ 196,745
+     ---------------------------------------------------------------------------
+
+  The tax effects of temporary differences that give rise to current deferred 
+tax assets and noncurrent deferred tax liabilities at March 31, 1997 and April 
+30, 1996, are presented below:
+                                                           1997           1996
+                                                           ----           ----
+Current deferred tax assets:
+  Other accrued expense                                $  28,125             --
+  Deferred compensation                                       --         16,514
+  Allowance for doubtful accounts                         70,792         42,723
+  -----------------------------------------------------------------------------
+       Total gross current deferred assets                98,917         59,237
+Less valuation allowance                                      --         16,514
+- -------------------------------------------------------------------------------
+       Net current deferred tax assets                    98,917         42,723
+  -----------------------------------------------------------------------------
+Noncurrent deferred tax assets:
+  Investment tax credit carry forwards                    10,095         10,095
+  Net operating loss carry forward                        60,624         73,903
+  -----------------------------------------------------------------------------
+       Total gross noncurrent deferred assets             70,719         83,998
+Less valuation allowance                                  20,181          3,667
+- -------------------------------------------------------------------------------
+       Net noncurrent deferred tax assets                 50,538         80,331
+Deferred tax liability -- tax depreciation in excess 
+ of book depreciation                                     55,871         91,913
+- -------------------------------------------------------------------------------
+       Net noncurrent deferred tax liability          $    5,333       $ 11,582
+  -----------------------------------------------------------------------------
+
+  The valuation allowance for deferred tax assets as of May 1, 1995, was 
+$-0-. The net change in the total valuation allowance for the periods ended 
+March 31, 1997 and April 30, 1996, was an increase of $-0- and $20,181, 
+respectively.  
+
+  Subsequently recognized tax benefits relating to the valuation allowance 
+for deferred tax assets as of March 31, 1997, will be allocated as an income 
+tax benefit to be reported in the consolidated statement of operations.
+
+  At March 31, 1997, the Company has net operating loss carryforwards for 
+federal income tax purposes of $178,306 which expire from 2004 to 2011. The 
+Company also has investment tax credit carryforwards for federal income tax 
+purposes of $10,095 which expire from 1997 to 2001.
+
+(6) LEASES
+
+  The Company has operating leases for office space and equipment. The 
+Company incurred rent expense of $115,276 and $80,426 for the periods ended 
+March 31, 1997 and April 30, 1996, respectively. Future minimum rent payments 
+under existing operating leases are $149,340 in fiscal 1998 and $15,540 in 
+fiscal 1999.
+
+                                       26
+
+<PAGE>
+
+(7) RETIREMENT PLAN
+
+     The Company has a qualified defined contribution retirement plan under 
+Section 401(k) of the Internal Revenue Code. The plan covers all employees 
+who meet minimum age and service requirements, and allows participants to 
+defer a portion of their annual compensation on a pretax basis. In addition, 
+employer contributions are made at the discretion of the Board of Directors. 
+Participants are fully vested at all times in employee contributions. 
+Employer contributions vest over a six-year period. Employer contributions of 
+$11,438 and $12,376 were made for the periods ended March 31, 1997 and April 
+30, 1996, respectively.
+
+(8) COMMON STOCK
+
+STOCK OPTION PLAN
+
+     The Company has adopted a stock option plan (the Plan) pursuant to which 
+the Company's Board of Directors may grant stock options to officers and key 
+employees. The Plan authorizes grants of options to purchase up to 1,000,000 
+shares of authorized but unissued common stock. Stock options are granted 
+with an exercise price not less than the stock's fair market value at the 
+date of grant. All stock options have ten-year terms, vest at from 
+10 percent - 40 percent per year at the end of each of the first four years. 
+At March 31, 1997, there were 156,815 additional shares available for grant 
+under the Plan. 
+
+Stock option activity during the periods indicated is as follows:
+
+<TABLE>
+<CAPTION>
+                                                                                     Years ended March 31,
+                                                                   -------------------------------------------------------------
+                                                                              1997                           1996
+                                                                   ------------------------------  -----------------------------
+                                                                    Number      Weighted-average     Number     Weighted-average
+                                                                   of shares     exercise price     of shares    exercise price
+                                                                   ------------------------------  -----------------------------
+<S>                                                                <C>              <C>            <C>            <C>
+Balance outstanding at beginning of year                            516,685          $ 2.28            --           $  --
+Granted                                                             366,500            4.19         516,685           2.28
+Forfeited                                                           (40,000)           2.28            --              --
+- --------------------------------------------------------------------------------------------------------------------------------
+Balance outstanding at end of year                                  843,185            3.19         516,685           2.28
+- --------------------------------------------------------------------------------------------------------------------------------
+- --------------------------------------------------------------------------------------------------------------------------------
+Options exercisable at end of year                                  115,502            1.35          41,830           1.24
+- --------------------------------------------------------------------------------------------------------------------------------
+- --------------------------------------------------------------------------------------------------------------------------------
+Weighted-average fair value of options granted during the year                       $ 1.22                         $ 0.50
+
+</TABLE>
+
+The following table summarizes information about stock options outstanding at 
+March 31, 1997:
+
+<TABLE>
+<CAPTION>
+
+                              Number         Weighted-average                          Number 
+                           outstanding at       remaining        Weighted-average    exercisable at     Weighted-average
+   Exercise price          March 31, 1997    contractual life     exercise price     March 31, 1997      exercise price
+- --------------------------------------------------------------------------------------------------------------------------
+  <S>                       <C>                  <C>                <C>               <C>                 <C>
+       $ 1.24                 278,685              8.6                $ 1.24            111,502$             1.24
+         3.50                 198,000              8.9                  3.50               --                3.50
+         4.00                 227,000              9.8                  4.00               --                4.00
+         4.50                 139,500              9.8                  4.50              4,000              4.50
+                              --------                                                  -------
+                              843,185                                                   115,502
+                              --------                                                  -------
+                              --------                                                  -------
+
+</TABLE>
+
+     The fair value of each option grant is estimated on the date of grant 
+using the Black Scholes option-pricing model with the following 
+weighted-average assumptions: 1997 -expected dividend yield zero percent, 
+risk-free interest rate of 6.75 percent, expected life of 5 years, and 
+expected stock-price volatility of 62.9 percent; 1996 -expected dividend 
+yield zero percent, risk-free interest rate of 6.15 percent, expected 
+stock-price volatility of 62.9 percent, and expected life of five years. 
+
+
+                                   27
+<PAGE>
+
+(8) COMMON STOCK (CONTINUED)
+
+     The Company applies APB 25 in accounting for its Plan and, accordingly, 
+no compensation cost has been recognized for its stock options in the 
+consolidated financial statements. Had the Company determined compensation 
+cost based on the fair value at the grant date for its stock options under 
+SFAS No. 123, the Company's net income would have been reduced to the pro 
+forma amounts indicated below:
+
+                                                 1997               1996
+                                              -----------------------------
+Net income                   As reported      $ 22,416            339,555
+                              Pro forma          5,597            323,478
+Primary earnings per share   As reported          0.01               0.08
+                              Pro forma             --               0.08
+
+     Pro forma net income reflects only options granted in 1997 and 1996. 
+Therefore, the full impact of calculating compensation cost for stock options 
+under SFAS No. 123 may not be representative of the effects on reported net 
+income for future years.
+
+STOCK WARRANTS
+
+     The Company has also granted warrants to outside consultants. On January 
+20, 1997, 70,000 warrants were granted with an exercise price of $3.75 per 
+share and on March 20, 1997, 30,000 warrants were granted with an exercise 
+price of $4.50 per share. Each warrant expires two years from date of grant. 
+Total compensation expense of $107,000 will be recognized over two years of 
+which $7,000 was recognized in 1997.
+
+PRIVATE PLACEMENT
+
+     In June 1996, the Company completed a private offering of unregistered 
+shares of its common stock to certain accredited investors. The shares were 
+offered in units, at $7.00 per unit, with each unit consisting of two shares 
+of common stock plus one warrant to buy one share of common stock for $3.50 
+before April 30, 1998. In the offering, the Company sold 223,024 units 
+consisting of 446,048 shares of common stock and warrants to purchase 223,024 
+shares of common stock from which $1,561,168 of net cash proceeds were 
+received.
+
+EMPLOYEE STOCK PURCHASE PLAN
+
+     A stock purchase plan was adopted by the Board of Directors of the 
+Company on April 18, 1996, and approved by the shareholders on September 10, 
+1996, under which 200,000 shares of common stock were reserved for possible 
+future issuance to employees of the Company and other individuals thereunder. 
+The purpose of the stock purchase plan is to provide a method whereby 
+employees of the Company and certain of its subsidiaries, except for 
+employees who own beneficially five percent or more of the voting stock of 
+the Company, may acquire a proprietary interest in the Company through the 
+purchase of shares of common stock. The stock purchase plan is intended to 
+qualify as an "employee stock purchase plan" under Section 423 of the 
+Internal Revenue Code. As of March 31, 1997, the Company had sold 13,761 
+shares to employees of the Company pursuant to the stock purchase plan.
+
+(9) SUBSEQUENT EVENTS
+
+     In May 1997, the Company commenced a private offering to sell 
+unregistered shares of its common stock to certain accredited investors. The 
+shares were offered in 240,000 units, at $12.50 per unit, with each unit 
+consisting of three shares of common stock together with one warrant to buy 
+one share of common stock for $5.50 before May 31, 1999.
+
+                                   28
+
+<PAGE>
+
+
+                             MARKET INFORMATION
+
+PRICE RANGE OF COMMON STOCK
+
+     The Company's Common Stock is listed under the trading symbol "SNTO" on 
+the NASDAQ Small Cap Market maintained by the National Association of 
+Securities Dealers (the "NASD"). Prior to November 19, 1996, the Common Stock 
+was quoted on the over-the-counter bulletin board market maintained by the 
+NASD. The following table sets forth the range of bid prices for the Common 
+Stock in the over-the-counter market for the periods indicated prior to 
+November 19, 1996, as reported by the National Quotation Bureau, as well as 
+the range of closing trading prices for the Common Stock on the Small Cap 
+Market for the periods indicated thereafter. The over-the-counter market 
+quotations represent prices in the market between dealers in securities; they 
+do not include retail markup, markdown, or commissions, and do not 
+necessarily represent actual transactions. Prices shown for the quarter ended 
+April 30, 1996 and subsequent periods reflect the consummation of the 
+Company's share exchange in April 1996, including a one-for-seven reverse 
+split of the shares of Common Stock issued and outstanding at the effective 
+time of the share exchange.
+
+<TABLE>
+
+                                Bid Prices/Closing Prices
+                              -----------------------------
+                              -----------------------------
+QUARTER ENDED                    HIGH               LOW
+- -----------------------------------------------------------
+<S>                             <C>                <C>
+March 31, 1997                 $ 5.00             $ 3.50
+December 31, 1996                3.63               3.38
+September 30, 1996               6.00               4.25
+June 30, 1996 (two months)       6.00               1.3125
+
+April 30, 1996                 $ 6.00             $ 1.3125
+January 31, 1996                  .375               .03125
+October 30, 1995                  .125               .03125
+July 31, 1995                     .125               .05
+
+
+</TABLE>
+
+                                      29
+
+<PAGE>
+
+                             CORPORATE INFORMATION
+
+BOARD OF DIRECTORS
+GARY B. GODFREY
+Chairman and Chief Executive Officer
+Sento Technical Innovations Corporation
+
+ROBERT K. BENCH
+President and Chief Financial Officer
+Sento Technical Innovations Corporation
+
+BRIAN W. BRAITHWAITE
+Secretary/Treasurer
+Sento Technical Innovations Corporation
+
+WILLIAM A. FRESH (1)(2)
+Private Investor
+
+SHERMAN H. SMITH (1)(2)
+C.P.A. and Partner
+Schmitt, Griffiths, Smith & Co.
+
+KIETH E. SORENSON
+Managing Partner
+Sorenson, Thomas & Co., a private investment company
+
+ENG LEE
+Managing Director
+Australian Software Innovations, Pty., Ltd.
+
+
+CORPORATE OFFICERS
+
+GARY B. GODFREY
+Chairman and Chief Executive Officer
+
+ROBERT K. BENCH
+President and Chief Financial Officer
+
+BRIAN W. BRAITHWAITE
+Secretary/Treasurer
+
+
+SUBSIDIARY OFFICERS
+
+F.J. ALLEN
+President
+Spire Systems, Inc.
+
+GARY B. GODFREY
+President
+Spire Technologies, Inc.
+
+ENG LEE
+Managing Director
+Australian Software Innovations, Pty Ltd.
+
+DOUGLAS D. YATES
+President
+DewPoint Distributed Solutions, Inc.
+
+
+ANNUAL MEETING OF STOCKHOLDERS
+
+The annual meeting of stockholders will be held on Monday, August 18, 1997, 
+at 10:00 a.m. at the offices of Kimball, Parr, Waddoups, Brown & Gee, 185 
+South State Street, Salt Lake City, Utah 84147.
+
+CORPORATE HEADQUARTERS
+
+SENTO TECHNICAL INNOVATIONS CORPORATION
+311 North State Street - Orem, Utah 84057
+Tel (801)226-6222 - Fax (801) 224-2426
+
+
+
+
+
+
+
+
+INTERNATIONAL OFFICES AND AFFILIATES
+
+AUSTRALIA/SOUTHEAST ASIA
+AUSTRALIAN SOFTWARE INNOVATIONS, PTY. LTD.
+Level 3 - 51 Rawson Street - Epping, NSW 2121 Australia
+
+UNITED KINGDOM/EUROPE
+AVALAN TECHNOLOGY, LTD.
+Willow Grange - Church Road - Watford, Herts WD1 3QA U.K.
+
+
+CORPORATE INFORMATION
+
+TRANSFER AGENT AND REGISTRAR
+Atlas Stock Transfer
+Murray, Utah
+
+INDEPENDENT AUDITORS
+KPMG Peat Marwick LLP
+Salt Lake City, Utah
+
+COMMON STOCK
+The company's stock is listed on the NASDAQ Stock Market under the symbol SNTO
+
+CORPORATE COUNSEL
+Kimball, Parr, Waddoups, Brown & Gee
+Salt Lake City, Utah
+
+INVESTOR RELATIONS
+Coffin Communications Group
+Sherman Oaks, California
+
+INVESTOR INFORMATION
+A copy of the Company's annual report, SEC Form 10-KSB, quarterly SEC Form 
+10-QSBs, and press releases are available upon written request to:
+
+     Investor Relations
+     Sento Technical Innovations Corporation
+     311 North State Street
+     Orem, Utah 84057
+
+This information is also available on our web site: www.sento.com
+
+(1) Compensation Committee
+(2) Audit Committee
+
+                                      30
+<PAGE>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-21
+<SEQUENCE>3
+<TEXT>
+
+
+                                   EXHIBIT 21
+
+
+                           Subsidiaries of the Company
+
+
+
+                                               JURISDICTION OF
+               NAME                     INCORPORATION OR ORGANIZATION
+               ____                     _____________________________
+
+
+          Spire Technologies, Inc.                Utah
+
+          Spire Systems Incorporated              Utah
+
+          DewPoint Distributed Solutions          Utah
+             Incorporated
+
+          Centerpost Innovations Pty. Ltd.        New South Wales, Australia
+
+<PAGE>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-27
+<SEQUENCE>4
+<TEXT>
+
+<TABLE> <S> <C>
+
+<ARTICLE> 5
+<LEGEND>
+THIS SCHEDULE CONTAINS SUMMARY FINANCIAL INFORMATION EXTRACTED FROM SENTO
+TECHNICAL INNOVATIONS CORPORATION CONSOLIDATED BALANCE SHEET AND STATEMENT OF
+OPERATIONS AS OF AND FOR THE ELEVEN MONTHS ENDED MARCH 31, 1997 AND IS QUALIFIED
+IN ITS ENTIRETY BY REFERENCE TO SUCH FINANCIAL STATEMENTS.
+</LEGEND>
+       
+<S>                             <C>
+<PERIOD-TYPE>                   YEAR
+<FISCAL-YEAR-END>                          Mar-31-1997
+<PERIOD-END>                               Mar-31-1997
+<CASH>                                       2,225,338
+<SECURITIES>                                         0
+<RECEIVABLES>                                3,363,635
+<ALLOWANCES>                                 (223,210)
+<INVENTORY>                                    155,465
+<CURRENT-ASSETS>                             5,861,789
+<PP&E>                                       1,070,347
+<DEPRECIATION>                               (359,268)
+<TOTAL-ASSETS>                               7,049,268
+<CURRENT-LIABILITIES>                        3,722,209
+<BONDS>                                              0
+<PREFERRED-MANDATORY>                                0
+<PREFERRED>                                          0
+<COMMON>                                     1,087,784
+<OTHER-SE>                                   2,025,867
+<TOTAL-LIABILITY-AND-EQUITY>                 7,049,268
+<SALES>                                     17,609,586
+<TOTAL-REVENUES>                            17,609,586
+<CGS>                                       11,441,558
+<TOTAL-COSTS>                                6,235,848
+<OTHER-EXPENSES>                                     0
+<LOSS-PROVISION>                                     0
+<INTEREST-EXPENSE>                              21,878
+<INCOME-PRETAX>                                 38,555
+<INCOME-TAX>                                    16,139
+<INCOME-CONTINUING>                                  0
+<DISCONTINUED>                                       0
+<EXTRAORDINARY>                                      0
+<CHANGES>                                            0
+<NET-INCOME>                                    22,416
+<EPS-PRIMARY>                                      .01
+<EPS-DILUTED>                                      .01
+        
+
+
+</TABLE>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

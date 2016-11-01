@@ -1,0 +1,677 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ VGMMejLVCFg4lxbbFBJlAsMZJuvG9EzHajuKnTgZgYIKYz7bRcuTnIJAHybASsGw
+ MV+WuOqHf8V37mMgWv4EiA==
+
+<SEC-DOCUMENT>0000020819-01-000002.txt : 20010327
+<SEC-HEADER>0000020819-01-000002.hdr.sgml : 20010327
+ACCESSION NUMBER:		0000020819-01-000002
+CONFORMED SUBMISSION TYPE:	10KSB
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20001231
+FILED AS OF DATE:		20010326
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			CLARY CORP
+		CENTRAL INDEX KEY:			0000020819
+		STANDARD INDUSTRIAL CLASSIFICATION:	ELECTRICAL INDUSTRIAL APPARATUS [3620]
+		IRS NUMBER:				950630196
+		STATE OF INCORPORATION:			CA
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10KSB
+		SEC ACT:		
+		SEC FILE NUMBER:	001-03489
+		FILM NUMBER:		1578930
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1960 S WALKER AVE
+		CITY:			MONROVIA
+		STATE:			CA
+		ZIP:			91016
+		BUSINESS PHONE:		8183594486
+
+	MAIL ADDRESS:	
+		STREET 1:		1960 S WALKER AVENUE
+		CITY:			MONROVIA
+		STATE:			CA
+		ZIP:			91016
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>10KSB
+<SEQUENCE>1
+<FILENAME>0001.txt
+<TEXT>
+
+
+
+
+                          UNITED STATES
+
+               SECURITIES AND EXCHANGE COMMISSION
+
+                     Washington, D.C. 20549
+
+                            FORM 10-KSB
+
+
+Annual  Report Pursuant to Section 13 or 15(d) of the
+Securities Exchange Act of 1934
+
+For the Fiscal Year Ended   December 31, 2000
+
+Commission file Number     1-3489
+
+                   CLARY CORPORATION
+(Exact name of Registrant as specified in its charter.)
+
+    CALIFORNIA, U.S.A.                    95-0630196
+(State or other jurisdiction of        (I.R.S. Employer
+incorporation or organization)        Identification No.)
+
+1960 S WALKER AVE. MONROVIA CA, U.S.A.        91016
+(Address of Principal Executive Offices)   (Zip Code)
+
+Registrant's telephone number, including area code:
+(626) 359-4486
+
+Securities registered pursuant to Section 12 (b) of the Exchange Act:
+
+Title of each class: COMMON STOCK, $1.00 PAR VALUE
+
+Name of each exchange on which registered: PACIFIC EXCHANGE
+
+
+
+Indicate by check mark whether the Registrant (1) has filed
+all reports required to be filed by Section 13 or 15(d) of the
+Securities Exchange Act of 1934 during the preceding 12 months
+(or for such shorter period that the Registrant was required to
+file such reports), and (2) has been subject to such filing
+requirements for the past ninety (90) days.
+
+
+                         YES [X]        NO [ ]
+
+Check if there is no disclosure of delinquent filers in response to item 405
+of Regulation S-B is not contained in this form, and no disclosure will be
+contained, to the best of Registrant's knowledge in definite proxy or informa
+tion statements incorporated by reference to part III of this Form 10-KSB or
+any amendment to this Form 10-KSB.   [X]
+
+Issuer's revenues for its most fiscal year were $5,516,000
+
+The aggregate market value of the voting stock held by non-affiliates of the
+Registrant as of March 10,2000 amounted to $1,356,000.
+
+The Registrant had 1,807,419 shares of common stock outstanding as of March
+09, 2001.
+
+
+LISTING OF DOCUMENTS INCORPORATED BY REFERENCE:
+- ----------------------------------------------
+
+(1) Part II-Items 5, 6, 7 and 8 - Annual Report to Shareholders for fiscal year
+    ended December 31, 2000.
+
+(2) Part III - Items 10-11, 12 and 13. Definitive proxy statement for the 2001
+    Annual Meeting of Shareholders to be filed pursuant to Regulation 14A
+    within 120 days after the close of the fiscal year ended December 31, 2000.
+
+
+
+Item 1:
+
+Business
+- ----------------
+The Registrant's operations are presently conducted through its Continuous Power
+Systems located in Monrovia, California. The product presently being produced
+consists of a line of uninterruptible power supplies (U.P.S.) ranging in size
+from 500VA to 10 kVA. The U.P.S is a power system that can both smooth out
+voltage fluctuations and maintain a power load under power blackout conditions.
+U.P.S.'s are designed to provide fifteen minutes or more (depending on the
+number of batteries) of support power to computers, scientific products, commu
+nication systems, traffic signals or systems, or similar equipment should the
+utility power fail. While the utility power is available, the U.P.S. provides
+isolation from voltage or frequency transients which may disturb the systems
+operations.
+
+The Registrant markets the U.P.S line through trade publications, tradeshows and
+telemarketing. However, sales are generally made by the Registrant through
+distributors who sell the products to end-users. For the year ended 2000, Nova
+Power Systems, a major distributor through its direct and indirect sales
+accounted for approximately forty-nine percent of the Registrant's total sales
+
+The Registrant assembles finished components and other materials to produce its
+products. Relatively little fabrication or raw materials is done by the Regis-
+trant. The Registrant purchases raw materials and finished components used in
+production of the Registrant's products, some of which are imported. Thus, the
+Registrant is dependent upon the ability of suppliers to meet performance speci-
+fications, quality standards and delivery schedules. The Registrant endeavors
+to assure availability of source of supplies and does not anticipate any
+shortages which would adversely affect production schedules.
+
+Competition:
+- -----------
+The markets for the Registrant's products are highly competitive. The Registrant
+is aware of approximately thirty competitors for online UPS products. Many of
+these companies have far greater financial resources than the Registrant.
+The Registrant competes primarily on the basis of the quality, reliability and
+technical sophistication of its products, although price remains an important
+factor. The Registrant attempts to locate niche markets for UPS products where
+greater reliablity is required by customers.
+
+Substantially, all of the Registrant's products are the subject of on-going
+modification and improvement and are subject to scientific and technological
+changes.
+
+
+Backlog
+- -------
+The following table sets forth the amounts representing orders believed by the
+Registrant to be firm. The backlog at December 31,2000 represents orders which
+the Registrant expects to deliver during 2001. There are no seasonal effects
+on orders.
+
+<TABLE>
+
+                     FIRM BACKLOG AS OF DECEMBER 31,
+                     ------------------------------
+                     2000                      1999
+                    ------                    -------
+<S>                 <C>                        <C>
+Backlog            $232,000                  1,535,000
+                   ========                   ========
+
+
+Other:
+- ------
+As of December 31, 2000, the Registrant employed 39 people, all of which are
+full-time employees.
+
+Other required information to the Registrant's description of business
+operations and its general development is incorporated herein by reference
+to pages 1 through 3 in the Registrant's 2000 Annual Report to Shareholders
+and the Registrant's financial statements contained therein, each incorporated
+by reference in this report.
+
+<PAGE>
+
+</TABLE>
+<TABLE>
+
+Item 2.
+- -------
+     Properties                Sq. Feet Leased     Annual Rental    Term Date
+     ----------                ---------------     -------------    ---------
+<S>    <C>                        <C>                   <C>            <C>
+    Home Office and Continuous    26,000              $110,000      05/31/2001
+    Power Systems Division        ========            =========     ==========
+    Monrovia, California
+
+
+During fiscal year 2000 properties were utilized at approximately 70% of
+capacity.
+
+The Registrant believes its properties are suitable for its needs.
+
+
+
+<PAGE>
+
+                                PART II
+                               ---------
+                                                                  ANNUAL REPORT
+                                                                     PAGES
+                                                                 --------------
+Item 4:
+- -------
+Submission Matters to a vote of Security Holders - NOT APPLICABLE
+
+
+Item 5:
+- -------
+Market for Registrant's Common Equity and Related Shareholder
+Matters.                                                                  10
+
+Item 6:
+- -------
+Selected Financial Data                                                   11
+
+Item 7:
+- -------
+Management's Discussion and Analysis of Financial Conditions and
+Results of Operations.                                                     3
+
+Item 8:
+- -------
+Financial Statements and Supplemental Data                             4-5-6
+
+On above items 5 through 8 reference is made to the Registrant's
+Annual Report to Shareholders for the year ended December 31,2000
+incorporated by reference in this report.
+
+Item 9:
+- -------
+Disagreements on Accounting and Financial Disclosure - NONE
+
+<PAGE>
+
+                             PART III
+                             --------
+                                                                   PROXY PAGES
+                                                                   ------------
+
+Item 10:
+- --------
+Directors and Executive Officers of the Registrant                     2-3
+
+The Directors and Executive Officers are incorporated by reference
+to information contained in Registrant's Proxy Statement to be
+filed wirh the commission pursuant to Regulation 14A.
+
+Item 11:
+- --------
+Management Remuneration and Transactions                                4-5
+
+Item 12:
+- --------
+Security Ownership of Certain Beneficial Owners and Management           4
+
+Item 13:
+- --------
+Certain Relationships and Related Transactions                           2-5
+
+Items 10 through 13 are incorporated by reference to information
+in the Registrant's proxy statement to be filed with the Commission
+pursuant to regulation 14A.
+
+<PAGE>
+
+                             PART IV
+                             -------
+
+Item 14: Exhibits, Financial Statement Schedules and Reports on Form 8-K
+- -------
+
+(a)  (1) Financial Statements                                   Annual Report
+         --------------------                                       Pages
+                                                                -------------
+
+The following financial statements are included in the
+Registrant's Annual Report to Shareholders for the year
+ended December 31, 2000 (incorporated by reference in
+this report):
+
+
+REPORT OF INDEPENDENT CERTIFIED PUBLIC ACCOUNTANTS                  10
+
+STATEMENTS OF OPERATIONS FOR THE YEARS ENDED DECEMBER
+31, 2000, 1999 AND 1998                                              4
+
+BALANCE SHEETS FOR THE YEARS ENDED DECEMBER 31, 2000
+AND 1999                                                             5
+
+STATEMENTS OF STOCKHOLDERS' EQUITY FOR THE THREE YEARS
+ENDED DECEMBER 31, 2000                                              7
+
+STATEMENTS OF CASH FLOWS FOR THE YEARS ENDED DECEMBER
+31, 2000, 1999 AND 1998                                              6
+
+NOTES TO THE FINANCIAL STATEMENTS                                   7-10
+
+     (2) Report of Independent Certified Public Accountants on Schedules
+         ---------------------------------------------------------------
+
+The following schedules are included in this report:
+
+   II- Valuation Accounts and Reserves - 2000 and 1999
+
+   Schedules other than those listed above are omitted as not applicable,
+   not required or the information is included in the financial statements
+   or notes thereto.
+
+    (3) Exhibits
+        --------
+        3.1) Articles of incorporation with all amendments to date
+             (incorporated by reference from Registrant's Annual
+             Report with Form 10K for the year ended December 31,
+             1992).
+
+        3.2) Bylaws of the Registrant (incorporated by reference from
+             Registrant's Annual Report with Form 10K for the year ended
+             December 31, 1992).
+
+        4.1) 9.5% Convertible Subordinated Note Agreement (incorporated by
+             reference from Registrant's Annual Report with Form 10K for
+             the year ended December 31, 1992).  See Exhibit 3.1.
+
+        4.2) 9% Convertible Subordinated Note Agreement (incorporated by
+             reference from Registrant's Annual Report with Form 10-KSB
+             for the year ended December 31,1998).
+
+
+      10.1) Credit Agreement between Clary Corporation and First American
+            Bank (incorporated by reference with this report).
+
+
+
+      10.4) 1996 Stock Option Plan (incorporated with Form 10KSB for the year
+            ended December 31, 1996).
+
+
+      13.1) Annual Report to Shareholders for the year ended December 31, 2000
+            (incorporated by reference in this report).
+
+
+
+(b) Reports on Form 8-K - NONE
+
+<PAGE>
+      REPORT OF INDEPENDENT CERTIFIED PUBLIC ACCOUNTANTS ON SCHEDULE
+
+
+Board of Directors
+Clary Corporation
+
+
+In connection with our audit of financial statements of Clary Corporation
+referred to in our report dated February 06,2001, which is included in the
+annual report to security holders and incorporated by reference in Part II
+of this form, we have audited Schedule II for the years ended December 31,
+2000 and 1999. In our opinion, this schedule presents fairly, in all material
+respects, the information required to be set forth therein.
+
+
+STONEFIELD JOSEPHSON, INC.
+Certified Public Accountants
+Santa Monica, California
+February 06,2001
+
+<PAGE>
+
+</TABLE>
+<TABLE>
+                      CLARY CORPORATION
+            SCHEDULE II - VALUATION ACCOUNTS AND RESERVES
+                YEARS ENDED DECEMBER 31, 2000 AND 1999
+
+                        BALANCE AT     ADDITIONAL                    BALANCE
+                        BEGINNING      CHARGED TO                   AT END OF
+     DESCRIPTION        OF PERIOD     COST & EXPNS.   DEDUCTIONS     PERIOD
+     -----------       ----------    -------------    ----------   -----------
+<S>                       <C>             <C>            <C>            <C>
+
+Year ended 12/31/00
+
+Allowance for doubtful
+accounts and inventory
+reserves                 $149,000        $80,000        $119,000      $110,000
+                        =========       =========       =========     ========
+
+Year ended 12/31/99
+
+Allowance for doubtful
+accounts and inventory
+reserves                  $26,000       $129,000         $6,000       $149,000
+                        =========       =========       ========      ========
+
+
+
+
+
+<PAGE>
+
+
+                        CLARY CORPORATION
+
+                           SIGNATURES
+
+Pursuant to the requirements of Section 13 or 15(d) of the Securities Exchange
+Act of 1934, the Registrant has duly caused this report to be signed on its
+behalf by the undersigned, thereunto duly authorized.
+
+
+
+
+                                   CLARY CORPORATION
+
+
+                                  By: D.G Ash
+                                      Treasurer
+
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, this report
+has been signed below by the following persons on behalf of the Registrant and
+in the capacities and on the dates indicated.
+
+
+
+
+                                           John G.Clary
+Date:March 22,2001               Chairman of the Board, President
+                                  and Chief Executive Officer
+
+
+
+                         Directors:
+
+
+Date:MARCH 22,2001
+                                   Donald G. Ash
+
+Date:MARCH 22,2001
+                                   John G. Clary
+
+Date:MARCH 22,2001
+                                   John P. Clary
+
+Date:MARCH 22,2001
+                                   John J.  Guerin
+
+<PAGE>
+
+Exhibit 10.1
+- ------------
+
+       CREDIT AGREEMENT BETWEEN CLARY CORPORATION AND FIRST AMERICAN BANK
+
+
+
+
+                         FIRST AMERICAN BANK
+                         8941 E VALLEY BLVD
+                       ROSEMEAD, CA. 91770-0549
+
+
+
+April 19,2000
+
+
+CLARY CORPORATION
+ATTN:JOHN G. CLARY, CHAIRMAN/CEO
+1960 S WALKER AVE.
+MONROVIA, CA. 91016
+
+
+Ref: Renewal of Line of Credit
+
+
+Dear Mr. Clary:
+
+First American Bank is pleased to confirm the approval to renew the line of
+credit for  Clary Corporation in the amount of $750,000.00.
+
+The line of credit will be subject to the following terms and conditions:
+
+Amount:$750,000.00
+
+Terms:     Accounts Receivable line of credit. Interest only monthly with
+           balance due at maturity. Advances are limited to 80% of accounts
+           receivable from 1-90 days  from invoice date.
+
+Maturity:  May 1,2001 (Maturity set to coincide with receipt of FYE-Audited
+           Statements)
+
+Interest: Wall Street Journal Prime rate plus 1.9%, actual day basis, payable
+          monthly. (Rate currently 9.00% WSJP + 1.9% = 10.90%)
+          Change:Formerly FAB Base rate plus 1.5%(Currently 10.00%+1.5%=11.50%)
+
+Fee:      Annual commitment fee of .20%=$1,500.00 (Includes documentation
+          fee of $250.00).
+
+Guarantor: None (Publicly traded company)
+
+Collateral:Security Agreement and UCC-1 filing on all business assets based
+           03-28-96 (First lien position)
+
+
+
+Concentracion Exceptions:
+
+NOVA POWER SOLUTIONS, INC.- $350,000 Limit
+(Subject to up-dated Financial Information)
+
+Nova is a long time distributor of Clary's UPS systems on the east coast.
+The company has been a distributor for over 13 years for Clary Corp. According
+to Don Ash the company is the primary distributor of Clary Corporation's
+defense work for the U.S. Navy. The company sells to governmental and commercial
+concerns, and has annual sales in excess of $2MM. The company's D&B dated
+04-12-00 reflects clear history. Accounts receivable have normally paid within
+60 days over the past three years.
+
+
+CELERA GENOMICS, INC./SUB. OF PERKIN-ELMER CORP. - $250,000 Limit
+
+We are requesting to continue the $250M limit. The limit would apply to the
+combined invoiced amount to either Perkin-Elmer Corp. and subsidiary Celera
+Genomics Corp. According Don Ash, Celera has developed equipment to map human
+DNA and does genomic research, and is using Clary's digital UPS. According to
+the Dun&Bradstreet report dated 04-12-00, Perkin-Elmer (Consolidated) has sales
+of $1,216,897,000. The company's worth is $803,025,000. The Company employs
+7,188. History is "Clear" and financial condition is "Good"
+
+
+PRC,INC., SUB. OF LITTON INDUSTRIES - $250,000 Limit
+
+The D&B report dated 05-21-99 reflects that PRC is wholly owned subsidiary
+of Litton Industries. PRC has 5,500 employees and its operations are to provide
+information technology and systems based solutions for federal, state, and local
+governments and commercial clients. Separate financial information is not
+provided. The consolidated sales of Litton Industries  per D&B report dated
+05-24-99 reflects sales of $4,399,888,000. The company's worth is $1,257,843,362
+The company employs 34,900 people. History is "Clear" and financial condition
+is "Good".
+
+
+
+Conditions:
+
+      1) Borrower fo furnish annual CPA-Audited financial statements with an
+         unqualified opinion of auditors that the statements present fairly in
+         all material respect the financial position of Clary Corporation
+         within 120 days from end of fiscal year end.(In compliance)
+
+      2) Borrower to furnish on a quaterly basis 10Q report, with the
+         accompanying company prepared statement within 45 days from end period
+         report.(In compliance)
+
+      3) Borrower to provided monthly "Borrower's Certificate", with accounts
+         receivable aging and accounts payable aging, within 15 days of month
+         end. (In compliance)
+
+      4) Bank, at its option, to perform accounts receivable audits at borrower
+         expenses, to be performed on an annual basis approximately 6 months
+         from fiscal year end audited statement.
+
+      5) Insurance in adequate amount covering all inventory and fixed assets
+         naming First American Bank  as loss payee.
+
+
+      6) Accounts Receivable subject to a maximun of the lesser of an 80%
+         advance rate on eligible accounts receivable or the line limit of
+         $750,000, excluded from the borrowing base is as follows:
+
+
+         a) Accounts Receivable over 90 days from invoice date.
+         b) Cross aged accounts where more than 50% of the balance is past due
+         c) Progress billings
+         d) Contra accounts
+         e) Employee accounts
+         f) Consignment accounts
+         g) U.S. Government accounts in excess of 10% of total A/R.
+         h) Foreign accounts unless FCIA insured.
+         i) Concentrations in excess of $150,000, unless otherwise approved
+            by bank.(See Concentration Exceptions)
+
+
+      7) Borrower to adhere to the following financial covenants:
+
+         1) Maximun affective debt to worth ratio 1.25:1
+            Calculated as: TOTAL DEBT(Less amounts subordinated to bank)
+            divided by total NET WORTH(plus amounts subordinated to bank)
+            (Ratio as of 12/31/99 is 0.95:1) (In compliance)
+            RMA comparison studies reflects debt to worth ratios Low-7:1
+            Mid-range-1.4:1 and High end 2.9:1
+
+         2) Minimum current ratio of 1.50:1 (Ratio as of 12/31/99 is 1.91:1)
+            (In compliance).
+            RMA comparison studies reflects ratios:
+            High 2.6:1; Mid-range 1.8:1  and Low 1.3:1
+
+         3) Minimum working capital of $1,200.000.
+            (Working capital was $1,264,000 as of 12/31/99) (In compliance)
+            Change: Formerly $1,250,000
+
+
+
+This letter is not meant to be an attempt to define all of the terms and
+conditions in this financing. Rather it is intended only to outline certain
+of the basic points of our understanding around which the documentation is
+structured.
+
+A copy of this letter must be signed as evidence of your agreement to terms.
+The letter must be returned to the bank no later than  April 30,2000.
+
+We value you as our customer and believe this arrangement is evidence of our
+confidence in you and Clary Corporation.
+
+Should you have any question please let me know.
+
+Sincerely,
+
+
+
+
+
+              SIGNATURE                        TITLE
+              =========                       =======
+<S>            <C>                             <C>
+
+
+FIRST AMERICAN BANK
+
+/s/Michael K, Scott                       Vice-President
+- -------------------
+
+Agreement to terms and conditions, as outlined  04-20-2001
+                                                ----------
+                                         CLARY CORPORATION
+
+/s/ John G. Clary                      Chairman/President/CEO
+- -----------------
+
+
+</TABLE>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

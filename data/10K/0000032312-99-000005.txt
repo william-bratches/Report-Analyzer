@@ -1,0 +1,1469 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ MDdWHqmQDNW//7ecTys7fqQXXn8lcpi3ITv4KO77GQMk8jpjsBl0cckVpctRTTAt
+ U0SwygnJ5CCgoMDvAXe6Tg==
+
+<SEC-DOCUMENT>0000032312-99-000005.txt : 19990630
+<SEC-HEADER>0000032312-99-000005.hdr.sgml : 19990630
+ACCESSION NUMBER:		0000032312-99-000005
+CONFORMED SUBMISSION TYPE:	10KSB
+PUBLIC DOCUMENT COUNT:		3
+CONFORMED PERIOD OF REPORT:	19990331
+FILED AS OF DATE:		19990629
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			EMCEE BROADCAST PRODUCTS INC
+		CENTRAL INDEX KEY:			0000032312
+		STANDARD INDUSTRIAL CLASSIFICATION:	RADIO & TV BROADCASTING & COMMUNICATIONS EQUIPMENT [3663]
+		IRS NUMBER:				131926296
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0331
+
+	FILING VALUES:
+		FORM TYPE:		10KSB
+		SEC ACT:		
+		SEC FILE NUMBER:	001-06299
+		FILM NUMBER:		99654320
+
+	BUSINESS ADDRESS:	
+		STREET 1:		P O BOX 68
+		STREET 2:		SUSQUEHANNA STREET EXTENSION WEST
+		CITY:			WHITE HAVEN
+		STATE:			PA
+		ZIP:			18661-0068
+		BUSINESS PHONE:		7174439575
+
+	MAIL ADDRESS:	
+		STREET 1:		P O BOX 68
+		STREET 2:		SUSQUEHANNA STREET EXTENSION
+		CITY:			WHITE HAVEN
+		STATE:			PA
+		ZIP:			18661
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	ELECTRONICS MISSILES & COMMUNICATIONS INC
+		DATE OF NAME CHANGE:	19920703
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>10KSB
+<SEQUENCE>1
+<TEXT>
+
+                   U.S. SECURITIES AND EXCHANGE COMMISSION
+                            WASHINGTON, D.C.  20549
+                                   FORM 10-KSB
+(Mark One)
+
+   X               ANNUAL REPORT UNDER SECTION 13 OR 15(d) OF THE
+ ------            SECURITIES EXCHANGE ACT OF 1934 [Fee Required]
+                         For the fiscal year ended March 31, 1999
+ -------           TRANSITION REPORT UNDER SECTION 13 OR 15(d) OF
+                                THE SECURITIES EXCHANGE ACT OF 1934 [No Fee
+                   Required]
+                         For the transition period from _________
+                         _________________ to ___________________
+                  Commission file number 1-6299
+                  EMCEE BROADCAST PRODUCTS, INC.
+          (Name of small business issuer in its charter)
+             DELAWARE                       13-1926296
+(State or other jurisdiction of   (I.R.S. Employer Identification
+ incorporation or organization)    Number)
+ SUSQUEHANNA STREET EXTENSION,
+  PO BOX 68, WHITE HAVEN, PA                  18661-0068
+(Address of principal executive                (Zip Code)
+ offices)
+Issuer's telephone number: (570) 443-9575
+Securities registered under Section 12(b) of the Exchange Act:
+Title of each class:                 Name of each exchange on which
+                                               registered:
+        Common                     NASDAQ National Market
+
+Securities registered under Section 12(g) of the Exchange Act:
+                               None
+                         (TITLE OF CLASS)
+<PAGE>
+Check whether the issuer (1) filed all reports required to be filed by Section
+13 or 15(d) of the Exchange Act during the past twelve (12) months (or for
+such shorter period that the registrant was required to file such reports),
+and (2) has been subject to such filing requirements for the past ninety (90)
+days.
+                                        Yes   X    No
+Check if there is no disclosure of delinquent filers in response to Item 405
+of Regulation S-B is not contained in this form, and no disclosure will be
+contained, to the best of registrant's knowledge, in definitive proxy or
+information statements incorporated by reference in Part III of this Form
+10-KSB or any amendment to this Form 10-KSB. __
+State issuer's revenues for its most recent fiscal year, $5,895,567.
+The aggregate market value of the voting stock held by non-affiliates of the
+Registrant is $7,521,680 computed by reference to the closing bid price of the
+stock at June 24, 1999. This computation is based on the number of issued and
+outstanding shares held by persons other than directors and officers of the
+Registrant.
+State the number of shares outstanding of each of the issuer's classes of
+common equity, as of the latest practicable date:
+                CLASS                  OUTSTANDING AT JUNE 24, 1999
+Common stock, par value $.01-2/3              3,760,840
+ per share
+               DOCUMENTS INCORPORATED BY REFERENCE
+
+          Items 9, 10, 11 and 12 in Part III of this report are incorporated
+by reference from the Proxy Statement expected to be filed within one hundred
+twenty (120) days of the close of the Registrant's fiscal year ended March 31,
+1999.
+Transitional Small Business Disclosure Format (Check One)
+                                        Yes      ;  No   X
+<PAGE>
+                  EMCEE BROADCAST PRODUCTS, INC.
+                           FORM 10-KSB
+                 FISCAL YEAR ENDED MARCH 31, 1999
+                        TABLE OF CONTENTS
+PART I.
+ITEM 1.   DESCRIPTION OF BUSINESS                       1
+ITEM 2.   DESCRIPTION OF PROPERTY                       6
+ITEM 3.   LEGAL PROCEEDINGS                             7
+
+ITEM 4.   SUBMISSION OF MATTERS TO A VOTE OF
+          SECURITY HOLDERS                              8
+PART II.
+ITEM 5.   MARKET FOR COMMON EQUITY AND RELATED
+          STOCKHOLDER MATTERS                           8
+ITEM 6.   MANAGEMENT'S DISCUSSION AND ANALYSIS
+          OR PLAN OF OPERATION                          9
+ITEM 7.   FINANCIAL STATEMENTS                         27
+ITEM 8.   CHANGE IN AND DISAGREEMENTS WITH ACCOUNTANTS
+          ON ACCOUNTING AND FINANCIAL DISCLOSURES      27
+PART III.
+ITEM 9.   DIRECTORS, EXECUTIVE OFFICERS, PROMOTERS
+          AND CONTROL PERSONS; COMPLIANCE WITH
+          SECTION 16(a) OF THE EXCHANGE ACT            28
+ITEM 10.  EXECUTIVE COMPENSATION                       28
+ITEM 11.  SECURITY OWNERSHIP OF CERTAIN BENEFICIAL
+          OWNERS AND MANAGEMENT                        28
+ITEM 12.  CERTAIN RELATIONSHIPS AND RELATED
+          TRANSACTIONS                                 28
+ITEM 13.  EXHIBITS AND REPORTS ON FORM 8-K             29
+          SIGNATURES                                   31
+<PAGE>                                 PART I
+ITEM 1.  DESCRIPTION OF BUSINESS
+          The Registrant (sometimes alternatively referred to in this report
+as the Company or EMCEE) is a corporation, organized and existing under the
+laws of the State of Delaware, having been incorporated in 1960.
+          The Registrant is engaged principally in the manufacture and sale of
+Multichannel Multipoint Distribution Service (MMDS) microwave transmitters and
+related equipment for the wireless cable industry and low power television
+(LPTV) transmitters and related equipment for the television broadcast
+industry. These principal products are distributed primarily through the
+Registrant's sales staff and independent representatives, with most sales
+occurring in the commercial, educational and private television system
+markets. The Registrant also provides all services relative to the design,
+procurement and installation of television broadcast stations, with the
+exception of licensing submissions.
+          For more than the past three years, the Company's primary sales and
+marketing focus has been on the wireless cable industry. While the Company was
+also involved in the manufacture and sale of products to the LPTV market
+during the same period of time, LPTV product sales have been overwhelmingly
+subordinate to the Company's MMDS products. The Company anticipates that its
+MMDS sales will continue to dominate in both domestic and foreign markets.
+          At March 31, 1999, the Registrant employed 45 people, of whom 43
+were full time employees.
+          The Registrant has a variety of raw material sources available to
+conduct its present business. However, substantial periods of lead time for
+delivery are sometimes experienced by the Registrant, making it necessary to
+inventory varied quantities of materials.
+          Significant portions of the Registrant's revenues come from
+contracts with customers who generally do not place orders on a regular basis.
+In addition, the timing of these contracts relate to economic and regulatory
+developments over which the Registrant has little or no control.
+          In fiscal year 1999, purchases by the United States government
+constituted, in the aggregate, $718,000, or approximately 12.2% of the
+Company's net sales. Although these purchases were significant in both amount
+and as a percentage of sales, the Company is not dependent on the federal
+government for future sales.
+          The Registrant's principal suppliers are Andrew Corporation,
+Scientific Atlanta, Inc. and Microwave Filter Company, Inc.
+          Substantially all of the Registrant's domestic products must receive
+Federal Communications Commission (FCC) approval prior to being marketed and
+sold. As of the date of this report, the Registrant is awaiting approval of a
+TTV 500ES 500 watt VHF transmitter and a TTS100DS 100 watt digital transmitter
+(MMDS).
+<PAGE>
+     While FCC regulations can have an effect on the demand for the
+Registrant's domestic products, the Registrant does not presently know of any
+existing governmental regulation and does not anticipate any probable
+governmental regulation which would have a material effect on its business.
+However, recently issued FCC regulations concerning high definition television
+(HDTV) may, for an interim period ending as early as 2006, have created a
+temporary market for a 2.5 kilowatt UHF transmitter developed by the
+Registrant and an unaffiliated entity which will facilitate the simulcasting
+of HDTV and ordinary television signals. In fact, in April 1999, the Company
+exhibited this transmitter at the annual National Association of Broadcasters
+Convention and sold the first unit in fiscal year 1999.
+          Through a subsidiary, the Registrant is involved in a joint venture
+with another entity to provide wireless high speed Internet access. Wireless
+high speed Internet access involves connecting to the Internet using MMDS
+transmitters. Although more expensive than traditional telephone Internet
+access, wireless high speed Internet access technology, like its name
+suggests, enables the user to access and utilize the Internet much faster than
+through the telephone, so much so that a user can download information and
+data from the Internet approximately 47 times faster than can be done using a
+regular telephone modem. While the joint venture is not presently selling this
+service to consumers or businesses, an application for experimental 2-way
+service in Utah has been approved by the FCC. If this business eventually
+proves successful, the Registrant will seek to become involved in providing
+the service to other areas of the United States as well.
+          By way of a partially owned subsidiary, EMCEE Broadcast Products
+(Chengdu) Company, Ltd., and an agreement with an independent Chinese company,
+the Registrant is seeking to increase sales in China. At present, the
+Registrant sells both companies MMDS transmitter assembly kits. Eventually,
+the Registrant hopes that these companies will be able to carry out
+approximately 40% of the manufacturing process. However, due to current
+competitive conditions in China, sales results thus far have been less than
+initially expected.
+          The amount of money spent on the Registrant's research and
+development activities in fiscal years 1998 and 1999 was,
+respectively,$377,557 and $422,426. An additional $20,000 and $9,000 of
+research and development costs were funded by customers in fiscal years 1998
+and 1999, respectively.
+          In the MMDS industry, the Registrant occupies a strong position
+among its competitors. However, the Company has been experiencing significant
+pricing pressures in the MMDS industry, primarily as a result of a reduction
+in demand for MMDS products, both domestically and internationally.
+          The primary methods of competition in the Registrant's industry are
+product pricing, the ready availability of quality products to accommodate
+demand, offering quality service of products after sale, and maintaining a
+reputation for having a high degree of technical knowledge.
+          There has been no material effect on the Registrant as a result of
+compliance with federal, state or local environmental laws.
+<PAGE>
+          The Registrant's principal corporate logos, EMCEE and EMCEE
+Broadcast Products, are registered in the United States Patent and Trademark
+Office and are used by the Registrant pursuant to a license with its wholly
+owned subsidiary corporation, EMCEE Cellular Inc., which owns the marks. In
+the same manner, the Registrant also uses the trademark, Site Lock, which is a
+mark associated with a product sold by the Registrant that enhances picture
+quality for MMDS systems in close proximity to systems operating on the same
+frequency, and utilizes a patent for a solid state S-band transmitter.
+ITEM 2.  DESCRIPTION OF PROPERTY
+          The Registrant conducts operations at its facility located on 25
+acres, which the Registrant owns, in White Haven, Pennsylvania.
+          The building was constructed specifically for the Registrant in 1968
+and consists of approximately 27,000 square feet, with the majority of the
+area devoted to manufacturing. The front portion of the building, consisting
+of two floors, houses administrative, engineering and sales offices. The land,
+building and improvements are well maintained and in good condition.
+          The Registrant's land, building and improvements are subject to
+encumbrances held by the Registrant's primary lending institution, First Union
+National Bank. These encumbrances secure the Registrant's working line of
+credit, mortgage loan and two term loans with the lender. As of the date of
+this report, the aggregate principal balance of these encumbrances is
+$752,422.
+          Presently, the Registrant also leases a warehouse in White Haven,
+Pennsylvania, in which it stores equipment and archival documents.
+ITEM 3.  LEGAL PROCEEDINGS
+          There is no information relevant to the Registrant which must be
+disclosed under this Item 3.
+ITEM 4.  SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS
+          No matter was submitted to a vote of security holders during the
+fourth quarter of fiscal year 1999.
+                             PART II
+ITEM 5.  MARKET FOR COMMON EQUITY AND RELATED STOCKHOLDER MATTERS
+          The NASDAQ National Market is the principal market on which the
+Registrant's common stock is traded.
+<PAGE>
+MARKET INFORMATION
+STOCK PRICE
+          The table below presents the high and low bid prices of the
+Registrant's common equity for the two most recent fiscal years:
+
+                  FISCAL YEAR 1999                   FISCAL YEAR 1998
+QTR ENDED: JUNE 30  SEPT 30  DEC 31  MAR 31  JUNE 30  SEPT 30  DEC 31  MAR 31
+(BID) HIGH $2.875   $1.438   $1.219  $2.375  $4.25   $4.375   $4.375   $3.25
+(BID) LOW  $2.875   $1.125   $1.125  $2.125  $1.97   $2.03   $2.625   $2.813
+          The above high/low bid information was obtained from the NASDAQ
+Stock Market, Inc.
+HOLDERS
+          At March 31, 1999, the number of holders of the Registrant's common
+stock was 1,543.
+DIVIDENDS
+          No dividends were declared during fiscal year 1998 or fiscal year
+1999. The Registrant's loan documents with its primary lending institution
+contain certain financial covenants with which the Registrant must comply in
+order to declare and pay dividends on its common stock.
+ITEM 6.  MANAGEMENT'S DISCUSSION AND ANALYSIS OR PLAN OF OPERATION
+RESULTS OF OPERATIONS
+SAFE HARBOR STATEMENT UNDER THE PRIVATE  SECURITIES LITIGATION
+REFORM ACT OF 1995:
+          Any statements contained in this report which are not historical
+facts are forward looking statements; and, therefore, many important factors
+could cause actual results to differ materially from those in the forward
+looking statements. Such factors include, but are not limited to, changes
+(legislative, regulatory and otherwise) in the Multichannel Multipoint
+Distribution Service (MMDS) or Low Power Television (LPTV) industries, demand
+for the Company's products both domestically and internationally, the
+development of competitive products, competitive pricing, the timing of
+foreign shipments, market acceptance of new product introductions (including,
+but not limited to, the Company's digital and Internet products),
+technological changes, economic conditions(both foreign and domestic),
+litigation and other factors, risks and uncertainties identified in the
+Company's Securities and Exchange Commission filings.
+<PAGE>
+          Net sales totaled $5,896,000 for the fiscal year ended March 31,
+1999, a decrease of 35.8% compared to the fiscal year ended March 31, 1998.
+This downward trend in sales has continued since fiscal year 1995 as funding
+for domestic sales has decreased and currency, economic and political problems
+have had a detrimental effect in the international market. Included in the
+prior year's sales of $9,188,000 was a non-recurring cancellation fee of
+$218,000 net of direct costs which represented 2.4% of total sales. The
+Company required a cancellation fee for this foreign contract because the
+Company incurred certain direct costs (included in cost of sales), which
+otherwise would not have been necessary.
+          Domestic demand has weakened as operators in the Multichannel
+Multipoint Distribution Service (MMDS) have received so little new financing
+that several had to declare bankruptcy and/or merge with other operators.
+Domestic sales for the year ended March 31, 1999, of which approximately 82%
+was to the MMDS industry, totaled $2,904,000 (or 49% of total sales) compared
+to domestic sales of $3,625,000 (or 39% of total sales) for the fiscal year
+ended March 31, 1998.
+          Foreign shipments, which were expected to keep the Company
+profitable until several new products were introduced to the market, decreased
+from $5,563,000 for fiscal 1998 to $2,992,000 for fiscal 1999. Unlike the
+domestic market, the demand for EMCEE equipment is high in the foreign
+markets; however, the collapse of currency values, especially in the Pacific
+Rim countries, and the concomitant political crisis decreased the ability to
+complete sales.
+          The Registrant has historically been dependent on foreign sales for
+more than half of total shipments. Foreign shipments comprised 51%, 61% and
+56%of total sales for fiscal years 1999, 1998 and 1997.  The composition of
+those shipments to the following geographic regions is as follows:
+
+       Region                     1999*           1998*         1997*
+- ------------------------------------------------------------------------
+Asia/Pacific Rim                 $1,015        $2,118          $2,689
+Middle East                        $372          $479          $2,113
+South America                      $140          $893            $686
+North America                      $368          $573            $377
+Central America                    $102          $427             $91
+Caribbean                          $423           $11             $52
+Europe                             $365          $249            $182
+Africa                              $52          $206            $137
+Other                              $155          $607            $729
+                                ---------------------------------------
+                                  $2,993       $5,563          $7,056
+
+*Based on customers having $10,000 or more of sales; amounts in thousands
+
+          Gross profit on foreign sales have historically carried higher gross
+profit margins than domestic sales. The gross profit for fiscal 1999 amounted
+to $768,000 or 57% of total gross profit.  Comparable gross profit margins as
+a percent of total gross profit for prior fiscal years were 67% for fiscal
+1998 and 55% for fiscal 1997.
+<PAGE>
+          The largest customer for fiscal 1999 included several divisions of a
+Federal government contract which totaled $718,000 or 12% of total sales and
+was for low power transmitters of a special design.  No single foreign
+customer aggregated more than 5.6% of total sales.  It is significant that
+there were no large single foreign contracts (i.e. in excess of $375,000) for
+fiscal 1999.
+          The Company has reason to believe that foreign shipments will
+increase in fiscal 2000 (year ended March 31, 2000) as foreign economies
+recover. While the domestic market for MMDS television transmitters is not
+expected to improve, the Registrant has developed products for high speed
+Internet and High Definition Television (HDTV) which it believes will produce
+sales volume in fiscal 2000 to provide a budgeted profit margin.
+          Wireless transmission of high speed Internet communications has been
+proven to have significant cost advantages over other high speed methods. The
+Company has invested and plans to continue to invest in high speed Internet
+providers to control and promote this relatively new service.
+          HDTV will provide a strong demand for a low cost low power
+television transmitter to provide simulcast of analog and digital
+transmissions as required by the Federal Communications Commission(FCC)
+regulations.  The Company's TTU2500HD transmitter, which uses digital
+protocol,  was well received at the National Association of Broadcasting
+Convention held in April of 1999.
+          Gross profit for the fiscal year ended March 31, 1999 totaled
+$1,352,000, a decrease of 55.9% from the prior year.  Besides the reduction
+due to the reduced sales volume, this reduction in sales produced additional
+unfavorable manufacturing variances of $716,000 for fiscal 1999 compared to
+unfavorable manufacturing variances of $394,000 for fiscal 1998.  The standard
+margin percent (Net Sales Minus Standard Cost) for equipment and O.E.M.
+shipments for the year ended March 31, 1999 was at 35.1% which was nominally
+less than the 35.3% standard margin percent for the year ended March 31, 1998.
+A cancellation fee of $240,000 ($218,000 net of direct costs) included in the
+prior year sales and the higher manufacturing variances for the current year,
+reduced gross profit as a percent of sales from 33.4% for fiscal 1998 to 22.9%
+for fiscal 1999.  Original equipment manufactured by others, or O.E.M., in
+which the Registrant does not add value,  carry significantly lower margin
+percentages. Sales of O.E.M. totaled $894,000 (15% of total sales) for fiscal
+1999 and $1,811,000 (20% of total sales) for fiscal 1998.
+          The Company has continued to control costs during the period of
+decreasing sales. Total operating expenses were $2,572,000 for fiscal 1999
+compared to $2,886,000 for fiscal 1998.  Selling expense totaled $997,000 for
+the year ended March 31, 1999, a decrease of $413,000 or 29% from the amount
+of $1,410,000 for the year ended March 31, 1998. General and administrative
+expense increased $53,000 and research and development costs increased 12% to
+$422,000 for the year ended March 31, 1999 compared to the year ended March
+31, 1998.
+          The decrease in selling expenses is a continuation of cost controls
+initiated in fiscal 1997 as management recognized the decrease in demand for
+its products.  Salaries and salary related expense (including commissions)
+were reduced by $180,000; shows and conventions by $106,000; sales travel by
+$44,000 and advertising by $25,000 for the fiscal year 1999 compared to the
+prior fiscal year.
+<PAGE>
+          General and administrative expense totaled $1,152,000 for the year
+ended March 31, 1999 compared to $1,099,000 for the year ended March 31, 1998.
+Legal and related fees for the fiscal year 1999 totaled $170,000 compared to
+$70,000 for fiscal year 1998.  Included in this total for the most recent year
+was approximately $80,000 expended to evaluate a merger initiated by a third
+party.  A determination was made by management that the offer was inadequate.
+An additional amount of approximately $25,000 was used for evaluating the
+Registrant's plans for expansion into high speed Internet services.
+          Other than the forgoing legal and related expense, reductions were
+achieved in all major general and administrative expenses with the exception
+of computer expenses which increased $20,000 (54%) compared to fiscal 1998 due
+primarily to the costs associated with Y2K preparedness and virus defensive
+software.
+          Research and development expenses totaled $422,000 for the year
+ended March 31, 1999, an increase of $45,000 or 12% over the expense for the
+year ended March 31, 1998.  Although expenses in the prior year contained a
+credit of $20,000 for expense recovered for non-recurring engineering (NRE)
+from a customer versus $9,000 credit in the latter fiscal year, the Company
+has committed to additional expenditures in order to remain competitive for
+the emerging technology in HDTV and MMDS (including high speed Internet
+products).
+          A loss from operations of $1,220,000 resulted for the twelve months
+ended March 31, 1999 compared to income from operations of $183,000 for the
+same period one year ago.
+          Interest expense for the year ended March 31, 1999 amounted to
+$72,000 compared to $84,000 for the prior year as total long-term debt,
+including the current portion, was reduced from $864,000 as of March 31, 1998
+to $768,000 as of March 31, 1999.
+          Interest income totaled $227,000 for fiscal 1999, a decrease of
+$33,000 from fiscal 1998 due to a decrease in both the amount of funds
+available for investment in Treasury Bills and money markets and in interest
+rates received.
+          For the year ended March 31, 1998, a gain on the sale of the
+Company's remaining investment in a Company involved in wireless television
+communications was sold for a gain of $277,000.
+          In the year ended March 31, 1999 other income, which was comprised
+primarily of cancellation fees on canceled orders of $43,000 and equipment
+rental fees of $10,000 (offset by approximately $3,000 on a loss on a
+conversion of US dollars to French Francs), netted $48,000 compared to other
+income of $25,000 for the year ended March 31, 1998.
+          This net other income of $204,000 for the twelve months ended March
+31, 1999 decreased net loss before federal income tax benefit to $1,015,000
+compared to net income before federal income taxes expense of $662,000 for the
+twelve months ended March 31, 1998.
+          A tax benefit for fiscal 1999 amounted to $433,000 and reduced the
+net loss to $583,000 or $(.15) per share of stock outstanding both for basic
+and diluted shares.  A tax accrual of $146,000 for the fiscal year ended March
+31, 1998 reduced net income to $515,000 or $.12 cents per share of outstanding
+stock for basic and diluted shares.
+<PAGE>
+          Additional taxes were levied by the Internal Revenue Services for
+examination of the prior years  Foreign Sales Corporation (FSC) and
+approximately $54,000 was paid in fiscal 1999. As this amount has been accrued
+in fiscal 1998, no additional adjustments were necessary.
+          There is no state tax liability for periods under review since all
+profitable companies in the consolidated reporting group are domiciled in
+jurisdictions that do not impose income taxes.
+          Selected financial data by quarter for the year ended March 31, 1999
+and 1998 is as follows:
+                   1st Quarter    2nd Quarter    3rd Quarter     4th Quarter
+                  1999     1998   1999   1998   1999   1998    1999     1998
+                         (Thousands of Dollars, except per share amounts)
+               -------------------------------------------------------------
+Net Sales      $2,199  $1,823   $2,166  $2,246  $807  $2,794   $724   $2,235
+Gross
+  profit(loss)   $656    $498     $713    $818   $64  $1,035   ($81)    $718
+Net income(loss)  $16     $20      $40    $134 ($377)   $305  ($262)     $56
+Per Share:
+Basic             Nil    $.01     $.01    $.03   $(.09) $.07   $.07    $  01
+Diluted           Nil    $.01     $.01    $.03   $(.09) $.07   $.07     $.01
+Net Income        $16     $20      $40    $134   ($377) $305  ($262)     $56
+
+          Currency valuation changes decreased foreign sales commencing in the
+third quarter of fiscal 1999 and coupled with the inability of funding
+projects for our core business in the MMDS industry, resulted in the decrease
+in shipments in the third and fourth quarter.
+IMPACT OF YEAR 2000
+          The Registrant has had annual maintenance agreements with its
+primary hardware and software vendors which includes a warranty that these
+systems will be Year 2000 compliant.  Approximately $37,000 was expended in
+both years under discussion for the maintenance coverage.  In addition, the
+Company utilized software programs in fiscal 1999 costing less than $1,000
+which, in management's opinion, will ensure Year 2000 compliance for personal
+computers and inter and intra-communications equipment.  All costs have been
+expensed as incurred.
+          Contingency plans for the Year 2000 related interruptions are being
+developed and will include, but not limited to, the development of emergency
+backup and recovery procedures, the staffing of a centralized team to react to
+unforseen events, replacing electronic applications with mutual
+<PAGE>
+processes, identification of alternate suppliers and increasing raw material
+and finished goods inventory levels.  The potential failure of a power grid or
+public telecommunication system, particularly internationally, will be
+considered in our contingency planning.  All plans are expected to be
+completed by the end of the second quarter in calendar year 1999.
+Liquidity and Capital Resources
+          The Company believes that the domestic demand for MMDS television
+transmitters will be almost non-existent for the fiscal year 2000 due to the
+transition of this spectrum to high speed Internet and telephony service.
+However, the application of high speed Internet service using the same type of
+digital equipment will have a favorable impact on product demand in the latter
+parts of calendar year 1999.
+          The Registrant has developed products for the HDTV transition as
+promulgated by the FCC which requires domestic television stations to transmit
+a digital signal by the year 2006.
+          Foreign shipments for both analog and digital transmitters for MMDS
+service is anticipated to increase in the next several quarters as foreign
+countries are stabilizing the economic and currency abnormalities.
+          Finally, the Company has invested and is planning to increase
+investments in the high speed Internet providers industry which it believes
+has potential for profitable returns as is indicated by the recent purchase of
+MMDS spectrum by such corporations as MCI WorldCom and Sprint.
+          The Company's cash requirements were satisfied in fiscal 1999 from
+cash on-hand and customer deposits.  These funds were sufficient to met the
+Company's working capital requirements and required debt payments.  Along with
+the mortgage and equipment loans of $768,000, the Company has an available
+line of credit of $2,000,000 from its primary lending institution.  The line
+has not been utilized since 1993.
+          The Registrant was in violation of two covenants with its primary
+lending institution as of March 31, 1999.  One covenant requires the
+Registrant to maintain a cash flow to debt service coverage ratio of 3.00 to
+1.00. The debt service coverage ratio as of March 31, 1999 was (3.39). In
+addition, this loan agreement requires  the Company to obtain the
+Institution's written consent prior to investing in or making payments to
+third parties other than in the normal course of business. During fiscal year
+1999 the Registrant made advances to two affiliated third parties for a total
+of $514,000 without such consent. The Registrant received notice of waiver of
+the loan covenant violations that occurred in fiscal 1999.
+          Cash and cash equivalents decreased $957,000 to $1,572,000 as of
+March 31, 1999 compared to March 31, 1998.  Treasury Bills totaled $1,776,000
+as of March 31, 1999, a decrease of $494,000 from the date one year earlier.
+Funds from cash, cash equivalents and T-Bills were used in part to invest in
+high speed Internet companies which are included in other assets and total
+$384,000.  Also included in this category is a note receivable and accrued
+interest of $107,000 due from a principal of one of the partners in the
+investment enterprise and organization costs of subsidiaries of less than
+$1,000.  The note receivable, which bears interest at 1/2% above the prime
+rate as published by the Wall Street Journal, is collateralized by a security
+interest of a 30% ownership interest in a limited liability corporation (LLC).
+The note receivable and related interest is due June 2000.  If there is a
+<PAGE>
+major refinancing of the LLC or a change in the borrower's ownership interest
+in the LLC the note receivable and related interest is due immediately.
+          Accounts receivable totaled $603,000 as of March 31, 1999, down
+approximately 50% from the balance at March 31, 1998 due to reduction of
+shipments.  In the fourth quarters, the Company had shipments of $2,235,000
+for the fourth quarter of fiscal 1998 versus $724,000 for the fourth quarter
+of fiscal 1999.
+          Approximately $31,000 of accounts receivable was charged to bad debt
+expense in fiscal 1999 compared to $25,000 for the previous fiscal year.
+Reserves for doubtful accounts at March 31, 1999 is $35,000, the same as at
+March 31, 1998. The Company performs ongoing credit evaluations of its
+customers and typically requires deposits and a letter of credit on its
+foreign sales and deposits on its domestic sales.  Historically, the Company's
+uncollectible accounts receivable have been immaterial.
+          Inventories increased from $3,439,000 as of March 31, 1998 to
+$3,523,000 as of March 31, 1999  Effective February 1, 1998, inventories,
+which are based on standard costs, were increased to reflect higher labor and
+overhead rates resulting in an increased valuation of $157,000 (4%) valuation.
+     Prepaid expenses as of March 31, 1999 which totaled $661,000 included an
+amount of $582,000 for federal tax credits, $20,000 of prepaid insurance;
+$26,000 prepaid software maintenance and $26,000 prepaid convention expense.
+Prepaid expenses as of March 31, 1998 totaled $115,000 with the federal tax
+benefit amount being the major difference.  Deferred income taxes totaled
+$132,000 as of March 31, 1999 compared to $80,000 for March 31, 1998,  the
+difference due to timing of the federal tax liability.
+          Property, plant and equipment, net after accumulated depreciation,
+decreased $94,000 from March 31, 1998 to March 31, 1999. Additions for the
+fiscal year totaled $180,000, which included $85,000 of inventory that was and
+will continue to be used for demonstration purposes.  Depreciation and
+amortization expense was $274,000 for the twelve months ended March 31, 1999
+or $10,000 more than the previous twelve month period.
+          Other assets increased from $211,000 as of March 31, 1998 to
+$492,000 as of March 31, 1999.  As detailed in its 10KSB of March 31, 1998,
+the Company had invested $210,000 in a limited liability company (LLC) as of
+March 31, 1998 which was formed to operate a high speed Internet system. This
+investment was temporarily increased in fiscal 1999 to $470,000 and, as of
+March 31, 1999 totaled $130,000 which represents a ten percent equity
+ownership of the LLC. The Registrant also invested $254,000 in another LLC
+formed to operate a high speed Internet system. In this LLC, the Registrant is
+a 50% owner; however, operations are not expected to commence until calendar
+year 2000.  These investments (done through a subsidiary) are the beginning of
+the Company's planned entry into the operation of high speed Internet systems
+nationwide.
+          The balance of other assets as previously mentioned, include a note
+receivable plus interest and unamortized organization costs.
+          Note receivable and accrued interest of $510,000, which is offset by
+a like amount, increased by $10,000 for interest accrued as of March 31, 1999.
+The note receivable is fully reserved because it has no definite maturity and
+there is no reasonable basis to evaluate the likelihood of collection. (See
+Notes to Consolidated Financial Statements: Note 1, paragraph 2 & 3).
+<PAGE>
+          Long-term debt, including current portion totaled $768,000 as of
+March 31, 1999 compared to $864,000 as of March 31, 1998.  The decrease was
+due to the contractual payments of two equipment loans and a mortgage.  No
+additional loans were executed in fiscal 1999.
+          In addition to the long-term debt made available by the primary
+lending facility, there is available a $2,000,000 line of credit from the same
+institution.  This additional financing, which carries, at the Registrant's
+option, an interest rate of LIBOR plus 175 basis points or the Bank's prime
+rate less percent, has not been utilized since December, 1993.
+          Accounts payable decreased $23,000 from March 31, 1998 to $288,000
+as of March 31, 1999;  the difference is not significant between the two
+periods.
+          Payroll and payroll related expenses liability decreased
+significantly from $277,000 as of March 31, 1999 to $183,000 as of March 31,
+1999, the decrease due to the reduction of employees at the end of the
+respective periods from 66 to 45.
+          Retained earnings decreased from $6,928,000 as of March 31, 1998 to
+$6,345,000 as of March 31, 1999, due to the net loss for the year ended March
+31, 1999.
+          Treasury stock increased $211,000 as the Company, through a
+subsidiary, purchased 81,000 shares of the Company's common stock on the open
+market.
+          Inflation has not had a significant impact on cost or price in the
+past two fiscal years under review. However, as a significant portion of
+component materials are obtained from sources outside the United States, and,
+especially from Asia, financial problems in these countries could have a
+significant impact on the business of the Registrant for the next fiscal year.
+The currency fluctuations and ensuing political instability that commenced in
+the fiscal year beginning on April 1, 1998, especially in the Pacific Rim and
+Russia, but also in Brazil and other South American countries had a noticeable
+effect on sales in fiscal 1999 and is expected to continue at least for the
+first two quarters of fiscal 2000.  The political and currency problems have
+also delayed the Registrant's entry in manufacturing in China, at least for
+the next six months.
+          The backlog of unsold orders totaled $239,000 compared to $2,421,000
+at the beginning of the fiscal year.  As mentioned above, management does not
+anticipate a significant increase in the rate of orders until the later part
+of the second quarter or early third quarter of fiscal year 2000.
+ITEM 7.   FINANCIAL STATEMENTS
+          See pages 32 to 48 of this report for the financial statements
+required by this Item.
+ITEM 8.   CHANGE IN AND DISAGREEMENTS WITH ACCOUNTANTS ON
+ACCOUNTING AND FINANCIAL DISCLOSURES
+          There is no information relevant to the Registrant which must be
+disclosed under this Item 8.
+<PAGE>                            PART III
+ITEM 9.   DIRECTORS, EXECUTIVE OFFICERS, PROMOTERS AND CONTROL
+PERSONS; COMPLIANCE WITH SECTION 16(a) OF THE EXCHANGE ACT
+          The information required by this Item 9 is incorporated herein from
+the Proxy Statement expected to be filed within one hundred twenty (120) days
+of the close of the Registrant's fiscal year.
+ITEM 10.  EXECUTIVE COMPENSATION
+          The information required by this Item 10 is incorporated herein from
+the Proxy Statement expected to be filed within one hundred twenty (120) days
+of the close of the Registrant's fiscal year.
+ITEM 11.  SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND
+MANAGEMENT
+          The information required by this Item 11 is incorporated herein from
+the Proxy Statement expected to be filed within one hundred twenty (120) days
+of the close of the Registrant's fiscal year.
+ITEM 12.  CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS
+          The information required by this Item 12 is incorporated herein from
+the Proxy Statement expected to be filed within one hundred twenty (120) days
+of the close of the Registrant's fiscal year.
+ITEM 13.  EXHIBITS AND REPORTS ON FORM 8-K
+          (a) The following constitutes an Exhibit Index of the applicable
+Exhibits to this report:
+          DESCRIPTION OF EXHIBIT        EXHIBIT NUMBER      PAGE NUMBER
+          --------------------------------------------------------------
+Articles of Incorporation and Bylaws
+     Restated Certificate
+      of Incorporation                     3 i                    (1)
+Bylaws                                     3 ii                   (2)
+ Material Contracts
+     1996 Stock Option Plan                  10                   (1)
+     1988 Stock Option Plan                  10                   (2)
+     Officers Incentive Compensation
+      Plan                                   10                   (1)
+     Agreement (Change in Control
+      Agreements for certain Executive
+      Officers)                              10                   (3)
+     Non-Negotiable, Non-Transferable
+      Stock Warrant                          10                   (3)
+     Settlement and Release Agreement        10                   (1)
+Subsidiaries                                 21                    49
+Financial Data Schedule                      27                    (4)
+
+     (1) Incorporated by reference from the Form 10-KSB filed by the
+Registrant with the U.S. Securities and Exchange Commission for fiscal year
+ended 1997.
+     (2) Incorporated by reference from the Form 10-KSB filed with the U.S.
+Securities and Exchange Commission for fiscal year 1998.
+     (3) Incorporated by reference from the Form 10-KSB filed with the U.S.
+Securities and Exchange Commission for fiscal year ended 1996.
+     (4) This Exhibit was filed electronically, but is not included in the
+paper copy of this report.
+          (b) Form 8-K filings: The Registrant did not file any reports on
+Form 8-K during the last quarter of the period covered by this report.
+<PAGE>
+          In accordance with Section 13 or 15(d) of the Exchange Act, the
+Registrant caused this report to be signed on its behalf by the undersigned,
+thereunto duly authorized.
+                              EMCEE BROADCAST PRODUCTS, INC.
+                              /s/ JAMES L. DESTEFANO
+                              James L. DeStefano, President/CEO
+                              Date: June 29, 1999
+
+                             /s/ ALLAN J. HARDING
+                              Allan J. Harding, Vice President-
+                                                  Finance
+                              Date: June 29, 1999
+          In accordance with the Exchange Act, this report has been signed
+below by the following persons on behalf of the Registrant and in the
+capacities and on the dates indicated.
+
+/s/ JAMES L. DESTEFANO             Date: June 29, 1999
+James L. DeStefano, Director
+
+/s/ JOE B. HASSOUN                  Date: June 29, 1999
+Joe B. Hassoun, Director
+
+/s/ MICHAEL J. LEIB                Date: June 29, 1999
+Michael J. Leib, Director
+
+/s/ RICHARD J. NARDONE             Date: June 29, 1999
+Richard J. Nardone, Director
+
+/s/ EVAGELIA ROGIOKOS              Date: June 29, 1999
+Evagelia Rogiokos, Director
+<PAGE>
+                   Independent Auditors' Report
+Board of Directors
+EMCEE Broadcast Products, Inc.
+White Haven, Pennsylvania
+We have audited the consolidated balance sheets of EMCEE Broadcast Products,
+Inc. and subsidiaries as of March 31, 1999 and 1998 and the related
+consolidated statements of income (loss), shareholders' equity and cash
+flows for the years then ended.  These financial statements are the
+responsibility of the Company's management.  Our responsibility is to
+express an opinion on these financial statements based on our audits.
+We conducted our audits in accordance with generally accepted auditing
+standards.  Those standards require that we plan and perform the audit
+to obtain reasonable assurance about whether the financial statements
+are free of material misstatement.  An audit includes examining, on a
+test basis, evidence supporting the amounts and disclosures in the
+financial statements.  An audit also includes assessing the
+accounting principles used and significant estimates made by management,
+as well as evaluating the overall financial statement presentation.
+We believe that our audits provide a reasonable basis for our
+opinion.
+In our opinion, the consolidated financial statements referred to
+above present fairly, in all material respects, the financial position
+of EMCEE Broadcast Products, Inc. and subsidiaries as of March 31, 1999
+and 1998, and the results of their operations and their cash flows
+for the years then ended, in conformity with generally accepted
+accounting principles.
+/S/ Kronick, Kalada,Berdy & Co.
+- --------------------------------
+Kingston, Pennsylvania
+May 14, 1999
+
+<PAGE>
+<TABLE>
+<CAPTION>        EMCEE BROADCAST PRODUCTS, INC. AND SUBSIDIARIES
+                CONSOLIDATED BALANCE SHEETS - MARCH 31, 1999 AND 1998
+                                    ASSETS
+
+
+
+                                                   1999           1998
+
+                                                  ---------------------------
+     <C>                                             <S>             <S>
+Current assets:
+  Cash and equivalents                             $ 1,572,423 $ 2,529,594
+  U.S. Treasury Bills                                1,775,933   2,269,549
+  Accounts receivable, net of allowance
+   for doubtful accounts ($35,000 for
+   1999 and 1998)                                      603,248   1,214,651
+  Inventories                                        3,522,579   3,438,599
+  Prepaid expenses                                     660,842     115,292
+  Deferred income taxes                                132,000      80,000
+
+                                                   --------------------------
+          Total current assets                       8,267,025   9,647,685
+                                                    --------------------------
+Property, plant and equipment:
+  Land and land improvements                           246,841     246,841
+  Building                                             617,670     618,686
+  Machinery                                          2,017,084   1,956,085
+                                                    --------------------------
+                                                     2,881,595   2,821,612
+  Less accumulated depreciation                      2,150,315   1,995,946
+                                                    --------------------------
+                                                       731,280     825,666
+                                                    --------------------------
+Other assets                                           492,149     211,450
+                                                    --------------------------
+Note receivable and accrued interest                   510,000     500,000
+  Less deferred portion                             (  510,000) (  500,000)
+                                                    --------------------------
+                                                             0           0
+                                                  ----------------------------
+          Total assets                             $ 9,490,454 $10,684,801
+                                                  ===========================
+<FN>
+See notes to consolidated financial statements
+
+</FN>
+</TABLE>
+<PAGE>
+<TABLE>
+<CAPTION>
+              LIABILITIES AND SHAREHOLDERS' EQUITY
+                                                    1999          1998
+                                               ------------------------------
+   <C>                                                <S>          <S>
+Current liabilities:
+  Current portion of long-term debt              $   119,000$    117,000
+  Accounts payable                                   288,029     311,424
+  Accrued expenses:
+    Payroll and related expenses                     183,254     276,826
+    Other                                            114,500     118,625
+  Deposits from customers                             76,745     260,048
+                                                 ---------------------------
+
+          Total current liabilities                  781,528   1,083,923
+                                                   ---------------------------
+Long-term debt, net of current portion               649,287     746,888
+                                                   --------------------------
+
+Shareholders' equity:
+  Common stock, $.01 - 2/3 par;
+   authorized 9,000,000 shares; issued
+   4,384,161 shares                                   73,084      73,084
+  Additional paid-in capital                       3,502,092   3,502,092
+   Retained earnings                               6,345,114   6,927,987
+                                                  --------------------------
+                                                   9,920,290  10,503,163
+
+  Less shares held in treasury, at cost
+   (1999, 401,764; 1998, 319,000)                  1,860,651   1,649,173
+                                                  ----------------------------
+                                                   8,059,639   8,853,990
+                                                  ----------------------------
+          Total liabilities and equity            $ 9,490,454 $10,684,801
+                                                  ===========================
+</TABLE>
+<PAGE>
+<TABLE>
+<CAPTION>EMCEE BROADCAST PRODUCTS, INC. AND SUBSIDIARIES
+             CONSOLIDATED STATEMENTS OF INCOME (LOSS)
+               YEARS ENDED MARCH 31, 1999 AND 1998
+                                            1999           1998
+                                        --------------------------
+    <C>                                     <S>             <S>
+Net sales                              $  5,895,567    $ 9,187,868
+Costs of products sold                    4,543,418      6,118,332
+                                        ---------------------------
+Gross profit                              1,352,149      3,069,536
+                                        ---------------------------
+Operating expenses:
+  Selling                                   997,115      1,409,927
+  General and administrative              1,152,195      1,098,909
+  Research and development                  422,426        377,557
+                                       ------------------------------
+
+                                          2,571,736      2,886,393
+                                       -----------------------------
+
+Income (loss) from operations            (1,219,587)       183,143
+                                       -----------------------------
+
+Other income (expense), net:
+  Interest expense                       (   71,641)   (    83,714)
+  Interest income                           227,337        259,704
+  Gain on sale of equity securities                        277,324
+  Other                                      48,418         25,237
+                                       -----------------------------
+                                            204,114        478,551
+                                       -----------------------------
+Income (loss) before income taxes          (1,015,473)     661,694
+
+Income tax expense (benefit)               (  432,600)     146,410
+                                       -----------------------------
+Net income (loss)$                          (  582,873 $   515,284
+                                       =============================
+
+Basic income per share                           $(.15)       $.12
+                                       =============================
+Diluted income per share                         $(.15)       $.12
+                                       =============================
+<FN>
+See notes to consolidated financial statements
+</FN>
+</TABLE>
+<PAGE>
+<TABLE>
+<CAPTION>        EMCEE BROADCAST PRODUCTS, INC. AND SUBSIDIARIES
+            CONSOLIDATED STATEMENTS OF SHAREHOLDERS' EQUITY
+               YEARS ENDED MARCH 31, 1999 AND 1998
+                                      Common stock       Additional
+                            Shares     Amount            paid-in capital
+                          -------------------------------------------------
+ <C>                         <S>          <S>                     <S>
+
+Balance, March 31, 1997    4,378,364  $ 72,987               $ 3,562,523
+Common stock issued            5,797        97               (    60,431)
+Treasury stock purchased
+Net income for the year   --------------------------------------------------
+
+Balance, March 31, 1998    4,384,161    73,084                  3,502,092
+Treasury stock purchased
+Net loss for the year
+Balance, March 31, 1999    4,384,161   $ 73,084                $3,502,092
+                          ==================================================
+<FN>
+See notes to consolidated financial statements
+</FN>
+</TABLE>
+<PAGE>
+<TABLE>
+
+ Retained               Treasury stock
+ earnings            Shares       Amount         Total
+- -------------------------------------------------------
+   <S>                  <S>          <S>          <S>
+$ 6,412,703           212,763$  (1,362,274)  $ 8,685,939
+                      (12,763)      99,774        39,440
+                       119,000  (  386,673)   (  386,673)
+    515,284                                      515,284
+- ----------------------------------------------------------
+6,927,987             319,000    (1,649,173)   8,853,990
+                       82,764    (  211,478)  (  211,478)
+( 582,873)                                    (  582,873)
+- ---------------------------------------------------------
+$ 6,345,114           401,764$    (1,860,651) $ 8,059,639
+=========================================================
+</TABLE>
+<PAGE>
+<TABLE>
+<CAPTION>  EMCEE BROADCAST PRODUCTS, INC. AND SUBSIDIARIES
+                CONSOLIDATED STATEMENTS OF CASH FLOWS
+               YEARS ENDED MARCH 31, 1999 AND 1998
+                                                1999          1998
+                                                -------------------
+   <C>                                             <S>          <S>
+Cash flows from operating activities:
+  Net income (loss)                           $(  582,873)$   515,284
+  Adjustments:
+    Depreciation                                   274,359    264,313
+    Provision for doubtful accounts                 31,000     25,000
+    Common stock issued for
+      compensation                                             39,440
+    Gain from sale of equity securities                    (  277,324)
+    (Increase) decrease in:
+      Accounts receivable                          580,403 (  306,116)
+      Inventory                                 (  169,450)   189,204
+      Prepaid expenses                          (  545,550)   264,066
+      Deferred income taxes                     (   52,000)(   80,000)
+      Other assets                                     724        723
+    Increase (decrease) in:
+      Accounts payable                          (   23,395)(   43,977)
+      Accrued expenses                          (   97,697)    58,667
+      Deposits from customers                   (  183,303)   138,853
+      Deferred income taxes                                 ( 554,000)
+                                               -------------------------
+Net cash (used in) provided by
+   operating activities                         (  767,782)   234,133
+                                               -------------------------
+
+Cash flows from investing activities:
+  Purchases of:
+    Property, plant and equipment               (   94,503) (   30,839)
+    U.S. Treasury Bills                         (3,506,384) (3,990,385)
+  Proceeds from maturities of:
+    U.S. Treasury Bills                          4,000,000   3,400,000
+    Note receivable                                          2,500,000
+  Proceeds from sale of equity securities                      383,324
+                                               -------------------------
+  Other assets                                  (  281,423) (  210,000)
+
+Net cash provided by investing activities           117,690  2,052,100
+                                               --------------------------
+Cash flows from financing activities:
+  Acquisition of treasury stock                  (  211,478)(  386,673)
+  Proceeds from issuance of long-term
+   debt                                                         70,000
+  Repayment of long-term debt                    (   95,601) ( 121,301)
+                                                ------------------------
+
+<PAGE>
+                                                     1999         1998
+                                               --------------------------
+Net cash used in financing activities          s (  307,079) (  437,974)
+                                               --------------------------
+
+Net increase (decrease) in cash and equivalents  (  957,171)   1,848,259
+
+Cash and equivalents, beginning                   2,529,594      681,335
+                                                --------------------------
+
+Cash and equivalents, ending                    $ 1,572,423  $ 2,529,594
+                                                ==========================
+Supplemental disclosures of cash flow information:
+Cash paid during the year for:
+  Interest                                     $    72,000   $    84,000
+                                               ===========================
+  Income taxes                                 $   160,000   $   646,000
+                                               ===========================
+Non-cash items:
+  Transfer of inventory to fixed assets         $   85,470
+                                               =============
+<FN>
+See notes to consolidated financial statements
+</FN>
+</TABLE>
+<PAGE>
+                 EMCEE BROADCAST PRODUCTS, INC. AND SUBSIDIARIES
+             NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+                 YEARS ENDED MARCH 31, 1999 AND 1998
+1.  Summary of significant accounting policies:
+   Principles of consolidation:
+
+The consolidated financial statements include the accounts of EMCEE
+Broadcast Products, Inc. and its subsidiaries, all of which are
+wholly-owned (together, the Company).  All significant intercompany accounts and
+transactions have been eliminated.
+   Revenue recognition:
+
+Revenue from product sales of equipment is recognized at the time of delivery
+and after consideration of all the terms and conditions of the customers'
+contract (purchase order).  None of the customers' contracts are
+considered long-term contracts.
+   Revenue recognition, sale of license:
+
+During 1992, a rural cellular license was sold for $3,100,000. The initial
+payment was $845,000, net of closing costs of $155,000.  The $2,100,000
+balance, which bore interest at 7% payable at maturity, was due
+in December 1996.  None of the deferred payment and the related interest
+income was recognized prior to 1997 because of their extended collection
+period and because there was not a reasonable basis to evaluate the likelihood
+of collection.  On April 3, 1997 the Company collected $2,500,000 and
+received a non-interest bearing, unsecured $500,000 note receivable as
+settlement of the original note.
+
+The $500,000 note receivable is due and payable upon the occurrence of any one
+or more of certain specified events involving the debtor including, but not
+limited to, acquisition, merger, bankruptcy, and insolvency.  Effective July
+1, 1998 it accrues interest at 3% per annum.  None of the specified events
+relate to the debtor's normal operations.  The note receivable is fully
+reserved because it has no definite collection period and because there is not
+a reasonable basis to evaluate the likelihood of collection.
+    Cash, equivalents and U.S. Treasury Bills:
+
+The Company considers cash equivalents to be all highly liquid
+investments purchased with an original maturity of three months or less.
+U.S. Treasury Bills with an original maturity of more than three months are
+considered to be investments.  All U.S. Treasury Bills are stated at cost
+which approximates market and are considered as available for sale.  All
+U.S. Treasury Bills  not included as cash equivalents had contracted
+maturities of  six months or one year.
+   Inventories:
+      Inventories are stated at the lower of standard cost which approximates
+ current actual cost (on a first-in, first-out basis) or market (net
+realizable value).
+<PAGE>
+                EMCEE BROADCAST PRODUCTS, INC. AND SUBSIDIARIES
+             NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+                 YEARS ENDED MARCH 31, 1999 AND 1998
+1.  Summary of significant accounting policies (continued):
+   Property, plant and equipment and depreciation:
+
+Property, plant and equipment are stated at cost.  Depreciation is provided on
+the straight-line method over the estimated useful lives of the assets.
+   Advertising:
+
+These expenses are recorded when incurred.  They amounted to $52,000 and
+$78,000 for 1999 and 1998, respectively
+Fair value:
+
+The fair value of long-term debt that is variable rate debt that
+reprices regularly and U.S. Treasury Bills approximates the amounts recorded
+in the financial statements.  It was not practicable to estimate the
+Fair value of the $500,000 note receivable because the Company was unable
+to estimate the timing and form of the ultimate settlement of the amount
+due to it.  The Company has fully provided for any potential loss resulting
+from the non-payment of this receivable.
+   Use of estimates:
+
+Management uses estimates and assumptions in preparing financial
+statements.  Those estimates and assumptions affect the reported amounts of
+assets and liabilities, the disclosure of contingent assets and liabilities
+and the reported revenues and expenses.
+   Reclassifications:
+
+Certain items in the 1998 financial statements have been reclassi-
+fied to conform to current year classifications.
+
+2. Income per share:
+
+Basic income per share is computed by dividing earnings applicable to common
+shareholders by the weighted average number of common shares outstanding.
+Diluted income per share  is similar to basic income per share except that the
+weighted average of common shares outstanding is increased to include the
+number of additional common shares that would have been outstanding if the
+dilutive potential common shares had been issued.
+
+There were no dilutive potential common shares in 1999 or 1998 because the
+assumed exercise of the options would be anti-dilutive.
+<PAGE>
+             EMCEE BROADCAST PRODUCTS, INC. AND SUBSIDIARIES
+       NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+                 YEARS ENDED MARCH 31, 1999 AND 1998
+2. Income per share (continued):
+
+The following table presents the basic and diluted EPS computations:
+                                             1999
+                                 Net                   Per-share
+                                 loss        Shares      amount
+                              --------------------------------------
+   Basic and diluted EPS
+   Net loss which is
+    available to common
+    stockholders              $( 582,873)  4,007,305     $(.15)
+
+                                             1998
+                                 Net                   Per-share
+                                income       Shares      amount
+                              -------------------------------------
+   Basic and diluted EPS
+   Net income which is
+    available to common
+    stockholders              $  515,284   4,134,780     $ .12
+
+3. Cash and equivalents concentration:
+
+At March 31, 1999, cash held at a brokerage corporation in the amount
+of $1,331,000 is not insured.
+4. Industry, sales and accounts receivable concentration information:
+
+The Company's primary activity is in one segment which consists of the
+assembly and sale of equipment for the domestic and foreign television
+broadcasting industry.  To determine segments to be reported, management has
+considered products and services.  Management believes that the
+Company's business requires similar technology and marketing strategies.
+Major customers are those that individually account for more than 10% of
+the Company's consolidated revenues.  For the years ended March 31, 1999
+and 1998, one customer, consisting of four divisions of a Federal government
+agency, with total sales of $718,000 and a different customer with
+total sales of $939,000, respectively,  qualified as  major customers.  At
+March 31, 1999 and 1998, there were no significant accounts receivable
+concentrations.  The Company performs ongoing credit evaluations of its
+customers and typically requires deposits and a letter of credit on foreign
+sales and deposits on domestic sales.  Historically, the Company's
+uncollectible accounts receivable have been immaterial.
+<PAGE>
+           EMCEE BROADCAST PRODUCTS, INC. AND SUBSIDIARIES
+       NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+                 YEARS ENDED MARCH 31, 1999 AND 1998
+4. Industry, sales and accounts receivable concentration information
+(continued):
+Foreign shipments comprised $2,992,000 and $5,563,000 for 1999 and
+1998, respectively.  The composition of these shipments is comprised of the
+Following foreign geographic regions:
+                                                      1999          1998
+                                                  ---------------------------
+   Asia/Pacific Rim                               $1,015,000    $2,118,000
+   Caribbean                                         423,000        11,000
+   Middle East                                       372,000       479,000
+   North America                                     368,000       573,000
+   Europe                                            365,000       249,000
+   South America                                     140,000       893,000
+   Central America                                   102,000       427,000
+   Africa                                             52,000       206,000
+   Other                                             155,000       607,000
+                                                   ---------------------------
+                                                  $2,992,000    $5,563,000
+                                                   ===========================
+Revenues are attributed to regions based on location of customers.  All
+long-lived assets and deferred tax assets are attributable to the United
+States.  All foreign sales are contracted in United States Currency; therefore
+there is no impact from foreign currency rates.
+5. Inventories:
+                                     1999          1998
+                                 --------------------------
+   Finished goods               $  266,000     $  454,000
+   Work-in-process                 686,000        777,000
+   Raw materials                 1,008,000      1,323,000
+   Manufactured components       1,562,579        884,599
+                                 --------------------------
+                                $3,522,579     $3,438,599
+                                ============================
+6.  Line of credit:
+
+   The Company has a line of credit agreement with a bank aggregating
+$2,000,000 collateralized by inventories, accounts receivable and all
+property, plant and equipment.  The line of credit agreement requires monthly
+interest payments at .50% below the bank's prime rate of interest or 1.75%
+above LIBOR  which was 5.00% at March 31, 1999.  There were no principal
+borrowings during the years ended March 31, 1999 and 1998.
+<PAGE>
+   The loan agreement contains restrictive covenants when amounts are
+outstanding which, among other things, require the Company to maintain a
+maximum total liabilities to net worth ratio, a minimum current ratio and a
+debt coverage ratio.  The Company did not meet the debt coverage ratio as of
+March 31, 1999.  In addition, the loan agreement requires the Company to
+obtain the Bank's written consent prior to investing in or making payments to
+third parties other than in the usual and ordinary course of business.  The
+Company did not obtain the Bank's written consent for its investments in two
+affiliated third parties during 1999.  The Bank waived both covenant
+violations.  The Company is allowed to pay dividends on its common stock if it
+is in compliance with the financial covenants and ratios.
+
+7. Long-term debt:
+                                      1999          1998
+                                 ----------------------------
+   Term loan, bank              $  637,000       $  686,000
+   Equipment loans, bank            131,287          177,888
+                                 ---------------------------
+                                    768,287          863,888
+   Less current portion             119,000          117,000
+                                  ---------------------------
+                                 $  649,287       $  746,888
+                                  ===========================
+   The term loan, bank at March 31, 1999 matures in 2012 and requires
+principal payments of $4,083, plus interest.  Interest is calculated at
+2.25% above LIBOR which was 5.00% at March 31, 1999.  The bank has the
+option of adjusting the monthly payments required under this loan to
+provide for changes in the interest rates.  The term and equipment loans
+are cross-collateralized with and have the same restrictive covenants as
+the line of credit (see Note 6).
+
+Principal payments on long-term debt, based on current interest
+rates, are as follows:
+                       2000             $  119,000
+                       2001                 79,400
+                       2002                 79,400
+                       2003                 49,000
+                       2004                 49,000
+                     Thereafter            392,487
+                                        -----------
+                                        $  768,287
+                                        ===========
+<PAGE>
+8. Common stock:
+
+Nonqualified stock option plans provide for the grant of options to purchase
+up to 300,000 shares.  Upon the termination or expiration of
+any stock options granted, the shares covered by such terminated or
+expired stock options will be available for further grant; 168,825
+options were available for grant at March 31, 1999.  The Board of
+Directors, at the date of grant of an option, determines the number of
+shares subject to the grant and the terms of such option.  All outstanding
+options granted expire after 5 years and vest over two year
+
+Changes in outstanding common stock options granted are summarized
+below:
+                                 1999                    1998
+                            Number   Average        Number   Average
+                              of     exercise         of     exercise
+                           shares    price         shares    price
+                         ----------------------------------------------
+    Balance at beginning
+     of year              151,875    $ 5.50        163,250   $ 5.36
+    Options expired                                 11,375     3.44
+    Balance at end of
+     year                 151,875    $ 5.50        151,875   $ 5.50
+    Options exercisable
+     at year-end          151,875    $ 5.50         36,675   $ 3.44
+
+       At March 31, 1999, 115,200 and  36,675 options had an exercise
+price of $6.16 and $3.44, respectively.  Such options had remaining
+contractual lives of 2.67 years and 1.5 years, respectively.
+   The Company in accordance with an election under generally accepted
+accounting principles for stock options has recorded no compensation
+cost for its stock  options in the accompanying consolidated financial
+statements.
+
+  Had compensation cost for stock options been determined based on the fair
+value at the grant dates for awards under the plans, the Company's net income
+(loss) and per share amounts would have been changed to the proforma amounts
+disclosed below:
+<PAGE>
+                                    1999                1998
+                               ---------------------------------
+   Net (loss) income:
+     As reported             $( 582,873)            $  515,284
+     Proforma                 ( 615,735)               445,284
+   Basic income (loss)
+    per share:  As reported   $(    .15)              $    .12
+     Proforma                  (    .15)                   .11
+   Diluted income (loss)
+    per share:
+     As reported             $(    .15)               $    .12
+     Proforma                 (    .15)                    .11
+
+The fair values were determined using the Black-Scholes option pricing model
+with the following weighted average assumptions:
+
+                                         1999             1998
+                                      ------------------------------
+    Dividend yield                       .0%            .0%
+    Risk free interest rate            5.84%          5.84%
+    Expected life                     5 Years        5 Years
+    Volatility                       104.83%         17.54%
+
+   During 1997, warrants to purchase 200,000 shares of common stock at $9.76 a
+share were issued and remain outstanding at March 31, 1999.
+ 9. Income taxes:
+
+The following table sets forth the current and deferred amounts of the
+provision (benefit) for income taxes for the years ended March31, 1999 and
+
+                                1999          1998
+                            ---------------------------
+        Current               $(  380,600)   $780,410
+        Deferred               (   52,000) (  634,000)
+                            ---------------------------
+                              $(  432,600)$   146,410
+                            ===========================
+
+The provisions for income taxes at the Company's effective rate differed from
+the provision for income taxes at the statutory Federal rate of 34% for the
+years ended March 31, 1999 and 1998 as follows:
+<PAGE>
+                                             1999            1998
+                                       --------------------------------
+   Federal income tax provision
+        (benefit) at the statutory rate $(  345,000)    $   225,000
+    Foreign sales corporation            (   69,000)     (   74,000)
+    Federal income tax credit            (   16,000)     (   15,000)
+    Stock compensation                                   (   43,590)
+    Other                                                (    2,600)
+   Adjustment to prior year's
+    tax liability                                            54,000
+   Provision (benefit) for income
+    taxes                               $(  432,600)    $   146,410
+                                       ==============================
+
+The tax effects of temporary differences that give rise to deferred income
+taxes at March 31, 1999 and 1998 are presented in the  table below:
+                                             1999           1998
+                                          ---------------------------
+   Deferred tax assets:
+      Inventory                         $   74,000      $   41,000
+      Employee benefits                     46,000          51,000
+     Other differences                      14,000          11,000
+                                           --------------------------
+     Total gross deferred tax assets       134,000         103,000
+
+   Deferred tax liabilities,
+      Property and equipment            (   2,000)       (  23,000)
+                                         --------------------------
+
+   Net deferred tax asset              $  132,000       $   80,000
+                                         ===========================
+10. Litigation:
+      In the normal course of business, there are various outstanding  legal
+proceedings.  In the opinion of management, after consultation with legal
+counsel, the consolidated financial statements of the Company will not be
+materially affected by the outcome of such legal proceedings.
+11. Year 2000:
+
+The Company recognizes the need to ensure its operations will not be adversely
+impacted by Year 2000 software failures.  Software failures due to processing
+errors potentially arising from calculations using the Year 2000 date are a
+known risk.  The Company executes annual maintenance agreements with its
+hardware and software vendors, which include a warranty that the Company's
+internal data processing system is Year 2000 compliant.  Total costs recorded
+in fiscal 1999 and 1998 for the agreements aggregated $37,000 per annum, which
+is recorded in general and administrative expenses as incurred.  Year 2000
+compliance was completed in the second quarter of fiscal 1999.  All costs
+incurred with Year 2000 compliance procedures are expensed as incurred.
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-5
+<SEQUENCE>2
+<TEXT>
+
+[ARTICLE] 5
+[CIK] 0000032312
+[NAME] EMCEE BROADCAST PRODUCTS
+<TABLE>
+<S>                                            <C>
+[PERIOD-TYPE]                                 YEAR
+[FISCAL-YEAR-END]                          MAR-31-1999
+[PERIOD-START]                             APR-01-1998
+[PERIOD-END]                               MAR-31-1999
+[CASH]                                       1,572,423
+[SECURITIES]                                 1,775,933
+[RECEIVABLES]                                  638,248
+[ALLOWANCES]                                    35,000
+[INVENTORY]                                  3,522,579
+[CURRENT-ASSETS]                             8,267,025
+[PP&E]                                       2,881,595
+[DEPRECIATION]                               2,150,315
+[TOTAL-ASSETS]                               9,490,494
+[CURRENT-LIABILITIES]                          781,528
+[BONDS]                                              0
+[COMMON]                                        73,084
+[PREFERRED-MANDATORY]                                0
+[PREFERRED]                                          0
+[OTHER-SE]                                   7,986,555
+[TOTAL-LIABILITY-AND-EQUITY]                 9,490,454
+[SALES]                                      5,895,567
+[TOTAL-REVENUES]                             5,895,567
+[CGS]                                        4,543,418
+[TOTAL-COSTS]                                7,115,154
+[OTHER-EXPENSES]                             (275,755)
+[LOSS-PROVISION]                                30,820
+[INTEREST-EXPENSE]                              71,641
+[INCOME-PRETAX]                            (1,015,473)
+[INCOME-TAX]                                 (432,600)
+[INCOME-CONTINUING]                          (582,873)
+[DISCONTINUED]                                       0
+[EXTRAORDINARY]                                      0
+[CHANGES]                                            0
+[NET-INCOME]                                 (582,873)
+[EPS-BASIC]                                    (.15)
+[EPS-DILUTED]                                    (.15)
+</TABLE>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99
+<SEQUENCE>3
+<TEXT>
+
+                  EMCEE BROADCAST PRODUCTS, INC.
+                         AND SUBSIDIARIES
+                           YEARS ENDED
+                      MARCH 31, 1999 AND 1998
+          SUBSIDIARIES OF EMCEE BROADCAST PRODUCTS, INC.
+   The following constitute all of the Registrant's subsidiary corporations:
+   1. EMCEE Cellular Inc., a Delaware corporation;
+   2. EMCEE Export Sales Company, Inc., a Delaware corporation (this corporation
+ is a wholly owned subsidiary of EMCEE Cellular Inc.);
+   3.R.F. Systems, Inc., a Delaware corporation (this corporation is a wholly
+ owned subsidiary of EMCEE Cellular Inc.);
+   4.R.F. Internet Systems, Inc., a Nevada corporation (this corporation is a
+ wholly owned subsidiary of EMCEE Cellular Inc.);
+   5.Universal Rapid Access, LLC (this limited liability company is a
+ partially owned subsidiary of R.F. Internet Systems, Inc., which
+ owns 10% of the outstanding equity of the limited liability
+company);
+   6. EMCEE Broadcast Products (Chengdu) Company, Ltd. (the Registrant
+ owns 25% of the issued and outstanding capital stock of this corporation); and
+   7. Grand Forks Wireless, L.L.C. (this limited liability company is a
+partially owned subsidiary of R.F. Internet Systems, Inc., which owns
+50% of the outstanding equity of the limited liability company).
+1.All subsidiaries are wholly owned by the Registrant unless otherwise
+indicated.
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

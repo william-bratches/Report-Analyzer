@@ -1,0 +1,548 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ B2d8iEmfjlbH6hC5BWcDvMd9TtS81fZHvdOnoqKi3ZrJ+ljNLWEIutkoF5WZNgPX
+ jj+it77X5n3cYzEoIiaM4g==
+
+<SEC-DOCUMENT>0000010254-96-000006.txt : 19960801
+<SEC-HEADER>0000010254-96-000006.hdr.sgml : 19960801
+ACCESSION NUMBER:		0000010254-96-000006
+CONFORMED SUBMISSION TYPE:	10KSB/A
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	19960331
+FILED AS OF DATE:		19960731
+SROS:			NASD
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			BASIC EARTH SCIENCE SYSTEMS INC
+		CENTRAL INDEX KEY:			0000010254
+		STANDARD INDUSTRIAL CLASSIFICATION:	CRUDE PETROLEUM & NATURAL GAS [1311]
+		IRS NUMBER:				840592823
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0331
+
+	FILING VALUES:
+		FORM TYPE:		10KSB/A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-07914
+		FILM NUMBER:		96601755
+
+	BUSINESS ADDRESS:	
+		STREET 1:		633 17TH STREET
+		STREET 2:		SUITE 1670
+		CITY:			DENVER
+		STATE:			CO
+		ZIP:			80202
+		BUSINESS PHONE:		303-294-9525
+
+	MAIL ADDRESS:	
+		STREET 1:		633 SEVENTEENTH STREET
+		STREET 2:		SUITE 1670
+		CITY:			DENVER
+		STATE:			CO
+		ZIP:			80202
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>10KSB/A
+<SEQUENCE>1
+<TEXT>
+
+                                    UNITED STATES
+                         SECURITIES AND EXCHANGE COMMISSION
+                               Washington, D.C.  20549
+
+                                    FORM 10-KSB/A
+
+[ X ]     ANNUAL REPORT UNDER SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT
+          OF 1934 [Fee Required]
+
+                      For the fiscal year ended March 31, 1996
+
+[    ]    TRANSITION REPORT UNDER SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE
+          ACT OF 1934 [No Fee Required]
+
+                           Commission file number: 0-7914
+
+                          BASIC EARTH SCIENCE SYSTEMS, INC.
+                         633 Seventeenth Street, Suite 1670
+                               Denver, Colorado  80202
+
+                              Telephone (303) 294-9525
+
+Incorporated in Delaware                                     IRS ID# 84-0592823
+
+
+
+Securities registered under Section 12(b) of the Act:  NONE
+
+Securities registered under Section 12(g) of the Act:  Common Stock, $.10 par
+value at March 31, 1995 and $.001 par value at March 31, 1996
+
+Check whether the issuer (1) filed all reports required to be filed by Section
+13 or 15(d) of the Exchange Act during the past 12 months (or for such shorter
+period that the registrant was required to file such reports), and (2) has been
+subject to the filing requirements for the past 90 days.  Yes [ X ]  No
+
+Check if disclosure of delinquent filers in response to Item 405 of Regulation
+S-B is not contained in this form, and no disclosure will be contained, to the
+best of registrant's knowledge, in definitive proxy or information statements
+incorporated by reference in Part III of this Form 10-KSB or any amendment to
+this Form 10-KSB. [   ]
+
+Issuer's revenues for its most recent fiscal year:  $2,826,000
+
+As of June 7, 1996, 16,580,487 shares of the registrant's common stock were
+outstanding and the aggregate market value of such common stock held by non-
+affiliates was approximately $350,000.
+
+<PAGE>
+                          Basic Earth Science Systems, Inc.
+
+                         Form 10-KSB/A Annual Report - 1996
+
+                                  Table of Contents
+
+Part III:
+                                                                 Page
+                                                                 -----
+     Item 9.   Directors, Executive Officers, Promoters and 
+               Control Persons; Compliance With 
+               Section 16(a) of the Exchange Act                 3
+
+     Item 10.  Executive Compensation                            5
+
+     Item 11.  Security Ownership of Certain Beneficial Owners
+               and Management                                    9
+
+     Item 12.  Certain Relationships and Related Transactions    10
+
+
+
+
+
+<PAGE>
+Part III
+                                       Item 9
+            Directors, Executive Officers, Promoters and Control Persons;
+                  Compliance with Section 16(a) of the Exchange Act
+
+Directors
+
+The following sets forth the names and ages of the four members of the Board of
+Directors of Basic Earth Science Systems, Inc. ("Basic" or "the Company") who
+served in the past year, their respective principal occupations or employment
+during the past five years, and the period during which each has served as a
+director of the Company.
+
+G. W. Breuer (77) was a co-founder of the Company and has been a member of the
+Board of Directors since inception in 1969.  Mr. Breuer also served as the
+Company's Chief Executive Officer from 1969 through March 1993 and was its
+President from February 1978 through March 1993.  Mr. Breuer is a 1940 graduate
+of Purdue University with a degree in petroleum engineering.
+
+David J. Flake (41) has been a director of the Company since September 1987. 
+Mr. Flake began his career at Basic in November 1980 as tax accountant and was
+appointed Controller in July 1983, a position he held until his resignation in
+January 1993 to pursue other business opportunities.  From September 1987
+through January 1993, Mr. Flake also served as Secretary/Treasurer of the
+Company.  In April 1994, Mr. Flake was appointed Corporate Secretary.  Mr. Flake
+received his Bachelor of Science degree in Accounting/Business Administration
+from Regis University in Denver, Colorado and received a Masters Degree in
+Business Administration from Colorado State University's Executive MBA Program
+in 1995.
+
+Edgar J. Huffman (56) was elected to the Board of Directors in May 1993.  For
+the past five years Mr. Huffman has served continuously in the following
+capacities.  He is a director of Visa Industries, an oil and gas producer,
+located in Phoenix, Arizona.  Visa Industries is a public company traded on
+NASDAQ.  He also serves as Chairman of the Board and Director of Finance and
+Planning for the Montessori Day Schools in Phoenix.  Additionally, Mr. Huffman
+is a director of FCS Laboratories, Inc. (FCS), a diagnostic laboratory and
+pharmaceutical producer, as well as Chairman of the Finance Committee and Audit
+Committee and a member of the Compensation Committee.  FCS is a public company
+traded on the OTC market.  Mr. Huffman received a Bachelor of Science degree in
+Business Administration from Indiana Central University and a Masters Degree in
+Business Administration from Arizona State University.  He also attended the
+Finance Program at New York University's Graduate School of Business.
+
+Ray Singleton (45) has been a director of Basic since July 1989.  Mr. Singleton
+joined the Company in June 1988 as Production Manager/Petroleum Engineer. In
+October 1989 he was elected Vice President of Basic and was appointed President
+and Chief Executive Officer in March 1993.  Upon the resignation of Mr. Flake,
+noted above, Mr. Singleton was appointed Acting Treasurer.  Mr. Singleton began
+his career with Amoco Production Company in Texas as a production engineer.  He
+was subsequently employed for the predecessor of Union Pacific Resources as a
+drilling, completion and production engineer and in 1981 began his own
+engineering consulting firm, serving the needs of some 40 oil and gas companies.
+In this capacity he was employed by Basic on various projects from 1981 to 1987.
+Mr. Singleton received a degree in petroleum engineering from Texas A&M
+University in 1973 and received a Masters Degree in Business Administration from
+Colorado State University's Executive MBA Program in 1992.
+
+Executive Officers
+
+At this time, and during the past year, all executive officers are also board
+members.  Their names, ages, principal occupations or employments during the
+past five years are set forth above.  There are no family relationships between
+or among the officers and Board of Directors.
+
+Directors are elected by the Company's shareholders at each annual meeting or,
+in the case of a vacancy, are appointed by the directors then in office, to
+serve until the next annual meeting or until their successors are elected and
+qualified.  Officers are appointed by and serve at the discretion of the Board
+of Directors.
+
+Board Committees and Attendance
+
+The Board of Directors of the Company held six meetings during the fiscal year
+ended March 31, 1996.  During the year ended March 31, 1995 the Board of
+Directors met four times.  Each of the directors attended at least 75% of all
+the meetings.
+
+In May 1993, the Board established an Audit Committee consisting of Messrs.
+Flake and  Huffman, both outside directors.  The Audit Committee is authorized
+by the Board of Directors to review, with the Company's independent accountants,
+the annual financial statements of the Company prior to publication and to make
+annual recommendations to the Board for the appointment of independent public
+accountants for the ensuing year.  The Audit Committee also reviews the
+effectiveness of the financial and accounting functions, operations, and
+internal controls implemented by Basic's management.
+
+In June 1993, the Board formed a Compensation Committee which currently consists
+of Messrs. Huffman and Flake.  This committee reviews and recommends to the
+Board of Directors the compensation and benefits of all officers of the Company,
+and is empowered to review general policy matters, including compensation and
+benefits, pertaining to the employees of the Company.
+
+Basic does not have a Nominating Committee.
+
+
+Compliance with Section 16(a) of the Securities Exchange Act
+
+Section 16(a) of the Securities Exchange Act requires the Company's officers and
+directors and shareholders of more than ten percent of the Company's common
+stock to file reports of ownership and changes in ownership of the Company's
+common stock with the Securities and Exchange Commission (SEC) and the National
+Association of Securities Dealers.  Officers, directors and greater-than-ten-
+percent shareholders are required by SEC regulations to furnish the Company with
+copies of all Section 16(a) forms they file.
+
+Based solely upon a review of copies of ownership reports submitted to Basic,
+the Company believes that all forms required to be filed by its officers,
+directors and ten percent shareholders have been filed as of May 15, 1996. 
+During the year ended March 31, 1996, Mr. Breuer filed one late report.
+
+
+                                       Item 10
+                               Executive Compensation
+
+Executive Officer Compensation
+
+The following table sets forth the compensation paid or accrued by the Company
+to its Chief Executive Officer for the fiscal years ended March 31, 1996, 1995
+and 1994.  No other director, officer or employee received annual compensation
+which exceeded $100,000.
+<TABLE>
+<CAPTION>
+Name and                                     Other          All
+Principal      Fiscal    Annual    Annual    Annual         Other
+Position       Year      Salary    Bonus     Compensation   Compensation
+- ---------      ------    -------   -------   ------------   ------------
+                                             (1)            (2)
+<S>            <C>       <C>       <C>       <C>            <C>
+Ray Singleton  1996      $70,463   $0        $4,430         $281
+President,     1995      65,000    0         6,558          257
+Chief          1994      65,000    2,500     2,982          0
+Executive Officer
+and Acting
+Treasurer
+</TABLE>
+(1)  Mr. Singleton was appointed President and Chief Executive Officer on March
+4, 1993.  Other Annual Compensation includes $4,430, $4,608 and $1,357 paid
+through the Oil and Gas Incentive Compensation Plan for fiscal 1996, 1995 and
+1994, respectively.  Other Annual Compensation also includes $0, $1,950 and
+$1,625 which represents the market value of the Company's common stock
+contributed to his ESOP account (see discussion below) for fiscal 1996, 1995 and
+1994, respectively.  The ESOP contributions are non-cash compensation.
+
+(2)  All Other Compensation of $281 and $257 are the premiums for a life
+insurance policy for Mr. Singleton for fiscal 1996 and 1995, respectively.  Mr.
+Singleton designates the beneficiary.
+
+In April 1976, the Company adopted an Employee Stock Ownership Plan (ESOP) which
+covers substantially all full-time employees of Basic and its subsidiaries who
+have worked for at least six months and are employed by Basic at March 31 of
+each fiscal year.  ESOP contributions are generally made by transferring
+sufficient shares of the Company's common stock or treasury stock which, when
+valued at fair market value, equal the annual contribution amount as determined
+by the Company's Board of Directors.  For the years ended March 31, 1996, 1995
+and 1994, the ESOP contributions added to all participants' accounts totalled
+$0, $7,000 and 6,000, respectively, which resulted in the issuance to the ESOP,
+based on applicable market prices, of 0, 140,940 and 132,534 shares,
+respectively, of the Company's common stock.  As a result of contributions made
+during these periods, Basic's ESOP has received approximately 0.0%, 0.85%,% and
+0.81%, respectively, of the issued and outstanding shares of the Company's
+common stock.  While the additional stock ownership received by Basic's ESOP is
+minimal in any given year, the cumulative effect over several years of such
+additional stock ownership may be considered substantial, i.e., an aggregate
+increase in stock ownership of approximately 1.6% over the last three (3) fiscal
+years.
+
+As noted, the Company funded its ESOP contribution by issuing shares of its
+common stock in sufficient number, when valued at fair market value, to satisfy
+the contribution as determined by its Board of Directors.  In making the ESOP
+contribution in this manner, the market value of the Company's stock was less
+than its $0.10 par value for the contributions made for 1990, 1991 and 1992. 
+This resulted in a contingent liability in an amount equal to the difference
+between the $0.10 par value and the applicable fair market value, being in the
+aggregate amount of approximately $52,000.  To the extent that it is ultimately
+determined that this contingent liability is owed, compensation was understated
+by this amount.
+
+Basic's creditors have the sole right to seek payment of the underpaid stock
+consideration.  However, any such claim requires that the Company's assets be
+insufficient to satisfy its creditor's claims and such claims must be brought
+within six (6) years after the issuance of the subject shares.  Since Basic has
+a positive net asset balance which, it is anticipated, will continue for the
+foreseeable future, and since the passage of time reduces the amount of the
+contingent liability, it is currently unlikely that any liability will arise
+with respect to the subject ESOP shares.
+
+In 1993, the Board of Directors expressed a desire to fund all or a substantial
+portion of its ESOP contribution obligation with treasury stock rather than
+issue additional common stock.  The use of treasury shares for an ESOP
+contribution avoided diluting the value of common stock held by shareholders and
+further avoided the potential contingent liability issue if the fair market
+value of the Company's stock was less than its $0.10 par value.  It should be
+noted, however, that even the use of treasury stock for an ESOP contribution
+reduced the percentage of common stock held by public shareholders and increased
+the percentage held by the Company's employees.  As a result of the foregoing
+new policy, all of the Company's ESOP contributions commencing in 1993 and
+thereafter  were funded with treasury stock.
+
+Each employee's interest in the ESOP vests in incremental portions based upon
+number of years of employment ranging from three years (20%) to seven years
+(100%).  At March 31, 1995, Mr. Singleton was 100% vested in the 424,842 shares
+in his ESOP account.  These shares are included in the Security Ownership table
+on page 9.  Currently, there are 2,323,056 shares in the ESOP, including the
+424,842 shares in Mr. Singleton's account.  All of the shares in the ESOP
+represent approximately 14.0% of the total outstanding shares.  Of the current
+directors, only Mr. Singleton is currently a participant in Basic's ESOP.
+
+Effective April 1, 1995, the Board of Directors voted to discontinue the ESOP. 
+The Company filed an application with the Internal Revenue Service to terminate
+the ESOP effective April 1, 1995.  This application was made because of the high
+administrative costs associated with maintenance of the ESOP, the low percentage
+of proceeds which are received by employees relative to total ESOP costs, and
+the belief that alternative methods of compensation will more effectively
+benefit the Company's employees.  The application was approved by the Internal
+Revenue Service and the process for final termination is under way.  The Company
+is reviewing several alternatives in deciding how to replace the ESOP.
+
+Basic has an Oil and Gas Incentive Compensation Plan (the Plan) for current and
+former key employees.  Through this Plan, Basic pays to the Plan participants a
+portion of its net revenue after operating expenses on certain properties as
+designated by the Plan Management Committee in which Basic has an interest. 
+Messrs. Breuer and Flake are members of the Plan Management Committee.  The
+portion of the net revenue contributed from any property shall not exceed 5% of
+Basic's interest in that property.  The participants in the Plan make no cash
+outlay in order to participate; it is entirely non-contributory, and an interest
+is not assignable, transferable, nor can it be pledged by the participant. 
+Interest in the Plan vests over a period ranging from four to eleven years;
+however, Basic can sell or otherwise transfer its interest in properties
+designated for the Plan.  If Basic sells a property in the Plan, the
+participants shall receive their respective percentages of the sales price. 
+There are currently six participants in the Plan including Messrs. Breuer, Flake
+and Singleton.  During the year ended March 31, 1996, Messrs. Breuer, Flake and
+Singleton received $5,080, $3,504 and $4,430, respectively, through the Plan. 
+During the year ended March 31, 1995, Messrs. Breuer, Flake and Singleton
+received $5,424, $3,644 and $4,608, respectively.  Mr. Singleton's amounts are
+included in the Other Annual Compensation column in the Executive Officer
+Compensation table above.  Mr. Breuer's amounts were withheld by the Company as
+partial payment of amounts owed the Company. (See Item 12, Certain Relationships
+and Related Transactions, below.)
+
+On July 27, 1995, the Board of Directors adopted the 1995 Incentive Stock Option
+Plan (the "Plan") and in October 1995, the Company's shareholders approved the
+Plan.  This Plan was established to provide a flexible and comprehensive stock
+option and incentive plan which permits the granting of long-term incentive
+awards to employees, including officers and directors employed by the Company or
+its subsidiary, as a means of enhancing and strengthening the Company's ability
+to attract and retain those individuals on whom the continued success of the
+Company most depends.  Mr. Singleton is eligible to receive a grant under this
+Plan.  However, as of May 15, 1996, the Compensation Committee had not met and
+no grants of options had been made under the Plan.
+
+The Company has no contract with any officer which would give rise to any cash
+or non-cash compensation resulting from the resignation, retirement or any other
+termination of such officer's employment with the Company or from a change in
+control of the Company or a change in any officer's responsibilities following a
+change in control.
+
+Director Compensation
+
+In the past, the directors have received no compensation for their services to
+the Company as directors, but are reimbursed for expenses actually incurred in
+attending board meetings.  However, on July 27, 1995, the Board of Directors
+adopted the 1995 Incentive Stock Option Plan (the "Plan") which was approved by
+the Company's shareholders in October 1995.  The Plan provides for eligible,
+non-employee members of the Board of Directors of the Company or its
+subsidiaries (Non-Employee Directors) to receive grants of certain options under
+the Plan to purchase common stock of the Company as compensation for their
+services.  A Non-Employee Director shall not be entitled to receive any grant of
+a non-qualified option if such Non-Employee Director is indebted in any amount
+to the Company as of the date of grant of such non-qualified options.  If such
+indebtedness is paid in full by or on behalf of the affected Non-Employee
+Director within 45 days from the date of grant, the said Non-Employee Director
+shall be entitled to receive the applicable grant of a non-qualified option as
+if such indebtedness due to the Company had not existed.
+
+Specifically, the Plan provides that each eligible, Non-Employee Director shall
+initially be granted a non-qualified option to purchase 50,000 shares of common
+stock effective July 27, 1995, the effective date of the Plan.  Thereafter, on a
+yearly basis, each Non-Employee Director shall be granted a non-qualified option
+to purchase 25,000 shares of common stock of the Company. 
+
+Currently, in accordance with the terms of the Plan, two of the Company's Non-
+Employee Directors, each owning less than 10% of the Company's common stock,
+have been granted a non-qualified option to purchase 50,000 shares of common
+stock at an exercise price of $0.078.  One other Non-Employee Director, who owns
+more than 10% of the Company's common stock, was disqualified to receive a
+similar grant of a non-qualified option to purchase 50,000 shares of common
+stock because of the indebtedness limitation previously mentioned.  If this Non-
+Employee Director had been entitled to receive such an option, the exercise
+price would have been $0.086.  (See Item 12, Certain Relationships and Related
+Transactions, below.)  
+
+<PAGE>
+                                       Item 11
+                   Security Ownership of Certain Beneficial Owners
+                                   and Management
+
+Set forth below, as of May 15, 1996, is information concerning stock ownership
+of all persons, or group of persons, known by the Company to own beneficially 5%
+or more of the shares of Basic's common stock and all directors and executive
+officers of the Company, both individually and as a group, who held such
+positions in the fiscal year just ended.  Basic has no knowledge of any other
+persons, or group of persons, owning beneficially more than 5% of the
+outstanding common stock of Basic as of May 15, 1996.
+<TABLE>
+<CAPTION>
+                                                       Percent of
+                                                       Outstanding
+                                                       Shares
+Name and Address         Shares of Common Stock        Beneficially
+of Beneficial Owner      Beneficially Owned            Owned
+- -------------------      ----------------------        ------------
+<S>                      <C>                           <C>
+G. W. Breuer             3,767,670                     22.7%
+Denver, CO  (1)
+
+Basic's Employee Stock   1,898,214                     11.4%
+Ownership Plan  (2)
+
+Ray Singleton            518,842                       3.1%
+Englewood, CO  (3)
+
+David J. Flake           515,478                       3.1%
+Denver, CO  (4)
+
+Edgar J. Huffman         65,000                        0.4%
+Phoenix, AZ  (5)
+
+All officers and         4,866,990                     29.3%
+directors as a group
+(4 persons: (1),(3),(4) and (5))
+</TABLE>
+(1)  Includes 2,645,191 shares owned by Mr. Breuer directly and 1,122,479 shares
+with indirect beneficial ownership.
+
+(2)  Represents shares held in the Company's and its subsidiary's individual
+Employee Stock Ownership Plan (ESOP) accounts excluding shares held in the ESOP
+accounts of the Company's officers listed separately in the table.
+
+(3)  Represents 94,000 shares held directly by Mr. Singleton and 424,842 shares
+held in Mr. Singleton's ESOP account.
+
+(4)  Represents 505,478 shares owned by Mr. Flake and 10,000 shares with
+indirect beneficial ownership. 
+
+(5)  Includes 25,000 shares owned by Mr. Huffman directly and 40,000 shares with
+indirect beneficial ownership.
+
+Company management knows of no arrangements which may result in a change in
+control of Basic.
+
+                                       Item 12
+                   Certain Relationships and Related Transactions
+
+In September 1995, the Board of Directors authorized a loan to Mr. Singleton, in
+the amount, up to and including, $10,000.  The loan is to be used solely for the
+purchase of Company stock from existing shareholders.  The loan is evidenced by
+a promissory note and requires quarterly interest payments at a fluctuating rate
+equal to the Company's cost of debt.  The note requires no principal payments
+and has a term of five years, at which time the principal balance becomes due. 
+The loan is collateralized by the purchased stock.  Pursuant to this
+arrangement, at March 31, 1996, Mr. Singleton had borrowed $7,344 from the
+Company to purchase 94,000 shares.  
+
+It is the policy of Basic that officers or directors may assign to or receive
+assignments from Basic in oil and gas prospects only on the same terms and
+conditions as accepted by independent third parties.  It is also the policy of
+Basic that officers or directors and Basic may participate together in oil and
+gas prospects generated by independent third parties only on the same terms and
+conditions as accepted by each other.
+
+Subject to this policy, G. W. Breuer, former President and Chief Executive
+Officer and a current director, has participated, since 1980, with Basic in
+various drilling and development arrangements.  Some of these properties are
+still producing, but no longer generate net income consistently.  In the past,
+management's policy allowed for non-payment from certain individuals, including
+Mr. Breuer, of a net loss, in the belief that net income from subsequent months
+would cover the loss.  In August 1993, with the concurrence of the Board of
+Directors, management enacted new policies whereby the Company requested these
+certain individuals, including Mr. Breuer, to bring any outstanding account
+balances current, and to keep them current on an ongoing basis.  This policy has
+resulted in a long standing dispute between Mr. Breuer and the Company over
+ownership of certain properties and the payment of lease operating expenses. 
+The Company has withheld proceeds from sales transactions, and other nominal
+amounts, from Mr. Breuer, as partial payment of this debt.  The Company contends
+that, as of March 31, 1996, the balance owed to Basic by Mr. Breuer was
+approximately $1,400.
+
+During the year ended March 31, 1995, Basic retained the services of Visa Stock
+Transfer, replacing Society National Bank as the Company's stock transfer agent.
+Visa Stock Transfer is a wholly-owned subsidiary of Visa Industries, Inc., of
+which Mr. Huffman is a director.  The fees charged by Visa Stock Transfer are
+lower than those charged by other stock transfer agents. 
+
+In the years ended March 31, 1996, 1995 and 1994, there were no other
+significant related party transactions.
+
+Pursuant to the requirements of Section 13 of the Securities Exchange Act of
+1934, this report is signed below by the following person on behalf of Basic and
+in the capacity indicated.
+
+
+BASIC EARTH SCIENCE SYSTEMS, INC.
+
+/s/ Ray Singleton                  /s/Karen E. Riner
+- -------------------------          -----------------------------
+Ray Singleton, President           Karen E. Riner, Controller
+                                   (formerly Karen E. Morris)
+                                   Principal Accounting Officer
+
+July 30, 1996                      July 30, 1996
+- -------------------------          -----------------------------
+Date                               Date
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

@@ -1,0 +1,1594 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ HU+3JK3Q3+Uyd0HXQG/9SzZi945ug0gs5KjJoiP02ixMZVQDD/Y0bmjkax2EeaE+
+ xApJNsUaWTg6084T/WaeHw==
+
+<SEC-DOCUMENT>0000016317-08-000008.txt : 20080402
+<SEC-HEADER>0000016317-08-000008.hdr.sgml : 20080402
+<ACCEPTANCE-DATETIME>20080402095609
+ACCESSION NUMBER:		0000016317-08-000008
+CONFORMED SUBMISSION TYPE:	10KSB/A
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20071231
+FILED AS OF DATE:		20080402
+DATE AS OF CHANGE:		20080402
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			CALIFORNIA ENGELS MINING CO
+		CENTRAL INDEX KEY:			0000016317
+		STANDARD INDUSTRIAL CLASSIFICATION:	METAL MINING [1000]
+		IRS NUMBER:				940357560
+		STATE OF INCORPORATION:			CA
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10KSB/A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-04819
+		FILM NUMBER:		08731512
+
+	BUSINESS ADDRESS:	
+		STREET 1:		117 CRESCENT ST
+		STREET 2:		P O BOX 778
+		CITY:			GREENVILLE
+		STATE:			CA
+		ZIP:			95947
+		BUSINESS PHONE:		5302846191
+
+	MAIL ADDRESS:	
+		STREET 1:		117 CRESCENT ST
+		STREET 2:		P O BOX 778
+		CITY:			GREENVILLE
+		STATE:			CA
+		ZIP:			95947
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>10KSB/A
+<SEQUENCE>1
+<FILENAME>ed10k07a.txt
+<TEXT>
+
+
+
+
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D. C. 20549
+
+Form 10-KSB/A
+
+
+Annual Report Pursuant to Section 13 or 15 (d)
+of the Securities Exchange Act of 1934
+
+
+For the Fiscal Year Ended December 31, 2007
+
+Commission File No. 1-3871
+
+
+
+CALIFORNIA-ENGELS MINING COMPANY
+
+Incorporated in the                                           IRS Employer I.D.
+State of California                                            No. 94-0357560
+
+117 Crescent Street
+P. O. Box 778
+Greenville, California 95947-0778
+Telephone Number (530) 284-6191
+
+SECURITIES REGISTERED PURSUANT TO
+SECTION 12 (b) OF THE ACT
+
+Title of Each Class                             Number of Shares
+                                                Outstanding
+Capital Stock, par
+value, $ .25 per share                         757,226.04
+
+
+Indicate by check mark whether the registrant (1) has filed all reports
+required to be filed by Section 13 or 15 (d) of the Securities Exchange
+Act of 1934 during the preceding 12 months, and (2) has been
+subject to such filing requirements for the past 90 days.
+
+     Yes   X      No
+
+
+As of March 17, 2008, 757,226.04 capital shares were outstanding,
+and the aggregate market value of the common shares of
+California-Engels Mining Company held by non-affiliates
+was approximately $768,135.
+
+Documents Incorporated by Reference
+NONE
+
+
+Filing Contains 27 Pages
+PART 1
+
+ITEM 1.  Business
+
+Registrant was incorporated under the laws of the State of California
+on July 12, 1922, under the name of California Copper Corporation,
+as a holding company for the shares of its operating company, Engels
+Copper Mining Company which was incorporated under the laws of the
+State of California on June 19, 1901.  Engels Copper Mining Company
+was merged into California Copper Corporation on March 3, 1936, and
+the name of the merged company was changed to California-Engels
+Mining Company.  Exploration and development commenced at the Engels
+Mine, Lights Creek Mining District, Plumas County, California, upon
+organization of Engels Copper Mining Company; but it was not until 1914
+when the first all flotation mill for copper in the United States was built
+and actual production of copper started.  From 1914 until operations
+were suspended due to the low price of copper in July, 1930, approximately
+4,700,000 tons of ore were mined from the Engels and Superior mines and
+milled producing 160,170,000 pounds of copper and substantial values
+in gold and silver. Out of profits of this operation, the Registrant retired
+a bond issue of $500,000 and paid out more than $1,285,000 in dividends.
+During the 1930's the mining and milling plant, Engelmine town site and
+the Indian Valley Railroad subsidiary were dismantled and sold.
+
+Registrant's mining properties were continuously leased from September, 1947,
+to March, 1951; from March, 1951, to December, 1959; from November, 1960,
+to October, 1979; from August, 1980, to August, 1990; and from November, 1990,
+to April 1993.  The lessee from 1964 to 1993 was Placer Dome U.S. Inc., the U.S.
+subsidiary of Placer Dome Inc., Vancouver, B.C., Canada.  The Mining Lease With
+Option to Purchase, between the Registrant (Lessor) and Placer Dome U.S. Inc.
+(Lessee) was terminated by Placer Dome U.S. Inc. effective April 20, 1993.
+Registrant received a substantial amount of technical data on its mining
+properties and maintains a library on the Plumas Copper Belt.
+
+During the 1960's and 1970s Placer Dome U.S. Inc. conducted an exploration
+and development program on Registrant's Superior Mine, Sulphide Ridge property
+and Engels Mine. They identified two large porphyry-type copper bearing zones
+in the Superior Mine and on Sulphide Ridge. The Engels Mine was also estimated
+to contain copper mineralization amenable to bulk mining method. Both the
+Engels and Superior mines contain high-grade surface and underground copper
+mineralization. Other exploration targets remain to be tested including an
+intensely sheared area in the quartz monzonite southeast of the Superior
+Mine and north of Superior Ridge, the Quigley Prospect, the area between the
+Superior and  Engels mines in the quartz monzonite near its contact with the
+coarse grained granite, along the main fault zone and the metavolcanic, quartz
+diorite, gabbro contact northeast of the Engels Mine and an indicated quartz
+monzonite intrusive beneath the Engels Mine where a deep ore system could be
+found.These deposits and prospects were not deemed economically attractive
+for many years. However in response to a projected global shortage of copper
+and higher prices, interest renewed in the geologically unique Lights Creek
+Mining District.
+
+
+On April 18, 2006, Registrant entered into an Exploration Permit With Option
+to Lease and Purchase agreement with American Sheffield Inc., a Nevada
+corporation, a wholly owned subsidiary of Sheffield Resources Ltd., a British
+Columbia corporation, on its 36 patented lode mining claims and 162.12 acres of
+fee lands at Engelmine, Lights Creek Mining District, Plumas County,
+California. Subsequently on August 10, 2006, American Sheffield Inc.
+excercised its option to enter into the Lease and Purchase agreement.
+The Lease and Purchase agreement call for annual payments of $20,000 and
+the issuance of up to 250,000 shares of Sheffield Resources Ltd. Other
+clauses customary to mining leases are included in the agreement. To exercise
+its option to purchase the above Registrants property, American Sheffield Inc.
+may pay either 1,000,000 shares of Sheffield Resources Ltd. or $10,000,000.
+Registrant to receive an annual advance royalty payment of $60,000 subject to
+CPI adjustments or two percent (2%) of Net Smelter Returns, which ever is
+greater. Net Smelter Return royalties are capped at $25,000,000. Registrant
+retains the right to the timber on its above property and to manage its
+Engelmine Forest, California Tree Farm # 2611 pursuant to its Non-Industrial
+Timber Management Plan and to extract road rock from the No. 10 Level dump of
+the Engels Mine.  After mining and reclamation has been completed on the above
+property Registrant may request to have title to the lands transferred back
+to Registrant.
+
+During 2007, American Sheffield Inc., drilled a total of 2,322.7m in 32 HQ
+drill holes and took 250.3m long channel samples from surface trenches at the
+Engels Mine  prospect. In addition the Number 3 Level of the Engels Mine was
+reopened and the accessible portion was continuously channel sampled. Drilling
+will resume in the spring of 2008 to further define the Engels Mine high-grade
+mineralization. The drill program is designed to define high-grade copper
+mineralization which may be mined in a pit of a copper leach mine.
+
+A Non-Industrial Timber Management Plan on Registrants mining properties
+was approved by the California Department of Forestry and became effective
+July 2, 1999.  The permitting process for this project began in August, 1994
+with the start of the archaeological survey and the February, 1995 agreement
+with Shasta Land Management Consultants to prepare the Plan.
+
+Registrant made application to the California Tree Farm Committee of the
+American Tree Farm System for approval of its Engelmine Forest timber lands
+on Lights Creek as a tree farm.  Its Engelmine Forest was accepted as
+California Tree Farm No. 2611 on June 17, 1999.
+
+From 1999 to 2001 Registrant engaged in mechanical thinning and timber harvest
+projects on its properties producing 1,809,520 board feet of timber. Hand
+thinning projects were ongoing on overstock areas of Registrants property.
+The purpose of thinning harvests was to reduce fire danger, improve the
+timber stand, provide wildlife protection, remove hazard timber and
+improve aesthetics.
+
+The U.S.D.A. Forest Service approved its Sierra Nevada Forest Plan
+Amendment on January 21, 2004 and affirmed it after appeals on
+November 18, 2004. The plan was to activate the Herger-Feinstein
+Quincy Library Group (HFQLG) pilot project on the Plumas National
+Forest. If the Diamond Vegetation Management Project of the HFQLG
+had been implemented it would have resulted in surface ladder fuels
+thinning to reduce the extent and severity of wildland fire on the
+Plumas National Forest surrounding Registrants property. The project was
+blocked upon appeal by various environmental groups. Registrants Engelmine
+Forest tree farm was severely damaged by the 65,000 acre Moonlight Fire on
+the Plumas National Forest between September 3-15, 2007. Mineral lessee,
+American Sheffield Inc. contractors drill rig, water truck and trailer survived
+the fire because of forest thinning by Registrant around the Engels Mine.
+Pursuant to its Non-Industrial Timber Management Plan salvage logging of
+dead and dying trees began on Registrants property October 12, 2007 and
+will continue until completed. As a result of this wildland fire the registrants
+Non-Industrial Timber Management Plan pursuant to the California Forest
+Practice Rules will have to be substantially amended.
+
+Registrant is subject to a State of California General Industrial Activities
+Storm Water Permit. During the year, pursuant to the Registrants Storm
+Water Pollution Prevention Plan, catch and evaporation basins were
+maintained. Water sampling was continued by mineral lessee, American
+Sheffield Inc.
+
+ITEM 2.  Properties
+
+(a) Registrant is the fee owner of 36 patented lode mining claims
+totaling 736 acres, plus 239.24 acres of other patented lands at
+Engelmine, Lights Creek Mining District, Plumas County, California.
+Pursuant to the Exploration Permit With Option to Lease and Purchase
+dated April 18, 2006, American Sheffield Inc., a Nevada Corporation,
+a wholly owned subsidiary of Sheffield Resources Ltd., a British Columbia
+corporation, exercised its option to enter into a Mining Lease with
+Option to Purchase Registrants 36 patented lode mining claims and
+162.12 acres of other patented lands at Engelmine. The remaining 77.12
+acres of Registrants patented lands at Engelmine are not subject
+to any encumbrance.
+
+(b) Registrant is the fee owner of five patented lode mining claims
+totaling 100 acres in the Genesee Mining District, Plumas County,
+California. None of the claims are subject to any encumbrance.
+
+ITEM 3.  Legal Proceedings
+
+     None
+
+ITEM 4.  Submission of Matters to a Vote of Security Holders
+
+     None
+
+ITEM 5.  Market for the Registrant's Capital Stock and Related
+        Shareholder Matters
+
+                (a)  Principal Markets.
+
+Registrant's shares of Capital Stock are quoted on the
+Over-the-Counter Market in the "pink sheets" which are
+available daily at www.pinksheets.com under the symbol "CAEN".
+
+The following table shows the high and low bid prices of
+Registrants Capital Shares in the Over-the-Counter Market
+for the past two years:
+
+                    High Bid       Low Bid
+2007 Market Price    $3.00           1.80
+2006 Market Price    $15.00          1.15
+
+
+(b) Approximate number of holders of Capital Stock.
+
+The approximate number of holders of record of Registrant's
+Capital Stock as of March 17, 2008 is 763.
+
+(c) Registrant has not paid a dividend on its Capital Stock because
+it has had an accumulated deficit since the merger in 1936.
+The Board of Directors of the Registrant is endeavoring to earn income
+from the sale of salvage timber, mineral lease rental, interest,
+dividends and its bookkeeping business so funds are available
+for the maintenance of its mining properties and the implementation
+of its timber management plan. It is not the intention of the
+Registrant to pay dividends in the foreseeable future.
+
+
+ITEM 6.  Selected Financial Data Year Ended December 31
+
+Selected Financial Data
+
+              2007      2006       2005    2004      2003
+Operating
+Revenues     175,130   64,464     27,914   24,531   31,493
+
+Net Income
+(Loss)        31,747   19,669    53,774   (1,604)  (17,993)
+
+Income (loss)
+from continuing
+operations
+per capital
+share           .042     0.026     0.071  (0.002)    (.024)
+
+Total
+Assets       546,315   508,820   505,099  453,175   460,901
+
+Working
+Capital      184,301    25,051    47,751   35,052    19,798
+
+Shareholder's
+Equity       532,952   501,950   482,215  428,441   430,477
+
+
+ITEM 7.  Management's Discussion and Analysis of Financial
+               Condition and Results of Operations
+
+(a) Financial condition, changes in financial condition and results of
+ operations.
+
+During the 30 years its mining properties were leased, the
+Board of Directors of the Registrant endeavored to increase
+working capital, total assets and shareholder's equity in the event
+that its lessee, Placer Dome U.S. Inc., terminated its Mining Lease
+With Option to Purchase agreement and return the mining properties
+to the Registrant. This event occurred effective April 20, 1993.
+Thus funds were available to begin preparation of the Non-Industrial
+Timber Management Plan.  To provide regular monthly income the
+President of the Registrant, on January 1, 2000, transferred his
+bookkeeping business to the Registrant. The current Lease and Purchase
+agreement and salvage logging operation will provide additional funds
+for operation. Changes in working capital, total assets and shareholders
+equity for the past five years are summarized as follows:
+
+
+Changes Working Capital
+
+             2007        2006       2005      2004         2003
+           184,301      25,051     47,751    35,052       19,798
+
+Total
+Assets     546,315     508,820    460,901   460,901      460,901
+
+Shareholders
+Equity
+           532,952     501,950    430,477   430,477      430,477
+
+
+
+The objective of the Board of Directors of the Registrant is to earn
+income from the Lease and Purchase agreement, the sale of salvage
+timber and its bookkeeping business so funds are available for the
+maintenance of its mining properties and the implementation of its
+Non-Industrial Timber Management Plan.
+
+(b)  Results of operations.
+
+Registrants principal sources of income are from the Lease and
+Purchase agreement, the sale of salvage timber, its bookkeeping
+business, interest and dividends. There is no assurance that any
+of the sources of income will continue at current rates into the
+future.
+
+ITEM 8.  Financial Statements and Supplementary Data
+
+Financial statements relying on Rule 3-11 of Regulation S-X which
+allows the filing of unaudited statements of inactive registrants
+are listed in the index to financial statements and schedules, and are
+included under PART IV, Item 14, of this report.
+
+ITEM 9.  Disagreements on Accounting and Financial Disclosures
+
+There were no disagreements on accounting and financial disclosure
+matters required to be disclosed in this item.
+
+ITEM 9A. Controls and Procedures
+
+With the participation of management, the Registrants chief
+executive officer and chief financial officer evaluated its disclosure
+controls and procedures on December 31, 2007, as defined in
+Rules 13a-15(e) and 15d-15(e) under the Securities Exchange Act
+of 1934. Based on this evaluation, the chief executive officer and the
+chief financial officer concluded that the disclosure controls and
+procedures are effective in connection with the Registrant filing
+of its annual report on Form 10-K for the year ended December 31, 2007.
+
+During 2007, there was no change in the Registrants internal controls
+over financial reporting that has materially affected, or is likely to
+materially affect, the Registrant's internal controls over financial reporting.
+
+ITEM 9B. Other Information
+
+                  None
+
+PART III
+
+ITEM 10.  Directors and Executive Officers of the Registrant
+
+(a)  Identification of directors.
+
+Director's Name, Age, Positions and Offices, Year First Elected,
+and Principal Occupation
+
+Norman A. Lamb (71) President & Director, 1978,
+Mining Executive
+Greenville, CA
+
+Richard C. Poulton (64) Director,1993,
+Consultant,
+San Mateo, CA
+
+M. Blair Ogden (74) Secretary-Treasurer & Director, 2000,
+Retired Attorney at Law
+San Rafael, CA
+
+There are no arrangements or understandings between any of the foregoing
+persons and any other person or persons pursuant to which any of the foregoing
+persons were named as directors.
+
+(b)  Identification of executive officers.
+
+Name of Officer        Age   Office Held
+
+Norman A. Lamb       71    President
+M. Blair Ogden       74    Secretary-Treasurer
+
+There are no arrangements or understandings between any of the foregoing
+persons and any other person or persons pursuant to which any of the foregoing
+persons were named as executive officers.
+
+(c)  Identification of certain significant employees.
+          None
+
+(d)  No family relationships exist between any of the above named
+directors and executive officers of the Registrant.
+
+(e)  Business experience.
+
+(1)  Norman A. Lamb is a Mining Executive and an officer and
+director of several public mineral companies. He serves the Registrant as
+President, was Secretary-Treasurer until November 16, 1987, and has been a
+Director since 1978.
+
+(2)  M. Blair Ogden is a retired attorney and an officer and director
+of several public mineral companies. He was elected a Director of the
+Registrant on May 21, 2000 and Secretary-Treasurer on
+October 31, 2005.
+
+(3)  Richard C. Poulton is a Consultant.  He was elected a
+Director of the Registrant on March 27, 1993.
+
+
+(f)  Involvement in certain legal proceedings.
+
+There have been no events under any bankruptcy act, no criminal
+proceedings and no judgments or injunctions material to the evaluation
+of the ability and integrity of any director or executive officer during
+the past five years.
+
+(g)  Compliance with Section 16(a) of the Exchange Act
+
+Registrant is not aware of any person who at any time during the year 2007
+was a director, officer or beneficial owner of more than 10 percent
+of Registrants capital stock who failed to file on a timely basis reports
+required by Section 16(a) during 2007 or prior years.
+
+(h) As of year ended December 31, 2007 the Registrant did not have an
+audit committee. Its financial statements are unaudited therefore it has
+neither an audit committee nor an audit committee financial expert.
+
+(i)  As of year ended December 31, 2007, the Registrant has not adopted
+a written code of ethics. Registrant has been in existence 106 years and is
+guided by tradition, its Articles of Incorporation and By-Laws. In addition its
+officers and directors are, or represent, substantial shareholders.  Another
+document is not needed.
+
+ITEM 11.  Executive Compensation
+
+ (a)  Cash Compensation.
+
+Name of Individual or Number in Group,
+Capacities in Which Served,
+Cash Compensation,
+
+Norman A. Lamb,
+President,
+$ 0.00
+
+Officers and Directors as a group,
+Three persons including those named above.
+$ 0.00
+
+(b)  Compensation pursuant to plans.
+
+During the fiscal year, Norman A. Lamb was reimbursed for out-of-pocket
+expenses.
+
+(c)  Other compensation.
+
+       None
+
+(d)  Compensation of directors.
+
+       None
+
+(e)  Termination of employment and change of control arrangement.
+
+      None
+
+ITEM 12. Security Ownership of Certain Beneficial Owners and Management
+
+(a)  Security ownership of certain beneficial owners.
+
+The following table shows, as of March 17, 2008, the number of shares of
+Capital Stock held by every person owning of record or known by the
+Registrant as owning beneficially more than five percent of the outstanding
+stock.
+
+Title of Class Name, Address of Beneficial Owner,
+Amount and Nature of Beneficial Ownership, Percent of Class
+Capital Stock
+Par Value
+ $ .25 Per Share
+
+
+Norman A. Lamb
+P. O. Box 778
+Greenville, CA 95947
+280,231.5 shares
+owned of record and beneficially * 37%
+
+M. Blair Ogden
+1228 Idylberry Road
+San Rafael, CA  94903
+183,789 shares
+owned beneficially **              24.2%
+
+Poulton Trust
+551 West 30th Ave.
+San Mateo, CA 94403
+50,253 shares owned of record       6.6%
+
+Reardon Family Trust
+162 East Market St
+Daly City, CA  94014
+44,366 shares owned of record       5.8%
+
+*  Includes 97,789 shares owned by Jenex Gold Corporation, a Washington
+corporation, of which Mr. Lamb is President, a Director and major shareholder.
+Includes 86,000 shares owned by The Flowery Gold Mines Company of
+Nevada, a Nevada corporation, of which Mr. Lamb is President, a
+Director and major shareholder.
+
+**  Includes 97,789 shares owned by Jenex Gold Corporation, a Washington
+corporation, of which Mr.Ogden is Secretary-Treasurer and a Director.
+Includes 86,000 shares owned by The Flowery Gold Mines Company
+of Nevada, a Nevada corporation, of which Mr Ogden is Secretary-Treasurer,
+a Director and substantial shareholder.
+
+ (b) Security ownership of management.
+
+The following table shows as of March 17, 2008, all shares of Capital
+Stock beneficially owned by all directors and all directors and officers of
+Registrant as a group.
+
+Title of Class,  Name of  Beneficial Owner, Amount and Nature of Beneficial
+Ownership, Percent  of Class
+Capital Stock
+Par Value
+$0.25 per share
+
+Norman A. Lamb
+280,231.5 shares owned of record and beneficially * 37%
+
+M. Blair Ogden 183,789 shares owned beneficially **  24.2%
+
+Richard C. Poulton  50,253 shares owned beneficially ***  6.6%
+
+All directors and officers as a group (three persons)
+330,484.5 shares                                         43.6%
+
+* Includes 97,789 shares owned by Jenex Gold Corporation,
+a Washington corporation, of which Mr. Lamb is President, a Director
+and major shareholder. Includes 86,000 shares owned by The Flowery
+Gold Mines Company of Nevada, a Nevada corporation, of which
+Mr.Lamb is President, a Director and major shareholder. Mr. Lamb
+may be deemed to have shared voting and investment power with
+respect to such shares.
+
+** Includes 97,789 shares owned by Jenex Gold Corporation, a Washington
+corporation, of which Mr. Ogden is Secretary-Treasurer and a Director.
+Includes 86,000 shares owned by The Flowery Gold Mines Company of Nevada,
+a Nevada corporation, of which Mr. Ogden is Secretary-Treasurer,
+a Director and substantial shareholder. Mr. Ogden may be deemed to
+have shared voting and investment power with respect to such shares.
+
+*** Includes 50,253 shares owned by the Poulton Trust, of which Mr. Poulton is
+co-trustee. Mr. Poulton may be deemed to have shared voting and investment
+power with respect to such shares.
+
+(c)  Changes in control.
+
+ Mr. Lamb may be deemed the "parent" or a "control person" of Registrant,
+as those terms are defined under the Securities Exchange Act of 1934, as
+amended.  There are no arrangements known to Registrant the operation of
+which may at a subsequent date result in a change of control of Registrant.
+
+ITEM 13. Certain Relationships and Related Transactions
+
+          None
+
+PART IV
+
+
+ITEM 14. Exhibits, Financial Statements, Schedules and Reports on Form 8-K
+
+(a)  Financial Statements:                                  Page
+
+Balance Sheets as of December 31, 2007
+and December 31, 2006.                                   F 1
+
+Statements of Operations for the Years Ended
+December 31, 2007, December 31, 2006, and
+December 31, 2005.                                       F 2
+
+Statements of Accumulated Deficit and
+Accumulated Other Comprehensive Income (Loss)
+for the Years Ended December 31, 2007,
+December 31, 2006, and December 31, 2005                 F 3
+
+Statements of Cash Flows for the years ended
+December 31, 2007, December 31, 2006, and
+December 31, 2005.                                       F 4-5
+
+(b)  Notes to Financial Statements                       F 6-14
+
+(c)  Exhibits
+
+       None.
+
+(d)  No reports on Form 8-K were filed during the last
+       quarter of 2007.
+
+SIGNATURES
+
+Pursuant to the requirements of section 13 or 15(d) of the Securities
+Exchange Act of 1934, the Registrant has duly caused this report to
+be signed on its behalf by the undersigned, thereunto duly authorized.
+
+CALIFORNIA-ENGELS MINING COMPANY
+Registrant
+
+
+By  /s/ Norman A. Lamb
+
+Norman A. Lamb, President and Chief Executive Officer
+
+Date:  March 17, 2008
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, this
+report has been signed below by the following persons on behalf of the
+Registrant and in the capacities and on the dates indicated.
+
+By  /s/ Norman A. Lamb
+
+Norman A. Lamb
+President and Director
+March 17, 2008
+
+
+By  /s/ M. Blair Ogden
+
+M. Blair Ogden
+Secretary-Treasurer
+Chief Financial and
+Accounting Officer
+March 17, 2008
+
+
+By  /s/ Richard C. Poulton
+
+Richard C. Poulton
+Director
+March 17, 2008
+
+
+
+CALIFORNIA-ENGELS MINING COMPANY
+FORM 10-K
+FOR THE PERIOD ENDED December 31, 2007
+
+CERTIFICATIONS
+
+I, Norman A. Lamb, certify that:
+
+1. I have reviewed this report on Form 10-K of California-Engels Mining
+Company;
+
+2. Based on my knowledge, this report does not contain any untrue statement
+of a material fact or omit to state a material fact necessary to make the
+statements made, in light of the circumstances under which such statements
+were made, not misleading with respect to the period covered by this report;
+
+3. Based on my knowledge, the financial statements, and other financial
+information included in this report, fairly present in all material respects the
+financial condition, results of operations and cash flows of the registrant as
+of, and for, the periods presented in this report;
+
+4. The registrants other certifying officers and I are responsible for
+establishing and maintaining disclosure controls and procedures
+(as defined in Exchange Act Rules 13a-14 and 15d-14) for the registrant
+and have:
+
+(a) designed such disclosure controls and procedures to ensure that
+material information relating to the registrant is made known to us
+particularly during the period in which this report is being prepared;
+
+(b) evaluated the effectiveness of the registrant's disclosure controls and
+procedures as of a date within 90 days prior to the filing date of this report
+(the "Evaluation Date"); and
+
+(c) presented in this report our conclusions about the effectiveness of the
+disclosure controls and procedures based on our evaluation as of the
+Evaluation Date;
+
+1. The registrant's other certifying officers and I have disclosed, based on
+our most recent evaluation, to registrant's board of directors (or persons
+performing the equivalent functions):
+
+(a) all significant deficiencies in the design or operation of internal controls
+which could adversely affect the registrant's ability to record, process,
+summarize and report financial data and have identified any material
+weaknesses in internal controls; and
+
+(b) any fraud, whether or not material, that involves management or other
+employees who have a significant role in the registrant's internal controls; and
+
+1. The registrants other certifying officers and I have indicated in this
+report whether or not there were significant changes in internal controls
+or in other factors that could significantly affect internal controls subsequent
+to the date of our most recent evaluation, including any corrective actions
+with regard to significant deficiencies and material weaknesses.
+
+
+/s/ Norman A. Lamb  Date: March 17, 2008
+Norman A. Lamb,
+President and
+Chief Executive Officer
+
+
+CALIFORNIA-ENGELS MINING COMPANY FORM 10-K
+FOR THE PERIOD ENDED December 31, 2007
+
+CERTIFICATION
+
+I,  M. Blair Ogden, certify that:
+
+1. I have reviewed this report on Form 10-K of California-Engels Mining
+Company;
+
+2. Based on my knowledge, this report does not contain any untrue statement
+of a material fact or omit to state a material fact necessary to make the
+statements made, in light of the circumstances under which such statements
+were made, not misleading with respect to the period covered by this report;
+
+3. Based on my knowledge, the financial statements, and other financial
+information included in this report, fairly present in all material respects the
+financial condition, results of operations and cash flows of the registrant as
+of, and for, the periods presented in this report;
+
+4. The registrants other certifying officers and I are responsible for
+establishing and maintaining disclosure controls and procedures
+(as defined in Exchange Act Rules 13a-14 and 15d-14) for the
+registrant and have:
+
+(a) designed such disclosure controls and procedures to ensure that
+material information relating to the registrant is made known to us particularly
+during the period in which this report is being prepared;
+
+(b) evaluated the effectiveness of the registrant's disclosure controls and
+procedures as of a date within 90 days prior to the filing date of this report
+(the "Evaluation Date"); and
+
+(c) presented in this report our conclusions about the effectiveness of the
+disclosure controls and procedures based on our evaluation as of the
+Evaluation Date;
+
+1. The registrants other certifying officers and I have disclosed, based
+on our most recent evaluation to the registrant's board of directors
+(or persons performing the equivalent functions):
+
+(a) all significant deficiencies in the design or operation of internal
+controls which could adversely affect the registrant's ability to
+record, process, summarize and report financial data and have
+identified any material weaknesses in internal controls; and
+
+(b) any fraud, whether or not material, that involves management or other
+employees who have a significant role in the registrant's internal controls; and
+
+1. The registrants other certifying officers and I have indicated in this report
+whether or not there were significant changes in internal controls or in other
+factors that could significantly affect internal controls subsequent to the date
+of our most recent evaluation, including any corrective actions with regard
+to significant deficiencies and material weaknesses.
+
+
+/s/ M. Blair Ogden  Date: March 17, 2008
+ M. Blair Ogden,
+ Secretary-Treasurer and Chief Financial Officer
+
+
+CALIFORNIA-ENGELS MINING COMPANY
+BALANCE SHEETS
+DECEMBER 31, 2007 AND 2006
+ (Unaudited)
+- -----------------------------------------------------------------
+ASSETS                   2007                   2006
+
+CURRENT ASSETS
+
+Cash                   $184,301               $  25,051
+
+Deeds of Trust
+current portion           5,063                   6,930
+
+Total Current Assets    189,364                  31,981
+
+PROPERTY AND
+EQUIPMENT, net          234,640                 327,633
+
+OTHER ASSETS
+Investments
+available for sale       32,200                  10,077
+
+Deeds of trust
+net of current portion   89,991                 149,580
+
+Deferred Income taxes       120                 (10,451)
+
+TOTAL OTHER
+ASSETS                  122,311                 149,206
+
+Total Assets          $ 546,315               $ 508,820
+
+
+LIABILITIES AND STOCKHOLDER'S EQUITY
+
+CURRENT LIABILITIES       2007                 2006
+
+Accrued expenses         13,363                6,870
+
+Total Current
+Liabilities              13,363                6,870
+
+Long term
+Liabilities               -                     -
+
+Total Liabilities        13,363                6,870
+
+STOCKHOLDERS  EQUITY
+Capital Stock, par value $.25:
+
+California-Engels
+Mining Company,
+4,000,000 shares
+authorized 757,226.04
+shares issued and
+outstanding in            2007                  2006
+
+                       $189,307              $189,307
+
+Accumulated
+other
+comprehensive
+income (loss)             (680)                    65
+
+Reduction
+surplus              2,800,092              2,800,092
+
+Accumulated
+deficit             (2,455,767)            (2,487,514)
+
+Total
+Stockholders
+Equity                 532,952                501,950
+
+Total Liabilities
+and  Stockholders
+Equity               $ 546,315              $ 508,820
+
+
+The accompanying notes are an integral part of these financial statements.
+CALIFORNIA-ENGELS MINING COMPANY
+STATEMENTS OF OPERATIONS
+FOR THE YEARS ENDED DECEMBER 31, 2007, 2006 AND 2005
+(Unaudited)
+- -----------------------------------------------------------------------------
+
+
+                           2007            2006            2005
+
+REVENUE
+Timber
+salvage sales           $ 107,098         $ -              $ -
+
+Dividend income             2,809          2,002             696
+
+Interest income             5,773         15,194           8,592
+
+Professional services      14,450         16,268          18,146
+
+Lease option income        45,000         31,000             480
+
+Total Revenue             175,130         64,464          27,914
+
+
+OPERATING AND
+GENERAL EXPENSES
+
+Depreciation                1,026          1,838           1,696
+
+Insurance                   1,575          1,725           1,726
+
+Miscellaneous                 390            510             355
+
+Office and
+storage rents               6,000            -                86
+
+Office expenses             1,930          1,183           1,219
+
+Payroll expense             6,594          6,672           7,265
+
+Professional fees           4,025          9,211           3,792
+
+Repairs and maintenance     1,450          4,753           1,690
+
+Taxes and licenses          3,540          5,434           5,416
+
+Travel and per diem           494            964             675
+
+Vehicle expense             1,652          2,042             917
+
+Salvage logging
+expense                     9,232            -                -
+
+Total Operating and
+General Expenses           37,908         34,332          24,837
+
+Income (Loss) from
+Operations                137,222         30,132           3,077
+
+OTHER INCOME and
+(EXPENSE)
+
+Timber plan
+write off                 (91,967)        (6,000)         (6,569)
+
+Gain (loss) on
+sale of
+assets                      1,485            -            73,610
+
+Interest                      -              (50)           (409)
+
+Total Other Income
+and (Expense)             (90,482)         (6,050)        66,632
+
+Income (Loss)
+Before Taxes               46,740          24,082         69,709
+
+Provision for
+income taxes              (14,993)         (4,413)       (15,935)
+
+Net Income               $ 31,747        $ 19,669       $ 53,774
+
+Earnings Per Share        $ 0.042         $ 0.026        $ 0.071
+
+
+The accompanying notes are an integral part of these financial statements.
+
+CALIFORNIA-ENGELS MINING COMPANY
+STATEMENTS OF ACCUMULATED DEFICIT AND
+ACCUMULATED OTHER COMPREHENSIVE INCOME (LOSS)
+FOR THE YEARS ENDED DECEMBER 31, 2007, 2006 AND 2005
+(Unaudited)
+
+
+ACCUMULATED
+DEFICIT,                  2007              2006            2005
+
+Beginning of
+year                  $(2,487,514)      $(2,507,183)    $ 2,560,959)
+
+Net Income                 31,747            19,669          53,774
+
+ACCUMULATED
+DEFICIT,
+End of year           $(2,455,767)      $(2,487,514)    $(2,507,183)
+
+ACCUMULATED
+OTHER
+COMPREHENSIVE
+INCOME (LOSS),
+
+Beginning of year     $        65       $     -         $    -
+
+Other Comprehensive
+Income (Loss)                (745)               65          -
+
+ACCUMULATED
+OTHER
+COMPREHENSIVE
+INCOME (LOSS),
+
+End of year           $     (680)       $        65     $    -
+
+
+
+The accompanying notes are an integral part of these financial statements.
+CALIFORNIA-ENGELS MINING COMPANY
+STATEMENTS OF CASH FLOWS
+FOR THE YEARS ENDED DECEMBER 31, 2007, 2006 AND 2005
+(Unaudited)
+- -----------------------------------------------------------------------------
+
+
+
+                          2007              2006            2005
+CASH FLOWS
+FROM OPERATING
+ACTIVITIES
+
+Net Income               $ 31,747          $ 19,669        $ 53,774
+Adjustments to
+reconcile net income
+to net cash provided
+(used) by operating
+activities:
+
+Depreciation and
+depletion                   1,026             1,838           1,696
+
+Amortization of
+GNMA discount                -                 -                 (7)
+
+Gain on sale
+of assets                   1,485              -            (73,610)
+
+Stock received for
+mineral leases             (25,000)        (10,000)            -
+
+CHANGE IN
+OPERATING
+ASSETS AND
+LIABILITIES
+
+Accounts
+receivable                    -               -                -
+
+Accrued expenses             6,493           2,423          (11,914)
+
+Deferred income
+taxes                      (10,440)         (7,983)          10,064
+
+Net Cash Provided
+(Used) by Operating
+Activities                   2,341           5,947          (19,997)
+
+CASH FLOWS
+FROM INVESTING
+ACTIVITIES
+
+Payments received on
+notes receivable            61,457          28,849           10,617
+
+Issuance of
+notes receivable              -            (57,571)          (55,000)
+
+Timber plan loss            91,967            -                 -
+
+Proceeds from sale
+of securities                3,485            -                 -
+
+Proceeds from
+sale of land                  -               -               79,452
+
+Capital
+expenditures                  -               -               (2,697)
+
+Return of principal
+GNMA                          -                 75               324
+
+
+Net Cash Provided
+(Used) by
+Investing
+Activities               $ 156,909       $ (28,647)         $ 32,696
+
+
+The accompanying notes are an integral part of these financial statements.
+CALIFORNIA-ENGELS MINING COMPANY
+STATEMENTS OF CASH FLOWS
+FOR THE YEARS ENDED DECEMBER 31, 2007, 2006 AND 2005
+(Unaudited)
+- -----------------------------------------------------------
+
+
+
+                          2007            2006            2005
+
+CASH FLOWS
+FROM FINANCING
+ACTIVITIES
+
+Purchase and retirement
+of treasury shares         -               -                -
+
+Principal payments
+on debt                    -               -                -
+
+Net Cash Provided
+(Used) by
+Financing Activities       -               -                -
+
+Net Increase
+(Decrease) in Cash
+and Cash
+Equivalents               159,250        (22,700)          12,699
+
+CASH AND CASH
+EQUIVALENTS,
+
+Beginning of Year          25,051         47,751           35,052
+
+CASH AND CASH
+EQUIVALENTS,
+
+End of Year             $ 184,301       $ 25,051         $ 47,751
+
+
+SUPPLEMENTAL
+DISCLOSURE OF
+CASH FLOW
+INFORMATION
+
+Cash paid during
+the year:
+
+Income taxes             $ 18,940        $ 10,101        $    800
+
+Interest                 $   -            $  -            $ 1,503
+
+
+
+
+The accompanying notes are an integral part of these financial statements.
+CALIFORNIA-ENGELS MINING COMPANY
+NOTES TO FINANCIAL STATEMENTS
+DECEMBER 31, 2007 AND 2006
+- ------------------------------------------------------------------------------
+
+NOTE 1 SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+
+This summary of significant accounting policies of California-Engels Mining
+Company (the Company) is presented to assist in understanding the
+Companys financial statements. The financial statements and notes are
+representations of the Company's management who is responsible for their
+integrity and objectivity. These accounting policies conform to Generally
+Accepted Accounting Principles and have been consistently applied in the
+preparation of the financial statements.
+
+Nature of Activity
+
+The Companys principal line of business is development of mineral and
+timber properties.  The principal revenue sources currently consist of timber,
+land and rock sales, bookkeeping business, investment and rental income.
+The Companys properties are located in the western United States.
+
+Estimates
+
+The preparation of financial statements in conformity with generally accepted
+accounting principles requires management to make estimates and
+assumptions that affect certain reported amounts and disclosures. Accordingly,
+actual results could differ from these estimates.
+
+Basis of Accounting
+
+The Company's books are maintained on the accrual method of accounting.
+
+Cash and Cash Equivalents
+
+For purposes of the statement of cash flows, the Company considers
+all highly liquid debt instruments with a purchased maturity of three months
+of less to be cash equivalents. In addition to its bank account, the company
+maintains its cash in money market investment accounts which are not
+insured by the Federal Deposit Insurance Corporation (FDIC). At
+December 31, 2007 and 2006, the company had $161,765 and $19,982,
+respectively, in such accounts. The company has not experienced any
+losses in such accounts.
+
+Concentration of Credit Risk
+
+The Company places its temporary cash investments with financial
+institutions and limits the amount of credit exposure to any one
+financial institution.
+
+Mineral and Timber Lands
+
+Mineral and timber lands and depreciable property are stated at book value
+less accumulated depletion and depreciation. Depreciation is calculated
+using the declining balance method over five to seven years. Timber depletion
+is calculated based on units of production.
+
+
+
+The accompanying notes are an integral part of these financial statements.
+CALIFORNIA-ENGELS MINING COMPANY
+NOTES TO FINANCIAL STATEMENTS
+DECEMBER 31, 2007 and 2006
+- ------------------------------------------------------------------------------
+
+
+Comprehensive Income
+
+Pursuant to Financial Accounting Standards Board ("FASB") Statement
+No.130,  Reporting Comprehensive Income, the Company reports any
+material components of comprehensive income in its financial statements.
+
+Reclassification
+Certain amounts in the prior year financial statements have been reclassified
+to conform to the current years financial statement presentation. Such
+reclassification had no effect on net equity or net income.
+
+
+NOTE 2 - PROPERTY AND EQUIPMENT
+
+Property and equipment
+consisted of the following
+at December 31:
+
+                            2007                2006
+
+Furniture and
+equipment                $ 27,309            $ 27,309
+
+Land                      233,861             233,861
+
+Less: Accumulated
+depreciation              (26,530)            (25,504)
+
+                          234,640             235,666
+
+Timber management
+development                  -                164,078
+
+Less: Accumulated
+depletion                    -                (72,111)
+
+                             -                 91,967
+
+Total Property and
+Equipment               $ 234,640           $ 327,633
+
+
+NOTE 3- MINING CLAIMS AND FEE LAND OWNED
+
+At December 31, 2007, the Company was the owner of 36 patented
+lode mining claims totaling 736 acres comprising the Engels and
+Superior Mines and 245.28 acres of patented land at Engelmine, Lights
+Creek Mining District, Plumas County,California.
+
+At December 31, 2007, the Company was the owner of five patented
+lode mining claims totaling 100 acres on Ward Creek in the Genesee
+Mining District, Plumas County, California.
+
+The accompanying notes are an integral part of these financial statements.
+CALIFORNIA-ENGELS MINING COMPANY
+NOTES TO FINANCIAL STATEMENTS
+DECEMBER 31, 2007 and 2006
+- ------------------------------------------------------------------------------
+
+NOTE 4 - VALUATION OF MINERAL LANDS
+DEFERRED INCOME TAXES
+
+The Mineral lands carried on the books at a value of $10,000 less depletion
+have a historical cost basis from June 19, 1901 of $1,000,000.  Beginning
+in 1913, different valuations were placed on these lands by the Commissioner
+of Internal Revenue.  Under instructions of the Commissioner, the values of
+the land were written up on the books to a high of $4,500,000 on
+February 23, 1928.
+
+In 1934, because of depressed conditions, the mineral lands were written
+down to $10,000 without any tax benefit.  In the event of a sale of these
+lands the recognized gain for tax purposes will be substantially reduced
+or eliminated. Consequently a deferred tax asset of approximately
+$340,000 has been offset by a corresponding valuation allowance
+of approximately $340,000 due to the unlikelihood of the sale of the
+property in the near future.
+
+It is estimated that the current market value of the properties meets or exceeds
+the $1,000,000 historical cost basis; however, due to the length of time the
+Company has reported the land values at the written down value of $10,000,
+a change to the cost method has not been deemed appropriate for reporting
+purposes.
+
+The accompanying notes are an integral part of these financial statements.
+CALIFORNIA-ENGELS MINING COMPANY
+NOTES TO FINANCIAL STATEMENTS
+DECEMBER 31, 2007 and 2006
+- ------------------------------------------------------------------------------
+
+NOTE 5 - DEEDS OF TRUST
+
+Trust deed notes receivable
+consisted of the
+following at
+December 31,
+                      2007                   2006      2005
+
+            Due within   Due after  Total    Total     Total
+            one year     one year
+
+Patricia M.
+Qualls
+7% Note
+secured by
+Plumas
+County,
+California
+real property
+             $ -         $ -       $ -     $ 49,942    $ 52,288
+
+Jack P.
+McLaughlin, Jr.
+10% Note
+secured by
+Plumas County,
+California
+real property
+             $ 5,063     $ 89,991  $ 95,054 $ 99,638   $ 42,311
+
+David J.
+Estrella
+8% Note
+secured by
+Plumas County,
+California
+real property  -           -         -         -         24,240
+
+             $ 5,063    $ 89,991   $ 95,054 $ 149,580  $118,839
+
+
+The accompanying notes are an integral part of these financial statements.
+CALIFORNIA-ENGELS MINING COMPANY
+NOTES TO FINANCIAL STATEMENTS
+DECEMBER 31, 2007 and 2006
+- ------------------------------------------------------------------------------
+
+
+NOTE 6 - INVESTMENT SECURITIES
+
+In accordance with the provisions of SFAS No. 115, the available-for-sale
+securities are reported as an asset at their fair market value with the
+unrealized gain or loss excluded from earnings and reported as a component
+of comprehensive income. The held-to-maturity securities are stated at
+amortized cost, adjusted for amortization of premiums and accretion of
+discounts to maturity. Realized gains and losses are determined using specific
+identification of securities sold.
+
+The investment securities portfolio was comprised of items classified as
+held-to-maturity at December 31, 2007 and 2006.
+
+The following reflect the estimated fair values of investment securities and
+amortized cost held at December 31, 2007, 2006, and 2005.  Fair values
+are based on managements estimate.
+
+
+Equity Securities available for sale
+                                      2007
+
+              Gross                   Gross              Estimated
+              Unrealized              Unrealized         Fair
+     Cost     Gain                    Loss               Valve
+
+
+    $33,000    $  -                   $ (800)            $32,200
+
+    $33,000    $  -                   $ (800)            $32,200
+
+
+Equity Securities available for sale
+                                      2006
+
+                    Gross              Gross              Estimated
+                    Unrealized         Unrealized         Fair
+       Cost      Gain                  Loss               Valve
+
+       $10,000    $ 77                 $ -                $10,077
+
+       $10,000    $ 77                 $ -                $10,077
+
+
+The accompanying notes are an integral part of these financial statements.
+CALIFORNIA-ENGELS MINING COMPANY
+NOTES TO FINANCIAL STATEMENTS
+DECEMBER 31, 2007
+- ----------------------------------------------------------------------------
+
+
+
+Proceeds from the sale of equity securities were $3,485 in 2007.
+No equity securities were sold in 2006 or 2005.
+
+NOTE 7 - CAPITAL STOCK
+
+The Company retired no odd lots shares in 2007.
+
+NOTE 8 - CONTINGENT LIABILITIES
+
+The Company is not a defendant in any legal proceeding nor is there any
+litigation in progress, pending or threatened against the Company.
+
+
+The accompanying notes are an integral part of these financial statements.
+CALIFORNIA-ENGELS MINING COMPANY
+NOTES TO FINANCIAL STATEMENTS
+DECEMBER 31, 2007 and 2006
+- ------------------------------------------------------------------------------
+
+
+NOTE 9 - COMPREHENSIVE INCOME
+The components of comprehensive income, net of tax, are as follows
+for the years ended
+December 31:
+                              2007         2006           2005
+
+Net Income (Loss)           $ 31,747      $19,669       $ 53,774
+
+Other Comprehensive
+Income, (Loss) net of tax:
+Unrealized gains on
+securities: Unrealized
+holding gains(losses)
+arising during period           (877)          77          -
+
+Less:  reclassification
+adjustment for (gains)
+losses included in
+net income                       -            -            -
+
+Total Other Comprehensive
+Income (Loss)                   (877)          77          -
+
+Comprehensive
+Income (Loss)               $ 30,870      $ 19,746       $ 53,774
+
+
+
+The following shows the tax effect of each component of comprehensive
+income as of December 31:
+
+
+Calculation of Holding
+Gains (Losses)                2007          2006           2005
+
+Holding gains
+(losses) recognized
+in other comprehensive
+income                       $  (877)      $    77        $  -
+
+Income tax expense               132           (12)          -
+
+Total unrealized
+gain (loss),
+net of tax                   $  (745)      $    65        $  -
+
+Reclassification
+Adjustments                   2007          2006          2005
+
+Realized gain on
+sale of securities           $ 1,485       $  -           $  -
+
+Income tax expense              (233)         -              -
+
+Net gain realized
+in net income                $ 1,262       $  -           $  -
+
+
+Accumulated other comprehensive income is comprised of only
+unrealized gains (losses) on investment securities.
+
+The accompanying notes are an integral part of these financial statements.
+CALIFORNIA-ENGELS MINING COMPANY
+NOTES TO FINANCIAL STATEMENTS
+DECEMBER 31, 2007 and 2006
+- ------------------------------------------------------------------------------
+
+
+NOTE 10 - INCOME TAXES
+
+The provision (benefit) for income taxes consisted of the following
+for the years
+ended December 31:
+                              2007         2006            2005
+
+
+Federal income
+tax - current              $ 17,143      $ 7,595         $ 3,816
+
+State income
+tax - current                 8,290        4,814           2,055
+
+Federal income
+tax - deferred               (6,569)      (5,031)          6,332
+
+State income
+tax - deferred               (3,871)      (2,965)          3,732
+
+Total (benefit)
+provision                  $ 14,993      $ 4,413        $ 15,935
+
+Deferred income taxes
+consisted of the following
+at December 31:
+                              2007         2006
+
+Deferred tax
+asset                           120         -
+
+Deferred tax
+liabilities:                    -           -
+
+Federal
+Installment sale gain           -          6,576
+
+State
+Installment sale gain           -          3,875
+
+Total deferred
+tax liabilities             $   -       $ 10,451
+
+
+NOTE 11- MINING LEASE
+
+On April 18, 2006, the Company entered into an Exploration Permit with Option
+to Lease and Purchase Agreement with American Sheffield Inc., a Nevada
+corporation, wholly owned subsidiary of Sheffield Resources Ltd., a British
+Columbia corporation, on its 36 patented lode mining claims and 162.12 acres of
+its feelands at Engelmine, Lights Creek Mining District, Plumas County,
+California. On August 10, 2006, American Sheffield Inc. excercised its option to
+enter into the Lease and Purchase agreement on the Companys property. The
+lease provides for annual rental payments, issuance of shares of Sheffield
+Resources Ltd., minimum annual work requirement and a net smelter royalty when
+in production. The company retained the rights to the timber on the property and
+to manage its Engelmine Forest, California Tree Farm # 2611 pursuant to its
+Non-Industrial Management Plan.
+
+
+
+
+NOTE 12 - MOONLIGHT FIRE LOSS
+
+The Companys Engelmine Forest tree farm was severely damaged between
+September 3-15, 2007 by the 65,000 acre Moonlight Fire on the Plumas National
+Forest surrounding the Companys property. Pursuant to its Non-Industrial Timber
+Management Plan salvage logging of dead and dying trees began on October 12,
+2007 and will continue until complete. As a result of this wildland fire the
+Companys Non-Industrial Timber Management Plan pursuant to the California Forest
+Practice Rules will need to be substantially amended.
+
+For financial statement purposes, the Company incurred a complete write down
+of its timber management plan resulting in a change to the 2007 Statement
+of Income in the amount of $91,968. Due to the long holding period of the
+land and timber, no significant book value for the timber was carried on the
+financial statements, and no impairment loss is warranted. The Company is
+performing an on going assessment of the potential economic loss.
+
+Salvage cutting of the timber is expected to continue into 2008.
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

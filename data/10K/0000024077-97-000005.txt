@@ -1,0 +1,232 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ GBMamWFm6N+fCRUAAoRBW9Q0cYwLghEpTG7d+sBNHpY3O4T/HVFenoHMHRgS3p/5
+ fcfnox2XKRSnT4DaUXhoAw==
+
+<SEC-DOCUMENT>0000024077-97-000005.txt : 19970428
+<SEC-HEADER>0000024077-97-000005.hdr.sgml : 19970428
+ACCESSION NUMBER:		0000024077-97-000005
+CONFORMED SUBMISSION TYPE:	10KSB/A
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	19961231
+FILED AS OF DATE:		19970425
+SROS:			NASD
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			CONTINENTAL INVESTMENT CORP /GA/
+		CENTRAL INDEX KEY:			0000024077
+		STANDARD INDUSTRIAL CLASSIFICATION:	OPERATORS OF NONRESIDENTIAL BUILDINGS [6512]
+		IRS NUMBER:				580705228
+		STATE OF INCORPORATION:			GA
+		FISCAL YEAR END:			0930
+
+	FILING VALUES:
+		FORM TYPE:		10KSB/A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-03743
+		FILM NUMBER:		97587438
+
+	BUSINESS ADDRESS:	
+		STREET 1:		10254 MILLER RD
+		CITY:			DALLAS
+		STATE:			TX
+		ZIP:			75238
+		BUSINESS PHONE:		2146911100
+
+	MAIL ADDRESS:	
+		STREET 1:		10254 MILER RD
+		CITY:			DALLAS
+		STATE:			TX
+		ZIP:			75238
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>10KSB/A
+<SEQUENCE>1
+<TEXT>
+
+                                 UNITED STATES
+                      SECURITIES AND EXCHANGE COMMISSION
+                           Washington, D. C.  20549
+
+                           -------------------------
+
+                              FORM 10-KSB/A No. 1
+(Mark One)
+          [ ]    Annual Report Pursuant to Section 13 or 15(d) of the
+                        Securities Exchange Act of 1934
+
+                                      or
+
+          [X]     Transition Report Pursuant to Section 13 or 15(d) of
+                      the Securities Exchange Act of 1934
+
+       For the three months ended December 31, 1996 (short fiscal year)
+
+                         Commission File Number 0-3743
+                          
+                           -------------------------
+
+                       CONTINENTAL INVESTMENT CORPORATION
+             (Exact name of registrant as specified in its charter)
+
+           Georgia                                            58-0705228
+(State or other jurisdiction of                            (I.R.S. Employer
+incorporation or organization)                            Identification No.)
+
+                     10254 Miller Road, Dallas, Texas 75238
+              (Address of principal executive offices)  (Zip Code)
+
+       Registrant's telephone number, including area code: (214) 691-1100
+
+       Securities registered pursuant to Section 12(b) of the Act:  None
+
+          Securities registered pursuant to Section 12(g) of the Act:
+
+                          Common Stock, $0.50 par value
+                              (Title of each class)
+
+     Indicate by check mark whether the registrant (1) has filed all reports
+required to be filed by Section 13 or 15(d) of the Securities Exchange Act of
+1934 during the preceding 12 months (or for such shorter period that the
+registrant was required to file such reports), and (2) has been subject to
+such filing requirements for the past 90 days.  Yes [X]  No [ ]
+<PAGE>
+     Indicate by check mark if disclosure of delinquent filers pursuant to
+Item 405 of Regulation S-K is not contained herein, and will not be contained,
+to the best of registrant's knowledge, in definitive proxy or information
+statements incorporated by reference in Part III of this Form 10-KSB or any
+amendment to this Form 10-KSB.  [X]
+
+     The aggregate market value of the voting stock held by non-affiliates of
+the registrant, as of March 31, 1997, is approximately $114,045,881 based upon
+the closing price of $21.25 per share as reported for such date by Trading and
+Market Services of The Nasdaq Stock Market, Inc.
+
+     As of  March 31, 1997, the registrant had outstanding 11,313,008 shares
+of Common Stock.
+
+<PAGE>
+
+                                       PART III
+
+     ITEM 11.  EXECUTIVE COMPENSATION.
+     --------------------------------
+
+     The following table sets forth the compensation earned by the Company's
+Chief Executive Officer during fiscal years ended September 30, 1994, 1995 and
+1996, and during the short-year ended December 31, 1996. No other executive
+officer received compensation in excess of $100,000 during any of those
+periods.
+
+<TABLE>
+                          SUMMARY COMPENSATION TABLE
+<CAPTION>
+                                          Annual Compensation            Long-Term Compensation
+                                        -----------------------  ----------------------------------------
+                                                                        Awards        Payouts
+                                                        Other    -------------------- -------
+                                                        Annual   Restricted  Options/           All Other
+                                                        Compen-    Stock      SARs     LTIP      Compen-
+Name and Principal Position   Year      Salary  Bonus   sation     Awards   (Shares)  Payouts    sation
+- ---------------------------   -----     ------  -----  --------  ----------  ------   -------   ---------
+<S>                           <C>         <C>     <C>  <C>           <C>        <C>      <C>        <C>
+R. Dale Sterritt, Jr.         1996 (1)    -       -    $ 54,750      -          -        -          -
+   Chairman of the Board      1996 (2)    -       -    $234,750      -          -        -          -
+   and Chief Executive        1995        -       -    $161,575      -          -        -          -
+                              1994        -       -    $142,125      -          -        -          -
+<FN>
+(1)  Short year October 1 through December 31, 1996
+(2)  Fiscal year October 1, 1995 through September 30, 1996.
+</FN>
+</TABLE>
+
+     The Company does not have any employment agreements with any of the
+executive officers of the parent company. Beginning January 1, 1997, Mr. R.
+Dale Sterritt, Jr., Chairman and CEO, began employment with the Company at
+an annual salary of $240,000.
+
+     Prior to 1997, the compensation paid to executive officers and directors
+of the parent Company was for services rendered to the Company on a per-diem
+basis at rates prescribed by the Board: $750 per day for the Chairman, Chief
+Executive Officer and President; and $400 per day for all other executive
+officers. By resolution of the Board of Directors, directors are entitled to
+a fee of $200 per meeting; however, all such fees were waived during fiscal
+year ended September 30, 1996 and the short year ended December 31, 1996.
+
+<PAGE>
+ITEM 13.  CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS.
+- --------------------------------------------------------
+
+     On September 20, 1996, the Company entered into an agreement with the
+20th Century Group, an entity owned by the Sterritt Family and comprised of
+Sterritt Properties, Inc. ("SPI"), FIBER-SEAL Services International, Inc.
+("FSSI"), 20th Century Partners, Inc. and 20th Century Holdings, Inc. This
+agreement called for the transfer of certain rights and assets owned by 20th
+Century Group. The consideration for the transfer was a $1,150,000 note
+payable. The property transferred consisted of assets related to the FIBER-
+SEAL business. This included all operations formerly carried out by FSSI, all
+operations of the Dallas, Texas licensee of FIBER-SEAL and all trademarks,
+servicemarks, logos, and tradenames of or related to FIBER-SEAL. As a result
+of this transaction, the Sterritt Family has transferred all of their FIBER-
+SEAL-related holdings to CICG. The effective date of the agreement was
+September 30, 1996.
+
+<PAGE>
+                                     SIGNATURES
+
+     Pursuant to the requirements of Section 13 or 15(d) of the Securities
+Exchange Act of 1934, the Registrant has duly caused this report to be signed
+on its behalf by the undersigned, thereunto duly authorized.
+
+
+                                    CONTINENTAL INVESTMENT CORPORATION
+
+                                    By: /S/ R. Dale Sterritt, Jr.
+                                        R. Dale Sterritt, Jr.
+                                        Chairman and Chief Executive Officer
+
+Dated:   April  25, 1996
+
+     Pursuant to the requirements of the Securities Exchange Act of 1934, this
+report has been signed below by the following persons on behalf of the
+Registrant and in the capacities and on the dates indicated.
+
+
+               Name                                        Date
+
+
+      /S/ R. Dale Sterritt, Jr.                        April 25, 1996
+      R. Dale Sterritt, Jr., Director
+      Chairman and Chief Executive Officer
+
+
+      /S/ Thomas F. Snodgrass                          April 25, 1996
+      Thomas F. Snodgrass, Director
+      President and Treasurer
+
+
+      /S/Robert D. Luna                                April 25, 1996
+      Robert D. Luna, Director
+      and Secretary
+
+
+      /S/Martin G. Blahitka                            April 25, 1996
+      Martin G. Blahitka, Director
+
+
+      /S/J. B. Morris                                  April 25, 1996
+      J. B. Morris, Director
+
+
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

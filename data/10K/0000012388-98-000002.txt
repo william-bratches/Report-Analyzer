@@ -1,0 +1,1227 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ IjbUJhKCz8P6dZ/U8wBLZh8VLovguUde/p14XKHwP7RqqumdfiNVCkksh2SvbZVY
+ 5TjXOoxxMFx2x9FrJcFPuQ==
+
+<SEC-DOCUMENT>0000012388-98-000002.txt : 19980513
+<SEC-HEADER>0000012388-98-000002.hdr.sgml : 19980513
+ACCESSION NUMBER:		0000012388-98-000002
+CONFORMED SUBMISSION TYPE:	10KSB40
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	19970331
+FILED AS OF DATE:		19980512
+SROS:			NASD
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			BLACK GIANT OIL CO
+		CENTRAL INDEX KEY:			0000012388
+		STANDARD INDUSTRIAL CLASSIFICATION:	OIL ROYALTY TRADERS [6792]
+		IRS NUMBER:				75441442
+		STATE OF INCORPORATION:			NV
+		FISCAL YEAR END:			0331
+
+	FILING VALUES:
+		FORM TYPE:		10KSB40
+		SEC ACT:		
+		SEC FILE NUMBER:	000-08507
+		FILM NUMBER:		98616390
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1301 AVENUE M
+		CITY:			CISCO
+		STATE:			TX
+		ZIP:			76437
+		BUSINESS PHONE:		2544423968
+
+	MAIL ADDRESS:	
+		STREET 1:		PO BOX 31
+		CITY:			CISCO
+		STATE:			TX
+		ZIP:			76437
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>10KSB40
+<SEQUENCE>1
+<TEXT>
+
+                 SECURITIES AND EXCHANGE COMMISSION
+                       Washington, DC  20549
+                                  
+                            FORM 10-KSB
+                                  
+         Annual Report Pursuant to Section 13 or 15 (d) of 
+                the Securities Exchange Act of 1934
+                                  
+              For the fiscal year ended March 31, 1997
+                  Commission file number: 0-08507
+                                  
+                      BLACK GIANT OIL COMPANY
+           Nevada Corporation              75-1441442
+                           1301 Avenue M
+                            P.O. Box 31
+                      Cisco, Texas      76437
+                          (254)  442-3968
+                                  
+Securities registered pursuant to Section 12(g) of the Exchange Act: 
+     Common stock, par value $.0125
+
+Indicate by check mark whether the registrant (1) has filed all reports
+required to be filed by Section 13 or 15(d) of the Securities Exchange Act of
+1934 during the preceding 12 months (or for such shorter period that the
+registrant was required to file such reports) and (2) has been subject to such
+filing requirements for the past 90 days.   Yes [ ]    No [X]
+
+Indicate by check mark if disclosure of delinquent filers pursuant to Item 405
+of Regulation S-K is not contained herein, and will not be contained, to the
+best of registrant's knowledge, in definitive proxy or information statements
+incorporated by reference in Part III of this Form 10-K or any amendment to
+this Form 10-K. [X]
+
+The registrant's revnues for its most recent fiscal year were $27,051.
+
+The aggregate market value of the voting stock (10,100,000 shares) held by
+non-affiliates of the registrant on March 31, 1997 was approximately
+$101,000 based on the bid price of $0.01 of the stock at the close of the
+market on that day. 
+
+The number of shares outstanding (exclusive of treasury stock, 20,000 shares)
+of the registrant's common stock on March 31, 1997 was 14,330,227. On April 7,
+1998 the Company had 19,771,477 shares outstanding exclusive of treasury
+stock.
+
+                             PART I
+
+ITEM 1.   DESCRIPTION OF BUSINESS
+
+DEFINITIONS
+
+"Gravity" is a measure of the density of an oil. As defined in the petroleum
+industry, a higher gravity corresponds to a lower density. Gravities of
+crude oils range from about 12 degrees (heavy oil) to 60 degrees (distillate
+or gasoline-like oil). Lower gravity oils are generally worth less, and they
+may require unconventional technology to produce.
+
+"Gross production" as used herein is defined as the total production of oil,
+gas, or natural gas liquids from a property or group of properties, for any
+gas, or natural gas liquids from a property or group of properties, for any
+specified period of time.
+
+Initial Potential ("IP") is a test performed before any significant
+production from a well is marketed.  An oil well potential is an indication
+of the maximum rate at which a well can produce. Usually, wells produce at
+lower rates than their potentials.  Reasons for lower rates can involve
+natural decline, government regulations, difficulties with operations or
+infrastructure, and reservoir management considerations.
+
+The term "overriding royalty" as used herein is defined as an interest carved
+out of the lessee's leasehold or working interest. The amounts payable from
+overriding royalties referred to in this Form 10K are payments calculated as a
+percentage of either gross production or gross revenue from a concession or
+lease, free and clear of all costs, except taxes.
+
+The term "payout" is generally defined as a time when the total investment or
+acquisition cost has been recaptured from revenues produced from the oil and
+gas lease.
+
+The term "royalty" is generally defined as a share of the production reserved
+by the grantor of an oil or gas lease or concession. Customarily, the royalty
+interest is free of cost or expense incident to exploration, development, or
+production, except for production or gathering taxes.
+
+"Spudded in" means that drilling on an oil or gas well has commenced.
+
+The term "working interest" as used herein means all or a fractional part of
+the ownership rights granted by a concession or lease. The working interest,
+or a part thereof, pays all costs of operation and is entitled to the gross
+production less royalties retained by the grantor or lessor and less other
+royalties or non-operating interests created and assigned from the working
+interest.
+
+ABBREVIATIONS
+
+BOPD - barrels of oil per day
+BOPM - barrels of oil per month
+MCFGPD - thousand cubic feet gas per day
+MMCFGPD - million cubic feet gas per day
+NP - non-producing
+ORR - overriding royalty
+D&A - dry and abandoned
+WI - working interest
+
+  (a)  GENERAL DEVELOPMENT OF BUSINESS
+
+Black Giant Oil Company (the Company) was organized on July 23, 1973 as a
+corporation under the laws of the State of Nevada, for the general purpose
+of engaging in exploration for oil and gas. More recently, the Company has
+shifted its activities to acquiring working interests, royalties, and
+overriding royalties in oil and gas properties within the United States and
+in foreign countries.
+
+During its fiscal year ended March 31, 1997, the Company was not involved in
+any bankruptcy, receivership, or similar proceeding and underwent no
+material reclassification, merger, or consolidation. The Company does not
+anticipate involvement or participation in any of the above proceedings.
+
+During the period from April 1, 1978 to March 31, 1997, the Company
+conducted no substantial business, received no material income and had no
+material assets or liabilities.  The Company was dormant and virtually
+inactive during this period of time.
+
+In August 1997 a group of stockholders met and decided to make an attempt to
+revive the Company and initiated a funding campaign.  The Company
+successfully raised $95,000 through the issuance of 4,750,000 shares of
+common stock.
+
+  (b)  FINANCIAL INFORMATION ABOUT INDUSTRY SEGMENTS
+
+The Company's oil and gas revenue is derived from Canadian royalties. The
+Company continues to review shallow oil and gas plays in Texas, Oklahoma and
+Kansas for acquisition. The Company acquired interests in twelve (12) leases
+in Texas and Oklahoma subsequent to March 31, 1997. Negotiations continued
+for additional oil and gas leases and prospects for drilling subsequent to
+the year end.
+
+  ( c ) NARRATIVE DESCRIPTION OF BUSINESS
+
+The Company was seeking working capital during the years 1986 through 1990
+to continue it operations; however, the collapse of the oil industry in
+1986/87 caused funding programs for the Company to be unsuccessful.  The
+lack of working capital eventually led the Company to become dormant.
+During the years of being dormant various opportunities were presented to
+the management to revive the Company.  Each opportunity was either not
+favorable to the Company or was not able to close due to lack of financial
+commitment or strength by the various interested parties.
+
+Subsequent to March 31, 1997, a group of concerned shareholders met in
+August to discuss the Company's future and outlined a plan to revive the
+Company. The plan was to sell through private placements the Company's
+common stock to raise operating capital to pay for the expense for the
+Company to become current in its filings with the Securities Exchange
+Commission and other government agencies. The private placement offering
+price per share was $0.02. The Company successfully raised $95,000 from the
+private placement program offered September through November 1997 which
+represented 4,750,000 shares.
+
+  COMPETITION AND MARKETS
+
+The oil and gas industry is highly competitive in all of its phases, with
+competition for favorable prospects being particularly intense.  The Company
+believes that price, geological and geophysical skill, and familiarity with
+an area of operations are the primary competitive factors in the acquisition
+of desirable leases and suitable prospects for oil and gas drilling
+operations.  The Company competes with independent operators and
+occasionally major oil companies, a number of which have substantially
+greater technical and financial resources than the Company.
+
+States and countries and other jurisdictions in which the Company plans to
+have operations, regulate the exploration, development, production and
+prices on the sale of oil and gas. The Federal Power Commission regulates
+the sale of natural gas production sold in interstate commerce and the U.S.
+Government regulates the price on oil. Markets for, and value of, oil and
+gas discovered are dependent on such factors as regulation, including well
+spacing and production allowables, import quotes, competitive fuels, and
+proximity of pipelines and price- fixing by governments, all of which are
+beyond the control of the Company.
+
+On March 31, 1997, 40 degree oil (good gravity crude) was selling for
+approximately $19.25 per barrel, compared to a March 31, 1996 figure of
+$19.75 per barrel. Prices also vary according to gravity. 
+
+  FOREIGN TAXES AND UNITED STATES TAX CREDITS
+
+The Company prior to March 31, 1997 did not have any operations outside of
+the United States; however, the new management subsequent to March 31, 1997,
+plans to work on international projects, primarily in Australia. In the
+event operations abroad are established, then the Company will be subject to
+the imposition of taxes by foreign governments upon the Company's income
+derived from the respective foreign jurisdictions. Such taxes are of various
+types, with differing tax rates, and are subject to changes. Generally, the
+Company's income from a foreign jurisdiction will be taxed in the same
+manner as that for other companies operating in the jurisdiction, but
+discriminatory taxation by a particular jurisdiction may occur. 
+
+The Company's income is also subject to taxation under the United States
+Internal Revenue Code of 1986, as amended (the "Code"). The Code provides
+that a taxpayer may obtain a tax credit for certain taxes paid to a foreign
+country or may take a deduction for such taxes. A tax credit is generally
+more favorable than a deduction. The tax credit applicable to particular
+foreign income generally arises when such income is included in the
+Company's taxable income under the provisions of the Code. There are,
+however, substantial restrictions and limitations on the amount of the tax
+credit that can actually be claimed.
+
+  OTHER REGULATIONS
+
+Oil and gas operations are and will be subject to federal, state and local
+laws and regulations and by political developments. The domestic production
+and sale of oil and gas are subject to federal regulation by the Department
+of Energy and the Federal Energy Regulation Commission.  Rates of production
+of oil and gas have for many years been subject to federal and state
+conservation laws and regulations. In addition, oil and gas operations are
+subject to extensive federal and state regulations concerning exploration,
+development, production, transportation and pricing, and to interruption or
+termination by governmental authorities.
+
+In foreign countries, the Company may be subject to governmental
+restrictions on production, pricing and export controls. Furthermore
+regulations existing or imposed upon the Company at the time of its
+acquisition of properties may change to an unpredictable extent.  The
+Company will have little or no control over the change of regulations or
+imposition of new regulations and restrictions by foreign governments,
+ex-appropriation or nationalization by foreign governments or the imposition
+of additional foreign taxes and partial foreign ownership requirements.
+
+  PERSONNEL
+
+The business of the Company has been carried on by Ivan Webb, President and
+Elizabeth Webb, Secretary/Treasurer from April 1, 1987 through March 15,
+1998. Ivan and Elizabeth Webb have devoted such time as has been necessary
+to carry on the Company's business.  The Company has no bonus, pension, or
+profit sharing plans.
+
+Subsequent to year end (March 31, 1997) management initiated a funding
+campaign from its existing shareholders to revive the Company. A meeting of
+the shareholders planned for May 1998 will elect new directors. These
+directors proposed by management are Ivan Webb, Richard M. Hewitt, Gifford
+Dieterle and Herbert Wolas. 
+
+During the month of September 1997 one part time employee was hired to
+assist in the daily operations of the Company.
+ 
+  ITEM 2.  DESCRIPTION OF PROPERTY
+
+The Company's assets on March 31, 1997 were $2,156 of which $327 is cash and
+the balance is a Canadian royalty which is responsible for the oil and gas
+revenues received by the Company.
+
+The following is a description of each of the properties acquired by the
+Company subsequent to March 31, 1997:
+
+MOBIL FEE #4 - Black Giant took a 1% working interest in the drilling of a
+major structure in Duval County, Texas in November 1997.  This well was
+drilled to a total depth of 14,200 and encountered a very prolific gas
+formation - 14,092 - 14,135 feet. The porosity ranges from 15 to 25% over
+the zone. The well was put on line in January 1998 and is producing
+approximately 10,000,000 cubic feet per day which yields to Black Giant's
+interests approximately $3,200 per month in gas revenues representing a
+payout of less than 10 months based on rate of production.
+
+MOBIL FEE #5 - Black Giant exercised its option to take the same interest in
+the offset well to the #4 well on February 24, 1998. On April 2, 1998 the
+well was drilling ahead at 10,432 feet. Drilling began in March and it takes
+about two months for the well to be drilled and about one month to put the
+well on line.  The geology of this prospect is expected to be better than
+the Mobil Fee #4.  Based on this information we can project monthly revenues
+of $3,200 from this well for Black Giant.
+ 
+MOBIL FEE ADDITIONAL ACREAGE - Black Giant has first rights on all other
+wells to be drilled in the Mobil Fee Gas field.  Two more wells are planned
+by year end.
+ 
+THREE PRODUCING LEASES -  On September 30, 1997, the Company entered into a
+Letter Agreement for the purchase of 10% working interest in three oil and
+gas leases located in Nowata and Creek Counties of Oklahoma for 450,000
+shares of common stock.  These leases total 1510 acres and have a total of
+18 producing wells with additional wells to be reworked plus each lease has
+its own saltwater disposal wells. The revenues from these leases are
+expected to average $900 to $1,200 per month.
+
+FOUR NON-PRODUCING LEASES - On September 30, 1997 the Company entered into a
+Letter Agreement for the purchase of 50% working interest in four non
+producing oil and gas leases in Oklahoma for development either through
+drilling programs or farm outs retaining a carried interest.  The Company
+agreed to issue 750,000 shares for these leases total 480 acres.  Drilling
+is planned on these properties over the next 1 to 2 years.  It is planned
+for Black Giant to recover its cost and keep a carried interest in each
+lease as it is drilled.
+
+WOOLDRIDGE LEASES - On October 15, 1997 the Company entered into an
+agreement to acquire 90% of the working interest in two leases totaling 320
+acres located in Shackelford County Texas for $21,000. These two leases have
+a total of 11 wells plus 5 saltwater injection wells.  These wells are
+producing approximately 4 barrels per day and are expected to increase to 6
+barrels per day when changes are implemented in the production operations.
+Payout on this acquisition is expected to occur within 30 months.
+ 
+TROELL LEASES - On October 17, 1997 the Company entered into a ninety day
+option agreement to acquire 50% working interest in an oil and gas lease in
+Atascosa County, Texas for $58,000 in cash plus 136,000 shares of the
+Company's common stock.  On February 18, 1998 the Company paid $18,000 on
+this debt leaving a balance of $30,000. The option was renewed for another
+90 day period. This 120 acre lease is expected to average 15 BOPD when 6
+wells are put into production.  This lease is expected to be put into
+production during the second quarter of 1998. Estimated revenues are
+projected to be $2,700 per month.
+ 
+ SPIRES LEASE - On October 20, 1997 the Company entered into an agreement to
+ acquire 40% working interest in 160 acre oil and gas lease in Nolan County,
+ Texas for $15,000 plus 250,000 shares of common stock and settle certain
+ account payables related to the lease.  This lease is expected to average
+ 18-20 barrels per day from a single well and is expected to be put on line
+ during the second quarter of 1998. Estimated revenues are projected to be
+ $2,100 per month.
+
+
+  ITEM 3.  LEGAL PROCEEDINGS
+
+As of April 14, 1998, there were no legal proceedings to which the Company
+was a party, and no legal litigation is known to be pending.
+
+
+  ITEM 4.  SUBMISSION OF MATTERS TO A VOTE OF SECURITIES HOLDERS
+
+No matters have been submitted to a vote of security holders during the
+dormant period from 1987 through 1998.  A shareholder meeting is planned
+during the month of May 15, 1998 in light of the recent developments that
+have caused the Company to be revived with new assets.
+
+
+
+                              PART II
+
+  ITEM 5.  MARKET FOR COMMON EQUITY AND RELATED STOCKHOLDER MATTERS
+
+a)   MARKET INFORMATION
+
+The Company's common stock is traded on the Over-the Counter market under
+the symbol BGOC on the Electronic Bulletin Board.
+
+The following table shows the range of closing bid prices for the Company's
+common stock in the over-the-counter market for the quarters indicated, as
+reported by the National Association of Securities Dealers (NASD). The
+quotations represent prices in the over-the-counter market between dealers
+in securities, do not include retail markup, markdown or commission, and do
+not necessarily represent actual transactions.
+
+
+Year Ended March 31, 1997          Bid Prices
+                          High        Low
+First Quarter            $0.03       $0.00
+Second Quarter           $0.03       $0.00
+Third Quarter            $0.03       $0.00
+Fourth Quarter           $0.03       $0.00
+
+The Company's stock was very inactive with few if any trades during the year
+end March 31, 1997. The stock price from April 1, 1997 through April 7, 1998
+has been from a low of $0.03 to $0.13. On April 7, 1998 the stock was quoted
+$0.09 bid and $0.13 ask.
+
+b)  APPROXIMATE NUMBER OF HOLDERS OF COMMON STOCK
+
+The approximate number of security holders of record of Black Giant Oil
+Company on March 30, 1998 was 1,958. Additional stockholders hold stock in
+street name; the number of holders in street name is not available to the
+Company.
+
+c)  DIVIDEND INFORMATION
+
+The Company has not declared or paid dividends in the past, and does not
+anticipate doing so in the immediate future.
+
+
+  ITEM 6.  MANAGEMENT'S DISCUSSION AND ANALYSIS OR PLAN OF OPERATIONS
+
+  GENERAL DISCUSSION:
+
+Following the Company's fiscal year ended March 31, 1987, the Company
+continued to have difficulty in raising working and operating capital. The
+environment for energy deals was very tough as oil prices continue to fall
+to $9.50 per barrel. The oil and gas revenues had fallen to less than
+$25,000 per year which was less than half of the previous years revenues.
+The Company had liabilities of approximately $143,000 which led the Company
+to sell the majority of its assets primarily its oil and gas production to
+reduce debt. The Company gradually became less active and by 1991 it was
+virtually inactive and dormant. The Company made presentations a number of
+times each year to prospective merger candidates.  Each of these attempts
+never materialized either due to financing problems or lack of working
+capital to made the merger successful.
+
+Subsequent to March 31, 1997, a group of concerned shareholders met in
+August to discuss the Company's future and outlined a plan to revive the
+Company. The plan was to sell private placements of the Company's common
+stock to raise operating capital to pay for the expense for the Company to
+become current in its filings with the Securities and Exchange Commission
+and other government agencies. The private placement offering price per
+share was $0.02. The Company successfully raised $95,000 from the private
+placement program offered September through November 1997.
+
+The Company proceeded to bring the Company back into compliance with the
+various government agencies by bringing current the corporation fees in
+Nevada, engaging a Tax Accountant to prepare the tax returns for the
+delinquent years and prepare the financial statements for audit for the
+three years ended March 31, 1995, 1996, and 1997.
+
+  LIQUIDITY AND CAPITAL RESOURCES:
+
+The Company's assets as of March 31, 1997 were $2,156 representing only a
+small Canadian royalty interest and $327 in cash. As previously stated most
+of the assets of the Company were sold to reduce debt.
+
+The principal assets of the Company were considered to be its shareholder
+base, approximately 1,900, and the fact that it had only $13,067 in total
+debt. This, in the opinion of management, was valuable and was worth keeping
+alive until a plan of action could be implemented to cause the Company to be
+revived.
+
+The assets of the Company for March 31, 1995, 1996 and 1997 have remained
+fairly constant except for March 31, 1996 when the cash balance was higher
+due to an attempt to merge with a Dallas based company.
+
+The liabilities have gradually declined from $24,477 on March 31, 1995 to
+$13,067 for March 31, 1997. These liabilities were paid from revenues
+received from the Canadian royalty. These debts are principally due to
+accounts payable for accounting and legal services.
+
+  RESULTS OF OPERATIONS:
+
+The $7,293 revenues for 1995 are from the Canadian royalty which is paid in
+Canadian dollars. The expense of $2,453 for Foreign Exchange is directly
+related to the conversion of the Canadian dollar to United States dollars.
+No other revenues were received during the year and the remaining
+expenditures were nominal except for $2,225 paid for professional fees.
+
+The fiscal year ended March 31, 1996 included an effort to revive the
+Company. In addition to the oil and gas revenues of $8,658, the Company
+entered into an agreement with a Dallas based company where they would fund
+the cost of bringing the Company current with all of the various government
+agencies. The Dallas group provided $35,000 for the revival process,
+however, the funds were never used for bringing the Company current. The
+Dallas group decided for the Company to take a $10,000 option on a
+12,900,000 acre oil and gas concession located in the western part of
+Queensland, Australia. The option was never exercised and the option
+expired. The Dallas group required $20,000 for another project and failed to
+return these funds back to the Company, causing the Company to discontinue
+its process of becoming current with its filings. The Company did profit
+from the transaction with the Dallas group by approximately $5,000 which was
+beneficial to pay on the Company's debt.
+
+The fiscal year ended March 31, 1997 reflects an increase in revenues from
+the Company's royalties plus miscellaneous income of $11,875. This
+miscellaneous income was derived from coordinating a printing and mailing
+job for a public company. The expenses of the Company increased to $24,728
+of which $16,078 was paid for contract services which was primarily paid for
+printing and mailing services. 
+
+The Company reported a profit each of the past three years ended March 31,
+1995, 1996 and 1997. These profits were small, representing less than one
+cent per share in earnings per share. The Company has 14,350,227 shares
+issued and outstanding for each of the three years presented.
+
+  SUBSEQUENT EVENTS:
+
+On September 22, 1997, the Company entered into a Debt Agreement with the
+Wolas Family for $100,000. The terms of the Debt Agreement are 10% interest
+payable in stock on a quarterly basis (125,000 shares per quarter - based on
+2 cents per share). The debt can be paid in full or be convertible to
+equity, based on 2 cents per share (5,000,000 shares - on the 22nd of
+September, 2000 at the election of the Wolas Family). The Wolas Family also
+have a warrant to purchase 1,000,000 shares of common stock for $25,000 on
+or before the 22nd of September 2002, being $0.025 per share.
+
+During the process of reviving the Company, the Company participated in the
+drilling of three wells and purchased working interests in 12 oil and gas
+lease. These leases have a total of 78 wells of which 33 are producing, 30
+are non producing and 15 are disposal wells for saltwater. The interests
+range from 1% to 50%. These oil and gas leases are located in Texas and
+Oklahoma. As of March 31, 1998 no oil and gas revenues have been received by
+the Company from these leases, however, management expects oil and gas
+revenues to begin in April/May 1998. See "Item 2. Description of Property"
+for more information about these properties.
+
+In general, the Company has been able to attract working and operating
+capital to cause the Company to regain its full reporting status and build
+oil and gas income. The Company, after regaining its full reporting status,
+will have the opportunity to secure financing from several sources to
+further build the Company. Currently, there are three main groups that are
+interested in financing the Company.
+
+DISCLOSURE REGARDING FORWARD-LOOKING STATEMENTS
+
+This Form 10-K includes "forward-looking" statements within the meaning of
+Section 27A of the Securities Act and the Company desires to take advantage of
+the "safe harbor" provisions thereof.  Therefore, the Company is including
+this statement for the express purpose of availing itself of the protections
+of such safe harbor provisions with respect to all of such forward-looking
+statements.  The forward-looking statements in this Form 10-K reflect the
+Company's current views with respect to future events and financial
+performance.  These forward-looking statements are subject to certain risks
+and uncertainties that could cause actual results to differ from those
+anticipated.  In the Form 10-K, the words "anticipates," "believes, "expects,"
+"intends," "future" and similar expressions identify forward-looking
+statements.  The Company undertakes no obligation to publicly revise these
+forward-looking statements to reflect events or circumstances that may arise
+after the date hereof.  All subsequent written and oral forward-looking
+statements attributable to the Company or persons acting on its behalf are
+expressly qualified in their entirety by this section.
+
+YEAR 2000 ISSUE
+
+The Company has conducted a comprehensive review of its computer systems to
+identify the systems that could be affected by the "Year 2000" issue.  The
+"Year 2000" problem is the result of computer programs being written using two
+digits rather than four to define the applicable year.  Any programs that have
+time-sensitive software may recognize a date using "00" as the year 1900
+rather than the year 2000.  This could result in a major system failure or
+miscalculations.  The Company believes that all of its software and equipment
+is "Year 2000" compliant and that this problem will have no affect on the
+Company's operations.
+
+
+  ITEM 7.  FINANCIAL STATEMENTS
+
+The following financial statement information for Black Giant Oil Company is
+set forth below:
+
+     Report of Independent Certified Public Accountant
+     Balance Sheets
+     Statements of Operations
+     Statements of Changes in Stockholders' Equity
+     Statements of Cash Flows
+     Notes to the Financial Statements
+
+<PAGE>
+
+                     INDEPENDENT AUDITOR'S REPORT
+
+
+TO THE BOARD OF DIRECTORS OF BLACK GIANT OIL COMPANY
+
+We have audited the accompanying Balance Sheets of Black Giant Oil Company as
+of March 31, 1997 1996 and 1995 and the related consolidated statements of
+operations, cash flow, and stockholders' equity for the years then ended.
+These financial statements are the responsibility of the management of Black
+Giant Oil Company.  Our responsibility is to express an opinion on these
+financial statements based on our audit.
+ 
+We have conducted our audit in accordance with generally accepted auditing
+standards.  Those standards require that we plan and perform the audit to
+obtain reasonable assurance about whether the statements are free of material
+misstatements.  An audit includes examining, on a test basis, evidence
+supporting the amounts and disclosures in the financial statements.  An audit
+also includes assessing the accounting principles used and significant
+estimates made by management, as well as evaluating the overall financial
+statement presentation.  We believe that our audit provides a reasonable basis
+for our opinion. 
+
+In our opinion, the 1997, 1996 and 1995 financial statements referred to above
+present fairly, in all material respects, the financial position of Black
+Giant Oil Company as of March 31, 1997, 1996 and 1995 and the results of its
+operations and its cash flows for the years then ended in conformity with
+generally accepted accounting principles. 
+
+
+ _/S/ HARMON & COMPANY, CPA, INC.
+HARMON & COMPANY, CPA, INC.                           
+
+APRIL 3, 1998
+
+<PAGE>
+
+                           Black Giant Oil Company
+                                Balance Sheets
+                          March 31, 1997, 1996, 1995
+
+                                               3/31/97     3/31/96     3/31/95
+
+                  Assets
+   
+Current Assets:
+  Cash                                           $327      $3,342       ($144)
+     Total Current Assets                         327       3,342        (144)
+   
+Property and Equipment:
+(at cost less accumulated depreciation 
+     and depletion)
+  Producing Royalties                           6,372       6,372       6,372
+  Office Furniture and Equipment               44,950      44,950      44,950
+  Autos                                        15,524      15,524      15,524
+  Accumulated Depreciation & Depletion        (65,017)    (62,638)    (61,237)
+  Total Property and Equipment                  1,829       4,208       5,609
+         Total Assets                          $2,156      $7,550      $5,465
+
+
+Liabilities and Stockholders' Equity:
+Liabilities:
+  Accounts Payable                            $13,067     $18,515     $24,477
+       Total Liabilities                       13,067      18,515      24,477
+   
+Stockholders' Equity:
+  Common Stock, $0125 par, 20,000,000 
+  shares authorized, 14,370,227 shares
+  issued, 14,350,227 shares outstanding
+  in 1997, 1996 and 1995                     179,628     179,628     179,628
+  Paid-in Capital                          1,269,513   1,269,513   1,269,513
+  Retained Earnings (Deficit)             (1,418,652) (1,418,706) (1,426,753)
+  Less Treasury Stock, 20,000 shares         (41,400)    (41,400)    (41,400)
+  Total Stockholders' Equity                 (10,911)    (10,965)    (19,012)
+  Total Liabilities and Stockholders' 
+  Equity                                      $2,156      $7,550      $5,465
+
+
+The accompanying notes are an integral part of these financial statements
+
+<PAGE>
+
+                           Black Giant Oil Company
+                           Statements of Operations
+              For the Years Ended March 31, 1997, 1996 and 1995
+
+                                               3/31/97     3/31/96     3/31/95
+
+Revenue:
+  Oil & Gas Income                            $15,184      $8,658      $7,292
+  Misc. Income                                 11,875      14,961        -0- 
+         Total Income                          27,059      23,619       7,292
+
+Expenses:
+  Bank Charge                                     166         132         220
+  Contract Services                            16,078       1,330         -0-
+  Depreciation & Depletion                      2,379       1,401       1,196
+  Foreign Exchange                              4,018       2,268       2,453
+  Expired Lease Cost                              -0-      10,000         -0- 
+  Office Expenses                                 -0-         104         -0- 
+  Professional Fees                             3,575         185       2,225
+  Telephone                                       790         151         -0- 
+        Total Expenses                         27,006      15,571       6,094
+     Net Income before Federal Income Taxes        53       8,048       1,198
+  Federal Income Taxes                              8       1,207         180
+  Effect of Net Operating Loss Carryforward        (8)     (1,207)       (180)
+      Net Income  (Loss)                          $53      $8,048      $1,198
+
+
+
+Earnings per share                            $  0.00     $  0.00     $  0,00
+
+Weighted average of common shares 
+outstanding                                14,350,227  14,350,227  14,350,227
+
+
+
+The accompanying notes are an integral part of these financial statements
+
+
+<PAGE>
+<TABLE>
+<CAPTION>
+
+                                        Black Giant Oil Company
+                              Statement of Changes in Stockholders' Equity
+                            For the Years Ending March 31, 1997, 1996, 1995
+
+
+                                                      Additional    Retained                    Total
+                                    Common Stock        Paid-In     Earnings      Treasury   Stockholders
+                                 Shares      Amount     Capital     (Deficit)      Stock       Equity
+<S>                            <C>          <C>       <C>         <C>            <C>         <C>
+Balance at March 31, 1994      14,350,227   $179,628  $1,269,513  ($1,427,951)   ($41,400)   ($20,210)
+
+  Net income for the year                                               1,198                   1,198
+Balance at March 31, 1995      14,350,227    179,628   1,269,513   (1,426,753)    (41,400)    (19,012)
+
+  Net income for the year                                               8,048                   8,047
+Balance at March 31, 1996      14,350,227    179,628   1,269,513   (1,418,706)    (41,400)    (10,965)
+
+  Net income for the year                                                  53                      53
+Balance at March 31, 1997      14,350,227   $179,628  $1,269,513  ($1,418,652)   ($41,400)   ($10,911)
+
+
+<FN>
+The accompanying notes are an integral part of these financial statements
+
+
+</TABLE>
+<PAGE>
+
+                           Black Giant Oil Company
+                           Statements of Cash Flows
+                 For Years Ending March 31, 1997, 1996, 1995
+
+                                                3/3197     3/31/96     3/31/95
+
+Cash Flows from Operating Activities:
+  Net Income (Loss)                               $53      $8,048      $1,198
+
+Adjustments to reconcile net loss to net cash
+provided by operating activities:
+  Depreciation and Depletion                    2,379       1,401       1,196
+
+Changes in operating assets and liabilities:
+  Increase (Decrease) in Accounts Payable      (5,447)     (5,963)     (2,560)
+Net Cash Provided (Used) by Operating 
+  Activities                                   (3,015)      3,486        (166)
+
+Cash Flows from Investing Activities:             -0-         -0-         -0-
+
+Cash Flows from Financing Activities:             -0-         -0-         -0-
+
+  Net Increase (Decrease) in Cash             ($3,015)     $3,486       ($166)
+
+  Cash, Beginning of Period                    $3,342       ($144)        $22
+
+  Cash, End of Period                            $327      $3,342       ($144)
+
+Supplemental Disclosure of Cash Flow
+Information:
+  Cash paid during the year for interest       $  -0-      $  -0-      $  -0- 
+
+
+
+The accompanying notes are an integral part of these financial statements
+
+<PAGE>
+
+                           BLACK GIANT OIL COMPANY
+                        NOTES TO FINANCIAL STATEMENTS
+              For the Years Ended March 31, 1997, 1996 and 1995
+
+NOTE 1 - SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+
+ORGANIZATION AND DESCRIPTION OF THE BUSINESS -    Black Giant Oil Company (the
+Company) was organized on July 23, 1973 as a corporation under the laws of the
+State of Nevada, for the general purpose of engaging in exploration for oil
+and gas.  More recently, the Company has shifted its activities to acquiring
+working interests, royalties, and overriding royalties in oil and gas
+properties within the United States and in foreign countries.
+ 
+During its fiscal year ended March 31, 1997, the Company was not involved in
+any bankruptcy, receivership, or similar proceeding and under went no material
+reclassification, merger, or consolidation.  The Company does not anticipate
+involvement or participation in any of the above proceedings.
+
+During the period from April 1, 1978 to March 31, 1997, the Company conducted
+no substantial business, received no material income and had no material
+assets or liabilities.  The Company was dormant and virtually inactive during
+this period of time.
+ 
+In August 1997, a group of stockholders met and decided to make an attempt to
+revive the Company and initiated a funding campaign.  Although a public
+company reporting to the Securities and Exchange Commission ("SEC") under
+Section 13D or 15 of the Securities Act of 1933, its last report on Form 10-K
+was for the Company's fiscal year ended March 31, 1987 until renewed activity
+on the Company's behalf by its Board of Directors during the fiscal year 1997.
+The Company intends to bring all necessary filings with the SEC current during
+1998.
+ 
+The following is a summary of significant accounting policies followed in the
+preparation of these consolidated financial statements.  The financial
+statements and notes are the representation of the Company's Management, who
+is responsible for their integrity and objectivity.  The policies conform to
+generally accepted accounting principles and have been consistently applied.
+
+USE OF ESTIMATES -  The preparation of financial statements in conformity with
+generally accepted accounting principles requires management to make estimates
+and assumptions that affect the reported amounts of assets and liabilities and
+disclosures of contingent assets and liabilities at the date of the financial
+statements and the reported amounts of revenues and expenses during the
+reporting period.  Actual results could differ from those estimates.
+
+PROPERTY AND EQUIPMENT -   Property and equipment are stated at cost.
+Producing Royalties are stated at cost.  Depletion is computed at 15% of gross
+income up to the acquisition cost of the individual royalty holdings.  Costs
+of maintenance and repairs are charged to expense as incurred.  Major
+improvements and renewals, in general, are capitalized.  Acquisitions to fixed
+assets are depreciated on the straight-line method, generally over lives of
+5-7 years. 
+ 
+Depreciation and depletion charged against operations for the years ended
+March 31, 1997, 1996 and 1995 were $2,379, $1,401 and $1,196, respectively. 
+ 
+The Company, as activity increases, intends to use the successful efforts
+method of accounting for its oil and gas producing activities.  Under this
+method, all costs associated with productive exploratory wells and productive
+or nonproductive development wells will be capitalized while the costs of
+nonproductive exploratory wells are expensed.  Indirect exploratory
+expenditures, including geophysical costs and annual lease rentals, will be
+expensed as incurred.  Unproved properties will be assessed periodically, and
+if an impairment of value is apparent, a valuation allowance will be provided.
+Capitalized costs relating to proved properties will be amortized using the
+units of production method on a property-by-property basis.  Generally, no
+gain or loss will be recognized upon disposition of proved oil and gas
+properties unless the disposition encompasses an entire property.
+ 
+NOTE 2 - DEFERRED TAXES AND INCOME TAXES
+
+As more fully described in Note 1, the Company adopted Financial Accounting
+Standards No. 109, "Accounting for Income Taxes" and all years presented
+reflect the adoption of this method.  The deferred tax asset of $- 0 -, net of
+a valuation allowance of $222,275, which arises solely from the estimated
+future benefit of the net operating loss carry-forward of approximately
+$635,048.
+
+The components of the deferred tax asset are as follows:
+
+                                      1997        1996        1995
+Tax asset arising form net                            
+operating loss carryforward:                                         
+ 
+   Federal Deferred Tax Asset       $222,275    $222,275    $225,100
+   Less valuation for deferred
+     tax assets                     (222,275)   (222,275)   (225,100)
+
+   Deferred Taxes - net             $    -0-    $    -0-     $    -0-
+
+The amounts and expiration dates of the net operating loss carryforward
+available to the Company at March 31, 1997 are as follows:
+
+                                                Amount     Expiration
+                                                              Date
+
+ Unused Loss for the year ended March           
+  March 31, 1984                                $55,225       1999
+ Loss for the year ended March 31, 1985         105,432       2000
+ Loss for the year ended March 31, 1987          67,058       2001
+ Loss for the year ended March 31, 1989          10,060       2003
+ Loss for the year ended March 31, 1990          19,698       2004
+ Loss for the year ended March 31, 1991         137,904       2005
+ Loss for the year ended March 31, 1993         175,771       2007
+ Loss for the year ended March 31, 1994          63,900       2008
+
+ Total Net Operating Loss Carryforward         $635,048
+
+NOTE 3 - LEGAL PROCEEDINGS
+
+As of March 31, 1997, there were no legal proceedings to which the Company was
+a party, and no legal litigation is known to be pending.
+
+NOTE 4 - SUBSEQUENT EVENTS
+
+In August 1997, a group of concerned shareholders met to discuss the Company's
+future and outlined a plan to revive the Company.  The plan was to sell
+through private placements the Company's common stock to raise operating
+capital to pay for the expense for the Company to become current in its
+filings with the Securities Exchange commission and other government agencies.
+The private placement offering price per share was $0.02.  The Company
+successfully raised $95,000 from the private placement program offered during
+September through November 1997.
+ 
+The Company proceeded to bring the Company back into compliance with the
+various government agencies by engaging a Tax Accountant to prepare the tax
+returns for the delinquent years and prepare the financial statements for
+audit for the three years ended March 31, 1997, 1996 and 1995.
+ 
+On September 22, 1997, the Company entered into a Debt Agreement with the
+Wolas Family for $100,000.  The terms of the Debt Agreement are 10% interest
+payable in stock on a quarterly basis (125,000 shares per quarter - based on 2
+cents per share).  The debt can be paid in full or be convertible to equity,
+based on 2 cents per share (5,000,000 shares - on the 22nd of September, 2000
+at the election of the Wolas Family.  The Wolas Family also have a warrant to
+purchase 1,000,000 share of common stock for $25,000 on or before the 22nd of
+September 2002, being $0.025 per share.
+ 
+During the process of reviving the Company, the Company participated in the
+drilling of three wells, purchased working interests in 12 oil and gas leases.
+These leases have a total of 78 wells of which 33 are producing, 30 are
+non-producing and 15 are disposal wells for saltwater.  The interests range
+from 1% to 50%.  These oil and gas leases are located in Texas and Oklahoma.
+As of March 31, 1998, no oil and gas revenues have been received by the
+Company from these leases, however, management expects oil and gas revenues to
+begin in April 1998.
+
+<PAGE>
+
+  ITEM 8.  CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS AND FINANCIAL
+  DISCLOSURE
+
+There are no disagreements between the Company and its auditor, Harmon &
+Company, CPA, Inc.  regarding accounting and/or financial disclosure.
+                                  
+                              PART III
+                                  
+  ITEM 9.  DIRECTORS AND EXECUTIVE OFFICERS OF THE REGISTRANT
+
+The following are the officers and directors of the Company as of April 14,
+1998
+
+    Name             Age         Position
+
+Ivan  Webb*           47        President & Director
+
+Elizabeth Webb*       49        Secretary/Treasurer & Director
+
+Gifford Dieterle      65        Director
+
+*Ivan Webb and Elizabeth Webb are husband and wife. There are no other
+family relationships between the directors and officers.
+
+The following are directors nominated by the Board on April 2, 1998 for
+election the next Annual Meeting of shareholders scheduled for May 15, 1998.
+
+    Name             Age        Position
+
+Ivan  Webb            47       President & Director
+
+Richard M. Hewitt     60       Director
+
+Gifford Dieterle      65       Director
+
+Herbert Wolas         64       Director
+
+There are no family relationships between the above listed proposed
+directors.
+
+IVAN W. WEBB, president and director, of Cisco, Texas, received his Bachelor
+of Business Degree in Business Administration from Tarleton State University
+(Texas A&M Branch) in 1978. He was instrumental in the preparation of four
+domestic oil and gas public stock offerings. Mr. Webb has been involved in
+the negotiations for the acquisition of more than 200 producing oil and gas
+properties within the United States during his career.  He has international
+experience through negotiating with governments for oil and gas concessions
+in Australia, Argentina, gold and diamond leases in Guyana, South America
+and a bauxite project in Orissa, India. He is currently Chief Financial
+Officer of Ness Energy International, Inc., a public company also listed on
+the Electronic Bulletin Board.
+
+GIFFORD A. DIETERLE, Director, of New York, New York, graduated from New
+York University with a BA in geology in 1956 and with an M.S. in geology in
+1959. He also worked (part-time) for the City of New York as a soils
+engineer from 1956 to 1959.  From 1959 to 1962, he was a geologist with
+Pavlo Consulting Engineers and from 1962 to 1964, he worked for Dames and
+Moore, as a Soils Engineer, both being firms of engineering geologists. From
+1964 until 1973, he worked as an exploration field geologist for Standard
+Magnetite Corporation in North, Central and South America with extensive
+activity in gold placer operations. He also worked from 1973 to 1975 as
+project geologist for Phoenix Rheinrohr A.S. of Germany in Guatemala and for
+Carbonera Chimbote, S.A. Lima, Peru. From 1962 until the present, he has
+been a consultant mining geologist with activities in North, Central and
+South Americas. In 1976, he formed Franklin Consolidated Mining Co.
+(NASDAQ-FKCM) and was president, chairman and geologist until 1993. He also
+formed Jegeroil Corp. in 1978 (NASDAQ-JEGR) and was vice president and
+chairman until 1986. He also formed Leadville Mining & Milling Corp. in 1983
+and has been treasurer and chairman since. He also was lecturer and
+assistant professor of geology at Long Island University and Hunter College,
+City University of New York for twenty-seven (27) years, retiring in 1987.
+Mr. Dieterle has had a brokerage license with Datek Securities Corp. since
+1979.
+
+RICHARD M. HEWITT, proposed director, of Trophy Club, Texas is a sole
+practitioner attorney specializing in securities law with offices in Irving,
+Texas. His is a 1958 graduate of Grinnell College, Grinnell, Iowa, with an
+AB degree in Political Science. Mr. Hewitt holds a LLB degree from Southern
+Methodist University, College of Law, Dallas, Texas (1963). Between 1964 and
+1979, Mr. Hewitt was employed by the Fort Worth Regional Office of the U.S.
+Securities and Exchange Commission, Fort Worth, Texas, in varying legal
+positions including Regional Administrator. He has been in private practice
+in the Dallas-Fort Worth area for the last seventeen (17) years.
+
+HERBERT WOLAS, proposed director, of Los Angeles, California, admitted to
+bar, 1961, California. Education: University of California at Los Angeles
+(A.A., 1953); B.A., 1954; J.D.,1969). Member: Beverly Hills and Los Angeles
+County (Member, Sections on Commercial Law; Bankruptcy) Bar Associations;
+State Bar of California. Since being admitted to practice in 1961, has
+specialized in bankruptcy reorganization and receivership matters.
+1961-1963, an associate with Quittner, Stutman & Treister (now Stutman,
+Treister & Glatt). 1963-1987, one of the founders of Robinson & Wolas;
+Robinson, Wolas & Diamant; and Robinson, Wolas, Diamant & Brill. 1987-1991,
+one of the founders of Wolas, Soref & Ickowicz. 1991, to present: principal
+of the Law Offices of Herbert Wolas.
+
+  ITEM 10.  EXECUTIVE COMPENSATION 
+
+The following table shows the annual compensation to be paid to the
+Company's president. Subject to funding and/or the availability of funds
+from revenues the compensation committee may increase the presidents salary. 
+
+
+
+  Name and Principal Position         Salary    
+  Ivan Webb, President             $15,000
+
+
+All compensation and other arrangements between the Company and its officers
+and directors are to be approved by a Compensation Committee of the Board of
+Directors, a majority   of whom are to have no affiliation or relationship
+with the Company other than as directors.
+
+  ITEM 11.  SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT
+
+a)   SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS
+
+Set forth below is certain information concerning persons or firms who are
+known by the Company to own beneficially more than 5% of the Company's
+common stock (19,791,477 shares) and voting shares on April 7, 1998:
+
+                        Name and Address           Number of         Percent
+Title of Class        of Beneficial Owner        Shares Owned       of Class
+Common Stock          Ivan Webb*                  2,477,176*         12.52%
+$0.0125 Par Value     901West 6th Street
+                      Cisco, TX 76437
+
+Common Stock          Richard M. Hewitt              40,000            .21%
+$0.0125 Par Value     202 Fresh Meadow Drive
+                      Trophy Club, TX  76262
+
+Common Stock          Gifford A. Dieterle           102,200             .52%
+$0.0125 Par Value     76 Beaver Street
+                      New York, NY 10005
+
+Common Stock          Herbert Wolas**               256,250            1.30%
+$0.0125 Par Value     1875 Century Park East
+                      Suite 2000
+                      Los Angeles, CA  90067
+
+All directors and officers
+as a group (4 persons)                            2,875,626           14.55%
+
+Common Stock          Stephen Grosberg            2,730,000           13.72%
+$0.0125 Par Value     330 Madison Ave., 8th Floor
+                      New York, NY  10017
+*Included in Ivan Webb's stock position are 200,000 shares held in the name
+of Elizabeth Webb, his wife.
+
+**Herbert Wolas children hold 100,000 shares which are included in the
+shares shown. Herbert Wolas also has warrants for The Wolas Family
+Partnership to purchase 1,000,000 shares of the Company's common stock for
+$25,000. These warrants expire on September 22, 2002. See Item 12 "Certain
+Relationships and Related Transactions" for additional information.
+
+There are no family relationships between the proposed directors.
+
+  ITEM 12. CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS
+
+Mr. Ivan Webb and Gifford Dieterle both have interests in the oil and gas
+business which might directly compete with the interests of the Company.
+Although the Company is not aware of any conflict of interest, such present
+or future activities on the part of the officers and directors could cause a
+conflict of interest. If the Company should enter into transactions in the
+future with its officers, directors or other related parties, the
+consideration to them as a result of such transactions shall be as favorable
+to the Company as those which could be obtained from an unrelated party in
+an arm's length transaction.
+
+On September 22, 1997, the Company entered into a Debt Agreement with
+Herbert Wolas for the Wolas Family for $100,000. This agreement was entered
+into prior to Mr. Wolas agreeing to serve as a director of the Company. The
+terms of the Debt Agreement are 10% interest payable in stock on a quarterly
+basis (125,000 shares per quarter - based on 2 cents per share). The debt
+can be paid in full or be convertible to equity, based on 2 cents per share
+(5,000,000 shares - on the 22nd of September, 2000 at the election of the
+Wolas Family). The Wolas Family also have a warrant to purchase 1,000,000
+shares of common stock for $25,000 on or before the 22nd of September 2002,
+being $0.025 per share. 
+
+
+  ITEM 13. EXHIBITS AND REPORTS ON FORM 8-K
+
+No reports were filed on Form 8K during the past three years ended March
+31,1997; however, on April 14, 1998 a Form 8K was filed reporting the change
+of the Company's auditor and acquisition of assets.
+
+
+
+                             SIGNATURES
+
+Pursuant to the requirements of Section 13 or 15 (d) of the Securities
+Exchange Act of 1934, Black Giant Oil Company has duly caused this report to
+be signed on its behalf by   the undersigned, thereunto duly authorized.
+
+
+
+                              BLACK GIANT OIL COMPANY
+
+
+
+                              /s/ Ivan Webb  
+                              By: Ivan Webb, President,
+                              Chief Executive Officer, Principal 
+                              Accounting Officer, Principal
+                              Financial Officer
+
+Date:  April 14, 1998
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, this
+report has been signed below by the following persons on behalf of the
+registrant and in the capacities and on the dates indicated:
+
+
+    Signature                       Title                        Date
+
+
+
+
+/s/ Elizabeth Webb        Secretary/Treasure & Director      April 14, 1998
+Elizabeth Webb
+
+
+
+/s/ Ivan Webb                   President & Director         April 14, 1998
+Ivan Webb
+
+
+
+/s/ Gifford Dieterle                  Director               April 14, 1998
+Gifford Dieterle
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-27
+<SEQUENCE>2
+<DESCRIPTION>ARTICLE 5 FDS FOR YEARS ENDED MARCH 31, 1997, 1996, AND
+                 1995 AS REPORTED ON FORM 10-KSB
+<TEXT>
+
+<TABLE> <S> <C>
+
+<ARTICLE> 5
+<LEGEND>
+The following schedule contains summary financial information which has been
+extracted from the consolidated financial statements of Golden Triangle
+Industries, Inc. and subsidiarys for the quarterly financial statements 
+filed on Form 10-Q for the periods presented.  These summary schedules are 
+qualified in their entirety by reference to such financial statements and 
+the notes thereto.
+</LEGEND>
+
+<CIK> 0000012388
+<NAME> BLACK GIANT OIL COMPANY
+
+       
+<S>                          <C>                <C>                <C>
+<PERIOD-TYPE>                   YEAR              YEAR              YEAR
+<FISCAL-YEAR-END>            MAR-31-1997        MAR-31-1996        MAR-31-1995
+<PERIOD-END>                 MAR-31-1997        MAR-31-1996        MAR-31-1995
+<CASH>                               327               3342              (144)
+<SECURITIES>                           0                  0                  0
+<RECEIVABLES>                          0                  0                  0
+<ALLOWANCES>                           0                  0                  0
+<INVENTORY>                            0                  0                  0
+<CURRENT-ASSETS>                     327               3342              (144)
+<PP&E>                             66846              66846              66846
+<DEPRECIATION>                   (65017)            (62638)            (61237)
+<TOTAL-ASSETS>                      2156               7550               5465
+<CURRENT-LIABILITIES>              13067              18515              24477
+<BONDS>                                0                  0                  0
+<PREFERRED-MANDATORY>                  0                  0                  0
+<PREFERRED>                            0                  0                  0
+<COMMON>                          179628             179628             179628
+<OTHER-SE>                      (190539)           (190593)           (198640)
+<TOTAL-LIABILITY-AND-EQUITY>        2156               7550               5465
+<SALES>                            15184               8658               7292
+<TOTAL-REVENUES>                   27059              23619               7292
+<CGS>                                  0                  0                  0
+<TOTAL-COSTS>                          0                  0                  0
+<OTHER-EXPENSES>                   27006              15571               6094
+<LOSS-PROVISION>                       0                  0                  0
+<INTEREST-EXPENSE>                     0                  0                  0
+<INCOME-PRETAX>                       53               8048               1198
+<INCOME-TAX>                           0                  0                  0
+<INCOME-CONTINUING>                   53               8048               1198
+<DISCONTINUED>                         0                  0                  0
+<EXTRAORDINARY>                        0                  0                  0
+<CHANGES>                              0                  0                  0
+<NET-INCOME>                          53               8048               1198
+<EPS-PRIMARY>                          0                  0                  0
+<EPS-DILUTED>                          0                  0                  0
+        
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

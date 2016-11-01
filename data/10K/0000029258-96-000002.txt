@@ -1,0 +1,1191 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ Oy6shMRGsnz40uvgV/EolkevRTLtad6z/46pNpT2/L4bzbwUHjX9M0l3SdRkdu9g
+ GYIzC8UuFE7i1A2iyyYI9Q==
+
+<SEC-DOCUMENT>0000029258-96-000002.txt : 19960506
+<SEC-HEADER>0000029258-96-000002.hdr.sgml : 19960506
+ACCESSION NUMBER:		0000029258-96-000002
+CONFORMED SUBMISSION TYPE:	10KSB
+PUBLIC DOCUMENT COUNT:		3
+CONFORMED PERIOD OF REPORT:	19951231
+FILED AS OF DATE:		19960329
+SROS:			NONE
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			DIVERSIFIED REALTY INC
+		CENTRAL INDEX KEY:			0000029258
+		STANDARD INDUSTRIAL CLASSIFICATION:	6512
+		IRS NUMBER:				810268110
+		STATE OF INCORPORATION:			MT
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10KSB
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-02864
+		FILM NUMBER:		96541958
+
+	BUSINESS ADDRESS:	
+		STREET 1:		128 SECOND STREET SOUTH
+		CITY:			GREAT FALLS
+		STATE:			MT
+		ZIP:			59403
+		BUSINESS PHONE:		4067272600
+
+	MAIL ADDRESS:	
+		STREET 1:		P O BOX 2249
+		CITY:			GREAT FALLS
+		STATE:			MT
+		ZIP:			59403
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	PRUDENTIAL DIVERSIFIED SERVICES
+		DATE OF NAME CHANGE:	19671023
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>10KSB
+<SEQUENCE>1
+<TEXT>
+
+                    	U.S. SECURITIES AND EXCHANGE COMMISSION
+                              Washington, D.C.  20549
+                                   FORM 10-KSB
+             (Mark One)
+XX   ANNUAL REPORT UNDER SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT
+     OF 1934 [FEE REQUIRED]
+     For the fiscal year ended December 31, 1995
+
+     TRANSITION REPORT UNDER SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE    
+     ACT  OF 1934 [NO FEE REQUIRED]
+     For the transition period from             to                      
+   
+     Commission file number 0-2864
+
+                     DIVERSIFIED REALTY, INC.                                 
+            (Name of small business issuer in its charter)
+
+                  Montana                           81-0268110                 
+(State or other jurisdiction
+ of incorporation or organization)    (I.R.S. Employer Identification Number)
+
+            128 Second Street South, Great Falls, Montana       59405          
+                 (Address of principal executive offices)     (Zip Code)
+
+Issuer's telephone number (406) 727-2600                                    
+
+Securities registered under Section 12(b) of the Exchange Act:
+            Title of Each Class    Name of Each Exchange On Which  Registered
+                   NONE   		                          N/A
+                                     
+Securities registered under Section 12(g) of the Exchange Act: 
+                       Common Stock Without Par Value
+                              (Title of class)
+
+Check whether the issurer (1) filed all reports required to be filed by
+Section 13 or 15(d) of the Exchange Act during the past 12 months
+(or for such shorter period that the registrant was required to file
+such reports), and (2) has been subject to such filing requirements for the
+past 90 days.  YesXX  No 
+  
+Check, if disclosure of delinquent filers in response to Item 405 of
+Regulation S-B is not contained in this form, and no disclosure will be
+contained, to the best of registrant's knowledge, in definitive proxy or
+information statements incorporated by reference in Part III of this
+Form 10-KSB or any amendment to this Form 10KSB.  
+            
+State issuer's revenues for its most recent fiscal year $131,756.
+              
+State the aggregate market value of the voting stock held by nonaffiliates
+of the registrant.  The aggregate market value shall be computed by
+reference to the price at which the stock was sold, or the average bid and
+asked prices of such stock, as of a specified date within the past 60 days.
+(See definition of affiliate in Rule 12b-2 of the Exchange Act).
+
+As of February 28, 1996, 299,710 shares held by nonaffiliates were
+outstanding.  The registrant's stock is not traded on any securities
+exchange.  To registrant's knowledge, neither bid nor asked quotations for
+registrant's stock have appeared in any established quotation system
+during the past sixty business days. To registrant's knowledge, neither bid
+nor asked quotations for registrant's stock are reported in any newspapers 
+nor are records kept of any quotations by the National Quotation Bureau, Inc.
+There exists no public market for registrant's stock.
+	
+	             (APPLICABLE ONLY TO CORPORATE REGISTRANTS)
+State the number of shares outstanding of each of the issuer's classes of
+common equity, as of the latest practicable date.
+1,875,000 shares no par value common stock are outstanding as
+of February 28, 1996.
+
+	DOCUMENTS INCORPORATED BY REFERENCE
+            DOCUMENTS          			    FORM 10-KSB REFERENCE     
+
+Annual Report to Shareholders for	  		Part I,   Items 1 and 2
+the year ended December 31, 1995.	  		Part II,  Items 5, 6 and 7
+                                   			Part III, Item 12
+  	                                 		Part IV,  Item 13 
+
+
+Transitional Small Business Disclosure Format (check one): Yes   ; No X .
+
+<PAGE>
+                            	DIVERSIFIED REALTY, INC.
+
+                                    	PART I
+
+
+ITEM 1.	DESCRIPTION OF BUSINESS AND
+ITEM 2.	DESCRIPTION OF PROPERTY
+
+A description of the Company's business and property ownership is set forth
+on Page 1 of Exhibit 13, the Annual Report to Shareholders for the year ended
+December 31, 1995, which description is incorporated herein by reference.
+
+ITEM 3.	LEGAL PROCEEDINGS
+
+No legal proceedings presently pending by or against Diversified Realty, Inc.
+are described herein as management believes that the outcome of such
+litigation should not have a material adverse effect on the financial 
+position of the Company taken as a whole.
+
+ITEM 4.	SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS
+
+No matters were submitted to a vote of security holders during the fourth 
+quarter of 1995.
+
+                                 	I-1
+
+                                  	1.
+<PAGE>
+
+                         	DIVERSIFIED  REALTY, INC.
+
+                                	PART II
+
+
+ITEM 5.	MARKET FOR COMMON EQUITY AND RELATED STOCKHOLDER MATTERS
+ITEM 6.	MANAGEMENT'S DISCUSSION AND ANALYSIS OR PLAN OF OPERATION
+ITEM 7.	FINANCIAL STATEMENTS
+
+Items 5, 6 and 7 are set forth on Page 13, Pages 1 and 2 and Pages 3 to 12, 
+respectively, of Exhibit 13, the Annual Report to Shareholders for the year 
+ended December 31, 1995, which report is incorporated herein by reference.
+
+ITEM 8.	CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND
+        FINANCIAL DISCLOSURE
+
+There have been no disagreements concerning accounting principles or 
+practices or financial statement disclosures between the Company and the 
+Company's independent auditor during the two most recent years.
+
+
+                                	II-1
+
+                                  	2.
+<PAGE>
+
+                        	DIVERSIFIED REALTY, INC.
+
+                               	PART III
+
+ITEM 9.	DIRECTORS, EXECUTIVE OFFICERS, PROMOTERS AND CONTROL PERSONS;
+        COMPLIANCE WITH SECTION 16(a) OF THE EXCHANGE ACT.
+
+The following are the directors and executive officers of the Company.  
+All directors and officers serve as such until the 1996 annual meeting of 
+shareholders or until their successors are elected and qualify.
+
+NAME, AGE, AND YEAR ELECTED DIRECTOR		      POSITION   
+
+L. H. LaValley,	  	31,    1991	            	President and Director
+
+S. M. McCann,    	32,    1990	              Director
+
+Charles E. Reed,		78,    1974	             	Vice President and Director
+
+L.H. LaValley is a director of UAC, Inc., an affiliate of the Company and 
+a director of M Corp, the Company's parent company.  S. M. McCann is the 
+president and a director of TSI, Inc., an affiliate of the Company, 
+the president and a director of M Corp and a director of GNI, Inc. 
+(parent company of  M Corp).
+
+Family Relationships
+
+S. M. McCann is the daughter of Anne Marie and Paul J. McCann.  
+Members of the Anne Marie and Paul J. McCann family control a majority of 
+the common stock of M Corp.  Anne Marie McCann and Paul J. McCann each 
+disclaim beneficial ownership of any shares of stock not owned of record 
+directly by them.  Anne Marie and Paul J. McCann do not personally own any 
+stock of the Company.
+
+Following are the executive officers of the Company and a description of 
+their principal business experience.
+
+Name and Position   	Business Experience During Past 5 Years  
+
+L. H. LaValley	    		Vice President
+President	         		TranSecurities International, Inc.
+                     Spokane, Washington
+
+S. M. McCann       		Attorney at Law, Investor
+Vice-President    			San Luis Obispo, California
+and Director			
+
+Charles E. Reed	    	President, Continental Realty and Escrow,
+                     Butte, Montana.
+
+Based solely on its review of reports of persons subject to Section 16 of 
+the Securities and Exchange Act, the Company believes that required reports 
+were filed in a timely manner disclosing transactions involving the 
+Company's common stock.
+
+                            	III-1
+
+                               3.
+<PAGE>
+
+
+                   	DIVERSIFIED REALTY, INC.
+
+
+
+
+ITEM 10.	EXECUTIVE COMPENSATION
+
+Summary Compensation Table.  The following table shows the cash compensation 
+paid by the Company to its President and Chief Executive Officer for 1995, 
+1994 and 1993.  No officer or director of the Company received total cash 
+compensation exceeding $100,000 for 1995, 1994 or 1993.
+
+
+                          Summary Compensation Table
+
+Name and                           Calendar             Total Cash
+Principal Position                   Year              Compensation
+ 
+L.H. LaValley                        1995                  $  0                 
+ President, Director                 1994                  $ 250             
+ and Chief Executive                 1993                  $ 100 
+ Officer
+
+The Company has no pension plan, no stock option or stock appreciation right 
+plans and no long-term incentive plans and there was no other material 
+compensation paid during the years ended December 31, 1995, 1994 and 1993.  
+The Company has not adopted a formal plan for the compensation of directors.
+During 1995 the Company paid a total of $250 for directors fees.
+
+ITEM 11.	SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT
+
+(a)	Security Ownership of Certain Beneficial Owners
+
+Set forth below is certain information concerning persons who are known by 
+the Company to own beneficially more than 5% of the Company's voting shares 
+on February 28, 1996.
+
+
+Title of Class                         No Par Value
+                                       Common Stock
+
+Name and Address                       M Corp              
+of Beneficial Owner                    110 Second Street South
+                                       Great Falls, Montana
+
+Amount and Nature                      1,572,257 (1)
+of Beneficial                          Direct
+Ownership        
+
+
+Percent                                83.9%
+of Class
+
+   
+(1)	Members of the Anne Marie and Paul J. McCann family own indirectly a 
+majority of the outstanding stock of M Corp, which company owns 1,572,257 
+shares (83.9%) of the outstanding common stock of the Company.  Members of 
+the Anne Marie and Paul J. McCann family own directly 3,033 shares (.2%) 
+of the Company's stock.  Anne Marie and Paul J. McCann, parents of S. M. 
+McCann, each disclaim beneficial ownership of any shares of stock not owned 
+of record directly by them.  Neither Anne Marie nor Paul J. McCann personally
+own any shares of stock in the Company.
+
+
+                             	III-2
+
+                               	4.
+
+<PAGE>
+
+                      	DIVERSIFIED REALTY, INC.
+
+
+
+
+ITEM 11.	SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT - 
+Continued
+
+(b)	Security Ownership of Management
+
+The following table sets forth as of February 28, 1996, information concerning 
+the beneficial ownership of the Company's common stock by each director, each 
+executive officer named in the Company's Summary Compensation Table and by 
+all directors and executive officers of the Company as a group:  
+
+                               Amount and Nature   
+     Name of                     of Beneficial
+Beneficial Owner                   Ownership                 Percent
+
+Charles E. Reed                    20 Direct                    -  
+
+L. H. LaValley                         -                        -  
+
+S. M. McCann                           -(1)                     -
+
+All Directors and Officers 
+ as a Group                        20 (1)                       - 
+
+(1)	See Note (1) Item 11(a) on preceding page.
+
+(c)	Changes In Control
+
+The Company knows of no contractual arrangements which may at  a subsequent
+date result in a change in control of the Company.
+
+ITEM 12.	CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS
+
+Transactions with the Company's parent company, M Corp and its other 
+subsidiaries, are disclosed in Note 6 of the notes to financial statements 
+in the Annual Report to Shareholders for the year ended December 31, 1995, 
+which note is incorporated herein by reference.  M Corp owns approximately 
+83.9% of the Company's outstanding common stock.
+
+                                	III-3
+
+                                  	5.
+<PAGE>
+
+
+                       	DIVERSIFIED REALTY, INC.
+
+                               	PART IV
+
+
+ITEM 13.	EXHIBITS AND REPORTS ON FORM 8-K
+
+(a)	Exhibits
+
+No. 13 - Diversified Realty, Inc., Annual Report to Shareholders for the 
+year ended December 31, 1995, incorporated by reference in this Annual Report 
+on Form 10-KSB.
+
+No. 27 - Financial Data Schedule
+
+(b)	Reports on Form 8-K
+
+No Current Reports on Form 8-K were filed by the Company during the three 
+months ended December 31, 1995.
+
+
+
+
+
+                                   IV-1
+
+                                     6.
+<PAGE>
+
+
+                 
+                            DIVERSIFIED REALTY, INC.
+
+                                  SIGNATURES
+
+In accordance with Section 13 or 15(d) of the Exchange Act, the Registrant 
+has caused this report to be signed on its behalf by the undersigned, 
+thereunto duly authorized.
+
+
+
+	                                         DIVERSIFIED REALTY, INC.      
+
+
+
+
+Date:  February 28, 1996                 	By:s/L. H. LaValley           
+	                                              L. H. LaValley, President
+
+
+
+In accordance with the Exchange Act, this report has been signed below by the
+following persons on behalf of the Registrant and in the capacities indicated 
+on February 28, 1996.
+
+
+
+Director					                                s/L. H. LaValley               
+                                               L. H. LaValley
+
+
+Director					                                s/S. M. McCann                
+                                               S. M. McCann
+
+
+Principal Accountant	                        s/Jerry K. Mohland            
+                                               Jerry K. Mohland
+
+
+
+                                     IV-2
+
+                                       7.
+
+<PAGE>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-13
+<SEQUENCE>2
+<TEXT>
+
+                            DIVERSIFIED REALTY, INC.
+
+
+                                 	ANNUAL REPORT
+
+
+                                       1995
+
+<PAGE>
+
+                           	DIVERSIFIED REALTY, INC.
+
+	                                 ANNUAL REPORT
+
+
+
+
+
+DESCRIPTION AND LINES OF BUSINESS
+
+
+Diversified Realty, Inc. (herein referred to as "DRI" or the "Company") is a 
+majority-owned subsidiary of M Corp, a financial holding company.  As of 
+December 31, 1995, M Corp owned approximately eighty-four percent of the 
+outstanding common stock of the Company.
+
+For the past several years, the Company has been primarily engaged in the 
+ownership and rental of real property.  As of December 31, 1995, DRI owned 
+property in Florida and Montana.
+
+Information as of December 31, 1995, concerning the gross carrying amount of 
+real property, accumulated depreciation and encumbrances on a property by 
+property basis is presented in Note 9, Investments in Real Estate, of the 
+Notes to Financial Statements.
+
+
+
+MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND 
+RESULTS OF OPERATIONS
+
+Net income increased $13,392 (54.2%) in 1995 as compared with 1994.  The 
+increase in net income in 1995 as compared with 1994 was due in part to an
+increase in revenues and in part to a decrease in expenses.
+
+Rent income increased $2,191 (3.0%) in 1995 as compared with 1994 due primarily
+to a decrease in vacancies and an increase in rental rates.  Interest income
+increased $3,235 (6.1%) in 1995 as compared with 1994.  The increase in interest
+income in 1995 as compared with 1994 was due in part to an increase in interest-
+bearing deposits and in part to an increase in rates earned on interest-bearing
+deposits.  During 1995 and 1994 the Company charged its parent company interest
+
+                                   1
+
+<PAGE>
+
+                        	DIVERSIFIED REALTY, INC.
+
+                            	ANNUAL REPORT
+
+
+
+
+MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND 
+RESULTS OF OPERATIONS - CONTINUED
+
+in the amounts of $27,031 and $32,613 respectively.  Transactions with the 
+Company's parent company and its affiliates during 1995 and 1994 are disclosed 
+in Note 6, Related Party Transactions, of the Notes to Financial Statements.
+
+Operating expenses in total, decreased $15,227 (17.1%) in 1995 as compared with 
+1994.  Maintenance expenses decreased $6,452 (20.0%) in 1995 as compared with 
+1994 due primarily to decreases in maintenance costs.  The provision for 
+depreciation decreased $6,445 (23.5%) in 1995 as compared with 1994 due to some
+of the Company's assets being fully depreciated during 1995 and 1994.
+
+Income tax expense increased $6,948 (53.2%) in 1995 as compared with 1994 due to
+the decrease in pre-tax income.  The Company files a consolidated income tax
+return with the Company's parent company and other affiliated companies.
+
+Although there are no present plans with respect thereto, the Company is 
+involved in an ongoing basis in examining and investigating investment 
+opportunities available to the Company which could possibly result in a 
+change in the liquidity of the Company.  However, the Company knows of no
+existing trends, demands, commitments, events or uncertainties not otherwise 
+mentioned herein that could result in a material change in the Company's 
+liquidity.  The Company knows of no material trends, favorable or unfavorable, 
+in the Company's capital resources.
+
+                                    2
+<PAGE>
+
+
+
+                         	DIVERSIFIED REALTY, INC.
+
+                            	FINANCIAL REPORT
+
+                            	DECEMBER 31, 1995
+
+
+
+
+
+                                	CONTENTS
+
+
+
+
+                                                               	PAGE
+
+AUDITOR'S REPORT                                                 	4
+
+
+FINANCIAL STATEMENTS
+
+Balance Sheets as of December 31, 1995 and 1994	                  5
+
+Statements of Income and Accumulated Deficit for
+ the Years Ended December 31, 1995 and 1994	                      6
+
+Statements of Cash Flows for the Years
+ Ended December 31, 1995 and 1994	                              7-8
+
+Notes to Financial Statements	                                 9-12
+
+
+OTHER INFORMATION	                                               13
+
+
+
+                                   3
+
+<PAGE>
+
+
+
+
+
+                  	Report of Independent Auditors
+
+
+
+To The Board of Directors
+Diversified Realty, Inc.
+Great Falls, MT  59405
+
+
+We have audited the accompanying balance sheets of Diversified Realty, Inc., 
+as of December 31, 1995 and 1994 and the related statements of income and 
+accumulated deficit and cash flows for the years then ended.  These financial 
+statements are the responsibility of the Company's management.  Our 
+responsiblity is to express an opinion on these financial statements based on 
+our audit.
+
+We conducted our audit in accordance with generally accepted auditing 
+standards.  Those standards require that we plan and perform the audit to 
+obtain reasonable assurance about whether the financial statements are free 
+of material misstatement.  An audit includes examining, on a test basis, 
+evidence supporting the amounts and disclosures in the financial statements.
+An audit also includes assessing the accounting principles used and 
+significant estimates made by management, as well as evaluating the 
+overall financial statement presentation. We believe that our audit provides
+a reasonable basis for our opinion.
+
+In our opinion, the financial statements referred to above present fairly, 
+in all material respects, the financial position of Diversified Realty, Inc.,
+as of December 31, 1995 and 1994 and the results of its operations and its 
+cash flows for the years then ended, in conformity with generally accepted 
+accounting principles.
+
+
+
+
+DWYER & KEITH, CPA's, P.C.
+
+
+March 7, 1996
+Great Falls, Montana
+
+                                  4
+<PAGE>
+                         DIVERSIFIED REALTY, INC.
+
+                            	BALANCE SHEETS
+ 
+                        DECEMBER 31, 1995 and 1994
+
+
+
+                                                      1995              1994    
+
+ASSETS
+Current Assets
+  Cash (Note 2)                                  $   614,560       $  558,236 
+  Investment Securities (Note 3)                           6                6
+  Current Portion of Contract Receivable               1,703            1,548 
+  Due from Parent Company                            306,225          301,544 
+
+          Total Current Assets                       922,494          861,334 
+
+Long-Term Contract Receivable, Less Current
+  Portion Included Above (Note 4)                     13,316           15,011  
+
+Investments in Property and Property, Plant
+  and Equipment (Notes 1 and 9)
+  Land                                                14,261           14,261 
+  Buildings                                          392,975          392,975 
+  Furniture, Fixtures and Equipment                   71,124           71,124 
+                                                     478,360          478,360 
+     Less Accumulated Depreciation                  (183,870)        (162,931)
+                                                     294,490          315,429 
+
+          Total Assets                           $ 1,230,300      $ 1,191,774 
+
+
+LIABILITIES AND STOCKHOLDERS' EQUITY
+
+Current Liabilities-
+  Accrued  Liabilities                           $     7,372      $     6,968   
+
+Stockholders' Equity
+
+  Common Stock - No Par Value,
+    5,000,000 shares authorized,
+    1,875,000 shares issued and
+    outstanding                                    1,416,908        1,416,908  
+                                                                 
+  Accumulated Deficit                               (193,980)        (232,102) 
+  
+    Total Stockholder's Equity                     1,222,928        1,184,806 
+
+Total Liabilities and                    
+  Stockholders' Equity                           $ 1,230,300      $ 1,191,774  
+                                                   
+                     	See Notes to Financial Statements.
+
+                                   5
+<PAGE>
+
+                          DIVERSIFIED REALTY, INC.
+
+               	STATEMENTS OF INCOME AND ACCUMULATED DEFICIT
+
+               	FOR THE YEARS ENDED DECEMBER 31, 1995 and 1994
+
+
+
+                                                     1995           1994 
+Income
+  Rent                                           $    75,091     $    72,900 
+  Interest                                            56,600          53,365 
+  Other                                                   65             378 
+                                                     131,756         126,643 
+
+Expenses
+  Maintenance                                         25,747          32,199 
+  Depreciation                                        20,939          27,384 
+  Property Taxes and Licenses                         15,254          15,008 
+  Insurance                                            2,997           2,662 
+  Travel                                               2,886           3,387 
+  Legal, Accounting and
+     Advisory Fees                                     2,164           2,000 
+  Office Supplies and Postage                          1,996           3,417 
+  Telephone                                              652             375 
+  Directors Fees                                         250             250 
+  Salaries and Payroll Costs                             214             294 
+  Interest                                                                 2 
+  Other                                                  535           1,883 
+
+                                                      73,634          88,861 
+
+Income Before Income Taxes                            58,122          37,782 
+
+Income Taxes (Notes 1 and 5)                         (20,000)        (13,052)
+
+     NET INCOME                                       38,122          24,730 
+
+Accumulated Deficit, Beginning of Year              (232,102)       (256,832)
+
+Accumulated Deficit, End of Year                 $  (193,980)    $  (232,102)
+
+
+  NET INCOME PER COMMON SHARE (Note 1)
+  NET INCOME PER SHARE                           $       .02     $       .01 
+
+                     	See Notes to Financial Statements.
+
+                                  6
+<PAGE>
+
+  
+                        	DIVERSIFIED REALTY, INC.
+
+                        	STATEMENTS OF CASH FLOWS
+
+             	FOR THE YEARS ENDED DECEMBER 31, 1995 and 1994
+
+
+                      	INCREASE (DECREASE) IN CASH
+
+
+
+                                                      1995           1994   
+
+CASH FLOWS FROM OPERATING ACTIVITIES:
+ Cash Received From Customers                     $   75,606     $   73,028 
+ Cash Paid to Suppliers and Employees                (52,741)       (61,216)
+ Interest Received in Cash                            56,600         53,365 
+ Income Tax Payments Made
+  in Cash                                            (20,000)       (13,052)
+ Interest Paid in Cash                                   -               (2)
+
+Net Cash Provided By
+ Operating Activities                                 59,465         52,123 
+
+CASH FLOWS FROM INVESTING ACTIVITIES:
+ Capital Expenditures Paid in Cash                       -           (1,632)
+ Cash Received on Principal of
+  Notes Receivable                                     1,540         47,870 
+
+Net Cash Provided By
+ Investing Activities                                  1,540         46,238 
+
+CASH FLOWS FROM FINANCING ACTIVITIES:
+Net Cash Advances to Parent Company                   (4,681)       (24,473)
+
+Net Cash Used By
+  Financing Activities                                (4,681)       (24,473)
+
+     NET INCREASE IN CASH                             56,324         73,888 
+
+     CASH - BEGINNING OF YEAR                        558,236        484,348 
+
+     CASH - END OF YEAR                           $  614,560     $  558,236 
+
+	
+                                 (Continued)
+
+                                      7
+<PAGE>
+
+                             	DIVERSIFIED REALTY, INC.
+
+                      	STATEMENTS OF CASH FLOWS - Continued
+
+                  	FOR THE YEARS ENDED DECEMBER 31, 1995 and 1994
+
+
+                 	RECONCILIATION OF NET INCOME TO NET CASH PROVIDED
+	                            BY OPERATING ACTIVITIES
+
+
+
+
+
+                                                     1995           1994   
+
+Net Income                                       $  38,122       $  24,730 
+
+Adjustments to Reconcile Net Income to Net
+ Cash Provided By Operating Activities
+
+    Depreciation                                    20,939          27,384 
+
+
+Changes in Operating Assets and Liabilities
+
+   Increase in Accrued Liabilities                     404               9 
+
+NET CASH PROVIDED BY OPERATING
+ ACTIVITIES                                      $  59,465      $   52,123 
+
+
+                	    See Notes to Financial Statements.
+
+                                 8
+
+<PAGE>
+
+                        	DIVERSIFIED REALTY, INC.
+
+                     	NOTES TO FINANCIAL STATEMENTS
+
+
+1.	SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+
+(a)	Depreciation
+
+Depreciation for the various classifications of rental property, plant and 
+equipment is computed using the straight-line and accelerated methods over the
+estimated useful lives of the assets as follows:
+
+Buildings						                           15 - 27 Years
+Furniture, Fixtures and Equipment	         3 - 10 Years
+
+(b)	Earnings Per Share
+
+The computation of earnings per share in the accompanying statements is based
+on the weighted average number of shares outstanding during each year 
+(1,875,000 shares, each year).
+
+(c)	Income Taxes
+
+The Company files a consolidated income tax return with its parent company.  
+Income taxes are allocated to the Company based upon the ratio of the 
+Company's pre-tax income to total consolidated pre-tax income.
+
+(d)	Policy of Cash Equivalents
+
+For the purposes of the statement of cash flows, cash equivalents include time 
+deposits, certificates of deposit and money market accounts, all with original 
+maturities of three months or less.
+
+(e)	Reclassifications
+
+Certain reclassifications have been made to the prior year amounts to 	make 
+them comparable to the 1995 presentation.  These changes had no 	impact on 
+previously reported results of operations or shareholders' 	equity.
+
+2.	CONCENTRATED CASH BALANCES
+
+The Company maintains accounts with various stock brokerage firms.  The 
+accounts contain cash and securities.  Cash balances are insured up to 
+$100,000 by the Securities Investor Protection Corporation ("SIPC").  
+At December 31, 1995, a cash balance totalling $494,328 was uninsured by the 
+SIPC.
+
+3.	INVESTMENT SECURITIES
+
+The Company adopted Statement of Financial Accounting Standards No. 115 
+("SFAS 115"), "Accounting For Investments in Certain Debt and Equity 
+Securities" effective January 1, 1994.  In accordance with SFAS No. 115, the 
+Company has classified its investment as a trading security.  
+
+                                 9
+<PAGE>
+
+
+                       	DIVERSIFIED REALTY, INC.
+
+                	NOTES TO FINANCIAL STATEMENTS - (Continued)
+ 	
+
+
+3.	INVESTMENT SECURITIES-Continued
+
+Following is a summary of investment securities classified as trading 
+securities:
+
+                                       
+
+                                                   1995            1994   
+
+Equity Security, at Cost                       $     250       $      250
+
+Gross Unrealized Holding Loss                       (244)            (244)
+
+Fair Value and Carrying Value                  $       6       $        6 
+
+The statements of income for the years ended December 31, 1995 and 1994 
+contain no net realized gains or losses on the disposition of investment 
+securities.  The statements of income for the years ended December 31, 1995 
+and 1994 do not include any provision for unrealized gains or losses.
+
+4.   CONTRACT RECEIVABLE
+
+Contract receivable at December 31 consists of the following:
+
+                                                   1995              1994    
+9% Contract For Deed, due in monthly
+ installments of $248 including interest to
+ September, 2002                               $  15,019          $  16,559  
+ 
+
+Less Current Portion                               1,703              1,548  
+
+Long-Term Contract Receivable                  $  13,316          $  15,011  
+                                                  
+The above contract receivable is secured by real property, the sale of which 
+resulted in the receivable.  In the event the receivable becomes uncollectible 
+and the underlying collateral is completely worthless, the Company would 
+incur a loss in the amount of the receivable.
+
+5.	INCOME TAXES
+
+Income tax expense consists of the following, all currently payable:
+
+                                                     1995           1994   
+
+U.S. Income Taxes                                $  19,950      $  13,000  
+
+State Income Taxes                                      50             52  
+
+                                                 $  20,000      $  13,052  
+
+  
+
+
+
+                                   10
+
+<PAGE>
+
+                          DIVERSIFIED REALTY, INC.
+
+                   	NOTES TO FINANCIAL STATEMENTS - Continued
+
+
+
+5.	INCOME TAXES-Continued
+
+The income tax expense reflected in the financial statements differs from the
+amounts that would normally be expected by applying the U.S. Federal income 
+tax rates to income before income taxes.  The reasons for these differences 
+are as follows:
+
+    						                                              1995         1994     
+
+Computed "Expected" Tax Expense                      $  19,800   $   12,800
+
+Other                                                      200          252     
+                                                     $  20,000   $   13,052  
+
+6.	RELATED PARTY TRANSACTIONS
+
+During 1995 and 1994 the Company received managerial assistance from its 
+parent company at no cost to the Company.  In addition, the Company has had 
+transactions with its parent company or subsidiaries of its parent company, 
+as follows:
+
+
+
+
+                                                        1995         1994   
+
+Net Cash Transfers To Parent                         $    -     $    7,260 
+
+Income Tax Allocation                                 (19,950)     (13,000)
+
+Was Charged For Insurance                              (2,400)      (2,400)
+
+Charged Interest To Parent                             27,031       32,613 
+
+
+
+
+7. FAIR VALUE OF FINANCIAL INSTRUMENTS
+
+The following methods and assumptions were used by the Company in estimating
+its fair value disclosure for financial instruments. The carrying amounts
+reported in the balance sheet for cash and the receivable from the Company's
+parent company approximate those assets' fair value. Fair value for investment
+securities is based on quoted market prices. The Company believes that the 
+fair value of its contract receivable, which has a stated interest rate of 
+9.0 %, approximates carrying value due to the credit risk involved.
+
+
+8. NATURE OF OPERATIONS, RISKS AND UNCERTAINTIES
+
+The Company is engaged in the ownership and rental of properties located
+primarily in Yellowstone County, Montana.
+
+The process of preparing financial statements in conformity with generally 
+accepted accounting principles requires the use of estimates and assumptions 
+that affect the reported amounts of certain types of assets, liabilities,
+revenues and expenses. Such estimates primarily relate to unsettled
+transactions and events as of the date of the financial statements. Actual
+results could differ from those estimates.   
+
+                                  11
+<PAGE>
+
+                       DIVERSIFIED REALTY, INC.
+                NOTES TO FINANCIAL STATEMENTS - Continued
+<TABLE>
+<CAPTION>
+9. INVESTMENTS IN REAL ESTATE
+
+
+
+
+                        INITIAL COST TO COMPANY AND GROSS                                                 ESTIMATED LIFE 
+                         AMOUNT CARRIED ON BALANCE SHEET                                                      USED IN         
+                               AT DECEMBER 31, 1995                                                          COMPUTING          
+               ENCUM-                                       ACCUMULATED          DATE             DATE       DEPRECIATION    
+DESCRIPTION   BRANCES     LAND     BUILDING      TOTAL      DEPRECIATION    OF CONSTRUCTION    ACQUIRED         (YEARS)
+<S>           <C>       <C>       <C>          <C>          <C>                 <C>                <C>            <C>             
+Investment 
+ Property     $ -       $  -      $122,000     $122,000     $  21,996           1988               1991           27  
+ Florida
+
+Rental Units
+ Florida        -         1,500     46,950       48,450        43,668           1975               1982           15-27      
+
+Rental Units
+ Montana        -          -       224,025      224,025        49,203            Var                Var           27      
+                    
+Miscellaneous
+ Properties     -        12,761        -         12,761           -                                                   
+
+
+
+Totals        $ -       $14,261   $392,975      $407,236     $114,867 
+</TABLE>
+
+       
+Reconciliations Of Total Real Estate Carrying Value For The Two Years Ended 
+December 31, 1995 are as follows:
+
+                                               1995              1994      
+Balance, Beginning of Year                  $407,236           $407,236
+  Add Acquisitions, at Cost                     --                 --
+  Less Cost of Property Recovered or Sold       --                 --
+Balance, End of Year                        $407,236           $407,236
+
+Reconciliations Of Accumulated Depreciation For The Two Years Ended 
+December 31, 1995 are as follows:
+
+                                               1995              1994   
+Balance, Beginning of Year                  $ 99,939           $ 85,011 
+  Add Provision for Depreciation              14,928             14,928
+  Less Properties Sold During Year              --                 --
+Balance, End of Year                        $114,867           $ 99,939
+
+
+                                   12
+
+<PAGE>
+                          DIVERSIFIED REALTY, INC.
+
+
+                          DIRECTORS AND OFFICERS
+
+
+
+
+
+NAME					                           OCCUPATION
+
+L. H. LaValley		                 Vice-President, TranSecurities
+President and			                 International, Inc.
+Director				                     Spokane, Washington
+
+S. M. McCann			                  Attorney at Law, Investor,
+Director				                     San Luis Obispo, California
+
+
+Charles E. Reed		                Real Estate Broker,
+Vice President		                 Butte, Montana
+and Director
+
+
+
+
+
+                         MARKET INFORMATION
+
+
+The common stock of Diversified Realty, Inc. is not traded on any securities 
+exchange, nor are records kept of any quotations by securities dealers or the
+National Quotation Bureau, Inc.  To the best knowledge of the Company, bid and
+asked quotations for Diversified Realty, Inc., common stock are not reported
+in any newspapers.
+
+
+No dividends were paid in 1995 or 1994.
+
+
+There are approximately 2,270 holders of record of the Company's common stock.
+
+
+A copy of the Form 10-KSB Annual Report may be obtained upon written request 
+to the Company.
+
+
+
+                          DIVERSIFIED REALTY, INC.
+                              P.O. Box 2249
+                          110 Second Street South
+                        Great Falls, MT  59403-2249
+
+                                   13
+<PAGE>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-27
+<SEQUENCE>3
+<TEXT>
+
+<TABLE> <S> <C>
+
+<ARTICLE>  5 
+                                  <C>
+<PERIOD-TYPE>                     12-MOS
+<FISCAL-YEAR-END>                 DEC-31-1995
+<PERIOD-END>                      DEC-31-1995
+<CASH>                            614560
+<SECURITIES>                      6
+<RECEIVABLES>                     307928
+<ALLOWANCES>                      0  
+<INVENTORY>                       0
+<CURRENT-ASSETS>                  922494
+<PP&E>                            478360  
+<DEPRECIATION>                    183870
+<TOTAL-ASSETS>                    1230300
+<CURRENT-LIABILITIES>             7372
+<BONDS>                           0
+<PREFERRED-MANDATORY>             0
+<PREFERRED>                       0
+<COMMON>                          1416908
+<OTHER-SE>                        (193980)
+<TOTAL-LIABILITY-AND-EQUITY>      1230300
+<SALES>                           0     
+<TOTAL-REVENUES>                  131756
+<CGS>                             0
+<TOTAL-COSTS>                     0  
+<OTHER-EXPENSES>                  73634  
+<LOSS-PROVISION>                  0  
+<INTEREST-EXPENSE>                0  
+<INCOME-PRETAX>                   58122   
+<INCOME-TAX>                      20000    
+<INCOME-CONTINUING>               38122        
+<DISCONTINUED>                    0     
+<EXTRAORDINARY>                   0   
+<CHANGES>                         0   
+<NET-INCOME>                      38122
+<EPS-PRIMARY>                     .02  
+<EPS-DILUTED>                     .02
+         
+
+</TABLE>
+</TEXT>        
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

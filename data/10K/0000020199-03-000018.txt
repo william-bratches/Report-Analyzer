@@ -1,0 +1,2885 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ AYfw5yDDcE8zQ6fq5ZaiD9506g6kjFX1w5bj/lxiC1KR5XMwwKJLkPMKAl0qEojx
+ 0o1RjLdmyKDoeyUwCxpa5A==
+
+<SEC-DOCUMENT>0000020199-03-000018.txt : 20030723
+<SEC-HEADER>0000020199-03-000018.hdr.sgml : 20030723
+<ACCEPTANCE-DATETIME>20030627122737
+ACCESSION NUMBER:		0000020199-03-000018
+CONFORMED SUBMISSION TYPE:	10KSB
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20030331
+FILED AS OF DATE:		20030627
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			CHURCH LOANS & INVESTMENTS TRUST
+		CENTRAL INDEX KEY:			0000020199
+		STANDARD INDUSTRIAL CLASSIFICATION:	REAL ESTATE INVESTMENT TRUSTS [6798]
+		IRS NUMBER:				756030254
+		STATE OF INCORPORATION:			TX
+		FISCAL YEAR END:			0331
+
+	FILING VALUES:
+		FORM TYPE:		10KSB
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-08117
+		FILM NUMBER:		03760225
+
+	BUSINESS ADDRESS:	
+		STREET 1:		5305 I-40 W
+		CITY:			AMARILLO
+		STATE:			TX
+		ZIP:			79106
+		BUSINESS PHONE:		8063583666
+
+	MAIL ADDRESS:	
+		STREET 1:		P O BOX 8203
+		CITY:			AMARILLO
+		STATE:			TX
+		ZIP:			79106
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>10KSB
+<SEQUENCE>1
+<FILENAME>a2003-10ksb.htm
+<TEXT>
+<HTML>
+<HEAD>
+<TITLE> Church Loans &amp; Investments Trust 10-KSB</TITLE>
+</HEAD>
+
+<BODY>
+
+<PAGE>
+
+<HR SIZE=3 NOSHADE>
+<H1 ALIGN=CENTER><FONT SIZE=3>FORM 10-KSB</FONT></H1>
+<H1 ALIGN=CENTER><FONT SIZE=3>SECURITIES AND EXCHANGE COMMISSION<br>
+Washington, D.C. 20549<br>
+<br></FONT></H1>
+
+<HR SIZE=1 WIDTH=15% ALIGN=CENTER NOSHADE>
+
+<TABLE WIDTH=100% CELLPADDING=0 CELLSPACING=0>
+<TR VALIGN=TOP>
+     <TD WIDTH=20%><FONT SIZE=3>&nbsp;</FONT></TD>
+     <TD WIDTH=10%><FONT SIZE=3><B>[&nbsp;X&nbsp;]</B></FONT></TD>
+     <TD WIDTH=70%><b><FONT  SIZE=3>ANNUAL REPORT UNDER SECTION 13 OR 15(d)<br>
+     OF THE
+SECURITIES EXCHANGE ACT OF 1934</FONT></b></TD>
+</TR>
+<TR>
+     <TD><FONT SIZE=3>&nbsp;</FONT></TD>
+</TR>
+<TR>
+     <TD><FONT SIZE=3>&nbsp;</FONT></TD>
+     <TD><FONT SIZE=3>&nbsp;</FONT></TD>
+     <TD><FONT SIZE=3>For the Fiscal Year Ended <U>March 31, 2003</U></FONT></TD>
+</TR>
+<TR>
+     <TD><FONT SIZE=3>&nbsp;</FONT></TD>
+</TR>
+<TR>
+     <TD WIDTH=20%><FONT SIZE=3>&nbsp;</FONT></TD>
+     <TD WIDTH=10%><FONT SIZE=3><B>[&nbsp;&nbsp;&nbsp;]</B></FONT></TD>
+     <TD  WIDTH=70%><b><FONT  SIZE=3>TRANSITION  REPORT UNDER SECTION 13 OR 15(d)<br>
+     OF THE
+SECURITIES EXCHANGE ACT OF 1934</FONT></b></TD>
+</TR>
+<TR>
+     <TD><FONT SIZE=3>&nbsp;</FONT></TD>
+</TR>
+<TR>
+     <TD><FONT SIZE=3>&nbsp;</FONT></TD>
+     <TD><FONT SIZE=3>&nbsp;</FONT></TD>
+     <TD><FONT SIZE=3>For the transition period from <u>&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u> to <u>&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</U> .</FONT></TD>
+</TR>
+<TR>
+     <TD><FONT SIZE=3>&nbsp;</FONT></TD>
+</TR>
+</table>
+
+<p ALIGN=CENTER><FONT SIZE=3>Commission File <U>No. 08117</U><br>
+<u>&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</U></FONT></P>
+
+<p ALIGN=CENTER><FONT SIZE=3><B><U>CHURCH LOANS &amp; INVESTMENTS TRUST</U></B><BR>
+(Name of small business issuer in its charter)</FONT></p>
+
+<TABLE WIDTH=100% CELLPADDING=0 CELLSPACING=0>
+<TR VALIGN=TOP>
+     <TD WIDTH=10%><FONT SIZE=3>&nbsp;</FONT></TD>
+     <TD WIDTH=40% align=center><FONT SIZE=3><u>Texas</u></FONT></TD>
+     <TD WIDTH=10%><FONT SIZE=3>&nbsp;</FONT></TD>
+     <TD WIDTH=40% align=center><FONT SIZE=3><u>75-6030254</u></FONT></TD>
+</TR>
+ <TR VALIGN=TOP>
+     <TD><FONT SIZE=3>&nbsp;</FONT></TD>
+     <TD align=center><FONT SIZE=3>(State or other jurisdiction of<br>
+incorporation or organization)</FONT></TD>
+     <TD><FONT SIZE=3>&nbsp;</FONT></TD>
+     <TD align=center><FONT SIZE=3>(IRS Employer<br>
+Identification No.)</FONT></TD>
+</TR>
+
+ <TR VALIGN=TOP>
+     <TD><FONT SIZE=3>&nbsp;</FONT></TD>
+     <TD><FONT SIZE=3>&nbsp;</FONT></TD>
+     <TD><FONT SIZE=3>&nbsp;</FONT></TD>
+</TR>
+
+ <TR VALIGN=TOP>
+     <TD><FONT SIZE=3>&nbsp;</FONT></TD>
+     <TD align=center><FONT SIZE=3><u>5305 I-40 West, Amarillo, Texas</u><br>
+(Address of principal executive offices)</FONT></TD>
+     <TD><FONT SIZE=3>&nbsp;</FONT></TD>
+     <TD align=center><FONT SIZE=3><u>79106</u><br>
+(Zip Code)</FONT></TD>
+</TR>
+
+</TABLE>
+
+<p ALIGN=CENTER><FONT SIZE=3><u>(806) 358-3666</u><br>
+(Issuer's telephone number)</FONT>
+
+<p ALIGN=CENTER><FONT SIZE=3><u>&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</U></FONT>
+
+
+<P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Securities
+registered pursuant to Section 12(b) of the Exchange Act: <u>None</U></p>
+
+<P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Securities  registered pursuant to Section 12(g) of the Exchange
+Act: <u>Shares of Beneficial Interest</U></p>
+
+<p ALIGN=CENTER><u>&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</U>
+
+<blockquote>
+
+<P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Check
+whether the issuer (1) has filed all reports required to be filed by Section 13
+or 15(d) of the Exchange Act during the past 12 months (or for such shorter
+period that the registrant was required  to file  such  reports),  and  (2) has  been  subject  to such  filing
+requirements for the past 90 days.</p>
+
+</blockquote>
+
+<p align=center><B>Yes&nbsp;&nbsp;<u>&nbsp;&nbsp;X&nbsp;&nbsp;</u>&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;No&nbsp;&nbsp;<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u></B></p>
+
+<h1 ALIGN=CENTER><FONT SIZE=3> </FONT></H1>
+<HR SIZE=3 NOSHADE>
+<PAGE>
+
+     <blockquote>
+
+     <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Check if there is no disclosure of delinquent  filers in response to Item 405 of
+Regulation S-B contained in this form, and no disclosure  will be contained,  to
+the  best  of  registrant's   knowledge,  in  definitive  proxy  or  information
+statements  incorporated  by  reference  of Part III of this Form  10-KSB or any
+amendment to this Form 10-KSB.&nbsp;&nbsp;<B>[&nbsp;X&nbsp;]</B></p>
+
+</blockquote>
+
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Issuer's revenues for its most recent fiscal year: $4,902,182.</p>
+
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+The  aggregate  market value of the voting stock held by  non-affiliates  of the
+registrant is $22,492,596 as of May 28, 2003.</p>
+
+<blockquote>
+
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The  number of shares  outstanding  of each of the  issuer's  classes  of common
+stock,   as  of   March   31,   2003   is   7,000,806   shares   of   beneficial
+interest.</p>
+
+</blockquote>
+
+<p align=center>Documents Incorporated by Reference:</p>
+
+<blockquote>
+
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Portions of the Annual Report to Shareholders for the year ended March 31, 2003,
+are incorporated by reference into Parts II and III.</p>
+
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Exhibits  3(a) and 3(b)  included  in Form  S-11  under  File  No.  2-51235  are
+incorporated by reference into the List of Exhibits, Item 13(a) of Part III.</p>
+
+
+</blockquote>
+
+
+<H1 ALIGN=CENTER><FONT SIZE=3>-2-</FONT></H1>
+<HR SIZE=3 NOSHADE>
+<PAGE>
+
+<H1 ALIGN=CENTER><FONT SIZE=3>TABLE OF CONTENTS
+<BR><BR>INDEX
+<BR><BR>FORM 10-KSB ANNUAL REPORT - 2003
+<BR><BR>CHURCH LOANS &amp; INVESTMENTS TRUST</FONT></H1>
+
+<TABLE CELLPADDING=10>
+     <TR VALIGN=TOP>
+          <TD WIDTH=10%>Part I.</TD>
+          <TD WIDTH=60%></TD>
+          <TD WIDTH=30% ALIGN=CENTER><U>Page</U></TD>
+     </TR>
+     <TR VALIGN=TOP>
+          <TD align="right">Item 1:</TD>
+          <TD><A HREF="#DESCRIPTION_OF_BUSINESS">Description of Business</A></TD>
+          <TD ALIGN=CENTER>4</TD>
+     </TR>
+     <TR VALIGN=TOP>
+          <TD align="right">Item 2:</TD>
+          <TD><A HREF="#DESCRIPTION_OF_PROPERTY">Description of Property</A></TD>
+          <TD ALIGN=CENTER>6</TD>
+     </TR>
+
+     <TR VALIGN=TOP>
+          <TD align="right">Item 3:</TD>
+          <TD><A HREF="#LEGAL_PROCEEDINGS">Legal Proceedings</A></TD>
+          <TD ALIGN=CENTER>6</TD>
+     </TR>
+
+     <TR VALIGN=TOP>
+          <TD align="right">Item 4:</TD>
+          <TD><A HREF="#SUBMISSION_OF_MATTERS">Submission of Matters to a Vote of Security Holders</A></TD>
+          <TD ALIGN=CENTER>6</TD>
+     </TR>
+
+     <TR VALIGN=TOP>
+          <TD>Part II.</TD>
+          <TD></TD>
+          <TD></TD>
+     </TR>
+
+     <TR VALIGN=TOP>
+          <TD align="right">Item 5:</TD>
+          <TD><A HREF="#MARKET_FOR_COMMON_EQUITY">Market for Common Equity and Related Stockholder Matters</A></TD>
+          <TD ALIGN=CENTER>7</TD>
+     </TR>
+
+     <TR VALIGN=TOP>
+          <TD align="right">Item 6:</TD>
+          <TD><A HREF="#MANAGEMENT_DISCUSSION">Management's Discussion and Analysis or Plan of Operation</A></TD>
+          <TD ALIGN=CENTER>8</TD>
+     </TR>
+
+     <TR VALIGN=TOP>
+          <TD align="right">Item 7:</TD>
+          <TD><A HREF="#FINANCIAL_STATEMENTS">Financial Statements</A></TD>
+          <TD ALIGN=CENTER>13</TD>
+     </TR>
+
+     <TR VALIGN=TOP>
+          <TD align="right">Item 8:</TD>
+          <TD><A HREF="#CHANGES_IN_DISAGREEMENTS">Changes in and Disagreements with Accountants on Accounting and
+Financial Disclosure</A></TD>
+          <TD ALIGN=CENTER>13</TD>
+     </TR>
+
+     <TR VALIGN=TOP>
+          <TD>Part III.</TD>
+          <TD></TD>
+          <TD></TD>
+     </TR>
+
+     <TR VALIGN=TOP>
+          <TD align="right">Item 9:</TD>
+          <TD><A HREF="#DIRECTORS_EXECUTIVES">Directors, Executive Officers, Promoters and Control Persons; Compliance
+with Section 16(a) of the Exchange Act</A></TD>
+          <TD ALIGN=CENTER>14</TD>
+     </TR>
+
+     <TR VALIGN=TOP>
+          <TD align="right">Item 10:</TD>
+          <TD><A HREF="#EXECUTIVE_COMPENSATION">Executive Compensation</A></TD>
+          <TD ALIGN=CENTER>15</TD>
+     </TR>
+
+     <TR VALIGN=TOP>
+          <TD align="right">Item 11:</TD>
+          <TD><A HREF="#SECURITY_OWNERSHIP">Security Ownership of Certain Beneficial Owners and Management
+          and Related Stockholder Matters</A></TD>
+          <TD ALIGN=CENTER>16</TD>
+     </TR>
+
+     <TR VALIGN=TOP>
+          <TD align="right">Item 12:</TD>
+          <TD><A HREF="#CERTAIN_RELATIONSHIPS">Certain Relationships and Related Transactions</A></TD>
+          <TD ALIGN=CENTER>17</TD>
+     </TR>
+
+     <tr>
+          <TD align="right">Item 13:</TD>
+          <TD><a href="#EXHIBITS_AND_REPORTS">Exhibits and Reports on Form 8-K</a></TD>
+          <TD ALIGN=CENTER>17</TD>
+     </tr>
+     <tr>
+          <TD align="right">Item 14:</TD>
+          <TD><a href="#CONTROLS_AND_PROCEDURES">Controls and Procedures</a></TD>
+          <TD ALIGN=CENTER>17</TD>
+     </tr>
+
+     <TR VALIGN=TOP>
+          <TD align="right">Item 15:</TD>
+          <TD><a href="#PRINCIPAL_AND_SERVICES">Principal Accountant's Fees and
+          Services</a></TD>
+          <TD ALIGN=CENTER>18</TD>
+     </TR>
+
+</TABLE><BR>
+
+<H1 ALIGN=CENTER><FONT SIZE=3>-3-</FONT></H1>
+<HR SIZE=3 NOSHADE>
+<A NAME="DESCRIPTION_OF_BUSINESS"></A>
+<H1 ALIGN=CENTER><FONT SIZE=3>PART I</FONT></H1>
+<H2 ALIGN=LEFT><FONT SIZE=3>Item 1 - DESCRIPTION OF BUSINESS</FONT> </H2>
+
+<P>Church Loans &amp;  Investments  Trust ("the Trust") is a real estate investment
+trust organized under the laws of the State of Texas in March 1963. Although the
+Trust has the authority to engage in the business of buying, selling and leasing
+of real estate,  the Trust has  heretofore  restricted  its business  activities
+primarily  to making  loans to churches and other  nonprofit  organizations  and
+assisted  living  centers  which are secured by a first  mortgage on real estate
+owned by such borrowers.</P>
+
+<P>The period of duration of the Trust, unless dissolved in accordance with law, or
+by the consent of the owners of shares of beneficial  interest in the Trust,  is
+perpetual.  The Trust may be dissolved by the affirmative  vote of not less than
+two-thirds of the owners of outstanding shares of the Trust.</P>
+
+<P>The control and management of the Trust properties,  and all powers necessary or
+appropriate  to  effect  any and all of the  purposes  for  which  the  Trust is
+organized, is vested in the Board of Trust Managers.</P>
+
+
+<P>The  number of shares of  beneficial  interest  in the Trust  which the Trust is
+authorized to issue is unlimited.</P>
+
+<P>The Trust is  qualified  as a "real  estate  investment  trust"  under  Sections
+856-858 of the Internal  Revenue Code of 1986 as amended (the "Internal  Revenue
+Code" or "Code").  It is the  intention of the Trust to continue to qualify as a
+real estate investment trust under the Code.</P>
+
+<P>The Trust  maintains  an office  located at 5305 I-40 West,  Amarillo,  TX 79106
+(telephone 806/358-3666).</P>
+
+<P>As mentioned  above,  the Trust is  primarily  engaged in the business of making
+mortgage loans to churches and other nonprofit organizations and assisted living
+centers.  The  Declaration  of Trust  restricts the  investments of the Trust to
+loans  secured by a first  mortgage,  deed of trust or other lien  covering real
+property with the amount of such loans not to exceed 66 2/3% of the value of the
+real  property  securing  such loan as  determined  by a  competent  independent
+appraiser.  Although  the Trust has been  primarily  in the  business  of making
+long-term  mortgage  loans,  during  the past  several  years  it has also  been
+actively involved in making short-term  interim or construction loans to finance
+the  construction  of church  buildings,  the  construction  of assisted  living
+centers,   the  purchase  of  real  estate,   or  the  refinancing  of  existing
+indebtedness.  Most of the interim loans  presently  being made by the Trust are
+associated with bond offerings of churches and other nonprofit organizations and
+assisted living centers. These interim loans are scheduled to be repaid from the
+proceeds of the bond offerings.</P>
+
+<P>The Trust is not limited to the location of the  property  securing any loans in
+which it may invest and seeks to spread its  investments  in areas of the United
+States where favorable yields prevail.</P>
+
+<P>As of March 31, 2003, the Trust has 87 permanent and interim  mortgage loans and
+investments in church bonds having a principal balance of $54,772,437,  with the
+average  principal  amount thereof</P>
+
+<H1 ALIGN=CENTER><FONT SIZE=3>-4-</FONT></H1>
+<HR SIZE=3 NOSHADE>
+<PAGE>
+
+<P>being  $629,568.  The  interest  rates on these loans vary from 4.75% to 12% per
+annum with the weighted average interest rate of mortgage loans and church bonds
+being 7.80% per annum at March 31,  2003.The  original terms of these loans vary
+from one year to  thirty  years,  with the  majority  being for a term of twenty
+years.</P>
+
+<P>During the fiscal year of the Trust ending March 31, 2003, the net income of the
+Trust was  $3,113,639,  as compared to  $3,281,795 in fiscal 2002, a decrease of
+5.12%.  Such  decrease  in net income of the Trust was due to a decrease  in the
+Trust's  net  interest  income.  Net  interest  income of the Trust was lower in
+fiscal 2003 as compared to fiscal 2002 due to several  reasons,  including:  (a)
+the  payment in 2002 of several  loans  owing to the Trust that were  previously
+characterized  as  non-performing,  and (b) a decrease in the net interest  rate
+margin of the Trust.</P>
+
+<P>The net income of the Trust for each of the quarters  during  fiscal 2003 was as
+follows:    first   quarter-   $767,801;    second    quarter-$646,919;    third
+quarter-$747,012; and fourth quarter-$951,907.</P>
+
+<P>The operational  expense of the Trust increased from $785,512 during fiscal 2002
+to  $830,160  in fiscal  2003.  The  operational  expense of the Trust  included
+general and administrative  expenses and compensation to members of the Board of
+Trust Managers.</P>
+
+<P>During fiscal 2003, the Trust advanced loan proceeds of $25,465,901 on 13
+interim loans and 15  permanent  loans.  Most,  if not all,  of such loans bear
+interest at a variable  rate  varying from 1.5% to 2% per annum in excess of the
+prime rate of interest  published  by the Wall  Street  Journal and known as the
+"Wall Street Journal Prime."</P>
+
+<P>During  fiscal 2003,  the Trust  employed a total of 5 full time  employees  and
+employed,  as needed,  two additional  part-time  persons who work on a contract
+basis</P>
+
+<P>The business  conditions in which the Trust operates has become more competitive
+in the past several years as more and more banks are re-entering the business of
+making loans to churches,  especially  the more  desirable,  less risky,  church
+loans.  If this trend  continues,  the rates and fees which the trust can charge
+may decrease.  However,  loan demand  remains good as evidenced by the number of
+loan  requests  received  by the  Trust  and  the  number  of  loan  commitments
+outstanding as of March 31, 2003.</P>
+
+<P>At your request,  we will provide you, without charge, a copy of any exhibits to
+this Annual Report on Form 10-KSB.  If more information is needed,  please call,
+write or e-mail us at:</P>
+
+<blockquote>
+  <blockquote>
+
+<font face="Times New Roman" size="3">                  Church Loans &amp; Investments Trust<br>
+Attn: Mr. Kelly Archer<br>
+5305 I-40 West<br>
+Amarillo, Texas 79106<br>
+Telephone: (806) 358-3666<br>
+E-mail: karcher@churchloans.com</font>
+
+  </blockquote>
+</blockquote>
+
+<P>The Trust's fiscal year ends on March 31. The Trust files annual,  quarterly and
+other information with the Securities and Exchange  Commission (the "SEC").  You
+may read and copy any materials the Trust files with the SEC at the SEC's Public
+Reference Room at 450 Fifth Street, N.W., Washington, D.C.</P>
+
+<H1 ALIGN=CENTER><FONT SIZE=3>-5-</FONT></H1>
+<HR SIZE=3 NOSHADE>
+<PAGE>
+
+<P>20549. You may obtain  information on the operation of the Public Reference Room
+by calling the SEC at 1-800-SEC-0330.  Furthermore,  the Trust's SEC filings are
+also  available  to  the  public  at  the  SEC   maintained   internet  site  at
+http://www.sec.gov.     The     internet     address    of    the    Trust    is
+http://www.churchloans.com. The Trust website includes a link to the SEC website
+referred to above at which the Trust's SEC filings are available.</P>
+
+<A NAME="DESCRIPTION_OF_PROPERTY"></A>
+
+<H2 ALIGN=LEFT><FONT SIZE=3>Item 2 - DESCRIPTION OF PROPERTY</FONT></H2>
+
+<P>The Trust  maintains as its only place of business  its offices  located at 5305
+I-40  West,  in  Amarillo,  Texas.  Such  building  is owned by the Trust and is
+occupied  solely by the  Trust.  There is no debt owed by Trust in regard to its
+real property.</P>
+
+<P>The real properties of the Trust,  net of depreciation and excluding real estate
+acquired  through  foreclosure,  are not a  significant  portion of the  Trust's
+assets, representing less than 1% of the Trust's total assets.</P>
+
+<P>As previously mentioned, the Trust's primary business is the making of
+mortgage loans to churches and other nonprofit organizations and assisted living
+centers. The Declaration of Trust restricts the investments of the Trust to
+loans secured by a first mortgage, deed of trust, or other lien covering real
+property with the amount of such loans not to exceed 66 2/3% of the value of the
+real property securing such loan. However, the Trust has made one loan in May of
+2003 for $150,000 that is secured by a second mortgage lien against real estate having
+a total  estimated  value of  $7,312,100.  Such loan is second and inferior to a
+loan secured by a first mortgage in the approximate amount of $2,500,000. The
+Declaration  of Trust may not be amended  without the  affirmative  vote of two-thirds (2/3rds) of the Certificates of Beneficial Interest entitled to vote. The
+Board of Trust Managers'  general policy is to limit  investment of Trust assets
+in any one mortgage loan to not more than $3,000,000. However, at the discretion
+of the Board of Trust Managers,  the Trust may make and has made loans in excess
+of such  limit.  All such  investment  in  mortgage  loans is for the purpose of
+earning income for the Trust.</P>
+
+<A NAME="LEGAL_PROCEEDINGS"></A>
+
+<H2 ALIGN=LEFT><FONT SIZE=3>Item 3 - LEGAL PROCEEDINGS</FONT></H2>
+
+<P><FONT  SIZE=3>None</FONT></P>
+
+<A NAME="SUBMISSION_OF_MATTERS"></A>
+<H2 ALIGN=LEFT><FONT SIZE=3>Item 4 - SUBMISSION OF MATTERS TO A VOTE OF SECURITY
+HOLDERS</FONT></H2>
+
+<P><FONT  SIZE=3>None</FONT></P>
+
+<H1 ALIGN=CENTER><FONT SIZE=3>-6-</FONT></H1>
+<HR SIZE=3 NOSHADE>
+<PAGE>
+
+<A NAME="MARKET_FOR_COMMON_EQUITY"></A>
+
+<H1 ALIGN=CENTER><FONT SIZE=3>PART II</FONT></H1>
+
+<H2  ALIGN=LEFT><FONT  SIZE=3>Item 5 - MARKET FOR REGISTRANT'S COMMON EQUITY AND
+RELATED STOCKHOLDER MATTERS</FONT></H2>
+
+<H1 ALIGN=LEFT><FONT SIZE=3>(a) Market Information</FONT></H1>
+
+<P>There is no  established  public  trading  market for the  shares of  beneficial
+interest of the Trust.  During  fiscal year 2003 a total of 104,742  shares were
+sold in the  secondary  market at prices  ranging from $2.90 to $4.00 per share.
+The last sale during the fiscal year was at $3.10 per share.  During fiscal year
+2002 a total of  210,422  shares  were  sold in the  secondary  market at prices
+ranging from $2.90 to $3.06 per share.</P>
+
+<P>The range of high and low bid information  for shares of beneficial  interest of
+the Trust for each quarter within the last two fiscal years is as follows:</P>
+
+<pre>                                       Fiscal 2003     Fiscal 2002
+                  Quarter              High   Low      High   Low
+                  ---------------      ----   ----     ----   ----
+                  April-June           3.10   2.90     2.90   2.90
+
+                  July-September       3.10   3.00     3.00   2.90
+
+                  October-December     3.50   2.00     3.06   2.90
+
+                  January-March        4.00   3.00     3.00   2.90
+</pre>
+
+<P>The source of the above information is the Trust's own records. The Trust serves
+as the Transfer Agent for its own shares.</P>
+
+<P>(b) Holders</P>
+
+<P>At March 31, 2003 there were 2,358 shareholders of the Trust.</P>
+
+<P>(c) Dividends</P>
+
+<P>Cash dividends on all outstanding shares of beneficial interest in the Trust
+are declared twice annually, for the 3 month period ending March 31, and the 9
+month period ending December 31. In fiscal year 2002, the Trust paid a cash
+dividend of $.46 per share. In fiscal year 2003 the Trust paid a total cash
+dividend of $.40 per share.</P>
+
+<P>(d) Securities authorized for issuance under equity compensation plans.</P>
+
+<P>None.</P>
+
+<H1 ALIGN=CENTER><FONT SIZE=3>-7-</FONT></H1>
+<HR SIZE=3 NOSHADE>
+<PAGE>
+
+
+<P>(e) Sales of Unregistered Securities.</P>
+
+None.
+
+<A NAME="MANAGEMENT_DISCUSSION"></A>
+
+<H2 ALIGN=LEFT><FONT SIZE=3>Item 6: MANAGEMENT'S DISCUSSION AND ANALYSIS OR PLAN
+OF OPERATION</FONT></H2>
+
+<P><B>Forward-looking Statement Disclaimer</B></P>
+
+<blockquote>
+
+<P>The following  Management's  Discussion  and Analysis  includes  forward-looking
+statements  within the meaning of the Section 27A of the Securities Act of 1933,
+as amended,  and Section 21E of the Securities Exchange Act of 1934, as amended.
+All  statements  other  than  statements  of  historical  fact made  herein  are
+forward-looking,   which  can  be  identified  by  the  use  of  forward-looking
+terminology  such  as  "may,"  "will,"   "expect,"   "anticipate,"   "estimate,"
+"believe,"  "continue" or other similar words. Such forward-looking  statements
+are based upon  management's  current plans and  expectations and are subject to
+risks and  uncertainties  that could cause actual  results to differ  materially
+from  those  described  in  the  forward-looking  statements,   including  the
+following:</P>
+
+<ul>
+  <li>
+
+<font face="Times New Roman" size="3">         Competition in the business of making loans to churches;</font></li>
+  <li>
+
+<font face="Times New Roman" size="3">         A decline in the general economic conditions;
+         </font>
+
+  </li>
+  <li>
+
+<font face="Times New Roman" size="3">         A decline in real estate values thereby affecting the value of the collateral securing the loans
+                  made by the Trust;</font></li>
+  <li>
+
+<font face="Times New Roman" size="3">         A rise in interest rates resulting in higher cost of funds to the Trust prior to the re-pricing of the
+                  loans owing to the Trust;</font></li>
+  <li>
+
+<font face="Times New Roman" size="3">         Inability of the Trust to borrow funds and at reasonable rates of interest;</font></li>
+  <li>
+
+<font face="Times New Roman" size="3">         General risks of lending;</font></li>
+  <li>
+
+<font face="Times New Roman" size="3">         Change in federal or state laws affecting the Trust's operations;</font></li>
+  <li>
+
+<font face="Times New Roman" size="3">         Loss of critical management; and</font></li>
+  <li>
+
+<font face="Times New Roman" size="3">         Other risks.
+</font>
+
+  </li>
+</ul>
+
+<P>These risks and  uncertainties  are not intended to be exhaustive  and should be
+read in conjunction with other cautionary statements made herein.</P>
+
+</blockquote>
+
+<P><B>Results of Operations 2003 compared to 2002</B></P>
+
+<blockquote>
+
+<P>During the fiscal year ended  March 31,  2003,  interest  income and fees of the
+Trust decreased by $389,632 (7.36%) over the previous fiscal year. However,  the
+interest  income of the Trust  for the  fiscal  year  ended  March 31,  2002 was
+significantly influenced by the payment of several loans owing to the Trust that
+were  previously  characterized  as  non-performing.  The pay-off of these loans
+resulted  in an  additional  recognition  of  interest  income of  approximately
+$586,000 in fiscal 2002 as compared  with interest  income  recognized in fiscal
+2003 on the pay-off of loans  previously  characterized  as non-  performing  of
+approximately  $164,000,  a difference of $422,000.  Interest income and fees of
+the Trust after  deducting the interest  income received on the payment of loans
+which were previously  characterized as  nonperforming  was $4,738,182 in fiscal
+2003 as compared to $4,705,814 in fiscal 2002, an increase of $32,368 or 0.69%.</P>
+
+</blockquote>
+
+<H1 ALIGN=CENTER><FONT SIZE=3>-8-</FONT></H1>
+<HR SIZE=3 NOSHADE>
+<PAGE>
+
+<blockquote>
+
+<P>The  decrease in  interest  income and fees of the Trust in fiscal 2003 was also
+attributable  to a decrease in the interest rates on the Trust's loan portfolio.
+The average  interest rate on loans and church bonds held by the Trust decreased
+from 9.14% as of March 31, 2002, to 7.80% as of March 31, 2003.</P>
+
+<P>There was a slight  increase in the amount of  performing  interim loans held by
+the Trust from  $15,317,011 as of March 31, 2002, to $15,672,768 as of March 31,
+2003,  and there was an increase in performing  mortgage  loans and church bonds
+during  the  recent  fiscal  year  from  $30,507,636  as of March 31,  2002,  to
+$35,689,239 as of March 31, 2003. In addition,  non-performing  loans  increased
+from  $1,151,907  as of March 31,  2002,  to  $2,834,574  as of March 31,  2003.
+Therefore,  the total performing and non-performing mortgage loans, church bonds
+and interim loans held by the Trust  increased from  $46,976,554 as of March 31,
+2002, to $54,196,581 as of March 31, 2003. This increase is partially the result
+of a decrease in the  payments  received on mortgage  and interim  loans  during
+fiscal 2003 of $17,755,086 as compared to $27,454,632  during fiscal 2002.  This
+represents a decrease of $9,699,546 or 35.33%.  The increase in mortgage  loans,
+church bonds and interim loans held by the Trust was offset by a decrease in the
+investment by the Trust in mortgage and interim loans from  $32,691,886  for the
+fiscal year ended March 31, 2002,  to  $25,465,901  during the fiscal year ended
+March 31, 2003.  The decrease in the  investment by the Trust in mortgage  loans
+also contributed to a decrease of $19,145 in commitment fees earned by the Trust
+in fiscal 2003 as compared to fiscal 2002.</P>
+
+<P>The net income of the Trust for fiscal 2003 was $3,113,639  ($.44 per share),  a
+decrease of $168,156  (5.12%) from the previous  fiscal year.  Such decrease was
+primarily  attributable  to a decrease in the Trust's net interest  income.  Net
+interest income decreased from $4,302,595 in fiscal 2002 to $3,927,582 in fiscal
+2003, a decrease of $375,013 (8.72%) from fiscal 2002.</P>
+
+<P>The  decrease  in the net  income of the Trust for  fiscal  2003 was offset by a
+slight  decrease  in the  interest  expense of the Trust.  In fiscal  2003,  the
+average  aggregate  amount of total debt outstanding was $7,945,467 more than in
+fiscal 2002.  However,  the weighted  average interest rate decreased from 5.12%
+for the year ended March 31,  2002,  to 3.58% for the year ended March 31, 2003.
+The interest  expense of the Trust  decreased  from $989,219 for the fiscal year
+ended March 31,  2002,  to $974,600  for the fiscal year ended March 31, 2003, a
+decrease of $14,619 or 1.48%. The average  month-end balance of the indebtedness
+owing by the Trust  increased from  $19,125,126  for the fiscal year ended March
+31, 2002, to $27,070,593 for the fiscal year ended March 31, 2003. Such increase
+was due to an increase in the debt of the Trust  resulting  from the decrease in
+the payments  received by the Trust on mortgage and interim loans. The effect on
+interest  expense of  increased  debt was offset by the  decrease in the Trust's
+cost of funds as previously mentioned.</P>
+
+<P>Income from the realization of loan discounts from loan purchases decreased from
+$264,694 for the year ended March 31, 2002,  to $40,528 for the year ended March
+31, 2003, a decrease of $224,166.</P>
+
+<P>General and administrative expenses of the Trust increased from $733,957 for the
+fiscal year ended March 31,  2002,  to $771,378  for the fiscal year ended March
+31, 2003, an increase of $37,421 or 5.10%.</P>
+
+Dividends  related to fiscal 2003,  without  regard to dates they were declared,
+were  $2,730,315  or $.39 per share as compared to  $3,360,387 or $.48 per share
+for fiscal 2002. The decrease in dividends paid was primarily  attributable to a
+decrease in the net income of the Trust. As a real estate  investment trust,
+
+</blockquote>
+
+<H1 ALIGN=CENTER><FONT SIZE=3>-9-</FONT></H1>
+<HR SIZE=3 NOSHADE>
+<PAGE>
+
+<blockquote>
+
+<P>the Trust was required by Section 857 of the Internal Revenue Code to distribute
+not less  than 95% of its  taxable  net  income  to its  shareholders.  In 1999,
+Section 857 of the Code was amended to reduce this  requirement to not less than
+90%. In fiscal 2002 and 2003,  the Trust elected to reduce its  dividends  based
+upon this lower requirement.  Dividends are based on taxable income which varies
+from net income  reported  in the  financial  statements  because  of  temporary
+differences  (differences between the tax basis of an asset or liability and its
+reported  amount in the  financial  statements  that will  result in  taxable or
+deductible  amounts in future  years).  In fiscal  2002,  the Trust  distributed
+dividends  equal to 92.7% of its net  taxable  income  as  compared  to 92.5% in
+fiscal 2003.  Future  dividends may be more or less than the net income reported
+in the financial statements because of variances in these temporary differences.</P>
+
+<P>During  fiscal  2003,  the  prime  interest  rate  decreased  from  4.75% at the
+beginning  of the fiscal year to 4.25% at the close of the fiscal  year.  Should
+the prime interest rate decrease during fiscal 2004, the interest expense of the
+Trust will  generally  decrease  and the net income of the Trust will,  in turn,
+generally increase.  Should the prime interest rate increase during fiscal 2004,
+the interest expense of the Trust will generally  increase and the net income of
+the Trust will, in turn, generally decrease.</P>
+
+<P>Other income of the Trust  increased from $32,203 for fiscal 2002 to $86,145 for
+fiscal  2003.  Included in fiscal 2003 income is a gain of $9,320 on the sale of
+properties which the Trust had obtained through foreclosure.</P>
+
+</blockquote>
+
+<P><B>Liquidity and Capital Resources</B></P>
+
+<blockquote>
+
+<P>The Trust is engaged  primarily in the business of making  permanent and interim
+loans to churches and other  non-profit  organizations,  and to other borrowers,
+including  businesses  engaged in the building and operation of assisted  living
+centers.  At March 31, 2003, the Trust had five loans to two different borrowers
+which are  secured  by  assisted  living  centers  which  totaled  approximately
+$7,961,000.   Three  of  these  loans  were  to  affiliated  borrowers  totaling
+approximately  $1,660,000  and with the remaining two loans to another  borrower
+totaling approximately $6,301,000.</P>
+
+<P>The assets of the Trust  primarily  consist of its loan  portfolio,  real estate
+acquired  through  foreclosure  and its  office  building  and  facilities.  The
+operational  expense of the Trust is comprised of the  maintenance of its office
+building,  the payment of the  salaries  of its  management  and support  staff,
+office expenses,  fees paid to the Board of Trust Managers,  and the payment for
+legal  and  accounting  services.  Substantially  all of the  Trust  assets  are
+invested  in the  permanent  and  interim  loans  made by the  Trust.  The  only
+potential  liquidity  problems of the Trust are related to the timely and proper
+repayment by the Trust of the  leveraged  funds it has borrowed to make loans in
+excess of its  capital and the ability to fund loan  commitments  which  totaled
+approximately $8,300,000 at March 31, 2003. All of the indebtedness of the Trust
+is generally classified as short term having maturities ranging from "on demand"
+to maturities repayable over various periods extending through fiscal 2004.</P>
+
+<P>All of the debt  obligations  of the Trust  outstanding as of March 31, 2003, in
+the amount of  $32,370,714  will mature in fiscal 2004.  These debt  obligations
+primarily consist of the Trust's bank line of credit and Master Note Agreements.
+As of April 14, 2003,  the Trust  modified its loan  agreement with the Amarillo
+National  Bank  thereby  increasing  the  line of  credit  from  $24,000,000  to
+$35,000,000. Although the Trust's bank line of credit matures in fiscal 2004, it
+is anticipated  that the line of credit will</P>
+
+</blockquote>
+
+<H1 ALIGN=CENTER><FONT SIZE=3>-10-</FONT></H1>
+<HR SIZE=3 NOSHADE>
+<PAGE>
+
+<blockquote>
+
+<P>be renewed annually.  In the event that the bank elects not to renew the line of
+credit,  the Trust may under the terms of the loan agreement  retire the line of
+credit over a period of time,  not to exceed five years,  equal to the  weighted
+average  remaining  term of all real  estate  lien notes of the Trust  which are
+pledged to secure the bank line of credit.</P>
+
+<P>At March 31, 2003, loans to the Trust under Master Note Agreements, which are in
+effect demand notes, total $13,448,714.  In the past, the Trust has utilized its
+bank line of credit and the  principal  paid to the Trust  upon its  outstanding
+loan portfolio in order to meet its maturing obligations.</P>
+
+<P>At March 31,  2003,  the  balance  which could be borrowed by the Trust upon its
+bank line of credit was  $5,078,000.  The  principal  payments  scheduled  to be
+received by the Trust upon its loan  portfolio  for the years  ending  March 31,
+2004 and 2005 are  $17,512,433  and  $2,140,143,  respectively.  Assuming all of
+these scheduled principal payments are received,  these payments,  together with
+the balance available to the Trust on its bank line of credit, would not provide
+the Trust with sufficient  funds to meet its maturing  obligations and fund loan
+commitments  without  the  necessity  of the Trust  borrowing  funds  from other
+sources.</P>
+
+<P>As mentioned  above,  the Trust  obtained an increase in its bank line of credit
+from $24,000,000 to $35,000,000 effective April 14, 2003. Based upon the success
+of the Trust to obtain  borrowings  in the past,  the Trust is  confident  that,
+should it be necessary,  it will be able to obtain  additional bank financing in
+the  future  in  sufficient  amounts  for the  Trust to  timely  meet all of its
+obligations.</P>
+
+<P>Should all the scheduled  principal payments upon loans made by the Trust not be
+received,  and should the Trust be unable to borrow  against its line of credit,
+and should borrowings from other sources not be available, it would be necessary
+for the Trust to sell a portion of its mortgage  loan  portfolio in order for it
+to meet all of its  financial  obligations.  At March 31,  2003,  the  principal
+balance of the loan and church bond portfolio of the Trust was $54,196,581,  net
+of unamortized  purchase discounts.  The weighted average interest rate on loans
+and church  bonds was 7.80% per annum.  In view of the normal  marketability  of
+conventional  loans, the Trust might be required to discount a majority of these
+loans in order for them to be attractive for purchase.  The principal  amount of
+these loans if discounted to yield a weighted  average interest rate of 12%, 14%
+and 16% would be $35,227,778, $30,195,236, and $26,420,831,  respectively. There
+is no  assurance  that the Trust would be able to sell all, or a portion of, its
+portfolio  of loans,  in which  event,  it would be  necessary  for the Trust to
+secure a loan,  or  loans,  from a lender  in  order  for the  Trust to meet its
+financial  obligations.  There is no  assurance  that the Trust would be able to
+secure a loan in such instance.  The Trust has sold only one of the loans in its
+mortgage loan portfolio and, therefore, has limited experience in this area.</P>
+
+<P>Principal payments scheduled to be received by the Trust upon its permanent loan
+portfolio  during the years ending March 31, 2004 and 2005,  if not used to fund
+new loan  commitments,  would be used to reduce the outstanding  indebtedness of
+the  Trust.  Should  the Trust use the  payments  of  principal  which  shall be
+received upon its loan  portfolio to reduce its  outstanding  indebtedness,  the
+interest  expense of the Trust will  decrease.  In such  instance,  whether  the
+decrease in the interest  income will exceed,  or be less than,  the decrease in
+the interest  expense will largely be dependent  upon the prime rate of interest
+prevailing  at such time due to the fact that the  interest  to be earned by the
+Trust upon its mortgage loan  portfolio is generally  based upon a fixed rate of
+interest or a variable rate of interest that</P>
+
+</blockquote>
+
+<H1 ALIGN=CENTER><FONT SIZE=3>-11-</FONT></H1>
+<HR SIZE=3 NOSHADE>
+<PAGE>
+
+<blockquote>
+
+<P>periodically  reprices,  while the  interest  to be paid by the  Trust  upon its
+outstanding debts is directly, or indirectly, tied to the prime rate of interest
+charged by major domestic banks.</P>
+
+<P>As of March 31, 2003, a substantial  portion of the promissory  notes evidencing
+the loans made by the Trust have been pledged to secure the Trust's bank line of
+credit. Promissory notes totaling $22,258,871 were pledged against the bank line
+of credit which had a total  outstanding  balance of  $18,922,000.  The required
+collateral for this bank loan was  $20,814,200,  leaving an excess of promissory
+notes  which have been  pledged to secure said bank notes of  $1,444,671.  These
+excess promissory notes may be reassigned by the bank to the Trust to be sold in
+order for the Trust to meet its financial  obligations.  Should it be necessary,
+in order for the Trust to meet its  financial  obligations,  these  excess notes
+amounting to $1,444,671 and other additional promissory notes in the approximate
+amount of $31,937,710 (for a total amount of $33,382,381)  would be available to
+be sold by the  Trust to meet  its  financial  obligations.  Should  the  excess
+promissory  notes be assigned by the bank to the Trust as heretofore  described,
+the bank line of credit would  continue to be secured by the  required  ratio of
+notes pledged to the principal  balance of the bank line of credit.  There is no
+assurance  that the Trust would be able to sell all,  or any  portion of,  these
+notes.</P>
+
+<P>Cash flows from  operating  activities  consists  primarily  of net income.  The
+primary  components  of net income are  interest  income and  expense.  Interest
+income  should  continue  to be the main source of cash  provided  by  operating
+activities;  however,  the  availability of this cash flow is dependent upon the
+ability of the borrowers to repay loans.  Although  there was an increase in the
+amount of non-performing loans as of March 31, 2003, compared to March 31, 2002,
+cash  provided  by  operating  activities  has  been  and  is  expected  to be a
+relatively stable source of cash flow.</P>
+
+<P>Cash flows from investing  activities  results  primarily from investment in and
+payments received on mortgage and interim construction loans and church bonds.</P>
+
+<P>Cash flows from  financing  activities  relate  primarily to the  borrowings and
+payments on notes payable and the line of credit.  Borrowings  are made as funds
+are needed to make loans or as current  obligations  become due.  Based upon the
+success of the Trust to obtain  borrowings  in the past,  the Trust is confident
+that it will be able to obtain  borrowings in the future in sufficient  amounts,
+along with payments to be received on loans, to timely meet its obligations.</P>
+
+</blockquote>
+
+<P><B>Inflation</B></P>
+
+<blockquote>
+
+<P>At March 31, 2003, the weighted  average  interest rate on the mortgage loan and
+church  bond  portfolio  of the Trust was  7.80%  per annum  while the  weighted
+average  interest  rate upon all  borrowings  of the Trust was 3.25% per  annum.
+Although a majority of the loans  constituting  the loan  portfolio of the Trust
+have been made at  variable  rates of interest  that  generally  reprice  either
+daily, annually, or otherwise periodically,  a portion of the loans constituting
+the  Trust's  loan  portfolio  have been  made at fixed  rates of  interest  and
+therefore are not subject to being increased or decreased during the term of the
+loan. All of the indebtedness of the Trust is either directly or indirectly tied
+to the  prime  rate of  interest  charged  by major  banking  institutions  and,
+therefore,  is subject to  fluctuation.  During periods of inflation,  the prime
+rate of interest charged by major banking institutions,  as well as the interest
+rate  or  cost  of  borrowing  money  from  any  lender,   generally  increases.
+Consequently, during an inflationary</P>
+
+</blockquote>
+
+<H1 ALIGN=CENTER><FONT SIZE=3>-12-</FONT></H1>
+<HR SIZE=3 NOSHADE>
+<blockquote>
+<PAGE>
+
+period the  interest  expense of the Trust would  increase.  Since the  interest
+income of the Trust would not  increase as rapidly,  an increase in the interest
+expense  of the Trust  would  decrease  the net  income of the  Trust.  However,
+interest  income should  subsequently  increase as variable rate loans  reprice.
+Should the amount of the loans and the amount of the  indebtedness  of the Trust
+remain  constant,  and  should  the  weighted  average  interest  rate  upon the
+indebtedness increase to approximately 13.06% per annum, the interest income and
+the interest expense of the Trust would be substantially equal.
+
+</blockquote>
+
+<P><B>New Accounting Standards</B></P>
+
+<blockquote>
+
+<P>In June 2001,  the Financial  Accounting  Standards  Board issued  Statements of
+Financial  Accounting  Standards No. 141,  Business  Combinations,  and No. 142,
+Goodwill and Other Intangible Assets, effective for fiscal years beginning after
+December 15, 2001. Under these rules,  goodwill and intangible  assets deemed to
+have indefinite  lives will no longer be amortized but will be subject to annual
+impairment tests in accordance with the Statements. Other intangible assets will
+continue to be amortized over their useful lives.</P>
+
+<P>The Trust applied the new rules on accounting for goodwill and other  intangible
+assets as of April 1, 2002. Application of the nonamortization provisions of the
+statement  did not have an effect on net  income as the Trust  currently  has no
+goodwill or other intangibles.</P>
+
+<P>The Trust does not believe the adoption of any recently issued pronouncements by
+the Financial  Accounting  Standards Board will have a significant impact on its
+financial statements.</P>
+
+</blockquote>
+
+<A NAME="FINANCIAL_STATEMENTS"></A>
+
+<H2 ALIGN=LEFT><FONT SIZE=3>Item 7: FINANCIAL STATEMENTS</FONT></H2>
+
+<blockquote>
+
+<P>Financial  Statements  at March 31, 2003,  and 2002 and for each of the years in
+the two-year  period ended March 31, 2003,  are  incorporated  by reference from
+Pages 17 through 33 of the 2003 Annual Report to Shareholders.</P>
+
+<P>The report of independent  auditors with respect to the financial  statements at
+March 31, 2003, and 2002 and for each of the years in the two-year  period ended
+March 31,  2003 is  incorporated  by  reference  from Page 16 of the 2003 Annual
+Report to Shareholders.</P>
+
+</blockquote>
+
+<A NAME="CHANGES_IN_DISAGREEMENTS"></A>
+
+<H2   ALIGN=LEFT><FONT   SIZE=3>Item  8:  CHANGES  IN  AND  DISAGREEMENTS   WITH
+ACCOUNTANTS ON ACCOUNTING AND FINANCIAL DISCLOSURE</FONT></H2>
+
+<blockquote>
+
+<P>None</P>
+
+</blockquote>
+
+<H1 ALIGN=CENTER><FONT SIZE=3>-13-</FONT></H1>
+<HR SIZE=3 NOSHADE>
+<PAGE>
+
+<A NAME="DIRECTORS_EXECUTIVES"></A>
+
+<H1 ALIGN=CENTER><FONT SIZE=3>PART III</FONT></H1>
+
+<H2 ALIGN=LEFT><FONT  SIZE=3>Item 9: DIRECTORS AND EXECUTIVE OFFICERS, PROMOTERS
+AND  CONTROL   PERSONS;   COMPLIANCE   WITH   SECTION   16(a)  OF  THE  EXCHANGE
+ACT</FONT></H2>
+
+<blockquote>
+
+<P>(a) Board of Trust Managers.  The following  information is furnished as to each
+individual  who now  serves as a member of the  Board of Trust  Managers  of the
+Trust:</P>
+
+<P>B. R.  McMorries,  age 76, is a  consulting  engineer.  He has served as a Trust
+Manager  since 1963. He serves as Chairman of the Board of Trust  Managers.  Mr.
+McMorries  was  recently  elected to the Board of  Directors  of Colonial  Trust
+Company, also a reporting company.</P>
+
+<P>Larry Brown,  age 60, is the  President of Larry Brown  Realtors,  Inc. and is a
+licensed  realtor.  He has served as a Trust  Manager  since 1981.  He serves as
+Vice-Chairman of the Board of Trust Managers.</P>
+
+<P>Alfred J. Smith, age 68, is in the independent oil and gas production  business.
+Mr. Smith has served as a Trust  Manager  since 1999.  He serves as Secretary of
+the Board of Trust Managers.</P>
+
+<P>Jack R. Vincent, age 73, is engaged in farming and ranching  operations.  He has
+served as a Trust Manager since 1989.</P>
+
+<P>Steve  Rogers,  age 55, is the  President  of Steve  Rogers  Co., a real  estate
+appraisal firm. He has served as a Trust Manager since 1990.</P>
+
+<P>Mike  Bahn,  age 59, is the  President  of  Amarillo  Blueprint  Co.,  an office
+equipment  and supply and  reproduction  services  business.  He has served as a
+Trust Manager since 1997.</P>
+
+<P>Terry  Hays,  age 52, is the  Information  Systems  Manager  for the law firm of
+Perdue,  Brandon,  Fielder,  Collins  and Mott.  Mr.  Hays has served as a Trust
+Manager since 1998.</P>
+
+<P>Michael W.  Borger,  age 48, is the  President  of  Turnkey  Leasing,  Ltd.,  an
+equipment  leasing  business.  Mr.  Borger  was  elected  to the  Board of Trust
+Managers by the existing  Board of Trust  Managers in April of 2002.  Mr. Borger
+previously  served as a Trust Manager from 1988 to 1990. Mr. Borger was recently
+elected to the Board of Directors of Colonial  Trust  Company,  also a reporting
+company</P>
+
+<P>(b)  Executive  Officers.  The  following  information  is  furnished as to each
+individual  who now  serves  as an  executive  officer  of the  Trust who is not
+mentioned under "Board of Trust Managers" above:</P>
+
+<P>M. Kelly Archer,  age 51, serves as President,  Manager of Operations  and Chief
+Financial  Officer of the Trust. As such, Mr. Archer  functions as the Executive
+Officer of the Trust. Mr. Archer has served in this capacity for 21 years.</P>
+
+<P>Robert E. Martin,  age 53, serves as the Senior  Vice-President-Lending  for the
+Trust.  Mr. Martin has served in such capacity  since 1999.  Prior to serving in
+such capacity, Mr. Martin served as the President/CEO of Santa Fe Federal Credit
+Union.  Mr. Martin also served as a member of the Board of Trust Managers of the
+Trust prior to becoming an employee of the Trust.</P>
+
+</blockquote>
+
+<H1 ALIGN=CENTER><FONT SIZE=3>-14-</FONT></H1>
+<HR SIZE=3 NOSHADE>
+<PAGE>
+
+<blockquote>
+
+<P>Robert E. Fowler,  age 50,  serves as the Senior  Vice-President-Accounting  and
+Information Systems for the Trust. Mr. Fowler has served in such capacity for 21
+years.</P>
+
+<P>(c) Compliance with Section 16(a) of the Securities  Exchange Act of 1934. Based
+upon  information  provided  to the  Trust  by  individual  Trust  Managers  and
+Executive Officers, the Trust believes that during the preceding fiscal year the
+Trust  Managers and Executive  Officers  have complied with all such  applicable
+filing requirements.</P>
+
+<P>(d) The Trust has an Audit Committee which consists of Messers McMorries, Smith,
+Hays,  Vincent and Borger.  This committee,  which met fourteen times during the
+Trust's last fiscal year, is primarily responsible for: reviewing the activities
+of the Trust's independent auditors; reviewing and evaluating recommendations of
+the  auditors;  recommending  areas  of  review  to the  Trust  management;  and
+reviewing and evaluating the Trust's accounting  policies,  reporting  practices
+and internal controls.</P>
+
+</blockquote>
+
+<A NAME="EXECUTIVE_COMPENSATION"></A>
+
+<H2 ALIGN=LEFT><FONT SIZE=3>Item 10: EXECUTIVE COMPENSATION</FONT></H2>
+
+<blockquote>
+
+<P>(a) Executive Officers:</P>
+
+<P>The following table sets forth certain information  regarding  compensation paid
+during each of the Trust's  last three  fiscal  years to the Trust's  Manager of
+Operations  (CEO).  The  Trust has no other  executive  officers  whose  salary,
+bonuses and other  compensation  earned during fiscal 2003 exceeded $100,000 for
+services rendered in all capacities.</P>
+
+  <blockquote>
+
+<PRE>                                              Annual Compensation
+                                          -------------------------------
+                                  Fiscal                     Other Annual
+Name and Principal Position        Year    Salary    Bonus   Compensation
+- ------------------------------     ----   --------   ------  ------------
+  CEO-M. Kelly Archer              2003   $107,625   $4,500   $ 18,900
+         Manager of Operations     2002    108,350      0       18,225
+                                   2001    108,510      0       14,490
+
+</PRE>
+
+  </blockquote>
+
+<P>(b) Trust Managers' Compensation:</P>
+
+<P>The Board of Trust  Managers  of the Trust were paid  $57,300 in cash as a group
+during the last fiscal year for services as Trust Managers.  The Chairman of the
+Board of Trust Managers, B. R. McMorries,  is paid $500 per month for serving in
+such  capacity.  The remaining  members of the Board of Trust  Managers are paid
+$300 per month for serving as a member of the board. All Trust Managers are paid
+an additional $100 per board or committee meeting attended. In addition, a Trust
+Manager  receives  $400  per day for  their  services  when out of town on trust
+business.</P>
+
+<P>The  members  of the Board of Trust  Managers  of the  Trust  are not  otherwise
+employed or compensated by the Trust.</P>
+
+</blockquote>
+
+<H1 ALIGN=CENTER><FONT SIZE=3>-15-</FONT></H1>
+<HR SIZE=3 NOSHADE>
+<PAGE>
+
+<A NAME="SECURITY_OWNERSHIP"></A>
+
+<H2  ALIGN=LEFT><FONT  SIZE=3>Item 11: SECURITY  OWNERSHIP OF CERTAIN BENEFICIAL
+OWNERS AND<br>
+MANAGEMENT AND RELATED STOCKHOLDER MATTERS</FONT></H2>
+
+<blockquote>
+
+<P>(a) No persons  owned  beneficially  more than five (5) percent of the shares of
+beneficial interest in the Trust as of March 31, 2003.</P>
+
+<P>(b) The following table  indicates the number of shares of beneficial  ownership
+interest  in the  Trust  owned  by the  Board of Trust  Managers  and  Executive
+Officers, individually and as a group:</P>
+
+</blockquote>
+
+<PRE>     Name and Address of                Amount of and Nature          Percent
+     Beneficial Owner                  of Beneficial Ownership *     of Class
+     ----------------------------      -----------------------       --------
+
+           B. R. McMorries                    302,583                 4.322%
+
+             Larry Brown                      50,989                  0.728%
+
+           Jack R. Vincent                     9,576                  0.137%
+
+            Steve Rogers                       1,300                  0.019%
+
+              Mike Bahn                        1,650                  0.024%
+
+             Terry Hays                        2,566                  0.037%
+
+           Alfred J. Smith                    38,393                  0.548%
+
+          Michael W. Borger                   13,850                  0.198%
+
+           M. Kelly Archer                    144,855                 2.069%
+
+          Robert E. Fowler                     5,176                  0.074%
+
+          Robert E. Martin                    3,412                   0.049%
+
+       All Trust Managers and                 574,350                 8,204%
+         Executive Officers
+             as a Group
+</pre>
+
+<blockquote>
+
+<P>* The nature of beneficial  ownership of such shares is either  directly by such
+named  person,  indirectly  through such person's  spouse or through  Individual
+Retirement Accounts directed by such person or their spouse.</P>
+
+<P>(c) Change in control.</P>
+
+</blockquote>
+
+<H1 ALIGN=CENTER><FONT SIZE=3>-16-</FONT></H1>
+<HR SIZE=3 NOSHADE>
+<PAGE>
+
+<blockquote>
+
+<P>There are no arrangements which may result in a change of control of the Trust.</P>
+
+</blockquote>
+
+<A NAME="CERTAIN_RELATIONSHIPS"></A>
+
+<H2   ALIGN=LEFT><FONT   SIZE=3>Item  12:  CERTAIN   RELATIONSHIPS  AND  RELATED
+TRANSACTIONS</FONT></H2>
+
+<blockquote>
+
+<P>The Trust issues a limited  number of "Master  Notes" which are  unsecured  debt
+instruments  of the Trust.  The Trust pays the obligee of such notes interest at
+the rate of one  percent  per annum  (1%) less  than the prime  lending  rate of
+Amarillo  National Bank, the Trust's primary  lender.  As of March 31, 2003, the
+Trust had entered into Master Note Agreements with B. R. McMorries,  Chairman of
+the Board of Trust  Managers,  as Trustee of the McMorries  Family Trust, in the
+amount of $163,448;  Larry Brown,  Vice-Chairman  of the Board of Trust Managers
+and related  persons,  in the amount of $357,087;  the First State Bank,  Happy,
+Texas of which Jack R.  Vincent,  member of the Board of Trust  Managers,  owns,
+either  directly or indirectly,  10% or more of the  outstanding  stock,  in the
+amount of $750,000; Jack R. Vincent, a member of the Board of Trust Managers, in
+the amount of $167,499;  Morgan  Financial,  a  partnership  in which Michael W.
+Borger,  member of the Board of Trust Managers,  owns a controlling interest, in
+the amount of $406,200; and M. Kelly Archer, President and Manager of Operations
+of the  Trust,  in the amount of  $68,918.  The terms of such  Master  Notes and
+Certificates  are the same as Master  Notes and  Certificates  entered into with
+other unrelated persons, except as to the amounts thereof.</P>
+
+</blockquote>
+
+<A NAME="EXHIBITS_AND_REPORTS"></A>
+
+<H2   ALIGN=LEFT><FONT   SIZE=3>Item   13:   EXHIBITS   AND   REPORTS   ON  FORM
+8-K</FONT></H2>
+
+<blockquote>
+
+<P>(a) Exhibits</P>
+
+<P>The Exhibits listed on the accompanying Index to Exhibits are filed as a part
+of this Annual Report.</P>
+
+<P>(b) Reports on Form 8-K</P>
+
+<P>The Trust filed Form 8-K on June 9, 2003 reporting that pursuant to authority
+granted by the Board Trust Managers of the Trust, on Tuesday, June 3, 2003, the
+Strategic Planning Committee of the Board of Trust Managers authorized the Trust
+to proceed to register an offering of an additional 7,000,000 shares of
+beneficial interest in the Trust at a price of $3.00 per share. It is the intent of the Trust to immediately pursue the registration of such shares.</P>
+
+</blockquote>
+
+<A NAME="CONTROLS_AND_PROCEDURES"></A>
+
+<H2   ALIGN=LEFT><FONT   SIZE=3>Item 14:     CONTROLS AND PROCEDURES</FONT></H2>
+
+<blockquote>
+
+<P>The Trust's Chief Executive Officer and it's Senior Vice President are in charge
+of making an evaluation of the Trust's disclosure controls and procedures. These
+controls and procedures are designed to ensure that  information  required to be
+disclosed  and  reports  mandated  by the  Securities  Exchange  Act of  1934 is
+recorded, communicated to management and accurately reported within the required
+time period.  Within ninety (90) days prior to the date of filing of this Annual
+Report, the Trust's Chief Executive Officer and Senior Vice President carried an
+evaluation  of the design and operation of the Trust's  disclosure  controls and
+procedures.  Based upon this evaluation, the Trust's Chief Executive Officer and
+Senior Vice President have  concluded that the Trust's  disclosure  controls and
+procedures are effective.</P>
+
+</blockquote>
+
+<H1 ALIGN=CENTER><FONT SIZE=3>-17-</FONT></H1>
+<HR SIZE=3 NOSHADE>
+<PAGE>
+
+<blockquote>
+
+<P>There have been no significant  changes in the Trust's  internal  controls or in
+the factors that could significantly  affect these controls  substantiate to the
+date of their evaluation.</P>
+
+</blockquote>
+
+<A NAME="PRINCIPAL_AND_SERVICES"></A>
+
+<H2   ALIGN=LEFT><FONT   SIZE=3>Item 15: PRINCIPAL ACCOUNTANT'S FEES AND SERVICES</FONT></H2>
+
+<blockquote>
+
+<P>The Board of Trust  Managers has selected  Clifton  Gunderson  LLP,  independent
+certified public accountants, as the auditors of the financial statements of the
+Trust for the fiscal year ending March 31, 2004. At the meeting the shareholders
+to be held on July 18,  2003,  the  shareholders  will vote upon a  proposal  to
+ratify the  selection of this firm as auditors.  No member of such firm,  or any
+associate thereof, has any financial interest in the Trust.</P>
+
+<P>The aggregate fees billed for  professional  services  rendered for the audit of
+the Trust's  annual  financial  statements  for the most recent fiscal year, the
+review of the financial  statements included in the Trust's Form 10-QSB for such
+fiscal year or for services  that are  normally  provided by the  accountant  in
+connection with statutory and regulatory  filings or engagements were $51,675 as
+compared to $51,225 for the fiscal year ended March 31, 2002. The aggregate fees
+billed the Trust for tax  services,  including  preparation  of the  Trust's  tax
+return and tax related  matters,  were $5,970 for the most recent  fiscal year as
+compared to $7,130 for the fiscal year ended March 31, 2002. There were no other
+fees billed in each of the last two fiscal  years for  services  rendered by the
+principal  accountant,  Clifton  Gunderson  LLP for other  services not included
+above.</P>
+
+<P>Before  Clifton  Gunderson  LLP was  engaged  by the  Trust to  render  audit or
+non-audit  services,  the engagement is approved by the Trust's Audit Committee.
+Furthermore, the accountant's engagement to render tax services is also approved
+by  the  Trust's  Audit  Committee  prior  to  the  engagement.  There  were  no
+audit-related  fees that were not included under the Audit Fees set forth above.
+Nor were  there any other  fees not  included  within the Audit Fees and the Tax
+Services Fees.</P>
+
+<P>All hours expended on the principal accountant's engagement to audit the Trust's
+Financial  Statements  for the most recent  fiscal year were  attributed to work
+performed by Clifton Gunderson LLP's full-time, permanent employees.</P>
+
+</blockquote>
+
+<H1 ALIGN=CENTER><FONT SIZE=3>-18-</FONT></H1>
+<HR SIZE=3 NOSHADE>
+<PAGE>
+
+<A NAME="OTHER_INFORMATION"></A>
+<H1 ALIGN=CENTER><FONT SIZE=3>CHURCH LOANS &amp; INVESTMENTS TRUST</FONT></H1>
+<P ALIGN=CENTER><FONT SIZE=3>INDEX TO EXHIBITS<BR><BR>
+Item 13(a)</FONT></P>
+
+<TABLE WIDTH=100% CELLPADDING=0 CELLSPACING=0>
+<TR VALIGN=TOP>
+<TD WIDTH=5%><FONT SIZE=3></FONT></TD>
+<TD WIDTH=5%><FONT SIZE=3>(2)</FONT></TD>
+<TD WIDTH=90%><FONT SIZE=3>None</FONT></TD>
+</TR>
+</TABLE>
+<BR>
+
+<TABLE WIDTH=100% CELLPADDING=0 CELLSPACING=0>
+<TR VALIGN=TOP>
+<TD WIDTH=5%><FONT SIZE=3></FONT></TD>
+<TD WIDTH=5%><FONT SIZE=3>(3)</FONT></TD>
+<TD WIDTH=90%><FONT SIZE=3>Declaration of Trust of Church Loans &amp; Investments Trust, as amended, has been previously
+filed under File No. 2-51235 and is incorporated herein by reference.<BR></FONT></TD>
+</TR>
+</TABLE>
+<BR>
+
+<TABLE WIDTH=100% CELLPADDING=0 CELLSPACING=0>
+<TR VALIGN=TOP>
+<TD WIDTH=5%><FONT SIZE=3></FONT></TD>
+<TD WIDTH=5%><FONT SIZE=3></FONT></TD>
+<TD WIDTH=90%><FONT SIZE=3>Bylaws of Church Loans &amp; Investments Trust, as amended,  has been previously filed under
+File No. 2-51235 and is incorporated herein by reference.</FONT></TD>
+</TR>
+</TABLE>
+<BR>
+
+
+<TABLE WIDTH=100% CELLPADDING=0 CELLSPACING=0>
+<TR VALIGN=TOP>
+<TD WIDTH=5%><FONT SIZE=3></FONT></TD>
+<TD WIDTH=5%><FONT SIZE=3>(4)</FONT></TD>
+<TD WIDTH=90%><FONT SIZE=3>None other than those listed in (3) above.</FONT></TD>
+</TR>
+</TABLE>
+<BR>
+
+<TABLE WIDTH=100% CELLPADDING=0 CELLSPACING=0>
+<TR VALIGN=TOP>
+<TD WIDTH=5%><FONT SIZE=3></FONT></TD>
+<TD WIDTH=5%><FONT SIZE=3>(9)</FONT></TD>
+<TD WIDTH=90%><FONT SIZE=3>None</FONT></TD>
+</TR>
+</TABLE>
+<BR>
+
+<TABLE WIDTH=100% CELLPADDING=0 CELLSPACING=0>
+<TR VALIGN=TOP>
+<TD WIDTH=5%><FONT SIZE=3></FONT></TD>
+<TD WIDTH=5%><FONT SIZE=3>(10)</FONT></TD>
+<TD WIDTH=90%><FONT SIZE=3>None</FONT></TD>
+</TR>
+</TABLE>
+<BR>
+
+<TABLE WIDTH=100% CELLPADDING=0 CELLSPACING=0>
+<TR VALIGN=TOP>
+<TD WIDTH=5%><FONT SIZE=3></FONT></TD>
+<TD WIDTH=5%><FONT SIZE=3>(11)</FONT></TD>
+<TD WIDTH=90%><FONT SIZE=3>Statement regarding computation of per share earnings  -omitted since information necessary to
+make the computation is included in the Financial Statements and Note 4 thereto.</FONT></TD>
+</TR>
+</TABLE>
+<BR>
+
+<TABLE WIDTH=100% CELLPADDING=0 CELLSPACING=0>
+<TR VALIGN=TOP>
+<TD WIDTH=5%><FONT SIZE=3></FONT></TD>
+<TD WIDTH=5%><FONT SIZE=3>(13)</FONT></TD>
+<TD WIDTH=90%><FONT SIZE=3>Pages 16 through 33 of the 2003 Annual Report to Shareholders</FONT></TD>
+</TR>
+</TABLE>
+<BR>
+
+<TABLE WIDTH=100% CELLPADDING=0 CELLSPACING=0>
+<TR VALIGN=TOP>
+<TD WIDTH=5%><FONT SIZE=3></FONT></TD>
+<TD WIDTH=5%><FONT SIZE=3>(16)</FONT></TD>
+<TD WIDTH=90%><FONT SIZE=3>None</FONT></TD>
+</TR>
+</TABLE>
+<BR>
+
+<TABLE WIDTH=100% CELLPADDING=0 CELLSPACING=0>
+<TR VALIGN=TOP>
+<TD WIDTH=5%><FONT SIZE=3></FONT></TD>
+<TD WIDTH=5%><FONT SIZE=3>(18)</FONT></TD>
+<TD WIDTH=90%><FONT SIZE=3>None</FONT></TD>
+</TR>
+</TABLE>
+<BR>
+
+<TABLE WIDTH=100% CELLPADDING=0 CELLSPACING=0>
+<TR VALIGN=TOP>
+<TD WIDTH=5%><FONT SIZE=3></FONT></TD>
+<TD WIDTH=5%><FONT SIZE=3>(21)</FONT></TD>
+<TD WIDTH=90%><FONT SIZE=3>None</FONT></TD>
+</TR>
+</TABLE>
+<BR>
+<TABLE WIDTH=100% CELLPADDING=0 CELLSPACING=0>
+<TR VALIGN=TOP>
+<TD WIDTH=5%><FONT SIZE=3></FONT></TD>
+<TD WIDTH=5%><FONT SIZE=3>(22)</FONT></TD>
+<TD WIDTH=90%><FONT SIZE=3>None</FONT></TD>
+</TR>
+</TABLE>
+<BR>
+
+<TABLE WIDTH=100% CELLPADDING=0 CELLSPACING=0>
+<TR VALIGN=TOP>
+<TD WIDTH=5%><FONT SIZE=3></FONT></TD>
+<TD WIDTH=5%><FONT SIZE=3>(23)</FONT></TD>
+<TD WIDTH=90%><FONT SIZE=3>None</FONT></TD>
+</TR>
+</TABLE>
+<BR>
+
+<TABLE WIDTH=100% CELLPADDING=0 CELLSPACING=0>
+<TR VALIGN=TOP>
+<TD WIDTH=5%><FONT SIZE=3></FONT></TD>
+<TD WIDTH=5%><FONT SIZE=3>(24)</FONT></TD>
+<TD WIDTH=90%><FONT SIZE=3>None</FONT></TD>
+</TR>
+</TABLE>
+<BR>
+
+<TABLE WIDTH=100% CELLPADDING=0 CELLSPACING=0>
+<TR VALIGN=TOP>
+<TD WIDTH=5%><FONT SIZE=3></FONT></TD>
+<TD WIDTH=5%><FONT SIZE=3>(99.1)</FONT></TD>
+<TD WIDTH=90%><FONT SIZE=3>Certification Pursuant to 18 U.S.C. Section 1350, as Adopted Pursuant to Section 906 of the
+ Sarbanes-Oxley Act of 2002: President and Chief Financial Officer
+</FONT></TD>
+</TR>
+</TABLE>
+<BR>
+
+<TABLE WIDTH=100% CELLPADDING=0 CELLSPACING=0>
+<TR VALIGN=TOP>
+<TD WIDTH=5%><FONT SIZE=3></FONT></TD>
+<TD WIDTH=5%><FONT SIZE=3>(99.2)</FONT></TD>
+<TD WIDTH=90%><FONT SIZE=3>Certification Pursuant to 18 U.S.C. Section 1350, as Adopted Pursuant to Section 906
+ of the Sarbanes-Oxley Act of 2002: Senior Vice President
+</FONT></TD>
+</TR>
+</TABLE>
+<BR>
+
+<H1 ALIGN=CENTER><FONT SIZE=3>-19-</FONT></H1>
+<HR SIZE=3 NOSHADE>
+<PAGE>
+
+<A NAME="SIGNATURES"></A>
+<P ALIGN=CENTER><FONT SIZE=3><BR><BR>
+SIGNATURES</FONT></P>   <P  ALIGN=LEFT><FONT   SIZE=3>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In accordance with Section 13
+or 15(d) of the Exchange Act, the Registrant has caused this report to be signed on its behalf by the undersigned, thereunto duly authorized.</FONT></P>
+<BR>
+
+<H1 ALIGN=LEFT><FONT SIZE=3>CHURCH LOANS &amp; INVESTMENTS TRUST</FONT></H1>
+<BR><BR>
+<TABLE WIDTH=100% CELLPADDING=0 CELLSPACING=0>
+<TR VALIGN=TOP>
+<TD WIDTH=5%><FONT SIZE=3>By</FONT></TD>
+<TD WIDTH=20% ALIGN=CENTER><FONT SIZE=3>
+             /s/ B. R. McMorries<BR>
+         ______________________________<BR>
+                 B. R. McMorries<BR>
+                 Chairman of the Board of<BR>
+                 Trust Managers</FONT></TD>
+<TD WIDTH=30% ALIGN=CENTER><FONT SIZE=3><BR>Dated: <U><U><U><U>&nbsp;&nbsp;June 26, 2003
+&nbsp;&nbsp;</U></U></U><U><U></U></U></U></FONT></TD>
+<TD WIDTH=45%><FONT SIZE=3>&nbsp;</FONT></TD>
+</TR>
+</TABLE>
+<BR><BR>
+
+<P ALIGN=LEFT><FONT  SIZE=3>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In accordance with the
+Exchange  Act,  this report has been signed  below by the  following  persons on
+behalf   of  the   Registrant   and  in  the   capacities   and  on  the   dates
+indicated.</FONT></P>
+
+<BR><BR><BR>
+<TABLE WIDTH=100% CELLPADDING=0 CELLSPACING=0>
+<TR VALIGN=TOP>
+<TD WIDTH=33% ALIGN=CENTER><FONT SIZE=3>Signature</FONT></TD>
+<TD WIDTH=33% ALIGN=CENTER><FONT SIZE=3>Capacity</FONT></TD>
+<TD WIDTH=34% ALIGN=CENTER><FONT SIZE=3>Date</FONT></TD>
+</TR>
+</TABLE>
+
+<BR><BR>
+<TABLE WIDTH=100% CELLPADDING=0 CELLSPACING=0>
+<TR VALIGN=TOP>
+<TD WIDTH=33% ALIGN=CENTER><FONT SIZE=3>
+             /s/ B. R. McMorries<BR>
+         ______________________________<BR>
+                 B. R. McMorries</FONT></TD>
+<TD WIDTH=33% ALIGN=CENTER><FONT SIZE=3><BR>Chairman of the Board of<BR>Trust Managers</FONT></TD>
+
+<TD WIDTH=34% ALIGN=CENTER><FONT SIZE=3><BR><U><U><U><U>
+&nbsp;&nbsp;June 26, 2003&nbsp;&nbsp;</U></U></U><U><U></U></U></U></FONT></TD>
+</TR>
+</TABLE>
+
+<BR><BR>
+<TABLE WIDTH=100% CELLPADDING=0 CELLSPACING=0>
+<TR VALIGN=TOP>
+<TD WIDTH=33% ALIGN=CENTER><FONT SIZE=3>
+             /s/ Larry Brown<BR>
+         ______________________________<BR>
+                 Larry Brown</FONT></TD>
+<TD WIDTH=33% ALIGN=CENTER><FONT SIZE=3><BR>Vice-Chairman of the Board<BR>of Trust Managers</FONT></TD>
+
+<TD WIDTH=34% ALIGN=CENTER><FONT SIZE=3><BR><U><U>
+&nbsp;&nbsp;&nbsp;June 26, 2003&nbsp;&nbsp;</U></U></FONT></TD>
+</TR>
+</TABLE>
+
+<BR><BR>
+<TABLE WIDTH=100% CELLPADDING=0 CELLSPACING=0>
+<TR VALIGN=TOP>
+<TD WIDTH=33% ALIGN=CENTER><FONT SIZE=3>
+             /s/ Alfred J. Smith<BR>
+         ______________________________<BR>
+                 Alfred J. Smith</FONT></TD>
+<TD WIDTH=33% ALIGN=CENTER><FONT SIZE=3><BR>Secretary of the Board<BR>of Trust Managers</FONT></TD>
+
+<TD WIDTH=34% ALIGN=CENTER><FONT SIZE=3><BR><U><U><U><U>
+&nbsp;&nbsp;June 26, 2003&nbsp;&nbsp;</U></U></U><U><U></U></U></U></FONT></TD>
+</TR>
+</TABLE>
+
+<BR><BR>
+<TABLE WIDTH=100% CELLPADDING=0 CELLSPACING=0>
+<TR VALIGN=TOP>
+<TD WIDTH=33% ALIGN=CENTER><FONT SIZE=3>
+             /s/ M. Kelly Archer<BR>
+         ______________________________<BR>
+                 M. Kelly Archer</FONT></TD>
+<TD WIDTH=33% ALIGN=CENTER><FONT SIZE=3><BR>President, Principal Financial<BR>and Accounting Officer</FONT></TD>
+
+
+<TD WIDTH=34% ALIGN=CENTER><FONT SIZE=3><BR><U><U><U><U>
+&nbsp;&nbsp;June 26, 2003&nbsp;&nbsp;</U></U></U><U><U></U></U></U></FONT></TD>
+</TR>
+</TABLE>
+
+<BR><BR>
+<TABLE WIDTH=100% CELLPADDING=0 CELLSPACING=0>
+<TR VALIGN=TOP>
+<TD WIDTH=33% ALIGN=CENTER><FONT SIZE=3>
+             /s/ Jack R. Vincent<BR>
+         ______________________________<BR>
+                 Jack R. Vincent</FONT></TD>
+<TD WIDTH=33% ALIGN=CENTER><FONT SIZE=3><BR>Trust Manager<BR>&nbsp;</FONT></TD>
+
+<TD WIDTH=34% ALIGN=CENTER><FONT SIZE=3><BR><U><U><U><U>
+&nbsp;&nbsp;June 26, 2003&nbsp;&nbsp;</U></U></U><U><U></U></U></U></FONT></TD>
+</TR>
+</TABLE>
+
+<p>&nbsp;</p>
+<TABLE WIDTH=100% CELLPADDING=0 CELLSPACING=0>
+<TR VALIGN=TOP>
+<TD WIDTH=33% ALIGN=CENTER><FONT SIZE=3>
+             /s/ Steve Rogers<BR>
+         ______________________________<BR>
+                 Steve Rogers</FONT></TD>
+<TD WIDTH=33% ALIGN=CENTER><FONT SIZE=3><BR>Trust Manager<BR>&nbsp;</FONT></TD>
+
+<TD WIDTH=34% ALIGN=CENTER><FONT SIZE=3><BR><U><U><U><U>
+&nbsp;&nbsp;June 26, 2003&nbsp;&nbsp;</U></U></U><U><U></U></U></U></FONT></TD>
+</TR>
+</TABLE>
+
+<H1 ALIGN=CENTER><FONT SIZE=3>-20-</FONT></H1>
+<HR SIZE=3 NOSHADE>
+<PAGE>
+
+<BR><BR>
+<TABLE WIDTH=100% CELLPADDING=0 CELLSPACING=0>
+<TR VALIGN=TOP>
+<TD WIDTH=33% ALIGN=CENTER><FONT SIZE=3>
+             /s/ Mike Bahn<BR>
+         ______________________________<BR>
+                 Mike Bahn</FONT></TD>
+<TD WIDTH=33% ALIGN=CENTER><FONT SIZE=3><BR>Trust Manager<BR>&nbsp;</FONT></TD>
+
+<TD WIDTH=34% ALIGN=CENTER><FONT SIZE=3><BR><U><U><U><U>
+&nbsp;&nbsp;June 26, 2003&nbsp;&nbsp;</U></U></U><U><U></U></U></U></FONT></TD>
+</TR>
+</TABLE>
+
+<BR><BR>
+<TABLE WIDTH=100% CELLPADDING=0 CELLSPACING=0>
+<TR VALIGN=TOP>
+<TD WIDTH=33% ALIGN=CENTER><FONT SIZE=3>
+             /s/ Terry Hays<BR>
+         ______________________________<BR>
+                 Terry Hays</FONT></TD>
+<TD WIDTH=33% ALIGN=CENTER><FONT SIZE=3><BR>Trust Manager<BR>&nbsp;</FONT></TD>
+
+<TD WIDTH=34% ALIGN=CENTER><FONT SIZE=3><BR><U><U>
+&nbsp;
+&nbsp;&nbsp;June 26, 2003&nbsp;&nbsp;</U></U></FONT></TD>
+</TR>
+</TABLE>
+
+<BR><BR>
+<TABLE WIDTH=100% CELLPADDING=0 CELLSPACING=0>
+<TR VALIGN=TOP>
+<TD WIDTH=33% ALIGN=CENTER><FONT SIZE=3>
+             /s/ Michael W. Borger<BR>
+         ______________________________<BR>
+                 Michael W. Borger</FONT></TD>
+<TD WIDTH=33% ALIGN=CENTER><FONT SIZE=3><BR>Trust Manager<BR>&nbsp;</FONT></TD>
+
+<TD WIDTH=34% ALIGN=CENTER><FONT SIZE=3><BR><U><U><U><U>
+&nbsp;&nbsp;June 26, 2003&nbsp;&nbsp;</U></U></U><U><U></U></U></U></FONT></TD>
+</TR>
+</TABLE>
+
+<H1 ALIGN=CENTER><FONT SIZE=3>-21-</FONT></H1>
+<HR SIZE=3 NOSHADE>
+<p align="center">
+<PAGE>
+
+<b>
+
+<A NAME="PRESIDENT"></A>
+                                                       EXHIBIT 99.1</b></p>
+<p align="center"><b>CERTIFICATION PURSUANT TO<br>
+18 U.S.C. SECTION 1350,<br>
+AS ADOPTED PURSUANT TO<br>
+SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002</b></p>
+
+
+                                       <p align="center"><b>CERTIFICATIONS BY
+                                       THE PRESIDENT &amp; CFO</b></p>
+                                       <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" width="100%" id="AutoNumber4">
+                                         <tr>
+                                           <td width="100%" colspan="3">I, Kelly
+                                           Archer, certify that: <br>
+&nbsp;</td>
+                                         </tr>
+                                         <tr>
+                                           <td width="4%" align="left" valign="top">
+                                           1.</td>
+                                           <td width="96%" colspan="2">I have
+                                           reviewed this Annual Report on
+                                           Form 10-KSB of Church Loans &amp;
+                                           Investments Trust; </td>
+                                         </tr>
+                                         <tr>
+                                           <td width="4%" align="left" valign="top">
+                                           2.</td>
+                                           <td width="96%" colspan="2">Based on
+                                           my knowledge, this Annual Report
+                                           does not contain any untrue statement
+                                           of a material fact or omit to state a
+                                           material fact necessary to make the
+                                           statements made, in light of the
+                                           circumstances under which such
+                                           statements were made, not misleading
+                                           with respect to the period covered by
+                                           this Annual Report;</td>
+                                         </tr>
+                                         <tr>
+                                           <td width="4%" align="left" valign="top">
+                                           3.</td>
+                                           <td width="96%" colspan="2">Based on
+                                           my knowledge, the financial
+                                           statements, and other financial
+                                           information included in this
+                                           Annual Report, fairly present in
+                                           all material respects the financial
+                                           condition, results of operations and
+                                           cash flows of the registrant as of,
+                                           and for, the periods presented in
+                                           this Annual Report;</td>
+                                         </tr>
+                                         <tr>
+                                           <td width="4%" align="left" valign="top">
+                                           4.</td>
+                                           <td width="96%" colspan="2">The
+                                           registrant's other certifying
+                                           officers and I are responsible for
+                                           establishing and maintaining
+                                           disclosure controls and procedures
+                                           (as defined in Exchange Act Rules
+                                           13a-14 and 15d-14) for the registrant
+                                           and we have:</td>
+                                         </tr>
+                                         <tr>
+                                           <td width="4%" align="left" valign="top">&nbsp;</td>
+                                           <td width="5%" align="left" valign="top">
+                                           (a)</td>
+                                           <td width="91%">designed such
+                                           disclosure controls and procedures to
+                                           ensure that material information
+                                           relating to the registrant, including
+                                           its consolidated subsidiaries, is
+                                           made known to us by others within
+                                           those entities, particularly during
+                                           the period in which this Annual
+                                           Report is being prepared;</td>
+                                         </tr>
+                                         <tr>
+                                           <td width="4%" align="left" valign="top">&nbsp;</td>
+                                           <td width="5%" align="left" valign="top">
+                                           (b)</td>
+                                           <td width="91%">evaluated the
+                                           effectiveness of the registrant's
+                                           disclosure controls and procedures as
+                                           of a date within 90 days prior to the
+                                           filing date of this Annual Report
+                                           (the &quot;Evaluation Date&quot;); and</td>
+                                         </tr>
+                                         <tr>
+                                           <td width="4%" align="left" valign="top">&nbsp;</td>
+                                           <td width="5%" align="left" valign="top">
+                                           (c)</td>
+                                           <td width="91%">presented in this
+                                           Annual Report our conclusions
+                                           about the effectiveness of the
+                                           disclosure controls and procedures
+                                           based on our evaluation as of the
+                                           Evaluation Date;</td>
+                                         </tr>
+                                         <tr>
+                                           <td width="4%" align="left" valign="top">
+                                           5.</td>
+                                           <td width="96%" colspan="2">The
+                                           registrant's other certifying
+                                           officer and I have disclosed, based
+                                           on our most recent evaluation, to the
+                                           registrant's auditors and the audit
+                                           committee of the registrant's Board
+                                           of Trust Managers:</td>
+                                         </tr>
+                                         <tr>
+                                           <td width="4%" align="left" valign="top">&nbsp;</td>
+                                           <td width="5%" align="left" valign="top">
+                                           (a)</td>
+                                           <td width="91%">all significant
+                                           deficiencies in the design or
+                                           operation of internal controls which
+                                           could adversely affect the
+                                           registrant's ability to record,
+                                           process, summarize and report
+                                           financial data and have identified
+                                           for the registrant's auditors any
+                                           material weaknesses in internal
+                                           controls; and</td>
+                                         </tr>
+                                         <tr>
+                                           <td width="4%" align="left" valign="top">&nbsp;</td>
+                                           <td width="5%" align="left" valign="top">
+                                           (b)</td>
+                                           <td width="91%">&nbsp;any fraud,
+                                           whether or not material, that
+                                           involves management or other
+                                           employees who have a significant role
+                                           in the registrant's internal
+                                           controls; and</td>
+                                         </tr>
+                                         <tr>
+                                           <td width="4%" align="left" valign="top">
+                                           6.</td>
+                                           <td width="96%" colspan="2">The
+                                           registrant's other certifying
+                                           officers and I have indicated in this
+                                           Annual Report whether or not there
+                                           were significant changes in internal
+                                           controls or in other factors that
+                                           could significantly affect internal
+                                           controls subsequent to the date of
+                                           our most recent evaluation, including
+                                           any corrective actions with regard to
+                                           significant deficiencies and material
+                                           weaknesses.<br>
+&nbsp;</td>
+                                         </tr>
+                                       </table>
+
+<TABLE WIDTH=100% CELLPADDING=0 CELLSPACING=0>
+<TR VALIGN=TOP>
+<TD WIDTH="44%" ALIGN=CENTER><FONT SIZE=3><br>
+Dated: <U>&nbsp;&nbsp;June 26, 2003&nbsp;&nbsp;</U></FONT></TD>
+<TD WIDTH="3%" ALIGN=CENTER><FONT SIZE=3><BR>&nbsp;</FONT></TD>
+<TD WIDTH="48%">
+<p align="center"><FONT SIZE=3>&nbsp;/s/ Kelly Archer<BR>
+         ______________________________<BR>
+                 Kelly Archer, President &amp; CFO</FONT></TD>
+</TR>
+</TABLE>
+
+<P ALIGN=CENTER><FONT SIZE=3>--</FONT></P>
+<HR SIZE=3 NOSHADE>
+
+<A NAME="SENIOR"></A>
+<p align="center">
+<PAGE>
+
+
+
+<A NAME="VICE_PRESIDENT"></A>
+<b>                                                       EXHIBIT 99.2</b></p>
+<p align="center"><b>CERTIFICATION PURSUANT TO<br>
+18 U.S.C. SECTION 1350,<br>
+AS ADOPTED PURSUANT TO<br>
+SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002</b></p>
+
+                                       <p align="center"><b>CERTIFICATIONS BY
+                                       THE SENIOR VICE PRESIDENT</b></p>
+                                       <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" width="100%" id="AutoNumber5">
+                                         <tr>
+                                           <td width="100%" colspan="3">I,
+                                           Robert Fowler, certify that: <br>
+&nbsp;</td>
+                                         </tr>
+                                         <tr>
+                                           <td width="4%" align="left" valign="top">
+                                           1.</td>
+                                           <td width="96%" colspan="2">I have
+                                           reviewed this Annual Report on
+                                           Form 10-KSB of Church Loans &amp;
+                                           Investments Trust; </td>
+                                         </tr>
+                                         <tr>
+                                           <td width="4%" align="left" valign="top">
+                                           2.</td>
+                                           <td width="96%" colspan="2">Based on
+                                           my knowledge, this Annual Report
+                                           does not contain any untrue statement
+                                           of a material fact or omit to state a
+                                           material fact necessary to make the
+                                           statements made, in light of the
+                                           circumstances under which such
+                                           statements were made, not misleading
+                                           with respect to the period covered by
+                                           this Annual Report;</td>
+                                         </tr>
+                                         <tr>
+                                           <td width="4%" align="left" valign="top">
+                                           3.</td>
+                                           <td width="96%" colspan="2">Based on
+                                           my knowledge, the financial
+                                           statements, and other financial
+                                           information included in this
+                                           Annual Report, fairly present in
+                                           all material respects the financial
+                                           condition, results of operations and
+                                           cash flows of the registrant as of,
+                                           and for, the periods presented in
+                                           this Annual Report;</td>
+                                         </tr>
+                                         <tr>
+                                           <td width="4%" align="left" valign="top">
+                                           4.</td>
+                                           <td width="96%" colspan="2">The
+                                           registrant's other certifying
+                                           officers and I are responsible for
+                                           establishing and maintaining
+                                           disclosure controls and procedures
+                                           (as defined in Exchange Act Rules
+                                           13a-14 and 15d-14) for the registrant
+                                           and we have:</td>
+                                         </tr>
+                                         <tr>
+                                           <td width="4%" align="left" valign="top">&nbsp;</td>
+                                           <td width="5%" align="left" valign="top">
+                                           (a)</td>
+                                           <td width="91%">designed such
+                                           disclosure controls and procedures to
+                                           ensure that material information
+                                           relating to the registrant, including
+                                           its consolidated subsidiaries, is
+                                           made known to us by others within
+                                           those entities, particularly during
+                                           the period in which this Annual
+                                           Report is being prepared;</td>
+                                         </tr>
+                                         <tr>
+                                           <td width="4%" align="left" valign="top">&nbsp;</td>
+                                           <td width="5%" align="left" valign="top">
+                                           (b)</td>
+                                           <td width="91%">evaluated the
+                                           effectiveness of the registrant's
+                                           disclosure controls and procedures as
+                                           of a date within 90 days prior to the
+                                           filing date of this Annual Report
+                                           (the &quot;Evaluation Date&quot;); and</td>
+                                         </tr>
+                                         <tr>
+                                           <td width="4%" align="left" valign="top">&nbsp;</td>
+                                           <td width="5%" align="left" valign="top">
+                                           (c)</td>
+                                           <td width="91%">presented in this
+                                           Annual Report our conclusions
+                                           about the effectiveness of the
+                                           disclosure controls and procedures
+                                           based on our evaluation as of the
+                                           Evaluation Date;</td>
+                                         </tr>
+                                         <tr>
+                                           <td width="4%" align="left" valign="top">
+                                           5.</td>
+                                           <td width="96%" colspan="2">The
+                                           registrant's other certifying
+                                           officer and I have disclosed, based
+                                           on our most recent evaluation, to the
+                                           registrant's auditors and the audit
+                                           committee of the registrant's Board
+                                           of Trust Managers:</td>
+                                         </tr>
+                                         <tr>
+                                           <td width="4%" align="left" valign="top">&nbsp;</td>
+                                           <td width="5%" align="left" valign="top">
+                                           (a)</td>
+                                           <td width="91%">all significant
+                                           deficiencies in the design or
+                                           operation of internal controls which
+                                           could adversely affect the
+                                           registrant's ability to record,
+                                           process, summarize and report
+                                           financial data and have identified
+                                           for the registrant's auditors any
+                                           material weaknesses in internal
+                                           controls; and</td>
+                                         </tr>
+                                         <tr>
+                                           <td width="4%" align="left" valign="top">&nbsp;</td>
+                                           <td width="5%" align="left" valign="top">
+                                           (b)</td>
+                                           <td width="91%">&nbsp;any fraud,
+                                           whether or not material, that
+                                           involves management or other
+                                           employees who have a significant role
+                                           in the registrant's internal
+                                           controls; and</td>
+                                         </tr>
+                                         <tr>
+                                           <td width="4%" align="left" valign="top">
+                                           6.</td>
+                                           <td width="96%" colspan="2">The
+                                           registrant's other certifying
+                                           officers and I have indicated in this
+                                           Annual Report whether or not there
+                                           were significant changes in internal
+                                           controls or in other factors that
+                                           could significantly affect internal
+                                           controls subsequent to the date of
+                                           our most recent evaluation, including
+                                           any corrective actions with regard to
+                                           significant deficiencies and material
+                                           weaknesses.<br>
+&nbsp;</td>
+                                         </tr>
+                                       </table>
+
+<TABLE WIDTH=100% CELLPADDING=0 CELLSPACING=0>
+<TR VALIGN=TOP>
+<TD WIDTH="44%" ALIGN=CENTER><FONT SIZE=3><br>
+Dated: <U>&nbsp;&nbsp;June 26, 2003&nbsp;&nbsp;</U></FONT></TD>
+<TD WIDTH="3%" ALIGN=CENTER><FONT SIZE=3><BR>&nbsp;</FONT></TD>
+<TD WIDTH="48%">
+<p align="center"><FONT SIZE=3>&nbsp;/s/ Robert Fowler<BR>
+         ______________________________<BR>
+                 Robert Fowler, Senior Vice President</FONT></TD>
+</TR>
+</TABLE>
+
+<P ALIGN=CENTER><FONT SIZE=3>--</FONT></P>
+<HR SIZE=3 NOSHADE>
+
+<PAGE>
+
+<HR SIZE=3 NOSHADE>
+                          <p align="center"><b><font size="4">Independent Auditor's Report</font></b></p>
+<blockquote>
+  <p>The Board of Trust Managers and Shareholders<br>
+  Church Loans &amp; Investments Trust<br>
+  Amarillo, Texas</p>
+  <p align="justify">We  have  audited  the  accompanying   balance  sheets  of  Church  Loans  &amp;
+Investments  Trust (a real  estate  investment  trust) as of March 31,  2003 and
+2002, and the related statements of income, shareholders' equity, and cash flows
+for the years then ended.  These financial  statements are the responsibility of
+the Trust's  management.  Our  responsibility  is to express an opinion on these
+financial statements based on our audits.</p>
+  <p align="justify">We conducted our audits in accordance with auditing standards generally accepted
+in the  United  States of  America.  Those  standards  require  that we plan and
+perform the audit to obtain  reasonable  assurance  about  whether the financial
+statements are free of material misstatement.  An audit includes examining, on a
+test basis,  evidence  supporting  the amounts and  disclosures in the financial
+statements.  An audit also includes assessing the accounting principles used and
+significant  estimates  made by  management,  as well as evaluating  the overall
+financial  statement  presentation.   We  believe  that  our  audits  provide  a
+reasonable basis for our opinion.</p>
+  <p align="justify">In our opinion,  the financial  statements  referred to above present fairly, in
+all material respects,  the financial position of Church Loans &amp; Investments
+Trust as of March 31, 2003 and 2002,  and the results of its  operations and its
+cash flows for the years then ended in  conformity  with  accounting  principles
+generally accepted in the United States of America. </p>
+
+<P><FONT SIZE=3><u>/s/ Clifton Gunderson LLP</u><BR><br>
+Amarillo, Texas<BR>
+May 5, 2003</FONT></P>
+
+</blockquote>
+
+<PRE>&nbsp;</PRE>
+<H1 ALIGN=CENTER><FONT SIZE=3>-16-</FONT></H1>
+<HR SIZE=3 NOSHADE>
+
+<PAGE>
+
+<H4 ALIGN=CENTER>CHURCH LOANS &amp; INVESTMENTS TRUST<br>
+(A Real Estate Investment Trust)<br>
+Balance Sheets<br>
+March 31, 2003 and 2002</H4>
+
+<PRE>                                                       ASSETS
+                                                                       2003                2002
+                                                                 ----------------   -----------------
+CASH AND CASH EQUIVALENTS                                        $        273,432   $         134,889
+
+RECEIVABLES
+     Mortgage loans and church bonds - performing                      35,689,239          30,507,636
+     Interim construction loans - performing                           15,672,768          15,317,011
+     Nonperforming mortgage loans, church bonds
+         and interim construction loans                                 2,834,574           1,151,907
+     Less: Allowance for credit losses                                 (1,733,249)         (1,748,172)
+                                                                 ----------------   -----------------
+                                                                       52,463,332          45,228,382
+     Accrued interest receivable                                          445,778             580,139
+     Notes receivable                                                     302,719             695,361
+                                                                 ----------------   -----------------
+                  Net receivables                                      53,211,829          46,503,882
+                                                                 ----------------   -----------------
+PROPERTY AND EQUIPMENT, net of accumulated
+     depreciation of $528,568 and $523,411 in 2003
+     and 2002, respectively                                               129,774             134,931
+OTHER REAL ESTATE OWNED                                                 1,433,087           1,256,298
+OTHER ASSETS                                                               58,275              30,716
+                                                                 ----------------   -----------------
+TOTAL ASSETS                                                     $     55,106,397   $      48,060,716
+                                                                 ================   =================
+
+                                       LIABILITIES AND SHAREHOLDERS' EQUITY
+
+LIABILITIES
+     Notes payable and line of credit:
+         Related parties                                         $      2,236,993   $       3,616,397
+         Other                                                         30,133,721          22,238,158
+                                                                 ----------------   -----------------
+                                                                       32,370,714          25,854,555
+     Accrued interest payable                                             135,235              43,784
+     Federal income tax payable                                                -               73,810
+     Other                                                              1,160,660             962,095
+                                                                 ----------------   -----------------
+                  Total liabilities                                    33,666,609          26,934,244
+                                                                 ----------------   -----------------
+SHAREHOLDERS' EQUITY
+     Shares of beneficial interest, no par value; authorized
+         shares unlimited, 7,007,402 shares issued                     20,623,866          20,623,866
+     Undistributed net income                                             832,412             519,096
+     Treasury shares, at cost (6,596 shares)                              (16,490)            (16,490)
+                                                                 ----------------   -----------------
+                  Total shareholders' equity                           21,439,788          21,126,472
+                                                                 ----------------   -----------------
+TOTAL LIABILITIES AND SHAREHOLDERS' EQUITY                       $     55,106,397   $      48,060,716
+                                                                 ================   =================
+
+These financial statements should be read only in connection with the accompanying
+                   summary of significant accounting policies
+                       and notes to financial statements.
+
+</PRE>
+<H1 ALIGN=CENTER><FONT SIZE=3>-17-</FONT></H1>
+<HR SIZE=3 NOSHADE>
+<PAGE>
+
+<H4 ALIGN=CENTER>CHURCH LOANS &amp; INVESTMENTS TRUST<br>
+(A Real Estate Investment Trust)<br>
+Statements of Income<br>
+Years ended March 31, 2003 and 2002</H4>
+
+<PRE>                                                                        2003              2002
+                                                                ----------------   -----------------
+INTEREST INCOME AND FEES ON RECEIVABLES                         $      4,902,182   $       5,291,814
+DEBT EXPENSE
+     Interest                                                            974,600             989,219
+                                                                ----------------   -----------------
+                  Net interest income                                  3,927,582           4,302,595
+
+PROVISION FOR CREDIT LOSSES                                                   -              180,000
+                                                                ----------------   -----------------
+                  Net interest income less provision
+                      for possible credit losses                       3,927,582           4,122,595
+                                                                ----------------   -----------------
+OTHER INCOME, including gains on sale of other
+     real estate owned of $9,320 in 2003                                  86,145              32,203
+
+OTHER OPERATING EXPENSES
+     General and administrative                                          771,378             733,957
+     Board of Trust Managers' fees                                        58,782              51,555
+                                                                ----------------   -----------------
+                  Total other operating expenses                         830,160             785,512
+                                                                ----------------   -----------------
+                  Income before provision for income taxes             3,183,567           3,369,286
+
+PROVISION FOR INCOME TAXES                                                69,928              87,491
+                                                                ----------------   -----------------
+NET INCOME                                                      $      3,113,639   $       3,281,795
+                                                                =================  =================
+NET INCOME PER SHARE                                                    $ .44               $ .47
+                                                                        =====               =====
+
+These financial statements should be read only in connection with the accompanying
+                   summary of significant accounting policies
+                       and notes to financial statements.
+
+</PRE>
+<H1 ALIGN=CENTER><FONT SIZE=3>-18-</FONT></H1>
+<HR SIZE=3 NOSHADE>
+<PAGE>
+
+<H4 ALIGN=CENTER>CHURCH LOANS &amp; INVESTMENTS TRUST<br>
+(A Real Estate Investment Trust)<br>
+Statements of Shareholders' Equity<br>
+Years ended March 31, 2003 and 2002</H4>
+
+<PRE>                                     Shares of beneficial interest
+                                     -----------------------------    Undistributed      Treasury
+                                         Shares          Amount         net income        shares          Total
+                                     ------------    -------------    -------------    ----------    --------------
+Balance, March 31, 2001                 7,007,402    $  20,623,866     $    457,671    $  (16,490)   $   21,065,047
+    Net income                                 -                -         3,281,795            -          3,281,795
+    Cash dividends ($.46 per share)            -                -        (3,220,370)           -         (3,220,370)
+                                     ------------    -------------    -------------    ----------    --------------
+Balance, March 31, 2002                 7,007,402       20,623,866          519,096       (16,490)       21,126,472
+
+    Net income                                 -                -         3,113,639            -          3,113,639
+    Cash dividends ($.40 per share)            -                -        (2,800,323)           -         (2,800,323)
+                                     ------------    -------------    -------------    ----------    --------------
+Balance, March 31, 2003                 7,007,402    $  20,623,866     $    832,412    $  (16,490)   $   21,439,788
+                                     ============    =============    =============    ==========    ==============
+
+These financial statements should be read only in connection with the accompanying
+                   summary of significant accounting policies
+                       and notes to financial statements.
+
+</PRE>
+<H1 ALIGN=CENTER><FONT SIZE=3>-19-</FONT></H1>
+<HR SIZE=3 NOSHADE>
+<PAGE>
+
+<H4 ALIGN=CENTER>CHURCH LOANS &amp; INVESTMENTS TRUST<br>
+(A Real Estate Investment Trust)<br>
+Statements of Cash Flows<br>
+Years ended March 31, 2003 and 2002</H4>
+
+<PRE>                                                                        2003              2002
+                                                                  --------------   ---------------
+CASH FLOWS FROM OPERATING ACTIVITIES
+    Net income                                                    $    3,113,639   $     3,281,795
+    Adjustments to reconcile net income to net cash
+       provided by operating activities:
+          Depreciation                                                     5,157            15,672
+          Amortization of loan discounts                                 (40,528)         (264,694)
+          Provision for credit losses                                         -            180,000
+          Gain on sale of other real estate owned                         (9,320)               -
+          Changes in:
+              Accrued interest receivable                                134,361          (147,063)
+              Accrued interest payable                                    91,451          (103,014)
+              Federal income tax payable                                 (73,810)           73,810
+              Other liabilities                                          198,565           230,123
+          Other, net                                                     (27,559)          (23,298)
+                                                                  --------------   ---------------
+                  Net cash provided by operating activities            3,391,956         3,243,331
+                                                                  --------------   ---------------
+CASH FLOWS FROM INVESTING ACTIVITIES
+    Investment in mortgage and interim construction
+       loans and church bonds                                        (25,465,901)      (32,691,886)
+    Payments received on mortgage and interim construction
+       loans and church bonds                                         17,755,086        27,454,632
+    Advances on notes receivable                                        (254,408)         (511,502)
+    Payments received on notes receivable                                647,050           568,788
+    Proceeds from sale of other real estate owned                        378,627                -
+    Additional investment in other real estate owned                     (29,703)               -
+                                                                  --------------   ---------------
+                  Net cash used by investing activities               (6,969,249)       (5,179,968)
+                                                                  --------------   ---------------
+CASH FLOWS FROM FINANCING ACTIVITIES
+    Borrowings on notes payable and line of credit                    32,392,568        31,265,173
+    Payments on notes payable and line of credit                     (25,876,409)      (26,086,419)
+    Cash dividends paid                                               (2,800,323)       (3,220,370)
+                                                                  --------------   ---------------
+                  Net cash provided by financing activities            3,715,836         1,958,384
+                                                                  --------------   ---------------
+                  Increase in cash and cash equivalents                  138,543            21,747
+CASH AND CASH EQUIVALENTS, BEGINNING OF YEAR                             134,889           113,142
+                                                                  --------------   ---------------
+CASH AND CASH EQUIVALENTS, END OF YEAR                            $      273,432   $       134,889
+                                                                  ==============   ===============
+
+These financial statements should be read only in connection with the accompanying
+                   summary of significant accounting policies
+                       and notes to financial statements.
+
+</PRE>
+
+<H1 ALIGN=CENTER><FONT SIZE=3>-20-</FONT></H1>
+<HR SIZE=3 NOSHADE>
+<PAGE>
+
+<H4 ALIGN=CENTER>CHURCH LOANS &amp; INVESTMENTS TRUST<br>
+(A Real Estate Investment Trust)<br>
+Summary of Significant Accounting Policies<br>
+March 31, 2003 and 2002</H4>
+
+<H4>NATURE OF OPERATIONS</H4>
+
+<p align="justify">Church Loans &amp;  Investments Trust (Church Loans) is a real estate investment
+trust that  invests  primarily  in mortgage  and interim  construction  loans to
+churches and other borrowers (see note 1) across the United States, particularly
+in the southern  portion of the United  States.  Church Loans requires that real
+estate properties be pledged against loans as security which could be foreclosed
+by Church  Loans  should the  borrower  default.  Repayment  of each  borrower's
+obligations is generally  expected to be repaid from  contributions  from church
+members  or  from  operations  of  the  borrower,  or in  the  case  of  interim
+construction loans, by permanent financing provided by Church Loans or others.</p>
+<h4>USE OF ESTIMATES</h4>
+<p align="justify">The preparation of financial statements in conformity with
+generally accepted accounting principles requires management to make estimates
+and assumptions that affect the reported amounts of assets and liabilities and
+disclosure of contingent assets and liabilities at the date of the financial
+statements and the reported amounts of revenues and expenses during the
+reporting period. Actual results could differ from those estimates.</p>
+<h4>CURRENT OPERATING ENVIRONMENT</h4>
+<p align="justify">Church Loans has historically invested in long-term,
+fixed-rate mortgage loans, generally funded by relatively short-term debt
+obligations. The volatility of interest rates and increased competition to
+attract customers' funds have caused Church Loans' liability structure to become
+short-term and rate sensitive. Church Loans reflected an average interest yield
+on its loan and church bond portfolio, an average interest rate on its total
+indebtedness and a net interest rate margin at March 31, 2003 and 2002 as
+follows: </p>
+<PRE>                    Loan and church         Total         Net interest
+                    bond portfolio      indebtedness       rate margin
+                    ---------------     ------------      ------------
+March 31, 2003           7.80%              3.25%             4.55%
+March 31, 2002           9.14%              3.75%             5.39%
+
+</PRE>
+
+<p align="justify">Church Loans finances maturities of debt obligations through its available lines
+of  credit  and  principal   payments  received  on  its  mortgage  and  interim
+construction loans.</p>
+<h4>CHURCH BONDS</h4>
+<p align="justify">Church bonds,  secured by first mortgage liens on church facilities,  are stated
+at cost,  as there is no traded market for the bonds and  management  intends to
+hold such securities until maturity. </p>
+
+<H1 ALIGN=CENTER><FONT SIZE=3>-21-</FONT></H1>
+<HR SIZE=3 NOSHADE>
+<PAGE>
+
+<H4 ALIGN=CENTER>CHURCH LOANS &amp; INVESTMENTS TRUST<br>
+(A Real Estate Investment Trust)<br>
+Summary of Significant Accounting Policies<br>
+March 31, 2003 and 2002</H4>
+
+<h4>LOANS</h4>
+<p align="justify">Loans that Church  Loans has the intent and ability to hold for the  foreseeable
+future or until maturity or pay-off  generally are reported at their outstanding
+unpaid principal  balances  adjusted for  charge-offs,  the allowance for credit
+losses,  and any deferred fees or costs on originated loans.  Interest income is
+accrued on the unpaid principal  balance.  Loan origination fees, net of certain
+direct  origination  costs,  are deferred and recognized as an adjustment of the
+related loan yield.</p>
+<p align="justify">The accrual of interest is generally discontinued on loans and church bonds more
+than 60 days past due  unless  the  credit is well  secured  and in  process  of
+collection.  In  all  cases,  loans  and  bonds  are  placed  on nonaccrual  or
+charged-off  at an earlier  date if  collection  of  principal  or  interest  is
+considered doubtful.</p>
+<p align="justify">All interest  accrued but not  collected for loans that are placed on nonaccrual
+or charged-off is reversed against interest income.  The interest on these loans
+is accounted for on the cash-basis or cost-recovery method, until qualifying for
+return to accrual.  Loans are returned to accrual  status when all the principal
+and interest amounts  contractually  due are brought current and future payments
+are reasonably assured.</p>
+<p align="justify">Commitment fees received on interim  construction  loans are recognized over the
+interim commitment period for loans that are not permanently  financed by Church
+Loans  and over the life of the  mortgage  loan for loans  that are  permanently
+financed by Church Loans.  Amounts are being amortized  using the  straight-line
+method.  This method was not  materially  different from the method of deferring
+commitment fees until the commitment is exercised and  recognizing  such fees as
+an adjustment to yield by the interest  method over the related  loans' lives as
+prescribed by generally accepted accounting principles for the years ended March
+31, 2003 and 2002.</p>
+<p>Purchase discounts on loans are amortized based on the interest method.</p>
+<h4>ALLOWANCE FOR CREDIT LOSSES</h4>
+<p align="justify">The allowance for credit losses is  established  as losses are estimated to have
+occurred through a provision for credit losses charged to earnings.  Loan losses
+are   charged   against  the   allowance   when  Church   Loans   believes   the uncollectibility of a loan balance is confirmed.  Subsequent recoveries, if any,
+are credited to the allowance.</p>
+<p align="justify">The  allowance for credit losses is evaluated on a regular basis by Church Loans
+and is based upon management's and the board of trust managers'  periodic review
+of the collectibility of the loans in light of historical experience, the nature
+and  volume  of the loan  portfolio,  adverse  situations  that may  affect  the
+borrower's  ability to repay,  estimated value of any underlying  collateral and
+prevailing economic conditions.  This evaluation is inherently  subjective as it
+requires  estimates  that  are  susceptible  to  significant  revision  as  more
+information becomes available. </p>
+
+<H1 ALIGN=CENTER><FONT SIZE=3>-22-</FONT></H1>
+<HR SIZE=3 NOSHADE>
+<PAGE>
+
+<H4 ALIGN=CENTER>CHURCH LOANS &amp; INVESTMENTS TRUST<br>
+(A Real Estate Investment Trust)<br>
+Summary of Significant Accounting Policies<br>
+March 31, 2003 and 2002</H4>
+
+<h4>ALLOWANCE FOR CREDIT LOSSES (CONTINUED)</h4>
+<p align="justify">A loan is considered  impaired when, based on current information and events, it
+is probable that Church Loans will be unable to collect the  scheduled  payments
+of principal or interest when due according to the contractual terms of the loan
+agreement.  Factors considered by Church Loans in determining impairment include
+payment status,  collateral  value, and the probability of collecting  scheduled
+principal and interest  payments when due. Loans that  experience  insignificant
+payment delays and payment shortfalls generally are not classified as impaired.</p>
+<p align="justify">Church  Loans   determines  the  significance  of  payment  delays  and  payment
+shortfalls  on a  case-by-case  basis,  taking  into  consideration  all  of the
+circumstances surrounding the loan and the borrower, including the length of the
+delay, the reasons for the delay,  the borrower's prior payment record,  and the
+amount  of the  shortfall  in  relation  to the  principal  and  interest  owed.
+Impairment  is measured on a  loan-by-loan  basis by either the present value of
+expected future cash flows discounted at the loan's effective interest rate, the
+loan's  obtainable market price, or the fair value of the collateral if the loan
+is collateral dependent.</p>
+<h4>PROPERTY AND EQUIPMENT</h4>
+<p align="justify">Property  and  equipment  are  stated at cost,  less  accumulated  depreciation.
+Depreciation is provided on the  straight-line  method over the estimated useful
+lives of the assets.</p>
+<h4>OTHER REAL ESTATE OWNED</h4>
+<p align="justify">Real estate acquired through,  or in lieu of, loan foreclosure is to be sold and
+is  initially   recorded  at  estimated  fair  value  at  date  of  foreclosure,
+establishing a new cost basis. Other real estate owned,  after  foreclosure,  is
+carried at the lower of carrying  amount or the property's  estimated fair value
+minus  estimated costs to sell (fair value).  Impairment  losses are measured as
+the amount by which the  carrying  amount of a property  exceeds its fair value,
+and losses are charged to operations.</p>
+<h4>INCOME TAXES</h4>
+<p align="justify">Deferred  tax  assets  and   liabilities  are  recognized  for  the  future  tax
+consequences   attributable  to  differences  between  the  financial  statement
+carrying  amounts of existing assets and  liabilities  and their  respective tax
+bases.  Deferred tax assets and liabilities are measured using enacted tax rates
+expected  to apply to  taxable  income  in the  years in which  those  temporary
+differences are expected to be recovered or settled.  The effect on deferred tax
+assets and  liabilities  of a change in tax rates is recognized in income in the
+period that includes the enactment date. </p>
+
+<H1 ALIGN=CENTER><FONT SIZE=3>-23-</FONT></H1>
+<HR SIZE=3 NOSHADE>
+<PAGE>
+
+<H4 ALIGN=CENTER>CHURCH LOANS &amp; INVESTMENTS TRUST<br>
+(A Real Estate Investment Trust)<br>
+Summary of Significant Accounting Policies<br>
+March 31, 2003 and 2002</H4>
+
+<h4>OFF-BALANCE-SHEET FINANCIAL INSTRUMENTS</h4>
+<p align="justify">In  the   ordinary   course  of   business,   Church   Loans  has  entered  into
+off-balance-sheet  financial  instruments  consisting of  commitments  to extend
+credit. Such financial instruments are recorded in the financial statements when
+they become payable.</p>
+<h4>CASH FLOWS</h4>
+<p align="justify">For  purposes  of  reporting  cash  flows,  cash  and cash  equivalents  include
+cash-on-hand  investments  in a money  market  mutual fund and  certificates  of
+deposit with maturities of less than 90 days at the time of acquisition. </p>
+
+<P  ALIGN=CENTER>This  information  is an  integral  part  of  the  accompanying
+financial statements.</P>
+
+<H1 ALIGN=CENTER><FONT SIZE=3>-24-</FONT></H1>
+<HR SIZE=3 NOSHADE>
+<PAGE>
+
+<H4 ALIGN=CENTER>CHURCH LOANS &amp; INVESTMENTS TRUST<br>
+(A Real Estate Investment Trust)<br>
+NOTES TO FINANCIAL STATEMENTS<br>
+March 31, 2003 and 2002</H4>
+
+<H4>NOTE 1 - LOANS AND CHURCH BONDS</H4>
+
+<p align="justify">Mortgage loans  receivable  consist of  conventional  loans of  $38,434,079  and
+$30,640,302  and church  bonds of  $621,132  and  $751,809 at March 31, 2003 and
+2002, respectively. Interim construction loans of $15,717,226 and $15,760,519 at
+March 31, 2003 and 2002,  respectively,  consist  primarily of loans to churches
+for the construction of church facilities and assisted living centers.  Mortgage
+loans,  church bonds and interim  construction  loans are  generally  secured by
+first liens on real estate  comprised  primarily of church  buildings  and other
+real  estate.  The  amount of a loan is  generally  limited  to  66-2/3%  of the
+appraised  value of the  related  property.  Certain  loans  are  guaranteed  by
+individual  members of the  congregations or other individuals or congregations,
+depending on the circumstances.</p>
+<p align="justify">Church  Loans'  portfolio  included  mortgage  loans,  church  bonds and interim
+construction  loans with interest rates ranging from 4.75% to 12.0% at March 31,
+2003.  The weighted  average  annual  interest  rates of Church  Loans' loan and
+church  bond  portfolio  were  7.80%  and  9.14% at  March  31,  2003 and  2002,
+respectively.</p>
+<p align="justify">In addition to a concentration of loans to churches,  Church Loans makes certain
+interim real estate  construction  loans and permanent  loans to entities  other
+than  churches.  At March 31, 2003 and 2002,  Church Loans had five loans to two
+borrowers   which  were   secured  by  assisted   living   centers  and  totaled
+approximately $7,961,000 and $8,042,000, respectively.</p>
+<p align="justify">The following schedule is a summary of the combined  mortgage,  church bonds and
+interim construction loan portfolios by size of loan at March 31, 2003 and 2002:
+</p>
+
+<PRE>                                                  2003                         2002
+                                       --------------------------    -------------------------
+                                       No. of          Carrying      No. of        Carrying
+      Description                       loans           amount        loans         amount
+- --------------------                   ------       -------------    ------     --------------
+Over $1,500,000                           9         $  25,430,512       8       $   21,153,925
+$1,300,000-1,499,999                      3             4,283,969       -                   -
+$1,000,000-1,299,999                      5             5,568,314       6            6,641,465
+$900,000-999,999                          1               980,629       -                   -
+$800,000-899,999                          -                    -        1              830,000
+$700,000-799,999                          4             2,895,489       1              731,358
+$600,000-699,999                          2             1,241,913       4            2,508,509
+$500,000-599,999                          7             3,804,691       5            2,666,948
+$400,000-499,999                          5             2,178,238       6            2,690,649
+$300,000-399,999                          6             2,075,793       6            2,121,277
+$200,000-299,999                         16             3,899,741      18            4,598,901
+$100,000-199,999                         11             1,611,154      14            2,041,367
+Under $100,000                           18               801,994      27            1,168,231
+                                       ------       -------------   ------      --------------
+                                         87            54,772,437      96           47,152,630
+                                       ------                       ------
+Less:  unamortized purchase discounts
+        on mortgage loans                                (575,856)                    (176,076)
+Less:  allowance for credit losses                     (1,733,249)                  (1,748,172)
+                                                    -------------               --------------
+Total                                               $  52,463,332               $   45,228,382
+                                                    =============               ==============
+
+</PRE>
+
+<H1 ALIGN=CENTER><FONT SIZE=3>-25-</FONT></H1>
+<HR SIZE=3 NOSHADE>
+<PAGE>
+
+<H4 ALIGN=CENTER>CHURCH LOANS &amp; INVESTMENTS TRUST<br>
+(A Real Estate Investment Trust)<br>
+NOTES TO FINANCIAL STATEMENTS<br>
+March 31, 2003 and 2002</H4>
+
+<H4>NOTE 1 - LOANS AND CHURCH BONDS (CONTINUED)</H4>
+
+<PRE>
+The mortgage and interim  construction  loan  portfolios  included the following
+loans at March 31, 2003, with  individual  balances in excess of 3% of the total
+carrying amount of the combined portfolios:
+
+Faith Bible Church, Arvada, Colorado; interest at prime plus 1%, with
+    a floor of 7.75% (7.75% at March 31, 2003); principal and interest
+    due at maturity on January 1, 2004                                      $      7,700,000
+
+Great Plains Assisted Living L.L.C., Omaha, Nebraska; interest at
+    prime plus .5%, with a floor of 10.0% (10.0% at March 31, 2003);
+    monthly payments of $31,130 to maturity on January 1, 2026                     3,346,991 (a)
+
+Great Plains Assisted Living L.L.C., Sioux City, Iowa; interest at
+    prime plus .5%, with a floor of 10.0% (10.0% at March 31, 2003);
+    monthly payments of $27,450 to maturity on January 1, 2026                     2,954,017 (a)
+
+Meade Ministries, Lake City, Florida; interest at prime plus 2%,
+    with a floor of 6.25% (6.25% at March 31, 2003); monthly
+    payments of $29,000 to maturity on March 1, 2012                               2,378,149
+
+West Freeway Church of Christ, Fort Worth, Texas; interest at prime
+    plus 2%, with a floor of 6.75% (6.75% at March 31, 2003); monthly
+    payments of $17,493 to maturity on November 1, 2022                            2,282,165
+
+Center of Praise Ministries, Sacramento California; interest at
+    prime plus 2%, with a floor of 6.25% (6.25% at March 31, 2003);
+    principal and interest due at maturity on January 1, 2004                      2,100,000
+
+Longley Baptist Church, Little Rock Arkansas; interest at prime plus
+    2%, with a floor of 7.50% (7.50% at March 31, 2003); principal and
+    interest due at maturity on November 1, 2002                                   1,633,018
+                                                                            ----------------
+                                                                            $     22,394,340
+                                                                            ================
+(a)  Same borrower - Great Plains Assisted Living L.L.C.
+
+</PRE>
+<H1 ALIGN=CENTER><FONT SIZE=3>-26-</FONT></H1>
+<HR SIZE=3 NOSHADE>
+<PAGE>
+
+<H4 ALIGN=CENTER>CHURCH LOANS &amp; INVESTMENTS TRUST<br>
+(A Real Estate Investment Trust)<br>
+NOTES TO FINANCIAL STATEMENTS<br>
+March 31, 2003 and 2002</H4>
+
+<H4>NOTE 1 - LOANS AND CHURCH BONDS (CONTINUED)</H4>
+
+<p align="justify">The  original  terms of the  individual  loans  included  in the loan  portfolio
+generally vary from 1 to 30 years.  Scheduled  maturities  during the five years
+subsequent to March 31, 2003, are: </p>
+
+<PRE>              2004              17,512,433
+              2005               2,140,143
+              2006               2,222,424
+              2007               2,296,326
+              2008               2,404,738
+</PRE>
+
+At March 31, 2003,  mortgage  loans of  $22,258,871  were pledged to support the
+indebtedness of Church Loans.<p>A summary of transactions in the allowance for credit losses for the years ended
+March 31, 2003 and 2002 follows: </p>
+
+<PRE>                                                       2003              2002
+                                                --------------   ---------------
+Balance at beginning of year                    $    1,748,172   $     1,568,172
+
+Charge-offs                                            (14,923)              -
+Provisions charged to operating expenses                    -            180,000
+                                                --------------   ---------------
+Balance at end of year                          $    1,733,249    $    1,748,172
+                                                ==============   ===============
+
+</PRE>
+
+<p align="justify">At March  31,  2003 and  2002,  the  recorded  investment  for  loans  for which
+impairment was recognized in accordance with Statement No. 114 was approximately
+$2,835,000  and  $1,152,000,  respectively.  There was no related  allowance for
+credit  losses at March 31, 2003 and 2002.  The average  investment  in impaired
+loans was approximately  $1,993,000 and $3,404,000 for the years ended March 31,
+2003 and 2002,  respectively.  Interest  income  which would have been  recorded
+under  the  original  terms of  impaired  loans and  church  bonds  amounted  to
+approximately $200,000 and $126,000 for the years ended March 31, 2003 and 2002,
+respectively.  Interest income actually recognized for the years ended March 31,
+2003 and 2002 was approximately $14,000 and $109,000, respectively. </p>
+
+<H1 ALIGN=CENTER><FONT SIZE=3>-27-</FONT></H1>
+<HR SIZE=3 NOSHADE>
+<PAGE>
+
+<H4 ALIGN=CENTER>CHURCH LOANS &amp; INVESTMENTS TRUST<br>
+(A Real Estate Investment Trust)<br>
+NOTES TO FINANCIAL STATEMENTS<br>
+March 31, 2003 and 2002</H4>
+
+<H4>NOTE 2 - DEBT OBLIGATIONS</H4>
+
+<P>Information relating to debt obligations follows:</P>
+
+<PRE>                                                         Weighted          Maximum                       Weighted
+                                                          average          amount            Average      average
+                                      Balance at     interest rate at  outstanding at       month-end  interest rate
+                                     end of period     end of period    any month-end        balance  for the period
+                                     -------------     -------------    -------------        -------  --------------
+     March 31, 2003
+     --------------
+Line of credit payable to bank       $  18,922,000        3.25%*        $ 18,922,000     $ 13,628,154       3.56%
+Other demand notes payable              13,448,714        3.25%           14,470,406       13,442,439       3.61%
+                                     -------------        -----         -------------    ------------       -----
+TOTAL                                $  32,370,714        3.25%         $ 33,392,406     $ 27,070,593       3.58%
+                                     =============        ====          ============     ============       ====
+     March 31, 2002
+     --------------
+
+Line of credit payable to bank       $  10,660,000        3.75%*        $ 10,660,000     $  4,758,077       4.99%
+Other demand notes payable              15,194,555        3.75%           15,680,620       14,367,049       5.16%
+                                     -------------        -----         -------------    ------------       -----
+TOTAL                                $  25,854,555        3.75%         $ 26,340,620     $ 19,125,126       5.12%
+                                     =============        ====          ============     ============       ====
+
+* Does not consider commitment fees.
+
+</PRE>
+
+<p align="justify">Debt  obligations of  $32,370,714  mature during the year ending March 31, 2004,
+including other demand notes payable of $13,448,714.</p>
+<p align="justify">All debt obligations,  except for other demand notes payable, are secured by the
+pledge of specific mortgage notes receivable.</p>
+<p align="justify">Maturities of debt obligations are financed through principal  payments received
+on loans,  advances on other  demand  notes  payable and advances on the line of
+credit which is expected to be renewed on an annual basis. </p>
+
+<H1 ALIGN=CENTER><FONT SIZE=3>-28-</FONT></H1>
+<HR SIZE=3 NOSHADE>
+<PAGE>
+
+<H4 ALIGN=CENTER>CHURCH LOANS &amp; INVESTMENTS TRUST<br>
+(A Real Estate Investment Trust)<br>
+NOTES TO FINANCIAL STATEMENTS<br>
+March 31, 2003 and 2002</H4>
+
+<H4>NOTE 2 - DEBT OBLIGATIONS (CONTINUED)</H4>
+
+Descriptions of the various categories of debt obligations follow:<h4>LINE OF CREDIT PAYABLE TO BANK</h4>
+<p align="justify">The line of credit payable to bank consists of borrowings under a loan agreement
+effective  through  December 30, 2003,  that provides for a $24,000,000  line of
+credit with certain commitment fees. The loan agreement requires Church Loans to
+pledge  mortgage  loans  receivable  having  unpaid  principal  balances with an
+aggregate  present  value,  discounted at 2% over the prime rate (6.25% at March
+31, 2003), of not less than 110% of all indebtedness owed to the bank.  Interest
+accrued at the prime rate less one percent on  $20,000,000  and prime less three
+quarters  of one  percent  on the  remaining  $4,000,000.  Interest  is  payable
+semiannually.</p>
+<p align="justify">Additionally,  the line of credit  requires  that Church  Loans' net worth be no
+less than  $18,000,000 and its total  indebtedness  shall not exceed 200% of its
+net worth. At March 31, 2003, Church Loans' total indebtedness was approximately
+$10,000,000 less than the maximum amount permitted under the agreement.</p>
+<p align="justify">As of April 14, 2003, Church Loans modified its agreement with the bank. The new
+agreement  increases the available  line of credit to  $35,000,000  and requires
+that Church Loans' total indebtedness not exceed 250% of its net worth.</p>
+<h4>Demand Notes Payable</h4>
+<p align="justify">The demand notes  payable bear  interest at 1% less than the prime rate (payable
+monthly) and are unsecured (see note 6).</p>
+<h4>NOTE 3 - INCOME TAX PROVISION</h4>
+<p align="justify">Church Loans has elected to be taxed as a real estate investment trust under the
+provisions of the Internal Revenue Code. To qualify as a real estate  investment
+trust under the Code, Church Loans must, among other things, distribute at least
+90% of its taxable income to its shareholders through dividends. Church Loans is
+required to pay  dividends  of at least 85% of its calendar  year  undistributed
+income by subsequent February 1 or be subject to a special federal excise tax of
+4% on the undistributed amount. </p>
+
+<H1 ALIGN=CENTER><FONT SIZE=3>-29-</FONT></H1>
+<HR SIZE=3 NOSHADE>
+<PAGE>
+
+<H4 ALIGN=CENTER>CHURCH LOANS &amp; INVESTMENTS TRUST<br>
+(A Real Estate Investment Trust)<br>
+NOTES TO FINANCIAL STATEMENTS<br>
+March 31, 2003 and 2002</H4>
+
+<H4>NOTE 3 - INCOME TAX PROVISION (CONTINUED)</H4>
+
+<p align="justify">Deferred  taxes were not  significant  to Church Loans' 2003 and 2002  financial
+statements.</p>
+
+<p align="justify">Total income tax  provision  for the years ended March 31, 2003 and 2002 is less
+than the amount computed by applying the applicable statutory federal income tax
+rate (35%) to income before provision for income taxes as follows: </p>
+
+<PRE>                                                            2003              2002
+                                                      --------------   ---------------
+Computed "expected" federal income tax provision      $    1,114,248   $     1,179,250
+Increases (decreases) in taxes resulting from:
+    Dividends                                               (955,610)       (1,176,135)
+    Graduated rate differential                               (7,860)           (6,108)
+    Difference in provision for credit losses for
+       financial and tax purposes                             (4,523)          164,500
+    Difference in accounting for interest
+       recognized for financial and tax purposes             (76,327)          (74,497)
+    Other                                                         -                481
+                                                      --------------   ---------------
+Actual provision for income taxes                     $       69,928   $        87,491
+                                                      ==============   ===============
+
+</PRE>
+
+<h4>NOTE 4 - NET INCOME PER SHARE</h4>
+<p align="justify">Net income per share of  beneficial  interest is based on the  weighted  average
+number of shares outstanding,  which was 7,000,806 for the years ended March 31,
+2003 and 2002.  There were no share  equivalents or other  potentially dilutive
+securities outstanding during any of the periods presented.</p>
+<h4>NOTE 5 - DIVIDENDS</h4>
+<p align="justify">All dividends paid by Church Loans are taxable to the  recipient.  A schedule of
+dividends paid during the years ended March 31, 2003 and 2002 follows: </p>
+
+<PRE>                                                     Dividend amount
+                                              ----------------------------
+    Date of record             Date paid      Per share              Total
+    --------------             ---------      ---------              -----
+
+March 31, 2001                  May 2001        .10              $     700,080
+December 31, 2001           January 2002        .36                  2,520,290
+March 31, 2002                  May 2002        .12                    840,097
+December 31, 2002           January 2003        .28                  1,960,226
+
+</PRE>
+
+In April  2003,  a dividend  of  $770,089  ($0.11 per  share) was  declared  for
+stockholders of record on March 31, 2003.
+
+<H1 ALIGN=CENTER><FONT SIZE=3>-30-</FONT></H1>
+<HR SIZE=3 NOSHADE>
+<PAGE>
+
+<H4 ALIGN=CENTER>CHURCH LOANS &amp; INVESTMENTS TRUST<br>
+(A Real Estate Investment Trust)<br>
+NOTES TO FINANCIAL STATEMENTS<br>
+March 31, 2003 and 2002</H4>
+
+<H4>NOTE 6 - RELATED PARTY TRANSACTIONS</H4>
+
+<p align="justify">Other demand notes  payable at March 31, 2003 and 2002 included  notes  totaling
+$2,236,993 and $3,616,397, respectively, which represent borrowings from related
+parties.  The  notes  bear  interest  at 1% less  than  the  prime  rate and are
+unsecured. Interest expense incurred on related party other demand notes payable
+was approximately $87,000 and $177,000 in 2003 and 2002, respectively.</p>
+<h4>NOTE 7 - CASH FLOW INFORMATION</h4>
+<p>Supplemental information on cash flows and noncash transactions is as follows:
+</p>
+
+<PRE>                                                                    2003              2002
+Supplemental cash flow information:                            --------------     -------------
+    Interest paid                                              $      883,149     $   1,092,233
+                                                               ==============     =============
+    Income taxes paid                                          $      161,774     $      12,945
+                                                               ==============     =============
+ Schedule of noncash investing and financing activity:
+    Real estate acquired through foreclosure                   $      516,393     $   1,256,298
+                                                               ==============     =============
+
+</PRE>
+
+<h4>NOTE 8 - COMMITMENTS AND CONTINGENCIES</h4>
+<p align="justify">Church Loans is a party to financial instruments with  off-balance-sheet risk in
+the normal course of business.  Commitments  to extend credit are  agreements to
+lend to a customer as long as there is no violation of any condition established
+in the contract.  Commitments  generally  have variable  interest  rates,  fixed
+expiration  dates or other  termination  clauses and  require  payment of a fee.
+Since some of the  commitments  may expire  without being drawn upon,  the total
+commitment amounts do not necessarily represent future cash requirements. Church
+Loans  evaluates each  customer's  credit  worthiness on a  case-by-case  basis.
+Collateral  generally  includes real estate  properties.  The exposure to credit
+loss in the event of  nonperformance  by the other party to the  commitments  to
+extend  credit is  represented  by the  contractual  amount.  At March 31, 2003,
+Church  Loans  had  outstanding  loan  commitments  (by  contract   amounts)  of
+approximately $8,300,000.  Management does not anticipate any losses as a result
+of these transactions.</p>
+<p align="justify">Church Loans is involved in  litigation in the normal course of business and, in
+the opinion of  management,  such  litigation  will have no  material  effect on
+Church Loans' financial statements. </p>
+
+<H1 ALIGN=CENTER><FONT SIZE=3>-31-</FONT></H1>
+<HR SIZE=3 NOSHADE>
+<PAGE>
+
+<H4 ALIGN=CENTER>CHURCH LOANS &amp; INVESTMENTS TRUST<br>
+(A Real Estate Investment Trust)<br>
+NOTES TO FINANCIAL STATEMENTS<br>
+March 31, 2003 and 2002</H4>
+
+<H4>NOTE 9 - DISCLOSURE ABOUT THE FAIR VALUE OF FINANCIAL INSTRUMENTS</H4>
+
+<p align="justify">The following  methods and  assumptions  were used to estimate the fair value of
+each class of financial  instruments,  the results of applying  such methods and
+assumptions to the financial  instruments and limitations inherent in fair value
+estimates:</p>
+<h4>Cash and Cash Equivalents</h4>
+<p>The assets are considered  short-term  instruments for which the carrying amount
+is a reasonable estimate of fair value.</p>
+<h4>Loans and Church Bonds</h4>
+<p align="justify">Fair  values  are  estimated  for  portfolios  of loans with  similar  financial
+characteristics.  Loans are  segregated  by type,  such as mortgage  and interim
+construction  loans and church bonds.  Each loan  category is further  segmented
+into  fixed  and  adjustable  rate  interest  terms.  For  variable-rate  loans,
+primarily  interim  construction  loans,  that reprice  frequently  and with no
+significant  change in credit risk,  fair values are based on carrying  amounts.
+The fair value of fixed-rate  mortgage loans and bonds is generally estimated by
+discounting  the future cash flows  through  the  estimated  maturity  using the
+current  rates at which  similar  loans would be made to borrowers  with similar
+credit  ratings.  The estimate of maturity is based on Church Loans'  historical
+experience with repayments for each loan classification,  modified, as required,
+by an estimate of the effect of current  economic  and lending  conditions.  The
+carrying  value of loans and bonds,  net of the  allowance for credit losses was
+$52,463,332  and  $45,228,382  and  the  fair  value  of  loans  and  bonds  was
+approximately   $57,060,000   and  $50,600,000  at  March  31,  2003  and  2002,
+respectively.</p>
+<h4>Notes Payable and Line of Credit</h4>
+<p>The fair value of notes payable and the line of credit are equal to the
+carrying value as such liabilities are deemed to be short-term borrowings. </p>
+<h4>Commitments to Extend Credit</h4>
+<p align="justify">Generally, Church Loans enters into commitments to extend
+credit at adjustable interest terms. Accordingly, the commitment amount is a
+reasonable estimate of fair value.</p>
+<h4>Other</h4>
+<p>The carrying amounts of notes receivable and accrued interest approximate
+fair value. </p>
+
+<H1 ALIGN=CENTER><FONT SIZE=3>-32-</FONT></H1>
+<HR SIZE=3 NOSHADE>
+<PAGE>
+
+<H4 ALIGN=CENTER>CHURCH LOANS &amp; INVESTMENTS TRUST<br>
+(A Real Estate Investment Trust)<br>
+NOTES TO FINANCIAL STATEMENTS<br>
+March 31, 2003 and 2002</H4>
+
+<H4>NOTE  9  -  DISCLOSURE  ABOUT  THE  FAIR  VALUE  OF  FINANCIAL   INSTRUMENTS
+(CONTINUED)</H4>
+
+<H4>Limitations</H4>
+
+<p align="justify">Fair value  estimates  are made at a specific  point in time,  based on relevant
+market  information  and  information  about  the  financial  instrument.  These
+estimates do not reflect any premium or discount that could result from offering
+for sale at one time Church  Loans'  entire  holdings of a particular  financial
+instrument.  Because no market exists for a significant portion of Church Loans'
+financial  instruments,  fair value  estimates are based on judgments  regarding
+future   expected   loss   experience,   current   economic   conditions,   risk
+characteristics  of various  financial  instruments,  and other  factors.  These
+estimates  are  subjective  in nature and involve  uncertainties  and matters of
+significant  judgment  and,  therefore,  cannot be  determined  with  precision.
+Changes in assumptions could significantly affect the estimates. </p>
+
+<H1 ALIGN=CENTER><FONT SIZE=3>-33-</FONT></H1>
+<HR SIZE=3 NOSHADE>
+<PAGE>
+</BODY>
+</HTML>
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

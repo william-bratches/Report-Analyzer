@@ -1,0 +1,2070 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ H9se8cLdIfZAkYUIwBbp+4CrlHQZX3GJ8ko6w/b8T+MKMu0ETNhvpWVpI2sSD/6/
+ 5KZ5ZUNiTlNi/qFUB9NuJA==
+
+<SEC-DOCUMENT>0000030985-97-000007.txt : 19970612
+<SEC-HEADER>0000030985-97-000007.hdr.sgml : 19970612
+ACCESSION NUMBER:		0000030985-97-000007
+CONFORMED SUBMISSION TYPE:	10KSB/A
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	19961231
+FILED AS OF DATE:		19970611
+SROS:			NASD
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			EARTH SCIENCES INC
+		CENTRAL INDEX KEY:			0000030985
+		STANDARD INDUSTRIAL CLASSIFICATION:	MINERAL ROYALTY TRADERS [6795]
+		IRS NUMBER:				840503749
+		STATE OF INCORPORATION:			CO
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10KSB/A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-06088
+		FILM NUMBER:		97622249
+
+	BUSINESS ADDRESS:	
+		STREET 1:		910 12TH ST
+		CITY:			GOLDEN
+		STATE:			CO
+		ZIP:			80401
+		BUSINESS PHONE:		3032797641
+
+	MAIL ADDRESS:	
+		STREET 1:		910 12TH STREET
+		CITY:			GOLDEN
+		STATE:			CO
+		ZIP:			80401
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	COLORADO CENTRAL MINES INC
+		DATE OF NAME CHANGE:	19731128
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>10KSB/A
+<SEQUENCE>1
+<TEXT>
+
+                     U.S. SECURITIES AND EXCHANGE COMMISSION
+                             Washington, D.C. 20549
+
+                                   FORM 10-KSB/A
+                    Amendment #1 to Items 1, 2, 6, 7, and 12
+
+
+                  ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d)
+                     OF THE SECURITIES EXCHANGE ACT OF 1934
+
+                   For the fiscal year ended December 31, 1996
+
+                         Commission File Number: 0-6088
+
+                              Earth Sciences, Inc.
+                  --------------------------------------------
+                 (Name of small business issuer in its charter)
+
+            Colorado                                   84-0503749
+     ----------------------                   -------------------------------
+    (State of incorporation)                 (IRS Employer Identification No.)
+
+                     910 12th Street, Golden, Colorado 80401
+           ----------------------------------------------------------
+          (Address of principal executive offices, including Zip Code)
+
+      (Registrant's telephone number, including area code): (303) 279-7641
+
+         Securities registered under Section 12(g) of the Exchange Act:
+                        Common Stock, one cent par value
+                        --------------------------------
+                                 Title of class
+
+Check  whether  the issuer  (1) has filed all  reports  required  to be filed by
+Section 13 or 15(d) of the  Exchange  Act during the past 12 months (or for such
+shorter period that the  registrant was required to file such reports),  and (2)
+has been subject to such filing  requirements  for the past 90 days.
+ [X] Yes [ ]No
+
+Check if there is no disclosure of delinquent  filers in response to Item 405 of
+Regulation S-B contained in this form, and no disclosure  will be contained,  to
+the  best  of  registrant's   knowledge,  in  definitive  proxy  or  information
+statements  incorporated  by  reference  in Part III of this Form  10-KSB or any
+amendment to this Form 10-KSB. [X]
+
+State issuer's revenues for its most recent fiscal year.  $ 798,000
+
+State the  aggregate  market  value of the voting  stock  held by  nonaffiliates
+computed by reference  to the price at which the stock was sold,  or the average
+bid and asked  prices of such stock,  as of a specified  date within the past 60
+days. As of March 21, 1997 was $21,125,000.
+
+Number of shares outstanding of registrant's Common Stock, one cent par value as
+of March 7, 1997 - 8,577,951.
+
+DOCUMENTS INCORPORATED BY REFERENCE
+The following  documents are  incorporated  by reference  into PART I, Item 2 of
+this  Form  10-KSB:  1974  through  1979,  1981,  1986  and 1988  Forms  10-K of
+Registrant
+
+Transitional Small Business Disclosure Format:  Yes       No   X
+                                                    -----    -----
+
+
+                                    
+<PAGE>
+
+                                     PART I
+
+Item 1.  Description of Business
+         (a) Business Development.
+Earth  Sciences,  Inc.  ("ESI" or  "Registrant",  which term includes its wholly
+owned  subsidiaries  unless  otherwise   indicated)  is  a  diversified  mineral
+exploration  and  development   company  with  planned  production  of  purified
+phosphate  products in Calgary.  ESI was incorporated under the name of Colorado
+Central  Mines,  Inc. in Colorado in 1957.  During 1996,  ESI (1) continued with
+activities  leading to production of purified  phosphate products at its solvent
+extraction   facility  in  Calgary,   Alberta,   Canada;   (2)  settled  certain
+indebtedness  with Alberta  Treasury and negotiated an option to settle the $9.4
+million  deferred revenue  liability both associated with the Calgary  facility;
+(3) continued  exploration  activities for gold resources in Venezuela including
+its land contract covering approximately 1200 acres; (4) aquired an interest and
+commenced  exploration  work on the Cerro  Gordo  gold/silver  property  in Inyo
+County,  California,  and (5) maintained its position in several mining deposits
+and prospects in the Western US including  its royalty  position in the San Luis
+gold mine which  completed  mining in October  1997 and  produced  approximately
+52,000  ounces  of gold in 1996.  Thus far in 1997,  ESI has  signed a letter of
+intent to acquire a majority equity interest in ADA Environmental Solutions LLC.
+These  activities are described in the  succeeding  paragraphs of this Item 1(a)
+and below in Item 1(b).
+
+ESI's solvent extraction  facility in Calgary,  Alberta,  recovered uranium from
+phosphoric  acid  during  the  period  from 1983  through  1987.  Uranium  oxide
+production was suspended in the fall of 1987 when the adjacent  fertilizer plant
+from which the  facility  received  its feed  stock  suspended  operations.  The
+contract  under  which  the  uranium  was  sold  was  modified  in 1990 to allow
+unrestricted  alternative use of the facility.  An in-house  feasibility  study,
+completed  in  1995,  confirmed  the  technical  and  financial  feasibility  of
+conversion of the facility for the  production of purified  phosphate  products.
+Revamp of the facility to allow such production is currently underway.  Start-up
+activities  are expected to commence in March 1997 with  product  expected to be
+available for sale in May 1997. There can be no assurances that the Company will
+be able to maintain the expected schedule.
+
+In November  1996,  ESI  reached  agreements  in  principal  with Yankee  Atomic
+Electric  Company and Vermont  Yankee  Nuclear  Power  Corporation  (the "Yankee
+Companies")  to  purchase a 270 day  option  for  $100,000  to  terminate  their
+deferred revenue position in the Calgary facility.  As of December 31, 1996, the
+consolidated   financial   statements  of  ESI  reported  Deferred  Revenues  of
+$9,382,000  which  represents  prepayments by the Yankee  Companies for uranium.
+Under the terms of the option, if exercised,  ESI would pay the Yankee Companies
+$1,150,000  and grant them a 10 year  non-cost  bearing net  profits  royalty on
+activities at the Calgary  facility.  Payments to the Yankee  Companies would be
+capped at a total of $6 million,  excluding the $100,000 option payment, and ESI
+could  purchase the royalty  interest for $3 million plus $50,000 per year after
+the  exercise  date to a total  of not  more  than  $3,250,000.  The  definitive
+document for this agreement was signed in January 1997.
+
+In December  1996,  ESI  reached a final  settlement  with the Alberta  Treasury
+("AT") concerning certain  indebtedness  related to the Calgary facility.  As of
+November 30, 1996,  ESI had recorded  principal  and accrued  interest  totaling
+$600,000  payable to AT. ESI obtained a complete  release from the  indebtedness
+and all claims against the Calgary facility by payment to AT of $76,000.
+
+In July 1996,  ESI  entered  into an  agreement  with  Martin  Trost  Associates
+("MTA"),  a  Colorado  joint  venture  which  will  allow it to earn up to an 80
+percent working interest in the Cerro Gordo property in Inyo County, California.
+The property  covers 80 patented and  unpatented  mining  claims.  The agreement
+provides  for ESI to arrange  financing  of up to $4.2  million to place the "H"
+area into production to earn an 80% working interest in the property. Evaluation
+of a 4 hole drilling  program  conducted in December is in progress to determine
+further action on the property. See Item 2(f) below.
+
+On November 15,  1996,  ESI received  notice from Battle  Mountain  Gold Comapny
+("BMGC")  that they had  completed  mining at the San Luis project at the end of
+October  and  that  reclamation  activities  were  continuing  with an  expected
+completion date toward the end of March, 1997.
+
+                                       1
+
+<PAGE>
+
+
+In  March  1997,  ESI  issued  $2,510,000  of  4%  convertible  debentures  (the
+"Debentures")  for which ESI received net proceeds of approximately  $2,309,000.
+Interest  is payable  quarterly.  The  Debentures  are  convertible  at any time
+following  45  days  after  the  issuance  thereof  and  are  all  automatically
+convertible on March 31, 1999. The  Debentures  are  convertible  into shares of
+common stock based on a 25%  discount  from the market price of the common stock
+at the time of conversion, but not in excess of $3.25 per share. ESI is required
+to  register  the shares  underlying  the  Debentures,  and may  repurchase  the
+Debentures at a 25% premium under certain circumstances.
+
+On February 18, 1997, ESI signed a Letter of Intent to acquire a majority equity
+position in ADA  Environmental  Solutions LLC through a combination of stock and
+cash. The closing of the  acquisition,  scheduled for April 30, 1997, is subject
+to a number  of  preconditions,  including  the  negotiation  and  execution  of
+definitive documentation.
+
+During 1996, through ESI's Venezuelan  company,  ESIGEO,  formed by ESI in joint
+venture with GEO C.A.  ("GEO"),  ESI continued gold  exploration and development
+activities in Venezuela.  ESI also owns 49% of another company,  Minera Antabari
+C.A.  ("Antabari"),  which received a contract on a 1200 acre site on the Guyana
+Shield in March 1992.  To date,  geologic  mapping,  geochemistry  of drainages,
+soils  and  old  workings,   and  detailed  trenching  and  pitting  of  several
+mineralized zones has been performed.  ESIGEO is discussing further  exploration
+work at this contract area with third parties.  Three other contracts were filed
+for in 1994 and refiled in 1995 with the Venezuelan Ministry of Energy and Mines
+("MEM").  ESIGEO is awaiting  response  from MEM on these  filings.  ESI reached
+agreement in 1996 with certain shareholders in GEO and Antabari to acquire their
+holdings in exchange for 20,000 shares of stock. When the transference of shares
+is completed in 1997, ESI will have a 67% ownership of GEO, and an effective 83%
+ownership  of  Antabari  and  ESIGEO.  Several  other  sites with  existing  MEM
+concessions  are being  evaluated,  and ESIGEO is  negotiating  with the current
+concession  holders to obtain  rights to further  explore  these areas.  In 1997
+ESIGEO  expects to conduct  surface  exploration on the  concessions,  currently
+filed for, when they are granted, and other areas, if any, obtained from ongoing
+negotiations.
+
+         (b) Business of Issuer.
+Registrant is a diversified  mineral  exploration and  development  company with
+planned production of purified  phosphate  products in Calgary.  Registrant owns
+the San Luis gold mine; a processing facility in Calgary,  Alberta, Canada which
+recovered  uranium oxide from  phosphoric  acid and for which the  production of
+purified phosphate  products is being pursued;  alunite properties which contain
+alumina,  sulfur and potash; other domestic properties containing gold, vanadium
+and phosphate;  and controls prospects  containing copper,  molybdenum,  silver,
+lead and zinc.
+
+Registrant  through its 49% ownership in Minera Antabari C.A.  ("Antabari")  and
+its 50%  ownership in Recursos  Minerales  ESIGEO C.A.  ("ESIGEO") is exploring,
+evaluating, acquiring and plans to develop gold resources in Venezuela.
+
+                               San Luis Gold Mine
+As a result of  transactions  in 1987, ESI (1) sold its working  interest in the
+San Luis gold mine to BMGC, (2) acquired the underlying property and (3) through
+a lease of the property to BMGC, has a 3 1/2% gross royalty on future production
+from the mine. Mining and milling activities were completed by BMGC in 1996.
+
+During 1996 approximately 52,400 ounces of gold and 28,000 ounces of silver were
+produced by BMGC from the  property,  as  compared to 72,700  ounces of gold and
+32,000 ounces of silver in 1995.  ESI  recognized  $692,000 in revenue from that
+production in 1996, as compared to $978,000 in 1995. ESI recognized cash flow of
+approximately $720,000 from its royalty interest in 1996. ESI does not expect to
+recognize  any  significant  royalty  revenue  from the San Luis mine in 1997 or
+thereafter.
+
+                       Calgary Solvent Extraction Facility
+In 1996, ESI continued  activities for production of purified phosphate products
+at the  facility.  The  planned  schedule  to restart  the  facility in Calgary,
+Alberta to  produce  purified  phosphoric  acid  (PPA) and  by-products  targets
+production commencing in May 1997 assuming the planned construction and start-up
+schedule can be  maintained.  Earth  Sciences  Extraction  Company  ("ESEC"),  a
+wholly-owned  Canadian limited partnership of ESI, intends to produce PPA at its
+solvent   extraction   facility  in  Calgary,   Alberta.   The  facility,   with
+modification,  is expected  to have the  capacity to produce in excess of 80,000
+tons of P2O5 per year in the form of PPA and recover other valuable constituents
+available in the feedstock.
+
+                                       2
+
+<PAGE>
+
+
+ESEC's Facility The phosphoric acid treatment  facility has been maintained on a
+standby basis since its uranium recovery  operations were suspended in 1987 when
+the  adjacent  fertilizer  plant,  which  had  supplied   feedstock,   suspended
+operations.  Certain  contractual  restraints and lower uranium prices have made
+the  stand-alone  recovery of uranium from other feedstock  sources  uneconomic.
+ESEC is  modifying  the  facility to purify  superphosphoric  acid  ("SPA") to a
+technical  grade PPA and  manufacture  by-products.  The SPA  feedstock is to be
+purchased  from  producers in Idaho and Florida for which supply  contracts with
+Agrium Inc. and Farmland Industries,  Inc. have been negotiated.  In the future,
+it is anticipated  that phosphate rock from an open pit deposit owned by ESI may
+be processed  under a tolling  arrangement to provide  feedstock for the Calgary
+plant. (See Item 2(a) below).
+
+Market for Purified Phosphoric Acid
+Phosphorus  in the form of purified  phosphoric  acid,  H3PO4 (PPA),  is a basic
+commercial  chemical  essential to a broad  variety of  industrial  and consumer
+applications.  PPA is an important inorganic acid used in foods, cola beverages,
+cleaning solutions, fertilizers, fire retardants and metal treatments, among 
+other uses. At  present  ESEC would  compete  with four  North  American  PPA
+producers in the 700,000 ton P2O5  industrial  market where 200,000 tons P2O5 of
+direct  consumption PPA is sold. ESEC would be the sole producer in Canada,  and
+would be the only  producer in western North  America.  ESEC's  targeted  market
+segments  include  those  where  growth  is 10% or  more  per  year,  where  the
+predominate   users  are  in  ESEC's  freight  advantage  area,  and  the  large
+Minneapolis/Chicago area market. In the first year of production ESEC expects to
+capture  approximately  5% of the North  American  PPA market by matching  other
+producers' quality but with lower prices. It is anticipated that cost advantages
+would be realized from the use of less expensive  purification  through  solvent
+extraction and lower freight costs. It is anticipated that by-products  would be
+sold in local markets, which ESEC believes are large enough to absorb the volume
+without being disrupted. All of the facility's production is being marketed 
+through an agreement with Twin-Kem International, Inc., a Colorado corporation 
+whose principals have over 60 years of combined experience in the marketing and 
+distribution of industrial and agricultural chemicals.  There can be no 
+assurances that actual sales recognized by ESEC will equal the anticipated 
+volumes.
+
+Solvent Extraction Process
+It is  anticipated  that the facility will produce PPA using an  environmentally
+clean solvent  extraction  process employing  tributyl phosphate with a kerosene
+diluent.  The basic process is well  established in the industry and believed by
+ESEC to be free of patent  conflicts.  The ESEC  process has been  verified  for
+anticipated  ESEC feedstocks by numerous  laboratory  bench tests and continuous
+recycle  pilot  plant  runs.  The  studies  show that a  competitive  PPA can be
+produced from any fertilizer  grade  phosphoric  acid feedstock with  extraction
+efficiencies  of 70 to 90%. The remaining  material will be sold in local market
+for its contained phosphate values. ESEC believes that no significant waste will
+be generated at the ESEC facility.
+
+Production Plan and Operating Costs
+ESEC  intends to start  production  in 1997 at the rate of 10,000  tons P2O5 per
+year of  technical  grade PPA,  carrying  54.4% P2O5,  or 18,400 tons of product
+acid.  Associated  with the PPA  will be the  production  of 2,800  tons of P2O5
+contained in other  material.  An 8% per year growth is  anticipated  in tonnage
+sales.
+
+Future Potential
+The upside potential of the ESEC facility in Calgary is substantial.  Management
+believes  relatively  minor changes would have to be made to increase the output
+from  10,000  tons to 80,000  tons P2O5 per year.  In  addition,  the  
+unextracted portion of the feed stock or raffinate contains a large number of 
+valuable elements in high  concentrations,  including uranium,  vanadium,  
+yttrium,  scandium and the rare earths.  The technology for recovery of these 
+elements is available. The plant has a good deal of additional equipment  
+including a second solvent extraction circuit that could possibly be utilized 
+for that purpose.  ESEC intends to pursue these recovery  opportunities in 
+earnest after the commencement of PPA production.
+
+                                    3
+<PAGE>
+
+                           Venezuelan Gold Activities
+ESI's Venezuelan joint venture with GEO commenced initial exploration activities
+in the fall of 1988.  No proven commercially viable reserves have been 
+discovered on the properties discussed.
+
+In order to facilitate the  development of the Company's  various  expected land
+concessions in Venezuela,  the Venezuelan corporate structure was reorganized in
+1994 by  forming  a  holding  company  called  Recursos  Minerales  ESIGEO  C.A.
+("ESIGEO") that is controlled  equally by ESI and its Venezuelan  partners,  GEO
+C.A. ("GEO").  It is anticipated that each new land concession will be placed in
+a separate entity, owned and controlled by ESIGEO. ESI reached agreement in 1996
+with  certain  shareholders  in GEO and  Antabari to acquire  their  holdings in
+exchange  for  20,000  shares  of  stock.  When the  transference  of  shares is
+completed in 1997,  ESI will have a 67%  ownership of GEO, and an effective  83%
+ownership of Antabari and ESIGEO.  The joint company will continue in the manner
+in which ESI has conducted  exploration for thirty years.  That is to define and
+acquire land positions in key areas that have a high probability of being within
+the heart of future  mining  districts.  After  minimal  work to define  mineral
+potential,  these  prospects are then sold to major mining  companies for a cash
+payment and a royalty on future  production.  To facilitate this approach,  each
+land  concession is to be held in a separate  company,  wholly-owned  by ESIGEO,
+which can be sold without  additional  regulatory  review and delay. The goal of
+ESIGEO in Venezuela is to enter into  several  such  agreements  with major gold
+producers within the next several years.
+
+The decree which empowered the Corporacion Venezolana de Guyana ("CVG") to issue
+land  contracts in the Guyana  Shield has been  determined  to be illegal by the
+Venezuelan courts. The Ministry of Energy and Mines ("MEM") is expected to issue
+concessions  to  replace  the  over 450  existing  CVG  contracts  after a study
+commissioned  to evaluate the existing  contracts'  status is complete and final
+legislative  action  annuls the rights  granted CVG.  The SAMI land  contract is
+included in this category and it is  anticipated  that its terms will improve as
+the new concession terms will be more favorable.  The three applications for new
+land  contracts  discussed  below are included with some 300 other  unacted-upon
+requests  that have  accumulated  with CVG since  March  1994,  when CVG stopped
+signing contracts.  New applications to MEM have been made for these three areas
+and assurances have been obtained that they will receive  priority when they are
+ultimately  considered.  Due to political  complexities of coordinating land use
+between MEM and  designated  regions and states,  it is uncertain when these new
+applications will be acted upon.
+
+SAMI Area Contract
+In 1991,  ESI and GEO formed  Antabari,  a Venezuelan  company of which ESI owns
+49%. In November  1991,  Antabari filed for a contract with CVG for 488 hectares
+to be explored and exploited for gold. The area,  called SAMI for San Miguel, is
+located  southeast of the town of Upata,  Bolivar  state,  Venezuela in the open
+country of the savannas,  and is readily  accessible from established roads. The
+contract,  which was  issued  in March  1992,  provides  a two year  period  for
+exploration work and to prepare a plan for  exploitation.  An extension has been
+granted to complete  further  exploration  work. The contract  requires  certain
+financial  guarantees with regard to exploration and  reclamation,  and requires
+that the area be reduced by one-half at the end of the exploration period.
+
+Antabari has performed  geologic mapping,  geochemistry of drainages,  soils and
+old workings,  and trenching of several  mineralized  zones. One such zone has a
+continuity of over 600 feet with a width of 40 feet and has yielded values of up
+to 1.6 ounces per ton of gold.  Additional  sampling and analysis from extensive
+pitting show a large (8 acre) anomalous gold area, clearly open to the north and
+east. Drilling and further sampling will be necessary to determine the potential
+of the area. ESIGEO is evaluating this next phase and/or a sale to third parties
+at this time.
+
+New Filings
+In 1994,  formal  applications were made to CVG, which in 1995 have been renewed
+in applications to MEM, to acquire exclusive mineral exploration rights on three
+new land areas located in the Bolivar state in southeastern  Venezuela.  ESI has
+been advised that ESIGEO's filings establish  priority for the areas sought. The
+Company is very optimistic about the potential these areas hold for further gold
+exploration  and  exploitation.  The areas were first  identified  as  potential
+targets through regional geochemistry that defined anomalous occurrences of gold
+and associated  minerals,  and legends of past  production by primitive  methods
+which have  historically  been key to  exploration  in remote areas.  Queries of
+natives and  sampling of stream  sediments  has  allowed  selection  of the best
+targets from a 130 square km area that was investigated.
+
+Apicharai
+- ---------
+The first concession area covering 500 hectares  (approx.  1200 acres), is known
+as  Apicharai,  located  about 165 km from the town of La  Paragua.  This  small
+tributary  to the  Antabari  river  has a history  of  panning  and small  scale
+hydraulic  mining.  Apicharai  has an  abundance  of thick  quartz  veins in the
+drainage  and gold is commonly  visible.  The  mineralization  of  Apicharai  is
+typically  associated  with the quartz  veining in acidic  pyroclastics.  One 80
+meter  zone on the river is panned  every  year by the  natives  after the rainy
+season.  The gold particles commonly run 0.5mm and angular quartz is dominate in
+the creek sediments.  As a result of the stream sediment  sampling,  an area has
+been  selected for further work where the source of the gold  mineralization  is
+likely to be located.
+
+                                       4
+
+<PAGE>
+
+
+Man-cai
+- -------
+The second concession area, known as Man-cai, covers 500 hectares, is located in
+a remote area near the Brazilian  border  accessible by boat from the La Paragua
+river.  Unconfirmed verbal reports are that 100 kilos of gold were taken by 
+primitive methods from an area of only a few  hectares.  Sampling and  estimates
+of  alluvial-colluvial material show that there is another 50-100 kilos 
+available in a very small area.  It is believed that this gold can be easily  
+recovered with portable  equipment. The source rock may hold significant  
+potential and will be targeted early on in the further exploration program. 
+Considerable pyrite exists in the volcanic host rock and upstream, out of the
+rhyolite, gold is at background levels, helping to define the source  
+material.  The  existence  of easily  obtainable  gold in the surface  
+material  and the boundary  definition  of the source rock make this an 
+excellent target for significant gold mineralization.
+
+Manaima
+- -------
+The third  concession  area,  known as Manaima,  also covers 500 hectares and is
+located  50 Km from the town of La  Paragua.  This is an area rich in history of
+small  primitive  mining  operations.  The  hydrothermal  mineralization  on the
+property  is  associated  with a fault zone where gold is  typically  found with
+copper and manganese.
+
+Specific work programs are being formalized for initial detailed  exploration of
+the above mentioned  areas. The plans provide for the building of an airstrip to
+facilitate access and  transportation  of equipment into Apicharai,  Man-cai and
+other prospects. Access is now being accomplished via river routes.
+
+The primary objectives of the 1997 plans are to determine as quickly as possible
+the  nature  and  extent  of gold  mineralization  on the  anticipated  new land
+concessions  and to  continue to define  those  additional  areas  where  future
+filings will be made.  Activities  will include surface  geochemistry,  geologic
+mapping and trenching.
+
+                           ADA Environmental Solutions
+On February 18, 1997, ESI signed a Letter of Intent to acquire a majority equity
+position in ADA  Environmental  Solutions LLC ("ADA")  through a combination  of
+stock and cash. The acquisition was prompted by synergism  involving products to
+be produced by the solvent extraction  facility in Calgary.  These products will
+be  utilized  by  ADA  in  a  new  proprietary  technology  designed  to  reduce
+particulate  emissions from plants burning  low-sulfur coal. It is expected that
+the 1990 Clean Air Act Amendments  will result in 600 to 800 coal-fired  boilers
+switching  to  low-sulfur  coal by the year 2000.  ADA  anticipates  capturing 
+approximately 15% of this  market  with its  proprietary  non-toxic  chemical
+conditioner  which  offers  both  technical  and  economic  advantages  over the
+hazardous  chemicals  currently  being  used.  The  closing of the  acquisition,
+scheduled for April 30, 1997, is subject to a number of preconditions, including
+the negotiation and execution of definitive documentation.  ADA estimates a 
+capital budget of approximately $1.6 million will be required to achieve a 
+commercially viable status.
+
+The Letter of Intent  provided for (i) an immediate cash payment of $400,000 for
+a 4.8% equity interest,  (ii) a combination of $500,000 in cash and $1.6 million
+in  notes  to be paid  at the  scheduled  closing,  for  the  acquisition  of an
+additional  46.2%  interest in ADA, and (iii) an option to acquire the remaining
+equity  interests  (49%) in ADA during the six months  following May 1, 1998 for
+issuance  of stock  valued at  approximately  $5.8  million.  In  addition,  the
+principals of ADA will have an option to require ESI to sell its 51% interest in
+ADA for the price paid by ESI plus  interest in the event ESI does not  exercise
+its option.
+
+                  Mineral Properties and Other Business Matters
+During 1996 Registrant  maintained its ownership position in the several mineral
+interests it holds.  The mineral  interests  maintained  by  Registrant  include
+significant resource interests in alumina,  gold,  vanadium,  potash and sulfur,
+and  prospects  for  copper/molybdenum  and  silver  (see  Item  2  below).  Raw
+materials,  as the term is generally  used,  are not  essential to  Registrant's
+mineral  acquisition and development  activities  performed for its own account.
+However,  Registrant's  commercialization  of its  properties is dependent  upon
+securing adequate supplies of energy and water. The planned production of PPA at
+the Calgary facility will require adequate  supplies of SPA feedstock.  Adequate
+supplies of this material are currently available in the required quantities and
+at reasonable  prices.  There can be no assurance  that such  availability  will
+continue in the future.
+
+                                       5
+
+<PAGE>
+
+
+Registrant  holds no patents,  licenses,  franchises or land  contract  which it
+considers material in light of its other assets.  However,  Registrant holds for
+itself, and in association with others,  Federal Potassium  Prospecting Permits,
+State Potash and Alunite Leases,  Federal Potassium  Preference Right Leases and
+Applications,  Federal Phosphate Prospecting Permits,  Federal Phosphate Leases,
+State  Phosphate  Leases,  fee mineral rights and other  exploration and mineral
+interests  which  are the  basis for  Registrant  to  explore  and  develop  the
+properties  subject thereto.  In certain  instances such mineral  interests give
+preferential leasing rights to Registrant upon location and demonstration to the
+US  Geological  Survey  Conservation  Division  that the deposit is a "valuable,
+workable deposit in commercial quantities".
+
+Registrant also holds certain of its mineral properties by means of "unpatented"
+lode and  placer  mining  claim  locations.  Unpatented  mining  claims  require
+compliance  with  certain  Federal and State laws in order to  maintain  mineral
+interests thereon. Legislation enacted in October 1992 requires a $100 per claim
+rental charge on all unpatented mining claims.
+
+Numerous and in some regards  conflicting bills have been introduced and are now
+pending  in  the US  Congress  which  would  supplant  or  radically  alter  the
+provisions of the US Mining Law of 1872, under which npatented mining claims are
+located. If enacted,  such legislation could substantially  increase the cost of
+holding  unpatented  mining  claims and could impair the ability of companies to
+develop mineral resources on unpatented mining claims.  Under the terms of these
+bills,  the ability of companies to obtain  patents on unpatented  mining claims
+would be nullified or substantially  impaired,  and most contain  provisions for
+the payment of royalties to the federal government in respect of production from
+unpatented  mining  claims,  which  could  adversely  affect the  potential  for
+unpatented mining claims.  Registrant's financial performance could therefore be
+affected  adversely by passage of such  legislation.  Pending possible reform of
+the Mining Law of 1872,  Congress has put in place a moratorium  which prohibits
+acceptance or processing of most mineral patent applications. It is not possible
+to predict  whether  any change in the  Mining  Law of 1872  will,  in fact,  be
+enacted or, if enacted, the form the changes may take.
+
+The  activities  of  Registrant  performed for its own account are not seasonal,
+although winter weather may limit certain activities.
+
+Registrant's  mineral  exploration and property  acquisition  activities are not
+dependent   upon  one  or  a  few   major   customers.   The   search   for  and
+commercialization  of economic  mineral  deposits is highly  competitive.  Large
+companies  having greater  financial  resources  than  Registrant and many small
+mining  companies are active in acquiring,  evaluating  and  developing  mineral
+resource prospects in the western United States and Venezuela.
+
+Registrant spent approximately $109,000 and $183,000 on research and development
+activities  related to the  Calgary  extraction  facility  during 1996 and 1995,
+respectively.
+
+United States Federal and state environmental laws and regulations potentially 
+applicable to mining exploration, development and operations of Registrant 
+include: (a) the assessment of environmental impacts pursuant to the National 
+Environmental Policy Act and its state counterparts; (b) the Endangered Species
+Act and any comparable state laws; (c) water quality laws and regulations which
+address impacts on waters of the United States or a state; (d) solid, and 
+possibly hazardous, waste laws and regulations to the extent that waste is 
+generated as a result of activities on the property; (e) air quality laws and
+regulations if air emissions result from site operations; and (f) mined land 
+operational and reclamation requirements.  In addition to the imposition of 
+requirements which may impact operations, a number of these environmental 
+laws and regulations impose permitting requirements related both to the 
+initiation of certain mining activities as well as to the ongoing operation 
+once mining commences.  Local regulations in the U.S. typically are land use
+related rather than environmental.   Although environmental regulatory  costs to
+date and those expected in 1997 are not  significant,  they may become  
+substantial  in the future.  Such costs are considered a part of the ordinary 
+costs of Registrant's business.
+
+As of December 31, 1996 Registrant employed 5 personnel at its Golden, Colorado,
+offices and 14 fulltime at the Calgary  facility.  In addition,  other personnel
+were employed on a contract basis for specific project tasks.
+
+                                    6
+<PAGE>
+
+Item 2.  Description of Property. 1
+Registrant  owns,  controls  and  participates  with others in mineral  property
+interests  and  mineral  property   exploration  and  development   programs  in
+California, Colorado, Idaho, Montana, Nevada, Utah, and Venezuela. The following
+property  descriptions  contain  deposit  references  according to the indicated
+definitions,  although it has not been proven that any of these deposits, except
+the San Luis gold mine, are commercially viable. In-house studies for several of
+the undeveloped  properties  indicate  technical and economic  feasibility.  The
+following is summary information regarding Registrant's principal properties.
+
+(a)  Vanadium/Phosphate Property near Paris and Bloomington,  Idaho
+See Item 3(f),  1975-1977  Forms  10-K for the  property  acquisition,  property
+rights,  property  description and  exploration  program prior to 1979. See Item
+1(c) 1981 Form 10-K concerning  Registrant's sale and option of its interests on
+the properties in January,  1981.  Registrant reacquired all of the interests in
+the properties from the Conda Partnership in 1992.
+
+To date,  drill  testing on the southern  portion of the deposit show tonnage of
+approximately 34 million tons of phosphate rock classified as Measured Reserves,
+with an  additional  19 million tons of phosphate  rock  classified as Indicated
+Reserves.  The grade of the upper bed material of the block is  calculated to be
+25% P2O5  over a  thickness  of 9 feet and the  grade of the  lower  (main)  bed
+material is calculated to be 30% P2O5 over a 6 foot thickness.
+
+Metallurgical  test work on the  vanadium  bed has  resulted  in a patent  being
+issued to Registrant regarding the extraction techniques which were developed as
+a result of such work. Economic feasibility calculations show that production of
+vanadium from the property is commercially feasible. Registrant is investigating
+plans for  development  of the property,  however there can be no assurance that
+marketing  and  financing  arrangements  can be  obtained.  In 1993,  Registrant
+negotiated  an  arrangement  with a third  party  to  allow a  minor  amount  of
+phosphate  ore  to be  removed  from  the  outcrop  on a  portion  of one of its
+properties  held in fee interest.  That party  obtained  permits in 1994 to mine
+3,000 tons from the property but no mining has yet taken place. This deposit may
+provide a source for the intended  purified  phosphoric  acid  production at the
+Calgary facility (See Item 1(a) above).
+
+(b) San Luis Gold Mine.
+See Item 3(h) 1975 Form 10-K for a description of the property.
+See Item 1(c)(1) 1988 Form 10-K and above concerning  Registrant's sale to BMGC,
+other related  transactions in 1987 and BMGC development  work.  Registrant owns
+the 800 acre site on which the mine is located, has leased the property to BMGC,
+and  received a 3 1/2% gross  royalty  from all  production.  Mining and milling
+activities  were  completed by BMGC in 1996 and  Registrant  does not expect any
+significant  revenue in 1997 or thereafter.  BMGC commenced mining operations in
+early 1991.
+
+Production during the period from 1991 through 1996 was as follows:
+
+         Year                     Ounces of Gold            Ounces of Silver
+         1991                       31,500                       21,600
+         1992                       55,600                       21,000
+         1993                       72,800                       27,000
+         1994                       72,700                       19,400
+         1995                       72,700                       31,800
+         1996                       52,400                       28,000
+(c)  Alunite Resources. 2
+
+- ----------------------------------------
+ 1 For  purposes  of this Item,  the term  "Measured  Reserves"  and  "Indicated
+Reserves" shall have the meaning as adopted by the US Geological  Survey and the
+US Bureau of Mines, as follows: Measured Reserves are reserves for which tonnage
+is computed from dimensions revealed in outcrops,  trenches,  workings and drill
+holes,  and for which the grade is computed  from results of detailed  sampling.
+The sites for inspection,  sampling and  measurement are so closely spaced,  and
+the geologic  character is defined so well,  that the size,  shape,  and mineral
+content are well  established.  The computed  tonnage and grade are judged to be
+accurate  within limits which are stated,  and no such limit is judged to differ
+from the  computed  tonnage or grade by more than 20%.  Indicated  Reserves  are
+reserves  from which the tonnage  and grade are  computed  partly from  specific
+measurements,  samples,  or production data, and partly from projections,  for a
+reasonable distance,  on geologic evidence.  The sites available for inspection,
+measurement,  and sampling are too widely or otherwise inappropriately spaced to
+outline the reserve completely or to establish its grade throughout.
+
+2 Acquisition of Federal alunite mineral rights is accomplished  through Federal
+Potassium  Preference  Right Leases issued under Section 4 of the Leasing Act of
+February 7, 1927.
+
+                                       7
+
+<PAGE>
+
+Alunite is a source of alumina (the raw material of aluminum), potassium sulfate
+fertilizer, sulfuric acid and sulfur.
+
+           (1) "LC" Alunite Property.
+See Item  3(b)(1),  1974 and 1975 Forms 10-K and Item 3(h),  1976 and 1977 Forms
+10-K for property  description,  property rights and  exploration  work in prior
+years.  Results of exploration work to date show a total of 61.1 million tons of
+material classified as Measured or Indicated Reserves. The grade of the material
+is  calculated  to average  approximately  39.6%  alunite  (approximately  14.7%
+alumina).
+
+In 1978,  Registrant  applied for a Preference  Right Lease for potassium on the
+property (a "PRLA"),  in 1979  submitted the "initial  showing"  required in the
+lease  application and in 1982 submitted the operating plan for an environmental
+impact  assessment.  Approval of the project was recommended by a Bureau of Land
+Management advisory panel. However, in 1985 a Congressional resolution suspended
+all  Preference  Right Lease activity in Wilderness  Study Areas.  Until further
+Congressional  action is taken,  progress on the project will be restricted.  In
+1991, Registrant received notice from the Department of Interior that the Bureau
+of Land Management  considers the PRLA as a valid existing right with respect to
+any future  wilderness  designation.  Registrant  relinquished its 48 unpatented
+mining claims covering the alunite property in 1993.
+
+          (2)"NG" Property and Other Utah Alunite Interests.
+See Item 3(a)(1),  (2), (3), (4) and (5),  1974-1979  Forms 10-K for NG Property
+and other Utah alunite  interest  descriptions,  property rights and exploration
+programs  prior to 1978.  ESI was  granted  Preference  Right  leases on the ten
+principal  tracts that  comprise the NG deposit on January 13, 1983.  The leases
+were  assigned to the Alumet  Partnership  effective  February  1, 1983.  Alumet
+assigned its Utah  alunite  interests  back to ESI in  December,  1986 (See item
+1(c)(1) 1986 Form 10-K). ESI relinquished a portion of the leases,  reducing the
+acreage under lease to 680 acres. All required lease payments were made in 1996.
+
+Results of exploration and drilling  programs on the properties to date show 129
+million  tons  of  material  classified  as  Measured  Reserves,  with  a  grade
+calculated to be 37.9% alunite (approximately 14.03% alumina) with an additional
+287 million tons classified as Indicated Reserves with average grades calculated
+to range from 33.5% to 39.4% alunite (approximately 12.4% to 14.6% alumina).
+
+(d) Calgary Solvent Extraction Facility.
+Registrant owns a hydrometallurgical  solvent extraction facility which was used
+to extract uranium from  phosphoric acid from June 1983 through  September 1987,
+when the adjacent  phosphoric  acid  fertilizer  plant supplying feed stock shut
+down. (See Item 1(a) and 1(b) above). The facility occupies a 20,000 square foot
+building and is located in southeast  Calgary,  Alberta on a 12 acre site leased
+from the adjacent fertilizer plant.
+
+(e)  Emigrant Property.
+In 1987 Registrant  acquired fee ownership of two patented lode mining claims in
+the Emigrant Peak area, Park County, Montana containing  approximately 38 acres.
+Registrant  also owns two other patented  placer claims  containing 37 acres and
+holds 13  unpatented  mining  claims in the same area.  This block of contiguous
+mining  claims  contains  copper,  molybdenum,   gold,  silver,  lead  and  zinc
+mineralization  which has not yet been fully delineated.  All necessary payments
+were made to hold the unpatented claims in 1996.
+
+During 1992, a third party conducted limited  geochemical  sampling,  geological
+mapping and a remote sensing study using Landsat  Thematic Mapper data and image
+enhancements.  One core hole was subsequently drilled to a depth of 588 feet. In
+1993, an additional four reverse  circulation holes were drilled on the property
+totaling 950 feet.  Analysis of samples  from the drilling  helped to define the
+southwest boundaries of a breccia pipe containing gold, silver, copper, zinc and
+lead  mineralization.  Based on the drilling performed a deposit of from 750,000
+to 1.5 million tons of material  classified as Measured and  Indicated  Reserves
+can be delineated with current metal values of over $15 per ton.
+
+(f)  Cerro Gordo Property.
+In July 1996,  Registrant entered into an agreement with Martin Trost Associates
+("MTA"),  a  Colorado  joint  venture  which  will  allow it to earn up to an 80
+percent working interest in the Cerro Gordo property in Inyo County, California.
+
+                                       8
+
+<PAGE>
+
+
+The agreement provides for Registrant to arrange financing of up to $4.2 million
+to place the "H" area, or principal mineralized zone, into  production  to earn 
+an 80%  working  interest in the property.  No schedule has yet been established
+for the Company's arrangement of financing.  The Company is obligated to fund 
+the costs of all joint venture activities up to the agreed $4.2 million or until
+the joint venture achieves cash flow.  Nevertheless, the Company may cease 
+funding activities upon 30 days notice, without further obligation.  In the 
+event of such cessation in funding, Registrant would retain its working interest
+earned at that time and may choose to fund further requirements to maintain 
+such interest, or suffer dilution of that interest. MTA acquired a mineral  
+lease in August 1995 on 75  unpatented  and 5 patented  claims.  Terms of the 
+lease are a 5% net  smelter royalty  and annual payments  averaging  $36,000 per
+year. Two patented  claims lie within the claim block and are currently held by
+third parties.
+
+The Cerro Gordo  property lies in the Inyo Mountains east of Owens Lake and west
+of Death  Valley at an  elevation of  approximately  7800 feet.  Access is by an
+existing, county maintained, gravel road. Temperatures are moderate with limited
+snowfall   during  the  months  of  January  and   February.   The  property  is
+approximately  equidistant  from  Reno and Las  Vegas,  Nevada  and Los  Angles,
+California.
+
+Based on 36,000 feet of past drilling and old underground workings,  gold/silver
+mineralization  has been demonstrated along a NW-SE mineralized trend stretching
+8,000 feet long and 5,600 feet wide. The  mineralized  area appears zoned with a
+lead/zinc/silver/tungsten  core  trending  outward to the west to a  gold/silver
+zone. The large areal extent of the gold/silver  mineralization  may lend itself
+to the  discovery of a  significant  gold mine.  Evaluation of a 4 hole drilling
+program  conducted in December is in progress to determine further action on the
+property.
+
+                                                   9
+<PAGE>
+                                     PART II
+
+
+
+
+Item 6.  Management's Discussion and Analysis of Financial Condition and Results
+         of Operations.
+This Annual Report may contain forward-looking  statements within the meaning of
+Section 27A of the Securities Act of 1933. Such  forward-looking  statements may
+be found in this section under and under "Description of Business," "Management'
+Discussion  and  Analysis of Financial  of  Financial  Condition  and Results of
+Operations."  Actual  events or  results  could  differ  materially  from  those
+discussed in the forward-looking statements as a result of various factors.
+
+                         Liquidity and Capital Resources
+Management  believes that existing working capital and recent private placements
+of stock and convertible  debentures are sufficient to fund revamp  construction
+and start up activities at Calgary and planned operations until positive casflow
+is achieved in Calgary,  which is  anticipated  in the 4th quarter of 1997.  The
+achievement  of such  positive  cash  flow is  dependent  upon  several  factors
+including  commercialization of the purification  process,  success in marketing
+product and competition, any of which could delay or frustrate such achievement.
+Additional funds may be required to meet the further obligations associated with
+the ADA acquisition,  exercise of the Yankee Option, further exploration work on
+the Cerro Gordo property,  and any expanded exploration  activities in Venezuela
+(see  Item  1(b)  above).  Private  placements  of  common  stock,   convertible
+debentures  and bank  borrowings  may be  evaluated  to fund such  requirements.
+The agreement with MTA on the Cerro Gordo property provides for Registrant to 
+arrange financing of up to $4.2 million to place the principal mineralized zone 
+into production to earn an 80% working interest in the property.  No schedule 
+has yet been established for the Company's arrangement of financing.  The 
+Company is obligated to fund the costs of all joint venture activities up to the
+agreed $4.2 million or until the joint venture achieves cash flow.  Neverthe-
+less, the Company may cease funding activities upon 30 days notice, without 
+further obligation.  In the event of such cessation in funding, Registrant 
+would retain its working interest earned at that time and may choose to fund 
+further requirements to maintain such interest, or suffer dilution of that 
+interest. Private  placements  of  common  stock, convertible debentures,
+bank  borrowings and other alternatives may be  evaluated  to fund such  
+requirements.  Registrant  received a net of $1,954,000 from Regulation S 
+offerings and private placements of its common stock in 1996 and a net of 
+$2,309,000 from the issuance of convertible debentures in the first quarter 
+of 1997 (see Item 1(a) above).
+
+Based on current  estimates,  the Calgary  facility  will require an  additional
+approximately  Can. $3 million (U.S. $2.2 million) to finalize revamp  
+construction and re-start the plant for the  production  of purified  phosphate
+products,  planned for Spring 1997.  Registrant  expects to finance those  
+requirements  from existing working capital and the convertible debentures 
+sold in March 1997.
+                                       10
+
+<PAGE>
+
+Registrant  is  funding  the  majority  of cash  costs  of the  Venezuelan  gold
+exploration activities. Activities planned on the existing contract and on those
+concessions  expected to be  acquired in the future can be met through  existing
+working capital.  Registrant plans to raise the additional  capital, if and when
+needed,  through further  private  placements of stock,  convertible  debentures
+and/or joint venture arrangements, if appropriate.
+
+Cash flow provided by (used in)  operations  totaled  $(233,000) for 1996 versus
+$336,000 for 1995. Cash flow from investing activities for 1996 included funding
+and collections on notes receivable of $70,000, capital expenditures of $736,000
+and the net purchase of marketable securities $660,000. Cash flow from financing
+activities in 1996  consisted of payments on notes payable and long-term debt of
+$9,000,  proceeds  from the issuance of stock of  $1,055,000  and proceeds  from
+convertible debentures of $899,000.
+
+Results of Operations
+In 1991,  royalty  income  from the San Luis  gold  mine  commenced.  Registrant
+recognized $692,000 and $978,000 in revenue from the production and sale of gold
+and silver from the property in 1996 and 1995, respectively. Production from the
+mine ended in November 1996.  Rental income increased slightly in 1996 due to 
+increased charges to tenants.  Other income increased in 1996 due to an 
+increase in interest income earned from investment of funds on hand.
+
+Operating  expenses  increased  significantly  in 1996 as staff  and  activities
+related to the Calgary facility expanded,  whereas research and development work
+related to the Calgary  facility  decreased from $183,000 in 1995 to $109,000 in
+1996. General and  administrative  expenses rose significantly in 1996 also as a
+result of adding staff in Calgary for construction  and start-up  activities and
+an aggressive investor relations program that commenced in 1996.
+
+Registrant's  interest expense totaled  approximately  $82,000 for both 1996 and
+1995.  Interest  expense includes  approximately  $40,000 in 1996 and $45,000 in
+1995 from the  consolidation of the Canadian  subsidiary's  results.  Registrant
+will be required to recognize $188,000 in interest expense in the 1st quarter 
+and $649,000 in the 2nd quarter of 1997 as a result of the convertible 
+debentures issued in March 1997.
+
+Extraordinary  gain from debt  extinquishment  recognized in 1996 represents the
+difference  between the  recorded  liabilities  at the time of  settlement  with
+Alberta  Treasury  of  approximately  $600,000  and the  settlement  payment  of
+$76,000, net of income taxes of $159,000.
+
+
+Item 7.  Financial Statements.
+Index to Financial Statements
+Independent Auditor's Report
+Financial Statements:
+         Earth Sciences, Inc. and Subsidiaries
+           Consolidated Balance Sheet, December 31, 1996
+           Consolidated  Statements of Operations,
+             For the Years Ended December  31, 1996 an 1995
+           Consolidated  Statement of Stockholders' Equity,
+             For the Period  from  January 1, 1995 to December  31, 1996
+           Consolidated Statements of Cash Flows,
+             For the Years Ended  December 31, 1996 and 1995 
+           Notes to Consolidated Financial Statements
+
+
+                                       11
+
+<PAGE>
+
+
+
+                      Earth Sciences, Inc. and Subsidiaries
+
+                        Consolidated Financial Statements
+                           December 31, 1996 and 1995
+
+
+
+
+
+<PAGE>
+
+                          INDEX TO FINANCIAL STATEMENTS
+
+
+
+
+                                                                        PAGE
+                                                                        ----
+
+Independent Auditor's Report........................................... F-2
+
+Consolidated Balance Sheet - December 31, 1996......................... F-3
+
+Consolidated Statements of Operations -
+  For the Years Ended December 31, 1996 and 1995....................... F-4
+
+Consolidated Statements of Changes in Stockholders' Equity -
+  For the Years Ended December 31, 1996 and 1995....................... F-5
+
+Consolidated Statements of Cash Flows - For the
+  Years Ended December 31, 1996 and 1995............................... F-6
+
+Notes to Consolidated Financial Statements............................. F-7
+
+
+
+
+                                       F-1
+
+<PAGE>
+
+                          INDEPENDENT AUDITOR'S REPORT
+
+
+
+
+To the Board of Directors and Stockholders
+Earth Sciences, Inc. and subsidiaries
+Golden, Colorado
+
+
+
+We have audited the accompanying  consolidated  balance sheet of Earth Sciences,
+Inc. and  subsidiaries  as of December 31,  1996,  and the related  consolidated
+statements of operations, changes in stockholders' equity and cash flows for the
+years ended December 31, 1996 and 1995. These consolidated  financial statements
+are the  responsibility of the Company's  management.  Our  responsibility is to
+express an  opinion  on these  consolidated  financial  statements  based on our
+audits.
+
+We  conducted  our  audits  in  accordance  with  generally   accepted  auditing
+standards.  Those standards require that we plan and perform the audit to obtain
+reasonable assurance about whether the financial statements are free of material
+misstatement.  An audit includes examining, on a test basis, evidence supporting
+the amounts and disclosures in the financial statements.  An audit also includes
+assessing the  accounting  principles  used and  significant  estimates  made by
+management,  as well as evaluating the overall financial statement presentation.
+We believe that our audits provide a reasonable basis for our opinion.
+
+In our opinion, the consolidated  financial statements referred to above present
+fairly, in all material respects, the financial position of Earth Sciences, Inc.
+and  subsidiaries  as of December 31, 1996, and the results of their  operations
+and  their  cash  flows for the  years  ended  December  31,  1996 and 1995,  in
+conformity with generally accepted accounting principles.
+
+
+
+
+HEIN + ASSOCIATES LLP
+
+Denver, Colorado
+February 3, 1997
+
+                                      F-2
+
+<PAGE>
+
+
+
+                      EARTH SCIENCES, INC. AND SUBSIDIARIES
+
+                           CONSOLIDATED BALANCE SHEET
+                                DECEMBER 31, 1996
+
+                                     ASSETS
+                                     ------
+
+CURRENT ASSETS:
+    Cash and cash equivalents                                      $    586,000
+    Marketable securities                                             1,135,000
+    Receivables                                                         101,000
+    Prepaid expenses and other                                          217,000
+                                                                   ------------
+             Total current assets                                     2,039,000
+
+
+PROPERTY, PLANT AND EQUIPMENT, at cost                               17,198,000
+    Less accumulated depreciation and amortization                   (5,043,000)
+                                                                   ------------
+             Net property, plant and equipment                       12,155,000
+                                                                   ------------
+
+OTHER ASSETS                                                            207,000
+                                                                   ------------
+TOTAL ASSETS                                                       $ 14,401,000
+                                                                   ============
+
+                      LIABILITIES AND STOCKHOLDERS' EQUITY
+                      ------------------------------------
+
+CURRENT LIABILITIES:
+    Accounts payable                                               $    151,000
+    Note payable - related party                                         58,000
+    Other current liabilities                                            69,000
+                                                                   ------------
+             Total current liabilities                                  278,000
+
+LONG-TERM LIABILITIES:
+
+    Extraction plant liability                                        9,382,000
+    Long-term debt from related parties                                 167,000
+    Accrued decommissioning liability                                   220,000
+    Other liabilities                                                   174,000
+                                                                    -----------
+                                                                      9,943,000
+
+COMMITMENTS AND CONTINGENCIES (Notes 2, 3, 7, and 8)                       --
+
+STOCKHOLDERS' EQUITY:
+    Common stock, $.01 par value; 25,000,000
+         shares authorized;
+         8,449,000 shares issued                                         84,000
+    Additional paid-in capital                                        8,645,000
+    Accumulated deficit                                              (2,721,000)
+    Cumulative translation adjustments                               (1,828,000)
+                                                                   ------------
+                 Total stockholders' equity                           4,180,000
+                                                                   ------------
+
+    TOTAL LIABILITIES AND STOCKHOLDERS' EQUITY                     $ 14,401,000
+                                                                   ============
+
+
+
+       See accompanying notes to these consolidated financial statements. 
+
+                                       F-3
+
+<PAGE>
+<TABLE>
+<CAPTION>
+                           EARTH SCIENCES, INC. AND SUBSIDIARIES
+
+                           CONSOLIDATED STATEMENTS OF OPERATIONS
+
+
+                                                                      FOR THE YEARS ENDED
+                                                                         DECEMBER 31,
+                                                               ------------------------------
+                                                                   1996               1995
+                                                               -----------        -----------
+<S>                                                            <C>                 <C>  
+REVENUES:
+    Royalty income                                             $   692,000        $   978,000
+    Rental income                                                   19,000             18,000
+    Other income                                                    87,000             47,000
+                                                               -----------        -----------
+             Total revenues                                        798,000          1,043,000
+
+EXPENSES:
+    Operating                                                      505,000            146,000
+    General and administrative                                     380,000            260,000
+    Research and development                                       109,000            183,000
+    Depletion, depreciation and amortization                       260,000            234,000
+    Interest                                                        82,000             82,000
+                                                               -----------        -----------
+             Total expenses                                      1,336,000            905,000
+                                                               -----------        -----------
+
+INCOME (LOSS) BEFORE EXTRAORDINARY ITEMS AND TAXES                (538,000)           138,000
+
+INCOME TAX BENEFIT                                                 159,000               --
+                                                               -----------        -----------
+
+INCOME (LOSS) BEFORE EXTRAORDINARY GAIN                           (379,000)           138,000
+                                                               -----------        -----------
+
+EXTRAORDINARY GAIN FROM DEBT EXTINGUISHMENT, 
+    (net of income tax of  $159,000)                           $   371,000               --
+                                                               -----------        -----------
+
+NET INCOME (LOSS)                                              $    (8,000)       $   138,000
+                                                               ===========        ===========
+NET INCOME (LOSS) PER COMMON SHARE:
+    Before extraordinary item                                  $      (.05)       $       .02
+    Extraordinary Gain                                                 .05               --
+                                                               -----------        -----------
+             Net Income (Loss) Per Common Share                $      --          $       .02
+                                                               ===========        -----------
+
+WEIGHTED AVERAGE COMMON SHARES OUTSTANDING                       7,186,000          6,382,000
+                                                               ===========         ==========
+
+
+
+
+
+              See accompanying notes to these consolidated financial statements.
+
+                                               F-4
+</TABLE>
+
+<PAGE>
+<TABLE>
+<CAPTION>
+
+                                        EARTH SCIENCES, INC. AND SUBSIDIARIES
+
+                             CONSOLIDATED STATEMENTS OF CHANGES IN STOCKHOLDERS' EQUITY
+                                    FOR THE YEARS ENDED DECEMBER 31, 1996 AND 1995
+
+
+                                                                                                 
+                                                              COMMON STOCK           Additional                   Cumulative
+                                                        -------------------------     Paid-in     Accumulated     Translation
+                                                           Shares        Amount       Capital       Deficit       Adjustments
+                                                           ------        ------       -------       -------       -----------
+
+<S>                                                      <C>         <C>           <C>           <C>            <C>         
+BALANCES, January 1, 1994                                 6,354,000   $    64,000   $ 6,390,000   $(2,851,000)   $(2,056,000)
+
+    Net income                                                 --            --            --         138,000           --
+    Foreign currency translation                               --            --
+      adjustment                                               --            --            --            --          261,000
+                                                        -----------   -----------   -----------   -----------    -----------
+
+    BALANCES, December 31, 1995                           6,354,000        64,000     6,390,000    (2,713,000)    (1,795,000)
+
+    Debt converted to common stock                          883,000         8,000       891,000          --             --
+    Related party debt converted to common
+           stock                                            210,000         2,000       111,000          --             --
+    Stock issued for cash, net of related costs             899,000         9,000     1,046,000          --             --
+    Stock issued for services                               100,000         1,000       135,000          --             --
+    Stock options issued for services                          --            --          64,000          --             --
+    Stock issued to employees for bonuses                     3,000          --           8,000          --             --
+    Net loss                                                   --            --            --          (8,000)          --
+    Foreign Currency translation adjustment                    --            --            --            --          (33,000)
+                                                        -----------   -----------   -----------   -----------    -----------
+
+    BALANCES, December 31, 1996                           8,449,000   $    84,000   $ 8,645,000   $(2,721,000)    $(1,828,000)
+                                                        ===========   ===========   ===========   ===========    ===========
+
+
+
+
+
+
+
+                                See accompanying notes to these consolidated financial statements. 
+
+                                                             F-5
+</TABLE>
+
+<PAGE>
+<TABLE>
+<CAPTION>
+                                          EARTH SCIENCES, INC. AND SUBSIDIARIES
+
+                                          CONSOLIDATED STATEMENTS OF CASH FLOWS
+
+                                                                                           FOR THE YEARS ENDED
+                                                                                               DECEMBER 31,
+                                                                                   ----------------------------------
+                                                                                       1996                  1995
+                                                                                   ------------           -----------
+<S>                                                                                <C>                     <C> 
+CASH FLOWS FROM OPERATING ACTIVITIES:
+    Net income (loss)                                                              $    (8,000)           $   138,000
+    Adjustments to reconcile net income (loss) to net cash provided by (used in)
+         operating activities:
+             Depletion, depreciation and amortization                                  260,000                234,000
+             Gain on settlement of debt, net of income taxes                          (371,000)                  --
+             Income tax benefit                                                       (159,000)
+             Expenses paid with stock                                                  208,000                   --
+             Changes in operating assets and liabilities:
+                 (Increase) decrease in:
+                      Receivables                                                      116,000                (85,000)
+                      Other assets                                                    (387,000)               (13,000)
+                      Purchase of marketable securities                             (3,084,000)              (190,000)
+	                     Sale of marketable securities                                  2,424,000                   --
+                 Increase (decrease) in:
+                      Accounts payable                                                 145,000                  6,000
+                      Other liabilities                                                (37,000)                56,000
+                                                                                   -----------            -----------
+         Net cash provided by (used in) operating activities                          (893,000)               146,000
+
+CASH FLOWS FROM INVESTING ACTIVITIES:
+    Collections on notes receivable                                                     70,000                130,000
+    Notes receivable funded                                                            (70,000)              (130,000)
+    Capital expenditures                                                              (736,000)               (25,000)
+                                                                                       -----------            -----------
+         Net cash used in investing activities                                        (736,000)               (25,000)
+
+CASH FLOWS FROM FINANCING ACTIVITIES:
+    Payments on notes payable and long-term debt                                        (9,000)              (181,000)
+    Proceeds from issuance of common stock                                           1,055,000                   --
+    Proceeds from convertible debentures                                               899,000                   --
+                                                                                   -----------            -----------
+         Net cash provided by (used in) financing activities                         1,945,000               (181,000)
+
+EFFECT OF EXCHANGE RATE CHANGES ON CASH                                                  8,000                 (1,000)
+                                                                                   -----------            -----------
+
+INCREASE (DECREASE) IN CASH                                                            324,000                (61,000)
+
+CASH AND CASH EQUIVALENTS, beginning of year                                           262,000                323,000
+                                                                                   -----------            -----------
+
+CASH AND CASH EQUIVALENTS, end of year                                             $   586,000            $   262,000
+                                                                                   ===========            ===========
+SUPPLEMENTAL SCHEDULE OF CASH FLOW INFORMATION:
+
+    Cash payments for interest                                                     $    40,000            $    37,000
+                                                                                   ===========            ===========
+
+    Conversion of notes payable                                                    $ 1,012,000            $         -
+                                                                                   ===========            ===========
+    Stock and options issued for investor relations                                $   200,000            $         -
+                                                                                   ===========            ===========
+
+    Purchase of property and equipment for debt                                    $   125,000            $         -
+                                                                                   ===========            ===========
+    Stock issued for payment of employee bonuses                                   $     8,000            $         -
+                                                                                   ===========            ===========
+
+
+
+
+
+
+
+                           See accompanying notes to these consolidated financial statements 
+
+                                                          F-6
+</TABLE>
+
+<PAGE>
+
+
+                      EARTH SCIENCES, INC. AND SUBSIDIARIES
+
+                   NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+
+
+1. SUMMARY OF NATURE OF OPERATIONS AND SIGNIFICANT ACCOUNTING POLICIES:
+   --------------------------------------------------------------------
+
+     Nature of Operations - The accompanying  consolidated  financial statements
+     include the accounts of Earth  Sciences,  Inc.  (ESI) and its  wholly-owned
+     subsidiaries,  ESI Chemicals, Inc. (ESIC) and ESI Resources Limited (ESIR).
+     ESIC has been a dormant  subsidiary  since  1983.  ESIR's only asset is its
+     investment  in  its  wholly-owned  subsidiary,  Earth  Sciences  Extraction
+     Company  (ESEC).  All  significant  intercompany   transactions  have  been
+     eliminated. Collectively, these entities are referred to as the Company.
+
+     The  Company  is  principally  engaged in  natural  resources  exploration,
+     research and  development  and planned  production in the second quarter of
+     1997 of purified phosphate products in Calgary, Alberta.
+
+     Cash Equivalents - For purposes of the statement of cash flows, the Company
+     considers all highly liquid debt  instruments  with original  maturities of
+     three months or less to be cash  equivalents.  At December  31, 1996,  cash
+     equivalents  consisted  of  money  market  instruments  in  the  amount  of
+     $520,000, which are not FDIC insured.
+
+     Marketable  Securities - Marketable securities consist of government backed
+     debt  securities,  corporate stock and bonds and  certificates of deposits,
+     which mature  within one year or less.  The  securities  are  classified as
+     trading securities, as defined in Financial Accounting Standards (FAS) 115,
+     and are stated at market, which approximates cost at December 31, 1996.
+
+     Property,  Plant and Equipment - Property, plant and equipment is stated at
+     cost and  includes  a  solvent  extraction  facility.  Depreciation  on the
+     facility  and its  equipment,  while it was in  production,  was  generally
+     provided using the units of production method based on estimated production
+     over the  life of the  contract.  Depreciation  on the  solvent  extraction
+     facility  while not in operation is being computed at 1% per year (see Note
+     2). Depreciation on other assets is provided using the straight-line method
+     based on estimated  useful lives  ranging from 3 to 20 years.  Depletion of
+     producing  mineral  properties  is  computed  using the unit of  production
+     method  based on proved  and probable reserves.  Maintenance  and repairs 
+     are charged to operations as incurred.  When assets are retired, or 
+     otherwise disposed of, the property  accounts are relieved of costs and  
+     accumulated depreciation and any resulting gain or loss is credited or 
+     charged to income.
+
+     Deferred  Exploration and Development Costs - Land and mineral  properties,
+     including related deferred  exploration and development  costs, are carried
+     at cost.
+
+     The Company follows the policy of capitalizing all direct costs,  including
+     labor,  related to the  exploration  and  development of properties held or
+     controlled  by the Company,  which,  in the opinion of  management,  have a
+     continuing value.
+
+     Impairment of Long-Lived  Assets - In fiscal 1996, the Company  adopted FAS
+     121  "Impairment  of Long-  Lived  Assets."  In the  event  that  facts and
+     circumstances  indicate  that the cost of  assets  or other  assets  may be
+     impaired,  an  evaluation  of  recoverability  would  be  performed.  If an
+     evaluation  is  required,  the  estimated  future  undiscounted  cash flows
+     associated with the asset would be compared to the asset's carrying amount
+
+                                       F-7
+
+<PAGE>
+                      EARTH SCIENCES, INC. AND SUBSIDIARIES
+
+                   NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+     to determine if a write-down to market value or discounted  cash flow value
+     is  required.  Adoption of FAS 121 had no effect on the  December  31, 1996
+     financial statements.
+
+     Extraction Plant Liability -  Extraction plant liability represent  non-
+     interest bearing prepayments  from Vermont  Yankee  Nuclear  Power Corp.  
+     and Yankee  Atomic Electric Company (the Yankee  Companies) for future 
+     production and delivery of uranium (see Note 2).
+
+     Income Taxes - The Company  accounts  for income taxes under the  liability
+     method of SFAS No.  109,  whereby  current  and  deferred  tax  assets  and
+     liabilities  are  determined  based on tax rates and laws enacted as of the
+     balance  sheet  date.  Deferred  tax expense  represents  the change in the
+     deferred tax asset/liability balance.
+
+     Foreign  Currency  Translation  - The  accounts of ESEC are  maintained  in
+     Canadian  dollars,  its functional  currency.  Assets and  liabilities  are
+     translated into U.S. dollars at the current exchange rate, and earnings  or
+     losses are translated at the average exchange rate for the year;  resulting
+     translation   adjustments   are   recorded  as  a  separate   component  of
+     stockholders'  equity.  Transactional  gains and losses are recorded in the
+     statement of operations.
+
+     Royalty Income - Royalty income represents the Company's 3.5% gross royalty
+     in  production  from the San Luis  gold  mine.  The mine is  leased  to and
+     operated by a third  party.  During the years ended  December  31, 1996 and
+     1995,  the Company had  $638,000  and  $978,000  in royalty  income,  which
+     represented 86% and 94% of the Company's  revenues,  respectively.  The ore
+     reserves at San Luis gold mine were depleted in the fourth quarter of 1996.
+
+     Research and Development Costs - Research and development costs are charged
+     to operations in the period incurred.
+
+     Net  Income  (Loss)  Per Share - Net  income  (loss)  per  common  share is
+     calculated  based upon the weighted  average  number of shares  outstanding
+     during the years ended  December  31, 1996 and 1995.  In 1996,  convertible
+     debt, stock options, and warrants have not been included in the calculation
+     of net loss per share, as the result is anti-dilutive. In 1995, convertible
+     debt, stock options,  and warrants have been included in the calculation of
+     net income per share as the result is  dilutive.  Income per common  share,
+     assuming full dilution, approximates primary income per common share.
+
+     Stock-Based  Compensation - In fiscal 1996, the Company  adopted  Financial
+     Accounting  Standards Board "Accounting for Stock-Based  Compensation" (FAS
+     123).  FAS 123  encourages,  but does not  require,  companies to recognize
+     compensation  expense for grants of stock, stock options,  and other equity
+     instruments to employees  based on fair value.  Companies that do not adopt
+     the fair value  accounting  rules must  disclose the impact of adopting the
+     new method in the notes to the financial statements. Transactions in equity
+     instruments with  non-employees for goods or services must be accounted for
+     on the fair value  method.  The  Company  has elected not to adopt the fair
+     value accounting  prescribed by FAS 123 for employees,  and is subject only
+     to the disclosure requirements prescribed by FAS 123.
+
+
+                                       F-8
+
+<PAGE>
+                      EARTH SCIENCES, INC. AND SUBSIDIARIES
+
+                   NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+
+
+     Use of Estimates - The preparation of the Company's  consolidated financial
+     statements in conformity  with  generally  accepted  accounting  principles
+     requires the Company's  management to make estimates and  assumptions  that
+     affect the amounts reported in these financial  statements and accompanying
+     notes. Actual results could differ from those estimates.  The Company makes
+     significant  assumptions concerning the decommissioning cost of its solvent
+     extraction facility,  the realizability of its investment in its extraction
+     facility  and land and mineral  properties,  and the  ultimate  liabilities
+     associated  with  asserted  claims  (see Note 8). Due to the  uncertainties
+     inherent in the estimation  process and the significance of these costs, it
+     is at least reasonably  possible that the Company's estimates in connection
+     with these items could be further materially revised within the next year.
+
+
+2. EARTH SCIENCES EXTRACTION COMPANY (ESEC):
+   -----------------------------------------
+
+     In 1978,  ESI  entered  into a  20-year  sales  agreement  with the  Yankee
+     Companies,  covering  substantially all of the uranium produced from ESEC's
+     solvent extraction facility.  During the period from 1980 through 1987, the
+     Yankee Companies made required  prepayments for uranium under the agreement
+     related to debt  service  on a term  loan,  which were in excess of uranium
+     production  from the  facility and which accumulated  as a prepayment
+     balance and were recorded as deferred revenues.
+
+     In September  1987,  ESEC  suspended  operations  due to the  suspension of
+     fertilizer  manufacturing  operations at an adjacent facility that provided
+     feedstock  to ESEC.  In May 1990,  ESI and the Yankee  Companies  agreed to
+     modify the long-term sales  agreement to allow ESEC to develop  alternative
+     uses at the  facility  with the  provision  that  certain  royalties or net
+     profits from the facility be paid to the Yankee Companies,  and provide for
+     repayment of any remaining prepayment balance over a seven year period with
+     interest  accruing  as of  January  1,  2005 at 8.50%  and  with  repayment
+     commencing no earlier than  December 31, 2004.  Accordingly, the Company 
+     reclassified deferred revenue totaling $9,382,000 as an extraction plant 
+     liability.  The extraction plant liability  is collateralized  by the  
+     solvent  extraction  facility, certain  underlying agreements,  the land
+     lease  where the  facility  is  located,  and certain leases held by the
+     Company in Idaho. ESI is a co-obligor of this liability.
+
+     In November  1996,  the Company  reached  agreement in  principal  with the
+     Yankee  Companies to purchase a 270-day  option (the "Option") for $100,000
+     to terminate their deferred revenue position in the Calgary facility. Under
+     the terms of the option,  if  exercised,  the Company  would pay the Yankee
+     Companies  $1,150,000 and grant them a 10-year non-cost bearing net profits
+     royalty on  activities  at the  Calgary  facility.  Payments  to the Yankee
+     Companies would be capped at a total of $6 million,  excluding the $100,000
+     option payment,  and the Company could purchase the royalty interest for $3
+     million plus  $50,000 per year after the  exercise  date for a total of not
+     more than  $3,250,000.  The  definitive  documents for this  agreement were
+     signed in January 1997.
+
+     At December 31, 1996,  the Company's  consolidated  balance sheet  included
+     assets with a remaining  net book value of  approximately  $9,732,000  that
+     relates to the extraction  facility,  consisting of other current assets of
+     $28,000  and  the  extraction   facility  with  a  net  carrying  basis  of
+     $9,704,000,  and  approximately  $9,382,000 of extraction plant liability 
+     related to the long-term sales contract for output from the facility and 
+     $221,000 in accrued  decommissioning costs. The recovery of the Company's 
+     investment in these assets and its ability to fulfill the terms of its 
+     agreement with the Yankee Company, is dependent upon future operations of 
+     the facility, a sale
+
+                                       F-9
+
+<PAGE>
+                      EARTH SCIENCES, INC. AND SUBSIDIARIES
+
+                   NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+     of such  assets  or  exercise  of the  Option.  The  Company  currently  is
+     modifying the extraction  facility for the production of purified phosphate
+     products and expects to be in production in the second quarter of 1997.
+
+
+3. PROPERTY, PLANT AND EQUIPMENT:
+   ------------------------------
+
+     Property,  plant and  equipment  as of December 31, 1996 is  summarized  as
+     follows:
+
+         Extraction facility                                   $14,494,000
+         San Luis Land and mineral property                        577,000
+         Land and mineral properties, including deferred
+            exploration and development costs (a)                1,518,000
+         Building and other equipment                              609,000
+                                                               -----------
+
+                                                               $17,198,000
+                                                               ===========
+- ---------
+            
+(a)  These land and mineral  properties are not in  production.  The recovery of
+     the  Company's   investment  in  these  assets  is  dependent  upon  future
+     production from such assets or a sale of the Company's interests therein.
+
+
+     The Company's  mineral  properties  include patented and unpatented  mining
+     claims;  the latter  requiring  annual  rental fees to maintain  possessory
+     titles.  Certain  bills have been  introduced  to in both  houses of United
+     States  which could  adversely  effect the  potential  for  development  of
+     existing  unpatented  mining claims and the economics of operating mines on
+     Federal unpatented mining claims if enacted.  All of these bills are in the
+     early stages of the  legislative  process and it is not possible to predict
+     whether any change in the mining  laws will be enacted or if  enacted,  the
+     form the changes may take. In addition,  the Company  leases or has options
+     to lease various other claims.  Such leases are cancelable at the option of
+     the Company.
+
+
+4. LONG-TERM DEBT:
+   ---------------
+                                                                December 31,
+                                                                    1996
+   Related Parties:                                             ------------
+   ----------------
+
+     Note payable to stockholder  at 9%.  Principal and
+     accrued  interest  payments  are due in  1998  and
+     convertible to common stock at $.54 per share.               $27,000
+
+     Notes  payable to  officers/directors  at 8%, with
+     quarterly  payments of interest  and  principal of
+     $250  and  the  balance  due  October  31,   1998,
+     collateralized by real property.                               9,000
+
+
+                                      F-10
+
+<PAGE>
+
+                      EARTH SCIENCES, INC. AND SUBSIDIARIES
+
+                   NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+
+
+
+
+     Notes   payable  to   officers/directors   at  9%,
+     principal and interest payments are due January 1,
+     1998.  However,  a  $58,000  note  payable  to  an
+     officer/director  has been  classified as current,
+     as the Company lent the officer/director a similar
+     amount  subsequent to December 31, 1996. The notes
+     are collateralized by a mining property. Principal
+     and accrued  interest  are  convertible  to common
+     stock at $.54 per share.                                    189,000
+                                                                --------   
+                                                                $225,000
+                                                                ========
+
+     Future maturities of notes payable and long-term debt are as follows:
+
+         1997                                                   $ 58,000
+         1998                                                    167,000
+                                                                --------
+                                          
+                                                                $225,000
+                                                                ========
+
+     During  1996,  the  Company  settled a note  payable  and  related  accrued
+     interest  totaling  $605,000 with the Province of Alberta for approximately
+     $75,000 in cash. As a result,  the Company recorded a extraordinary gain on
+     debt  extinguishment  of  $371,000  in 1996,  net of income tax  expense of
+     $159,000.
+
+5. INCOME TAXES:
+   -------------
+
+     Deferred  tax  assets  (liabilities)  are  comprised  of the  following  at
+     December 31, 1996:
+                                                      CANADIAN
+                                                     SUBSIDIARY        U.S.
+                                                     OPERATIONS     Operations
+                                                     ----------     ----------
+Deferred assets (liabilities):
+        Net operating loss carryforward             $   405,000     $ 1,122,000
+        Tax credit carryforwards                         80,000          13,000
+        Depreciation differences                        671,000          13,000
+        Mining properties basis differences                --           364,000
+        Deferred revenue                              3,114,000            --
+        Other                                           140,000         115,000
+                                                    -----------     -----------
+Net deferred tax assets                               4,410,000       1,627,000
+Less valuation allowance                             (4,410,000)     (1,627,000)
+                                                    -----------     -----------
+
+Net deferred tax assets                             $      --       $      --
+                                                    ===========     ===========
+
+
+
+                                      F-11
+
+<PAGE>
+                      EARTH SCIENCES, INC. AND SUBSIDIARIES
+
+                   NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+     The  valuation  allowance  increased  $372,000 for the Canadian  subsidiary
+     operations and decreased  $356,000 for U.S.  operations  since December 31,
+     1995.
+
+     The  Company's  actual  effective  income  tax rate  differs  from the U.S.
+     Federal  corporate  income  tax rate of 34% as  follows  for the year ended
+     December 31, 1996:
+
+         Tax at statutory rate                                     $   2,000
+         Non-deductible expenses:
+            Equity in loss of foreign subsidiary                     107,000
+            Other                                                      4,000
+
+        Reduction in valuation allowance due to usage of NOL
+            carryforward and temporary differences utilized         (113,000)
+                                                                    -------- 
+
+        Tax at effective tax rate                                   $      -
+                                                                    ======== 
+
+     The  Company  has  remaining  U.S. a net  operating  loss  carryforward  at
+     December  31, 1996 of  approximately  $3,000,000,  which if not utilized to
+     reduce  taxable  income in future  periods,  will  expire in the years 1996
+     through 2007. In addition,  the Company has $13,000 of alternative  minimum
+     tax credit which is available to offset future U.S.  regular tax liability.
+     The net operating loss carryforward  related to the Canadian subsidiary and
+     operations  is  $799,000  (U.S.).   The  Canadian   investment  tax  credit
+     carryforward for this subsidiary is $80,000 (U.S.).
+
+
+6. STOCKHOLDERS' EQUITY:
+   ---------------------
+
+     The Company has reserved 125,000 shares for awards under a stock bonus plan
+     established  in  1978.  As of  December  31,  1996,  69,900  shares  remain
+     available for award under the plan.
+
+     During 1996,  the Company  received net proceeds of $899,000 and $1,055,000
+     from  offerings of  convertible  debt and common stock,  respectively.  The
+     convertible  debt was  subsequently  converted to common stock during 1996.
+     Certain   officers/directors   also  converted   notes  payable,   totaling
+     approximately  $113,400  to  shares of common  stock  under  terms of their
+     notes, and were issued a total of 210,060 shares.
+
+     In August  1996,  the  Company  engaged  an entity to provide  the  Company
+     investor  relation services over a five-year period. In addition to certain
+     cash payments, the Company issued options to the entity to purchase 300,000
+     shares of common stock at prices  ranging from $2.00 to $4.00.  The options
+     expire at the rate of 60,000  per year  over  each of the  following  three
+     years with the remaining  120,000  expiring in 2001.  The cash payments and
+     related  expense  associated with the option grants are being expensed over
+     the expected  period the services will be performed,  the majority of which
+     is during the first year of the contract.
+
+
+                                      F-12
+
+<PAGE>
+
+
+                                EARTH SCIENCES, INC. AND SUBSIDIARIES
+
+                              NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+
+
+     The following is a table of options issued during 1996 and 1995:
+<TABLE>
+<CAPTION>
+                                                                                                      Weighted
+                                                                                                       Average
+                                                            Employees          Non-employee           Exercise
+                                                             Options             Options               Price
+                                                            ---------          ------------           --------
+
+     <S>                                                    <C>                 <C>                   <C>
+     OPTIONS OUTSTANDING, January 1, 1995                     75,000               --                   $1.25
+  
+        Options granted                                       75,000               10,000               $1.33
+                                                            --------            ---------             -------
+
+     OPTIONS OUTSTANDING, December 31, 1995                  150,000               10,000               $1.29
+
+        Options granted:
+            Officers                                         250,000              --                    $1.69
+            Consultants                                        --                  29,000               $1.69
+            Investor relations                                 --                  60,000               $2.00
+            Investor relations                                 --                 120,000               $2.60
+            Investor relations                                 --                 120,000               $3.60
+                                                            --------            ---------             -------
+
+      OPTIONS OUTSTANDING, December 31, 1996                 400,000              339,000               $2.09
+                                                            ========            =========             =======
+</TABLE>
+
+     For all options  granted during 1996 and 1995, the weighted  average market
+     price of the  Company's  common  stock on the grant date was  approximately
+     equal  to  the  weighted  average  exercise  price.  The  weighted  average
+     remaining  contractual life for all options and warrants as of December 31,
+     1996 was  approximately  2.3 years.  At December 31, 1996, all options were
+     exercisable.  If not previously exercised,  options outstanding at December
+     31, 1996, will expire as follows:
+                                                            Weighted
+                                                             Average
+                                        Number of           Exercise
+      Year                               Shares               Price
+      ----                              ---------           ---------
+
+      1997                              135,000               $1.58
+      1998                              135,000               $1.79
+      1999                              339,000               $1.89
+      2000                               10,000               $1.50
+      2001                              120,000               $3.60
+                                        -------
+
+                                        739,000
+                                        =======
+
+                                      F-13
+
+<PAGE>
+
+
+                      EARTH SCIENCES, INC. AND SUBSIDIARIES
+
+                   NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+
+
+     Pro Forma  Stock-Based  Compensation  Disclosures - The Company applies APB
+     Opinion 25 and related  interpretations in accounting for its stock options
+     and warrants which are granted to employees.  Accordingly,  no compensation
+     cost has been  recognized  for grants of options and  warrants to employees
+     since  the  exercise  prices  were  not less  than  the  fair  value of the
+     Company's  common  stock on the grant  dates.  Had  compensation  cost been
+     determined  based on an  estimate  of the fair  value  consistent  with the
+     method of FAS 123 at the grant  dates for awards  under  those  plans,  the
+     Company's  net income and earnings per share would have been reduced to the
+     pro forma amounts indicated below.
+
+                                                         Year Ended December 31,
+                                                        ------------------------
+                                                          1996           1995
+                                                        ---------     ---------
+
+     Net income (loss) applicable to common stockholders:
+       As reported                                      $  (8,000)    $138,000
+       Pro forma                                        $(255,000)    $ 83,000
+     Net income (loss) per common share:
+       As reported                                      $       -     $    .02
+       Pro forma                                        $    (.04)    $    .01
+
+
+     The fair value of each employee option and warrant granted in 1996 and 1995
+     was estimated on the date of grant using the  Black-Scholes  option-pricing
+     model with the following weighted average assumptions:
+
+                                                   Year Ended December 31,
+                                                 --------------------------
+                                                   1996               1995
+                                                 -------            -------
+
+       Expected volatility                           67%               74%
+       Risk-free interest rate                      5.7%              5.7%
+       Expected dividends                             -                 -
+       Expected terms (in years)                      3                 3
+
+
+7. PROFIT SHARING RETIREMENT PLAN:
+   -------------------------------
+
+     Effective  January 1, 1988, the Company formed a defined  contribution  and
+     401(k) plan to cover all eligible  employees.  The Company paid $30,196 and
+     $28,715 as the contributions for 1996 and 1995,  respectively  based on 10%
+     of the  eligible  employees'  annual  compensation.  In 1996 and 1995,  the
+     Company  also  matched  401(K)  employee  contributions  up to 5% of  gross
+     salary, totaling $15,098 and $14,358, respectively.
+
+
+
+                                      F-14
+
+<PAGE>
+                      EARTH SCIENCES, INC. AND SUBSIDIARIES
+
+                   NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+8. CONTINGENCIES:
+   --------------
+
+     In 1993, a lawsuit was filed in the United  States  District  Court for the
+     Northern  District  of  California  against  ESIC by Volvo  GM Heavy  Truck
+     Corporation.  The claim  concerns  contamination  at a property in Oakland,
+     California previously owned by a predecessor of ESIC. HM Holdings,  Inc., a
+     prior  property  owner,  is also a defendant in the action.  The  complaint
+     seeks recovery of response  costs,  damages,  and injunctive and regulatory
+     relief. A court ordered mediation took place in January 1997 which led to a
+     settlement in principle involving all the parties. Drafts of the settlement
+     agreements are in process of being prepared, and if the final settlement is
+     executed  with the terms  and  conditions  contained  in the  agreement  in
+     principle, it will not have a material effect on the Company.
+
+
+9. RELATED PARTY:
+   --------------
+
+     During  1995 and  1996,  the  Company  made  loans  to an  officer/director
+     totaling  $130,000  at an  interest  rate of 8%. Not more than  $70,000 was
+     outstanding at any one time and these loans, and the related interest, were
+     paid back to the Company during the year. The loans were  collateralized by
+     amounts  owing  Subsequent  to  year-end,   the  Company  loaned  the  same
+     officer/director  $50,000 at 8% interest.  This loan is  collateralized  by
+     amounts owing to the officer/director from the Company (see Note 4).
+
+
+10. FAIR VALUE OF FINANCIAL INSTRUMENTS (FAS 107):
+    ----------------------------------------------
+
+     The  estimated  fair  values  for  financial  instruments  under  FAS  107,
+     Disclosures  about Fair value of Financial  Instruments,  are determined at
+     discrete  points  in time  based  on  relevant  market  information.  These
+     estimates  involve  uncertainties  and cannot be determined with precision.
+     The estimated  fair values of the  Company's  financial  instruments  which
+     differ from their  recorded  values,  as measured on December  31, 1996 and
+     1995, are as follows:
+
+                                                    December 31, 1996
+                                                    -----------------
+                                                Carrying            Fair
+                                                 Amount             Value
+                                               -----------       ----------
+
+     Long-term debt                            $   225,000       $  213,000
+     Extraction plant liability                  9,382,000        4,250,000
+
+     The following  methods and assumptions were used to estimate the fair value
+     of each class of financial instrument:
+
+     Long-Term  Debt - The fair value is difficult to estimate as loans are from
+     related  parties.  However,  fair  value was  estimated  using an effective
+     borrowing rate of 15%.
+
+
+                                      F-15
+
+<PAGE>
+                      EARTH SCIENCES, INC. AND SUBSIDIARIES
+
+                   NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+
+
+     Extraction Plant Liability - The fair value is estimated based on the total
+     payments which would be required for terminate the extraction plant   
+     liability as of December 31, 1996.
+
+
+11. CONCENTRATIONS OF CREDIT RISK:
+    ------------------------------
+
+     Credit risk  represents the accounting loss that would be recognized at the
+     reporting  date  if   counterparties   failed   completely  to  perform  as
+     contracted. Concentrations of credit risk (whether on or off balance sheet)
+     that arise from  financial  instruments  exist for groups of  customers  or
+     counterparties when they have similar economic  characteristics  that would
+     cause  their  ability  to  meet  contractual  obligations  to be  similarly
+     effected by changes in economic or other  conditions  described  below.  In
+     accordance  with FASB Statement No. 105,  Disclosure of  Information  about
+     Financial Instruments with Off-Balance-Sheet Risk and Financial Instruments
+     with  Concentrations  of Credit Risk,  the credit risk amounts shown do not
+     take  into  account  the value of any  collateral  or  security.  Financial
+     instruments that subject the Company to credit risk consist  principally of
+     money market instruments, receivables, and investments, which includes U.S.
+     Treasury bills,  Certificates of Deposits,  corporate  bonds, and preferred
+     stock.
+
+     All of the Company's  royalty  income for the years ended December 31, 1996
+     and December 31, 1995 was generated from one customer.  The Company will no
+     longer receive  royalty income from this customer as the mining  operations
+     related to the royalty  income ceased in the fourth  quarter of 1996.  This
+     customer also is  responsible  for a  substantial  portion of the Company's
+     receivables.
+
+     At December 31, 1996,  receivables  totaled  $101,000.  For the years ended
+     December  31,  1996 and 1995,  the  Company  had no bad debts.  The Company
+     believes that no allowance for doubtful accounts is considered necessary.
+
+
+12. SUBSEQUENT EVENTS:
+    ------------------
+
+     In January 1997, the Company  issued an additional  18,520 shares of common
+     stock in return for  marketing  services.  Certain  officers of the Company
+     also converted an additional $37,809 in debt to 70,020 in common stock. The
+     Company  also  issued an  additional  20,000  shares of common  stock to an
+     existing stockholder for net proceeds of $41,720.
+
+     In February,  the Company signed a letter of intent to buy an environmental
+     services  entity (ESE).  The Letter of Intent provided for (i) an immediate
+     cash payment of $400,000 for a 4.8% equity interest,  (ii) a combination of
+     $500,000  in cash and  $1.6  million  in notes to be paid at the  scheduled
+     closing,  for the  acquisition of an additional  46.2% interest in ESE, and
+     (iii) an option to acquire the  remaining equity interests (49%) in the ESE
+     during the six months following May 1, 1998 for issuance of stock valued at
+     approximately  $5.8 million.  In addition,  the  principals of the acquired
+     company will have an option to require the Company to sell its 51% interest
+     in ESE for the price  paid by ESI plus  interest  in the event ESI does not
+     exercise its option.
+
+
+                                      F-16
+
+<PAGE>
+                      EARTH SCIENCES, INC. AND SUBSIDIARIES
+
+                   NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+     In March 1997, the Company issued  $2,510,000 of 4% convertible  debentures
+     (the "Debentures")  for  which  the  Company  received  net  proceeds  of
+     approximately $2,309,000. Interest is payable quarterly. The Debentures are
+     convertible  at any time  following 45 days after the issuance  thereof and
+     are all  automatically  convertible  on March 31, 1999.  The Debentures are
+     convertible into shares of common stock based on a 25% discount from market
+     price of the common stock at the time of conversions,  but not in excess of
+     $3.25 per share. The Company will record a deferred financing cost of 
+     approximately $837,000, which represents the difference between fair market
+     value of the common stock on the date the Debentures were sold and the 
+     conversion price.  The deferred financing cost will be amortized over a 45 
+     day period, which represents the period ending on the first date the 
+     Debentures can be converted to common stock.  The Company is required to 
+     register the shares underlying the Debentures.  The Company may repurchase 
+     the Debentures at a 25% premium if, for two or more trading days in any 
+     five trading day period, the market price per common share is less than 
+     $1.50. The proceeds of the Debentures are intended to be primarily 
+     utilized to finance a portion of the construction and operating capital 
+     associated with the modification and re-opening of the Company's 
+     Canadian extraction facility (the "Facility").  The converted  Facility 
+     is expected to produce purified phosphate products. 
+
+
+13. BUSINESS SEGMENT INFORMATION:
+    -----------------------------
+
+     The Company  has  identified  its  principal  business  segments as natural
+     resource  exploration and development and ownership of a solvent extraction
+     facility.  These  segments are shown in the  accompanying  table as ESI and
+     ESIR, respectively. ESIR is located in Canada.
+
+
+                                      F-17
+
+<PAGE>
+<TABLE>
+<CAPTION>
+                                          EARTH SCIENCES, INC. AND SUBSIDIARIES
+
+                                       NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+                                                                                                   Depletion,
+                                  Inter-                            Net                          Depreciation
+                   TOTAL          Segment                         Income        Identifiable         and           Capital
+                  REVENUE         Revenue         Revenue         (Loss)           Assets        Amortization   Expenditures
+                -----------    --------------   -----------     -----------     ------------     ------------   ------------
+<S>             <C>           <C>               <C>             <C>              <C>             <C>             <C>        
+1996:
+- -----                                                                                                                        
+  ESI           $ 2,167,000     $ 1,369,000     $   798,000     $   130,000      $ 4,207,000     $   122,000     $    89,000
+  ESIR                 --              --              --          (138,000)      10,194,000         138,000         647,000
+                -----------     -----------     -----------      -----------     -----------     -----------     -----------
+
+  Total         $ 2,167,000     $ 1,369,000     $   798,000     $    (8,000)     $14,401,000     $   260,000     $   736,000
+                ===========     ===========     ===========     ===========      ===========     ===========     ===========
+
+1995:
+- -----                                                                                                                
+  ESI           $ 1,063,000     $    20,000     $ 1,043,000     $   422,000      $ 2,983,000     $    97,000     $    17,000
+  ESIR                 --              --              --          (284,000)       9,732,000         137,000           9,000
+                                -----------     -----------     -----------      -----------     -----------     -----------
+
+  Total         $ 1,063,000     $    20,000     $ 1,043,000     $   138,000      $12,715,000     $   234,000     $    26,000
+                ===========     ===========     ===========     ===========      ===========     ===========     ===========
+
+</TABLE>
+                                                                F-18
+
+
+
+
+
+
+
+
+<PAGE>
+
+
+                                    PART III
+
+
+Item 12.  Certain Relationships and Related Transactions.
+(a) At  various  times  during  1996 and 1995,  Dr.  Bisque  borrowed a total of
+$70,000 and $130,000,  respectively,  from Registrant at an interest rate of 8%.
+Not more than  $85,000 was  outstanding  at any one time in 1995 and these loans
+were paid back to Registrant prior to each year end. All of the amounts borrowed
+were  collateralized  by amounts owing to Dr. Bisque by Registrant and were made
+available  from  funds  that  would  have   otherwise  only  earned   Registrant
+approximately 5%.
+
+In 1991, the Registrant converted a total of $366,000 of deferred salaries 
+payable to Mssrs. Bisque, Bloom and McKinnies to notes payable bearing interest 
+at 9%, payable on demand, and granted them rights to convert such notes payable
+to shares of common stock at the then current market price of $.54 per share.  
+The notes are collateralized by a mining property.  From year to year, Mssrs. 
+Bisque, Bloom and McKinnies have agreed not to demand payment during the current
+year. As of December 31, 1996, $189,000 remained outstanding under the notes.
+
+                                        14
+
+
+<PAGE>
+
+
+SIGNATURES
+In accordance  with Section 13 or 15(d) of the Exchange Act, the  Registrant has
+duly caused this report to be signed on its behalf by the undersigned, thereunto
+duly authorized.
+
+Earth Sciences, Inc.
+ (Registrant)
+
+By /s/ Mark H. McKinnies                       /s/ Duane N. Bloom
+   ----------------------------                --------------------------------
+Mark H. McKinnies, President                   Duane N.  Bloom,  Member of
+and Principal Financial Officer               Executive Committee
+
+Date   June 10, 1997                                June 10, 1997
+       --------------                               --------------
+
+In  accordance  with the Exchange  Act, this report has been signed below by the
+following  persons on behalf of the  Registrant and in the capacities and on the
+dates indicated.
+
+/s/ Ramon E. Bisque                         /s/ Robert H. Lowdermilk
+- ----------------------------------          -----------------------------------
+Ramon E.  Bisque                                Robert H. Lowdermilk
+Chairman of The Board of Directors              Director
+
+June 10, 1997                                   June 10, 1997
+- --------------                                  --------------
+   Date                                               Date
+
+/s/Duane N. Bloom                           /s/ Mark H. McKinnies
+- ----------------------------------          -----------------------------------
+Duane N.  Bloom, Director                       Mark H. McKinnies, Director
+
+June 10, 1997                                   June 10, 1997
+- --------------                                  --------------
+   Date                                               Date
+
+                                       16
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

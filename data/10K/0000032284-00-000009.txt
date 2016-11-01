@@ -1,0 +1,1482 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ MhRrkh4LtGYKZFrc2UIXCS1kLwyO+1zxKycWsTl7J0b5NmBID5eTgQ/fzG0HVJVF
+ oQKE+IGgaNctFoHd0oWO0g==
+
+<SEC-DOCUMENT>/in/edgar/work/0000032284-00-000009/0000032284-00-000009.txt : 20000927
+<SEC-HEADER>0000032284-00-000009.hdr.sgml : 20000927
+ACCESSION NUMBER:		0000032284-00-000009
+CONFORMED SUBMISSION TYPE:	10KSB
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	19990430
+FILED AS OF DATE:		20000922
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			ORION DIVERSIFIED TECHNOLOGIES INC
+		CENTRAL INDEX KEY:			0000032284
+		STANDARD INDUSTRIAL CLASSIFICATION:	 [5065
+]		IRS NUMBER:				221637978
+		STATE OF INCORPORATION:			NJ
+		FISCAL YEAR END:			0430
+</COMPANY-DATA>
+
+		FILING VALUES:
+			FORM TYPE:		10KSB
+			SEC ACT:		
+			SEC FILE NUMBER:	000-04006
+			FILM NUMBER:		726886
+</FILING-VALUES>
+
+			BUSINESS ADDRESS:	
+				STREET 1:		53 WEST HILLS RD
+				CITY:			HUNTINGTON STATION
+				STATE:			NY
+				ZIP:			11746
+				BUSINESS PHONE:		5164672301
+</BUSINESS-ADDRESS>
+
+				MAIL ADDRESS:	
+					STREET 1:		53 WEST HILLS RD
+					CITY:			HUNTINGTON STATION
+					STATE:			NY
+					ZIP:			11746
+</MAIL-ADDRESS>
+</FILER>
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>10KSB
+<SEQUENCE>1
+<FILENAME>0001.txt
+<DESCRIPTION>FINANCIAL STATEMENT
+<TEXT>
+
+                    U. S. SECURITIES AND EXCHANGE COMMISSION
+                             Washington, D.C. 20549
+
+                                   FORM 10-KSB
+                                   (Mark One)
+
+              |X| ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(D) OF
+     THE SECURITIES EXCHANGE ACT OF 1934 (FEE REQUIRED) FOR THE FISCAL YEAR
+                              ENDED APRIL 30, 1999
+ |_| TRANSITION REPORT UNDER SECTION 13 OR 15(D) OF THE SECURITIES EXCHANGE ACT
+                            OF 1934 (NO FEE REQUIRED)
+
+     For the transition period from __________________ to _________________
+
+                           Commission File No. 0-4006
+                                               ------
+
+                      ORION DIVERSIFIED TECHNOLOGIES, INC.
+                 ( Name of Small Business Issuer in its charter)
+
+                              New Jersey 22-1637978
+                              ----------
+                (State or other jurisdiction of (I.R.S. Employer
+             incorporation or organization) Identification Number)
+
+                53 West Hills Road, Huntington Station, NY 11746
+               (Address of Principal Executive Offices) (Zip Code)
+
+                                 (631) 425-6161
+                 (Issuer's Telephone Number Including Area Code)
+        Securities  registered  pursuant  to  Section  12(b)  of the  Act:  None
+           Securities registered pursuant to Section 12(g) of the Act:
+
+                          Common Stock, $.01 par value
+                          ----------------------------
+                                (Title of Class)
+
+ Check  whether  the Issuer (1) has filed all  reports  required  to be filed by
+Section 13 or 15(d) of the  Exchange  Act during the past 12 months (or for such
+shorter period that the registration was required to file such reports), and (2)
+has been subject to such filing requirements for the past 90 days.
+
+                                 YES | | NO |X|
+
+ Check if there is no disclosure of delinquent filers in response to Item 405 of
+Regulation S-B not contained in this form, and no disclosure  will be contained,
+to the best of the registrant's knowledge,  in definitive  proxy or information
+statements  incorporated  by  reference  in Part III of this Form  10-KSB or any
+amendment to this Form 10-KSB.
+                                      |-|
+
+           State issuer's revenues for its most recent fiscal year. $0
+
+ State the  aggregate  market value of the voting  stock held by  non-affiliates
+computed by reference  to the price at which the stock was sold,  or the average
+bid and asked  prices of such stock,  as of a specified  date within the past 60
+days.
+                                    $18,474.
+
+      ISSUERS INVOLVED IN BANKRUPTCY PROCEEDINGS DURING THE PAST FIVE YEARS
+
+ Check whether the issuer has filed all  documents  and  reports  required to be
+    filed by Section  12,13 or 15(d) of the Exchange Act after the  distribution
+    of securities under a plan confirmed by a court.
+                               Yes __X__ No _____
+
+                    APPLICABLE ONLY TO CORPORATE REGISTRANTS
+
+ State                               the number of shares outstanding of each of
+                                     the issuer's  classes of common equity,  as
+                                     of the latest practicable date.
+
+                 Common Stock, $.01 Par Value, 1,847,397 shares
+
+                       DOCUMENTS INCORPORATED BY REFERENCE
+                                      None
+
+
+<PAGE>
+
+
+
+
+PART I
+
+ITEM 1. BUSINESS
+
+(a) Business Development
+
+Historical
+
+The  Registrant  was  incorporated  in New  Jersey  in  1959.  Until  1986,  the
+Registrant  was  engaged in the  marketing  and sale of a line of  approximately
+2,500 electronic semiconductors,  principally transistors, diodes and rectifiers
+and, to a lesser extent, other ancillary related electronic products. Because of
+sustained  operating loses, the Company  discontinued this line of operation and
+filed a plan of  reorganization  (under  Chapter  11)  with  the  United  States
+Bankruptcy Court for the Eastern District of New York, on April 30, 1990.
+
+On September 19, 1990, and as required by the Plan, the Registrant  prepared and
+forwarded to all  stockholders of record,  a notice advising  stockholders as to
+the applicable terms of the Plan (the "Notice"). The operative provisions of the
+Notice were as follows:
+
+1. All theretofore  issued and  outstanding  shares of the  Registrant's  Common
+Stock, $.01 par value per share, which were restricted securities were cancelled
+and would not be reissued.
+
+2. All non-legend stock  (free-trading) was also cancelled but was reissued at a
+reverse-split  ratio of three new shares for every seven "old" shares turned in.
+Each "new" share was accompanied by two Common Stock Purchase Warrants;  a Class
+A Warrant exercisable within fifteen months and entitling the holder to purchase
+one  additional  "new" share of the  Registrant's  Common Stock at $2.50;  and a
+Class B Warrant  exercisable  at any time within thirty months and entitling the
+holder to purchase one additional "new" share of the  Registrant's  Common Stock
+at $3.50 a share.  A unit  consists  of one  Common  Stock  certificate  and two
+Warrant certificates. Stockholders will be required to pay a transfer fee to the
+transfer agent.
+
+The  condition  of the  above-mentioned  re-issuance  was that all shares in the
+stockholders'  possession,  or in the possession of the shareholder's broker, be
+returned to the Registrant's  then transfer agent,  Liberty Transfer Co., by the
+cut-off  date which was set at November  15, 1990,  5:00 p.m.  Eastern  Standard
+Time.  Failure to comply with this provision would result in the cancellation of
+any shares theretofore owned by stockholders.
+
+On November 12, 1990, the Registrant  prepared and forwarded to all stockholders
+of  record a notice  advising  the  stockholders  that  the  expiration  date to
+surrender and exchange their Common Stock certificates had been extended to 5:00
+p.m. on Monday,  December 31, 1990. On January 20, 1992,  due to the  bankruptcy
+proceedings  and the  Registrant's  slow  restart-up,  the  Board  of  Directors
+extended the Class A warrants another six months to June 30, 1993.
+
+As part of the Registrant's Plan of  Reorganization,  as confirmed by the United
+States  Bankruptcy  Court for the Eastern District of New York on April 30, 1990
+and  consummated on June 2, 1992, the Registrant  issued an aggregate of 905,262
+Series A Common  Stock  Purchase  Warrants  (the  "Series  A  Warrants")  and an
+aggregate of 905,262  Series B Common  Stock  Purchase  Warrants  (the "Series B
+Warrants").  The Series A Warrants  were  exercisable  at $2.50 per share within
+fifteen (15) months from June 2, 1992,  the payment date under the Plan, or such
+further  extension  as the  Registrant  may grant.  The  Series B Warrants  were
+exercisable  at $3.50 per share within thirty months from the payment date under
+the Plan, or such further extension as the Registrant may grant.
+
+
+
+
+<PAGE>
+
+
+
+The  jurisdiction  of the  Bankruptcy  Court over the affairs of the  Registrant
+ended  on  June  2,  1992  when  the  Bankruptcy  Court  entered  the  order  of
+consummation.  Due principally to the longer than anticipated  commencement date
+of  operations  and with a view  towards  granting to  stockholders  the benefit
+intended in the Plan,  management  determined that the six months  extension for
+the  warrants  would be  inadequate.  Accordingly,  the Board of  Directors,  on
+several occasions, has extended the warrants to December 31, 2000.
+
+On February 25, 1993, the Company entered an agreement with Michaels Associates,
+a  non-affiliated  business  entity,  and acquired an 85.81% equity  interest in
+Netherland  Gardens  Owners,  Inc.  (NGO), a New York  corporation.  NGO was the
+record and  beneficial  owner of a 59-unit co-op  residential  dwelling in White
+Plains, New York (the "Co-op").
+
+On January 11, 1996, the Company  entered a divestiture  agreement with Michaels
+Associates.  In accordance with the agreement, the Company received back 450,000
+shares that it had issued for the  acquisition of NGO and returned the shares of
+NGO and the Co-op to Michaels Associates.
+
+From 1996 to present, the Company has been investigating the opportunities for a
+business  combination  with a profitable  privately  owned  entity.  The Company
+believes its status as a public firm provides incentives for a merger to private
+companies that seek access to capital markets.
+
+
+ITEM 2. DESCRIPTION OF PROPERTY
+
+(a)(1) Rental Premises.  Because the Company has been dormant since 1997, it has
+used its Chairman`s  office address to receive mail. The Company had no activity
+and did not pay any rent in the year ended April 30, 1999.
+
+(a)(2) Inventory. In 1997, management determined that the inventory was obsolete
+and worthless and decided to abandon it.
+
+
+ITEM 3. LEGAL PROCEEDINGS
+
+Since  the  consummation  of the  Plan of  Reorganization  on June 2,  1992,  no
+material legal proceeding was pending or threatened  against, or settled by, the
+Registrant.
+
+
+ITEM 4. SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS
+
+Neither during the fourth quarter of the fiscal year ended April 30, 1999 nor at
+any time since August 15, 1994, did the Registrant  conduct an Annual Meeting of
+its  stockholders  pursuant to definitive  proxy materials under Regulation 14 A
+under the Act, or otherwise.
+
+
+<PAGE>
+
+
+
+PART II
+
+ITEM 5. MARKET FOR COMMON STOCK EQUITY AND RELATED STOCKHOLDER MATTERS.
+
+(a) Market Information.
+
+The principal market for the Registrant's Common Stock, its only class of equity
+securities, is the over-the-counter market.
+
+The following  table  indicates  the quarterly  high and low price ranges of the
+Registrant's  Common stock  representing  actual trades in the over-the-counter
+market  during the fiscal  years  ended April 30,  1998 and April 30,  1999,  as
+reported by the Trading and Market Service of the Nasdaq Stock Market, Inc.
+
+                                              HIGH              LOW
+Fiscal 1998:
+- -----------
+FIRST QUARTER
+May 1st thru
+July 31, 1997                                       Unpriced
+
+SECOND QUARTER
+August 1st thru
+October 31, 1997                                    Unpriced
+
+THIRD QUARTER
+November 1st thru
+January 31, 1998                                    Unpriced
+
+FOURTH QUARTER
+February 1st thru
+April 30, 1998                                      Unpriced
+
+Fiscal 1999:
+
+FIRST QUARTER
+May 1st thru
+July 31, 1998                                   .01               .01
+
+SECOND QUARTER
+August 1st thru
+October 31, 1998                                .01               .01
+
+THIRD QUARTER
+November 1st thru
+January 31, 1999                                .01               .01
+
+FOURTH QUARTER
+February 1st thru
+April 30, 1999
+
+Fiscal 2000
+
+FIRST QUARTER
+May 1st thru
+July 31, 1999
+
+(b) Holders.
+
+As of August 23, 2000, the approximate  number of holders of record of shares of
+the Registrant's Common Stock,$.01 par value per share and Series A and Series B
+Warrants,  the Registrant's  only class of trading  securities,  was believed by
+management to be as follows:
+
+
+<PAGE>
+
+
+
+Title of Class                          Number of Record Holders
+
+
+Common Stock, $.01 par                              325
+Series A Warrant                                    285
+Series B Warrant                                    286
+
+Management  believes  there are many  shareholders  and  warrant  holders  whose
+securities  are held in street name with  various  brokerage  houses.  The exact
+number of shareholders is unknown to the Registrant.
+
+(c) Dividends.
+
+The  Registrant  has paid no  dividends  during the fiscal years ended April 30,
+1998 and April 30, 1999.  Other than the requirements of the New Jersey Business
+Corporation  Act that dividends be paid out of capital surplus only and that the
+declaration and payment of a dividend not render The Registrant insolvent, there
+are no  restrictions  on the  Registrant's  present  or  future  ability  to pay
+dividends.
+
+The payment by the  Registrant of dividends,  if any, in the future rests within
+the  discretion of its Board of Directors  and will depend,  among other things,
+upon the  Registrant's  earnings,  its capital  requirements,  and its financial
+conditions, as well as other relevant factors.
+
+
+ITEM 6. MANAGEMENT'S DISCUSSION AND ANALYSIS OR PLAN OF OPERATION
+
+The Private  Securities  Litigation  Reform Act of 1995  contains  "safe harbor"
+provisions   regarding   forward-looking   statements.   Except  for  historical
+information contained herein, the matters discussed in the Liquidity and Capital
+Resources  section below contain potential risks and  uncertainties,  including,
+without  limitation,  risks  related to the  Company's  ability to  successfully
+identify  potential  merger  partners,  retain  key  employees  and  settle  any
+outstanding debts. The Company will need to attract partners in order to execute
+its revised  business  strategy,  and there can be no assurance that the Company
+will be successful in attracting such partners.
+
+RESULTS OF OPERATIONS
+
+In the fiscal years ended April 30, 1999 and 1998, the Company had  discontinued
+all operations and did not earn any revenues.
+
+In 1999 and 1998, the Company's general and administrative  expenses were due to
+the Company's  President,  Joseph  Petito,  allowing the Company to operate on a
+rent-free  basis in the premises of a privately  owned entity  controlled by Mr.
+Petito's family.
+
+The  Company  did not  conduct  any  research  and  development  or selling  and
+marketing  activities  in the fiscal  years ended  April 30, 1999 and 1998.  The
+Company is not currently  conducting any research and development or selling and
+marketing activities.
+
+During the fiscal years ended April 30, 1999, the Company  recognized a net loss
+of $400. The net loss was principally  the result of accrued  franchise tax. The
+amount of general and administrative  expenses in 1999 was only $400. Because of
+collection  time-limitations  provided in the federal  tax laws,  prior  periods
+payroll taxes are no longer a liability of the Company. In 1998, the Company had
+a net gain of $32,784, due to a reduction of prior years' payroll tax expense of
+$137,465 and the write-off of $104,101 of obsolete  inventory.  The Company does
+not anticipate sales of any products or service in the foreseeable  future other
+than those of a potential merger partner.
+
+
+<PAGE>
+
+
+The  drastic  reduction  in both the  Company's  gross  revenue  and general and
+administrative  expenses was entirely  attributable to the Company's January 11,
+1996  divestiture  of NGO. The  divestiture  left the Company  without  material
+assets or capital  resources.  Accordingly,  the continued economic viability of
+the Company is entirely  dependent  upon: (1) Mr.  Petito's  continued  funding,
+assumption  of the  Company's  expenses,  providing  the Company with  rent-free
+premises, and allowing the use of office equipment and (2) Orion's merger with a
+profitable operating company.
+
+There can be no assurance  whatsoever  that  management  will be  successful  in
+consummating a business combination during the foreseeable future.  However, and
+in spite of management's recent unsuccessful endeavors in attracting potentially
+acceptable  business  combination  partners,   management  is  still  reasonably
+optimistic that it can reach a preliminary  meeting of the minds with a business
+combination partner prior to the end of the 2000 calendar year.
+
+
+Financial Condition
+
+In 1997,  the Company  changed its direction  from  investment in real estate to
+finding a merger partner.
+
+The Company did not have any cash, as of April 30, 1999 and 1998.  The Company's
+current  assets  were $0,  on April  30,  1998 to April 30,  1999.  The  current
+liabilities  increased  by $400 from  $129,412  on April 30, 1998 to $129,812 on
+April 30, 1999.  The reason for the increase was the  additional  franchise  tax
+accrued. The  liability of $123,862 to the  Company's  shareholder  and officer
+accounted for  approximately  96% of the current  liabilities  of the Company on
+April 30, 1999 and 1998.
+
+The Company is authorized to issue up to 10,000,000  shares of its Common Stock.
+As of April  30,1999  and 1998,  there were  1,847,397  shares of the  Company's
+Common Stock issued and  outstanding.  The Company issued -0- shares in 1999 and
+1998.
+
+
+Capital Expenditures
+
+The Company did not have any material  commitments  for capital  expenditures at
+April 30, 1999 and 1998.
+
+Effects of Inflation
+
+The Company  believes that the  relatively  moderate rate of inflation  over the
+past few  years has not had a  significant  impact  on the  Company's  financial
+position or operating results.
+
+
+
+ITEM 7. FINANCIAL STATEMENTS
+
+Financial statements meeting the requirements of Item 310 of regulation S-B, for
+the fiscal year ending April 30, 1998 were audited by Bloom and Company, CPA's.
+
+ITEM  8.  CHANGES  IN AND  DISAGREEMENTS  WITH  ACCOUNTANTS  ON  ACCOUNTING  AND
+FINANCIAL DISCLOSURE.
+
+Due to the death of Meyer Zimmerman,  former Certified  Public  Accountant,  the
+Company has retained Bloom and Company, CPA's as their independent auditor.
+
+
+<PAGE>
+
+
+
+
+PART III
+
+ITEM 9. DIRECTORS, EXECUTIVE OFFICERS, PROMOTERS AND CONTROL PERSONS; COMPLIANCE
+WITH SECTION 16(a) OF THE EXCHANGE ACT
+
+(a) Identify Directors and Executive Officers.
+
+The following table sets forth:  (1) names and ages of all persons who presently
+are and who have been selected as directors of the Registrant; (2) all positions
+and offices with the Registrant held by each such person; (3) the term or office
+of each person named as a director; and 4) any period during which he or she has
+served a such:
+
+<TABLE>
+<S>                     <C>                          <C>                        <C>
+                         Duration and
+                         Expiration                  Position &                 Age and
+                         Date of                     Office with                Director
+Name                     Present Term                Registrant                 Since
+
+
+Joseph Petito            Next Annual                 President,                 80, March,1983
+                         Meeting                     Chief Executive
+                                                     Officer and Chief
+                                                     Financial Officer
+
+Irwin Lampert            Next Annual                 Vice President,            62, January,1995
+                         Meeting                     Secretary
+                                                     and Director (1)
+</TABLE>
+
+(1) Irwin Lampert was elected to the Registrant's  Board of Directors on January
+2, 1995 upon the resignation of Donald  Epstein,  to serve until the next annual
+meeting of the Board of  Directors.  On the same day,  Mr.  Lampert  was elected
+Secretary of the Registrant, upon Mr. Epstein's resignation from that office.
+
+There is no  understanding  or  arrangement  between any  directors or any other
+person or persons pursuant to which such  individual,  was or is to be, selected
+as a director or nominee of the Registrant.
+
+(4) Business Experience
+
+The  following  is a  brief  account  of the  experience  of each  director  and
+executive officers of the Registrant:
+
+JOSEPH PETITO, Mr. Petito has been continually  employed by the Registrant since
+1986. From 1983 to 1986, Mr. Petito was the  Registrant's  Chairman of the Board
+of  Directors  and since 1986 has served as its  President  and Chief  Executive
+Officer.  Simultaneously  therewith,  Mr. Petito had been the  President,  and a
+principal   shareholder  of  Aardvark   Sanitation  Co.,  Inc.,  an  independent
+industrial waste removal hauler located in Islip, New York, since that company's
+inception in 1973.  Simultaneously,  and since its inception in 1979, Mr. Petito
+had served as Secretary, Treasurer, Director and principal shareholder of Island
+Salvage Haulers, Inc., an independent industrial waste removal concern in Garden
+City,  New York.  During  the past ten  years,  Mr.  Petito has also acted as an
+independent management consultant  specializing in the design,  installation and
+operation of solid,  liquid and hazardous  waste removal  systems for commercial
+and industrial  application.  During the past ten years, Mr. Petito has also had
+other executive and directorial affiliations.
+
+
+<PAGE>
+
+
+
+IRWIN LAMPERT,  since April 1995 has been a self employed electrical engineering
+and defense  contracting  consultant in Brooklyn,  New York. Prior thereto since
+1986, Mr. Lampert was an executive officer,  director and principal  stockholder
+of American  Finishing & Spray,  Inc., a privately owned New Jersey  corporation
+engaged in the  distribution  and sale of coating  technology for industrial and
+military  application  in Newark,  New Jersey.  Prior  thereto  since 1975,  Mr.
+Lampert was employed by E-TRON  Corp.,  a publicly  owned  corporation  based in
+Edison,  Jersey and engaged in the manufacture of  electromechanical  components
+for the United  States  military.  Mr.  Lampert  received a Bachelor  of Science
+degree in Electrical  Engineering  from the City  University of the State of New
+York in 1959 and a Master of  Science  degree  in  Electrical  Engineering  from
+Polytechnic  Institute of New York in 1961. Mr. Lampert  received a Juris Doctor
+degree from Brooklyn Law School in 1965.
+
+(5) Directorship
+
+Each Director of the Registrant  has indicated to the Registrant  that he or she
+is not a director in any other Registrant with a class of securities  registered
+pursuant to Section 12 of the 34 Act or subject to the  requirements  of Section
+15(d) of such act or any investment  Registrant  registered under the Investment
+Registrant Act of 1940.
+
+(b) Identification of Certain Significant Employees
+
+The Registrant  does not presently  employ any person as a significant  employee
+who  is not an  executive  officer  but  who  makes  or is  expected  to  make a
+significant contribution to the business of the Registrant.
+
+(c) Family Relationships
+
+No family  relationship exists between any director or executive officers of the
+Registrant.
+
+(d) Involvement in Certain Legal Proceedings
+
+No event listed in  Sub-paragraphs  (1) through (4) of Subparagraph  (d) of Item
+401 of  Regulation  S-B,  has  occurred  with  respect to any present  executive
+officer or director of the  Registrant  or any nominee for  director  during the
+past five years,  which is material to an evaluation of the ability or integrity
+of such director or officer.
+
+
+<PAGE>
+
+
+ITEM 10. EXECUTIVE COMPENSATION.
+
+(a) General
+
+(1) through (7) All Compensation Covered. During the fiscal year ended April 30,
+1998,  no  compensation  was paid to,  accrued  or set aside  for any  executive
+officer or director of the Registrant.
+
+(b) Summary Compensation Table.
+<TABLE>
+
+                                 SUMMARY COMPENSATION TABLE
+                        Annual Compensation           Long-Term Compensation
+                                                  Restricted   Securities
+                                                    Stock     Underlying   LTI
+    Name           Year    Salary   Bonus  Other    Award(s)     Options   pay
+    ----           ----    ------   -----  -----    --------     -------   ---
+<S>                <C>      <C>      <C>   <C>      <C>          <C>
+
+Joseph Petito       1997    $-0-(1)  None  None      None        None     None
+Joseph Petito       1998     -0-(1)  None  None      None        None     None
+Joseph Petito       1999     -0-(1)  None  None      None        None     None
+</TABLE>
+
+(1) On July 30,  1997,the  Registrant  received a written  statement from Joseph
+Petito wherein and whereby he irrevocably  waived any and all claims that he may
+have to receive compensation from the Registrant for the four fiscal years ended
+April 30, 1997 in the sum of $312,000  plus any and all  accrued  interest.  Mr.
+Petito  also  waived any right  that he may have  under and with  respect to the
+October 1, 1992 verbal  agreement  with the Board of Directors  granting him the
+right and option to convert the Registrant's debt and obligation to him into two
+shares of the  Registrant's  Common Stock, at $.01 par value, for every $1.00 of
+debt.
+
+(c)  Option/SAR  Grant Table.  During the fiscal year ended April 30, 1999,  the
+Registrant made no grants of stock options or freestanding SAR's.
+
+(d) Aggregate  Option/SAR  Exercises and Fiscal Year-End Option/SAR Value Table.
+No stock options or freestanding  SAR's are issued or outstanding.  Accordingly,
+and  during  the  fiscal  year  ended  April  30,  1999,  no  stock  options  or
+freestanding SAR's were exercised.  Notwithstanding the foregoing,  an aggregate
+of 1,000,000 shares of the Registrant's  Common Stock,  $.01 par value per share
+are reserved for issuance pursuant to the Registrant's  long-term incentive plan
+adopted by the  Registrant's  Board of  Directors in August,  1990,  but not yet
+ratified and approved by the Registrant's stockholders.
+
+(e) Long-Term Incentive Plan ("LTIP") Awards Table. During the fiscal year ended
+April 30, 1999, the Registrant made no LTIP awards.
+
+(f)  Compensation of Directors.  (1) and (2). During the fiscal year ended April
+30,  1998,  no director of the  Registrant  received any  compensation,  whether
+pursuant to any standard or other arrangement or otherwise.
+
+(g) Employment  Contracts and Termination of Employment,  and Change-in  Control
+Arrangements.  (1) and (2). No  executive  officer,  director or employee of the
+Registrant  is serving  pursuant to the terms of a written  employment  or other
+compensation agreement, understanding or arrangement with the Registrant; and no
+such agreement was entered into during the fiscal year ended April 30, 1999.
+
+(h) Report on Repricing of Options/SAR's. No stock options or freestanding SAR's
+are issued or outstanding.  Accordingly,  and during the fiscal year ended April
+30, 1999, no stock options or freestanding SAR's were repriced.
+
+ITEM 11. SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT
+
+(a) Security Ownership of Certain Beneficial Owner. The information is furnished
+as of April 30,  1999,  as to the  number of shares of the  Registrant's  Common
+Stock, $.01 par value per share owned  beneficially,  or known by the Registrant
+to own beneficially, more than 5% of any class of such security:
+
+
+<PAGE>
+<TABLE>
+
+
+Name and Address                   Amount and Nature
+of Beneficial                      of Beneficial
+Owner                              Ownership                Percentage of Class
+<S>                                   <C>                           <C>
+
+Adaer Berkeley Colletone, Inc.        150,000                       8.1%
+659 Old Willets path
+Hauppauge, NY 11788 (1)
+
+Anita E. Petito                       180,500                       9.8%
+659 Old Willets Path
+Hauppauge, NY 11788 (2)
+
+</TABLE>
+
+(1) A New York  corporation  controlled  by and under  common  control of Joseph
+Petito,  the Registrants  President and Chief Executive  Officer and hereinafter
+referred to as "ABC". See Item 11(b).
+
+(2) Wife of Joseph Petito.  See Item 11(b).
+
+(b) Security Ownership of Management.  The information is furnished as of August
+28, 2000, as to the number of shares of the Registrant's  Common Stock, $.01 par
+value per share owned beneficially by each executive officer and director of the
+Registrant and by all executive officers and directors as a group:
+
+Name and Address                   Amount and Nature
+of Beneficial                      of Beneficial
+Owner                              Ownership            Percentage of Class
+<TABLE>
+
+<S>                               <C>                           <C>
+Joseph Petito                     1,024,084 (1)(2)(3)          54.90%
+659 Old Willets Path
+Hauppauge, NY 11788
+
+Irwin Lampert                      15,000(4)                   0.82%
+1707 East 55th Street
+Brooklyn, NY 11234
+
+All Officers
+And                                                            55.72%
+Directors as a Group
+</TABLE>
+
+- --------------------------
+
+(1) Does not include an  aggregate  of 563,400  Series A Common  Stock  Purchase
+Warrants or an aggregate  of 563,400  Series B Common  Stock  Purchase  Warrants
+owned by Mr. Petito and granted to him as a Class II and a Class IV creditor and
+pursuant  to Article III (Class V) of the Plan.  In the event that all  publicly
+owned Class A and Class B Warrants are exercised  and Mr.  Petito  exercises his
+Class A and Class B Warrants,  there will be an aggregate of 3,656,421 shares of
+the Registrant's Common Stock issued and outstanding.
+
+(2)  Includes an aggregate of 180,500  shares of the  Registrant's  Common stock
+owned of record by Anita E.  Petito,  wife of Joseph  Petito and an aggregate of
+150,000 shares of the Registrant's Common Stock owned of record by ABC.
+
+(3) Does not include an aggregate of 101,500 shares of the  Registrant's  Common
+Stock owned of record by Anita M. Petito, the adult daughter of Joseph Petito or
+27,400 shares owned by her husband, neither of whom reside in the same household
+as Joseph Petito.
+
+(4) Includes an aggregate of 5,000 shares of the Registrant's Common Stock owned
+of record by Philip T. Lampert,  the son of Irwin  Lampert,  who resides in same
+household as Irwin Lampert.
+
+(c) Changes in Control.  As of the date of this Report,  the  Registrant has not
+entered into any  agreements,  the  operation of which may at a subsequent  date
+result in a change of control of the Registrant.
+
+
+<PAGE>
+
+
+
+ITEM 12. CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS
+
+(a)(b) On July 30, 1997, the Registrant received a written statement from Joseph
+Petito wherein and whereby he irrevocably  waived any and all claims that he may
+have to receive compensation from the Registrant for the four fiscal years ended
+April 30, 1997 in the sum of $312,000  plus any and all  accrued  interest.  Mr.
+Petito  also  waived any right  that he may have  under and with  respect to the
+October 1, 1992 verbal  agreement  with the Board of Directors  granting him the
+right and option to convert the Registrant's debt and obligation to him into two
+shares of the  Registrant's  Common Stock, at $.01 par value, for every $1.00 of
+debt.
+
+Except for the  foregoing  and during the fiscal  year ended  April 30, 1999 and
+April 30,  1998,  no officer,  director  or relative or spouse of the  foregoing
+persons or any relative of such person who has the same home as such person,  or
+is a director or other officer of any parent or subsidiary of the  Registrant or
+any shareholder  known by the Registrant to own of record or  beneficially  more
+than five(5%) percent of the Registrant's Common Stock, had a direct or indirect
+material interest in any transaction or presently proposed  transaction to which
+the Registrant or any of its parents or subsidiaries was or is a party.
+
+(c) Parents. The following  individuals and entities may be deemed to be parents
+of the  Registrant:  (i) Joseph Petito,  the record and  beneficial  owner of an
+aggregate of 1,014,084  shares of the Registrant's  Common Stock;  (ii) Anita E.
+Petito, the record and beneficial owner of an aggregate of 180,500 shares of the
+Registrant's  Common  Stock;  and ABC,  the  record and  beneficial  owner of an
+aggregate of 150,000 shares of the Registrant's Common Stock, which are included
+in the aggregate amount shown for Joseph Petito; (iii) Irwin Lampert, the record
+and beneficial owner of an aggregate of 15,000 shares.
+
+(d) Transactions with Promoters. Inapplicable.
+
+
+ITEM 13.  Exhibits and Reports on Form 8-K
+
+No Form 8-K was filed in the fiscal year ended April 30, 1998.
+
+
+<PAGE>
+
+
+
+
+SIGNATURES
+Pursuant to the requirements of Section 13 or 15 (d) of the Securities  Exchange
+Act of 1934,  the  Registrant  has duly  caused  this Report to be signed on its
+behalf by the undersigned  thereunto duly authorized,  in the City of Huntington
+Station, State of New York, on August 31, 2000.
+
+
+ORION DIVERSIFIED TECHNOLOGIES, INC.
+
+BY:
+
+
+__________________________________
+
+JOSEPH PETITO,
+President and Chief Executive Officer,
+Treasurer and Chief Financial Officer
+
+Pursuant  to the  requirements  of the  Securities  Exchange  Act of  1934,  the
+following persons on behalf of the Registrant and in their capacities and on the
+dates indicated have signed this report below.
+
+
+______________________
+
+JOSEPH PETITO, Director
+Dated:  August 31, 2000
+Huntington Station, New York
+
+
+
+- ----------------------
+IRWIN LAMPERT, Director
+Dated:  August 31, 2000
+Huntington Station, New York
+
+
+
+
+
+
+
+
+<PAGE>
+
+
+
+                          INDEPENDENT AUDITORS' REPORT
+
+Board of Directors
+Orion Diversified Technologies, Inc.
+Garden City, New York
+
+We  have  audited  the   accompanying   balance  sheets  of  Orion   Diversified
+Technologies,  Inc. as of April 30, 1999 and 1998 and the related  statements of
+operations,  changes in stockholders'  equity, and cash flows for the years then
+ended.  These  financial  statements  are the  responsibility  of the  Company's
+management.  Our  responsibility  is to express  an  opinion on these  financial
+statements based on our audits.  The financial  statements of Orion  Diversified
+Technologies, Inc. as of April 30, 1997, were audited by other auditors who have
+ceased  operations  and whose report  dated  September  25,  1997,  expressed an
+unqualified opinion on those statements.
+
+We  conducted  our  audits  in  accordance  with  generally   accepted  auditing
+standards.  These standards require that we plan and perform the audit to obtain
+reasonable assurance about whether the financial statements are free of material
+misstatement.  An audit includes examining, on a test basis, evidence supporting
+the amounts and disclosures in the financial statements.  An audit also includes
+assessing the accounting  principles  used, and  significant  estimates made, by
+management as well as evaluating the overall financial  statement  presentation.
+We believe that our audit provides a reasonable basis for our opinion.
+
+In our opinion,  the financial  statements  referred to above present fairly, in
+all material respects, the financial position of Orion Diversified Technologies,
+Inc. as of April 30, 1999 and 1998 and the results of its operation,  changes in
+stockholders'  equity and its cash flows for the years then ended, in conformity
+with generally accepted accounting principles.
+
+The  accompanying  financial  statements  have been  prepared  assuming that the
+company  will  continue  as a  going  concern.  As  discussed  in  Note 7 to the
+financial  statements,  the Company has  incurred  losses  from  operations  for
+several years and has a net capital  deficiency  that raises  substantial  doubt
+about its ability to continue as a going concern. Management's plans with regard
+to these matters are also  described in Note 7. The financial  statements do not
+include any adjustments that might result from the outcome of this uncertainty.
+
+
+Bloom and Company
+Hempstead, New York
+August 31, 2000
+
+
+
+<PAGE>
+
+
+                      ORION DIVERSIFIED TECHNOLOGIES, INC.
+                                  BALANCE SHEET
+<TABLE>
+
+                                                             April 30,
+                                                                1999
+<S>                                                              <C>
+
+Assets
+
+Current Assets:
+
+       Inventory                                           $      --
+                                                             -------
+                Total Current Assets                              --
+                                                             -------
+                Total Assets                               $      --
+                                                             =======
+
+Liabilities & Stockholders Equity
+
+Current Liabilities:
+
+       Accounts Payable and Accrued Expenses                   5,950
+       Due to Officers                                       123,862
+       Payroll Taxes Payable - Chapter XI                         --
+                                                             -------
+       Total Liabilities                                     129,812
+                                                             -------
+
+Stockholders Equity:
+
+    Common Stock, par value $.01 per share,
+     authorized 10,000,000 shares, issued
+       and outstanding 1,847,397 shares                       18,469
+       Paid-in Capital                                         3,737
+       Deficit                                              (152,018)
+                                                             -------
+       Total Stockholders Equity                            (129,812)
+                                                             -------
+Total Liabilities & Stockholders Equity                    $      --
+                                                             =======
+</TABLE>
+
+The accompanying notes are an integral part of these financial statements.
+
+
+
+<PAGE>
+
+
+
+                      ORION DIVERSIFIED TECHNOLOGIES, INC.
+                             STATEMENT OF OPERATIONS
+                            THE YEAR ENDED APRIL 30,
+
+                                                    1999                    1998
+                                                    ----                    ----
+<TABLE>
+<S>                                             <C>                        <C>
+
+INCOME
+
+Revenues                                          $   --                  $   --
+
+Costs & Expenses:
+
+     General & Administrative                        400                     580
+     Expiration of liability for
+     Payroll taxes                                    --                (137,465)
+     Write-off abandoned inventory                    --                 104,101
+                                                  ------                 -------
+      Total costs and expenses (Income)              400                ( 32,784)
+                                                  ------                 -------
+       Total Costs & Expenses                        400                  32,784
+                                                  ------                 -------
+Income (Loss)                                       (400)                 32,784
+
+Income taxes:
+     Current                                          --                 ( 4,831)
+     Tax benefit                                      --                   4,831
+                                                  ------                  ------
+     Net Income (loss)                          $   (400)               $ 32,784
+                                                  ======                  ======
+
+Earnings per share:
+Net income (loss)
+Basic                                              N/A                   $ .02
+                                                   ===                     ===
+
+Diluted                                            N/A                   $ .02
+                                                   ===                     ===
+
+Weighted Average Number of
+  Common Shares                                 1,847,397              1,847,397
+                                                =========              =========
+</TABLE>
+
+The accompanying notes are an integral part of these financial statements.
+
+
+<PAGE>
+
+
+
+                      ORION DIVERSIFIED TECHNOLOGIES, INC.
+                  CONSOLIDATED STATEMENT OF STOCKHOLDERS EQUITY
+                     THE YEARS ENDED APRIL 30, 1999 AND 1998
+
+
+<TABLE>
+
+                                                                    Additional
+                                Common Stock          Warrants        Paid In    Accumulated
+                                ------------          --------
+                            Shares       Amount    Type    Number     Capital      Deficit       Total
+<S>                         <C>          <C>       <C>    <C>         <C>         <C>            <C>
+
+Balance 5/01/97              1,844,397     18,439    A     903,762    $ 3,737     (184,402)     (162,226)
+                                                     B     905,262
+Shares issued for
+Professional
+ services 1997                   3,000         30                                                     30
+
+Net Income fiscal
+year 1998                                                                           32,784        32,784
+                             ---------    -------     -    --------     ------     -------       -------
+                                                      A    903,762
+Balance 4/30/98              1,847,397    $18,469     B    905,262    $  3,737    $(151,618)   $(129,412)
+
+Net loss fiscal
+year 1999                                                                          (    400)    (    400)
+                             ---------    -------     -    --------     ------     --------      -------
+                                                      A    903,762
+Balance 4/30/99              1,847,397    $18,469     B    905,262    $  3,737    $(152,018)   $(129,812)
+                             =========     ======     =    =======      ======      =======      =======
+
+</TABLE>
+
+The accompanying notes are an integral part of these financial statements.
+
+<PAGE>
+
+
+
+                      ORION DIVERSIFIED TECHNOLOGIES, INC.
+                           STATEMENT OF CASH FLOWS FOR
+                     THE YEAR ENDED APRIL 30, 1999 AND 1998
+
+                                                           1999             1998
+                                                           ----             ----
+<TABLE>
+<S>                                                      <C>               <C>
+
+Cash Flow from Operating Activities
+
+           Net Income (Loss)                             $  ( 400)     $  32,784
+
+Adjustments to Reconcile Net Loss
+To Net Cash Provided by (Used For)
+Operating Activities
+
+Changes in assets and liabilities:
+
+     Shares issued for professional services                   --             30
+     Write off of inventories                                  --             --
+     Payroll Taxes                                             --       (137,465)
+     Accounts payable and accrued expenses                    400            550
+                                                         --------          -----
+Net Cash Provided By (Used In)  Operations                     --             --
+                                                         --------          -----
+Net Increase/Decrease in Cash                                  --             --
+                                                         --------          -----
+Cash - Beginning                                               --             --
+                                                         --------          -----
+Cash - Ending                                          $       --        $    --
+                                                         ========          =====
+
+</TABLE>
+
+The accompanying notes are an integral part of these financial statements.
+
+
+
+<PAGE>
+
+
+                      ORION DIVERSIFIED TECHNOLOGIES, INC.
+                          NOTES TO FINANCIAL STATEMENTS
+
+NOTE 1. ORGANIZATION, BUSINESS AND BASIS OF PRESENTATION
+
+Orion   Diversified   Technologies,   Inc.  (the  Company),   d/b/a   Electronic
+Transistors,  Corp.,  was  incorporated  in New Jersey in 1959.  The Company was
+initially  engaged in the  marketing and sale of a line of  approximately  2,500
+electronic semi-conductors,  principally transistors, diodes and rectifiers and,
+to a lesser extent,  other ancillary related  electronics.  Because of sustained
+operating  loses,  the Company  discontinued  this line of operation and filed a
+plan of  reorganization  (under  Chapter 11) with the United  States  Bankruptcy
+Court for the Eastern District of New York, on April 30, 1990.
+
+Pursuant to the plan of reorganization,  the Company issued 905,262 unrestricted
+shares  and an equal  number  of  Series A and  Series B Common  Stock  Purchase
+Warrants to various creditors.  Under the plan,  creditors received one share of
+common  stock,  a Series A warrant,  and a Series B warrant  for every  $5.00 of
+debt.  The Series A and B warrants were  exercisable  at $2.50 and $3.50 and had
+initial  expiration  dates of 15 and 20 months from June 2, 1992,  respectively.
+The Company had the option to grant, and has continually  granted  extensions of
+the exercise period of the warrants.
+
+On February  25,  1993,  the Company  acquired as an 85.81%  equity  interest in
+Netherland  Gardens  Owners,   Inc.  (a  New  York  corporation)  from  Michaels
+Associates,  a non-affiliated  business entity.  The corporation owned a 59 unit
+cooperative  residential  dwelling in White Plains, New York (the "Co-op").  The
+Company  exchanged  500,000  shares of  restricted  stock for all shares held by
+Michael Associates and issued 50,000 shares to the finder and broker.
+
+From 1993 to 1996,  the Company's  investment in the Co-Op resulted in recurring
+losses.  On January 11,  1996,  the Company  entered into a new  agreement  with
+Michael  Associates.  Under  the new  agreement,  Michaels  Associates  retained
+100,000 shares of the Company's stock,  cancelled the acquisition contract,  and
+released the Company from any and all obligations.
+
+Since 1996,  the Company has sought a merger  partner who will  benefit from the
+Company's  access to capital  markets and provide  the Company  with  profitable
+operations.
+
+
+<PAGE>
+
+
+                      ORION DIVERSIFIED TECHNOLOGIES, INC.
+                          NOTES TO FINANCIAL STATEMENTS
+
+
+NOTE 2. - SUMMARY OF SIGNIFICANT ACCOUNT POLICIES
+
+
+Estimates and Assumptions
+
+The  preparation  of financial  statements,  in  conformity  with the  generally
+accepted  accounting  principles,  requires  management  to make  estimates  and
+assumptions  that  affect the  reported  amounts of assets and  liabilities  and
+disclosure of  contingent  assets and  liabilities  at the date of the financial
+statements  and the  reported  amounts  of  revenues  and  expenses  during  the
+reporting period. Actual results could differ from those estimates.
+
+Cash Equivalents
+
+The Company  considers  all highly  liquid  investments  with  maturity of three
+months or less, when purchased, to be cash equivalents.
+
+Inventories
+
+The Company's inventory of semi-conductors was composed of unsold obsolete items
+with no market value.  As of July 31, 1997 the Company  wrote off  $104,101,  of
+abandoned inventory.
+
+Property and Equipment
+
+Property and equipment are recorded at cost.  Depreciation is computed using the
+straight-line  method over the  estimated  useful  lives of the  related  assets
+ranging  from  three to five  years.  Property  held  under  capital  leases  is
+amortized over the lesser of the lease term or their estimated useful lives.
+
+
+<PAGE>
+
+
+                      ORION DIVERSIFIED TECHNOLOGIES, INC.
+                          NOTES TO FINANCIAL STATEMENTS
+
+
+NOTE 2. - SUMMARY OF SIGNIFICANT ACCOUNT POLICIES (continued)
+
+Long-Lived Assets
+
+The Company  follows the  provisions  of the  Statement of Financial  Accounting
+Standards  ("SFAS") No. 121 "Accounting for the Impairment of Long-Lived  Assets
+and for Long-Lived  Assets to be disposed of". SFAS 121  establishes  accounting
+standards  for the  impairment  of  long-lived  assets and certain  identifiable
+intangibles  to  be  held  and  used  and  for  long-lived  assets  and  certain
+identifiable intangibles to be disposed of.
+
+The Company  reviews the  carrying  values of its  long-lived  and  identifiable
+intangible  assets  for  possible  impairment  whenever  events  or  changes  in
+circumstances  indicate  that  the  carrying  amount  of the  assets  may not be
+recoverable.
+
+Income Taxes
+
+Income taxes are accounted for under the asset and  liability  method.  Deferred
+tax  assets  and  liabilities   are  recognized  for  future  tax   consequences
+attributable to differences  between the financial statement carrying amounts of
+existing  assets and  liabilities  and their  respective tax bases and operating
+loss and tax credit  carry-forwards.  Deferred  tax assets and  liabilities  are
+measured  using  enacted tax rates  expected  to apply to taxable  income in the
+years in which those  temporary  differences  are  expected to be  recovered  or
+settled.  The effect on deferred tax assets and  liabilities  of a change in tax
+rates is recognized in income in the period that includes the enactment date.
+
+
+Non-monetary Transactions
+
+The accounting for non-monetary assets is based on the fair values of the assets
+involved.  Cost  of a  non-monetary  asset  acquired  in  exchange  for  another
+non-monetary  asset is  recorded at the fair value of the asset  surrendered  to
+obtain it. The difference in the costs of the assets  exchanged is recognized as
+a gain or loss. The fair value of the asset received is used to measure the cost
+if it is more clearly evident than the fair value of asset surrendered.
+
+
+
+
+<PAGE>
+
+
+
+                      ORION DIVERSIFIED TECHNOLOGIES, INC.
+                          NOTES TO FINANCIAL STATEMENTS
+
+
+NOTE 2. - SUMMARY OF SIGNIFICANT ACCOUNT POLICIES (continued)
+
+Stock-Based Compensation
+
+The  Company  has  adopted  Accounting  Principles  Board  Opinion  25  for  its
+accounting for stock based compensation. Under this policy:
+
+1. Compensation costs are recognized as an expense over the period of employment
+attributable to the employee stock options.
+
+2. Stocks  issued in  accordance  with a plan for past or future  services of an
+employee are allocated between the expired costs and future costs.  Future costs
+are charged to the periods in which the  services are  performed.  The pro forma
+amounts of the difference between  compensation cost, included in net income and
+related cost,  measured by the fair value based method including the related tax
+effects, are disclosed.
+
+Earnings per Share
+
+The Company  follows the  Statement of Financial  Accounting  Standards No. 128,
+Earnings Per Share ("SFAS No. 128").  SFAS No. 128 requires the  presentation of
+both basic and diluted earnings per share.
+
+New Accounting Standards
+
+In June  1997,  the  Financial  Accounting  Standards  Board  issued  SFAS  130,
+"Reporting  Comprehensive  Income". SFAS 130 establishes standards for reporting
+and display of  comprehensive  income and its  components  (revenues,  expenses,
+gains,  and  losses)  in a full set of  general  purpose  financial  statements.
+Specifically,  SFAS 130  requires  that all items  that meet the  definition  of
+components of comprehensive  income be reported in a financial statement for the
+period in which they are recognized.  However, SFAS 130 does not specify when to
+recognize,  or how to measure, the items that make up comprehensive income. SFAS
+130 is effective for fiscal years  beginning  after December 15, 1997, and early
+application is permitted.  Management  believes the application of SFAS 130 will
+not have a material effect on the Company's future financial statements.
+
+In June  1997,  the  Financial  Accounting  Standards  Board  issued  SFAS  131,
+"Financial  Reporting for Segments of Business  Enterprise." SFAS 131 supersedes
+the "industry  segment" concept of SFAS 14 with a "management  approach" concept
+as the basis for  identifying  reportable  segments.  SFAS 131 is effective  for
+fiscal  years  beginning  after  December  15,  1997 and  early  application  is
+permitted.  Management  believes  the  application  of SFAS  131 will not have a
+material effect on the Company's future financial statements.
+
+
+<PAGE>
+
+
+                      ORION DIVERSIFIED TECHNOLOGIES, INC.
+                          NOTES TO FINANCIAL STATEMENTS
+
+
+NOTE 2. - SUMMARY OF SIGNIFICANT ACCOUNT POLICIES (continued)
+
+New Accounting Standards
+
+In April  1998,  the FASB issued SOP 98-5,  "Reporting  on the Costs of Start-up
+Activities,"  which will become  effective  for the Company in fiscal  2000.  It
+requires costs of start-up  activities and organization costs to be expressed as
+incurred.  The Company  currently follows this approach and such costs have been
+minimal in the past.
+
+In February 1998, the FASB issued SFAS No. 132,  "Employers'  Disclosures  About
+Pensions and Other  Post-retirement  Benefits,"  which became  effective for the
+fiscal years beginning after December 15, 1997. The statement  standardizes  the
+disclosure requirements for pension plans and other post retirement benefits. To
+the extent practicable, the statement requires additional information on changes
+in the benefit  obligations  and fair value of plan assets.  The Company adopted
+the SFAS 132. The adoption of SFAS No. 132 did not have  material  impact on the
+Company's consolidated financial statements,  the results of operations,  or the
+notes thereto.
+
+
+NOTE 3 - PAYROLL TAXES
+
+In connection with the Plan of Reorganization, payroll taxes were due within six
+years from April 23, 1986, the date of assessment.  The Company has not paid the
+$137,465  tax  liability  and the  taxing  authorities  have  taken no action to
+collect it.  Management  believes that,  under the current federal and state tax
+laws,  the liability is subject to the statute of limitation and therefore is no
+longer due.
+
+
+NOTE 4 - COMMON STOCK PURCHASE WARRANTS
+
+In accordance with the Plan of  Reorganization,  905,262  redeemable Class A and
+Class B Purchase  Warrants were issued between  September 19, 1990, and December
+30, 1990.  Each  warrant  entitles the holder to purchase one "new" share of the
+Company's  stock for each warrant that is exercised.  The exercise  price of the
+Class A and Class B  Warrants  are $2.50 and $3.50,  respectively.  The Board of
+Directors  of the Company  extended  the  expiration  dates for both  Classes of
+Warrants to December 31, 2000.
+
+As of August  15,  2000,  903,762  Class A and  905,262  Class B  Warrants  were
+outstanding.
+
+
+NOTE 5 - RELATED PARTY TRANSACTIONS
+
+Transactions with Management
+
+The Company has agreed to certain transactions with Joseph Petito, the Company's
+President,   Chief  Operating  Officer,  Chairman  of  the  Board  and  majority
+shareholder. Such transactions are described below:
+
+1. Facilities
+
+The  Company's  President  has  arranged for the Company to conduct its business
+affairs on the premises of a company  controlled by the President and located in
+Ronkonkoma, New York. Said premises and office equipment are being utilized on a
+rent-free basis.
+
+
+<PAGE>
+
+
+
+                      ORION DIVERSIFIED TECHNOLOGIES, INC.
+                          NOTES TO FINANCIAL STATEMENTS
+
+
+NOTE 5 - RELATED PARTY TRANSACTIONS (Continued)
+
+Transactions with Management
+
+
+2. Compensation and Other Costs
+
+The  Company  has had no sales or  other  income  since  the  relocation  of its
+offices.  As a result,  Mr.  Petito has advanced  virtually all of the Company's
+operating expenses.
+
+On June 2, 1990, the Board of Directors  agreed to provide  compensation  to Mr.
+Petito,  at the rate of $1,500 per week.  On May 2, 1994,  Mr.  Petito agreed to
+forego the $1,500  weekly  compensation  until the Company  shows a  significant
+upward trend in its results of operations.
+
+
+3. Due to Officer
+
+As of April 30, 1999, the amounts owed to the officer were as follows
+<TABLE>
+        <S>                                             <C>
+
+       Salary                                       $  78,000
+       Advances made to the Company                    45,862
+                                                      -------
+              Total                                 $ 123,862
+                                                      =======
+
+</TABLE>
+
+
+NOTE 6. INCOME TAXES
+
+
+The Company's net operating loss carryforwards and their expiration dates are as
+follows:
+
+<TABLE>
+
+        Year loss          Expiration           Loss         Estimated
+        incurred              Date             Amount        Tax Asset
+
+        <S>                 <C>                 <C>             <C>
+
+        1996                 2015            $ 38,056        $ 5,708
+        1997                 2016                 150             30
+                                               ------          -----
+                 Total                         38,206          5,738
+Less: Valuation allowance                                     (5,738)
+                                               ======          -----
+                                                             $    --
+                                                               =====
+
+</TABLE>
+
+<PAGE>
+
+
+
+
+                      ORION DIVERSIFIED TECHNOLOGIES, INC.
+                          NOTES TO FINANCIAL STATEMENTS
+
+
+NOTE 6. INCOME TAXES (Continued)
+
+Management  believes  that there is a risk that certain of these NOLs may expire
+unused and, accordingly, has established a valuation allowance against them.
+
+The valuation allowance of $10,562 as of April 30, 1998 was reduced by $4,831 as
+a consequence of recognizing tax benefit of loss carryforward, in 1999.
+
+Income tax expense  differed from the amount  computed by applying the statutory
+U.S.  Federal  Income Tax rates of 15% to the taxable  incomes  before  taxes of
+1998:
+<TABLE>
+
+<S>                                            <C>              <C>
+                                               1999            Rate
+         Computed "expected"
+            income tax expense              $(4,831)           (15)%
+         Tax benefit of loss carryforward     4,831             15
+                                              -----             --
+         Total income tax expense           $    --             --
+                                              =====             ==
+
+</TABLE>
+
+NOTE 7. GOING CONCERN BASIS AND FUTURE PLANS
+
+The accompanying consolidated financial statements have been prepared on a going
+concern basis which  contemplates  the realization of assets and satisfaction of
+liabilities in the normal course of business.
+
+Orion has not realized any material revenues for the three years ended April 30,
+1997,  and the  consolidated  results of operations for the year ended April 30,
+1998 reflect a loss of $151,618.  The Company also is entirely  supported by its
+majority shareholder.  These factors raise substantial doubt about the Company's
+ability to continue as a going concern.
+
+Management's  long-standing  plans to remedy these conditions involve a business
+combination with a profitable  private company in a reverse merger  transaction.
+The Company further anticipates an eventual improvement in liquidity through the
+exercise of the Company's Class A and B Warrants.
+
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-27
+<SEQUENCE>2
+<FILENAME>0002.txt
+<DESCRIPTION>FDS -I
+<TEXT>
+
+<TABLE> <S> <C>
+
+
+<ARTICLE>                     5
+<LEGEND>
+     (Replace this text with the legend)
+</LEGEND>
+<CIK>                                          0000032284
+<NAME>                                         Orion Diversified Technologies
+
+<S>                             <C>
+<PERIOD-TYPE>                   YEAR
+<FISCAL-YEAR-END>                              APR-30-1999
+<PERIOD-START>                                 MAY-01-1998
+<PERIOD-END>                                   APR-30-1999
+<CASH>                                              0
+<SECURITIES>                                        0
+<RECEIVABLES>                                       0
+<ALLOWANCES>                                        0
+<INVENTORY>                                         0
+<CURRENT-ASSETS>                                    0
+<PP&E>                                              0
+<DEPRECIATION>                                      0
+<TOTAL-ASSETS>                                      0
+<CURRENT-LIABILITIES>                         129,812
+<BONDS>                                             0
+<PREFERRED-MANDATORY>                               0
+<PREFERRED>                                         0
+<COMMON>                                       18,469
+<OTHER-SE>                                   (148,281)
+<TOTAL-LIABILITY-AND-EQUITY>                        0
+<SALES>                                             0
+<TOTAL-REVENUES>                                    0
+<CGS>                                               0
+<TOTAL-COSTS>                                       0
+<OTHER-EXPENSES>                                  400
+<LOSS-PROVISION>                                    0
+<INTEREST-EXPENSE>                                  0
+<INCOME-PRETAX>                                  (400)
+<INCOME-TAX>                                        0
+<INCOME-CONTINUING>                                 0
+<DISCONTINUED>                                      0
+<EXTRAORDINARY>                                     0
+<CHANGES>                                           0
+<NET-INCOME>                                     (400)
+<EPS-BASIC>                                       .00
+<EPS-DILUTED>                                     .00
+
+
+
+</TABLE>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

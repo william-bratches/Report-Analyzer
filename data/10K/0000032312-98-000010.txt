@@ -1,0 +1,922 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ G+UTQUC7pV1AU9rdUnDs4uOUnfRYZRrkvUz2cXIGslCQO/dtEQUYKwGBPtfbIZZD
+ sLP8+Lpwmx84FinecGiKKQ==
+
+<SEC-DOCUMENT>0000032312-98-000010.txt : 19980710
+<SEC-HEADER>0000032312-98-000010.hdr.sgml : 19980710
+ACCESSION NUMBER:		0000032312-98-000010
+CONFORMED SUBMISSION TYPE:	10KSB/A
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	19980331
+FILED AS OF DATE:		19980709
+SROS:			NASD
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			EMCEE BROADCAST PRODUCTS INC
+		CENTRAL INDEX KEY:			0000032312
+		STANDARD INDUSTRIAL CLASSIFICATION:	RADIO & TV BROADCASTING & COMMUNICATIONS EQUIPMENT [3663]
+		IRS NUMBER:				131926296
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0331
+
+	FILING VALUES:
+		FORM TYPE:		10KSB/A
+		SEC ACT:		
+		SEC FILE NUMBER:	001-06299
+		FILM NUMBER:		98663366
+
+	BUSINESS ADDRESS:	
+		STREET 1:		P O BOX 68
+		STREET 2:		SUSQUEHANNA STREET EXTENSION WEST
+		CITY:			WHITE HAVEN
+		STATE:			PA
+		ZIP:			18661-0068
+		BUSINESS PHONE:		7174439575
+
+	MAIL ADDRESS:	
+		STREET 1:		P O BOX 68
+		STREET 2:		SUSQUEHANNA STREET EXTENSION
+		CITY:			WHITE HAVEN
+		STATE:			PA
+		ZIP:			18661
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	ELECTRONICS MISSILES & COMMUNICATIONS INC
+		DATE OF NAME CHANGE:	19920703
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>10KSB/A
+<SEQUENCE>1
+<TEXT>
+
+             U.S. SECURITIES AND EXCHANGE COMMISSION
+                     WASHINGTON, D.C.  20549
+
+                       FORM 10-KSB/A (No.1)
+                      ----------------------              
+(Mark One)
+
+                   ANNUAL REPORT UNDER SECTION 13 OR 15(d) OF THE
+     X             SECURITIES EXCHANGE ACT OF 1934 [Fee Required]
+
+                         For the fiscal year ended March 31, 1998
+
+                   TRANSITION REPORT UNDER SECTION 13 OR 15(d) OF
+     __            THE SECURITIES EXCHANGE ACT OF 1934 [No Fee   
+                   Required]                                     
+
+                         For the transition period from _________
+                         _________________ to ___________________
+
+                  Commission file number 1-6299
+
+
+                  EMCEE BROADCAST PRODUCTS, INC.          
+          (Name of small business issuer in its charter)
+
+             DELAWARE                       13-1926296           
+(State or other jurisdiction of   (I.R.S. Employer Identification
+ incorporation or organization)    Number)
+
+ SUSQUEHANNA STREET EXTENSION,
+WEST, PO BOX 68, WHITE HAVEN, PA              18661-0068         
+(Address of principal executive               (Zip Code)
+ offices)
+
+Issuer's telephone number: (717) 443-9575
+
+                               ////
+
+Securities registered under Section 12(b) of the Exchange Act:
+
+Title of each class:         Name of each exchange on which registered:       
+Common                     NASDAQ National Market             
+                             
+Securities registered under Section 12(g) of the Exchange Act:
+
+                               None                               
+                         (TITLE OF CLASS)
+
+Check whether the issuer (1) filed all reports required to be filed by Section 
+13 or 15(d) of the Exchange Act during the past twelve (12) months (or for
+such shorter period that the registrant was required to file such reports),
+and (2) has been subject to such filing requirements for the past ninety (90)
+days.
+                                        Yes   X    No      
+
+Check if there is no disclosure of delinquent filers in response to Item 405
+of Regulation S-B is not contained in this form, and no disclosure will be
+
+
+
+
+<PAGE>
+contained, to the best of registrant's knowledge, in definitive proxy or
+information statements incorporated by reference in Part III of this Form
+10-KSB or any amendment to this Form 10-KSB.__
+
+State issuer's revenues for its most recent fiscal year. $9,187,868.
+
+The aggregate market value of the voting stock held by non-affiliates of the
+Registrant is $10,963,767 computed by reference to the closing bid price
+of the stock at June 23, 1998. This computation is based on the number of
+issued and outstanding shares held by persons other than directors and
+officers of the Registrant.
+
+State the number of shares outstanding of each of the issuer's classes of
+common equity, as of the latest practicable date:
+
+                CLASS                  OUTSTANDING AT JUNE 23, 1998
+Common stock, par value $.01-2/3              4,033,397
+ per share
+
+               DOCUMENTS INCORPORATED BY REFERENCE
+     
+          Items 9, 10, 11 and 12 in Part III of this report are incorporated
+by reference from the Proxy Statement expected to be filed within one hundred
+twenty (120) days of the close of the Registrant's fiscal year ended March 31,
+1998.
+
+Transitional Small Business Disclosure Format (Check One) 
+
+                                        Yes      ;  No   X  .
+
+In accordance with Rule 12b-15 of the Exchange Act, the Registrant caused this
+report to be signed on its behalf by the undersigned, thereunto duly
+authorized.
+
+                                         EMCEE Broadcast Products, Inc.
+
+
+                                         /s/ James L. DeStefano
+                                        --------------------------
+                                         James L. DeStefano, President/CEO
+                                         Date: July 9, 1998  
+   
+                                         /s/ Allan J. Harding
+                                         -------------------------
+                                         Allan J. Harding, Vice President -    
+                                         Finance
+                                    Date: July 9, 1998
+
+
+
+
+
+
+
+
+
+
+
+
+
+<PAGE>
+                   Independent Auditors' Report
+
+
+
+Board of Directors
+EMCEE Broadcast Products, Inc.
+White Haven, Pennsylvania
+
+We have audited the consolidated balance sheets of EMCEE Broadcast Products,
+Inc. and subsidiaries as of March 31, 1998 and 1997 and the related
+consolidated statements of income, shareholders' equity and cash flows for the
+years then ended.  These financial statements are the responsibility of the
+Company's management.  Our responsibility is to express an opinion on these
+financial statements based on our audits.
+
+We conducted our audits in accordance with generally accepted auditing
+standards.  Those standards require that we plan and perform the audit to
+obtain reasonable assurance about whether the financial statements are free of
+material misstatement.  An audit includes examining, on a test basis, evidence
+supporting the amounts and disclosures in the financial statements.  An audit
+also includes assessing the accounting principles used and significant
+estimates made by management, as well as evaluating the overall financial
+statement presentation.  We believe that our audits provide a reasonable basis
+for our opinion.
+
+In our opinion, the consolidated financial statements referred to above
+present fairly, in all material respects, the financial position of EMCEE
+Broadcast Products, Inc. and subsidiaries as of March 31, 1998 and 1997, and
+the results of their operations and their cash flows for the years then ended,
+in conformity with generally accepted accounting principles.
+
+
+Kronick, Kalada, Berdy & Co
+Kingston, Pennsylvania
+May 19, 1998
+
+
+
+
+
+
+
+<PAGE>
+<TABLE>
+<CAPTION>
+        EMCEE BROADCAST PRODUCTS, INC. AND SUBSIDIARIES
+                  CONSOLIDATED BALANCE SHEETS 
+              YEARS ENDED MARCH 31, 1998 AND 1997 
+                              ASSETS                                           
+                   
+                                      March 31,       March 31,    
+                                         1998           1997  
+                                      --------------------------- 
+ <S>                                        <C>            <C>
+Current assets:
+  Cash and equivalents                   $ 2,529,594 $   681,335
+  U.S. Treasury Bills                      2,269,549   1,679,164
+  Accounts receivable, net of 
+   allowance for doubtful accounts 
+   (1998, $35,000; 1997,$100,000)          1,214,651     933,535
+  Inventories                              3,438,599   3,627,803
+  Prepaid expenses                           115,292     379,358
+  Deferred income taxes                       80,000
+  Note receivable                                      2,500,000
+                                           ------------------------
+
+          Total current assets             9,647,685   9,801,195
+                                           ------------------------
+                                                                
+Property, plant and equipment:  
+  Land and land improvements                 246,841     246,841
+  Building                                   618,686     629,212
+  Machinery                                1,956,085   2,019,717
+                                           ------------------------
+                                           2,821,612   2,895,770
+  Less accumulated depreciation            1,995,946   1,836,630
+                                           ------------------------
+                                             825,666   1,059,140
+                                           ------------------------
+Other assets                                 211,450     108,173
+                                           ------------------------
+Note receivable                              500,000     500,000
+  Less deferred portion                   (  500,000) (  500,000)
+                                           -------------------------
+                                                   0           0
+
+          Total assets                    $10,684,801 $10,968,508
+                                          --------------------------
+                                          --------------------------
+<FN>
+See notes to consolidated financial statements.
+</FN>
+</TABLE>
+<PAGE>
+<PAGE>
+<TABLE>
+<CAPTION>
+
+                 EMCEE BROADCAST PRODUCTS, INC. AND SUBSIDIARIES           
+                       LIABILITIES AND SHAREHOLDERS' EQUITY
+                       YEARS ENDED MARCH 31, 1998 AND 1997
+
+                                      March 31,   March 31,
+                                        1998        1997   
+                                     ----------------------
+ <S>                                      <C>         <C>
+Current liabilities:
+  Current portion of long-term debt   $  117,000  $  108,000
+  Accounts payable                       311,424     355,401
+  Accrued expenses:
+    Payroll and related expenses         276,826     206,612
+    Other                                118,625     130,172
+  Deposits from customers                260,048     121,195
+  Deferred income taxes                              554,000
+                                       ----------------------           
+          
+
+Total current liabilities               1,083,923   1,475,380
+                                        ----------------------    
+
+Long-term debt, net of current portion    746,888     807,189
+                                       -----------------------   
+Shareholders' equity:
+  Common stock, $.01 - 2/3 par; 
+   authorized 9,000,000 shares; issued
+   4,384,161 shares, 1998; 4,378,364
+   shares, 1997                             73,084    72,987
+  Additional paid-in capital             3,502,092  3,562,523
+  Retained earnings                      6,927,987  6,412,703
+                                        -----------------------
+                                        10,503,163 10,048,213
+
+  Less shares held in treasury, at cost
+   (1998, 320,764; 1997, 212,763)        1,649,173  1,362,274
+                                       ------------------------- 
+                                         8,853,990   8,685,939
+                                       -------------------------
+          Total liabilities and equity $10,684,801 $10,968,508
+                                       ==========================
+<FN> 
+ Notes to consolidated financial statements.
+</FN>
+</TABLE>
+
+
+
+
+
+
+
+
+
+
+<PAGE>
+<TABLE>
+<CAPTION>
+         EMCEE BROADCAST PRODUCTS, INC. AND SUBSIDIARIES
+                CONSOLIDATED STATEMENTS OF INCOME
+               YEARS ENDED MARCH 31, 1998 AND 1997
+
+                                          March 31,       March 31,
+                                             1998           1997     
+                                          ------------------------
+ <S>                                            <C>           <C>   
+Net sales                                 $ 9,187,868  $12,522,811
+Costs of products sold                      6,118,332    8,023,300
+                                           -----------------------         
+Gross profit                                3,069,536    4,499,511
+                                           -----------------------         
+Operating expenses:                                    
+  Selling                                   1,409,927    1,484,962
+  General and administrative                1,098,909    1,186,329
+  Research and development                    377,557      444,669
+                                           ------------------------           
+                                            2,886,393    3,115,960
+                                           ------------------------           
+Income from operations                        183,143    1,383,551
+                                           ------------------------          
+Other income (expense), net:                              
+  Interest expense                         (    83,714)(   92,909)
+  Interest income                              259,704    109,976
+  Gain on sale of equity securities            277,324    210,069
+  Settlement of note receivable                         2,500,000
+  Other                                         25,237     32,015
+                                           ------------------------
+                                               478,551  2,759,151
+                                           ------------------------
+Income before income taxes                     661,694  4,142,702
+                                     
+Income taxes                                   146,410  1,126,800
+                                            ------------------------
+Net income                                  $ 515,284$ 3,015,902
+                                            =========================          
+Basic income per share                            $.12       $.72
+                                            =========================
+Diluted income per share                          $.12       $.71
+                                            ==========================
+<FN>
+          See notes to consolidated financial statements.
+</FN>
+</TABLE>                                                                  
+
+
+
+
+
+
+
+
+
+<PAGE>
+<TABLE>
+<CAPTION>            EMCEE BROADCAST PRODUCTS, INC. AND SUBSIDIARIES
+                       CONSOLIDATED STATEMENTS OF SHAREHOLDERS' EQUITY
+                             YEARS ENDED MARCH 31, 1998 AND 1997
+     
+                     Common stock         Additional      Retained             
+                  Shares       Amount   paid-in capital  earnings   
+ <S>                 <C>         <C>           <C>           <C>
+Balance, 
+March 31, 1996    4,359,381   $ 72,653    $ 3,517,778   $ 3,396,801    
+
+Common stock 
+issued under 
+stock option plan    18,983        334         44,745                          
+ 
+
+Treasury stock
+purchased      
+Net income for 
+the year                                                  3,015,902            
+                 -----------------------------------------------------
+Balance, 
+March 31, 1997    4,378,364     72,987      3,562,523     6,412,703   
+
+Common stock
+issued                5,797         97     (   60,431) 
+
+Treasury stock
+purchased                                             
+  
+Net income for 
+the year                                                    515,284  
+                -----------------------------------------------------      
+Balance, 
+March 31, 1998  4,384,161     $ 73,084     $3,502,092   $ 6,927,987    
+                =====================================================
+<FN>
+                       See notes to consolidated financial statements.
+</FN>
+</TABLE>                                               
+<PAGE>
+<PAGE>
+<TABLE>
+                                 Treasury Stock        Total
+                              Shares    Amount         ------
+                              -----------------                  
+ <S>                            <C>         <C>          <C> 
+
+Balance, March 31, 1996        7,325 $   (52,064)    $6,935,168 
+
+Common stock issued under
+  stock option plan                                      45,079
+        
+Treasury Stock Purchased     205,438 ( 1,310,210)    (1,310,210)          
+
+
+Net income for the year                               3,015,902
+                            -----------------------------------     
+Balance, March 31, 1997      212,763 ( 1,362,274)     8,685,939
+
+Common stock issued         ( 12,763)     99,774         39,440
+
+Treasury stock purchased     120,764 (   386,673)     (386,673)    
+
+Net income for the year                                 515,284
+                             -----------------------------------
+Balance, March 31, 1998      320,764 $(1,649,173)    $8,853,990             
+          
+                             ===================================
+  
+<FN>
+                       See notes to consolidated financial statements.
+</FN>
+</TABLE>                                              
+
+<PAGE>
+<TABLE>
+<CAPTION>
+             
+             EMCEE BROADCAST PRODUCTS, INC. AND SUBSIDIARIES
+               CONSOLIDATED STATEMENTS OF CASH FLOWS
+                YEARS ENDED MARCH 31, 1998 AND 1997
+           
+                                                        March 31,    March 31,
+                                                           1998         1997   
+                                                        ----------------------
+     <S>                                                    <C>       <C>  
+Cash flows
+from operating activities:
+  Net income                                         $   515,284   $ 3,015,902
+  Adjustments:                                         
+    Depreciation                                         264,313       242,625
+    Provision for doubtful accounts                       25,000        35,000
+    Common stock issued for 
+      compensation                                        39,440
+    Recognition of note receivable                                 (2,500,000)
+    Gain from sale of equity securities              (  277,324)   (  210,069)
+    (Increase) decrease in:                            
+      Accounts receivable                            (  306,116)       850,453
+      Inventory                                          189,204   (  251,902)
+      Prepaid expenses                                   264,066   (  131,425)
+      Deferred income taxes                          (   80,000)       226,000
+      Other assets                                   (  209,277)           727
+    Increase (decrease) in:                            
+      Accounts payable                               (   43,977)   (  429,758)
+      Accrued expenses                                    58,667   (  215,722)
+      Deposits from customers                            138,853   (  405,004)
+      Deferred income taxes                          (  554,000)       554,000
+                                                     -------------------------
+    Net cash provided by operating activities             24,133       780,827
+                                                     ------------------------- 
+       
+Cash flows from investing activities:                         
+  Purchases of:
+    Property, plant and equipment                    (   30,839)   (  355,023)
+    U.S. Treasury Bills                              (3,990,385)   (2,310,138)
+  Proceeds from maturities of:
+    U.S. Treasury Bills                                3,400,000     2,200,000
+    Note receivable                                    2,500,000
+  Proceeds from sale of equity securities                383,324       316,069
+                                                      ------------------------
+   Net cash provided by(used in)investing activities   2,262,100   (  149,092)
+                                                      ------------------------
+Cash flows from financing activities:                         
+  Acquisition of treasury stock                      (  386,673)   (1,310,210)
+  Proceeds from issuance of:
+    Long-term debt                                        70,000       887,000
+    Common stock                                                        45,079
+
+<PAGE>
+  Repayment of long-term debt                        (  121,301)   (1,110,028)
+                                                     ------------------------- 
+                                                              
+   Net cash used in financing activities             (  437,974)   (1,488,159)
+                                                     ------------------------- 
+       
+Net increase (decrease) in cash and equivalents        1,848,259   (  856,424)
+                                                              
+Cash and equivalents, beginning                          681,335     1,537,759
+                                                     ------------------------- 
+       
+Cash and equivalents, ending                         $ 2,529,594   $   681,335
+                                                     =========================
+<FN>
+Supplemental disclosures of cash flow information:
+Cash paid for interest expense amounted to $84,000 and $95,000 in 
+  1998 and 1997, respectively.  Cash paid for income taxes was $646,000 and
+ $531,000 in 1998 and 1997, respectively.
+                                
+         See notes to consolidated financial statements.
+</FN>
+</TABLE>
+
+<PAGE>
+          EMCEE BROADCAST PRODUCTS, INC. AND SUBSIDIARIES
+            NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+                YEARS ENDED MARCH 31, 1998 AND 1997
+                                 
+1.  Summary of significant accounting policies:
+
+Principles of consolidation:
+The consolidated financial statements include the accounts of EMCEE Broadcast
+Products, Inc. and its subsidiaries, all of which are wholly-owned (together,
+the Company).  All significant intercompany accounts and transactions have
+been eliminated.
+
+Revenue recognition, sale of license:
+During 1992, a rural cellular license was sold for $3,100,000.  The initial
+payment was $845,000, net of closing costs of $155,000.  The $2,100,000
+balance, which bore interest at 7% payable at maturity, was due in December
+1996.  None of the deferred payment and the related interest income was
+recognized prior to 1997 because of their extended collection period and
+because there was not a reasonable basis to evaluate the likelihood of
+collection.  On April 3, 1997 the Company collected $2,500,000 and received a
+non-interest bearing, unsecured $500,000 note receivable as settlement of the
+original note. The $500,000 note receivable is due and payable upon the
+occurrence of any one or more of certain specified events involving the debtor
+including, but not limited to, acquisition, merger, bankruptcy, and
+insolvency.  None of the specified events relate to the debtor's normal
+operations.  The note receivable is fully reserved because it has no definite
+collection period and because there is not a reasonable basis to evaluate the
+likelihood of collection.
+
+Cash, equivalents and U.S. Treasury Bills:
+The Company considers cash equivalents to be all highly liquid investments
+purchased with an original maturity of three months or less.  U.S. Treasury
+Bills with an original maturity of more than three months are considered to be
+investments.  All U.S. Treasury Bills are stated at cost which approximates
+market and are considered as available for sale.  All U.S. Treasury Bills  not
+included as cash equivalents had contracted maturities of at least six months.
+
+Inventories:
+Inventories are stated at the lower of standard cost which approximates
+current actual cost (on a first-in, first-out basis) or market (net realizable
+value).
+
+Property, plant and equipment and depreciation:
+Property, plant and equipment are stated at cost.  Depreciation is provided on
+the straight-line method over the estimated useful lives of the assets.
+    
+Advertising:
+These expenses are recorded when incurred.  They amounted to $78,000 and
+$75,000 for 1998 and 1997, respectively.
+
+Fair value:
+The fair value of long-term debt that is variable rate debt that reprices
+regularly, the notes receivable of $2,500,000 which were collected in April
+
+<PAGE>
+1997 and U.S. Treasury Bills approximates the amounts recorded in the
+financial statements.  It was not practicable to estimate the fair value of
+the $500,000 note receivable  because the Company was unable to estimate the
+timing and form of the ultimate settlement of the amount due to it.  The
+Company has fully provided for any potential loss resulting from the
+non-payment of this receivable.
+Use of estimates:
+Management uses estimates and assumptions in preparing financial statements. 
+Those estimates and assumptions affect the reported amounts of assets and
+liabilities, the disclosure of contingent assets and liabilities and the
+reported revenues and expenses.
+
+Reclassifications:
+Certain amounts reported in the 1997 financial statements have been
+reclassified to conform with the 1998 presentation.
+2. Income per share:
+
+Basic income per share is computed by dividing earnings applicable to common
+shareholders by the weighted average number of common shares outstanding. 
+Diluted income per share  is similar to basic income per share except that the
+weighted average of common shares outstanding is increased to include the
+number of additional common shares that would have been outstanding if the
+dilutive potential common shares had been issued.  There were no dilutive
+potential common shares in 1998 because the assumed exercise of the options
+would be anti-dilutive.  Income per share for 1997 has been restated based
+upon the provisions of a revised accounting standard that become effective in
+the current year.
+The following table presents the basic and diluted EPS computations:
+                                        March 31, 1998 
+                               -----------------------------------             
+                                                       Per-share
+                                Income       Shares      amount 
+   Basic EPS
+   Net income which is income
+    available to common
+    stockholders              $  515,284   4,134,780     $ .12
+                              =================================
+                                             1997               
+                               ----------------------------------     
+                                                       Per-share
+                                Income       Shares      amount 
+   Basic EPS
+   Net income which is income
+    available to common
+    stockholders              $3,015,902   4,188,743     $ .72
+
+   Effect of dilutive
+    securities, stock options                 36,132       .01
+                               --------------------------------
+   Diluted EPS
+   Income available to common
+    stockholders              $3,015,902   4,224,875     $ .71
+                              =================================
+
+<PAGE>
+          EMCEE BROADCAST PRODUCTS, INC. AND SUBSIDIARIES
+             NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+                 YEARS ENDED MARCH 31, 1998 AND 1997
+
+3. Cash and equivalents:
+
+At March 31, 1998, cash held at a brokerage corporation in the amount of
+$2,095,000 is not insured.
+
+4.Industry, sales and accounts receivable concentration information:
+
+The Company's primary activity is in one segment which consists of the
+assembly and sale of equipment for the domestic and foreign television
+broadcasting industry.  Major customers are those that individually account
+for more than 10% of the Company's consolidated revenues.  For the years ended
+March 31, 1998 and 1997, one customer with total sales of $939,000 and two
+customers with total sales of $3,476,000, respectively,  qualified as  major
+customers.  Worldwide export sales amounted to $5,563,000 and $7,056,000 for
+1998 and 1997, respectively.  At March 31, 1998 and 1997, there were no
+significant accounts receivable concentrations.  The Company performs ongoing
+credit evaluations of its customers and typically requires deposits and a
+letter of credit on foreign sales and deposits on domestic sales. 
+Historically, the Company's uncollectible accounts receivable have been
+immaterial.  
+
+5.Inventories:
+                                                    1998          1997   
+                                                 --------------------------
+Finished goods                                    $  454,000    $  399,000
+Work-in-process                                      777,000       738,000
+Raw materials                                      1,323,000     1,574,000
+    Manufactured components                          884,599       916,803
+                                                 ---------------------------   
+                                                  $3,438,599    $3,627,803
+                                                 ============================
+6.  Line of credit:
+
+The Company has a line of credit agreement with a bank aggregating $2,000,000
+collateralized by inventories, accounts receivable and all property, plant and
+equipment.  The line of credit agreement requires monthly interest payments at
+ .50% below the bank's prime rate of interest or 1.75% above LIBOR  which was
+5.625% at March 31, 1998.  There were no principal borrowings during the years
+ended March 31, 1998 and 1997.
+
+The loan agreement contains restrictive covenants when amounts are outstanding
+which, among other things, require the Company to maintain a maximum total
+liabilities to net worth ratio, a minimum current ratio and a debt coverage
+ratio.  The Company is allowed to pay dividends on its common stock if it is
+in compliance with the financial covenants and ratios.
+<PAGE>
+<PAGE>  
+        EMCEE BROADCAST PRODUCTS, INC. AND SUBSIDIARIES
+             NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+                 YEARS ENDED MARCH 31, 1998 AND 1997
+
+7.Long-term debt:
+                                                        1998          1997   
+                                                  --------------------------
+Term loan, bank                                   $  686,000    $  735,000
+    Equipment loans                                  177,888       152,000
+    Other                                                           28,189
+                                                  --------------------------
+                                                     863,888       915,189
+    Less current portion                             117,000       108,000
+                                                  --------------------------
+                                                  $  746,888    $  807,189
+                                                  ===========================
+
+The term loan, bank at March 31, 1998 matures in 2012 and requires principal
+payments of $4,083, plus interest.  Interest is calculated at 2.25% above
+LIBOR which was 5.625% at March 31, 1998.  The bank has the option of
+adjusting the monthly payments required under this loan to provide for changes
+in the interest rates.  The term and equipment loans are cross-collateralized
+with and have the same restrictive covenants as the line of credit (see Note
+6).
+
+Principal payments on long-term debt, based on current interest rates, are as
+follows:
+
+                       1999             $  117,000
+                       2000                100,000
+                       2001                 80,000
+                       2002                 80,000
+                       2003                 50,000
+                     Thereafter            436,888
+                                        -----------
+                                        $  863,888 
+                                       ============    
+8. Defined contribution pension plan:
+
+A defined contribution pension plan covers all full time employees who meet
+age and service requirements.  Contributions to the plan, determined at the
+discretion of the Board of Directors, were $28,000 and $29,000 in 1998 and
+1997,respectively.  
+
+9. Common stock:
+Nonqualified stock option plans provide for the grant of options to purchase
+up to 300,000 shares.  Upon the termination or expiration of any stock options
+granted, the shares covered by such terminated or expired stock options will
+be available for further grant; 38,587 options were available for grant at
+March 31, 1998.  The Board of Directors, at the date of grant of an option,
+determines the number of shares subject to the grant and the terms of such
+option.  All outstanding options granted expire after 5 years and vest over
+two years.
+
+<PAGE>
+         EMCEE BROADCAST PRODUCTS, INC. AND SUBSIDIARIES
+             NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+                 YEARS ENDED MARCH 31, 1998 AND 1997
+
+9.  Common stock (continued):
+
+Changes in outstanding common stock options granted are summarized below:
+<TABLE>
+<CAPTION>
+                                 1998                    1997       
+                            Number   Average        Number   Average
+                             of     exercise         of     exercise
+                          shares    price         shares    price  
+   <S>                       <C>       <C>            <C>       <C>  
+  Balance at beginning
+     of year              163,250    $ 5.36         80,083   $ 2.82
+    Options granted                                115,200     6.16
+                          163,250                  195,283
+    Options exercised                               18,983     2.37
+    Options expired        11,375      3.44         13,050     1.31
+    Balance at end of
+     year                 151,875    $ 5.50        163,250   $ 5.36
+    Options exercisable
+     at year-end           36,675    $ 3.44         48,050   $ 3.44
+    Weighted-average grant
+     date fair value of
+     options granted   
+     during the year                                $ 3.09
+</TABLE>
+
+At March 31, 1998, 36,675 and 115,200 options had an exercise price of $3.44
+and $6.16, respectively.  Such options had remaining contractual lives of 2.3
+years and 3.7 years, respectively.
+
+The Company in accordance with an election under generally accepted accounting
+principles for stock options has recorded no compensation cost for its stock
+options in the accompanying consolidated financial statements.
+
+Had compensation cost for stock options been determined based on the fair
+value at the grant dates for awards under the plans, the Company's net income
+and income per share would have been reduced to the proforma amounts disclosed
+below:
+<TABLE>
+<CAPTION>
+                                                1998                1997   
+                                          ----------------------------------
+ 
+   <S>                                        <C>                    <C> 
+  Net income: 
+     As reported                         $  515,284               $3,015,902
+     Proforma                               445,284                2,972,000
+
+
+
+<PAGE>
+   Basic income per share:
+
+     As reported                          $     .12                $     .72
+     Proforma                                   .11                      .71
+
+   Diluted income per share:
+     As reported                          $     .12                $     .71
+     Proforma                                   .11                      .70
+</TABLE>
+
+Proforma net income does not reflect options granted before April 1, 1995. 
+Therefore, the full impact of calculating compensation cost for stock options
+is not reflected in the proforma  amounts presented above because compensation
+cost is reflected over the options' vesting period of two years and compensa-
+tion cost for options granted in the year ended March 31, 1995 are not consid-
+ered for the year ended March 31, 1997.
+
+The fair values were determined using the Black-Scholes option-pricing model
+with the following weighted average assumptions:
+
+                                      1998             1997  
+                                      ----------------------
+    Dividend yield                       .0%            .0%
+    Risk free interest rate            5.84%          5.84% 
+    Expected life                     5 Years        5 Years
+    Volatility                        17.54%         48.88%
+
+During 1997, warrants to purchase 200,000 shares of common stock at $9.76 a
+share were issued and remain outstanding at March 31, 1998.
+
+10.Income taxes:
+
+The following table sets forth the current and deferred amounts of the
+provisions for income taxes for the years ended March 31, 1998 and 1997:
+
+                                         1998       1997    
+                                 -------------------------
+        Current                  $   780,410    346,800
+        Deferred                  (  634,000)   780,000
+                                 -------------------------
+                                 $   146,410 $1,126,800
+                                 =========================
+
+The provisions for income taxes at the Company's effective rate differed from
+the provision for income taxes at the statutory Federal rate of 34% for the
+years ended March 31, 1998 and 1997 as
+follows:
+<PAGE>
+<TABLE>
+<CAPTION>
+                                                  1998          1997   
+                                              ---------------------------      
+       <S>                                             <C>         <C> 
+   Federal income tax at the statutory rate   $   225,000 $ 1,408,000
+    Foreign sales corporation benefit          (   74,000) (  180,000)
+    Federal income tax credit                  (   15,000) (   50,000)
+   Stock compensation                          (   43,590) (   51,200)
+   Adjustment to prior year's
+    tax liability                                  54,000   _         
+                                               -------------------------
+
+   Provision for income taxes                 $   146,410 $ 1,126,800
+                                              ==========================
+</TABLE>  
+
+The tax effects of temporary differences that give rise to deferred income
+taxes at March 31, 1998 and 1997 are presented in the table below:
+<TABLE>
+<CAPTION>                                                          
+                                                         1998         1997   
+                                                 ----------------------------
+     <S>                                                    <C>       <C>
+  Deferred tax assets:                                 
+      Inventory                                       $   41,000 $  101,000
+      Employee benefits                                   51,000     51,000
+     Other differences                                    11,000     35,000
+       Total gross deferred tax assets                   103,000    187,000
+   Deferred tax liabilities, 
+      Note receivable                                             ( 714,000)
+      Property and equipment                           (  23,000) (  27,000)
+                                                      -----------------------
+   Net deferred tax asset (liability)                 $   80,000 $( 554,000)
+                                                      =======================
+</TABLE>
+11. Litigation:
+In the normal course of business, there are various outstanding legal pro-
+ceedings.  In the opinion of management, after consultation with legal
+counsel, the consolidated financial statements of the Company will not be
+materially affected by the outcome of such legal proceedings.
+
+12. Year 2000:
+The Company recognizes the need to ensure its operations will not be adversely
+impacted by Year 2000 software failures.  Software failures due to processing
+errors potentially arising from calculations using the Year 2000 date are a
+known risk.  The Company is addressing this risk to the availability and
+integrity of financial systems and the reliability of operating systems.  The
+Company has established processes for evaluating and managing the risks and
+costs associated with this problem.  The total cost of compliance and its
+effect on the Company's future results of operations is being determined as
+part of the detailed conversion planning.
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

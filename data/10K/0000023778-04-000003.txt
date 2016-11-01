@@ -1,0 +1,2039 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ Ro2oHV6xxLpLwHrsdVPwZ5N60QvSbGVq79jzL5LlmqgCMVJp9I/vJrorrnRV8qbf
+ YpL2OkzUSRxvqVeP3IRlPg==
+
+<SEC-DOCUMENT>0000023778-04-000003.txt : 20040329
+<SEC-HEADER>0000023778-04-000003.hdr.sgml : 20040329
+<ACCEPTANCE-DATETIME>20040329160641
+ACCESSION NUMBER:		0000023778-04-000003
+CONFORMED SUBMISSION TYPE:	10KSB
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20031231
+FILED AS OF DATE:		20040329
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			MEMS USA INC
+		CENTRAL INDEX KEY:			0000023778
+		STANDARD INDUSTRIAL CLASSIFICATION:	MISCELLANEOUS METAL ORES [1090]
+		IRS NUMBER:				820288840
+		STATE OF INCORPORATION:			NV
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10KSB
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-04846
+		FILM NUMBER:		04696281
+
+	BUSINESS ADDRESS:	
+		STREET 1:		378 N MAIN STREET
+		STREET 2:		SUITE 124
+		CITY:			LAYTON
+		STATE:			UT
+		ZIP:			84041
+		BUSINESS PHONE:		8012739300
+
+	MAIL ADDRESS:	
+		STREET 1:		4766 HOLLADAY
+		STREET 2:		BLVD
+		CITY:			HOLLADAY
+		STATE:			UT
+		ZIP:			84107
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	LUMALITE HOLDINGS INC
+		DATE OF NAME CHANGE:	20020520
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	CONSIL CORP
+		DATE OF NAME CHANGE:	19981113
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	CONSOLIDATED SILVER CORP
+		DATE OF NAME CHANGE:	19920703
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>10KSB
+<SEQUENCE>1
+<FILENAME>mem1210k.htm
+<TEXT>
+<HTML>
+<HEAD>
+
+</HEAD>
+<BODY TEXT="#000000" LINK="#0000ff" VLINK="#551a8b" ALINK="#ff0000" BGCOLOR="#FFFFFF">
+
+<hr size="6" color="#0000FF">
+
+<P ALIGN="CENTER"><FONT SIZE="+1"><STRONG>U.S. SECURITIES AND EXCHANGE COMMISSION</STRONG></FONT><STRONG><FONT SIZE="+1"><br>
+WASHINGTON, D.C.  20549</FONT></STRONG></P>
+
+<P ALIGN="CENTER"><STRONG><FONT SIZE="+1">FORM 10-KSB</STRONG></FONT></P>
+
+<P><STRONG>(Mark One)<br>
+[X]      ANNUAL REPORT UNDER SECTION 13 OR 15(d) OF THE SECURITIES
+             EXCHANGE ACT OF 1934</STRONG></P>
+
+<P ALIGN="CENTER"><STRONG>For Fiscal Year Ended: December 31, 2003<br>
+</STRONG>o<STRONG>r</STRONG></P>
+
+<P><STRONG> [  ]       TRANSITION REPORT UNDER SECTION 13 OR 15(d) OF THE SECURITIES
+             EXCHANGE ACT OF 1934 </STRONG></P>
+
+<P ALIGN="CENTER">For the transition period from <U>                                       </U> To</P>
+
+<P ALIGN="CENTER">Commission file number <U>        0-4846-3                                                   </U> </P>
+
+<P ALIGN="CENTER"><U><FONT SIZE="+1"><STRONG>MEMS USA, Inc.<br>
+</STRONG></FONT></U>(formerly LumaLite Holdings, Inc.)<br>
+(Name of small business issuer in its charter)</P>
+
+<P>                      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                      <U>           Nevada&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+82-0288840<br>
+</U>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+State or other jurisdiction of&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+(I.R.S. Employer<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+incorporation or organization)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Identification No.)</P>
+
+<P>                  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                  <U>                               378 North Main, #124, Layton, Utah 84041<br>
+</U>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+(Address of principal executive offices)     (Zip code)</P>
+
+<P ALIGN="CENTER">(Former address)<BR WP="BR2">
+<br>
+Issuer's telephone number                     <U> (801) 497-9075</U></P>
+
+<P>Securities registered under Section 12(b) of the Act:  NONE<br>
+Securities registered under Section 12(g) of the Act: </P>
+
+<P ALIGN="CENTER">Common Stock, par value $.001<br>
+(Title of class)<br>
+</P>
+
+<P ALIGN="left">	Check whether the issuer (1) filed all reports required to be filed by Section 13 or 15(d) of
+the Exchange Act during the past 12 months (or for such shorter period that the registrant was
+required to file such reports), and (2) has been subject to such filing requirements for the past 90
+days.   Yes <U>  X   </U>  No <U>         </U>  </P>
+
+<P>	Check if there is no disclosure of delinquent filers pursuant to Item 405 of Regulation S-B
+is not contained in this form, and no disclosure will be contained, to the best of registrant's
+knowledge, in definitive proxy or information statements incorporated by reference in Part III of this
+Form 10-KSB or any amendment to this form 10-KSB. [X]</P>
+
+<P>	State issuer's revenues for its most recent fiscal year.	<U>$ -0-</U></P>
+
+<P>
+
+<BR WP="BR1">	As of February 10, 2004, there were 13,385,779 shares of the Registrant's common stock, par
+value $0.001, issued and outstanding.  The aggregate market value of the Registrant's voting stock
+held by non-affiliates of the Registrant was approximately $7,956,580 computed at the average bid
+and asked price as of February 10, 2004.</P>
+
+<BR WP="BR1">
+<hr color="#0000FF">
+<P>                             DOCUMENTS INCORPORATED BY REFERENCE</P>
+
+<P>	If the following documents are incorporated by reference, briefly describe them and identify
+the part of the Form 10-KSB (e.g., Part I, Part II, etc.) into which the document is incorporated:  (1)
+any annual report to security holders; (2) any proxy or information statement; and (3) any prospectus
+filed pursuant to Rule 424(b) or (c) of the Securities Act of 1933 ("Securities Act"):  NONE</P>
+
+<P>	Transitional Small Business Disclosure Format (check one):  Yes <U>     </U> ; NO<U> X </U>
+<BR WP="BR1"><BR WP="BR2">
+<BR WP="BR1">  </P>
+
+<hr color="#0000FF">
+<P align="center">	<STRONG>PART I</STRONG>  </P>
+
+<P ALIGN="CENTER"><STRONG>ITEM 1. DESCRIPTION OF BUSINESS</STRONG></P>
+
+<P><STRONG></STRONG>	MEMS USA, Inc. (formerly LumaLite Holdings, Inc.), ("the Company") was originally
+formed to hold certain mineral properties in Idaho.  In 1995, the Company's stockholders approved
+the sale of the mining properties for a cash payment plus a variable production royalty tied to the
+price of silver.  In 2000, the purchaser filed for bankruptcy under Chapter 11 of the U.S. code and
+shut down operations.</P>
+
+<P>	In December 2001, the Company entered into a merger agreement with LumaLite, Inc.
+("LumaLite"), a California corporation that develops and manufactures dental products.  In March
+2002, the Company's stockholders approved, and in April 2002 effected, a corporate name change
+from "Consil Corp" to "LumaLite Holdings, Inc.," a 25 to 1 reverse split of the outstanding shares
+of common stock, restated the bylaws, and changed domicile from Idaho to Nevada.  </P>
+
+<P>	The following year the Company concluded an Exchange Agreement on March 14, 2003
+which divested the Company of its subsidiary LumaLite.  As per the Exchange Agreement,
+17,800,000 shares of common stock previously issued in connection with the merger was canceled
+in return for all of the shares of LumaLite owned by the Company and the payment of $75,000.</P>
+
+<P>	As a result of the above divestiture, 3,449,744 shares of common stock that were issued in
+cancellation of debt in 2002, have been returned to treasury.  This resulted in $358, 773 in debt being
+restated on the Company's balance sheet.</P>
+
+<P>	In November 2003, the Company completed a restructuring of its capital through a 1:200
+reverse split of its common stock.   	</P>
+
+<P>	  Prior to December 2003, the Company was in the process of looking for business
+opportunities to acquire or merge with.  In seeking a business opportunity to merge with or acquire,
+management reviewed various business plans. </P>
+
+<P>	In December 2, 2003, the Company signed a letter of intent to acquire all of the equity of
+MEMS USA, Inc., ("MEMS") which is a privately-held California corporation.  Subsequent to the
+year end, the Company entered into a reorganization agreement with MEMS in which MEMS
+became a wholly-owned subsidiary of the Company and finalized a complete change of management.
+</P>
+
+<P>	During the fourth quarter, in anticipation of this closing the shareholders successfully
+restructured approximately $360,000 in debt which was converted to approximately 3,230,000 shares
+of the Company's common stock. </P>
+
+<P>	Subsequent to year end, the Company's name was changed to MEMS USA, Inc. and as a
+result of all the foregoing changes, the Company's symbol was changed to &quot;MEMS.&quot;</P>
+
+<P>	Subsequent to the year end, the shareholders of MEMS were issued 10,000,000 shares of
+common stock and have become the controlling shareholders of the Company.    </P>
+
+<BR WP="BR1"><BR WP="BR2">
+<hr color="#0000FF">
+<p align="center"><BR WP="BR2">
+<STRONG>ITEM 2. DESCRIPTION OF PROPERTY</STRONG></p>
+
+<P>	At December 31, 2003, the Company operated form the office of its legal counsel and paid
+no rent or expenses.<BR WP="BR2">
+</P>
+
+<P><STRONG><U>                                                                                                                                                          </U></STRONG></P>
+
+<hr color="#0000FF">
+<p align="center">
+
+<BR WP="BR1"><BR WP="BR2">
+<STRONG>ITEM 3. LEGAL PROCEEDINGS</STRONG>
+<P>	As of the date hereof, the Company is not a party to any material pending legal proceeding
+and is not aware of any threatened legal proceeding.</P>
+
+<BR WP="BR1">
+<hr color="#0000FF">
+<P ALIGN="CENTER"><STRONG>ITEM 4. SUBMISSION OF MATTERS TO A<br>
+VOTE OF SECURITY HOLDERS</STRONG></P>
+
+<P>	During November 2003, the shareholders consented to a change in the name of the Company,
+which was determined, subsequent to year end, to be MEMS USA, Inc., as well as, a reverse stock
+split of 200 to 1 of the Company's common stock.  The fractional shares were rounded up to the
+nearest full share, no certificate below 100 shares was reversed and no certificate greater then 100
+shares was reversed below 100 shares.  	</P>
+
+<P>                                                                     <STRONG></STRONG></P>
+
+<BR WP="BR1">
+<hr color="#0000FF">
+<P ALIGN="CENTER"><STRONG>PART II</STRONG></P>
+
+<P ALIGN="CENTER"><STRONG>ITEM 5. MARKET FOR COMMON EQUITY AND<br>
+RELATED STOCKHOLDER MATTERS</STRONG></P>
+
+<P><STRONG>MARKET INFORMATION</STRONG></P>
+
+<P>	The Company's Common Stock is traded on the National Quotation Bureau Pink Sheets
+under the symbol "MEMS."  The following table presents the high and low bid quotations for the
+Common Stock as reported by the NASD for each quarter during the last two years.  Such prices
+reflect inter-dealer quotations without adjustments for retail markup, markdown or commission, and
+do not necessarily represent actual transactions.</P>
+
+<P>	In connection with the Company's name change and merger with MEMS, the Company
+changed its trading symbol to MEMS.OB. There has been no solicitation of the sale or purchase of
+the Common Stock. The price for the common stock has approximately ranged in price as follows:</P>
+
+&nbsp;
+<TABLE BORDER="0" WIDTH="100%">
+<TR VALIGN="TOP"><TD></TD>
+<TD></TD>
+<TD ALIGN="RIGHT">
+<P ALIGN="CENTER"><STRONG>High</STRONG></TD>
+<TD><STRONG></TD>
+<TD ALIGN="RIGHT">
+<P ALIGN="CENTER">Low</STRONG></TD></TR>
+<TR VALIGN="TOP"><TD></TD>
+<TD></TD>
+<TD ALIGN="RIGHT"></TD>
+<TD></TD>
+<TD ALIGN="RIGHT"></TD></TR>
+<TR VALIGN="TOP"><TD><STRONG></STRONG>Quarter ended March 31, 2003</TD>
+<TD></TD>
+<TD ALIGN="RIGHT">$	0.11</TD>
+<TD ALIGN="RIGHT"></TD>
+<TD ALIGN="RIGHT">$	0.02</TD></TR>
+<TR VALIGN="TOP"><TD>Quarter ended June 30, 2003</TD>
+<TD></TD>
+<TD ALIGN="RIGHT">$	0.03</TD>
+<TD></TD>
+<TD ALIGN="RIGHT">$	0.01</TD></TR>
+<TR VALIGN="TOP"><TD>Quarter ended September 30, 2003</TD>
+<TD></TD>
+<TD ALIGN="RIGHT">$	0.03</TD>
+<TD></TD>
+<TD ALIGN="RIGHT">$	0.01</TD></TR>
+<TR VALIGN="TOP"><TD>Quarter ended December 31, 2003</TD>
+<TD></TD>
+<TD ALIGN="RIGHT">$	1.75</TD>
+<TD></TD>
+<TD ALIGN="RIGHT">$	0.01</TD></TR>
+<TR VALIGN="TOP"><TD></TD>
+<TD></TD>
+<TD></TD>
+<TD></TD>
+<TD></TD></TR>
+<TR VALIGN="TOP"><TD>Quarter ended March 31, 2002</TD>
+<TD></TD>
+<TD ALIGN="RIGHT">$	0.25</TD>
+<TD></TD>
+<TD ALIGN="RIGHT">$	0.06</TD></TR>
+<TR VALIGN="TOP"><TD>Quarter ended June 30, 2002</TD>
+<TD></TD>
+<TD ALIGN="RIGHT">$	2.25</TD>
+<TD></TD>
+<TD ALIGN="RIGHT">$	0.04</TD></TR>
+<TR VALIGN="TOP"><TD>Quarter ended September 30, 2002</TD>
+<TD></TD>
+<TD ALIGN="RIGHT">$	0.19</TD>
+<TD></TD>
+<TD ALIGN="RIGHT">$	0.08</TD></TR>
+<TR VALIGN="TOP"><TD>Quarter ended December 31,2002</TD>
+<TD></TD>
+<TD ALIGN="RIGHT">$	0.11</TD>
+<TD></TD>
+<TD ALIGN="RIGHT">$	0.05</TD></TR></TABLE>
+<BR WP="BR1"><BR WP="BR2">
+<hr color="#0000FF">
+<P><STRONG>DIVIDENDS</STRONG></P>
+
+<P>	During the preceding two fiscal years the Company has not paid any dividends on it common
+stock, and the Company does not anticipate that it will pay dividends in the foreseeable future.  The
+future payment of dividends, if any, on the common stock is within the discretion of the Board of
+Directors and will depend on the Company's earnings, its capital requirements, and the financial
+condition and other relevant factors.	 </P>
+
+<P>	As of February 10, 2004, there were 13,385,779 shares of common stock outstanding held
+by approximately 3,196 shareholders of record.
+<BR WP="BR1"><BR WP="BR2">
+ </P>
+
+<P><STRONG>RECENT SALES OF UNREGISTERED SECURITIES</STRONG></P>
+
+<P>	During July 2003, 11,000,000 shares of common stock of the Company were issued at par
+value for a portion of expenses and obligations paid by a third party.  The balance of those expenses
+have been settled in exchange for convertible notes, due on demand with an annual interest rate of
+10%.<BR WP="BR2">
+  </P>
+
+<P>	Also in July 2003, 1,000,000 shares of common stock of the Company were issued for
+services provided by the President, which services were valued at $2,000.</P>
+
+<P>	In November 19, 2003, through a majority consent of its shareholders, the Company
+completed a restructuring of its capital through a reverse split of 1:200 of its common stock with no
+certificate greater than 100 shares being reversed below 100 share, and no certificate less than 100
+shares being subject to the reverse.</P>
+
+<P>	During December 2003, 10,000,000 shares of common stock were issued to a shareholder
+for assumption of $10,000 in debt.  Subsequent to December 31, 2003 these shares were canceled.
+Also, 3,230,000 shares of common stock were issued to shareholders for conversion of
+$358,530 in debt.
+	</P>
+
+<P>	As a result of the recission of Lumalite, a reverse split and new issuances of common stock
+the Company's outstanding shares of common stock was reduced from 28,964,234 at the beginning
+of 2003 to 12,342,036 at December 31, 2003.</P>
+
+<P>	No underwriter was involved in any of the above issuances of securities. All of the above
+securities were issued in reliance upon the exemptions set forth in Section 4(2) of the Securities Act
+(including, in certain instances Regulation  promulgated there under) on the basis that they were
+issued under circumstances not involving a public offering. These transactions were exempt from
+registration pursuant to Section 4(2) of the Securities Act.</P>
+
+<BR WP="BR1"><BR WP="BR2">
+<hr color="#0000FF">
+<P ALIGN="CENTER"><STRONG>ITEM 6. MANAGEMENT'S DISCUSSION AND<br>
+ANALYSIS OR PLAN OF OPERATIONS</STRONG></P>
+
+<P><STRONG>Plan of Operations </STRONG></P>
+
+<P><STRONG>	</STRONG>The following discussion should be read in conjunction with the Company's audited financial
+statements.</P>
+
+<P>	The Company may obtain funds in one or more private placements to finance the operation
+of its newly acquired business. </P>
+
+<P><STRONG>Results of Operations </STRONG></P>
+
+<P><STRONG>	</STRONG>The Company reported a net loss of approximately ($38,000) and ($432,165) for the years
+ended December 31, 2003 and 2002, respectively, which was due to general and administrative
+expenses incurred by the Company.   The Company anticipates very little or no overhead from future
+operations until a successor business can be acquired or merged.  </P>
+
+<P>	 In connection with the 2002 merger of LumaLite, Inc., the Company converted a significant
+amount of debt into shares of common stock and one of the principal shareholders contributed its
+holdings to the Company's capital. </P>
+
+<P>	During February 2003, the Company divested itself of LumaLite Inc., through an Exchange
+Agreement in which LumaLite, Inc.'s shareholders agreed to cancel 17,800,000 shares of common
+stock and reinstated approximately $360,000 in debt to the Company's balance sheet.</P>
+
+<P>	During the period covered by this report, the Company conducted only minimal business
+operations.  The Company currently has no employees.</P>
+
+<BR WP="BR1">	During July 2003, 11,000,000 shares of common stock of the Company were issued at par
+value for a portion of expenses and obligations paid by a third party.  The balance of those expenses
+have been settled in exchange for convertible notes, due on demand with an annual interest rate of
+10%.
+<P>	Also, 1,000,000 shares of common stock of the Company were issued for services provided
+by the President, which services were valued at $2,000.</P>
+
+<P>	During the third fiscal quarter, approximately $7,320 in accounts payable were settled in
+exchange for convertible notes and are reflected in that portion of the Company's financial
+statements.<BR WP="BR2">
+  </P>
+
+<P>	On December 5, 2003, 10,000,000 shares of common stock were issued to a shareholder of
+the Company for the assumption of $10,000 in debt.</P>
+
+<hr color="#0000FF">
+
+<BR WP="BR1"><STRONG>LIQUIDITY AND FINANCIAL RESOURCES</STRONG><BR WP="BR2">
+<P><STRONG>	</STRONG>The Company will need to raise additional capital through private funding to meet the
+financial needs of its newly acquired business, of being a reporting company and to meet the
+obligations of the current accounts payable.   Historically, the Company has been successful in
+raising operational capital.  There is no guarantee that the Company will be successful in obtaining
+necessary funding to develop its new operation.</P>
+
+<P>	To the extent the Company acquires the amounts necessary to fund its ongoing business plan
+through the issuance of equity securities, the Company's shareholders may experience dilution in
+the value per share of their equity securities.  The acquisition of funding through the issuance of debt
+could result in a substantial portion of the Company's cash flow from operations being dedicated to
+the payment of principal and interest on that indebtedness, and could render the Company more
+vulnerable to competitive pressures and economic downturns.<BR WP="BR2">
+</P>
+
+<P><STRONG>NEED FOR ADDITIONAL FINANCING</STRONG><BR WP="BR2">
+</P>
+
+<P>	The Company believes that its existing capital will be sufficient to meet the Company's cash
+needs, including the costs of compliance with the continuing reporting requirements of the Securities
+Exchange Act of 1934, as amended, for the coming year.  There is no assurance, however, that the
+available funds will ultimately prove to be adequate to allow it to complete a business combination,
+and once a business combination is completed, the Company's needs for additional financing are
+likely to increase substantially.  </P>
+
+<P><STRONG>FORWARD LOOKING STATEMENT</STRONG></P>
+
+<P>	This Management's Discussion and Analysis of Financial Condition and Results of
+Operations includes a number of forward-looking statements that reflect Management's current
+views with respect to future events and financial performance.  Those statements include statements
+regarding the intent, belief or current expectations of the Company and members of its management
+team as well as the assumptions on which such statements are based.  Prospective investors are
+cautioned that any such forward-looking statements are not guarantees of future performance and
+involve risk and uncertainties, and that actual results may differ materially from those contemplated
+by such forward-looking statements.  Readers are urged to carefully review and consider the various
+disclosures made by the Company in this report and in the Company's other reports filed with the
+Securities and Exchange Commission.  Important factors currently known to Management could
+cause actual results to differ materially from those in forward-looking statements.  The Company
+undertakes no obligation to update or revise forward-looking statements to reflect changed
+assumptions, the occurrence of unanticipated events or changes in the future operating results over
+time.   The Company believes that its assumptions are based upon reasonable data derived from and
+known about its business and operations and the business and operations of the Company.  No
+assurances are made that actual results of operations or the results of the Company's future activities
+will not differ materially from its assumptions.</P>
+
+<hr color="#0000FF">
+<P>	&nbsp;</P>
+
+<P ALIGN="CENTER"><STRONG>ITEM 7. FINANCIAL STATEMENTS</STRONG></P>
+
+<P><STRONG></STRONG>  (1)	The following financial statements of the Company and its subsidiaries have been filed as part of
+this report. </P>
+
+<BR WP="BR1">	Independent Auditors' Report
+<P>	Balance Sheets as of December 31, 2003 and December 31, 2002.<BR WP="BR2">
+</P>
+
+<P>	Statements of Operations for the years ended December 31, 2003 and December 31, 2002.<BR WP="BR2">
+</P>
+
+<P>	Statement of Stockholders' Equity for the period from January 1, 2002 to December 31, 2003.<BR WP="BR2">
+</P>
+
+<P>	Statement of Cash Flows for the years ended December 31, 2003 and December 31, 2002.<BR WP="BR2">
+</P>
+
+<P>	Notes to Financial Statements.</P>
+
+<P>  (2)	Schedules are omitted because of the absence of conditions under which they are required
+or because the required information is given in the financial statements or notes thereto.</P>
+
+<BR WP="BR1"><BR WP="BR2">
+<hr color="#0000FF">
+<P ALIGN="CENTER">INDEPENDENT ACCOUNTANTS' REPORT</P>
+
+<BR WP="BR1">MEMS USA, Inc.<br>
+(formerly LumaLite Holdings, Inc.)
+<P>	We have audited the accompanying consolidated balance sheets of MEMS USA, Inc. (formerly
+LumaLite Holdings, Inc.) as of December 31, 2003 and 2002, and the related statements of operations,
+cash flows, and stockholders' equity (deficit) for the years then ended.  These financial statements are
+the responsibility of the Company's management. Our responsibility is to express an opinion on these
+financial statements based on our audit.</P>
+
+<P>	We conducted our audits in accordance with auditing standards generally accepted in the United
+States of America.  Those standards require that we plan and perform the audit to obtain reasonable
+assurance about whether the financial statements are free of material misstatement.  An audit includes
+examining, on a test basis, evidence supporting the amounts and disclosures in the financial statements.
+An audit also includes assessing the accounting principles used and significant estimates made by
+management, as well as evaluating the overall financial statement presentation.  We believe that our
+audits provide a reasonable basis for our opinion.</P>
+
+	In our opinion, the December 31, 2003 and 2002 financial statements referred to above present
+fairly, in all material respects, the  financial position of MEMS USA, Inc. (formerly LumaLite Holdings,
+Inc.) as of December 31, 2003 and 2002, and the results of its operations and its cash flows for the years
+then ended in conformity with generally accepted accounting principles in the United States of America.
+<P>	The accompanying financial statements for the years ended December 31, 2003 and 2002 have
+been prepared assuming that the Company will continue as a going concern. As discussed in Note 1 to
+the financial statements, the Company has suffered recurring losses from operations and has a net capital
+deficiency that raise substantial doubt about its ability to continue as a going concern.  Management's
+plans in regard to these matters are also described in Note 1.  The financial statements do not include
+any adjustments that might result from the outcome of this uncertainty.</P>
+
+<BR WP="BR1">							Respectfully Submitted,
+<p>&nbsp;
+
+<P>							Certified Public Accountants<br>
+Salt Lake City, Utah<br>
+March 22, 2004</P>
+
+<BR WP="BR1"><BR WP="BR2">
+<BR WP="BR1">
+<hr color="#0000FF">
+<p align="center"><BR WP="BR2">
+<U>MEMS USA, INC.<br>
+(formerly LumaLite Holdings, Inc.)<br>
+BALANCE SHEETS</U></p>
+<TABLE BORDER="0" WIDTH="100%">
+<TR VALIGN="TOP"><TD></TD>
+<TD></TD>
+<TD COLSPAN="3" ALIGN="CENTER"></TD></TR>
+<TR VALIGN="TOP"><TD></TD>
+<TD></TD>
+<TD COLSPAN="3" ALIGN="CENTER">December 31,</TD></TR>
+<TR VALIGN="TOP"><TD></TD>
+<TD></TD>
+<TD ALIGN="CENTER">2003</TD>
+<TD ALIGN="CENTER"></TD>
+<TD ALIGN="CENTER">2002</TD></TR>
+<TR VALIGN="TOP"><TD>ASSETS</TD>
+<TD></TD>
+<TD ALIGN="RIGHT">$                      -</TD>
+<TD ALIGN="RIGHT"></TD>
+<TD ALIGN="RIGHT">$                       -</TD></TR></TABLE>
+
+<P>										</P>
+
+<TABLE BORDER="0" WIDTH="100%">
+<TR VALIGN="TOP"><TD>LIABILITIES</TD>
+<TD></TD>
+<TD ALIGN="RIGHT"></TD>
+<TD ALIGN="RIGHT"></TD>
+<TD ALIGN="RIGHT"></TD></TR>
+<TR VALIGN="TOP"><TD>Current Liabilities:</TD>
+<TD></TD>
+<TD ALIGN="RIGHT"></TD>
+<TD ALIGN="RIGHT"></TD>
+<TD ALIGN="RIGHT"></TD></TR>
+<TR VALIGN="TOP"><TD>Accounts Payable</TD>
+<TD></TD>
+<TD ALIGN="RIGHT">$	12,106</TD>
+<TD ALIGN="RIGHT"></TD>
+<TD ALIGN="RIGHT">$	5,000</TD></TR>
+<TR VALIGN="TOP"><TD>Accrued Expenses</TD>
+<TD></TD>
+<TD ALIGN="RIGHT">-</TD>
+<TD ALIGN="RIGHT"></TD>
+<TD ALIGN="RIGHT">-</TD></TR>
+<TR VALIGN="TOP"><TD>Net Liabilities of Discontinued Operations</TD>
+<TD></TD>
+<TD ALIGN="RIGHT">-</TD>
+<TD ALIGN="RIGHT"></TD>
+<TD ALIGN="RIGHT">221,556</TD></TR>
+<TR VALIGN="TOP"><TD></TD>
+<TD></TD>
+<TD ALIGN="RIGHT"></TD>
+<TD ALIGN="RIGHT"></TD>
+<TD ALIGN="RIGHT"></TD></TR>
+<TR VALIGN="TOP"><TD>     Total Current Liabilities</TD>
+<TD></TD>
+<TD ALIGN="RIGHT">12,106</TD>
+<TD ALIGN="RIGHT"></TD>
+<TD ALIGN="RIGHT">226,556</TD></TR>
+<TR VALIGN="TOP"><TD></TD>
+<TD></TD>
+<TD ALIGN="RIGHT"></TD>
+<TD ALIGN="RIGHT"></TD>
+<TD ALIGN="RIGHT"></TD></TR>
+<TR VALIGN="TOP"><TD>STOCKHOLDERS EQUITY (DEFICIT)</TD>
+<TD></TD>
+<TD ALIGN="RIGHT"></TD>
+<TD ALIGN="RIGHT"></TD>
+<TD ALIGN="RIGHT"></TD></TR>
+<TR VALIGN="TOP"><TD>Preferred Stock, par value $.001 per share</TD>
+<TD></TD>
+<TD ALIGN="RIGHT"></TD>
+<TD ALIGN="RIGHT"></TD>
+<TD ALIGN="RIGHT"></TD></TR>
+<TR VALIGN="TOP"><TD>   Authorized 10,000,000 shares,</TD>
+<TD></TD>
+<TD ALIGN="RIGHT"></TD>
+<TD ALIGN="RIGHT"></TD>
+<TD ALIGN="RIGHT"></TD></TR>
+<TR VALIGN="TOP"><TD>   None issued at December 31, 2003 and 2002</TD>
+<TD></TD>
+<TD ALIGN="RIGHT">-</TD>
+<TD ALIGN="RIGHT"></TD>
+<TD ALIGN="RIGHT">-</TD></TR>
+<TR VALIGN="TOP"><TD></TD>
+<TD></TD>
+<TD ALIGN="RIGHT"></TD>
+<TD ALIGN="RIGHT"></TD>
+<TD ALIGN="RIGHT"></TD></TR>
+<TR VALIGN="TOP"><TD>Common Stock, par value $.001 per share, </TD>
+<TD></TD>
+<TD ALIGN="RIGHT"></TD>
+<TD ROWSPAN="4" ALIGN="RIGHT"></TD>
+<TD ALIGN="RIGHT"></TD></TR>
+<TR VALIGN="TOP"><TD>   100,000,000 shares authorized,</TD>
+<TD></TD>
+<TD ALIGN="RIGHT"></TD>
+</TD>
+<TD ALIGN="RIGHT"></TD></TR>
+<TR VALIGN="TOP"><TD>   Issued 13,342,036 shares at December 31, 2003</TD>
+<TD></TD>
+<TD ALIGN="RIGHT"></TD>
+</TD>
+<TD ALIGN="RIGHT"></TD></TR>
+<TR VALIGN="TOP"><TD>   and 144,821 shares at December 31, 2002</TD>
+<TD></TD>
+<TD ALIGN="RIGHT">13,342</TD>
+</TD>
+<TD ALIGN="RIGHT">145</TD></TR>
+<TR VALIGN="TOP"><TD>Additional Paid-in Capital</TD>
+<TD></TD>
+<TD ALIGN="RIGHT">581,060</TD>
+<TD ALIGN="RIGHT"></TD>
+<TD ALIGN="RIGHT">341,797</TD></TR>
+<TR VALIGN="TOP"><TD>Retained Earnings (Deficit)</TD>
+<TD></TD>
+<TD ALIGN="RIGHT">(606,508)</TD>
+<TD ALIGN="RIGHT"></TD>
+<TD ALIGN="RIGHT">(568,498)</TD></TR>
+<TR VALIGN="TOP"><TD></TD>
+<TD></TD>
+<TD ALIGN="RIGHT"></TD>
+<TD ALIGN="RIGHT"></TD>
+<TD ALIGN="RIGHT"></TD></TR>
+<TR VALIGN="TOP"><TD>     Total Stockholders' Equity (Deficit)</TD>
+<TD></TD>
+<TD ALIGN="RIGHT">(12,106)</TD>
+<TD ALIGN="RIGHT"></TD>
+<TD ALIGN="RIGHT">(226,556)</TD></TR>
+<TR VALIGN="TOP"><TD></TD>
+<TD></TD>
+<TD ALIGN="RIGHT"></TD>
+<TD ALIGN="RIGHT"></TD>
+<TD ALIGN="RIGHT"></TD></TR>
+<TR VALIGN="TOP"><TD>TOTAL LIABILITIES AND</TD>
+<TD></TD>
+<TD ALIGN="RIGHT"></TD>
+<TD ALIGN="RIGHT"></TD>
+<TD ALIGN="RIGHT"></TD></TR>
+<TR VALIGN="TOP"><TD> STOCKHOLDERS' EQUITY</TD>
+<TD></TD>
+<TD ALIGN="RIGHT">$                      -</TD>
+<TD ALIGN="RIGHT"></TD>
+<TD ALIGN="RIGHT">$                      -</TD></TR>
+<TR VALIGN="TOP"><TD></TD>
+<TD></TD>
+<TD ALIGN="RIGHT"></TD>
+<TD ALIGN="RIGHT"></TD>
+<TD ALIGN="RIGHT"></TD></TR></TABLE>
+
+<BR WP="BR1"><BR WP="BR2">
+See accompanying notes and accountants' report.
+<hr color="#0000FF">
+
+<BR WP="BR1">
+<P ALIGN="CENTER"><U>MEMS USA, INC.<br>
+(formerly LumaLite Holdings, Inc.)<br>
+STATEMENTS OF OPERATIONS</U></P>
+
+<P>						</P>
+
+<TABLE BORDER="0" WIDTH="100%">
+<TR VALIGN="TOP"><TD></TD>
+<TD COLSPAN="3" ALIGN="CENTER"></TD></TR>
+<TR VALIGN="TOP"><TD></TD>
+<TD COLSPAN="3" ALIGN="CENTER">For The Year</TD></TR>
+<TR VALIGN="TOP"><TD></TD>
+<TD COLSPAN="3" ALIGN="CENTER"> Ended</TD></TR>
+<TR VALIGN="TOP"><TD></TD>
+<TD COLSPAN="3" ALIGN="CENTER">December 31,</TD></TR>
+<TR VALIGN="TOP"><TD></TD>
+<TD ALIGN="CENTER">2003</TD>
+<TD></TD>
+<TD ALIGN="CENTER">2002</TD></TR>
+<TR VALIGN="TOP"><TD>Continuing Operations:</TD>
+<TD></TD>
+<TD></TD>
+<TD ALIGN="RIGHT"></TD></TR>
+<TR VALIGN="TOP"><TD>Revenues</TD>
+<TD ALIGN="RIGHT">$                     -</TD>
+<TD></TD>
+<TD ALIGN="RIGHT">$                     -</TD></TR>
+<TR VALIGN="TOP"><TD></TD>
+<TD ALIGN="RIGHT"></TD>
+<TD></TD>
+<TD ALIGN="RIGHT"></TD></TR>
+<TR VALIGN="TOP"><TD>Costs and Expenses</TD>
+<TD ALIGN="RIGHT"></TD>
+<TD></TD>
+<TD ALIGN="RIGHT"></TD></TR>
+<TR VALIGN="TOP"><TD>   General &amp; Administrative</TD>
+<TD ALIGN="RIGHT">36,809</TD>
+<TD></TD>
+<TD ALIGN="RIGHT">23,289</TD></TR>
+<TR VALIGN="TOP"><TD>   Sales &amp; Marketing </TD>
+<TD ALIGN="RIGHT">2,127</TD>
+<TD></TD>
+<TD ALIGN="RIGHT">-</TD></TR>
+<TR VALIGN="TOP"><TD>      Total Operating Expenses</TD>
+<TD ALIGN="RIGHT">38,936</TD>
+<TD></TD>
+<TD ALIGN="RIGHT">23,289</TD></TR>
+<TR VALIGN="TOP"><TD></TD>
+<TD ALIGN="RIGHT"></TD>
+<TD></TD>
+<TD ALIGN="RIGHT"></TD></TR>
+<TR VALIGN="TOP"><TD>Net Income (Loss) from Continuing Operations</TD>
+<TD ALIGN="RIGHT">(38,936)</TD>
+<TD></TD>
+<TD ALIGN="RIGHT">(23,289)</TD></TR>
+<TR VALIGN="TOP"><TD></TD>
+<TD ALIGN="RIGHT"></TD>
+<TD></TD>
+<TD ALIGN="RIGHT"></TD></TR>
+<TR VALIGN="TOP"><TD>Other Income (Expense)</TD>
+<TD ALIGN="RIGHT"></TD>
+<TD></TD>
+<TD ALIGN="RIGHT"></TD></TR>
+<TR VALIGN="TOP"><TD>   Interest Income</TD>
+<TD ALIGN="RIGHT">-</TD>
+<TD></TD>
+<TD ALIGN="RIGHT">-</TD></TR>
+<TR VALIGN="TOP"><TD>   Interest Expense</TD>
+<TD ALIGN="RIGHT">(23,636)</TD>
+<TD></TD>
+<TD ALIGN="RIGHT">-</TD></TR>
+<TR VALIGN="TOP"><TD>      Net Other Income (Expense)</TD>
+<TD ALIGN="RIGHT">(23,636)</TD>
+<TD></TD>
+<TD ALIGN="RIGHT">-</TD></TR>
+<TR VALIGN="TOP"><TD></TD>
+<TD ALIGN="RIGHT"></TD>
+<TD></TD>
+<TD ALIGN="RIGHT"></TD></TR>
+<TR VALIGN="TOP"><TD>Discontinued Operations:</TD>
+<TD ALIGN="RIGHT"></TD>
+<TD></TD>
+<TD ALIGN="RIGHT"></TD></TR>
+<TR VALIGN="TOP"><TD>   Income (Loss) from Discontinued Operations</TD>
+<TD ALIGN="RIGHT">(112,802)</TD>
+<TD></TD>
+<TD ALIGN="RIGHT">(408,876)</TD></TR>
+<TR VALIGN="TOP"><TD>   Gain (Loss) on Disposal of Subsidiary (LumaLite, Inc.)</TD>
+<TD ALIGN="RIGHT">137,364</TD>
+<TD></TD>
+<TD ALIGN="RIGHT">-</TD></TR>
+<TR VALIGN="TOP"><TD></TD>
+<TD ALIGN="RIGHT"></TD>
+<TD></TD>
+<TD ALIGN="RIGHT"></TD></TR>
+<TR VALIGN="TOP"><TD>Net Income (Loss) from Discontinued Operations</TD>
+<TD ALIGN="RIGHT">24,562</TD>
+<TD></TD>
+<TD ALIGN="RIGHT">(408,876)</TD></TR>
+<TR VALIGN="TOP"><TD></TD>
+<TD ALIGN="RIGHT"></TD>
+<TD></TD>
+<TD ALIGN="RIGHT"></TD></TR>
+<TR VALIGN="TOP"><TD>Net Income (Loss)</TD>
+<TD ALIGN="RIGHT">$	(38,010)</TD>
+<TD></TD>
+<TD ALIGN="RIGHT">$	(432,165)</TD></TR>
+<TR VALIGN="TOP"><TD></TD>
+<TD ALIGN="RIGHT"></TD>
+<TD></TD>
+<TD ALIGN="RIGHT"></TD></TR></TABLE>
+
+<TABLE BORDER="0" WIDTH="100%">
+<TR VALIGN="TOP"><TD ALIGN="RIGHT">Basic &amp; Diluted loss per share</TD>
+<TD ALIGN="RIGHT"></TD>
+<TD ALIGN="RIGHT"></TD>
+<TD ALIGN="RIGHT"></TD>
+<TD ALIGN="RIGHT"></TD></TR>
+<TR VALIGN="TOP"><TD COLSPAN="2">         Income (loss) from continuing operations</TD>
+<TD ALIGN="RIGHT">$                      -  </TD>
+<TD ALIGN="RIGHT"></TD>
+<TD ALIGN="RIGHT">$                       -  </TD></TR>
+<TR VALIGN="TOP"><TD>           </TD>
+<TD ALIGN="RIGHT"></TD>
+<TD ALIGN="RIGHT"></TD>
+<TD ALIGN="RIGHT"></TD>
+<TD ALIGN="RIGHT"></TD></TR>
+<TR VALIGN="TOP"><TD COLSPAN="2">         Income (loss) from discontinued operations</TD>
+<TD ALIGN="RIGHT">-  </TD>
+<TD ALIGN="RIGHT"></TD>
+<TD ALIGN="RIGHT">-  </TD></TR>
+<TR VALIGN="TOP"><TD>           </TD>
+<TD ALIGN="RIGHT"></TD>
+<TD ALIGN="RIGHT">                   </TD>
+<TD ALIGN="RIGHT"></TD>
+<TD ALIGN="RIGHT">              </TD></TR>
+<TR VALIGN="TOP"><TD ALIGN="RIGHT"></TD>
+<TD ALIGN="RIGHT"></TD>
+<TD ALIGN="RIGHT"></TD>
+<TD ALIGN="RIGHT"></TD>
+<TD ALIGN="RIGHT"></TD></TR>
+<TR VALIGN="TOP"><TD>      Income (Loss) per share</TD>
+<TD ALIGN="RIGHT"></TD>
+<TD ALIGN="RIGHT">$	(0.03)</TD>
+<TD ALIGN="RIGHT"></TD>
+<TD ALIGN="RIGHT">$	(2.99)</TD></TR></TABLE>
+
+<P>												</P>
+
+<TABLE BORDER="0" WIDTH="100%">
+<TR VALIGN="TOP"><TD>Weighted Average Shares Outstanding</TD>
+<TD ALIGN="RIGHT"></TD>
+<TD ALIGN="RIGHT">1,214,545</TD>
+<TD ALIGN="RIGHT"></TD>
+<TD ALIGN="RIGHT">144,821</TD></TR></TABLE>
+
+<P ALIGN="CENTER">See accompanying notes and accountants' report.</P>
+
+<BR WP="BR1"><BR WP="BR2">
+<BR WP="BR1"><BR WP="BR2">
+<BR WP="BR1">
+<hr color="#0000FF">
+<p>&nbsp;</p>
+<P ALIGN="CENTER"><U>MEMS USA, INC.<br>
+(formerly LumaLite Holdings, Inc.)<br>
+STATEMENT OF STOCKHOLDERS' EQUITY<br>
+FOR THE YEARS ENDED DECEMBER 31, 2003 AND 2002</U></P>
+
+<BR WP="BR1">
+<TABLE BORDER="0" WIDTH="100%">
+<TR VALIGN="TOP"><TD></TD>
+<TD COLSPAN="3" ALIGN="CENTER"></TD>
+<TD ALIGN="CENTER"></TD>
+<TD ALIGN="CENTER">Additional</TD>
+<TD ALIGN="CENTER"></TD>
+<TD ALIGN="CENTER">Retained</TD></TR>
+<TR VALIGN="TOP"><TD></TD>
+<TD COLSPAN="3" ALIGN="CENTER">Common Stock</TD>
+<TD ALIGN="CENTER"></TD>
+<TD ALIGN="CENTER">Paid-in</TD>
+<TD ALIGN="CENTER"></TD>
+<TD ALIGN="CENTER">Earnings /</TD></TR>
+<TR VALIGN="TOP"><TD>         </TD>
+<TD ALIGN="CENTER">Shares</TD>
+<TD ALIGN="CENTER"></TD>
+<TD ALIGN="CENTER">Value</TD>
+<TD ALIGN="CENTER"></TD>
+<TD ALIGN="CENTER">Capital</TD>
+<TD ALIGN="CENTER"></TD>
+<TD ALIGN="CENTER">(Deficit)</TD></TR>
+<TR VALIGN="TOP"><TD>Balance at December 31, 2001</TD>
+<TD ALIGN="RIGHT">89,000</TD>
+<TD ALIGN="RIGHT"></TD>
+<TD ALIGN="RIGHT">89</TD>
+<TD ALIGN="RIGHT"></TD>
+<TD ALIGN="RIGHT">286,612</TD>
+<TD ALIGN="RIGHT"></TD>
+<TD ALIGN="RIGHT">(136,333)</TD></TR>
+<TR VALIGN="TOP"><TD></TD>
+<TD ALIGN="RIGHT"></TD>
+<TD ALIGN="RIGHT"></TD>
+<TD ALIGN="RIGHT"></TD>
+<TD ALIGN="RIGHT"></TD>
+<TD ALIGN="RIGHT"></TD>
+<TD ALIGN="RIGHT"></TD>
+<TD ALIGN="RIGHT"></TD></TR>
+<TR VALIGN="TOP"><TD>Common stock issued for cash</TD>
+<TD ALIGN="RIGHT"></TD>
+<TD ALIGN="RIGHT"></TD>
+<TD ALIGN="RIGHT"></TD>
+<TD ALIGN="RIGHT"></TD>
+<TD ALIGN="RIGHT"></TD>
+<TD ALIGN="RIGHT"></TD>
+<TD ALIGN="RIGHT"></TD></TR>
+<TR VALIGN="TOP"><TD>   during January, 2002</TD>
+<TD ALIGN="RIGHT">2,500</TD>
+<TD ALIGN="RIGHT"></TD>
+<TD ALIGN="RIGHT">2</TD>
+<TD ALIGN="RIGHT"></TD>
+<TD ALIGN="RIGHT">499,998</TD>
+<TD ALIGN="RIGHT"></TD>
+<TD ALIGN="RIGHT">-</TD></TR>
+<TR VALIGN="TOP"><TD>Common stock issued in connection</TD>
+<TD ALIGN="RIGHT"></TD>
+<TD ALIGN="RIGHT"></TD>
+<TD ALIGN="RIGHT"></TD>
+<TD ALIGN="RIGHT"></TD>
+<TD ALIGN="RIGHT"></TD>
+<TD ALIGN="RIGHT"></TD>
+<TD ALIGN="RIGHT"></TD></TR>
+<TR VALIGN="TOP"><TD>   with reverse merger with</TD>
+<TD ALIGN="RIGHT"></TD>
+<TD ALIGN="RIGHT"></TD>
+<TD ALIGN="RIGHT"></TD>
+<TD ALIGN="RIGHT"></TD>
+<TD ALIGN="RIGHT"></TD>
+<TD ALIGN="RIGHT"></TD>
+<TD ALIGN="RIGHT"></TD></TR>
+<TR VALIGN="TOP"><TD>   LumaLite, Inc. April, 2002</TD>
+<TD ALIGN="RIGHT">1,941</TD>
+<TD ALIGN="RIGHT"></TD>
+<TD ALIGN="RIGHT">2</TD>
+<TD ALIGN="RIGHT"></TD>
+<TD ALIGN="RIGHT">(1,210,738)</TD>
+<TD ALIGN="RIGHT"></TD>
+<TD ALIGN="RIGHT">-</TD></TR>
+<TR VALIGN="TOP"><TD>Common stock cancelled and returned </TD>
+<TD ALIGN="RIGHT"></TD>
+<TD ALIGN="RIGHT"></TD>
+<TD ALIGN="RIGHT"></TD>
+<TD ALIGN="RIGHT"></TD>
+<TD ALIGN="RIGHT"></TD>
+<TD ALIGN="RIGHT"></TD>
+<TD ALIGN="RIGHT"></TD></TR>
+<TR VALIGN="TOP"><TD>   to company during April, 2002</TD>
+<TD ALIGN="RIGHT">(1,484)</TD>
+<TD ALIGN="RIGHT"></TD>
+<TD ALIGN="RIGHT">(1)</TD>
+<TD ALIGN="RIGHT"></TD>
+<TD ALIGN="RIGHT">1</TD>
+<TD ALIGN="RIGHT"></TD>
+<TD ALIGN="RIGHT">-</TD></TR>
+<TR VALIGN="TOP"><TD>Common stock issued in exchange</TD>
+<TD ALIGN="RIGHT"></TD>
+<TD ALIGN="RIGHT"></TD>
+<TD ALIGN="RIGHT"></TD>
+<TD ALIGN="RIGHT"></TD>
+<TD ALIGN="RIGHT"></TD>
+<TD ALIGN="RIGHT"></TD>
+<TD ALIGN="RIGHT"></TD></TR>
+<TR VALIGN="TOP"><TD>   for debt during April, 2002</TD>
+<TD ALIGN="RIGHT">50,594</TD>
+<TD ALIGN="RIGHT"></TD>
+<TD ALIGN="RIGHT">51</TD>
+<TD ALIGN="RIGHT"></TD>
+<TD ALIGN="RIGHT">727,341</TD>
+<TD ALIGN="RIGHT"></TD>
+<TD ALIGN="RIGHT">-</TD></TR>
+<TR VALIGN="TOP"><TD>Common stock issued in exchange</TD>
+<TD ALIGN="RIGHT"></TD>
+<TD ALIGN="RIGHT"></TD>
+<TD ALIGN="RIGHT"></TD>
+<TD ALIGN="RIGHT"></TD>
+<TD ALIGN="RIGHT"></TD>
+<TD ALIGN="RIGHT"></TD>
+<TD ALIGN="RIGHT"></TD></TR>
+<TR VALIGN="TOP"><TD>   for services during December, 2002</TD>
+<TD ALIGN="RIGHT">2,270</TD>
+<TD ALIGN="RIGHT"></TD>
+<TD ALIGN="RIGHT">2</TD>
+<TD ALIGN="RIGHT"></TD>
+<TD ALIGN="RIGHT">38,583</TD>
+<TD ALIGN="RIGHT"></TD>
+<TD ALIGN="RIGHT"></TD></TR>
+<TR VALIGN="TOP"><TD>Net income (loss)</TD>
+<TD ALIGN="RIGHT"></TD>
+<TD ALIGN="RIGHT"></TD>
+<TD ALIGN="RIGHT"></TD>
+<TD ALIGN="RIGHT"></TD>
+<TD ALIGN="RIGHT"></TD>
+<TD ALIGN="RIGHT"></TD>
+<TD ALIGN="RIGHT">(432,165)</TD></TR>
+<TR VALIGN="TOP"><TD>				</TD>
+<TD ALIGN="RIGHT"></TD>
+<TD ALIGN="RIGHT"></TD>
+<TD ALIGN="RIGHT"></TD>
+<TD ALIGN="RIGHT"></TD>
+<TD ALIGN="RIGHT"></TD>
+<TD ALIGN="RIGHT"></TD>
+<TD ALIGN="RIGHT"></TD></TR>
+<TR VALIGN="TOP"><TD>Balance at December 31, 2002</TD>
+<TD ALIGN="RIGHT">144,821</TD>
+<TD ALIGN="RIGHT"></TD>
+<TD ALIGN="RIGHT">145</TD>
+<TD ALIGN="RIGHT"></TD>
+<TD ALIGN="RIGHT">341,797</TD>
+<TD ALIGN="RIGHT"></TD>
+<TD ALIGN="RIGHT">$	(568,498)</TD></TR>
+<TR VALIGN="TOP"><TD></TD>
+<TD ALIGN="RIGHT"></TD>
+<TD ALIGN="RIGHT"></TD>
+<TD ALIGN="RIGHT"></TD>
+<TD ALIGN="RIGHT"></TD>
+<TD ALIGN="RIGHT"></TD>
+<TD ALIGN="RIGHT"></TD>
+<TD ALIGN="RIGHT"></TD></TR>
+<TR VALIGN="TOP"><TD>Cancellation of shares in connection</TD>
+<TD ALIGN="RIGHT"></TD>
+<TD ALIGN="RIGHT"></TD>
+<TD ALIGN="RIGHT"></TD>
+<TD ALIGN="RIGHT"></TD>
+<TD ALIGN="RIGHT"></TD>
+<TD ALIGN="RIGHT"></TD>
+<TD ALIGN="RIGHT"></TD></TR>
+<TR VALIGN="TOP"><TD>   with agreement during March, 2003 </TD>
+<TD ALIGN="RIGHT">(89,000)</TD>
+<TD ALIGN="RIGHT"></TD>
+<TD ALIGN="RIGHT">(89)</TD>
+<TD ALIGN="RIGHT"></TD>
+<TD ALIGN="RIGHT">-</TD>
+<TD ALIGN="RIGHT"></TD>
+<TD ALIGN="RIGHT">-</TD></TR></TABLE>
+
+<TABLE BORDER="0" WIDTH="100%">
+<TR VALIGN="TOP"><TD><U></U>Cancellation of shares issued in </TD>
+<TD ALIGN="RIGHT"></CENTER>
+</TD>
+<TD ALIGN="RIGHT"></TD>
+<TD ALIGN="RIGHT"></TD>
+<TD ALIGN="RIGHT"></TD>
+<TD ALIGN="RIGHT"></TD>
+<TD ALIGN="RIGHT"></TD>
+<TD ALIGN="RIGHT"></TD></TR>
+<TR VALIGN="TOP"><TD>   connection with LumaLite merger</TD>
+<TD ALIGN="RIGHT">(13,785)</TD>
+<TD ALIGN="RIGHT"></TD>
+<TD ALIGN="RIGHT">(14)</TD>
+<TD ALIGN="RIGHT"></TD>
+<TD ALIGN="RIGHT">(236,676)</TD>
+<TD ALIGN="RIGHT"></TD>
+<TD ALIGN="RIGHT">-</TD></TR>
+<TR VALIGN="TOP"><TD>Common stock issued in exchange </TD>
+<TD ALIGN="RIGHT"></TD>
+<TD ALIGN="RIGHT"></TD>
+<TD ALIGN="RIGHT"></TD>
+<TD ALIGN="RIGHT"></TD>
+<TD ALIGN="RIGHT"></TD>
+<TD ALIGN="RIGHT"></TD>
+<TD ALIGN="RIGHT"></TD></TR>
+<TR VALIGN="TOP"><TD>   for services during May, 2003</TD>
+<TD ALIGN="RIGHT">10,000</TD>
+<TD ALIGN="RIGHT"></TD>
+<TD ALIGN="RIGHT">10</TD>
+<TD ALIGN="RIGHT"></TD>
+<TD ALIGN="RIGHT">1,990</TD>
+<TD ALIGN="RIGHT"></TD>
+<TD ALIGN="RIGHT">-</TD></TR>
+<TR VALIGN="TOP"><TD>Common stock issued in exchange </TD>
+<TD ALIGN="RIGHT"></TD>
+<TD ALIGN="RIGHT"></TD>
+<TD ALIGN="RIGHT"></TD>
+<TD ALIGN="RIGHT"></TD>
+<TD ALIGN="RIGHT"></TD>
+<TD ALIGN="RIGHT"></TD>
+<TD ALIGN="RIGHT"></TD></TR>
+<TR VALIGN="TOP"><TD>   for services during July, 2003</TD>
+<TD ALIGN="RIGHT">55,000</TD>
+<TD ALIGN="RIGHT"></TD>
+<TD ALIGN="RIGHT">55</TD>
+<TD ALIGN="RIGHT"></TD>
+<TD ALIGN="RIGHT">10,945</TD>
+<TD ALIGN="RIGHT"></TD>
+<TD ALIGN="RIGHT">-</TD></TR>
+<TR VALIGN="TOP"><TD>Common stock issued in exchange</TD>
+<TD ALIGN="RIGHT"></TD>
+<TD ALIGN="RIGHT"></TD>
+<TD ALIGN="RIGHT"></TD>
+<TD ALIGN="RIGHT"></TD>
+<TD ALIGN="RIGHT"></TD>
+<TD ALIGN="RIGHT"></TD>
+<TD ALIGN="RIGHT"></TD></TR>
+<TR VALIGN="TOP"><TD>   for services during July, 2003</TD>
+<TD ALIGN="RIGHT">5,000</TD>
+<TD ALIGN="RIGHT"></TD>
+<TD ALIGN="RIGHT">5</TD>
+<TD ALIGN="RIGHT"></TD>
+<TD ALIGN="RIGHT">1,995</TD>
+<TD ALIGN="RIGHT"></TD>
+<TD ALIGN="RIGHT">-</TD></TR>
+<TR VALIGN="TOP"><TD>Common stock issued in exchange</TD>
+<TD ALIGN="RIGHT"></TD>
+<TD ALIGN="RIGHT"></TD>
+<TD ALIGN="RIGHT"></TD>
+<TD ALIGN="RIGHT"></TD>
+<TD ALIGN="RIGHT"></TD>
+<TD ALIGN="RIGHT"></TD>
+<TD ALIGN="RIGHT"></TD></TR>
+<TR VALIGN="TOP"><TD>   for debt during December, 2003</TD>
+<TD ALIGN="RIGHT">10,000,000</TD>
+<TD ALIGN="RIGHT"></TD>
+<TD ALIGN="RIGHT">10,000</TD>
+<TD ALIGN="RIGHT"></TD>
+<TD ALIGN="RIGHT">105,709</TD>
+<TD ALIGN="RIGHT"></TD>
+<TD ALIGN="RIGHT">-</TD></TR>
+<TR VALIGN="TOP"><TD>Common stock issued for </TD>
+<TD ALIGN="RIGHT"></TD>
+<TD ALIGN="RIGHT"></TD>
+<TD ALIGN="RIGHT"></TD>
+<TD ALIGN="RIGHT"></TD>
+<TD ALIGN="RIGHT"></TD>
+<TD ALIGN="RIGHT"></TD>
+<TD ALIGN="RIGHT"></TD></TR>
+<TR VALIGN="TOP"><TD>   conversion of debt, December, 2003</TD>
+<TD ALIGN="RIGHT">3,230,000</TD>
+<TD ALIGN="RIGHT"></TD>
+<TD ALIGN="RIGHT">3,230</TD>
+<TD ALIGN="RIGHT"></TD>
+<TD ALIGN="RIGHT">355,300</TD>
+<TD ALIGN="RIGHT"></TD>
+<TD ALIGN="RIGHT">-</TD></TR>
+<TR VALIGN="TOP"><TD>Net Income</TD>
+<TD ALIGN="RIGHT">-</TD>
+<TD ALIGN="RIGHT"></TD>
+<TD ALIGN="RIGHT">-</TD>
+<TD ALIGN="RIGHT"></TD>
+<TD ALIGN="RIGHT">-</TD>
+<TD ALIGN="RIGHT"></TD>
+<TD ALIGN="RIGHT">(38,010)</TD></TR>
+<TR VALIGN="TOP"><TD></TD>
+<TD ALIGN="RIGHT"></TD>
+<TD ALIGN="RIGHT"></TD>
+<TD ALIGN="RIGHT"></TD>
+<TD ALIGN="RIGHT"></TD>
+<TD ALIGN="RIGHT"></TD>
+<TD ALIGN="RIGHT"></TD>
+<TD ALIGN="RIGHT"></TD></TR>
+<TR VALIGN="TOP"><TD>Balance at December 31, 2003</TD>
+<TD ALIGN="RIGHT">13,342,036</TD>
+<TD ALIGN="RIGHT"></TD>
+<TD ALIGN="RIGHT">$	13,342</TD>
+<TD ALIGN="RIGHT"></TD>
+<TD ALIGN="RIGHT">$	581,060</TD>
+<TD ALIGN="RIGHT"></TD>
+<TD ALIGN="RIGHT">(606,508)</TD></TR>
+<TR VALIGN="TOP"><TD></TD>
+<TD ALIGN="RIGHT"></TD>
+<TD ALIGN="RIGHT"></TD>
+<TD ALIGN="RIGHT"></TD>
+<TD ALIGN="RIGHT"></TD>
+<TD ALIGN="RIGHT"></TD>
+<TD ALIGN="RIGHT"></TD>
+<TD ALIGN="RIGHT"></TD></TR></TABLE>
+
+<BR WP="BR1"><BR WP="BR2">
+See accompanying notes and accountants' report.<U></U>
+<p>
+
+<BR WP="BR1">
+<hr color="#0000FF">
+<p>&nbsp;</p>
+<P ALIGN="CENTER"><U>MEMS USA, INC..<br>
+(formerly LumaLite Holdings, Inc.)<br>
+STATEMENTS OF CASH FLOWS</U></P>
+
+&nbsp;
+<TABLE BORDER="0" WIDTH="100%">
+<TR VALIGN="TOP"><TD></TD>
+<TD COLSPAN="3" ALIGN="CENTER"></TD></TR>
+<TR VALIGN="TOP"><TD></TD>
+<TD COLSPAN="3" ALIGN="CENTER">For The</TD></TR>
+<TR VALIGN="TOP"><TD></TD>
+<TD COLSPAN="3" ALIGN="CENTER"> Year Ended</TD></TR>
+<TR VALIGN="TOP"><TD></TD>
+<TD COLSPAN="3" ALIGN="CENTER">December 31,</TD></TR>
+<TR VALIGN="TOP"><TD></TD>
+<TD ALIGN="CENTER">2003</TD>
+<TD></TD>
+<TD ALIGN="CENTER">2002</TD></TR>
+<TR VALIGN="TOP"><TD>Cash Flows From Operating Activities</TD>
+<TD></TD>
+<TD></TD>
+<TD ALIGN="RIGHT"></TD></TR>
+<TR VALIGN="TOP"><TD>   Net income (loss) </TD>
+<TD ALIGN="RIGHT">$	(38,010)</TD>
+<TD></TD>
+<TD ALIGN="RIGHT">$	(432,165)</TD></TR>
+<TR VALIGN="TOP"><TD>   Change in net liabilities of discontinued operations</TD>
+<TD ALIGN="RIGHT">-</TD>
+<TD></TD>
+<TD ALIGN="RIGHT">408,876</TD></TR>
+<TR VALIGN="TOP"><TD>   Loss from discontinued operations </TD>
+<TD ALIGN="RIGHT">112,802</TD>
+<TD></TD>
+<TD ALIGN="RIGHT">-</TD></TR>
+<TR VALIGN="TOP"><TD>   Gain on disposal of subsidiary</TD>
+<TD ALIGN="RIGHT">(137,364)</TD>
+<TD></TD>
+<TD ALIGN="RIGHT">-</TD></TR>
+<TR VALIGN="TOP"><TD></TD>
+<TD ALIGN="RIGHT"></TD>
+<TD></TD>
+<TD ALIGN="RIGHT"></TD></TR>
+<TR VALIGN="TOP"><TD>Adjustments to reconcile net loss to net cash provided by</TD>
+<TD ALIGN="RIGHT"></TD>
+<TD></TD>
+<TD ALIGN="RIGHT"></TD></TR>
+<TR VALIGN="TOP"><TD>    Increase (Decrease) in Accounts Payable</TD>
+<TD ALIGN="RIGHT">7,106</TD>
+<TD></TD>
+<TD ALIGN="RIGHT">22,496</TD></TR>
+<TR VALIGN="TOP"><TD>    Increase (Decrease) in Accrued Expenses</TD>
+<TD ALIGN="RIGHT">-</TD>
+<TD></TD>
+<TD ALIGN="RIGHT">-</TD></TR>
+<TR VALIGN="TOP"><TD>Net Cash Provided by (Used in) Operating Activities</TD>
+<TD ALIGN="RIGHT">(55,466)</TD>
+<TD></TD>
+<TD ALIGN="RIGHT">(793)</TD></TR>
+<TR VALIGN="TOP"><TD></TD>
+<TD ALIGN="RIGHT"></TD>
+<TD></TD>
+<TD ALIGN="RIGHT"></TD></TR>
+<TR VALIGN="TOP"><TD>Cash Flows From Investing Activities</TD>
+<TD ALIGN="RIGHT"></TD>
+<TD></TD>
+<TD ALIGN="RIGHT"></TD></TR>
+<TR VALIGN="TOP"><TD>Net Cash Used by Investing Activities</TD>
+<TD ALIGN="RIGHT">-</TD>
+<TD></TD>
+<TD ALIGN="RIGHT">-</TD></TR>
+<TR VALIGN="TOP"><TD></TD>
+<TD ALIGN="RIGHT"></TD>
+<TD></TD>
+<TD ALIGN="RIGHT"></TD></TR>
+<TR VALIGN="TOP"><TD>Cash Flows From Financing Activities</TD>
+<TD ALIGN="RIGHT"></TD>
+<TD></TD>
+<TD ALIGN="RIGHT"></TD></TR>
+<TR VALIGN="TOP"><TD>   Proceeds from Sale of Common Stock</TD>
+<TD ALIGN="RIGHT">55,466</TD>
+<TD></TD>
+<TD ALIGN="RIGHT">-</TD></TR>
+<TR VALIGN="TOP"><TD ALIGN="RIGHT">Net Cash Provided by (Used in) Financing Activities</TD>
+<TD ALIGN="RIGHT">55,466</TD>
+<TD ALIGN="RIGHT"></TD>
+<TD ALIGN="RIGHT">-</TD></TR>
+<TR VALIGN="TOP"><TD></TD>
+<TD ALIGN="RIGHT"></TD>
+<TD></TD>
+<TD ALIGN="RIGHT"></TD></TR>
+<TR VALIGN="TOP"><TD>Increase (Decrease) in Cash</TD>
+<TD ALIGN="RIGHT">-</TD>
+<TD></TD>
+<TD ALIGN="RIGHT">(793)</TD></TR>
+<TR VALIGN="TOP"><TD>Cash at Beginning of Period</TD>
+<TD ALIGN="RIGHT">-</TD>
+<TD></TD>
+<TD ALIGN="RIGHT">793</TD></TR>
+<TR VALIGN="TOP"><TD>Cash at End of Period</TD>
+<TD ALIGN="RIGHT">$                          -</TD>
+<TD></TD>
+<TD ALIGN="RIGHT">$                       -</TD></TR></TABLE>
+
+<BR WP="BR1"><BR WP="BR2">
+<BR WP="BR1"><BR WP="BR2">
+<TABLE BORDER="0" WIDTH="100%">
+<TR VALIGN="TOP"><TD></TD>
+<TD></TD>
+<TD></TD>
+<TD ALIGN="RIGHT"></TD></TR>
+<TR VALIGN="TOP"><TD COLSPAN="3">Supplemental Disclosure of Interest and Income Taxes Paid</TD>
+<TD ALIGN="RIGHT"></TD></TR>
+<TR VALIGN="TOP"><TD>   Interest paid during the period</TD>
+<TD ALIGN="RIGHT">$                          -</TD>
+<TD ALIGN="RIGHT"></TD>
+<TD ALIGN="RIGHT">$                       -</TD></TR>
+<TR VALIGN="TOP"><TD>   Income taxes paid during the period</TD>
+<TD ALIGN="RIGHT">$                          -</TD>
+<TD ALIGN="RIGHT"></TD>
+<TD ALIGN="RIGHT">$                       -</TD></TR>
+<TR VALIGN="TOP"><TD></TD>
+<TD></TD>
+<TD></TD>
+<TD ALIGN="RIGHT"></TD></TR>
+<TR VALIGN="TOP"><TD COLSPAN="4">Supplemental Disclosure of Non-cash Investing and Financing Activities:</TD></TR>
+<TR VALIGN="TOP"><TD>See Note 5</TD>
+<TD ALIGN="RIGHT"></TD>
+<TD></TD>
+<TD ALIGN="RIGHT"></TD></TR></TABLE>
+
+<p>&nbsp;</p>
+<P ALIGN="CENTER"><U></U>See accompanying notes and accountants' report.</P>
+
+<hr color="#0000FF">
+<P ALIGN="CENTER"><U>MEMS USA, INC.<br>
+(formerly LumaLite Holdings, Inc.)<br>
+NOTES TO FINANCIAL STATEMENTS<br>
+FOR THE YEARS ENDED DECEMBER 31, 2003 AND 2002</U></P>
+
+<P><U>NOTE 1 - ORGANIZATION AND SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES</U> </P>
+
+<P>	This summary of accounting policies for MEMS USA, Inc. (formerly LumaLite Holdings,
+Inc.)( the "Company") is presented to assist in understanding the Company's financial statements.
+The accounting policies conform to generally accepted accounting principles and have been
+consistently applied in the preparation of the financial statements.</P>
+
+<P><U>Organization and Basis of Presentation</U><BR WP="BR2">
+</P>
+
+<P>	MEMS USA, Inc. (formerly LumaLite Holdings, Inc.), ("the Company") was originally
+formed to hold certain mineral properties in Idaho.  In 1995, the Company's stockholders approved
+the sale of the mining properties for a cash payment plus a variable production royalty tied to the
+price of silver.  In 2000, the purchaser filed for bankruptcy under Chapter 11 of the U.S. code and
+shut down operations.</P>
+
+<P>	In December 2001, the Company entered into a merger agreement with LumaLite, Inc.
+("LumaLite"), a California corporation that develops and manufactures dental products.  In March
+2002, the Company's stockholders approved, and in April 2002 effected, a corporate name change
+from "Consil Corp" to "LumaLite Holdings, Inc.," a 25 to 1 reverse split of the outstanding shares
+of common stock, restated the bylaws, and changed domicile from Idaho to Nevada.  </P>
+
+<P>	The following year the Company concluded an Exchange Agreement on March 14, 2003
+which divested the Company of its subsidiary LumaLite Inc.  As per the Exchange Agreement,
+17,800,000 shares of common stock previously issued in connection with the merger was canceled
+in return for all of the shares of LumaLite Inc. owned by the Company and the payment of $75,000.<BR WP="BR2">
+</P>
+
+<P>	Prior to December 2003, the Company was in the process of looking for business
+opportunities to acquire or merge with.  In seeking a business opportunity to merge with or acquire,
+management reviewed various business plans. </P>
+
+<P>	in December 2, 2003, the Company signed a letter of intent to acquire all of the equity of
+MEMS USA, Inc.,("MEMS") which is a privately-held California corporation.  Subsequent to the
+year end, the Company entered into a reorganization agreement with MEMS in which MEMS
+became a wholly-owned subsidiary of the Company and finalized a complete change of management.
+</P>
+
+<P>	Subsequent to year end, the Company's name was changed to MEMS USA, Inc. and as a
+result of all the foregoing changes, the Company's common stock is traded on the National
+Quotation Bureau (NQB)Pink Sheets under the symbol &quot;MEMS.&quot;</P>
+
+<P>	</P>
+
+<hr color="#0000FF">
+<p align="center">
+
+<BR WP="BR1"><BR WP="BR2">
+<U>MEMS USA, Inc.<br>
+(formerly LumaLite Holdings, Inc.)<br>
+NOTES TO FINANCIAL STATEMENTS<br>
+FOR THE YEARS ENDED DECEMBER 31, 2003 AND 2002<br>
+</U>(Continued)<U></U>
+<P><U>NOTE 1 - ORGANIZATION AND SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES<br>
+(Continued)</U></P>
+
+<P><U>Nature of Business</U> </P>
+
+<P>	Prior to December 2003, the Company was in the process of looking for business
+opportunities to acquire or merge with.  In seeking a business opportunity to merge with or acquire,
+management reviewed various business plans. On January 29, 2004, the Company entered into a
+Merger Agreement and Plan of Reorganization with MEMS USA, Inc., which is a privately-held
+California corporation.  </P>
+
+<P>	MEMS USA, Inc. is a California based professional scientific and technical services
+corporation.  MEMS USA, Inc. designs and builds electronic controls for industrial systems.  The
+Company specializes in the design and fabrication of customized instrumentation products to
+measure pressure, temperature and flow.</P>
+
+<P>	The Company's product line includes self-contained precise hydrocarbon blending systems,
+Industrial Filtration Systems (IFS), Ultrasonic sensors, chemical sensors, advanced strain gauge
+sensors, alcohol purification systems and piezoelectric actuators and motors.  </P>
+
+<P><U>Pervasiveness of Estimates</U></P>
+
+<P>	The financial statements are prepared in conformity with accounting principles generally
+accepted in the United States of America.  In preparing the financial statements, management is
+required to make estimates and assumptions that effect the reported amounts of assets and liabilities
+and disclosure of contingent assets and liabilities as of the date of the balance sheet and statement
+of operations for the year then ended.  Actual results may differ from these estimates.  Estimates are
+used when accounting for allowance for bad debts, collectibility of accounts receivable, amounts due
+to services providers, depreciation, and litigation contingencies, among others.  </P>
+
+<P><U>Cash Equivalents</U> </P>
+
+<P>	For the purpose of reporting cash flows, the Company considers all highly liquid debt
+instruments purchased with maturity of three months of less to be cash equivalents to the extent the
+funds are not being held for investment purposes.  </P>
+
+<P><U></U><U>Concentrations of Credit Risk</U></P>
+
+<P><U>	</U>The Company has no significant off-balance-sheet concentrations of credit risk such as
+foreign exchange contracts, options contracts or other foreign hedging arrangements.<U></U></P>
+
+<P><U>		</U></P>
+
+<BR WP="BR1">
+<hr color="#0000FF">
+<p>&nbsp;</p>
+<P ALIGN="CENTER"><U>MEMS USA, Inc.<br>
+(formerly LumaLite Holdings, Inc.)<br>
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS<br>
+FOR THE YEARS ENDED DECEMBER 31, 2003 AND 2002<br>
+</U>(Continued)</P>
+
+<BR WP="BR1"><U>NOTE 1 - ORGANIZATION AND SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES<br>
+(Continued)</U>
+<P><U>Net Income (Loss) Per Share</U></P>
+
+<P>	Basic earnings per share are computed by dividing earnings available to common
+stockholders by the weighted average number of common shares outstanding during the period. The
+effect of outstanding common stock equivalents would be anti-dilutive for 2003 and 2002 and are
+thus not considered.</P>
+
+<P><U>Reclassifications</U></P>
+
+<P>	Certain reclassifications have been made in the 2002 financial statements to conform with
+the 2003 presentation.<BR WP="BR2">
+</P>
+
+<P><U>NOTE 2 - INCOME TAXES </U><BR WP="BR2">
+</P>
+
+<P><STRONG>	</STRONG>The Company accounts for income taxes under the provisions of SFAS No. 109, "Accounting
+for Income Taxes."  SFAS No. 109 requires recognition of deferred income tax assets and liabilities
+for the expected future income tax consequences, based on enacted tax laws, of temporary
+differences between the financial reporting and tax bases of assets and liabilities.<BR WP="BR2">
+</P>
+
+<P><U></U>	As of December 31, 2003, the Company had a net operating loss carryforward for income
+tax reporting purposes of approximately $606,500 that may be offset against future taxable income
+through 2022.  Current tax laws limit the amount of loss available to be offset against future taxable
+income when a substantial change in ownership occurs.  Therefore, the amount available to offset
+future taxable income may be limited.  <U></U>Accordingly, the potential tax benefits of the loss
+carryforwards are offset by a valuation allowance of the same amount.</P>
+
+<P><U></U><U>NOTE 3 - REVERSE MERGER</U></P>
+
+<P>	In December 2001, the Company entered into an agreement with Lumalite, Inc. ("Lumalite").
+Pursuant to which a newly formed wholly owned Company subsidiary merged with and into
+Lumalite (the "Merger").  In connection with the Merger, in early January 2002, the Company
+completed a private placement of 12,500,000 shares of common stock with three accredited investors
+for an aggregate purchase price <U></U>of $500,000.  Following the reverse split, as described below, the
+three accredited investors held 500,000 shares of common stock of the Company.  The stock was
+sold in  reliance on the exemption from registration provided under ss. 4(2) of the Securities Act of
+1933, as amended.  The proceeds from the private placement were placed in escrow and were used
+primarily to pay costs and expenses associated with the Merger.</P>
+
+<P>	As contemplated by the Merger, in March 2002, the stockholders of the Company approved
+a 25 for 1 reverse split of its outstanding shares of common stock, amended and restated the </P>
+
+<hr color="#0000FF">
+<P>	&nbsp; </P>
+
+<P ALIGN="CENTER"><U>MEMS USA, Inc.<br>
+(formerly LumaLite Holdings, Inc.)<br>
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS<br>
+FOR THE YEARS ENDED DECEMBER 31, 2003 AND 2002<br>
+</U>(Continued)</P>
+
+<P><U>NOTE 3 - REVERSE MERGER (Continued)</U></P>
+
+<P>Company's articles and bylaws and moved the state of incorporation from Idaho to Nevada.  The
+Company also changed its name to LumaLite Holdings, Inc. and, through a series of transactions,
+amended and restated its articles of incorporation and its bylaws.  On April 16, 2002 the Company
+completed the Merger.</P>
+
+<P><U></U>	In the Merger, all of Lumalite's issued and outstanding shares of common stock were
+canceled and converted into a right to receive 17,800,000 post reverse split common shares of the
+Company (approximately 62.46% of the outstanding common stock of the Company following <U></U> the
+reverse split of the common shares of the Company).</P>
+
+<P>	In connection with the Merger, one of the Company's principal stockholders prior to the
+Merger, contributed 296,732 post reverse split shares of common stock of the Company,  back to the
+Company and holders of debt in the original amount of $725,000 converted the principal amount of
+the debt, plus accrued interest, into 10,118,744 post reverse split shares of common stock of the
+Company (approximately 35.5% of the outstanding common stock of the Company).</P>
+
+<P>	The following year the Company concluded an Exchange Agreement on March 14, 2003
+which divested the Company of its subsidiary LumaLite.  As per the Exchange Agreement,
+17,800,000 shares of common stock previously issued in connection with the merger was canceled
+in return for all of the shares of LumaLite owned by the Company and the payment of $75,000.</P>
+
+<P><U></U>	As a result of the above divestiture, 3,449,744 shares of common stock that were issued in
+cancellation of debt in 2002, have been returned to treasury.  This resulted in $358, 773 in debt being
+restated on the Company's balance sheet.</P>
+
+<P>	On December 2, 2003, the Company signed a letter of intent to acquire all of the equity of
+MEMS USA, Inc., ("MEMS") which is a privately-held California corporation.  Subsequent to the
+year end, the Company entered into a reorganization agreement with MEMS in which MEMS
+became a wholly-owned subsidiary of the Company and finalized a complete change of management.&nbsp;</P>
+
+<P>
+<U>NOTE 4 - DIVESTITURE OF LUMALITE, INC.</U></P>
+
+<P>	The Company and LumaLite concluded an Exchange Agreement on March 14<SUP></SUP>, 2003 which
+effectively returns LumaLite to a non-public entity.  This action was taken due to the fact that the
+Company was unable to raise the capital necessary to properly fund LumaLite and establish a liquid
+market for the Company's stock.</P>
+
+<BR WP="BR1"><U>NOTE 5 - COMMON STOCK</U><BR WP="BR2">
+<P><U>	</U>During July 2003, 11,000,000 shares of common stock of the Company were issued at par
+value for a portion of expenses and obligations paid by a third party.  The balance of those expenses</P>
+
+<hr color="#0000FF">
+<P>&nbsp;</P>
+
+<P ALIGN="CENTER"><U>MEMS USA, Inc.<br>
+(formerly LumaLite Holdings, Inc.)<br>
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS<br>
+FOR THE YEARS ENDED DECEMBER 31, 2003 AND 2002<br>
+</U>(Continued)<U></U></P>
+
+<BR WP="BR1"><BR WP="BR2">
+<U>NOTE 5 - COMMON STOCK(Continued)</U><BR WP="BR2">
+<P>have been settled in exchange for convertible notes, due on demand with an annual interest rate of
+10%.  </P>
+
+<P>	Also, 1,000,000 shares of common stock of the Company were issued for services provided
+by the President, which services were valued at $2,000.<U></U></P>
+
+<P>	On November 19, 2003, through a majority consent of its shareholders, the Company
+completed a restructuring of its capital through a reverse split of 1:200 of its common stock with no
+certificate greater than 100 shares being reversed below 100 share, and no certificate less than 100
+shares being subject to the reverse.</P>
+
+<P>	During December 2003, 10,000,000 shares of common stock were issued to a shareholder
+for assumption of $10,000 in debt.  Subsequent to December 31, 2003 these shares were canceled.
+</P>
+
+<P>	Also in December 2003, 3,230,000 shares of common stock were issued to shareholders for
+assumption of $358,530 in debt.  <U></U></P>
+
+<BR WP="BR1"><U>NOTE 6 - GOING CONCERN</U>
+<P>	The accompanying financial statements have been prepared in conformity with accounting
+principles generally accepted in the United States, which contemplates the Company as a going
+concern. However, the Company has sustained substantial operating losses in recent years and has
+used substantial amounts of working capital in its operations.  Realization of a major portion of the </P>
+
+<P><U></U>assets reflected on the  accompanying balance sheet is dependent upon continued operations of the
+Company which, in turn, is  dependent upon the Company's ability to meet its financing requirements
+and succeed in its future  operations.  Management believes that actions presently being taken to
+revise the Company's operating and financial requirements provide them with the opportunity for
+the Company to continue as a going concern. </P>
+
+<P><U>NOTE 7 - SUBSEQUENT EVENTS</U><BR WP="BR2">
+</P>
+
+<P>	On January 29, 2004, the Company entered into a Merger Agreement and Plan of
+Reorganization with MEMS USA, Inc. ("MEMS"), which is a privately-held California corporation.
+The Company acquired 100 percent of the common stock of MEMS,  in exchange for 10,000,000
+newly issued shares of the Company's common stock.  This transaction closed on February 18, 2004.</P>
+
+<P>	As a result of this transaction, all of the prior officers and directors of the Company resigned
+and have been replaced by Mr. Lawrence, as Chief Executive Officer, Chairman of the Board,
+<U></U>President and Chief Financial Officer, and by Mr. Daniel Moscaritolo as the Chief Operating Officer
+and Chief Technology Officer.  Mr. Charles L. Christensen was appointed President of the Applied
+Technologies division.  The new Board of directors consists of Mr. Lawrence Weisdorn, Dr. James</P>
+
+<BR WP="BR1"><BR WP="BR2">
+<hr color="#0000FF">
+<p>
+<BR WP="BR1"><BR WP="BR2">
+</p>
+<P ALIGN="CENTER"> <U>MEMS USA, Inc.<br>
+(formerly LumaLite Holdings, Inc.)<br>
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS<br>
+FOR THE YEARS ENDED DECEMBER 31, 2003 AND 2002</U><CENTER><br>
+(Continued) </CENTER>
+</P>
+
+<BR WP="BR1"><U>NOTE 7 - SUBSEQUENT EVENTS</U>
+
+<P>Latty, Mr. James Moscaritolo and Mr. Charles L. Christensen.    </P>
+
+<P>	NEMS is a California based professional scientific and technical services corporation.
+MEMS designs and builds electronic controls for industrial systems.  The Company specializes in
+the design and fabrication of customized instrumentation products to measure pressure, temperature
+and flow.<BR WP="BR2">
+</P>
+
+<P>	The Company's product line includes self-contained precise hydrocarbon blending systems,
+Industrial Filtration Systems (IFS), Ultrasonic sensors, chemical sensors, advanced strain gauge
+sensors, alcohol purification systems and piezoelectric actuators and motors.  </P>
+
+<hr color="#0000FF">
+&nbsp;
+<P ALIGN="CENTER"><STRONG>ITEM  8. CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS<br>
+ON ACCOUNTING AND FINANCIAL DISCLOSURE</STRONG></P>
+
+<P>	There are not and have not been any disagreements between the Company and its accountants
+on any matter of accounting principles, practices or financial statements disclosure.</P>
+
+<P ALIGN="CENTER"><STRONG>ITEM 8A.  CONTROLS AND PROCEDURES</STRONG></P>
+
+<P>	(a) Evaluation of disclosure controls and procedures.  The Company's principal executive
+officer and its principal financial officer, based on their evaluation of the Company's disclosure
+controls over financial reporting and procedures (as defined in Exchange Act Rules 13a-14 (c) as of
+December 31, 2003, have concluded that the Company's disclosure controls over financial reporting
+and procedures are adequate and effective for the purposes set forth in the definition in Exchange
+Act rules.</P>
+
+<P>	(b) Changes in internal controls over financial reporting.  There were no significant changes
+in the Company's internal controls over financial reporting  or in other factors that could
+significantly affect the Company's internal controls subsequent to the date of their evaluation.<BR WP="BR2">
+</P>
+
+<P ALIGN="CENTER"><STRONG>PART III</STRONG></P>
+
+<P ALIGN="CENTER"><STRONG>ITEM 9. DIRECTORS EXECUTIVE OFFICERS, PROMOTERS AND<br>
+CONTROL PERSONS; COMPLIANCE WITH SECTION 16(a) OF<br>
+THE EXCHANGE ACT</STRONG></P>
+
+<P><STRONG><U>                                                                                                                                                         </STRONG></U></P>
+
+<P><STRONG>Executive Officers and Directors</STRONG><BR WP="BR2">
+</P>
+
+<P>All directors of the Company hold office until the next annual  meeting of the  shareholders or until
+their  successors have been elected and qualified. The officers of the Company are  appointed  by the
+board of  directors  and hold office until their death,  resignation or removal from office. As at the
+date of this annual report, the officers and directors,  their ages,  positions held and duration of
+positions  held are as follows.  There are no family  relationships between or among any of the
+directors:</P>
+
+<TABLE BORDER="0" WIDTH="100%">
+<TR VALIGN="TOP"><TD></TD>
+<TD ALIGN="CENTER"></TD>
+<TD ALIGN="CENTER"></TD>
+<TD ALIGN="CENTER"><STRONG>Date Position</STRONG></TD></TR>
+<TR VALIGN="TOP"><TD><STRONG>Director's   Name</STRONG></TD>
+<TD ALIGN="CENTER"><STRONG>Age</STRONG></TD>
+<TD ALIGN="CENTER"><STRONG>Office</STRONG></TD>
+<TD ALIGN="CENTER"><STRONG>First Held </STRONG></TD></TR>
+<TR VALIGN="TOP"><TD>Scott Hosking (1)</TD>
+<TD ALIGN="CENTER">53</TD>
+<TD ALIGN="CENTER">President and Director</TD>
+<TD ALIGN="CENTER">next annual meeting</TD></TR></TABLE>
+
+<P>(1) Subsequent to year end, Mr. Hosking appointed Lawrence Wisedorn as Director and President.</P>
+
+<P>SCOTT R. HOSKING: Mr. Hosking attended the University of Utah from 1979 to 1981.  He left
+college for a career in his family's aviation business.  After three years with the family company, Mr.
+Hosking made the decision to leave and pursue aviation consulting opportunities.  From 1985 to
+1994, Mr. Hosking operated a private business in Mexico.  In 1994, Mr. Hosking returned to the
+United States.  Upon returning to the United States, he worked as a management and marketing
+consultant to United States and Mexico companies.  In 1998, Mr. Hosking developed the business
+model of iBonZai and incorporated iBonZai.com, Inc. in 1999.   </P>
+
+<P><STRONG>Audit Committee Financial Expert</STRONG></P>
+
+<P>	The Company's board of directors does not have an "audit committee financial expert,"
+within the meaning of such phrase under applicable regulations of the Securities and Exchange
+Commission, serving on its audit committee.  The board of directors believes that all members of
+its audit committee are financially literate and experienced in business matters, and that one or more
+members of the audit committee are capable of (i) understanding generally accepted accounting
+principles ("GAAP") and financial statements, (ii) assessing the general application of GAAP
+principles in connection with our accounting for estimates, accruals and reserves, (iii) analyzing and
+evaluating our financial statements, (iv) understanding our internal controls and procedures for
+financial reporting; and (v) understanding audit committee functions, all of which are attributes of
+an audit committee financial expert.  However, the board of directors believes that there is not any
+audit committee members who has obtained these attributes through the experience specified in the
+SEC's definition of "audit committee financial expert."  Further, like many small companies, it is
+difficult for the Company to attract and retain board members who qualify as "audit committee
+financial experts, " and competition for these individuals is significant.  The board believes that its
+current audit committee is able to fulfill its role under SEC regulations despite not having a
+designated "audit committee financial expert."</P>
+
+<hr color="#0000FF">
+
+<BR WP="BR1"><BR WP="BR2">
+<P ALIGN="CENTER"><STRONG>ITEM 10. EXECUTIVE COMPENSATION</STRONG></P>
+
+<P>	None of the executive officer's annual salary and bonus exceeded $60,000 during any of the
+Company's last two fiscal years.</P>
+
+<P>	There are currently no agreements with members of management as to employment or
+compensation.</P>
+
+<P>	There is currently no compensation paid to non-employment directors.</P>
+
+<hr color="#0000FF">
+<BR WP="BR2">
+<P ALIGN="CENTER"><STRONG>ITEM 11. SECURITY OWNERSHIP OF BENEFICIAL OWNERS<br>
+AND MANAGEMENT</STRONG></P>
+
+<P><STRONG><U>                                                                                                                                                         </STRONG></U></P>
+
+<P><STRONG>Principal Shareholders</STRONG></P>
+
+<P>	The table below sets forth information as to each person owning of record or who was known
+by the Company to own beneficially more than 5% of the 13,342,036 shares of issued and
+outstanding Common Stock of the Company as of December 31, 2003 and information as to the
+ownership of the Company's Stock by each of its directors and executive officers and by the directors
+and executive officers as a group.  Except as otherwise indicated, all shares are owned directly, and
+the persons named in the table have sole voting and investment power with respect to shares shown
+as beneficially owned by them.</P>
+
+<TABLE BORDER="0" WIDTH="100%">
+<TR VALIGN="TOP"><TD><STRONG>Name and Address </STRONG></TD>
+<TD></TD>
+<TD ALIGN="CENTER"></TD>
+<TD ALIGN="CENTER"></TD>
+<TD></TD></TR>
+<TR VALIGN="TOP"><TD><STRONG></STRONG><STRONG></STRONG><STRONG>of Beneficial Owners /    </STRONG></TD>
+<TD><STRONG>Nature of</STRONG></TD>
+<TD ALIGN="CENTER"><STRONG>Shares</STRONG></TD>
+<TD ALIGN="CENTER"></TD>
+<TD></TD></TR>
+<TR VALIGN="TOP"><TD><STRONG>Directors</STRONG></TD>
+<TD><STRONG>Ownership</STRONG></TD>
+<TD ALIGN="CENTER"><STRONG>Owned</STRONG></TD>
+<TD ALIGN="CENTER"><STRONG>Percent </STRONG></TD>
+<TD></TD></TR>
+<TR VALIGN="TOP"><TD></TD>
+<TD></TD>
+<TD ALIGN="CENTER"></TD>
+<TD ALIGN="CENTER"></TD>
+<TD></TD></TR>
+<TR VALIGN="TOP"><TD>BSI, Inc.</TD>
+<TD>Common Stock</TD>
+<TD ALIGN="CENTER">
+<P ALIGN="RIGHT">10,055,000</TD>
+<TD ALIGN="CENTER">75%</TD>
+<TD></TD></TR>
+<TR VALIGN="TOP"><TD>4766 South Holladay Blvd.</TD>
+<TD></TD>
+<TD ALIGN="CENTER"></TD>
+<TD ALIGN="CENTER"></TD>
+<TD></TD></TR>
+<TR VALIGN="TOP"><TD>Holladay, Utah 84117</TD>
+<TD></TD>
+<TD ALIGN="RIGHT"></TD>
+<TD ALIGN="CENTER"></TD>
+<TD></TD></TR>
+<TR VALIGN="TOP"><TD></TD>
+<TD></TD>
+<TD ALIGN="RIGHT"></TD>
+<TD ALIGN="CENTER"></TD>
+<TD></TD></TR>
+<TR VALIGN="TOP"><TD>Scott Hosking</TD>
+<TD>Common Stock</TD>
+<TD ALIGN="RIGHT">5,000</TD>
+<TD ALIGN="CENTER">0%</TD>
+<TD></TD></TR>
+<TR VALIGN="TOP"><TD>378 North Main, #124</TD>
+<TD></TD>
+<TD ALIGN="RIGHT"></TD>
+<TD ALIGN="CENTER"></TD>
+<TD></TD></TR>
+<TR VALIGN="TOP"><TD>Layton, Utah 84061</TD>
+<TD></TD>
+<TD ALIGN="RIGHT"></TD>
+<TD ALIGN="CENTER"></TD>
+<TD></TD></TR>
+<TR VALIGN="TOP"><TD></TD>
+<TD></TD>
+<TD ALIGN="RIGHT"></TD>
+<TD ALIGN="CENTER"></TD>
+<TD></TD></TR>
+<TR VALIGN="TOP"><TD>Officers and Directors</TD>
+<TD>Common Stock</TD>
+<TD ALIGN="RIGHT">5,000</TD>
+<TD ALIGN="CENTER">0%</TD>
+<TD></TD></TR>
+<TR VALIGN="TOP"><TD>As a Group (one)</TD>
+<TD></TD>
+<TD ALIGN="RIGHT"></TD>
+<TD ALIGN="CENTER"></TD>
+<TD></TD></TR></TABLE>
+&nbsp;
+
+<P ALIGN="CENTER"><strong>ITEM 12. CERTAIN RELATIONSHIPS AND RELATED TRANSACTION</strong><STRONG><U>                                                                                                                                                         </U></STRONG></P>
+
+<P>	The Company and LumaLite concluded an Exchange Agreement on March 2003 which
+divested the Company of LumaLite ownership.  This action was taken due to the fact that the
+Company was unable to raise the capital necessary to properly fund LumaLite and establish a liquid
+market for the Company's stock.  As a result, LumaLite incurred substantial debt that in turn had an
+adverse effect on the market for the Company's stock.  Pursuant to the Exchange Agreement,
+17,800,000 shares of common stock previously issued in connection with the merger was canceled
+in return for all of the shares of LumaLite owned by the Company and the payment of $75,000. </P>
+
+<P>	In the opinion of the disinterested members of the Company's board of directors, the above
+transactions were fair and were made upon terms that were no less favorable to the Company than
+would have been obtained if negotiated with unaffiliated third parties.</P>
+
+<hr color="#0000FF">
+&nbsp;
+<P ALIGN="CENTER"><STRONG>ITEM 13. EXHIBITS, AND REPORTS ON FORM 8-K</STRONG></P>
+
+<P>(a) Exhibits</P>
+
+<P>	The following exhibits are included as part of this report: </P>
+
+<P>Exhibit     </P>
+
+<P>Number	Title of Document                  </P>
+
+<P>31	Certification of Principal Executive Officer and Principal Financial Officer Pursuant to 18
+U.S.C Section 1350 as Adopted Pursuant to Section 302 of the Sarbanes-Oxley Act of 2002.<BR WP="BR2">
+</P>
+
+<P>32	Certification of Principal Executive Officer and Principal Financial Officer Pursuant to 18
+U.S.C Section 1350 as Adopted Pursuant to Section 906 of the Sarbanes-Oxley Act of 2002.<BR WP="BR2">
+	</P>
+
+<P>(b) Reports on Form 8-K filed.<BR WP="BR2">
+</P>
+
+<P>	1. Item 1, Change in Control of Registrant, Item 5 Other Events, Item 7 Financial Statements,
+was filed December 4, 2003.</P>
+
+<P>	2. Subsequent to year end, an 8-K was filed January 29, 2004 for a Item 1 Change in Control
+of Registrant.<FONT FACE="Arial"></FONT></P>
+
+<P><STRONG><U>                                                                                                                                                        </U></STRONG></P>
+
+<BR WP="BR1">
+<hr color="#0000FF">
+<p><BR WP="BR2">
+</p>
+<P ALIGN="CENTER"><STRONG>ITEM 14. PRINCIPAL ACCOUNTANT FEES AND SERVICES</STRONG></P>
+
+<P><FONT SIZE="-1"><FONT FACE="Arial"></FONT><FONT FACE="Arial"></FONT>	The following is a summary of the fees billed to the Company by Robison, Hill &amp; Company
+for professional services rendered for the years ended December 31, 2003 and 2002:</P>
+
+<P><FONT SIZE="-1">											</FONT></P>
+
+<TABLE BORDER="0" WIDTH="100%">
+<TR VALIGN="TOP"><TD></TD>
+<TD ALIGN="CENTER">Service</TD>
+<TD ALIGN="CENTER"></TD>
+<TD ALIGN="CENTER">2003</TD>
+<TD ALIGN="CENTER"></TD>
+<TD ALIGN="CENTER">2002</TD>
+<TD ALIGN="CENTER"></TD></TR>
+<TR VALIGN="TOP"><TD></TD>
+<TD>Audit Fees</TD>
+<TD></TD>
+<TD ALIGN="RIGHT">$	7,000</TD>
+<TD ALIGN="CENTER"></TD>
+<TD ALIGN="RIGHT">$	4,500</TD>
+<TD ALIGN="CENTER"></TD></TR>
+<TR VALIGN="TOP"><TD></TD>
+<TD>Audit-Related Fees</TD>
+<TD></TD>
+<TD ALIGN="RIGHT">-</TD>
+<TD ALIGN="RIGHT"></TD>
+<TD ALIGN="RIGHT">-</TD>
+<TD ALIGN="CENTER"></TD></TR>
+<TR VALIGN="TOP"><TD></TD>
+<TD>Tax Fees</TD>
+<TD></TD>
+<TD ALIGN="RIGHT">410</TD>
+<TD ALIGN="RIGHT"></TD>
+<TD ALIGN="RIGHT">500</TD>
+<TD ALIGN="CENTER"></TD></TR>
+<TR VALIGN="TOP"><TD></TD>
+<TD>All Other Fees</TD>
+<TD></TD>
+<TD ALIGN="RIGHT">-</TD>
+<TD ALIGN="RIGHT"></TD>
+<TD ALIGN="RIGHT">-</TD>
+<TD ALIGN="CENTER"></TD></TR>
+<TR VALIGN="TOP"><TD></TD>
+<TD>Total</TD>
+<TD></TD>
+<TD ALIGN="RIGHT">$	7,410</TD>
+<TD ALIGN="CENTER"></TD>
+<TD ALIGN="RIGHT">$	5,000</TD>
+<TD ALIGN="CENTER"></TD></TR>
+<TR VALIGN="TOP"><TD></TD>
+<TD></TD>
+<TD></TD>
+<TD ALIGN="CENTER"></TD>
+<TD ALIGN="CENTER"></TD>
+<TD ALIGN="CENTER"></TD>
+<TD ALIGN="CENTER"></TD></TR></TABLE>
+
+<BR WP="BR1">
+<P><STRONG>Audit Fees </STRONG></P>
+
+<P>	Consists of fees billed for professional services rendered for the audits of the Company's
+financial statements, reviews of it's interim financial statements included in quarterly reports,
+services performed in connection with filings with the Securities &amp; Exchange Commission and
+related comfort letters and other services that are normally provided by Robison, Hill &amp; Company
+in connection with statutory and regulatory filings or engagements.</P>
+
+<BR WP="BR1"><BR WP="BR2">
+<STRONG>Tax Fees</STRONG>
+<P>	Consists of fees billed for professional services for tax compliance, tax advice and tax
+planning.  These services include assistance regarding federal, state and local tax compliance and
+consultation in connection with various transactions and acquisitions.  </P>
+
+<P><U>Audit Committee Pre-Approval of Audit and Permissible Non-Audit Services of Independent
+Auditors</U></P>
+
+<BR WP="BR1">The Audit Committee, is to pre-approve all audit and non-audit services provided ny the
+independent auditors.  These services may include audit services, audit related services, tax services
+and other services as allowed by law or regulation.  Pre-approval is generally provided for up to one
+year and any pre-approval is detailed as to the particular service or category of services and is
+generally subject to a specifically approved amount.  The independent auditors and management are
+required to periodically report to the Audit Committee regarding the extent of services provided by
+the independent auditors in accordance with this pre-approval and the fees incurred to date.  The
+Audit Committee may also pre-approve particular services on a case-by-case basis.
+<hr color="#0000FF">
+<BR WP="BR1">
+
+<P ALIGN="CENTER"><STRONG>SIGNATURES</STRONG></P>
+
+&nbsp;
+<P>	Pursuant to the requirements of section 13 or 15(d) of the Securities Exchange Act of 1934,
+as amended, the Registrant has duly caused this report to be signed on it behalf by the undersigned,
+thereunto duly authorized.</P>
+
+<P ALIGN="CENTER"><STRONG>                   MEMS USA, INC.</STRONG>
+
+<BR WP="BR1"><BR WP="BR2">
+</P>
+
+<P>Dated: March 23, 2004<U><br>
+By  /S/     Scott Hosking<br>
+</U>Scott Hosking<br>
+President		</P>
+
+<BR WP="BR1">	Pursuant to the requirements of the Securities Exchange Act of 1934, as amended, this report
+has been signed below by the following persons on behalf of the Registrant and in the capacities
+indicated on this 23rd day of March 2004.
+<p>
+
+<BR WP="BR1">Signatures &amp; Title
+
+<BR WP="BR1"><BR WP="BR2">
+<BR WP="BR1"><BR WP="BR2">
+<P><U>/S/     Scott Hosking<br>
+</U>Scott Hosking<br>
+President, Director<br>
+(Principal Executive Officer)</P>
+
+<BR WP="BR1"><BR WP="BR2">
+<BR WP="BR1">
+<hr color="#0000FF">
+<P><STRONG>Exhibit 31</STRONG></P>
+
+<P ALIGN="CENTER"><STRONG>Section 302 Certifications</STRONG></P>
+
+<BR WP="BR2">
+I, Scott Hosking, certify that:
+<P>	1.	I have reviewed this annual report on form 10-KSB of<U></U> MEMS USA, Inc.</P>
+
+<P>	2.	Based on my knowledge, this report does not contain any untrue statement of a material
+fact or omit to state a material fact necessary to make the statements made, in light of the circumstances
+under which such statements were made, not misleading with respect to the period covered by this
+report.  </P>
+
+<P>	3.	Based on my knowledge, the financial statements, and other financial information
+included in this report, fairly present in all material respects the financial condition, results of operations
+and cash flows of the small business issuer as of, and for, the periods presented in this report.  </P>
+
+<P>	4.	The small business issuer's other certifying officers and I are responsible for establishing
+and maintaining disclosure controls and procedures (as defined in exchange act rules 13a-15(e) and
+15d-15(e) for the small business issuer and have:</P>
+
+<BR WP="BR1">	a)	designed such disclosure controls and procedures, or caused such disclosure controls and
+procedures to be designed under our supervision, to ensure that material information relating
+to the small business issuer, including its consolidated subsidiaries, is made known to us by
+others within those entities, particularly during the period in which this report is being prepared;<BR WP="BR2">
+<P>	b)	evaluated the effectiveness of the small business issuer's disclosure controls and
+procedures and presented in this report our conclusions about the effectiveness of the disclosure
+controls and procedures, as of the end of the period covered by this report on such evaluation;
+and</P>
+
+<P>	c)	disclosed in this report any change in the small business issuer's internal control over
+financial reporting that occurred during the small business issuer's most recent fiscal quarter
+(the small business issuer's fourth fiscal quarter in the case of an annual report) that has
+materially affected, or is reasonably likely to materially affect, the small business issuer's
+internal control over financial reporting; and<BR WP="BR2">
+ </P>
+
+<P>	5.	The small business issuer's other certifying officers and I have disclosed, based on our
+most recent evaluation of internal control over financial reporting, to the small business issuer's
+auditors and the audit committee of small business issuer's board of directors (or persons performing
+the equivalent functions):</P>
+
+<P>	a)	all significant deficiencies and material weaknesses in the design or operation of internal
+control over financial reporting which are reasonably likely to adversely affect the small
+business issuer's ability to record, process, summarize and report financial information; and</P>
+
+<P>	b)	any fraud, whether or not material, that involves management or other employees who
+have a significant role in the small business issuer's internal control over financial reporting.
+
+<BR WP="BR1"><BR WP="BR2">
+</P>
+
+<P>Date: <U>March 23, 2004</U><BR WP="BR2">
+</P>
+
+<P><U>/S/ Scott Hosking<br>
+</U>Scott Hosking<br>
+President, Director<br>
+(Principal Executive Officer)	<FONT FACE="Arial"></FONT></P>
+
+<BR WP="BR1"><BR WP="BR2">
+<BR WP="BR1">
+<hr color="#0000FF">
+</FONT>
+<P><FONT FACE="Arial"><STRONG>Exhibit 32.1</STRONG></P>
+
+<BR WP="BR1"><BR WP="BR2">
+<P ALIGN="CENTER"><STRONG>CERTIFICATION PURSUANT TO<br>
+18 U.S.C. SECTION 1350,<br>
+AS ADOPTED PURSUANT TO<br>
+SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002</STRONG></P>
+
+<BR WP="BR1">	In connection with the Annual Report of MEMS USA, Inc. on Form 10-KSB for the period
+ending December 31, 2003, as filed with the Securities and Exchange Commission on the date hereof
+(the "Report"), I, Scott Hosking, President of the Company, certify, pursuant to 18 U.S.C. Section 1350,
+as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, that, to the best of my
+knowledge and belief:<BR WP="BR2">
+<P>	(1)	the Report fully complies with the requirements of Section 13(a) or 15(d) of the
+Securities Exchange Act of 1934; and </P>
+
+<P>	(2)	the information contained in the Report fairly presents, in all material respects, the
+financial condition and result of operations of the Company.</P>
+
+<P><U></U>March 23, 2004<FONT FACE="Arial"></FONT><U>						/S/ Scott Hosking<br>
+</U>Scott Hosking<br>
+(President, Director</font> <FONT FACE="Arial">(Principal Executive Officer)	<FONT FACE="Arial"></FONT></P>
+
+<BR WP="BR1">A signed original of this written statement required by Section 906, or other document authenticating,
+acknowledging, or otherwise adopting the signature that appears in typed form within the electronic
+version of this written statement has been provided to the Company and will be retained by the
+Company and furnished to the Securities and Exchange Commission or its staff upon request.
+<hr color="#0000FF" size="6">
+<p>&nbsp;</p>
+
+</BODY>
+</HTML>
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

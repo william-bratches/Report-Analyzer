@@ -1,0 +1,1537 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ NTf6izoFoU86VE3/sF+NBLad6DhgVs+ifqYKYUP4Zjabnc9oavGzEM8LjOGPScuJ
+ vjRnYcB2nJ8WxqsZpYuvJA==
+
+<SEC-DOCUMENT>0000033992-96-000001.txt : 19960403
+<SEC-HEADER>0000033992-96-000001.hdr.sgml : 19960403
+ACCESSION NUMBER:		0000033992-96-000001
+CONFORMED SUBMISSION TYPE:	10KSB
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	19951231
+FILED AS OF DATE:		19960401
+SROS:			NASD
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			EXTECH CORP
+		CENTRAL INDEX KEY:			0000033992
+		STANDARD INDUSTRIAL CLASSIFICATION:	HOTELS & MOTELS [7011]
+		IRS NUMBER:				362476480
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10KSB
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-01665
+		FILM NUMBER:		96543505
+
+	BUSINESS ADDRESS:	
+		STREET 1:		90 MERRICK AVE
+		STREET 2:		9TH FLOOR
+		CITY:			EAST MEADOW
+		STATE:			NY
+		ZIP:			11554
+		BUSINESS PHONE:		5167946300
+
+	MAIL ADDRESS:	
+		STREET 2:		90 MERRICK AVE 9TH FLOOR
+		CITY:			EAST MEADOW
+		STATE:			NY
+		ZIP:			11554
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	EXECUTIVE HOUSE INC
+		DATE OF NAME CHANGE:	19911119
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>10KSB
+<SEQUENCE>1
+<TEXT>
+
+                  SECURITIES AND EXCHANGE COMMISSION
+                        WASHINGTON, D.C. 20549
+
+FORM 10-KSB(Mark One)
+
+(x)  ANNUAL REPORT UNDER SECTION 13 OR 15(d) OF THE SECURITIES
+EXCHANGE ACT OF 1934
+For the fiscal year ended       December 31, 1995     
+
+( )  TRANSITION REPORT UNDER SECTION 13 OR 15(d) OF THE
+     SECURITIES EXCHANGE ACT OF 1934
+
+For the transition period from         to                    
+
+Commission file number          0-1665                       
+
+
+             EXTECH CORPORATION                             
+Name of small business issuer in its charter)
+Delaware                                36-2476480           
+
+ (State or other jurisdiction of         (I.R.S Employer
+  incorporation or organization)       Identification No.)
+
+90 Merrick Avenue, East Meadow, New York   11554              
+ (Address of principal executive offices) (Zip Code)
+
+Issuer's telephone number    (516) 794-6300                   
+
+Securities registered under Section 12(b) of the Exchange Act:
+
+Title of each class  Name of each exchange on which registered
+
+                        none
+
+Securities registered under Section 12(g) of the Exchange Act:
+
+       Common Stock, $.01 par value
+(Title of class)
+
+
+Check whether the issuer (1) filed all reports required to be
+filed by Section 13 or 15(d) of the Exchange Act during the past
+12 months (or for such shorter period that the registrant was
+required to file such reports), and (2) has been subject to
+such filing requirements for the past 90 days. Yes X     No.
+
+
+Check if disclosure of delinquent filers in response to Item 405
+of Regulation S-B is not contained in this form, and no disclosure
+will be contained, to the best of registrant's knowledge,
+in definitive proxy or information statements incorporated by
+reference in Part III of this Form 10-KSB or any amendment to
+this Form 10-KSB.(X)
+State issuer's revenues for its most recent
+fiscal year:  $1,024,057
+
+
+State the aggregate market value of the voting stock held by
+non-affiliates computed by reference to the price at which the
+stock was sold, or the average bid and asked prices of such stock,
+as of a specified date within the past 60 days:
+$729,030 as of March 27, 1996
+
+
+(ISSUERS INVOLVED IN BANKRUPTCY
+PROCEEDINGS DURING THE PAST FIVE YEARS)
+
+Check whether the issuer has filed all documents and reports
+to be filed by Section 12, 13 or 15(d) of the Exchange Act
+after the distribution of securities under a plan confirmed
+by a court.  Yes     No    .
+
+
+(APPLICABLE ONLY TO CORPORATE REGISTRANTS)
+
+State the number of shares outstanding of each of the
+issuer's classes of common equity, as of the latest practicable
+date: 2,391,367 shares outstanding as of March 22, 1996
+
+
+DOCUMENTS INCORPORATED BY REFERENCE
+None
+<PAGE>
+PART I
+
+ITEM 1.   DESCRIPTION OF BUSINESS
+
+(a)  Business Development
+
+     (i) International Airport Hotel
+
+     EXTECH Corporation (the "Company" or "EXTECH"), through
+a wholly-owned subsidiary, IAH, Inc. ("IAH"), operates the
+International Airport Hotel in San Juan, Puerto Rico (the "Hotel").
+The Hotel is located on the site of the San Juan International Airport
+(the "Airport") and occupies the third and fifth floors of the main
+terminal building.  In addition to its 57 guest rooms, the Hotel has
+a lobby area.  The Hotel caters generally to commercial and tourist
+travelers in transit.  IAH also operates a video game room on the
+terminal level of the Airport.  Reference is also made to Item 6
+hereof for additional information regarding the Hotel.
+
+     The Hotel is marketed through brochures, local advertising
+and in-airport advertising.  Its operations are highly
+seasonal, with the disproportionate share of its revenues being
+generated during the first several months of the calendar year.
+Approximately 15% of the total room sales for the Hotel for 1995 were
+attributable to one customer. 
+ 
+     The Hotel is the only hotel actually located on the site of the
+Airport.  As such, it has little direct competition for the tourist
+trade or commercial travelers seeking only sleeping accommodations
+at the Airport.  The Puerto Rico Ports Authority (the "Ports
+Authority"),the owner of the Hotel, had authorized the construction of
+an additional hotel in the parking lot of the Airport; however, the
+Ports Authority has advised IAH that it has abandoned its plan to
+construct such hotel and instead has determined to upgrade and expand
+the Hotel.  No assurance can be given, however, that an additional hotel
+or hotels will not be developed at the site of, or near, the Airport,
+in which case IAH could encounter significant competition with respect
+to the operations of the Hotel.
+
+     On July 22, 1988, IAH entered into a Lease Agreement with the
+Ports Authority pursuant to which the Ports Authority granted IAH
+a lease to operate the Hotel for five years until June 30, 1993, plus,
+at the option of IAH, an additional five year term to end June 30, 1998
+(subject to agreement as to the rental amount payable, which the parties
+agreed to negotiate in good faith).
+
+     In 1992, in accordance with the Lease Agreement, IAH exercised
+its right for a five year extension of its lease.  At the time, the
+Ports Authority was uncertain as to whether it wished to build a
+new hotel in the parking lot of the Airport or upgrade the existing
+hotel (located in the Airport terminal) and, therefore, requested that
+IAH accept an 18 month extension of the then existing term.  IAH agreed
+to an 18 month extension and signed a supplemental lease agreement with
+the Ports Authority in May 1992 extending the lease term to December 31,
+1995.
+
+IAH is of the belief that, pursuant to the supplemental lease agreement,
+it retained the option to continue the lease for a period of five years
+to December 31, 2000.
+
+     In July 1993, the Assistant Director of Operations of the
+Ports Authority forwarded to IAH a letter containing the terms of a
+proposed ten year lease extension which IAH approved, signed and
+returned to the Ports Authority.  Although the letter setting forth the
+terms of the extension agreement with IAH does not make the Ports
+Authority's approval conditional upon the approval of its Board of
+Directors, the Ports Authority has taken such position and, since Board
+of Directors approval was not obtained, the Ports Authority takes the
+position that the extension is not in effect.  IAH is of the belief that
+a ten year agreement has been entered into between IAH and the Ports
+Authority pursuant to the foregoing or that, alternatively, it exercised
+its right to extend the term of the lease to December 31, 2000.
+
+     Based upon IAH's refusal to acknowledge that, effective January
+1, 1996, it occupied the Hotel on a month-to-month basis, in February
+1996, the Ports Authority requested that IAH vacate, surrender and
+deliver the premises by February 29, 1996.  Following the receipt of
+such request, IAH brought an action in the Superior Court of San Juan,
+Puerto Rico for declaratory judgment and possessory injunction against
+the Ports Authority with respect to the Hotel.  The action seeks a
+declaratory judgment that, among other alternatives, IAH exercised
+adoption with respect to its lease for the Hotel for an extension of the
+term of five years commencing on January 1, 1996 or that the
+Ports Authority executed a new lease agreement for a ten year period
+commencing on such date.
+
+     (ii) Pipe Harness Clamp
+
+     The Company holds a patent for a specialized clamping device
+(the "Pipe Harness Clamp") designed to connect principally underground
+pipe lines of similar and dissimilar materials.  In July 1991,
+the Company and an unrelated third party (the "Licensee") entered
+into a License and Royalty Agreement (the "License Agreement") pursuant
+to which the Licensee was granted the exclusive right to manufacture,
+use, market and sell (either directly or on the Licensee's behalf) the
+Pipe Harness Clamp.
+
+     The License Agreement provides that, among other matters, the
+Licensee will pay royalty payments for the license of the Pipe Harness
+Clamp in an amount equal to 5% of Net Sales (as defined in the License
+Agreement) of the Pipe Harness Clamp until such time as the aggregate
+amount of the royalty payments total $1,000,000 and thereafter an amount
+equal to 2.5% of Net Sales of the Pipe Harness Clamp (the "Net Sales
+Royalty").  The License Agreement also provides that the Licensee will
+pay a percentage of royalty payments that are payable to the license
+pursuant to a certain License and Technical Assistance Agreement(the
+"Technical Assistance Agreement").  The Company is to receive,
+for each twelve month period that the Technical Assistance Agreement
+is in effect, 23.68% of all amounts in excess of $100,000 received by
+the Licensee in accordance with the terms of the Technical Assistance
+Agreement (the "Technical Assistance Royalty"), the aggregate of which
+payments to the Company shall not exceed $1,480,000.  As of December
+31, 1995, the Company had received approximately $70,000 in
+Technical Assistance Royalty payments pursuant to the License
+Agreement (of which approximately $19,000 was received during 1995)
+but had received no Net Sales Royalty payments.  No assurances can be
+given regarding the commercial marketability of the Pipe Harness Clamp. 
+
+
+
+
+
+
+(iii)     Robeson Industries Corp.
+
+     In February 1993, EXTECH entered into a Subscription and Stock
+Purchase Agreement (the "Subscription Agreement") with Robeson
+Industries Corp. ("Robeson") pursuant to which the Company agreed
+to purchase from Robeson, subject to the conditions set forth
+therein, (i) approximately 15% of the issued and outstanding shares
+of capital stock of Robeson and (ii) all of the outstanding shares of
+capital stock of Robeson's wholly-owned Hong Kong subsidiary, Robeson
+Industries Hong Kong Ltd. ("Hong Kong") (the "Hong Kong Shares").
+
+
+     In May 1993, the Company advised Robeson that it was terminating
+the Subscription Agreement due to the nonfulfillment of certain of the
+conditions to the obligation of EXTECH to consummate the transactions
+contemplated thereby.  The Company also made demand upon Robeson for
+repayment of the principal amount of $320,000 loaned by the Company
+during 1992 and 1993, together with interest thereon, as well as
+reimbursement of expenses incurred by the Company in connection with
+the Subscription Agreement.
+
+
+     Subsequently, in May 1993, Robeson filed a petition for bankruptcy
+under Chapter 11 of the Bankruptcy Act with the United States
+Bankruptcy Court for the District of New Jersey (the "Court").  In
+September 1993, the Company filed a proof of claim in such proceeding
+as a secured creditor to recover the approximate amount of $534,000.
+
+     Pursuant to a Plan of Reorganization of Robeson (the "Plan")
+approved by the Court, in September 1994, in consideration of the
+$320,000 in loans made by the Company to Robeson and other recoverable
+expenses, the reorganized Robeson issued to the Company a promissory
+note (the "Note") in the principal amount of $385,000.  The Note
+provided for the payment of interest at the rate of 8% per annum and
+the repayment of principal in 48 consecutive monthly installments of
+varying amounts.  Pursuant to the Plan, payment of the Note was secured
+by a pledge of all the outstanding shares of capital stock of Hong Kong
+(the "Hong Kong Stock").  In addition, pursuant to the Plan, the
+Company received a nominal minority equity interest in Robeson.
+
+     The first three payments under the Note were received by the
+Company in October, November and December 1994.  Effective January
+1995, Robeson ceased making payments under the Note.  In March 1995,
+the Company demanded full payment of the Note, foreclosed its security
+interest with respect to the Hong Kong Stock and purchased such shares
+at an auction sale.
+
+     In September 1995, the Company agreed to cancel the Note in
+consideration for the issuance by Robeson of a new promissory note in
+the principal amount of $125,000 (the "New Note").  The New Note
+provides for interest at the rate of 8% per annum and is payable in 27
+consecutive monthly installments of $5,000.  The Company has received
+all installments due to date under the New Note.
+
+
+
+
+
+(iv) Phone America International, Inc.
+
+     In February 1996, the Company announced that it had entered into a
+non-binding letter of intent to acquire Phone America International,
+Inc. ("Phone America"), an interexchange telecommunications carrier
+engaged in the design, development and marketing of prepaid telephone
+calling cards and other telephone products. Phone America offers the
+end user both basic and long distance services, enhanced information
+services and hardware-based telephone services.
+
+     Phone America's preliminary unaudited financial statements as of
+December 31, 1995 and for the year then ended reflect revenues of
+approximately 375,000, a net loss of approximately $525,000 and a
+shareholders' deficiency of approximately $125,000.
+
+     The letter of intent contemplates that, following the acquisition,
+the holders of Phone America shares, options and warrants will receive
+shares of Common Stock of the Company, or options and warrants to
+purchase shares of Common Stock of the Company, representing, in the
+aggregate, 40% of the Company's Common Stock.  Pursuant to the letter
+of intent, such percentage would increase to 50% if certain performance
+targets are met.
+          
+     The letter of intent also contemplates that, at the closing of the
+transaction, subject to the requirements of applicable law, certain
+Phone America officers and directors will constitute a majority of the
+Company's Board of Directors and David A. Lyons and Adam R. Kolodny,
+currently  Chief Executive Officer and Chief Financial Officer,
+respectively, of Phone America will assume the offices of Chief
+Executive Officer and Chief Operating Officer, respectively, of the
+Company. Mr. Lyons, who previously served as President, Chairman of the
+Board and Chief Executive Officer of AMNEX, Inc., a publicly traded
+telecommunications service provider,  is related to the wife of Morton
+L. Certilman, President of the Company.  Mr. Kolodny previously served
+as President of The Keystone Corporation, a private payphone company,
+and Vice President and Chief Financial Officer of AMNEX.         
+
+     The consummation of the transaction is subject to satisfactory
+completion of the parties' due diligence investigation, final
+negotiation of the terms thereof, the execution and delivery of a
+definitive acquisition agreement, approval by the parties' respective
+Board of Directors and approval by Phone America's stockholders.  No
+assurances can be given that the transaction will be consummated upon
+the terms set forth in the letter of intent or otherwise.
+
+     Concurrently with the execution of the letter of intent, the
+Company loaned $50,000 to Transcends Telecom Corporation ("Transcends"), a
+wholly-owned subsidiary of Phone America, for workingcapital purposes.
+The note evidencing the loan is payable on or afterAugust 26, 1996 upon
+30 days notice.  Payment of the principal amountof the note, together
+with interest at the rate of 10% per annum, is secured by a pledge of
+all shares of  Phone America Common Stock owned by Mr. Lyons and
+another principal stockholder, as well as by a lien on accounts
+receivable of Transcends.  
+
+     (v)  General
+
+     The Company was incorporated in the State of Delaware on August 25,
+1961.  The Company's principal executive offices are located at 90
+Merrick Avenue, East Meadow, New York 11554, and its telephone number
+at such office is (516) 794-6300.
+
+(b)  Business of Issuer
+
+     (i)  International Airport Hotel
+
+          Reference is made to Items 1(a)(i) and 2 hereof.
+
+     (ii) Pipe Harness Clamp
+
+          Reference is made to Item 1(a)(ii) hereof.
+
+     (iii)Phone America
+
+          Reference is made to Item 1(a) (iv) hereof.
+
+     (iv) Number of Employees
+
+     As of December 31, 1995, the Company and its subsidiaries employed
+16 persons.
+
+
+ITEM 2.   DESCRIPTION OF PROPERTY 
+
+     The executive offices of  the Company are located at 90 Merrick
+Avenue, East Meadow, New York where approximately 200 square feet of
+space are occupied on a month-to-month basis at a monthly rental of
+$500. 
+
+     The Hotel is leased by IAH from the Ports Authority.  Effective
+January 1, 1994, the annual rental obligation for the Hotel was amended
+to equal the greater of $169,400 or 20% of annual gross revenues, as
+defined.  Rent expense prior to January 1, 1994 was equal to the
+greater of $153,953 or 30% of annual gross revenues, as defined.  Total
+rent expense under the lease amounted to $191,335 for 1995 as compared
+to $172,194 for 1994.
+
+     Reference is made to Item 1(a)(i) hereof for a discussion of
+certain pending litigation with regard to IAH's lease rights in the
+Hotel.
+
+ITEM 3.   LEGAL PROCEEDINGS
+
+     Reference is made to Item 1(a)(i) hereof for a discussion of
+certain pending litigation with regard to the Hotel.
+     
+ITEM 4.   SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS
+
+     Not applicable.
+
+                                PART II
+
+ITEM 5.   MARKET FOR COMMON EQUITY AND RELATED STOCKHOLDER
+          MATTERS  
+
+(a)  Market Information
+
+     The Company's Common Stock is traded in the over-the-counter market
+on the National Association of Securities Dealers' Bulletin Board under
+the symbol "EXTH".  The following table sets forth, for the periods
+indicated, the high and low bid prices for the Company's Common Stock
+as reported by the National Quotation Bureau, Inc.:
+
+1995 Calendar Year            High            Low
+
+First Quarter                 $1/8           $1/16
+Second Quarter                 1/8            1/8
+Third Quarter                  1/8            1/16
+Fourth Quarter                 1/16           1/16
+
+1994 Calendar Year            High            Low
+
+First Quarter                 $3/8           $1/4
+Second Quarter                 3/8            1/4
+Third Quarter                  3/8            1/8
+Fourth Quarter                 1/8            1/16
+
+     The above quotations reflect interdealer prices, without retail
+mark-up, mark-down or commission, and may not necessarily represent
+actual transactions.
+
+(b)  Holders
+
+As of March 22, 1996, there were 3,103 record holders of the Company's
+Common Stock.
+
+(c)  Dividends
+
+     The Company has neither declared nor paid any cash dividends on its
+Common Stock during its two most recent fiscal years and the Board of
+Directors does not contemplate the payment of dividends in the
+foreseeable future.  Any decisions as to the future payment of
+dividends will depend on the earnings and financial position of the
+Company and such other factors as the Board of Directors deems
+relevant.
+
+ITEM 6.   MANAGEMENT'S DISCUSSION AND ANALYSIS OR PLAN OF
+          OPERATION
+
+Results of Operations:
+
+     In 1995, the Company had total revenues of $1,024,057 and a net
+profit of $51,229 as compared to revenues of $991,735 a net profit of
+$51,364 for 1994.
+
+     Room rental and other departmental revenue for the Hotel increased
+by $92,127 (10.3%) during 1995.  The Company believes that such
+increased revenue was previously the result of a general increase in
+air travel.  The net profit for the Hotel, on a "stand-alone" basis,
+was $144,351 in 1995 as compared to $142,470 in 1994.
+
+     Other income decreased from $57,219 in 1994 to zero in 1995 due a
+credit against rent in such amount realized by IAH during 1994.
+
+     In 1995, the Company incurred costs and expenses of $967,152 as
+compared to $935,083 in 1994, representing an increase of $32,069.  The
+increase was attributable primarily to increased rental payments to the
+Ports Authority in connection with the lease of the Hotel.
+
+     Reference is made to Item 1(a)(i) and (iv) hereof for a discussion
+of a certain litigation with the Ports Authority with regard to the
+Hotel as well as a contemplated acquisition transaction with Phone
+America.
+  
+Liquidity and Capital Resources: 
+
+     As of December 31, 1995, the Company had $644,956 in cash and cash
+equivalents as compared to $482,359 in 1994, representing an increase
+of $162,597.  As of such date, the Company had a working capital
+surplus of $453,377.  The Company did not have any material commitments
+for capital expenditures as of December 31, 1995.
+
+     Reference is made to Item 1(a)(iii) hereof for a discussion of the
+status of a certain note in the original principal amount of $125,000
+issued by Robeson to the Company in September 1995 .
+
+     Reference is also made to Item 1(a)(i) and (iv) hereof for a
+discussion of certain litigation with the Ports Authority with regard
+to the Hotel as well as a loan and contemplated acquisition transaction
+with Phone America. 
+
+ITEM 7.   FINANCIAL STATEMENTS
+
+     The financial statements required by this Item 7 are included in
+this Annual Report on Form 10-KSB following Item 13 hereof.
+
+ITEM 8.   CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON
+          ACCOUNTING AND FINANCIAL DISCLOSURE
+
+     There were no changes in accountants due to disagreements on
+accounting and financial disclosure during the twenty-four month period
+ended December 31, 1995.
+
+                               PART III
+
+ITEM 9.   DIRECTORS, EXECUTIVE OFFICERS, PROMOTERS AND CONTROL 
+          PERSONS; COMPLIANCE WITH SECTION 16(a) OF THE EXCHANGE ACT
+
+     The following table sets forth the positions and offices presently
+held with the Company by each Director and executive officer, his age
+and the year from which such person's service on the Company's Board of
+Directors dates:
+
+                             Positions and 
+                             Offices held
+                             with the                 Director
+     Name              Age   Company                  Since
+
+Jay M. Haft            60    Chairman of the Board      1989
+Morton L. Certilman    64    President and Director     1989
+Leon Lapidus           51    Director                   1989
+Brian K. Ziegler       41    Secretary and Treasurer     --
+
+     Jay M. Haft has served as the Company's Chairman of the Board since
+October 1989.  Mr. Haft has been engaged in the practice of law for
+more than the past five years and serves as counsel to the law firms of
+Parker Duryee Rosoff & Haft.  Mr. Haft is a Director of Robotic Vision
+Systems, Inc., Noise Cancellation Technologies, Inc., CAS Medical
+Systems, Inc., Nova Technologies, Inc., Viragen, Inc. and Oryx
+Technology, Inc., all of whose securities are traded in the over-the-
+counter market.  Mr. Haft received B.A. and L.L.B degrees from Yale
+University.
+
+     Morton L. Certilman has served as the Company's President since
+October 1989.  Mr. Certilman has been engaged in the practice of law
+for more than the past five years and is a member of the law firm of
+Certilman Balin Adler & Hyman, LLP.  Mr. Certilman is Chairman of the
+Long Island Regional Planning Board and a Director of the Long Island
+Association, the Long Island Job Development Agency, New Long Island
+Partnership and the Long Island Sports Commission.  Mr. Certilman has
+lectured extensively before bar associations, builders' institutes,
+title companies, real estate institutes, banking and law school
+seminars, The Practicing Law Institute, The Institute of Real Estate
+Management and at annual conventions of such organizations as the
+National Association of Home Builders, the Community Associations
+Institute and the National Association of Corporate Real Estate
+Executives.  He is a member of the faculty of the Real Estate Institute
+of New York University, American Law Institute/American Bar
+Association, as well as the Institute on Condominium and Cluster
+Housing of the University of Miami Law Center.  Mr. Certilman received
+an L.L.B. degree, cum laude, from Brooklyn Law School.
+
+     Leon Lapidus has been the President of the Mibro Group, a privately
+held importer, packager and distributor of hardware, for more than the
+past five years.  Mr. Lapidus received a B.A. degree from Hunter
+College and an M.B.A. degree from the Bernard M. Baruch College of the
+City of New York.  Mr. Lapidus is the brother-in-law of Mr. Haft.
+
+     Brian K. Ziegler has been engaged in the practice of law for more
+than the past five years and is a member of the law firm of Certilman
+Balin Adler & Hyman, LLP.  Mr. Ziegler received a B.S. degree, cum
+laude, from the Wharton School of the University of Pennsylvania, and
+a J.D. degree and an L.L.M. degree in Taxation from the University of
+Miami.  Mr. Ziegler is the son-in-law of Mr. Certilman.
+
+     Each Director will hold office until the next Annual Meeting of
+Stockholders and until his successor is elected and qualified, or until
+his earlier resignation or removal.  Each executive officer will hold
+office until the next regular meeting of the Board of Directors
+following the next Annual Meeting of Stockholders and until his
+successor is elected or appointed and qualified, or until his earlier
+resignation or removal.
+
+     Reference is made to Item 1(a)(iv) hereof for a discussion of
+certain contemplated management changes in the event of the
+consummation of an acquisition transaction with Phone America.
+
+     To the Company's knowledge, based solely on a review of the copies
+ of Forms 4 and 5 furnished to the Company and written representations
+ that no other reports were required, during the fiscal year ended
+ December 31, 1995, all Section 16(a) filing requirements applicable to
+ the Company's officers, Directors and 10% stockholders were complied
+ with.
+
+
+
+
+
+ ITEM 10.      EXECUTIVE COMPENSATION
+
+ (a) Summary Compensation Table
+
+     The following table sets forth certain information concerning the
+  compensation of Morton L. Certilman, President of the Company, for the
+  fiscal years ended December 31, 1993, 1994 and 1995.  No person who
+  served as an executive officer of the Company as of December 31, 1995
+  had a total salary and bonus for the year then ended in excess of
+  $100,000.
+
+
+                                   Annual
+                                Compensation
+Name and Principal                           All Other
+   Position              Year     Salary   Compensation
+
+Morton L. Certilman      1995     $50,000        -0-*
+    President            1994     $40,000        -0-*
+                         1993     $50,000        -0-*
+
+*    Excludes fees payable during 1993, 1994 and 1995 by the Company
+to Certilman Balin Adler & Hyman, LLP, a law firm of which Mr. Certilman
+is a member.
+
+(b)  Option Grants
+
+     No grants of stock options were made to Mr. Certilman during the
+fiscal year ended December 31, 1995.
+
+(c)  Aggregated Option Exercises and Fiscal Year-End Option Value
+
+     Mr. Certilman did not exercise any options during the year ended
+December 31, 1995 and held no options as of such date.
+
+(d)  Long-Term Incentive Plan Awards
+
+     No awards were made to Mr. Certilman during the fiscal year ended
+December 31, 1995 under any long-term incentive plan.
+
+(e)  Compensation of Directors
+
+     Each Director is entitled to receive a $500 fee for each Directors'
+meeting he attends.  In addition, Directors are reimbursed for travel
+expenses incurred in connection with attendance at such meetings.
+
+(f)  Employment Contracts, Termination of Employment and Change-in-
+     Control Arrangements
+
+     Not applicable.
+
+ITEM 11.  SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND 
+          MANAGEMENT
+
+     The following table sets forth certain information as of March 22,
+1996 regarding the beneficial ownership of the Company's shares of
+Common Stock by (i) each person who is known by the Company to
+beneficially own or exercise voting or dispositive control over more
+than 5% of the Company's Common Stock, (ii) each present Director and
+(iii) all of the Company's present executive officers and Directors as
+a group: 
+                                                    Approximate
+    Name and Address        Number of Shares        Percentage
+  of Beneficial Owner       Beneficially Owned      of Class      
+       
+
+Morton L. Certilman           211,893(1)               8.9%
+The Financial Center
+at Mitchel Field
+90 Merrick Avenue
+East Meadow, New York
+
+
+Jay M. Haft                   210,393(1)(2)            8.8%
+200 East Broward Boulevard
+Ft. Lauderdale, Florida
+
+
+Leon Lapidus                   20,000                   *
+111 Sinnott Road
+Scarborough Ontario
+  M1L 4S6 Canada
+
+
+All executive officers
+and Directors as a group
+(4 persons)                   447,286(2)(3)           18.7%
+               
+
+ *   Less than 1%.
+
+(1)  Messrs. Certilman and Haft have previously filed a Schedule 13D and
+     amendments thereto under the Securities Exchange Act of 1934, as
+     amended, with respect to their respective equity interests in the
+     Company.  In view of their intention to consult with each other with
+     respect to the acquisition, voting and disposition of their respective
+     shares, Messrs. Certilman and Haft may be deemed a group.  Accordingly,
+     the group of Messrs. Certilman and Haft beneficially owns 422,286
+     shares of Common Stock.  Such amount represents approximately 17.7% of
+     the outstanding shares of Common Stock of the Company.  However, each
+     of Messrs. Certilman and Haft independently makes his own decisions
+     with respect to the acquisition, voting and disposition of the shares
+     of Common Stock directly owned by him.  Further, neither Mr. Certilman
+     nor Mr. Haft has any economic interest in the shares of Common Stock
+     directly owned by the other.
+
+(2)  Includes 12,500 shares held in a retirement trust for the benefit
+     of Mr. Haft.
+
+(3)  Includes 5,000 shares held in a retirement trust for the benefit of
+     an executive officer.
+
+ITEM 12.  CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS
+
+     Certilman Balin Adler & Hyman, LLP, a law firm of which Mr.
+ Certilman is a member, serves as counsel to the Company.  It is
+ presently anticipated that such firm will continue to represent the
+ Company and/or its affiliates and will receive fees for its services at
+ rates and in amounts not greater than would be paid to unrelated law
+ firms performing similar services.
+
+ITEM 13.  EXHIBITS, LIST AND REPORTS ON FORM 8-K
+
+
+(a)  Exhibits
+
+Exhibit
+Number   Description of Exhibit
+                                                                      
+
+ 3(a)    Certificate of Incorporation, as amended(1)
+
+  (b)    By-laws, as amended(2)
+
+10(a)    Letter of intent, dated February 26, 1996, between Phone
+         America, Transcends and the Company.
+
+10(b)    Agreement, dated July 22, 1988, between the Ports Authority
+         and IAH(1)
+
+10(c)    Resolution of Board of Directors of Ports Authority, dated
+         August 10, 1994, regarding rental obligation of the Hotel(3)
+
+10(d)    Amended and Restated 1990 Stock Option Plan(1)
+
+10(e)    License and Royalty Agreement, dated July 1991, among the
+         Company, IFTI Capital Appreciation Management Corporation, and
+         NPS Products, Inc.(4)
+
+21       Subsidiaries of the Registrant(4)
+
+
+
+(1)  Denotes document  filed as an exhibit to the Company's Annual
+     Report on Form 10-KSB for the year ended December 31, 1993 and
+     incorporated herein by reference.
+
+(2)  Denotes document filed as an exhibit to the Company's Annual
+     Report on Form 10-KSB for the year ended December 31, 1989 and
+     incorporated herein by reference.
+
+
+(3)  Denotes document filed as an exhibit to the Company's Annual
+     Report on Form 10-KSB for the year ended December 31, 1994 and
+     incorporated herein by reference.
+
+(4)  Denotes document filed as an exhibit to the Company's Annual
+     Report on Form 10-K for the year ended December 31, 1991 and
+     incorporated herein by reference.
+
+(b)  Reports on Form 8-K
+
+     No report on Form 8-K was filed by the Company during the last
+quarter of the fiscal year ended December 31, 1995.
+
+
+
+
+
+<PAGE>
+                            SIGNATURES
+
+          
+     In accordance with Section 13 or 15(d) of the Securities Exchange
+ Act of 1934, the registrant caused this report to be signed on its
+ behalf by the undersigned, thereunto duly authorized.
+
+
+Dated: March 29, 1996       EXTECH CORPORATION
+
+
+                            By: /s/ Morton L. Certilman     
+                                    Morton L. Certilman, 
+                                    President
+
+     In accordance with the Securities Exchange Act of 1934, this report
+has been signed below by the following persons on behalf of the
+registrant and in the capacities and on the dates indicated.
+
+Signatures                  Capacity                Date 
+
+                                                  
+                         Chairman of the Board
+/s/Jay M. Haft           of Directors              March 29, 1996
+Jay M. Haft              
+                         President and Director
+                         (Principal Executive,
+                         Financial and Accounting
+/s/Morton L. Certilman   Officer)                  March 29, 1996
+Morton L. Certilman      
+
+/s/ Leon Lapidus         Director                  March 29, 1996
+Leon Lapidus             
+
+<PAGE>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                  EXTECH CORPORATION AND SUBSIDIARIES
+
+                          REPORT ON AUDITS OF
+                   CONSOLIDATED FINANCIAL STATEMENTS
+
+                   TWO YEARS ENDED DECEMBER 31, 1995
+
+
+
+
+
+<PAGE>
+Item 7.    Consolidated Financial Statements
+
+
+
+                             INDEX
+
+                                     Page
+
+Independent auditors' report         F-2
+
+
+Consolidated balance sheet           F-3
+
+
+Consolidated statements of earnings  F-4
+
+
+Consolidated statement of
+stockholders' equity                 F-5
+
+
+Consolidated statements of
+cash flows                           F-6
+
+
+Notes to consolidated
+financial statements                 F-7 - F-13<PAGE>
+
+
+
+              <PAGE>
+CONSOLIDATED FINANCIAL STATEMENTS   
+         Report of Independent Certified Public Accountants
+
+
+
+
+Board of Directors and Stockholders
+EXTECH CORPORATION
+East Meadow, New York
+
+We have audited the accompanying consolidated balance sheet of
+EXTECH CORPORATION and Subsidiaries as of December 31, 1995 and
+the related consolidated statements of earnings, stockholders'
+equity and cash flows for each of the years in the two-year period
+ended December 31, 1995.  These consolidated financial statements
+are the responsibility of the Company's management. Our responsibility
+is to express an opinion on these consolidated financial statements
+based on our audits.
+
+We conducted our audits in accordance with generally accepted
+auditing standards.  Those standards require that we plan and
+perform the audit to obtain reasonable assurance about whether the
+financial statements are free of material misstatement.  An audit
+includes examining, on a test basis, evidence supporting the
+amounts and disclosures in the financial statements.  An audit
+also includes assessing the accounting principles used and
+significant estimates made by management, as well as evaluating
+the overall financial statement presentation.  We believe that our
+audit provides a reasonable basis for our opinion.
+
+In our opinion, the consolidated financial statements referred to
+above present fairly, in all material respects, the financial
+position of EXTECH CORPORATION and Subsidiaries as of December 31,
+1995 and the results of their operations and their cash flows for
+each of the years in the two-year period ended December 31, 1995
+in conformity with generally accepted accounting principles.
+
+
+
+
+
+                                         HOLTZ RUBENSTEIN & CO., LLP
+
+
+Melville, New York
+March 5, 1996
+
+
+                                 F-2<PAGE>
+                                  
+
+
+
+                 EXTECH CORPORATION AND SUBSIDIARIES
+                                  
+                     CONSOLIDATED BALANCE SHEET
+                                  
+                          DECEMBER 31, 1995
+
+   ASSETS
+
+CURRENT ASSETS:
+ Cash and cash equivalents           $644,956
+ Accounts receivable, net of
+ allowance for doubtful 
+accounts of approximately $600         52,421
+ Notes receivable, net of allowance
+ for doubtful accounts 
+ of approximately $69,000 (Note 4)     39,180
+ Inventories                            7,190
+ Prepaid expenses                       6,887
+  Total current assets                750,634
+
+PROPERTY AND EQUIPMENT, net (Note 3)  201,690
+
+OPERATING EQUIPMENT, net               12,803
+  
+                                     $965,127
+                                     ========
+
+  LIABILITIES AND STOCKHOLDERS' EQUITY
+
+CURRENT LIABILITIES:
+ Accounts payable                       3,556
+ Accrued expenses (Notes 5 and 6)     139,501
+ Debentures payable (Note 7)          154,200
+  Total current liabilities           297,257
+MINORITY INTEREST                         560
+
+COMMITMENT AND CONTINGENCY (Note 10)
+
+STOCKHOLDERS' EQUITY:  (Note 11)
+ Common stock, $.01 par value;
+  authorized
+  10,000,000 shares; 
+ issued and outstanding 2,391,367
+  shares                                23,914
+ Capital in excess of par            4,496,950
+ Deficit                            (3,853,554)
+
+                                       667,310
+
+                                       965,127
+                                      =========                
+
+
+           See notes to consolidated financial statements
+                                 F-3
+
+
+
+
+
+                 EXTECH CORPORATION AND SUBSIDIARIES
+                                  
+                 CONSOLIDATED STATEMENTS OF EARNINGS
+
+
+
+                                        Years Ended 
+                                        December 31,        
+                                      1995       1994  
+REVENUES:  (Note 13)
+ Rooms                               924,381    849,283
+ Other operating departments          58,569     41,540
+ Interest, net                        21,893     11,056
+ Royalty income                       19,214     32,637
+ Other                                           57,219
+
+  Total revenues                   1,024,057    991,735
+   
+COSTS AND EXPENSES:
+ Administrative and general          111,234    113,944
+ Bad debts                             5,195      9,000
+ Corporate and sundry (Note 8)       190,146    182,793
+ Departmental                        381,192    366,840
+ Depreciation and amortization        51,901     52,310
+ Energy costs                         16,701     15,808
+ Lease rentals (Note 10)             191,335    172,194
+ Property operation and maintenance   18,761     20,156
+ Real estate and personal
+ property taxes                          687      2,038
+
+  Total costs and expenses           967,152    935,083
+   
+INCOME BEFORE INCOME TAXES            56,905     56,652
+
+INCOME TAXES (Note 9)                  5,676      5,288
+
+NET INCOME                          $ 51,229    $ 51,364
+                                     =======     =======
+INCOME PER COMMON SHARE              $ .02     $    .02
+                                     ======     =======
+WEIGHTED AVERAGE NUMBER
+ OF SHARES OF COMMON
+ STOCK OUTSTANDING (Note 12)         2,391,367  2,391,367
+                                     =========  =========
+
+
+
+
+           See notes to consolidated financial statements
+                                  
+                                 F-4
+
+
+<PAGE>
+                 EXTECH CORPORATION AND SUBSIDIARIES
+                                  
+           CONSOLIDATED STATEMENT OF STOCKHOLDERS' EQUITY
+
+
+
+                                  Capital
+                Common Stock     in Excess
+              Shares    Amount    of Par      Deficit     Total
+
+Balance,
+January 1,
+1994          2,391,367 $23,914  4,496,950  $(3,956,147) $ 564,717
+
+Net
+income
+for the year     -         -         -           51,364     51,364
+
+Balance,
+December
+31, 1994      2,391,367  $23,914  4,496,950  (3,904,783)   616,081
+
+Net income
+for the
+year          -            -         -           51,229     51,229
+
+Balance,
+December 31,
+1995           2,391,367  $23,914 $4,496,950 $(3,853,554) $667,310
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            See notes to consolidated financial statements
+
+                                  F-5
+
+<PAGE>
+                 EXTECH CORPORATION AND SUBSIDIARIES
+                CONSOLIDATED STATEMENTS OF CASH FLOWS
+                                  
+                                        Years Ended 
+                                        December 31,          
+                                     1995           1994           
+CASH FLOWS FROM OPERATING
+ACTIVITIES:
+Net income                          $51,229       $ 51,364
+Adjustments to reconcile net
+income to net cash
+provided by (used in) operating
+activities:
+   Depreciation and amortization     51,901         52,310
+   Provision for bad debts            5,195          9,000
+   Changes in operating assets and
+    liabilities:
+     (Increase) decrease in assets:
+      Accounts receivable            (1,048)        (1,977) 
+      Inventories                     4,514            874
+      Prepaid expenses and other
+      assets                         36,544        (34,633)
+     Increase (decrease) in
+     liabilities:
+      Accounts payable                 (632)          (496)
+      Accrued expenses                2,484       (100,738)
+   Net cash provided by (used in)
+    operating activities             150,187       (24,296)
+  
+CASH FLOWS FROM INVESTING
+ ACTIVITIES:
+ Purchases of property
+  and equipment                      (4,425)        (4,008)
+ Collection of notes receivable      16,835         17,271
+
+  Net cash provided by investing
+   activities                        12,410         13,263
+
+Net increase (decrease) in cash and
+ cash equivalents                    162,597       (11,033)
+
+Cash and cash equivalents,
+ beginning of year                   482,359       493,392
+
+Cash and cash equivalents,
+ end of year                        $644,956      $482,359
+
+
+
+
+           See notes to consolidated financial statements
+                                  
+                                 F-6
+
+<PAGE>
+                 EXTECH CORPORATION AND SUBSIDIARIES
+                                  
+             NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+                                   
+               YEARS ENDED DECEMBER 31, 1995 AND 1994
+
+
+1. Summary of Significant Accounting Policies:
+
+   a.   Description of business
+
+     The Company's operations are within one industry as lodging
+ sales and related revenues accounted for substantially all
+ revenues during the two-year period ended December 31, 1995. 
+
+   b.   Principles of consolidation
+
+     The consolidated financial statements include the accounts of
+ the Company, its wholly-owned subsidiaries and a 90% owned
+ inactive subsidiary.  All intercompany transactions and balances
+ have been eliminated. 
+
+   c.   Inventories
+
+     Inventories, consisting of merchandise and supplies, are
+ stated at the lower of cost or market.  Cost is determined on a
+ first-in, first-out basis. 
+
+   d.   Property and equipment
+
+     Property and equipment are stated at cost.  Depreciation is
+ provided using the straight-line method over the estimated useful
+ lives of the related assets.  Leasehold improvements are being
+ amortized using the straight-line method over the remaining term
+ of the lease. 
+
+   e.   Concentration of credit risk
+
+     The Company invests its excess cash in deposits and money
+ market accounts with major financial institutions.  The Company
+ has not experienced losses related to these investments. 
+
+   f.   Statement of cash flows
+
+     For purposes of the statement of cash flows, the Company
+ considers all highly liquid debt instruments with a maturity of
+ three months or less, as well as bank money market accounts, to be
+ cash equivalents. 
+
+
+
+
+
+                                  F-7<PAGE>
+
+
+g.   Estimates
+
+     The preparation of financial statements in conformity with
+generally accepted accounting principles requires management to
+make estimates and assumptions that affect the reported amounts of
+assets and liabilities and disclosure of contingent assets and
+liabilities at the date of the financial statements and the
+reported amounts of revenues and expenses during the reporting
+period  Actual results could differ from those estimates.
+
+2. Supplementary Information - Statement of Cash Flows: 
+
+   Cash paid for income taxes was $5,452 and $10,506 during the
+years ended December 31, 1995 and 1994, respectively.
+
+3. Property and Equipment:
+
+   At December 31, 1995, property and equipment consists of the
+following:
+
+     Furniture, fixtures and equipment      $   356,223
+     Leasehold improvements                     135,760
+                                                491,983
+     Less accumulated depreciation and
+     amortization                               290,293
+
+                                            $   201,690
+                                                =======           
+4. Notes Receivable:
+
+   During the period December 1992 to March 1993, the Company
+ entered into various loans with Robeson Industries Corp. ("Robeson")
+ (an unrelated third party) in the aggregate amount of
+ $320,000.  The notes were secured by a pledge of all of the issued
+ and outstanding shares of Robeson Industries Hong Kong Ltd.
+ ("Robeson Hong Kong").  In May 1993, Robeson filed a petition for
+ bankruptcy under Chapter 11 of the Bankruptcy Act.  In September
+ 1993, the Company filed a proof of claim in such proceeding as a
+ secured creditor to recover such advances, related accrued
+ interest and other costs.
+
+   In September 1994, pursuant to a Plan of Reorganization (the
+ "Plan"),  Robeson issued to the Company a promissory note (the
+ "Note") in the principal amount of $385,000.  The Note provides
+ for the payment of interest at the rate of 8% per annum and the
+ repayment of principal in 48 consecutive monthly installments. 
+ Such installments cover an aggregate of 5% of the principal amount
+ of the Note during the initial six months, an additional 7.5%
+ thereof during the following six months, an additional 37.5%
+ thereof during the following 12 months, an additional 25% thereof
+ during the following 12 months and the final 25% thereof during
+ the last 12 months of the Note.  The Note is secured by all the
+ outstanding shares of capital stock of Robeson's wholly-owned Hong
+ Kong subsidiary.  In addition, pursuant to the Plan, the Company
+ received a nominal minority equity interest in Robeson.
+
+                                  F-8<PAGE>
+
+
+   The first three payments under the Note were received by the
+ Company in October, November and December 1994.  Effective January
+ 1995, Robeson ceased making payments under the Note.  In March
+ 1995, the Company demanded full payment of the Note, foreclosed
+ its security interest with respect to the Hong Kong stock and
+ purchased such shares at an auction sale.  In September 1995, the
+ Company agreed to cancel the Note in consideration for the
+ issuance by Robeson of a new promissory note in the principal
+ amount of $125,000 (the "New Note").  The New Note provides for
+ interest at the rate of 8% per annum and is payable in 27
+ consecutive monthly installments of $5,000.  The Company has
+ received all installments due to date under the New Note.
+
+5. Accrued Expenses
+
+   At December 31, 1995, accrued expenses consists of the
+ following:
+
+     Rent                            $          74,655
+     Professional fees                          18,061
+     Payroll and related costs                  14,995
+     Deferred compensation (Note 6)             16,039
+     Room tax                                    7,800
+     Other                                       7,951
+
+                                     $          139,501
+                                                =======
+                                 
+<PAGE>
+6. Deferred Compensation
+
+   The Company has an agreement to pay special compensation to
+ certain employees who at the date of retirement have accumulated
+ 20 years of uninterrupted service.  Maximum amount payable per
+ employee is $3,000.  At the effective date, there were seven
+ employees covered by this plan, four of them with 15 years of
+ accumulated service.  The accrual is being done pro-ratably from
+ the inception of the plan to the date each employee is eligible
+ for benefits.  At December 31, 1995, there was $16,039 shown as
+ accrued expenses payable. 
+
+7. Debentures Payable:
+
+   In 1971, the Company, pursuant to a plan of arrangement, issued
+ a series of debentures which matured in 1977.  As of December 31,
+ 1995, $154,200 of these debentures have not been presented for
+
+                               F-9
+
+
+
+
+
+
+
+
+
+ payment.  Accordingly, this balance has been included as a current
+ liability in the accompanying consolidated balance sheet. 
+ Interest has not been accrued on the remaining debentures payable. 
+ In addition, no interest or other charges have been accrued with
+ regard to any escheat obligation of the Company. 
+
+8. Related Party Transaction:
+
+   During the years ended December 31, 1995 and 1994, the Company
+ leased its corporate office facility from a partnership of which
+ a stockholder/officer is a member.  Rent expense amounted to
+ $6,000 for each of the years ended December 31, 1995 and 1994. 
+
+9. Income Taxes:
+
+   The 1995 and 1994 income of IAH, Inc., a wholly-owned
+ subsidiary has been calculated excluding the loss of Extech, as
+ it is separately taxed under the laws of Puerto Rico.  A
+ provision of $5,676 and $5,288 respectively, has been made for
+ this tax liability. 
+
+   For federal income taxes, the Company has a net operating
+ loss carryforward of approximately $700,000 available to offset
+ future taxable income and approximately $1,500,000 of capital
+ loss carryforwards available to offset future capital gains.  In
+ addition, the Company has general business tax credit
+ carryforwards available to reduce future income taxes of
+ approximately $79,000.  If not utilized, these credits are
+ scheduled to expire in various amounts through 2010.  The
+ Company incurred operating losses during the past three years
+ and losses are expected in the early subsequent periods.  As a
+ result, the Company has not recorded a deferred tax asset in
+ 1995 due to the fact that a 100% valuation allowance would be
+ needed. 
+
+10.  Commitment and Contingency:
+
+ IAH, Inc. leases the International Airport Hotel property
+ pursuant to an operating lease with the Puerto Rico Ports\
+ Authority ("Ports Authority"), which expired in December 1995.  IAH
+ is of the belief that pursuant to a supplemental lease agreement,
+ it retained the opinion to continue the lease for a period of five
+ years to December 31, 2000.  On August 3, 1994, an amendment to
+ the lease agreement provided for the annual rental payments to be
+ equal to the greater of $169,400 or 20% of the annual gross
+
+
+
+
+                               F-10
+
+
+
+
+
+
+
+
+
+ revenues, as defined, effective January 1, 1994.  Total rent
+ expense under this lease amounted to $191,335 for 1995 and
+ $172,194 for 1994.
+
+   Based upon IAH's refusal to acknowledge that, effective January
+ 1, 1996, it occupied the Hotel on a month-to-month basis, in
+ February 1996, the Port Authority requested that IAH vacate,
+ surrender and deliver the premises by February 29, 1996. 
+ Following the receipt of such request, IAH brought an action in
+ the Superior Court of San Juan, Puerto Rico for declaratory
+ judgment and possessory injunction against the Ports Authority
+ with respect to the Hotel.  The action seeks a declaratory
+ judgment that, among other alternatives, IAH exercised an option
+ with respect to its lease for the Hotel for an extension of the
+ term of five years commencing on January 1, 1996 or that the Ports
+ Authority executed a new lease agreement for a ten year period
+ commencing on such date.
+
+11.  Stockholders' Equity:
+
+   a.   Stock options
+
+     The Company maintains a stock option plan which provides for
+ the granting of options to individuals rendering service to the
+ Company to purchase up to 300,000 shares of common stock of the
+ Company.  Such options may be either incentive stock options or
+ non-statutory stock options.  No options have been granted as of
+ December 31, 1995.
+
+   b.   Common shares reserved
+
+     Stock Option Plan               300,000
+
+12.  Income Per Share:
+
+   Net income per common share was computed using the weighted
+average number of shares of common stock outstanding during each
+period presented.
+
+13.  Major Customer:
+
+   Sales to a major customer approximated 15% and 10% of total room
+sales for the years ended December 31, 1995 and 1994, respectively.
+
+14.  Fair Value of Financial Instruments:
+
+   In 1995, the Company adopted Financial Accounting Standards
+Board Statement No. 107, which requires disclosures about the fair
+value of the Company's financial instruments.  The methods and
+assumptions used to estimate the fair value of the following
+classes of financial instruments were:
+
+   Current Assets and Current Liabilities:  The carrying amount
+of cash and temporary cash investments, current receivables and
+payable and certain other short-term financial instruments
+approximate their fair value.
+
+   The carrying amount and fair value of the Company's financial
+instruments at December 31, 1995 are as follows:
+
+                                           Carrying       Fair
+                                            Amount        Value
+   
+
+     Cash and cash equivalents              $644,956    $644,956
+     Accounts receivables                     52,421      52,421
+     Notes receivable                         39,180      39,180
+     Debentures payable                      154,200     154,200
+     Other current liabilities               143,057     143,057
+
+
+
+
+15.  Letter of Intent:
+
+   In February 1996, the Company signed a letter of intent to
+acquire a telecommunications interexchange carrier engaged in the
+design, development and marketing of prepaid telephone calling
+cards and other telephone products.  The Company is in the process
+of beginning its due diligence investigations.  The terms of the
+letter of intent provide for the issuances of shares of common
+stock of the Company, and options for the purchase of shares of
+common stock, which would represent 40% of the outstanding common
+shares of the Company.  The letter of intent also provides for the
+issuance of additional shares and options representing up to an
+additional 10% of the outstanding common shares provided certain
+revenues and pre-tax earnings levels are met.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                F-13
+
+
+
+
+
+
+
+
+
+
+
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

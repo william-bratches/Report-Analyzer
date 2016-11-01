@@ -1,0 +1,2204 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ M3i+T9XImCgBdzhS0k3sK0oINRqL8t/lxY7Wz4mfn1njyGJm5msZVTondVOT2/u6
+ 5/MNufmA4mLITtRsB96pvA==
+
+<SEC-DOCUMENT>0000024751-97-000001.txt : 19970130
+<SEC-HEADER>0000024751-97-000001.hdr.sgml : 19970130
+ACCESSION NUMBER:		0000024751-97-000001
+CONFORMED SUBMISSION TYPE:	10KSB/A
+PUBLIC DOCUMENT COUNT:		4
+CONFORMED PERIOD OF REPORT:	19960930
+FILED AS OF DATE:		19970129
+SROS:			NONE
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			CORNING NATURAL GAS CORP
+		CENTRAL INDEX KEY:			0000024751
+		STANDARD INDUSTRIAL CLASSIFICATION:	NATURAL GAS TRANSMISSION & DISTRIBUTION [4923]
+		IRS NUMBER:				160397420
+		STATE OF INCORPORATION:			NY
+		FISCAL YEAR END:			0930
+
+	FILING VALUES:
+		FORM TYPE:		10KSB/A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-00643
+		FILM NUMBER:		97513154
+
+	BUSINESS ADDRESS:	
+		STREET 1:		330 W WILLIAM ST
+		STREET 2:		P O BOX 58
+		CITY:			CORNING
+		STATE:			NY
+		ZIP:			14830
+		BUSINESS PHONE:		6079363755
+
+	MAIL ADDRESS:	
+		STREET 1:		330 W WILLIAM STREET
+		STREET 2:		P O BOX 58
+		CITY:			CORNING
+		STATE:			NY
+		ZIP:			14830
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>10KSB/A
+<SEQUENCE>1
+<TEXT>
+
+                     U.S. Securities and Exchange Commission
+                             Washington, D.C.  20549
+                                   Form 10-KSB
+
+     (X)  TRANSITION REPORT UNDER SECTION 13 OR 15 (d) OF THE SECURITIES AND
+          EXCHANGE ACT OF 1934 
+
+               For the nine month transition period ended September 30, 1996 
+
+
+                    Commission file number            0-643      
+
+                           Corning Natural Gas Corporation                 
+                 (Name of small business issuer in its charter)
+
+           New York                                 16-0397420             
+(State or other jurisdiction of         (I.R.S. Employer Identification No.)
+ incorporation or organization)
+
+  330 W. William St., Corning NY                             14830         
+(Address of principal executive offices)                  (Zip Code)
+
+Issuer's telephone number    (607) 936-3755  
+
+Securities registered under Section 12(b) of the Exchange Act:  None
+
+Securities registered under Section 12(g) of the Exchange Act:
+
+                          Common Stock - $5.00 par value                   
+                                (Title of class)
+
+     Check whether the issuer (1) filed all reports required to be filed by
+Section 13 or 15(d) of the Exchange Act during the past 12 months (or for such
+shorter period that the registrant was required to file such reports), and (2)
+has been subject to such filing requirements for the past 90 days.  Yes   X  
+No                            
+
+     Check if there is no disclosure of delinquent filers in response to Item
+405 of Regulation S-B is not contained in this form, and no disclosure will be
+contained, to the best of registrant's knowledge, in definitive proxy or
+information statements incorporated by reference in Part III of this Form 10-KSB
+or any amendment to this Form 10-KSB.   (X)
+
+Revenues for 9 month period ended September 30, 1996 $ 15,082,135
+
+The aggregate market value of the 336,903 shares of the Common Stock held by
+non-affiliates of the Registrant at the $22 average of bid and asked prices as
+of November 1, 1996 was $7,411,866.
+
+Number of shares of Common Stock outstanding as of the close of business on
+November 1, 1996 - 460,000.
+
+                       DOCUMENTS INCORPORATED BY REFERENCE
+
+Portions of Registrant's Annual Report to Shareholders for the nine month period
+ended September 30, 1996, and definitive proxy statement and notice of annual
+meeting of shareholders, dated January 16, 1997, are incorporated by reference
+into Part I, Part II and Part III hereof.
+
+Information contained in this Form 10-KSB and the Annual Report to shareholders
+for fiscal 1996 period which is incorporated by reference contains certain
+forward looking comments which may be impacted by factors beyond the control of
+the Company, including but not limited to natural gas supplies, regulatory
+actions and customer demand.  As a result, actual conditions and results may
+differ from present expectations.
+
+                         CORNING NATURAL GAS CORPORATION
+                                   FORM 10-KSB
+                 For the 9 Month Period Ended September 30, 1996
+
+
+                                     Part I
+
+ITEM 1 - DESCRIPTION OF BUSINESS
+(a)  Business Development
+Corning Natural Gas Corporation (the "Company" or "Registrant"), incorporated in
+1904, is a natural gas utility.  The Company purchases its entire supply of gas,
+and distributes it through its own pipeline distribution and transmission
+systems to residential, commercial, industrial and municipal customers in the
+Corning, New York area and to two other gas utilities which service the Elmira
+and Bath, New York areas.  The Company is under the jurisdiction of the Public
+Service Commission of New York State which oversees and sets rates for New York
+gas distribution companies.  The Company also sells, leases and services
+appliances, primarily gas burning, through its wholly owned subsidiary, Corning
+Natural Gas Appliance Corporation.
+(b)  Business of Issuer
+     (1)  The Company maintains a gas supply portfolio of numerous contracts and
+is not dependent on a single supplier.  Additionally, the Company has
+capabilities for storing 793,000 Mcf through storage operations with two of its
+suppliers.  The Company had no curtailments during 1996 and expects to have an
+adequate supply available for its customers during 1997 providing that no
+abnormal conditions or actions occur.
+     (2)  The Company is franchised to supply gas service in all the political
+subdivisions in which it operates and is adequately protected therewith.
+     (3)  Since the Company's business is seasonal by quarters, sales for each
+quarter of the year vary and are not comparable.  Sales for different periods
+vary depending on variations in temperature, but the Company's Weather
+Normalization Clause (WNC) serves to stabilize net revenue from the effects of
+temperature variations. The WNC allows the Company to adjust customer billings
+to compensate for fluctuations in net revenue caused by temperatures which are
+higher or lower than the thirty year average temperature for the period.  Degree
+days, which represent the number of degrees that the average daily temperature
+falls below 65 degrees Fahrenheit, totaled 4,577 for the period January 1
+through September 30, 1996 and 4,273 for the same period in 1995.
+     (4)  The Company has three major customers, Corning Incorporated, New York
+State Electric & Gas (NYSEG), and Bath Electric, Gas & Water Systems (BEGWS).
+The loss of any of these customers could have a significant impact on the
+Company's financial results.
+     (5)  Historically, the Company's competition in the residential market has
+been primarily from electricity in cooking, water heating and clothes drying,
+and to a very small degree, in heating.  The price of gas remains low in
+comparison to that of electricity in the Company's service territory and the
+Company's competitive position in the residential market continues to be very
+strong.  Approximately 99% of the Company's general service customers heat with
+gas.
+     In recent years competition from oil has developed in the industrial
+market.  The Company has been able to counteract much of this competition, to
+date, through the transportation of customer owned gas for a transportation
+charge.  The customer arranges for their own gas supply, then moves it through
+the Company's facilities for a transportation fee.   The Company's
+transportation rate is equal to the lowest unit rate of the appropriate rate
+classification, exclusive of gas costs, hence the profit margin is maintained.
+Additionally, under the recent deregulated environment there is opportunity for
+the Company to increase revenue by selling its upstream pipeline capacity to
+transportation customers.  The Company is authorized to retain 15% of such
+revenue and 85% is returned to firm customers in the form of lower gas costs.
+Transportation customers that pay for this capacity are virtually assured that
+their supply will not be interrupted.  Revenues derived from the resale of this
+capacity were $131,953 for 9 months ended September 30, 1996 and $104,294 for
+the period January 1 through September 30, 1995. 
+     For those willing to bear some risk, the Company has an interruptible
+transportation rate for its large industrial customers whereby the customer may
+elect to avoid payment of demand charges but bears the risk of partial or total
+upstream interruption of service during certain periods.  To maintain industrial
+load in the event that oil prices temporarily drop below the equivalent gas
+price, the Company continues to maintain a flexible transportation rate
+schedule.  This flexible rate, however, was not utilized in 1996 and has been
+invoked only once since its inception.
+     In September 1995 the Company purchased the assets of a local gas
+distribution system, Finger Lakes Gas Company, through the Federal Bankruptcy
+Court.  Finger Lakes Gas served customers in the Hammondsport, NY area and had a
+customer base of approximately 320 customers.  The Company was able to purchase
+this all plastic system with a bid of $560,000.  The Company was pleased to
+purchase these assets that originally cost over $1.5 million to construct for
+its relatively low bid.  The nearly new, all plastic, system was already
+connected and serving 320 customers with a potential to add 200 more in the near
+future.  On a per customer basis, this represents a very low investment.  The
+capital to purchase these assets was obtained through short term debt.  The
+Company has not found it necessary to apply for an increase in rates on this
+part of our system which means the original rates made effective in 1990 remain
+in effect six years later.
+     Shortly after the Company took possession of the system, Mercury Aircraft,
+Inc. announced it would purchase the former Taylor Wine Company facilities and
+centralize their other plants.  The reopening of this major facility will most
+certainly contribute toward the stability and future viability of the new gas
+system which is now part of the Company.  The former Finger Lakes Gas Company's
+operations, did not have a significant impact on 1995, but contributed in excess
+of $150,000 to gross margin (revenues less gas cost) for the period ended
+September 30, 1996.
+     In December, 1994 the New York Public Service Commission instituted a
+proceeding to address issues related to the merging competitive natural gas
+market.  This proceeding is intended to provide a framework whereby access to
+facilities on upstream pipelines made available by FERC Order 636 would be
+available to end use customers on the Local Distribution Company level.  New
+tariff filings were approved and became effective September 1, 1996.  The
+Company considers this a transitional step towards full unbundling of services
+with future changes made as circumstances warrant.
+     The Company received approval for a rate increase from the New York State
+Public Service Commission of approximately $124,000 in revenues with an
+effective date of September 1, 1996.
+     (6)  The Company believes compliance with present federal, state and local
+provisions relating to the protection of the environment will not have any
+material adverse effect on capital expenditures, earnings and financial position
+of the Company and its subsidiary.
+     (7)  Sixty-seven persons were employed on a full-time basis and six on a
+part-time basis by the Company in 1996 and 1995.     
+     (8)  The Company's labor-management relationship is good.  Typical labor
+negotiations are completed in one to two days.  The current labor contract was
+signed September 1, 1995 for a three year period.
+ITEM 2 - DESCRIPTION OF PROPERTY
+     The Company completed the construction of a new office building at 330 West
+William Street, Corning, NY in the fall of 1991.  This structure is physically
+connected to the operations center built three years earlier.  The Company had
+outgrown its general offices at 27 East Denison Parkway.  The property has been
+sold, and the gain on the sale was returned to ratepayers in previous years.
+     The Company's pipeline system is thoroughly surveyed each year.  Any
+necessary replacements are included in the construction budget.  Approximately
+105 miles of transmission main, 279 miles of distribution main, 13,800 services
+and 86 measuring and regulating stations, along with various other property are
+distributed throughout the service area.  All of the above described property is
+owned by the Company, except for approximately one mile of 10" gas main which is
+under a long-term lease and is used primarily to serve Corning Incorporated.
+All of the above described property which is owned by the Company is adequately
+insured, and is subject to the lien of the Company's first mortgage indenture.
+ITEM 3 - LEGAL PROCEEDINGS
+     The Company is not a party to any material pending legal proceedings, nor
+is the Company aware of any problems of any consequence which it anticipates may
+result in legal proceedings.
+
+ITEM 4 - SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS
+     No matters were submitted to a vote of security holders during the third
+quarter of 1996.
+Additional Item
+Executive Officers of the Registrant
+(Including Certain Significant Employees)
+
+                              Business Experience           Years Served
+Name                Age       During Past 5 Years           In This Office
+
+Thomas K. Barry      51  Chairman of the Board of Directors        3
+                         President & C.E.O.                       12    
+
+Edgar F. Lewis       59  Senior Vice President - Operations       16
+
+Kenneth J. Robinson  52  Executive Vice President                  5
+                         Financial Vice President & Treasurer      4 
+
+Phyllis J. Groeger   56  Secretary                                 9    
+
+Thomas S. Roye       43  Vice President - Administration           5
+                         Assistant Treasurer & Assistant Secretary 4
+
+Gary K. Earley       42  Treasurer                                 5
+                         Accountant, Rates & Regulations           4
+
+Term of office is for one year.  (Normally from April to April)
+
+
+                                     Part II
+ITEM 5 - MARKET FOR THE REGISTRANT'S COMMON EQUITY AND RELATED STOCKHOLDER
+MATTERS
+     The principal market on which the Registrant's common stock is traded, the
+range of high and low bid quotations for each quarterly period during the past
+two years, the amount and frequency of dividends, and a description of
+restrictions upon the Registrant's ability to pay dividends, appear in the table
+below. The number of stockholders of record of the Registrant's Common Stock was
+373 at September 30, 1996.  The high and low bid quotations reflect inter-dealer
+prices, without retail markup, markdown or commission and may not represent
+actual transactions.  
+
+                              MARKET PRICE - (OTC)
+                                                            Dividend
+Quarter Ended                       High      Low             Paid            
+March 31, 1996                     $ 23      $ 22           $ .315
+June 30, 1996                        23        22             .315
+September 30, 1996                   22        21 1/2         .315            
+March 31, 1995                       25        24           $ .31
+June 30, 1995                        24 1/2    24             .31
+September 30, 1995                   24 3/4    24             .31
+December 31, 1995                    24        23             .315
+
+ITEM 6 - MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS
+OF OPERATIONS
+     Management's discussion of financial condition and results of operations of
+the Company appears in the 1996 Annual Report to Shareholders which is
+incorporated by reference.  
+
+ITEM 7 - FINANCIAL STATEMENTS
+     The consolidated financial statements, together with the independent
+auditors' report thereon of KPMG Peat Marwick LLP dated November 8, 1996 are
+included in the 1996 Annual Report to Shareholders attached hereto, and are
+incorporated in this Form 10-KSB by reference thereto.
+
+ITEM 8 - CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND
+FINANCIAL DISCLOSURE
+None
+
+                                    Part III
+ITEM 9 - DIRECTORS, EXECUTIVE OFFICERS, PROMOTERS AND CONTROL PERSONS
+     The information required regarding the executive officers of the Registrant
+is included in Part 1 under "Additional Item".
+
+ITEM 10 - EXECUTIVE COMPENSATION
+     The information required regarding the compensation of the executive
+officers appears in the Definitive Proxy Statement attached hereto.
+
+ITEM 11 - SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT
+     The information required regarding the security ownership of certain
+beneficial owners and management appears in the Definitive Proxy Statement
+attached hereto.
+
+ITEM 12 - CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS
+     The information required regarding certain relationships and related
+transactions appears in the Definitive Proxy Statement attached hereto.
+
+                                     Part IV
+
+ITEM 13 - EXHIBITS AND REPORTS ON FORM 8-K
+
+(a)  Exhibits
+
+     The following exhibits are filed with this Form 10-KSB or incorporated    
+herein by reference:  (Exhibit numbers correspond to numbers assigned to      
+exhibits in Item 601 of Regulation S-B)
+
+                                 Name of Exhibit
+Exhibit                                                                    Page 
+
+ 3        A copy of the Corporation's Articles of Incorporation,
+          as currently in effect, including all amendments, was
+          filed with the Company's Form 10-K for December 31, 1987.
+
+ 3        A copy of the Corporation's complete by-laws, as
+          currently in effect, was filed with the Corporation's
+          report on Form 10-Q for the quarter ended March 31, 1984.
+
+10        A copy of the "Agreement Between Corning Natural Gas
+          Corporation and Local 139", dated September 1, 1995
+          was filed with Form 10-KSB for December 31, 1995.
+                                  
+10        Consulting Agreement and Employment Contracts with
+          three executive officers were filed with the Company's
+          Form 10-K for December 31, 1987.
+
+10        A copy of the Service Agreement with CNG                     Page
+          Transmission Corporation was filed with the Company's
+          Form 10-KSB for December 31, 1993.
+
+10        A copy of the Sales Agreement with Bath Electric, Gas
+          and Water was filed with the Company's Form 10-K for
+          December 31, 1989.
+
+10        A copy of the Transportation Agreement between the Company
+          and New York State Electric and Gas Corporation was filed
+          with the Company's Form 10-KSB for December 31, 1992.                
+       
+10        A copy of the Transportation Agreement between the
+          Company and Corning Incorporated was filed with the
+          Company's Form 10-KSB for December 31, 1992.
+
+10        A copy of the Service Agreement with Columbia Gas
+          Transmission Co. was filed with the Company's
+          10-KSB for December 31, 1993.                                        
+                   
+10        A copy of the Service Agreement with Tennessee Gas
+          Pipeline Co. was filed with the Company's 10-KSB
+          for December 3, 1993.
+
+13        A copy of the Corporation's Annual Report to
+          Shareholders for 1996, is filed herewith.                     11      
+
+22        Information regarding the Company's sole subsidiary was
+          filed as Exhibit 22 with the Company's Form 10-K for
+          the period ended December 31, 1981.
+
+28        Corning Natural Gas Corporation Proxy Statement is
+          filed herewith.                                               12  
+
+99        Order from the U.S. Bankruptcy Court, Northern District            
+          of New York re:  Approval of Acquisition of Finger Lakes
+          Gas Company was filed with the Company's 10-KSB for the
+          period ended December 31, 1995.
+
+99        Order from the Public Service Commission of New York State           
+          re:  Approval of Acquisition of Finger Lakes Gas Company             
+          was filed with the Company's 10-KSB for the period ended
+          December 31, 1995.
+                                             
+(b)  Reports on Form 8-K
+
+     The Company filed no reports on Form 8-K during the three month period   
+     ended September 30, 1996.
+
+SIGNATURES
+
+     In accordance with the requirements of the Exchange Act, the registrant
+caused this report to be signed on its behalf by the undersigned, thereunto duly
+authorized.
+
+                              CORNING NATURAL GAS CORPORATION       
+                              (Registrant)
+
+
+Date  December 26, 1996       THOMAS K. BARRY                       
+                              Thomas K. Barry, Chairman of the
+                              Board, President and C.E.O.
+
+
+Date  December 26, 1996       GARY K. EARLEY                        
+                              Gary K. Earley, Treasurer
+
+    
+     In accordance with the Exchange Act, this report has been signed below by
+the following persons on behalf of the registrant and in the capacities and on
+the dates indicated.
+
+
+Date  December 26, 1996       J.E. BARRY                             
+                              J. E. Barry, Director
+
+
+Date  December 26, 1996       DONALD R. PATNODE                      
+                              Donald R. Patnode, Director
+
+
+Date  December 26, 1996       J.A. FINLEY                            
+                              J.A. Finley, Director
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-13
+<SEQUENCE>2
+<TEXT>
+
+               CORNING NATURAL GAS CORPORATION 1996 ANNUAL REPORT
+
+Report to Shareholders
+
+     A variety of circumstances and opportunities have culminated in the
+production of above average financial results for the first three quarters of
+1996 as well as for the past twelve months.  We will be discussing the first
+nine months of the year in addition to twelve month results as we have moved
+from a December 31 to a September 30 fiscal year.  This change, which will end
+our year during a mild season, actually provides a more realistic annual picture
+of the financial results of the highly seasonal business nature that is typical
+for northeastern natural gas distribution companies.  The numbers presented to
+you throughout this report are audited for the nine month period ended September
+30, 1996 but are unaudited for the nine months and twelve months ended September
+30, 1995.
+
+     FINANCIAL RESULTS - As previously stated, a number of factors combined in
+providing outstanding results for the past year.  On an individual basis, no
+particular segment of our business was outstanding except perhaps for overall
+gas deliveries.  Rather exceptionally cold weather, which produced 7.5 percent
+more degree days than the fifteen year average, did result in 779,000 Mcf more
+deliveries in the twelve months ended September 30, 1996 than the prior year.
+Consolidated earnings of $483,000 for the nine months ended September 30, 1996,
+and $795,000 for the twelve month period ended September 30, 1996 resulted in an
+increase over the prior period of 56 percent and 37 percent respectively.
+Incremental revenues derived from non-traditional sources provided as a result
+of the restructuring process referred to elsewhere in this report account for
+some of the earnings improvement.  The purchase of the Hammondsport, NY gas
+delivery system generated gross margin of $150,000 for the nine months ended
+September 30, 1996.  The physical acquisition was made without difficulty while
+sales generated were higher than projections with relatively low operating
+costs.  The Company's Appliance subsidiary also contributed significantly, once
+again, to our consolidated results. 
+
+     APPLIANCE SUBSIDIARY - The Company's wholly owned subsidiary also continued
+to improve its contributions to earnings.  For the nine months ended September
+30, 1996 the Appliance Corporation earned $132,000, an improvement of 24 percent
+over the same period of 1995.  Twelve month earnings, ended September 30, 1996,
+of $229,000 are 19 percent ahead of the prior year and amount to 29 percent of
+our 12 month consolidated results.  The Company operates three retail stores
+including one in Elmira, Bath and Corning.  We recently moved the Elmira store
+into a complex of shops adjacent to the new, impressive Wegman's supermarket
+near downtown Elmira.  Eleven burning natural gas fireplace displays were
+installed at this store as its primary feature.  We expect to vastly improve the
+traffic at this new outlet which opened October 1, 1996 as the Wegmans plaza is
+projected to eventually attract up to 50,000 customers per week.  Both the
+Corning and Bath outlets were remerchandised at the same time to capitalize on
+the opening of the Elmira unit.  We look forward to a promising future for the
+Appliance Subsidiary as its growth and contribution to consolidated results play
+an ever increasing role.
+
+     ACQUISITION - The purchase of the Hammondsport, NY, distribution system
+(previously operated by the Finger Lakes Gas Company) has exceeded forecast
+expectations.  We have achieved moderate results in adding new customers on the
+system which was approximately sixty percent saturated when we purchased it in
+bankruptcy court.  However, projected results were enhanced when the single
+largest customer was placed on stream very shortly after we purchased the system
+in September, 1995.  This customer, Mercury Aircraft, Inc., accounts for a
+significant proportion of system deliveries in Hammondsport.  The additional
+revenues generated by this customer have enabled us to provide continued service
+throughout Hammondsport without any rate adjustments.  While the rates that we
+deliver natural gas to customers in Hammondsport are similar to those in
+Corning, there has been no rate increase on this system since its original
+construction in 1990.
+
+     MAJOR CUSTOMERS - The Company has continued its relationships with its
+primary industrial and wholesale customers.  We provide primarily gas
+transportation services to our wholesale accounts in Elmira and Bath which
+amounted to 37 percent of total throughput for the year ending September 30,
+1996 which represents an increase of 13 percent.  We also maintain excellent
+relationships with our large industrial users, Corning Incorporated, Pollio
+Dairy and Dresser Rand.  We recently executed a contract with Corning
+Incorporated wherein the Company will provide the main plant facilities (intown)
+with all of their requirements either through sales, transportation, and/or
+storage services for the next three years with potential renewals extending to
+five years.  Such contracts and relationships help us to stabilize our overall
+throughput and earnings into the  future.  The Company currently transports
+nearly one hundred percent of the natural gas used by all of its industrial and
+wholesale customers and many of its large commercial and municipal accounts.
+Transportation services now account for approximately two thirds of our total
+gas deliveries.
+
+     RATES - The Company had filed a rate application with the NYSPSC in the
+amount of $368,000 on June 8, 1995 with a requested implementation date of
+January 1, 1996.  Unfortunately, a series of delays and adjustments resulted in
+a final approval of only $124,000 which did not become effective until September
+1, 1996.  Thus, this rate adjustment has almost no impact upon earnings as
+stated in this report.  We have managed to keep control of our overhead,
+particularly when considering that the prior rate increase, which was effective
+in November, 1993, amounted to only $88,000.  Therefore, our rates have only
+increased a total of $212,000 during the past three years which represents an
+increase of only 1.5% to the average residential customer.  Further, any
+additional potential increases in our rates will not take place before 1998.
+
+     Another adjustment that affects rates is that the Company chose, in 1992,
+to protect its customers and its shareholders from exceptional swings in the
+weather by instituting the weather normalization into the billing factor.
+Thus, when the winter is colder than average, the Company reduces its billing
+factor to residential and commercial customers thereby minimizing excess
+earnings or losses as a result of warmer or colder than normal weather.
+During the twelve months ended September 30, 1996, the Company returned $201,000
+in the form of reduced rates to its retail and commercial customers as a result
+of colder than normal weather.  
+
+     Additionally, we previously stated that we were successful in deriving
+revenues from non-traditional sources.  The marketing of excess pipeline
+capacity on the system benefits both the Company and its customers.  Since the
+Company retains only fifteen percent of its capacity assignment sales, our
+customers are the beneficiaries of the other eighty-five percent of such sales.
+Over the past twelve months we have returned $1,030,000 to our customers through
+lower rates as a direct result of these incremental revenues.
+
+     OPERATING EXPENSES AND TAXES - On the positive side, our ability to
+maintain a steady rate structure and control our operating expenses helps to
+keep gas at affordable prices.  For the twelve months ended September 30, 1996,
+our total operating expenses, including depreciation, actually declined by
+$78,000 or 2 percent.  Unfortunately, general and federal income taxes rose by
+$450,000 or 27 percent during this same period.
+
+     During the past year, our Company collected over $1.8 million in general
+taxes from our customers.  Most of these taxes were made up of the much
+discussed gross revenue tax (GRT) which is a tax on all revenues charged by
+utilities within the state.  Other industries in the state are taxed only upon
+their earnings.  There has been a great deal of discussion across the state
+regarding the need to reduce energy costs, particularly electric rates, if we
+are to attract new industries or even maintain existing industry.  New York
+State utility customers pay twice the national average in taxes.  Everyone
+recognizes the need to replace the GRT with a more realistic taxing system, but
+nothing has yet been accomplished at the state capital in this regard.  Governor
+George Pataki's administration has reduced personal income taxes and eliminated
+the surtax on businesses and is now discussing a gradual phase-down of the GRT.
+The Governor was also successful in reforming workman's compensation laws which
+has resulted in a 17 percent savings in this particular expense to our Company. 
+
+     CAPITAL ADDITIONS - The majority of our capital additions are made to
+upgrade the pipeline distribution system and to add new customers.  During the
+past nine months we replaced 118   service lines, 3,570 feet of mains and added
+50 new services.  We have had an ongoing program to replace all outdoor meters
+with temperature compensated meters which provides for more accurate measurement
+of gas at weather extremes, particularly important during cold weather.  This
+program will be completed in 1997.  Nearly 100 percent of all the pipelines and
+service lines we have installed since 1970 have been with plastic.  We continue
+to carefully monitor the older steel distribution system while installing
+corrosion control equipment in the most crucial areas.  In the past three years
+we have installed corrosion protection equipment on an additional 29 miles of
+mains.  We dedicate three full-time employees for leak detection and corrosion
+control.  Each year we also expend a portion of the budget to upgrade the
+rolling stock and expand computer utilization.  Our fleet of 30 service and
+installation vans, crew trucks, backhoes, special equipment trucks and
+automobiles are in excellent condition and replacements are made annually based
+upon usage and condition.
+
+     SUMMARY - The local economy remains somewhat stagnant as Corning
+Incorporated and Dresser Rand have downsized and done some restructuring over
+the past several years.  Corning Natural Gas has, however, made advances through
+its purchase of the Hammondsport gas system, sales of pipeline capacity,
+expansion of appliance sales in Elmira and through internal cost controls.
+Having just ended an excellent year, while positioning ourselves to provide a
+variety of services to our customers at highly competitive rates, we feel quite
+positive about the future of our industry and our Company.  Twelve month
+earnings of $1.74 per share have positioned us to pay an annualized dividend of
+$1.28 per share.  The dividend to be paid on February 20, 1997 is the Company's
+176th consecutive dividend.  These results could not have been possible without
+the commitment of a group of loyal and dedicated employees who strive to upgrade
+the quality of their work and expand the services provided to our customers.  We
+sincerely thank these employees along with a supportive Board of Directors and
+all of the customers that help to make us a service driven organization.
+
+                              For the Board of Directors,
+
+                              Thomas K. Barry
+                              Chairman of the Board, President & CEO
+
+MANAGEMENT'S DISCUSSION AND ANALYSIS OF
+FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+
+RESULTS OF OPERATIONS
+
+     During 1996 the Company changed its fiscal year end from December 31 to
+September 30.  The Company believes that the September 30 fiscal year end better
+represents its natural business cycle.  The adjacent table compares the results
+for the nine months ended September 30, 1996 to the unaudited results for the
+nine months ended September 30, 1995.  The discussion of operating results will
+focus on these periods.
+
+EARNINGS
+
+     Net income in 1996 was $483,000, or $1.05 a share, compared to net income
+of $309,000, or $.67 a share in 1995.  The earnings improvement results from the
+acquisition of the former Finger Lakes Gas Company which contributed $150,000 to
+gross margin (revenue less gas cost), and from revenues derived from non-
+traditional sources.  Recent industry restructuring allows the Company to
+benefit from such non-traditional sources such as the assignment of unused
+pipeline capacity, the sale of natural gas to both on-system and off-system
+customers, and the assignment of storage capacity.
+
+     Additionally, unregulated subsidiary earnings improved 24 percent to
+$131,900 in 1996, as discussed below.
+  
+OPERATING REVENUE
+
+     Operating revenue of $15,100,000 increased 24 percent in 1996 due primarily
+to an increase in gas cost billings.  The Company's billing rates are adjusted
+to reflect changes in gas costs (which include current cost as well as prior
+period reconciliation amounts), keeping the effect of such changes earnings
+neutral to the Company.  The acquisition of the former Finger Lakes Gas Company
+produced an additional $603,000 in revenue for the nine months ended September
+30, 1996.
+
+     Total gas delivered to customers increased 10 percent to 6,033,000 Mcf in
+1996.  The acquisition of the former Finger Lakes Gas Company added 111,000 Mcf
+to the Company's throughput in 1996.  Colder weather also increased throughput
+in 1996 but the Company's weather normalization billing mechanism serves to
+neutralize the effect of weather.  Accordingly, the Company billed $203,000 less
+to customers through this mechanism in 1996, as expected and designed.
+
+                                              Nine Months Ended
+                                                         9/30/95
+                                             9/30/96    Unaudited
+
+Operating revenue                        $15,082,135   12,119,422
+
+Operating expenses and taxes:
+Natural gas purchased                       9,538,759   7,093,144
+Operating and maintenance                   2,613,231   2,519,090
+Taxes other than federal income taxes       1,428,476   1,198,240
+Depreciation                                  356,400     340,012
+Federal income taxes                          185,570     155,954    
+Total operating expenses and taxes         14,122,436  11,306,440         
+Income from utility operations                959,699     812,982
+Income from unregulated operations:           131,935     106,038
+Other income                                   10,447      15,679
+     Income before interest expense         1,102,081     934,699
+Interest expense                              618,695     625,658
+          Net income                      $   483,386 $   309,041
+Earnings per common share                 $      1.05 $       .67
+
+OPERATING EXPENSE   
+
+     The Company's most significant element of cost is purchased natural gas.
+Purchased gas expense amounted to 68 percent of total operating expenses in 1996
+and 63 percent of the total in 1995.  Purchased gas expense increased 34% in
+1996 due to increased deliveries noted above, higher prior period gas cost
+reconciliation amounts and higher supplier rates.  The Company's average cost of
+gas per Mcf was $4.47 in 1996 and $4.21 in 1995.
+
+     Taxes other than income taxes increased $230,000 or 19% primarily due to an
+increase in state and local taxes levied on gross revenue.  Other operating and
+maintenance expenses did not change significantly. 
+
+UNREGULATED OPERATIONS
+
+     The Appliance Corporation subsidiary earnings improved 24 percent to
+$131,900 in 1996.  Increased rental revenues and an improvement in profit
+margins resulting from strategic pricing contributed to the boost in subsidiary
+earnings. 
+
+LIQUIDITY AND CAPITAL RESOURCES
+
+     Capital expenditures amounting to $682,500 in 1996 were financed with
+internally generated funds and short-term borrowing.
+
+     Our change in fiscal year end created several significant variations in
+balance sheet amounts from December 31, 1995 including accounts receivable,
+unrecovered or refundable gas costs and notes payable, as the result of much
+milder weather at September 30.  Transition costs deferred and the related
+liability decreased significantly as this liability is almost entirely paid by
+the Company and collected from its customers.   Gas stored underground at
+September 30, 1996 increased significantly from December 31, 1995 due to the
+normal operation of storage.  The Company injects gas into storage during the
+summer months and withdraws it during the winter months.
+
+     The Company has unsecured bank lines of credit totaling $5,500,000, the
+terms of which are disclosed in note 6 to the financial statements.  The Company
+continues to explore opportunities to refinance current debt.  Management
+believes that the combination of currently available credit facilities and
+internally generated funds will provide sufficient financial resources for 1997.
+
+REGULATORY MATTERS
+
+     The Company implemented a rate increase effective September 1, 1996 in the
+amount of $124,000.  However, the increase had no material effect on the fiscal
+period ended September 30, 1996.  In addition, the Company will continue its
+weather normalization clause whereby customer bills are adjusted to reflect
+deviations from normal weather patterns.
+
+INDUSTRY RESTRUCTURING
+
+     1996 saw the culmination of efforts which began in 1994 to provide the
+perceived benefits of competition in the natural gas industry to all classes of
+customers, irrespective of size.  Tariffs were filed and approved by the Public
+Service Commission (PSC) to give each and every customer the opportunity to
+participate in the competitive environment by purchasing gas in the open market
+rather than from Corning Natural Gas and by utilizing the storage facilities
+leased by the Company.
+ 
+     The Company has also been provided with additional opportunities and
+responsibilities through non-traditional sources.  Opportunities exist for the
+Company to enhance earnings by assigning unneeded upstream pipeline capacity to
+others and by marketing gas to both on-system and off-system customers.  In each
+case the Company is allowed to retain 15% of the margin, passing 85% back to
+firm customers through rates.  Efforts to assign unneeded capacity have been
+quite successful.  Competition in the gas marketing business, however, is very
+keen, with thin margins.  
+
+     It will be some time before the success of the restructuring efforts can be
+effectively gauged.  For a variety of reasons transportation to small volume
+customers has been slow to catch on, both on Corning's system and throughout the
+state.  At meetings held with customers and marketers, each group expressed
+interest in participating, however, it was generally agreed that the transition
+will be gradual.  Within the industry there are a variety of directions being
+taken by individual companies, with some companies taking the extreme position
+of exiting the merchant function completely and providing only transportation
+service.
+
+     This Company has been involved in the entire regulatory process leading up
+to the current scheme and will continue to keep abreast of changes which may
+evolve.  Since this initiative represents the most sweeping change ever to
+impact the industry, it is logical that more change will follow.  Management is
+dedicated to not only complying with the regulatory requirements but looking for
+every opportunity to prosper in the new environment.
+
+    
+
+                                                                             
+                         CORNING NATURAL GAS CORPORATION
+                                 AND SUBSIDIARY
+                   Notes to Consolidated Financial Statements
+                  For The Nine Months Ended September 30, 1996
+                      And The Year Ended December 31, 1995
+
+(1)  Summary of Significant Accounting Policies
+
+     Corning Natural Gas Corporation (the Company) is a gas distribution company
+     providing gas on a commodity and transportation basis to its customers in
+     the Southern Tier of New York State.  The Company follows the Uniform
+     System of Accounts prescribed by the Public Service Commission of the State
+     of New York (PSC) which has jurisdiction over and sets rates for New York
+     State gas distribution companies.  The Company's regulated operations meet
+     the criteria and accordingly, follow the accounting and reporting of SFAS
+     71 "Accounting for the Effects of Certain Types of Regulation."  The
+     Company's financial statements contain the use of estimates and assumptions
+     for reporting certain assets, liabilities, revenue and expenses and actual
+     results could differ from the estimates.  The more significant accounting
+     policies are summarized below.
+
+     Principles of Consolidation and Presentation
+
+     The consolidated financial statements include the Company and its wholly
+     owned subsidiary, The Corning Natural Gas Appliance Corporation (Appliance
+     Corporation).  All significant intercompany accounts and transactions have
+     been eliminated in consolidation.  The results of the Appliance Corporation
+     are reported separately as unregulated operations in the consolidated
+     statements of income and retained earnings.  Shared expenses are allocated
+     to the Appliance Corporation.  It is the Company's policy to reclassify
+     amounts in the prior year's financial statements to conform with the
+     current year's presentation.
+
+     Utility Plant and Rented Gas Appliances
+
+     Utility plant is stated at the historical cost of construction.  These
+     costs include payroll, fringe benefits, materials and supplies and
+     transportation costs.  The Company charges normal repairs to maintenance
+     expense.  The Appliance Corporation capitalizes the cost of appliances and
+     the original installation to rented gas appliances.  Subsequent repairs are
+     expensed.
+
+     Depreciation
+
+     The Company provides for depreciation for accounting purposes using a
+     composite straight-line method based on the estimated economic lives of
+     property.  The depreciation rate used for utility plant, expressed as an
+     annual percentage of depreciable property, was 3.3% in 1996 and 1995.  At
+     the time utility properties are retired, the original cost plus costs of
+     removal less salvage, are charged to accumulated depreciation.  Rented gas
+     appliances are depreciated on a straight-line basis ranging from 10% to 20%
+     per year.
+
+     Revenue and Natural Gas Purchased
+
+     The Company records revenue from residential and commercial customers based
+     on meters read on a cycle basis throughout each month, while certain large
+     industrial and utility customers' meters are read through the end of each
+     month.  The Company secured a weather normalization clause in the last
+     major filing as protection against severe weather fluctuations.  This
+     affects space heating customers and is activated when degree days are 2%
+     greater or less than a 30 year average.  Hence, the effect on revenue
+     fluctuations in weather related gas sales is somewhat neutralized.  Gas
+     purchases are recorded based on readings of suppliers' meters as of the end
+     of the month.  The Company's rate tariffs include a Gas Adjustment Clause
+     (GAC) which adjusts rates to reflect changes in gas costs from levels
+     established in the rate setting process.  In order to match such costs and
+     revenue, the PSC has provided for an annual reconciliation of recoverable
+     GAC costs with applicable revenue billed.  Any excess or deficiency in GAC
+     revenue billed is deferred and the balance at the reconciliation date is
+     either refunded or recovered from the customers over a subsequent 12-month
+     period.
+
+     Federal Income Tax
+
+     The Company uses the asset and liability method to establish deferred tax
+     assets and liabilities for the temporary differences between the financial
+     reporting basis and the tax basis of the Company's assets and liabilities
+     at enacted tax rates expected to be in effect when such amounts are
+     realized or settled.  In addition, such deferred tax assets and liabilities
+     will be adjusted for the effects of enacted changes in tax laws and rates.
+
+(2)  Acquisition of Finger Lakes Gas
+
+     On September 20, 1995 the Company acquired the assets associated with the
+     distribution system of Finger Lakes Gas Company for $560,000.  The assets
+     were purchased at public auction held in Federal Bankruptcy Court.  The
+     acquisition was accounted for as a purchase, accordingly, the assets were
+     added to utility plant at their purchase price.  The former Finger Lakes
+     Gas Company's operations, which did not have a significant impact on 1995,
+     are included in the consolidated results from the acquisition date.  Gross
+     margin (revenue less gas cost) generated was $150,000 for the nine months
+     ended September 30, 1996 and $50,000 for the twelve months ended December
+     31, 1995.
+
+(3)  Information About Operating Segments
+     Selected financial information for the Company's identifiable operating
+     segments follows:
+    
+                Identifiable Assets        Capital Expenditures   Depreciation 
+                1996           1995        1996            1995 1996        1995
+
+     Reg. Oper.  $18,382,249  20,088,094   475,121  1,272,123   356,400  454,637
+     Unreg. Oper.  2,175,313   2,131,621   207,355    241,073   174,300  232,219
+                 $20,557,562  22,219,715   682,476  1,513,196   530,730  686,856
+                  ==========  ==========   =======  =========   =======  =======
+
+     The Company's regulated operations have no significant assets which are
+     excluded from recoverability under rate filings.
+
+(4)  Regulatory Matters
+
+     Certain costs are deferred and recognized as expenses when they are
+     reflected in rates and recovered from customers as permitted by SFAS 71.
+     These costs are shown as Regulatory Assets.  Such costs arise from the
+     traditional cost-of-service rate setting approach where all prudently
+     incurred costs are recoverable through rates.  Deferral of these costs is
+     appropriate while the Company's rates are regulated under a cost-of-service
+     approach. 
+    
+     In a purely competitive environment, such costs might not have been
+     incurred or deferred.  Accordingly, if the Company's rate setting were
+     changed from a cost-of-service approach and it was no longer allowed to
+     defer these costs under SFAS 71, certain of these assets may not be fully
+     recoverable.  However, the Company cannot predict the impact, if any, of
+     competition and continues to operate in a cost-of-service based regulatory
+     environment and therefore believes that accounting under SFAS 71 is still
+     appropriate.
+
+     Below is a summarization of the Regulatory Assets as of September 30, 1996
+     and December 31, 1995:
+
+                                                        1996            1995
+     Unrecovered gas costs                          $       ---       1,157,382
+     Deferred transition costs                            29,093        414,504
+     Deferred debits - accounting for income taxes     1,016,661      1,016,661
+     Other deferred debits                               555,716        275,719
+          Total-Regulatory Assets                   $  1,601,470      2,864,266
+                                                       =========      =========
+
+     Unrecovered gas costs - These costs are recoverable over future years and
+     arise from an annual reconciliation of certain gas revenue and costs (as
+     described in Note 1).
+
+     Deferred transition costs - The Company is currently collecting transition
+     costs through the GAC as authorized by the PSC, but final policy may
+     require collection from transportation customers as well.
+
+     Deferred debits - accounting for income taxes - This amount represents the
+     expected future recovery from ratepayers of the tax consequences of
+     temporary differences between the financial reporting basis and tax basis
+     of assets and liabilities.
+
+     Other deferred debits - The majority of this amount represents timing
+     differences between the Company's rate case filings and financial reporting
+     period for pension and postretirement benefit accounting.
+
+     The Company expects that its regulatory assets will be fully recoverable
+     from customers.
+
+(5)  Long-Term Debt
+
+     A summary of long-term debt as of September 30, 1996 and December 31, 1995
+     follows:
+
+                                                            1996      1995
+
+     First Mortgage bonds-10% series due 2008         $1,700,000   $1,700,000
+     First mortgage bonds- 8 1/4% series all due 2018  3,100,000    3,100,000
+     Unsecured senior note-9.83% due serially 2016     1,600,000    1,600,000
+          Total long-term debt                         6,400,000    6,400,000
+          Less current installments                      100,000      100,000
+          Long-term debt less
+               current installments                   $6,300,000   $6,300,000
+                                                      ==========   ==========
+
+     The Company will redeem long-term debt as follows:
+
+        10% First Mortgage Bonds - $100,000 on December 15th annually with a
+        final $500,000 payment due in 2008.
+
+        9.83% Senior Note - $100,000 annually 2007 through 2015 with $700,000 
+        due 2016.
+
+     Under the Company's bond indenture, retained earnings as of September 30,
+     1996 in the amount of $796,654 are restricted as to the payment of
+     dividends.  The first mortgage bonds are secured by substantially all
+     utility plant.  
+
+(6)  Lines of Credit
+
+     The Company has lines of credit with local banks to borrow up to $5,500,000
+     on a short-term basis.  Borrowings outstanding under these lines were
+     $2,725,000 at September 30, 1996 and $3,815,000 at December 31, 1995.  The
+     lines of credit are unsecured and payable on demand with interest at the
+     prime rate (8.25% at September 30, 1996) less 1/8 to 1/2%.
+
+(7)  Federal Income Taxes
+
+     Federal income tax expense (benefit) recorded in the accompanying
+     consolidated statements of income and retained earnings is as follows:
+
+                                                    1996         1995
+
+     Utility Operations:
+     Current                                     $ 392,304      117,403
+     Deferred                                     (196,063)     124,746
+     Investment Tax Credits                        (10,671)     (10,671)
+                                                   185,570      231,478 
+
+     Unregulated Operations:
+     Current                                        97,095       99,966
+     Deferred                                        (127)        6,630
+                                                    96,968      106,596
+          Total federal income tax expenses     $  282,538      338,074
+                                                  ========     ========
+
+     Actual federal income tax expense differs from the expected federal income
+     tax expense (computed by applying the federal corporate tax rate of 34% to
+     income before federal income tax expense) as follows:
+
+                                                     1996        1995
+
+     Expected tax expense                       $ 260,414       325,993
+     Investment tax credits                       (10,671)      (10,671)
+     Other, net                                    32,795        22,752
+                                                $ 282,538       338,074
+                                                  =======       =======
+
+     The tax effects of temporary differences that result in deferred tax assets
+     and deferred tax liabilities at September 30, 1996 and December 31, 1995
+     are as follows:
+
+                                                    1996         1995
+
+     Deferred tax assets:
+          Alternative minimum tax carry fwrd  $        0         50,000
+          Unbilled revenue                        29,000        105,000
+          Supplemental pension reserve           151,000        126,000
+          Postretirement benefit obligations     106,000         83,000
+          Allowance for uncollectible accounts    33,000         34,000
+          Other                                   45,000         56,000
+               Total gross deferred tax assets   364,000        454,000
+                                                 =======        =======
+
+     Deferred tax liabilities:
+          Property, plant and equipment,
+            principally due to differences
+            in depreciation                   $2,075,000      2,025,000
+          Pension benefit obligations            294,000        209,000
+          Deficiency of GAC revenue billed        80,000        394,000
+          FERC Order 636 transition costs         10,000        141,000
+          Other                                  158,213        134,403
+          Total del. income tax liabilities    2,617,213      2,903,403
+          Net deferred income tax liability   $2,253,213      2,449,403
+                                               =========      =========
+
+     There was no change in the valuation allowance for deferred tax assets
+     during 1996 and 1995.
+
+(8)  Pension Plan
+
+     The Company has defined pension plans covering substantially all of its
+     employees.  The benefits are based on years of service and the employee's
+     highest average compensation during a specified period.  The Company makes
+     annual contributions to the plans equal to amounts determined in accordance
+     with the funding requirements of the Employee Retirement Security Act of
+     1974.  Contributions are intended to provide not only for benefits
+     attributed for service to date, but also for those expected to be earned in
+     the future.  The following table sets forth the plan's funded status and
+     amounts recognized on the Company's balance sheet under Statement of
+     Financial Accounting Standards No. 87, "Employers' Accounting for Pensions"
+     (SFAS 87) at September 30, 1996 and December 31, 1995.
+
+                                                         1996      1995
+     Actuarial present value of accumulated benefit
+       obligation (including vested benefits of
+       $5,154,703 in 1996 and $4,892,382 in 1995)   $5,268,331    4,985,900
+                                                     =========   ==========
+     Plan assets at fair value, primarily
+       listed stocks and bonds                       7,411,741    6,946,629
+     Projected benefit obligation                    6,517,723    6,314,458
+          Excess of plan assets over projected
+            benefit obligation                         894,018      632,171
+     Unrecognized net gain being recognized over
+        10 years in accordance with PSC policy        (676,625)    (573,499)
+     Unrecognized prior service cost                   801,578      861,053
+     Unrecognized net transition asset at
+        January 1, 1989 being recognized
+        over 20 years                                 (444,486)    (474,117)
+          Prepaid pension cost recognized on the
+            balance sheet                           $  574,485      445,608
+                                                     =========   ==========
+
+     The components of net periodic pension expense under SFAS 87 for the nine
+     months ended September 30, 1996 and the year ended December 31, 1995 are as
+     follows:
+
+                                                         1996        1995
+
+     Service cost benefits earned during the period  $  154,713     168,062
+     Interest on projected benefit obligation           335,492     384,451
+     Actual return on plan assets                      (572,699) (1,495,481)
+     Net amortization and deferrals                     116,004   1,034,354
+          Net periodic pension expense               $   33,510      91,386 
+
+     For ratemaking purposes, pension expense represents the amount approved by
+     the PSC in the Company's most recently approved rate case.  Pension benefit
+     for ratemaking purposes was approximately $45,000 and $60,000 during the
+     nine months ended September 30, 1996 and the year ended December 31, 1995,
+     respectively.  The difference between the pension expense (benefit) for
+     ratemaking purposes and the amount computed under SFAS 87 has been deferred
+     and is not included in the prepaid pension cost noted above.
+
+     The assumptions used to determine pension expense obligations and pension
+     costs for 1995 and 1996 were 7.25% for weighted average discount rate, 5.0%
+     for rate of compensation increase, and 8.0% for weighted average rate of
+     return on plan assets.
+
+(9)  Major Customers
+
+     The Company has three major customers, Corning Incorporated, New York State
+     Electric & Gas (NYSEG) and Bath Electric Gas & Water Systems (BEGWS).  The
+     loss of any of these customers could have a significant impact on the
+     Company's financial results.  In addition, a significant portion of
+     capacity assignment revenue is generated from Corning Inc.  Total revenue
+     and deliveries to these customers were as follows:
+
+                            Mcf         % of                     % of
+     Corning Inc.        Deliveries     Total          Revenue   Total
+
+     9 Mo. ended 9/30/96  1,580,243       26         $   549,527    4
+     Year ended 12/31/95  2,124,993       27         $   688,907    4
+
+     NYSEG
+
+     9 Mo. ended 9/30/96  1,575,679       26         $   197,586    1
+     Year ended 12/31/95  2,041,628       27         $   259,659    2
+
+     BEGWS
+     9 Mo. ended 9/30/96    544,200        9         $ 1,503,239   10
+     Year ended 12/31/95    784,069       10         $ 2,075,703   12
+
+
+(10) Postretirement Employee Benefits
+    
+     In addition to the Company's defined benefit pension plans, the
+     Company offers postretirement benefits to its employees who meet
+     certain age and service criteria.  Currently, the retirees under age
+     65 pay 60% of their health care premium until Medicare benefits
+     commence at age 65.  After age 65, Medicare supplemental coverage is
+     offered with Company payment of the premium.  For participants who
+     retire on or after September 2, 1992, the Company cost, as stated
+     above, shall not exceed $150 per month.  In addition, the Company
+     offers limited life insurance coverage to active employees and
+     retirees.  The postretirement benefit plan is not funded.
+     The Company accrues the cost of providing postretirement benefits,
+     including medical and life insurance coverage, during the active
+     service period of the employee.  The following table presents the
+     Company's postretirement benefit plan's status reconciled with amounts
+     recognized in the Company's consolidated balance sheets under
+     Statement of Financial Accounting Standard No. 106, Employers'
+     Accounting for Postretirement Benefits Other Than Pensions (SFAS 106)
+     at September 30, 1996 and December 31, 1995:
+
+     Actuarial present value of accumulated postretirement benefit
+     obligation:
+
+                                                   1996           1995
+
+          Current retirees                    $   (670,000)     (708,000) 
+          Future retirees                         (347,000)     (323,000)
+                                              $ (1,017,000)   (1,031,000)
+
+          Unrecognized transition obligation
+             at January 1, 1993 being
+             recognized over 20 years             973,000     1,016,000
+          Unrecognized net gain being
+             recognized over 10 years in
+             accordance with PSC policy          (258,000)     (253,000)
+          Accrued postretirement benefit cost
+            recognized on the balance sheet  $   (302,000)     (268,000)
+                                                ===========   ===========
+
+     The PSC has allowed the Company to recover incremental SFAS 106 cost
+     through rates on a current basis.  Due to the timing differences
+     between the Company's rate case filings and financial reporting
+     period, a regulatory asset has been recognized in the amount of
+     approximately $30,000 to be recovered from ratepayers in the future.
+
+     Net periodic postretirement benefit cost for the nine months ended
+     September 30, 1996 and the year ended December 31, 1995 under SFAS 106
+     includes the following components:
+
+                                                   1996               1995
+    
+          Service cost                          $ 10,000             13,000
+          Interest cost                           53,000             75,000
+          Net amortization and deferrals          22,000             49,000
+          Net periodic postretirement
+             benefit cost                      $  85,000            137,000
+                                                 =======            =======
+
+     For measurement purposes, a 9% annual rate of increase in the per
+     capita cost of covered benefits (health care cost trend rate) was
+     assumed for 1997.  The rate is assumed to decrease gradually to 6% by
+     the year 2012 and remain at that level thereafter.  A 1% increase in
+     the actual health care cost rate would result in approximately a 4.4%
+     increase in the service and interest cost components to annual net
+     periodic postretirement benefit cost and a 4.3% increase in the
+     accumulated postretirement benefit obligation.  The weighted average
+     discount rate used in determining the actuarial present value of the
+     accumulated postretirement benefit obligation was 7.52%.
+    
+(11) Commitments
+
+     The Company has agreements with six pipeline companies providing for
+     pipeline capacity for terms that extend through 2001.  These
+     agreements require the payment of a demand charge for contracted
+     capacity at FERC approved rates.  Purchased gas costs incurred under
+     these pipeline capacity agreements during 1996 and 1995 amounted to
+     $3,139,258 and $3,805,687 respectively.  The Company also has short-
+     term gas purchase agreements averaging three months in length, with
+     prices tied to various indices.  The Company does not anticipate these
+     agreements to be in excess of normal capacity requirements.
+
+(12) Disclosures About Fair Value Of Financial Instruments
+
+     The following methods and assumptions were used to estimate the fair
+     value of each class of financial instruments:  Notes Payable - The
+     carrying amount approximates fair value because of the short-term
+     nature of the borrowings.  Long-term debt - The fair value of the
+     Company's long-term debt has been estimated by discounting the future
+     principal and interest cash flows using an interest rate for long-term
+     debt with similar terms, maturities, and credit ratings.  The
+     estimated fair value of the Company's financial instruments are as
+     follows at September 30, 1996.
+
+                              Carrying Amount          Fair Value
+     Notes Payable              $ 2,725,000             2,725,000
+     Long-term debt             $ 6,400,000             7,200,000
+
+                       INDEPENDENT AUDITORS' REPORT
+
+
+The Board of Directors and Stockholders
+Corning Natural Gas Corporation
+
+We have audited the accompanying consolidated balance sheets of Corning
+Natural Gas Corporation and Subsidiary (the Company) as of September 30,
+1996 and December 31, 1995, and the related consolidated statements of
+income and retained earnings, and cash flows for the nine months ended
+September 30, 1996 and the year ended December 31, 1995.  These
+consolidated financial statements are the responsibility of the Company's
+management.  Our responsibility is to express an opinion on these
+consolidated financial statements based on our audits.
+
+We conducted our audits in accordance with generally accepted auditing
+standards.  Those standards require that we plan and perform the audits to
+obtain reasonable assurance about whether the financial statements are free
+of material misstatement.  An audit includes examining, on a test basis,
+evidence supporting the amounts and disclosures in the financial
+statements.  An audit also includes assessing the accounting principles
+used and significant estimates made by management, as well as evaluating
+the overall financial statement presentation.  We believe that our audits
+provide a reasonable basis for our opinion.
+
+In our opinion, the consolidated financial statements referred to above
+present fairly, in all material respects, the financial position of Corning
+Natural Gas Corporation and Subsidiary at September 30, 1996 and December
+31, 1995, and the results of their operations and their cash flows for the
+nine months ended September 30, 1996 and the year ended December 31, 1995
+in conformity with generally accepted accounting principles.
+
+
+
+KPMG Peat Marwick LLP
+
+Rochester, New York
+November 8, 1996
+
+                              CORNING NATURAL GAS CORPORATION             
+                                      AND SUBSIDIARY                 
+                                Consolidated Balance Sheets          
+                        September 30, 1996 and December 31, 1995
+                                                 
+      Assets                                           1996         1995
+Property, plant and equipment, at original cost:                
+  Utility                                         $ 19,616,872   19,309,418
+ Non-utility - principally rented gas appliances     2,451,396    2,366,834
+                                                    22,068,268   21,676,252
+     Less accumulated depreciation                  (7,846,128) (7,519,218)
+                                                    14,222,140   14,157,034
+
+Current assets:                                       
+     Cash                                              180,595      142,905
+     Accounts receivable, less allowance for
+        uncollectible accounts of $97,000
+        in 1996 and $117,000 in 1995                   789,677    2,225,206
+     Gas stored underground, at average cost         1,347,099      838,317
+     Gas and appliance inventories, at average
+        cost or market                                 653,030      600,527
+     Prepaid income taxes                              334,485            0
+     Deferred income tax assets                        107,000      278,000
+     Prepaid expenses                                  432,163      352,363
+                                                     3,844,049    4,437,318
+
+Deferred charges:                                     
+     Long-term debt issuance costs,
+        net of amortization                            243,401      252,718
+     Deferred income tax assets                        257,000      176,000
+     Urecovered gas costs                                    0    1,157,382
+     Deferred transition costs                          29,093      414,504
+     Deferred debits - accounting for income taxes   1,016,661    1,016,661
+     Other deferred debits                             555,716      275,719
+                                                     2,101,871    3,292,984
+     Other assets                                      389,502      332,379
+                                                  $ 20,557,562 $ 22,219,715
+                                                    ==========   ==========
+     Capitalization and Liabilities                             
+     ------------------------------                             
+Common stock, $5.00 par value per share. 
+   Authorized 1,000,000 shares; issued
+   and outstanding 460,000 shares                 $ 2,300,000  $  2,300,000
+Additional paid-in capital                            653,346       653,346
+Retained earnings                                   2,194,382     2,145,697
+                                                    5,147,728     5,099,043
+Long-term debt, less current installments           6,300,000     6,300,000
+     Total capitalization                          11,447,728    11,399,043
+
+
+Current liabilities:                                  
+     Current installments of long-term debt           100,000      100,000
+     Notes payable                                  2,275,000    3,815,000
+     Accounts payable                               1,146,190    1,206,134
+     Transition cost liability                         29,093      414,504
+     Customers' deposits and accrued interest         735,398      599,213
+     Accrued general taxes                            141,598      107,587
+     Accrued federal income taxes                           0       91,063
+     Supplier refunds due customers                   532,009      769,606
+     Accrued expenses                                 304,332      299,659
+     Other                                             19,276       43,839
+                                                    5,732,896    7,446,605
+Deferred credits:                                     
+     Deferred income taxes liability                2,617,213    2,903,403
+     Refundable gas costs                             232,769            0
+     Other                                            526,956      470,664
+                                                    3,376,938    3,374,067
+                                                  $20,557,562  $22,219,715
+                                                  ===========  ===========
+                                                  
+
+Commitments (note 11)
+See accompanying notes to consolidated financial statements.               
+
+                     
+ CORNING NATURAL GAS CORPORATION                
+                            AND SUBSIDIARY                      
+                     Consolidated Statements of Cash Flows           
+               For The Nine Months Ended September 30, 1996
+                   And The Year Ended December 31, 1995
+                                                      
+                                                      
+                                                  1996           1995
+Cash flows from operating activities:                           
+     Net income                               $   483,386   $    620,729
+     Adjustments to reconcile net income
+        to net cash provided by operating
+        activities:                    
+               Depreciation                       530,730        686,856
+     Changes in assets and liabilities:                         
+          (Increase) decrease in:                               
+               Accounts receivable              1,435,529       (888,646)
+               Gas stored underground            (508,782)       396,451
+               Gas and appliance inventories      (52,503)      (103,255)
+               Prepaid expenses                   (79,800)         8,637
+               Unrecovered/refundable gas costs 1,390,151        326,208
+               Other deferred charges             114,731        704,068
+               Other assets                       (57,123)      (122,679)
+          Increase (decrease) in:                               
+               Accounts payable                   (59,944)       114,912
+               Accrued general taxes               34,011         19,061
+               Accrued/prepaid federal
+                  income taxes                   (425,548)       413,586
+               Supplier refunds due customers    (237,597)       (22,071)
+               Deferred federal income tax       (196,190)       131,376
+               Other liabilities and deferred
+                  credits                        (212,824)      (467,868)
+                    Net cash provided by                                  
+                    operating activities        2,158,227      1,817,365
+Cash flows from investing activities:                           
+     Capital expenditures                        (682,476)    (1,513,196)
+     Gain on disposal of property and equipment    86,640        168,351
+     Net cash used in investing activities       (595,836)    (1,344,845)
+Cash flows from financing activities:                           
+     Net borrowings (repayments) under
+        line-of-credit agreements              (1,090,000)       160,000
+     Dividends paid                              (434,701)      (572,701)
+     Repayment of long-term debt                        0       (100,000)
+          Net cash used in financing
+            activities                         (1,524,701)      (512,701)
+          Net increase (decrease) in cash          37,690        (40,181)
+Cash at beginning of period                       142,905        183,086
+Cash at end of period                         $   180,595   $    142,905
+                                              ===========   ============
+
+Supplemental disclosures of cash flow information:                        
+     Cash paid during the period for:                           
+          Interest                            $   515,132   $    844,035
+          Income taxes                        $   899,754   $    145,250
+                                                      
+                                                      
+                                                      
+See accompanying notes to consolidated financial statements.              
+
+               CORNING NATURAL GAS CORPORATION        
+                       AND SUBSIDIARY       
+          Consolidated Statements of Earnings and Retained Earnings
+               For the Nine Months Ended September 30, 1996
+                   And The Year Ended December 31, 1996
+
+
+                                              1996          1995
+Operating revenue:                               
+     Residential, commercial and industrial  12,192,896 12,962,838
+     Transportation                           2,757,286  3,497,865
+     Capacity assignment                        131,953    154,023
+          Total operating revenue            15,082,135 16,614,726
+                                  
+Operating expenses and taxes                     
+     Natural gas purchased                    9,538,759  9,871,848
+     Operating and maintenance                2,613,231  3,179,716
+     Taxes other than federal income taxes    1,428,476  1,604,574
+     Depreciation                               356,400    454,637
+     Federal income taxes                       185,570    242,149
+          Total operating expenses and taxes 14,122,436 15,352,924
+            Income from utility operations      959,699  1,261,802
+                                       
+Unregulated Operations:                          
+                                       
+Unregulated revenue:                             
+     Appliance rental                           548,718    720,437
+     Service and merchandising                  957,816  1,321,119
+     Interest Income                             15,569     11,720 
+
+          Total unregulated revenue           1,522,103  2,053,276
+                                  
+Unregulated expenses:                         1,390,168  1,849,895 
+
+     Income from unregulated operations         131,935    203,381 
+
+Other income:                                    10,447     29,356 
+
+     Income before interest expense           1,102,081  1,494,539
+Interest expense:                               618,695    873,810
+     Net income income                          483,386    620,729 
+
+Retained earnings, beginning of period        2,145,697  2,097,669
+     Less cash dividends                        434,701    572,701
+Retained earnings, end of period              2,194,382  2,145,697
+                                              =========  =========
+                                        
+                                        
+Weighted average number of shares outstanding   460,000    460,000
+Earnings per common share                          1.05       1.35
+Dividends per common share                         0.95       1.25
+                                        
+                                        
+See accompanying notes to consolidated financial statements
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-28
+<SEQUENCE>3
+<TEXT>
+
+                         Corning Natural Gas Corporation
+                              330 W. William Street
+                                   P.O. Box 58
+                            Corning, New York  14830
+
+                    NOTICE OF ANNUAL MEETING OF STOCKHOLDERS
+                    to be held on Thursday, February 13, 1997
+
+                                                             
+Corning, New York
+                                                              
+January 16, 1997
+
+To the Common Stockholders of
+Corning Natural Gas Corporation
+
+     Notice is hereby given that the Annual Meeting of
+Stockholders of Corning
+Natural Gas Corporation will be held at the office of the
+Company, 330 W.
+William Street, in the City of Corning, New York, on Thursday,
+February 13, 1997
+at 10:30 A.M., local time, for the following purposes:
+
+     (1)  To fix the number of Directors at seven and to elect a
+Board of
+          Directors for the ensuing year.
+
+     (2)  To transact such other business as may properly come
+before the
+          meeting.
+
+     The stock transfer books will not be closed, but only common
+stockholders
+of record at the close of business on January 9, 1997 will be
+entitled to vote
+at the meeting or any adjournment thereof.
+
+     You are cordially invited to attend the meeting and vote
+your shares.  In
+the event that you cannot attend, please date, sign and mail the
+enclosed proxy
+in the enclosed self-addressed envelope.  A stockholder who
+executes and returns
+a proxy in the accompanying form has the power to revoke such
+proxy at any time
+prior to the exercise thereof.
+
+                                   By Order of the Board of
+Directors
+
+
+
+                                   PHYLLIS J. GROEGER, Secretary
+
+                         CORNING NATURAL GAS CORPORATION
+                                 PROXY STATEMENT
+
+                                                         January
+16, 1997      
+               
+
+     By Whom Proxy Solicited and Solicitation Expenses.  The
+accompanying proxy
+is solicited by the Board of Directors of the Company for use at
+the Annual
+Meeting of Stockholders to be held on Thursday, February 13,
+1997.  Proxies in
+substantially the accompanying form, properly executed and
+received prior to or
+delivered at the meeting and not revoked, will be voted in
+accordance with the
+specification made.  The expense of soliciting proxies will be
+borne by the
+Company.
+
+     The approximate date upon which this proxy statement and the
+accompanying
+proxy will first be mailed to stockholders is January 16, 1997.
+
+     Right to Revoke Proxy.  Any stockholder giving the proxy
+enclosed with this
+statement has the power to revoke it at any time prior to the
+exercise thereof.
+Such revocation may be by writing (which may include a later
+dated proxy)
+received by the Office of the Secretary, Corning Natural Gas
+Corporation, 330 W.
+William Street, P.O. Box 58, Corning, New York, 14830, no later
+than February
+12, 1997 if by mail, or prior to the exercise thereof if
+delivered by hand.
+Such revocation may also be effected orally at the meeting prior
+to the exercise
+of the proxy.
+
+     Proposals of Stockholders.  Stockholders' proposals intended
+to be
+presented at the 1998 Annual Meeting of Stockholders must be
+received by the
+Office of the Secretary, Corning Natural Gas Corporation, 330 W.
+William Street,
+P.O. Box 58, Corning, New York 14830, by September 5, 1997.
+
+     Voting Securities Outstanding.  There were 460,000 shares of
+common stock
+outstanding and entitled to vote on January 9, 1997 (the "Record
+Date").  Each
+share of common stock is entitled to one vote.  Only stockholders
+of record on
+the Record Date are entitled to notice of and to vote at the
+meeting or any
+adjournment thereof.
+
+     Abstentions and broker non-votes are each included in
+calculating the
+number of shares present and voting for purposes of determining
+quorum
+requirements.  However, each is tabulated separately.
+Abstentions are counted
+in tabulating the votes cast on proposals presented to
+shareholders, whereas
+broker non-votes are not counted for purposes of determining
+whether a proposal
+has been approved.
+
+     The following table sets forth the shares of the Company's
+common stock,
+and the percent of total outstanding shares represented thereby,
+beneficially
+owned* by the nominees for director of the Company, the Chief
+Executive Officer
+of the Company, all directors and officers as a group, and all
+persons or groups
+known to the Company to beneficially own more than 5% of such
+stock.
+
+*    As used in this Proxy Statement, "beneficial ownership"
+includes direct or
+     indirect, sole or shared power to vote, or to direct the
+voting of, and/or
+     investment power to dispose of, or to direct the disposition
+of, shares of
+     the common stock of the Company.  Except as otherwise
+indicated in the
+     footnotes below, the listed beneficial owners held direct
+and sole voting
+     and investment power with respect to the stated shares.
+
+
+                                        Shares of Stock
+                                      Beneficially Owned
+                                    Directly or Indirectly       
+
+   Percent
+   Beneficial Owners               as of September 30, 1996      
+
+   of Class 
+
+  J. Edward Barry (Director)                45,999(1)            
+
+    10.0%
+  330 W. William Street
+  Corning, New York
+
+  Thomas K. Barry (Director and             14,181(2)            
+
+     3.1%
+  Chief Executive Officer)
+  330 W. William Street
+  Corning, New York
+
+  Thomas H. Bilodeau (Director)              3,788(3)            
+
+     0.8%    
+  1648 Jupiter Cove Dr., Apt. 312
+  Jupiter, Florida
+
+  Bradford J. Faxon (Director)              26,210(4)            
+
+     5.7%
+  225 Hix Bridge Road
+  Westport, Massachusetts
+
+  Jay A. Finley (Director)                  13,900(5)            
+
+     3.0%
+  27 Spring Terrace
+  Corning, New York
+
+  Liselotte R. Lull and                     45,029(6)            
+
+     9.8%
+  Robert E. Lull
+  231 Watauga Avenue
+  Corning, New York
+
+  Jack R. McCormick (Director)               1,469(7)            
+
+     0.3%
+  2560 Riverside Avenue
+  Somerset, Massachusetts
+
+  Donald R. Patnode (Director)              13,753(8)            
+
+     3.0%
+  91 Stage Harbor Road
+  Chatham, Massachusetts      
+
+  All directors and officers               122,197(9)            
+
+    26.4%
+  of the Company, twelve persons
+  as a group
+
+(1)  Includes 25,066 shares held in trust, with respect to which
+J. Edward Barry
+     has shared voting and investment power, and 20,933 shares
+beneficially
+     owned and held in trust on behalf of Virginia S. Barry, with
+respect to
+     which J. Edward Barry also has shared voting and investment
+power.
+     Percentage reflects rounding; actual percentage is less than
+10 percent.
+
+(2)  Includes indirect beneficial ownership of 1,000 shares owned
+by children of
+     Thomas K. Barry, and as to which Thomas K. Barry has shared
+voting and
+     investment power.  Also includes 1,000 shares owned by a
+daughter of Thomas
+     K. Barry, as to which shares Mr. Barry disclaims beneficial
+ownership.
+
+(3)  All shares are held in trusts and Mr. Bilodeau is a
+beneficiary or
+     contingent beneficiary of such trusts.
+
+(4)  Includes indirect beneficial ownership of 5,431 shares owned
+by children of
+     Bradford J. Faxon, and as to which Bradford J. Faxon has
+shared voting and
+     investment power.
+
+(5)  Includes indirect beneficial ownership of 6,900 shares owned
+by Gertrude C.
+     Finley, who has sole voting and investment power over such
+shares.
+
+(6)  Includes 23,378 shares owned by Liselotte R. Lull and 21,651
+shares owned
+     by Robert E. Lull.
+
+(7)  All shares are owned jointly with Madeline McCormick.
+
+(8)  Includes 1,559 shares owned by spouse, who has sole voting
+and investment
+     power over such shares.  Also includes 6,994 shares held in
+two trusts, of
+     which Donald R. Patnode is co-trustee.
+
+(9)  Aggregate record or imputed beneficial ownership, with sole
+or shared
+     voting or investment power.
+
+     Election of Directors.  (Proposal No. 1)  It is the
+intention of the
+persons named in the enclosed proxy to vote the shares
+represented by the proxy
+to fix the number of directors at seven and to elect the nominees
+listed below
+to serve until the next Annual Meeting of Stockholders and until
+their
+successors are duly elected and qualified.  In the event of a
+vacancy in the
+list of nominees, an event which the Board of Directors does not
+anticipate, the
+holders of the proxies will vote for the election of a nominee
+acceptable to the
+remaining nominees.  The directors must be elected by a plurality
+of votes cast.
+The following is a brief description of each nominee, including
+his principal
+employment or professional experience for the past five years.
+
+          J. Edward Barry, 84, Consultant to the Company.  Former
+Chairman of
+     the Board of Directors 1975 - 1993.  A Director since 1953
+and Chairman of
+     the Executive and Pension Fund Committees.  Father of Thomas
+K. Barry,
+     Chairman of the Board, Chief Executive Officer and President
+of the
+     Company.
+
+          Thomas K. Barry, 51, Chairman of the Board of Directors
+since 1993,
+     President of the Company since 1983, Chief Executive Officer
+since 1984.  A
+     Director since 1983 and a member of the Executive and
+Pension Fund
+     Committees.  A Director of Fall River Gas Company.  Son of
+J. Edward Barry,
+     Consultant to the Company.
+
+          Thomas H. Bilodeau, 54, Vice President - Finance,
+Medical &
+     Environmental Coolers, Inc. since 1990.  A Director since
+1984 and a member
+     of the Compensation and Audit Committees.  A Director of
+Fall River Gas
+     Company.
+
+          Bradford J. Faxon, 58, Chairman of the Board of
+Directors, President
+     and Director of Fall River Gas Company since 1986.  A
+Director since 1984,
+     Chairman of the Compensation Committee and a member of the
+Pension Fund
+     Committee.
+
+          Jay A. Finley, 81, Retired; former President of the
+Company, 1977-
+     1983. A Director since 1975 and a member of the Executive
+Committee.
+
+          Jack R. McCormick, 72, Utility Consultant; current
+Director and former
+     President (1974-1986) of Fall River Gas Company.  A Director
+since 1985 and
+     a member of the Audit Committee.
+
+          Donald R. Patnode, 67, Retired; former President of
+Industrial Filters
+     and Equipment Corporation 1989-1994. A Director since 1964,
+Chairman of the
+     Audit Committee and a member of the Compensation Committee.
+Director also
+     of Fall River Gas Company.
+
+     The Board of Directors does not have a standing nominating
+committee, or
+any committee performing similar functions.  The Board of
+Directors has a
+standing Audit Committee, of which Messrs. D.R. Patnode, J.R.
+McCormick and T.H.
+Bilodeau are the members, the function of which is to recommend
+the selection of
+independent auditors, review the plan and results of the
+independent audit and
+approve each professional service provided by the independent
+auditors.  The
+Audit Committee had one meeting in 1996.  The Board of Directors
+also has a
+standing Compensation Committee, of which Messrs. D.R. Patnode,
+B.J. Faxon and
+T.H. Bilodeau are the members.  This committee met once during
+1996.  This
+committee reviews officer performance and duties and decides upon
+appropriate
+remuneration.  The Board of Directors met four times in 1996.
+Each Director
+attended more than 75% of the aggregate number of meetings of the
+Board and
+committees on which he served during the year.
+
+     At the most recent annual meeting of stockholders of the
+Company, held on
+April 23, 1996, out of a total of 460,000 shares entitled to vote
+at the
+meeting, 425,756 shares (92.6% of the total) were actually voted
+at the meeting
+with respect to the election of Directors.  Nominees proposed for
+election by
+the Board of Directors were elected by requisite vote at such
+meeting.  Each
+nominee received an affirmative vote of over 99% of the votes
+cast.
+
+     Cash Compensation of Executive Officers.  The following
+table sets forth
+the compensation paid or accrued by the Company and its
+subsidiary during the
+fiscal years ended December 31, 1994, 1995 and September 30, 1996
+to the
+Company's Chief Executive Officer.  Other than the Chief
+Executive Officer, no
+other executive officer of the Company was paid an annual salary
+and bonus in
+1996 that aggregated $100,000.  Although only principal
+capacities are listed,
+the compensation figures include all compensation received in any
+capacity,
+including directorships, for services rendered during the fiscal
+years
+indicated.
+
+
+                           SUMMARY COMPENSATION TABLE
+                             Annual Compensation(1)
+
+     Name and                                                   
+Other Annual
+Principal Position       Year      Salary         Bonus         
+Compensation
+
+  Thomas K. Barry        1996     $106,800(2)      ---           
+
+ $ 2,970 (2)
+  President and Chief    1995      134,967         ---           
+
+   3,721
+  Executive Officer      1994      126,667         ---           
+
+   3,512
+                                                                 
+
+     
+(1)  The Company did not pay any long-term compensation to its
+Chief Executive
+     Officer or to its other executive officers during the fiscal
+years ended
+     December 31, 1994, 1995 and September 30, 1996.
+
+(2)  1996 amounts reflect compensation received with respect to
+     the Company's nine month 1996 fiscal year (ended September
+     30, 1996) that result from the adoption by the Company of a
+     fiscal year-end of September 30 instead of December 31 each
+     year.
+
+     A description of the executive officers, other than Mr.
+Thomas K. Barry,
+for whom a description is provided above, is set forth below.
+
+     Kenneth J. Robinson (age 52) is Executive Vice President.
+Mr. Robinson
+joined the Company in 1978 as an accountant.  Most recently he
+served as
+Financial Vice President and Treasurer for 4 years and in his
+current position
+for 5 years.
+    
+     Edgar F. Lewis (age 59) is Senior Vice President -
+Operations.  Mr. Lewis'
+career with the Company dates back to 1956.  He has been in
+charge of operations
+for the past 24 years; 16 years in his current position.
+
+     Thomas S. Roye (age 42) is Vice President - Administration.
+Mr. Roye has
+served 5 years in his current position and was previously
+Assistant Treasurer &
+Assistant Secretary.  He has prior utility experience and
+accounting education
+and has been employed since 1978.
+
+     Gary K. Earley (age 42) is Treasurer.  Mr. Earley has been a
+practicing
+accountant since 1976.  He joined the firm in 1987 as an
+accountant in the rates
+and regulations department and has served as Treasurer for the
+past 5 years.
+
+     Phyllis J. Groeger (age 55) is Corporate Secretary.  Mrs.
+Groeger has been
+employed since 1973 in a number of positions advancing to
+Assistant Secretary in
+1986 and has been Secretary of the Company for the past 9 years.
+    
+     Compensation Pursuant to Plans.  The Company has entered
+into separate
+supplemental benefits agreements with Thomas K. Barry and one
+other executive
+officer (collectively, the "Supplemental Benefits Agreements"),
+which provide
+that the officer covered thereby and retiring after the age of 62
+is entitled to
+receive monthly payments equal to 35% of such officer's monthly
+salary at
+retirement for either life or 180 months, whichever is longer.
+Such amount
+payable shall increase by 4% annually on the anniversary date of
+such officer's
+retirement.  Retirement benefits otherwise available upon
+retirement at age 62
+under the Supplemental Benefits Agreements are reduced
+cumulatively by 4% for
+each year prior to age 60 in which the covered officer retires;
+provided,
+however, that an officer covered under a Supplemental Benefits
+Agreement
+receives no retirement benefits thereunder in the event that such
+officer
+retires before age 55.  Furthermore, the Supplemental Benefits
+Agreements
+provide that in the event that an officer covered by a
+Supplemental Benefits
+Agreement dies prior to retirement, such officer's designated
+beneficiary is
+entitled to receive monthly payments equal to 50% of such
+officer's monthly
+salary at death for 180 months.
+
+     The Company has also entered into an additional, more
+limited, Supplemental
+Benefits Agreement with one other employee, which contains terms
+similar to the
+foregoing agreements.  However, such limited Supplemental
+Benefits Agreement
+provides for monthly payments equal to 20% of the subject
+employee's monthly
+salary in the event of retirement, monthly payments equal to 35%
+of his monthly
+salary in the event of his death prior to retirement, and does
+not include an
+annual escalator.
+
+     Eligibility to enter into a Supplemental Benefits Agreement,
+or equivalent
+thereof, is based upon employee performance, service and value to
+the Company;
+such eligibility is determined on an individual basis by the
+Board of Directors.
+Currently, Mr. Thomas K. Barry and two other executive officers
+(as discussed,
+above) are the only employees of the Company covered by a
+Supplemental Benefits
+Agreement, and no payments have been made to date under such
+agreements.  The
+Supplemental Benefits Agreements are in addition to the amounts
+shown in the
+Summary Compensation Table and are not subject to limitation.  As
+of September
+30, 1996, the estimated annual benefits payable under a
+Supplemental Benefits
+Agreement upon retirement at the normal retirement age for Mr.
+Thomas K. Barry
+are $ 45,413.
+
+     The Company also maintains the Corning Natural Gas
+Corporation Employees
+Savings Plan (the "Savings Plan").  All non-union employees of
+the Company who
+work for more than 1,000 hours per year and who have completed
+one year of
+service may participate in the Savings Plan as of the following
+January 1 or
+July 1.  Under the Savings Plan, participants may contribute up
+to 15% of their
+wages.  The Company will match one-half of the participant's
+contributions up to
+a total of 3% of the participant's wages.  Company matching
+contributions vest
+in the participants at a rate of 20% per year and become fully
+vested after five
+years.  Participants may select one of five investment plans, or
+a combination
+thereof, for their account.  Distribution of amounts accumulated
+under the
+Savings Plan occurs upon the termination of employment or death
+of the
+participant.  The Savings Plan also contains loan and hardship
+withdrawal
+provisions.  During the nine month fiscal year ended September
+30, 1996, no
+amounts were distributed to executive officers under the Savings
+Plan.  Mr.
+Thomas K. Barry had $2,970 accrued to his account under the
+Savings Plan during
+said period.  This accrual is included in the figures appearing
+in the summary
+compensation table on page 4.
+
+     Compensation of Directors.  The current annual Director's
+compensation is
+$5,000.  In addition, Directors are paid $300 for each Board
+meeting attended.
+Additionally, the chairmen of the Board's Executive, Audit,
+Compensation and
+Pension Fund committees and those directors who serve on more
+than one committee
+receive an annual fee of $1,500 for such services.  Committee
+members other than
+the chairmen are paid $1,000 annually for their services, subject
+to the
+limitation that no committee chairman or member may receive more
+than $1,500
+annually for such services regardless of the number of committees
+on which he
+serves.
+
+     As allowed by New York law, the Company currently has in
+effect an
+insurance policy, with an effective date of June 1, 1996, with
+National Union
+Fire Insurance Company for the indemnification of officers and
+directors at an
+annual premium cost of $ 43,000.
+
+     Employment Contracts and Termination of Employment and
+Change-in-Control
+Arrangements.  In January of 1992, the Company entered into an
+employment
+contract with its President and Chief Executive Officer, Mr.
+Thomas K. Barry.
+Under the terms of such employment contract, Mr. Barry is
+compensated for his
+duties as an officer and director with such salary as is
+determined from time to
+time by the Board of Directors.  The term of Mr. Barry's
+employment contract is
+five years, unless earlier terminated by an act of either the
+Company or Mr.
+Barry.  Beginning in 1994, however, the remaining term of Mr.
+Barry's employment
+contract is automatically extended for an additional one-year
+period.  Mr.
+Barry's employment contract further provides that upon any change
+in control of
+the Company leading to the termination of Mr. Barry's employment
+with the
+Company, the Company shall pay Mr. Barry three times his
+then-present annual
+salary, or such lesser amount as may be required to comply with
+certain
+provisions of the Internal Revenue Code.
+
+     Selection of Auditors.  KPMG Peat Marwick, Certified Public
+Accountants of
+Rochester, New York, have been selected as auditors for the
+Company for the
+ensuing year.  KPMG Peat Marwick, who served as principal
+accountants for the
+Company for the past fiscal year, have no direct or indirect
+financial interest
+in the Company or its subsidiaries in the capacity of promoter,
+underwriter,
+voting director, officer or employee.  A representative of KPMG
+Peat Marwick
+will be present at the meeting, with the opportunity to make a
+statement if such
+representative desires to do so, and will be available to respond
+to appropriate
+questions.
+
+     Other Matters.  Except for the matters set forth above, the
+Board of
+Directors knows of no matters which may be presented to the
+meeting, but if any
+other matters properly come before the meeting, it is the
+intention of the
+persons named in the accompanying form of proxy to vote such
+proxy in accordance
+with their judgment in such matters.
+
+PLEASE DATE, SIGN AND RETURN THE ENCLOSED PROXY.
+
+                                        By Order of the Board of
+Directors,
+                                        PHYLLIS J. GROEGER,
+Secretary
+
+
+
+
+Persons whose proxies are solicited by the Board of Directors of
+the Company may
+obtain, without charge, a copy of the Company's Annual Report on
+Form 10-KSB,
+including the financial statements and schedules thereto,
+required to be filed
+with the Securities and Exchange Commission for the Company's
+most recent fiscal
+year.  The report will be furnished upon request made in writing
+to:
+
+                         Thomas K. Barry
+                         Chairman of the Board of Directors
+                         Corning Natural Gas Corporation
+                         330 W. William Street
+                         P.O. Box 58
+                         Corning, New York  14830
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-27
+<SEQUENCE>4
+<TEXT>
+
+<TABLE> <S> <C>
+
+<ARTICLE> UT
+       
+<S>                             <C>                     <C>
+<PERIOD-TYPE>                   9-MOS                   12-MOS
+<FISCAL-YEAR-END>                          SEP-30-1996             DEC-31-1995
+<PERIOD-END>                               SEP-30-1996             DEC-31-1995
+<BOOK-VALUE>                                  PER-BOOK                PER-BOOK
+<TOTAL-NET-UTILITY-PLANT>                     13140883                13091750
+<OTHER-PROPERTY-AND-INVEST>                    1081257                 1065284
+<TOTAL-CURRENT-ASSETS>                         3844049                 4437318
+<TOTAL-DEFERRED-CHARGES>                       2101871                 3292984
+<OTHER-ASSETS>                                  389502                  332379
+<TOTAL-ASSETS>                                20557562                22219715
+<COMMON>                                       2300000                 2300000
+<CAPITAL-SURPLUS-PAID-IN>                       653346                  653346
+<RETAINED-EARNINGS>                            2194382                 2145697
+<TOTAL-COMMON-STOCKHOLDERS-EQ>                 5147728                 5099043
+<PREFERRED-MANDATORY>                                0                       0
+<PREFERRED>                                          0                       0
+<LONG-TERM-DEBT-NET>                           6300000                 6300000
+<SHORT-TERM-NOTES>                             2275000                 3815000
+<LONG-TERM-NOTES-PAYABLE>                            0                       0
+<COMMERCIAL-PAPER-OBLIGATIONS>                       0                       0
+<LONG-TERM-DEBT-CURRENT-PORT>                   100000                  100000
+<PREFERRED-STOCK-CURRENT>                            0                       0
+<CAPITAL-LEASE-OBLIGATIONS>                          0                       0
+<LEASES-CURRENT>                                     0                       0
+<OTHER-ITEMS-CAPITAL-AND-LIAB>                 6734834                 6905672
+<TOT-CAPITALIZATION-AND-LIAB>                 20557562                22219715
+<GROSS-OPERATING-REVENUE>                     15082135                16614726
+<INCOME-TAX-EXPENSE>                            185570                  242149
+<OTHER-OPERATING-EXPENSES>                    13936866                15110775
+<TOTAL-OPERATING-EXPENSES>                    14122436                15352924
+<OPERATING-INCOME-LOSS>                         959699                 1261802
+<OTHER-INCOME-NET>                              142382                  232737
+<INCOME-BEFORE-INTEREST-EXPEN>                 1102081                 1494539
+<TOTAL-INTEREST-EXPENSE>                        618695                  873810
+<NET-INCOME>                                    483386                  620729
+<PREFERRED-STOCK-DIVIDENDS>                          0                       0
+<EARNINGS-AVAILABLE-FOR-COMM>                   483386                  620729
+<COMMON-STOCK-DIVIDENDS>                        434701                  572701
+<TOTAL-INTEREST-ON-BONDS>                       437273                  593030
+<CASH-FLOW-OPERATIONS>                         2158227                 1817365
+<EPS-PRIMARY>                                     1.05                    1.35
+<EPS-DILUTED>                                        0                       0
+        
+
+</TABLE>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

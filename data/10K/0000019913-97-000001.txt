@@ -1,0 +1,5332 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ UTxdZ0kjiFSWRVeUNy4OwC0+XhXm/yraitbETwaexMQtGf/7c528sX8yUK3PB0hn
+ D2GBiLPlXrBC9gBZ7705Fw==
+
+<SEC-DOCUMENT>0000019913-97-000001.txt : 19970507
+<SEC-HEADER>0000019913-97-000001.hdr.sgml : 19970507
+ACCESSION NUMBER:		0000019913-97-000001
+CONFORMED SUBMISSION TYPE:	10KSB
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	19961231
+FILED AS OF DATE:		19970402
+SROS:			NASD
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			CHIEF CONSOLIDATED MINING CO
+		CENTRAL INDEX KEY:			0000019913
+		STANDARD INDUSTRIAL CLASSIFICATION:	6795
+		IRS NUMBER:				870122295
+		STATE OF INCORPORATION:			AZ
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10KSB
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-01761
+		FILM NUMBER:		97573564
+
+	BUSINESS ADDRESS:	
+		STREET 1:		866 SECOND AVE
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10017
+		BUSINESS PHONE:		2126888130
+
+	MAIL ADDRESS:	
+		STREET 1:		866 SECOND AVE
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10017
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>10KSB
+<SEQUENCE>1
+<TEXT>
+
+
+
+
+U.S. SECURITIES AND EXCHANGE COMMISSION
+WASHINGTON, D.C. 20549
+
+FORM 10-KSB
+(Mark One)
+   
+   |x|	Annual report under Section 13 or 15(d) of the 
+Securities Exchange Act of 1934 		(Fee required)
+
+	For the fiscal year ended December 31, 1996
+
+   |  |    Transition report under Section 13 or 15(d) of the 
+Securities Exchange Act of 1934	   	(No Fee required)
+
+	For the transition period from 			 to 			
+	
+
+	Commission file number 	1-1761						
+	
+	
+		CHIEF CONSOLIDATED MINING COMPANY				
+
+	(Name of Small Business Issuer in its Charter)
+
+		Arizona			              	87-0122295		
+	
+	  (State or Other Jurisdiction				(I.R.S. 
+Employer
+	   of Incorporation or Organization)			  
+Identification No.)
+
+	500 Fifth Avenue, New York, New York			10110	
+		
+	(Address of Principal Executive Offices)			(Zip 
+Code)
+
+		(212) 354-4044								
+		(Issuer's Telephone Number, Including Area Code)
+
+	Securities registered under Section 12(b) of the Exchange 
+Act:
+
+						Name of Each Exchange
+	Title of Each Class			on which Registered
+
+	Common stock, $0.50 par value	NASDAQ Small-Cap Market
+
+						Pacific Stock Exchange	
+
+	Securities registered under Section 12(g) of the Exchange 
+Act:
+					  None							
+					(Title of Class)
+
+	
+	
+
+	Check whether the issuer:  (1) filed all reports required to 
+be filed by Section 13 or 15(d) of the Exchange Act during the 
+past 12 months (or for such shorter period that the registrant 
+was required to file such reports), and (2) has been subject to 
+such filing requirements for the past 90 days.
+
+Yes	X	         No		
+
+	Check if there is no disclosure of delinquent filers in 
+reponse to Item 405 of Regulation S-B is not contained in this 
+form, and no disclosure will be contained, to the best of 
+registrant's knowledge in definitive proxy or information 
+statements incorporated by reference in Part III of this Form 10-
+KSB or any amendments to this Form 10-KSB.	X	
+
+	State issuer's revenues for its most recent fiscal year.   
+$116,010
+
+	State the aggregate market value of the voting stock held by 
+non-affiliates computed by reference to the price at which the 
+stock was sold, or the average bid and asked prices of such 
+stock, as of a specified date within the past 60 days.  (See 
+definition of affiliate in Rule 12b-2 of the Exchange Act.)  
+$34,700,000 as of March 14, 1997.
+
+	Note:  If determining whether a person is an affiliate will 
+involve an unreasonable effort and expense, the issuer may 
+calculate the aggregate market value of the common equity held by 
+non-affiliates on the basis of reasonable assumptions, if the 
+assumptions are stated.
+
+ISSUERSINVOLVEDINTHEBANKRUPTCPROCEEDING                                     
+DURINGTHEPASTFIVEYEARS
+
+	Check whether the issuer has filed all documents and reports 
+required to be filed by Section 12, 13 or 15(d) of the Exchange 
+Act after the distribution of securities under a plan confirmed 
+by a court.
+
+Yes    		    		No    		
+
+APPLICABLE ONLY TO CORPORATE REGISTRANTS
+
+	State the number of shares outstanding of each of the 
+issuer's classes of common equity, as of the latest practicable 
+date.
+
+	Class					Outstanding at March 14, 1997
+
+Common Stock $0.50 par value			5,988,109		
+
+
+
+
+
+
+
+
+
+
+DOCUMENTS INCORPORATED BY REFERENCE
+
+	If the following documents are incorporated by reference; 
+briefly describe them and identify the part of the Form 10-KSB 
+(e.g., Part 1, Part II, etc.) into which the document is 
+incorporated:  (1) any annual report to security holders;  (2) 
+any proxy or information statement;  and (3)  any prospectus 
+filed pursuant to Rule 424(b) or (c) of the Securities Act of 
+1933 ("Securities Act").  The listed documents should be clearly 
+described for identification purposes (e.g., annual report to 
+security holders for the fiscal year ended December 24, 1990):
+	
+
+(3)  Registrant's Amended Form S-4 (No. 1) Registration Statement 
+under the Securities Act of 1933.  Registered 372,515 shares of 
+common stock issued in connection with merger of South Standard 
+Mining Company into registrant's subsidiary, Chief Gold Mines, 
+Inc. (See part 1-Item 1. "Description of Business-Merger of South 
+Standard into Registrant.")  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PART I
+
+
+Item 1.  Description of Business.
+
+General.
+ 	
+	Registrant is a corporation formed under the laws of Arizona 
+in 1909.  Registrant's mining office is located at Eureka, Juab 
+County, Utah 84628.  In March, 1997, registrant moved its 
+executive office in New York City to 500 Fifth Avenue, New York, 
+NY 10110.  Registrant has a total of ten employees, seven of whom 
+are employed in Utah and three in  New York.
+
+	Registrant is the owner of, or has a vested interest in, 
+approximately 14,500 acres of patented mining ground in the 
+Tintic Mining District, Juab and Utah Counties, Utah, and 
+approximately 200 acres of unpatented mining claims in the same 
+area.  In addition, registrant, through a wholly owned 
+subsidiary, is the owner of 2,554 acres of patented mining 
+properties also located in the East Tintic Mining District. See 
+"Item 2.  Description of Property.-Ownership and Interests In 
+Acreage and Location." for information concerning the 
+composition and use of said properties.  Registrant holds stock 
+interests in other companies owning mining properties, all of 
+which are consolidated or unconsolidated subsidiaries of 
+registrant.
+
+	In July, 1996, registrant transferred a substantial portion 
+of its properties (including the Burgin Mine) to Tintic Utah 
+Metals LLC, a Colorado limited liability company ("Tintic Utah 
+Metals") in exchange for a vested 50% membership interest in 
+Tintic Utah Metals.  The other members of Tintic Utah Metals are 
+a wholly owned subsidiary of AKIKO Gold Resources Ltd. 
+("Akiko") and a wholly owned subsidiary of Korea Zinc Ltd. 
+("Korea Zinc"); these members are to provide initial cash 
+capitalization under the terms of the Operating Agreement between 
+the members.  See "Operating Agreement." and "Tintic Utah 
+Metals LLC.", below.  Beginning in 1994, and up to the time that 
+registrant transferred the properties to Tintic Utah Metals, mine 
+development work, including underground drilling and drifting, 
+was conducted by registrant's employees, which then numbered 
+fifteen in Utah, and in some instances by outside contractors.  
+After the transfer of the properties by registrant to Tintic Utah 
+Metals, Tintic Utah Metals hired its own employees to continue 
+the drilling work.  Tintic Utah Metals has also entered into an 
+agreement with Thyssen Mining Construction of Canada, Ltd. 
+("Thyssen Mining") whereunder Thyssen Mining will conduct 
+preliminary engineering design, budgeting and planning services.  
+See "Tintic Utah Metals LLC-Agreement With Thyssen Mining", 
+below and  "Item 2. Description of Property- Current Underground 
+Drilling Program at Burgin Mine." 
+
+	
+
+
+
+
+
+
+
+
+
+
+
+Tintic Utah Metals LLC-Agreement With Thyssen Mining.
+
+	Tintic Utah Metals entered into an agreement dated November 
+12, 1996 with Thyssen Mining that contemplates several phases of 
+work by Thyssen.  During the first phase, Thyssen Mining will 
+conduct preliminary engineering design, budgeting and planning 
+services for the New Burgin Mine shaft sinking, underground 
+development and contract mining, with the view towards obtaining 
+a bankable feasibility study.  Under the first phase of the 
+agreement, Thyssen will be reimbursed by Tintic Utah Metals for 
+Thyssen's expenditures only if project financing is obtained as a 
+result of Thyssen's feasibility work.  The second phase of 
+Thyssen's work under the agreement, if project financing is 
+obtained, would involve the completion of all necessary 
+construction and development work, including construction of the 
+major additional production shaft and requisite dewatering to 
+bring the New Burgin Mine into production.  If the first two 
+phases of the agreement were successful, the third phase would 
+involve Thyssen's contracting with Tintic Utah Metals to operate 
+the New Burgin Mine, sending Burgin ore production to Korea Zinc 
+and/or other smelters for smelting, as provided in the Operating 
+Agreement.  Under the terms of the agreement with Thyssen, either 
+Tintic Utah Metals or Thyssen may terminate the agreement upon 
+notice to the other.  Accordingly, while Thyssen has initiated 
+its phase one activities under the agreement, Tintic Utah Metals 
+is, with a view towards completion of a feasibility study, 
+continuing exploration and development work on its own, hiring 
+consultants and continuing its underground drilling program.   
+See "Item 2. Description of Property- Current Underground 
+Drilling Program at Burgin Mine." and "Item 6. Management's 
+Discussion and Analysis or Plan of Operation.-PLAN OF OPERATION- 
+Tintic Utah Metals."
+
+Operating Agreement.	
+
+	The Operating Agreement, executed as of July 17, 1996, and 
+amended as of March 11, 1997, encompasses the agreement reached 
+between registrant, Akiko and Korea Zinc to use Tintic Utah 
+Metals LLC, a limited liability company ("Tintic Utah Metals") 
+formed under the Colorado Limited Liability Company Act  (the 
+"Colorado Act") on July 29, 1996, as the vehicle for a joint 
+venture project for the development of certain properties 
+contributed by registrant to Tintic Utah Metals.   Pursuant to 
+the terms of the Operating Agreement, registrant has transferred 
+by mining deed to Tintic Utah Metals, the mining rights to 
+approximately 8,500 acres of its patented mining property in the 
+East Tintic Mining District of Utah, including the Burgin Mine, 
+and approximately 200 acres of unpatented mining claims in the 
+same vicinity. The Operating Agreement also provides that all the 
+business and operations relating to the development and mining of 
+the East Tintic Mining District properties so transferred to 
+Tintic Utah Metals will be conducted by Tintic Utah Metals.  
+Registrant has a vested 50% membership interest in Tintic Utah 
+Metals.  Akiko and Korea Zinc will own the other 50% membership 
+interest, after a total of $6,000,000 of initial cash capital 
+contributions has been paid to Tintic Utah Metals by Akiko and 
+Korea Zinc ("Initial Cash Contributions").  Prior to the March 
+11, 1997 amendment to the Operating Agreement, the said 
+$6,000,000 of Initial Cash Contributions was to have been paid in 
+over a period ending no later than August 31, 1998, at which time 
+Akiko and Korea Zinc would each have been vested with a 25% 
+membership interest.  The March 11, 1997 amendment creates 
+
+
+
+specified dates by which Akiko and Korea Zinc are to make 
+installment payments on account of their Initial Capital 
+Contributions in order to earn their vested membership interests, 
+with certain percentage membership interests to vest upon the 
+making of such payments.  The amendment does not permit 
+registrant's membership interest to go below 50%.  In certain 
+instances of nonpayment of installments of capital contribution, 
+registrant's membership interest would increase above 50%.  See 
+"Capital Contributions.- Initial Capital Contributions.", 
+below.  
+
+	Korea Zinc has already made $2,000,000 of its $3,000,000 
+share of Initial Cash Contributions, leaving $4,000,000 of 
+Initial Cash Contributions remaining to be paid ($1,000,000 from 
+Korea Zinc and $3,000,000 from Akiko).  When Korea Zinc makes its 
+remaining $1,000,000 contribution, scheduled for $500,000 on 
+April 15, 1997 and $500,000 on July 15, 1997, Korea Zinc will 
+become vested with a 25% membership interest in Tintic Utah 
+Metals.  See "Capital Contributions.- Initial Capital 
+Contributions.", below: for the dates by which Akiko and Korea 
+Zinc are required to make their Initial Cash Contributions; the 
+circumstances under which Akiko loses its right to a full 25% 
+vested membership interest; and, the circumstances under which 
+Korea Zinc can increase its vested membership interest above 25%.  
+If Korea Zinc does not timely make its remaining $1,000,000 
+Initial Cash Contribution and Akiko does not make any of its 
+$1,000,000 Initial Cash Contribution installments, Akiko and 
+Korea Zinc shall be deemed to have resigned as members of Tintic 
+Utah Metals and full title to the East Tintic Mining District 
+properties, including the Burgin Mine, contributed by registrant 
+to Tintic Utah Metals shall revert to registrant, with no 
+obligation upon registrant to repay any Initial Cash 
+Contributions previously paid to Tintic Utah Metals by Korea 
+Zinc.  A reverter deed formally returning legal title to the 
+properties to registrant is being held in escrow for that 
+purpose.  Once Korea Zinc does make the remaining $1,000,000 
+installment payment of its Initial Cash Contributions, it becomes 
+vested in a 25% membership interest in Tintic Utah Metals, and 
+thus has a vested interest in the underlying East Tintic Mining 
+District properties that are owned by Tintic Utah Metals.
+
+	After Korea Zinc and Akiko have contributed the entire 
+$6,000,000 Initial Cash Contributions to Tintic Utah Metals, 
+additional cash contributions by all three members of Tintic Utah 
+Metals shall be made based upon their respective membership 
+percentage interests in Tintic Utah Metals.  Based upon the 
+membership percentages that will be in effect, assuming that a 
+total of $6,000,000 of Initial Cash Contributions has been paid 
+by Korea Zinc and Akiko, registrant's share of such additional 
+cash contributions will be 50%.  However, under certain 
+circumstances, the percentage of a member's interest could 
+change.  See "Capital Contributions.", below. The exact amount 
+of these additional cash contributions will depend upon the 
+program and budgetary requirements of Tintic Utah Metals as 
+approved by the members.
+
+	The primary goal of Tintic Utah Metals is to bring the 
+Burgin Mine back into production.  Under the terms of a March 11, 
+1994 agreement between registrant and Akiko that was superceded 
+by the Operating Agreement, registrant was required to initiate 
+spending of funds on 
+
+
+
+
+
+
+
+
+developmental work and other costs and expenses relating to the 
+Burgin Mine out of the $2,000,000 proceeds received by registrant 
+from its sale of 500,000 shares of registrant's common stock in a 
+private placement to Akiko.  Registrant was also required to 
+spend another $2,000,000 on development work  out of the 
+$2,000,000 proceeds received by registrant from its  sale of an 
+additional 500,000 shares of registrant's common stock in a 
+private placement to Korea Zinc.  Accordingly, in August, 1994, 
+registrant began shaft rehabilitation and in January, 1995, 
+registrant initiated an underground drilling program in the west 
+end of the Burgin Mine, together with additional drifting and the 
+construction of five new underground drill stations.  The 
+drilling program was designed to confirm previously delineated 
+reserves and to increase the Burgin Mine's ore reserves in 
+several peripheral areas of the known Burgin orebody.  Registrant 
+completed its above described expenditures of the $4,000,000 
+received from the stock sales.  See Item 2. Description of 
+Property.- Current Underground Drilling Program at the Burgin 
+Mine."
+
+	The Operating Agreement contains a comprehensive agreement 
+between the registrant, Akiko and Korea Zinc that governs the 
+management and operation of the properties owned by Tintic Utah 
+Metals and each of the parties rights and obligations as to each 
+other.  The following briefly summarizes some of the important 
+aspects of the Operating Agreement:
+
+	
+
+	Capital Contributions.
+
+	Initial Capital Contributions:   Registrant's initial 
+capital contribution to Tintic Utah Metals is registrant's East 
+Tintic Mining District properties, including the Burgin Mine, and 
+all equipment and other mining property and assets and all 
+information and data relating to same.  Akiko's and Korea Zinc's 
+initial capital contribution to Tintic Utah Metals is to be 
+$3,000,000 each in cash payable in installments.  Korea Zinc has 
+paid $2,000,000 to date, leaving $1,000,000 remaining to be paid.  
+As amended, the Operating Agreement provides that Korea Zinc 
+shall pay the remaining $1,000,000 of its Initial Cash 
+Contribution in two equal installments: $500,000 on April 15, 
+1997 and $500,000 on July 15, 1997 (said latter date can be 
+extended up to 30 days upon agreement of all the members).  Korea 
+Zinc will earn a vested 25% membership interest in Tintic Utah 
+Metals when it pays in that $1,000,000, bringing its total 
+Initial Cash Contribution up to $3,000,000.   Akiko is to make 
+its Initial Cash Contribution of $3,000,000 in three equal 
+installments of $1,000,000 each on or before August 15, 1997, 
+February 1, 1998 and July 1, 1998.  Each time Akiko timely makes 
+a $1,000,000 Initial Cash Contribution installment payment, it 
+will become vested with a 8-1/3% membership interest in Tintic 
+Utah Metals.  
+
+		 If Korea Zinc does not complete payment of the 
+remaining $1,000,000 of its Initial Cash Contribution, it will 
+receive no vested membership interest in Tintic Utah Metals.  See 
+"Operating Agreement", above.  Once Korea Zinc has made the 
+additional $1,000,000 payment to Tintic Utah Metals, and thus 
+earned a 25% vested interest in Tintic Utah Metals, it shall also 
+
+
+
+
+
+
+have the right to acquire an additional 8-1/3% vested interest in 
+Tintic Utah Metals if Akiko defaults in making a $1,000,000 
+installment payment of Akiko's Initial Cash Contribution 
+obligation and Korea Zinc elects to itself make that $1,000,000 
+payment to Tintic Utah Metals.  However, at any point that Akiko 
+defaults in making a $1,000,000 installment payment and Korea 
+Zinc does not elect to make that installment payment itself, 
+Korea Zinc cannot elect to make a payment with respect to a 
+subsequent installment upon which Akiko has also defaulted.  To 
+the extent that Korea Zinc has so elected to make $1,000,000 
+installment payments when Akiko has defaulted, Korea Zinc's 
+vested membership interest will be increased by 8-1/3%, so that 
+if Akiko defaults in making all three of its installment payments 
+and Korea Zinc pays an additional $3,000,000 to Tintic Utah 
+Metals ($6,000,000 in all), Korea Zinc would have a vested 
+membership interest in Tintic Utah Metals of 50% and Akiko would 
+be deemed to have resigned as a member without any vested 
+interest.  To the extent that Korea Zinc has not elected to pay a 
+$1,000,000 installment with respect to which Akiko is in default, 
+the 8-1/3% membership interest applicable to that installment 
+will vest in registrant.  Thus, if Korea Zinc has paid the 
+remaining $1,000,000 portion of its own Initial Cash Contribution 
+and Akiko is in default in payment of Akiko's $1,000,000 Initial 
+Cash Contribution Installment due August 15, 1997, but Korea Zinc 
+does not elect to pay the $1,000,000 to Tintic Utah Metals with 
+respect to Akiko's unpaid installment, the vesting of membership 
+interests in Tintic Utah Mining would be fixed at that time, 
+with: registrant being vested with a 75% interest; Korea Zinc 
+being vested with a 25% interest (having paid in full its own 
+$3,000,000 Initial Cash Contribution); and Akiko would be deemed 
+to have resigned as a member without any vested interest.  As 
+indicated above, it is possible that  Korea Zinc can end up with 
+more than a 25% vested membership interest in Tintic Utah Metals, 
+while Akiko could have less than a 25% vested interest, but under 
+no circumstances can Korea Zinc and Akiko together have more than 
+a 50% vested membership interest in Tintic Utah Metals.
+
+	Later Capital Contributions: After the $6,000,000 Initial 
+Cash Contributions have been paid into capital by Korea Zinc and 
+Akiko, the members, including registrant, will be obligated to 
+make additional contributions to fund approved programs and 
+budgets in proportion to the members' respective percentage 
+interests in Tintic Utah Metals.  The failure of a member to meet 
+its contribution requirement could result in the dilution of that 
+member's percentage interest or its elimination as a member of 
+Tintic Utah Metals.
+
+	Management Of Tintic Utah Metals.
+
+	The management of Tintic Utah Metals will be conducted by 
+the members through a management committee, with each member 
+having its representatives on the committee.  Each member will 
+designate one of its representatives on the committee to vote on 
+matters coming before the committee, which vote shall be in 
+proportion to the member's respective membership percentage 
+interest.  Unless the Operating Agreement specifically provides 
+for a unanimous vote, the affirmative vote of the members holding 
+a majority of the members' percentage interests shall determine 
+the decisions of the management committee.  A majority vote to 
+approve a program 
+
+
+
+
+
+
+
+
+
+
+
+and budget is needed, but the approval of a program and budget 
+for major mining development requires the unanimous affirmative 
+vote of the members.  
+
+	The Operating Agreement will provide that the members shall 
+unanimously select an operations director who shall have the 
+delegated power to manage, direct and control operations of 
+Tintic Utah Metals in accordance with programs and budgets 
+approved by the members' management committee and implement the 
+decisions of the members.  The operations director shall be on 
+the management committee, but shall not have any vote. 
+
+	Programs And Budgets.
+
+	The operations of Tintic Utah Metals shall be conducted, 
+expenses shall be incurred, and assets shall be acquired only 
+pursuant to approved programs and budgets.  The members, through 
+the vote of the management committee, shall vote on proposed 
+programs and budgets.  Funds contributed by Akiko and Korea Zinc 
+during the initial contribution phase will be used in accordance 
+with approved programs and budgets for operations appropriate to 
+produce adequate information for the completion of a feasibility 
+study.  The purpose of such a feasibility study will be to assist 
+the members in deciding whether to bring the Burgin Mine into 
+production and, if a decision to produce is unanimously made by 
+the members, to provide the basis for a program of development, 
+including mine rehabilitation and construction.  If a production 
+program is approved by the members, the operations director will 
+attempt to arrange project financing for that production program, 
+which financing may be secured by Tintic Utah Metals's interest 
+in its properties and other assets.  Tintic Utah Metals may 
+retain consultants and other mining specialists in connection 
+with the various phases of its operations.  See "Tintic Utah 
+Metals LLC-Agreement With Thyssen Mining.", above.
+	
+	Tax Implications of Tintic Utah Metals.
+
+	It is the intention of the members that Tintic Utah Metals 
+be treated as a partnership under the Internal Revenue Code of 
+1986, as amended.  Accordingly, registrant will include its 
+proportionate share of taxable income or loss from Tintic Utah 
+Metals in registrant's corporate income tax return.  A member's 
+percentage interest in Tintic Utah Metals will determine the 
+member`s proportionate share of income or loss, except the 
+Operating Agreement will provide that each member will be 
+allocated expense deductions emanating from the property such 
+member has contributed to Tintic Utah Metals.  Thus, Akiko and 
+Korea Zinc will each be allocated the tax deductions that arise 
+from their respective Initial Cash Contributions and registrant 
+will be allocated the tax deductions that arise from its 
+contribution of East Tintic Mining properties, such as cost 
+depletion, depreciation on equipment, and development costs. 
+
+
+
+
+
+	Distributions By Tintic Utah Metals.
+
+
+	Distributions of cash or property by Tintic Utah Metals will 
+be made to the members on a pro-rata basis in proportion to their 
+percentage interests on the date of distribution. The Operating 
+Agreement contains provisions that define the members rights to 
+receive such distributions.
+
+	Right of First Refusal.
+
+	If a member desires to sell its interest in Tintic Utah 
+Metals to a third party, the Operating Agreement provides the 
+mechanics under which the other members have the prior right to 
+purchase the selling member's interest on the same terms as 
+offered by the third party.
+
+	Registrant's Contribution Of Additional Property.
+
+	Registrant's wholly owned subsidiary, Chief Gold Mines, 
+Inc., is the owner of 2,554 acres of property in the East Tintic 
+Mining District that was acquired as a result of a merger 
+transaction with South Standard Mining Company ("South 
+Standard") that was consummated in June, 1996.  See "Merger Of 
+South Standard Into Registrant.", below.  The parties to the 
+Operating Agreement have discussed the possibility of a future 
+transfer by registrant's subsidiary to Tintic Utah Metals of the 
+property that was acquired as a result of the South Standard 
+merger, such transfer to be an additional capital contribution by 
+registrant to Tintic Utah Metals, and any such transfer to be 
+subject to Tintic Utah Metals reimbursing registrant for certain 
+costs relating to the merger and work performed by registrant on 
+those properties.
+
+	Projected Costs And Time Involving The Burgin Mine.
+
+	If the development work and other aspects of the New Burgin 
+Mine are successfully completed by Tintic Utah Metals and a 
+production budget is agreed upon by the members and adequate 
+financing obtained, registrant estimates that it would be a 
+minimum of two years before the New Burgin Mine would be in full 
+production.  Limited production from the New Burgin Mine could 
+result prior to that date if economic ore can be mined above the 
+water table.  Registrant believes that some revenues can also be 
+realized earlier by Tintic Utah Metals from other areas of Tintic 
+Utah Metals's properties, such as the Trixie Mine if it is 
+transferred to Tintic Utah Metals.  See "Registrant's 
+Contribution Of Additional Property.", above.  Based upon 
+current costs, it is estimated that approximately $30 to $40 
+million of additional financing will be required to bring the New 
+Burgin Mine into full operation.  See "Item 6. Management's 
+Discussion And Analysis Or Plan Of Operation.- PLAN OF OPERATION- 
+Tintic Utah Metals." for information concerning the current 
+value of proven and probable ore reserves of the New Burgin Mine.
+          
+
+ Merger of South Standard Into Registrant.
+
+	Pursuant to the terms of an Agreement and Plan of Merger 
+dated as of September 20, 1995 (the "Merger Agreement"), South 
+Standard was merged with and into Chief Gold Mines, Inc., a 
+wholly owned subsidiary of registrant, effective June 28, 1996 
+after the shareholders of South Standard had approved the merger 
+on June 21, 1996.  Approval of the merger by shareholders of 
+registrant was not  required under Arizona law.
+
+	
+	As a result of the merger, all of South Standard's assets, 
+subject to its liabilities, were transferred to registrant's 
+wholly owned subsidiary.  In exchange, each shareholder of South 
+Standard received 0.3 share of registrant's common stock for each 
+share of South Standard held by the shareholder.  Registrant's 
+372,515 shares to be issued pursuant to the merger terms were 
+registered with the U.S. Securities and Exchange Commission under 
+a registration statement that became effective May 8, 1996.  
+Registrant hereby incorporates by reference registrant's Amended 
+Form S-4 (No.1) Registration Statement under the Securities Act 
+of 1933 filed with the Securities and Exchange Commission.  
+ 
+	South Standard had outstanding 1,241,717 shares of common 
+stock which resulted in a 6.9% increase of the number of 
+registrant's outstanding shares at the time the merger was 
+approved by South Standard shareholders.  No shareholders of 
+South Standard exercised the right to dissent from the merger 
+that was available to them under Utah law.  The market value for 
+the 372,515 shares of registrant's common stock issued to the 
+South Standard shareholders as a result of the merger was 
+approximately $3.4 million on June 21, 1996. 
+
+	See "Item 2. Description Of Property- Property Received 
+From South Standard As Result Of Merger." for information 
+concerning South Standard's mining properties received by 
+registrant's subsidiary as a result of the merger, and which 
+property may, under certain circumstances, be contributed by 
+registrant to Tintic Utah Metals.  See "Operating Agreement-
+Registrant's Contribution Of Additional Property", above.
+
+Main Tintic Mining District  Project.
+
+	The area known as registrant's Main Tintic Mining District 
+consists of approximately 6,000 acres owned by registrant.  See  
+"Item 2. Description of Property- Main Tintic Mining District."  
+Over the past two years, registrant successfully rehabilitated 
+the Chief No. 2 shaft and certain drifts  which had previously 
+been used to mine the Plutus orebody; the renovation was 
+completed in October, 1996.  In February, 1997, as part of an 
+underground exploratory drilling program, a successful link-up of 
+four separate mine shafts located on registrant's  Main Tintic 
+Mining District properties was accomplished by registrant by 
+means of opening old drifts from one of those mines, the Plutus 
+Mine.  As a result, registrant has gained access via the Chief 
+No. 2 shaft to the Plutus Mine, the Eagle Mine, the Gemini Mine 
+and the Chief Consolidated Mine.  
+
+	Prior production of metals by registrant from the four mines 
+that had been operated by registrant during the period 1909 to 
+1957 was 3.7 million tons of ore producing: 210,952 ounces of 
+gold; 58,395,275 ounces of silver; 455,823,630 pounds of lead; 
+166,711,652 pounds of zinc; and 12,626,186 pounds of copper.  
+Production from those mines was stopped in 1957 due to then 
+existing economic conditions.  See  "Item 6. Management's 
+Discussion And Analysis Or Plan Of Operation.- PLAN OF OPERATION 
+- - -Main Tintic Mining District Project." for assay results of 
+recent underground drilling and registrant's plan for the 
+project.
+
+
+
+
+
+
+
+Item 2.  Description of Property.	
+
+Ownership and Interests In Acreage and Location.
+
+
+	Registrant is the owner of, or has a vested interest in, 
+approximately 14,500 acres of patented mining ground in the 
+Tintic Mining District, Juab and Utah Counties, and approximately 
+200 acres of unpatented mining claims in the same area.  In 
+addition, registrant, through a wholly owned subsidiary, is the 
+owner of 2,554 acres of patented mining properties also located 
+in the East Tintic Mining District.  Title to patented mining 
+ground is vested in the owner thereof; unpatented mining claims 
+are possessory rights to land owned by the U.S. Government and 
+are subject to annual rental payments and other conditions as to 
+validity.  The location of these properties and the nature of 
+registrant's ownership and interests is as follows:
+	East Tintic Mining District.  Consists of approximately 
+8,500 acres of patented ground and 200 acres of unpatented mining 
+claims.  Pursuant to the terms of an Operating Agreement 
+("Operating Agreement") between registrant, Korea Zinc and 
+Akiko dated as of July 17, 1996, Tintic Utah Metals LLC ("Tintic 
+Utah"), a Colorado limited liability company, was formed and 
+registrant transferred ownership of the aforesaid 8,500 acres of 
+patented ground and 200 acres of unpatented mining claims to 
+Tintic Utah Metals.  Registrant owns a 50% vested membership 
+interest in Tintic Utah Metals, which percentage interest could 
+increase depending upon the amount of Initial Cash Contributions 
+payments made to Tintic Utah Metals by registrant's co-members, 
+Korea Zinc and Akiko.  See "Item 1. Description of Business.-
+Operating Agreement." for a description of the Operating 
+Agreement, the formation of Tintic Utah Metals, the amounts of 
+Initial Cash Contributions to be made by Akiko and Korea Zinc and 
+the conditions upon which registrant's vested interest in Tintic 
+Utah Metals could increase above 50%.
+
+		 Included within the East Tintic Mining District 
+properties transferred by registrant to Tintic Utah Metals, is 
+the Burgin Mine that was operated by Kennecott Corporation 
+("Kennecott"), from 1966 to 1978, as part of property that 
+Kennecott had leased from registrant and other co-lessors, and a 
+concentrating mill and various other buildings and support 
+facilities that were built by Kennecott on the property that was 
+then leased by Kennecott.  See "Leasing History of Burgin 
+Mine.", below, and  "Item 1. Description of Business.-Operating 
+Agreement." for information on Burgin Mine and registrant's 
+vested interest in Tintic Utah Metals. 	
+
+	Main Tintic Mining District.  Consists of approximately 
+6,000 acres of patented mining ground owned by registrant and is 
+not a part of the Operating Agreement or Tintic Utah Metals..  
+This acreage in the Main Tintic Mining District includes several 
+sites targeted by registrant for future exploration and 
+development.  Included is the Plutus Mine property upon which 
+registrant initiated exploratory drilling in 1996.  See "Item 1. 
+Description of Business.-Main Tintic Mining District Project." 
+and "Item 6. Management's Discussion and Analysis or Plan of 
+Operation-PLAN OF OPERATION- Registrant's Main Tintic Mining 
+District Project."
+
+
+
+
+
+
+Leasing History of Burgin Mine.
+
+	In 1956, registrant and South Standard Mining Company 
+("South Standard"), together with three other co-lessors who 
+were subsequently acquired by either South Standard or 
+registrant, had leased approximately 10,000 acres in the East 
+Tintic Mining District to Kennecott under a Unit Lease Agreement 
+("Unit Lease").    In 1983, Kennecott sold its interest in the 
+Unit Lease to Sunshine Mining Company ("Sunshine").
+
+	Registrant contributed 4,733 acres to the Unit Lease 
+properties in 1956, and in 1978, 1,387 acres owned by registrant 
+that comprised a part of the properties under the Unit Lease were 
+removed by amendment and returned to registrant.  That latter 
+acreage included underground mining rights to the Burgin Mine.  
+South Standard, as part of the amendment to the Unit Lease, 
+retained a royalty interest in future production from the Burgin 
+Mine that had been so returned to registrant.  South Standard's 
+Trixie Mine properties were contributed by South Standard to the 
+Unit Lease properties in 1956 and continued to remain subject to 
+the Unit Lease after Kennecott sold its interest in the Unit 
+Lease to Sunshine in 1983, as referred to above. 
+ 
+	Registrant had separately entered into a lease agreement 
+with Sunshine covering underground mining rights to the Burgin 
+Mine in 1980.  Sunshine thus became the lessee of the remaining 
+properties under the Unit Lease (to which registrant and South 
+Standard had been lessors) and of the Burgin Mine properties (to 
+which registrant had been lessor). In 1992, as part of an 
+agreement with Sunshine, (i) the Unit Lease was canceled, with 
+registrant and South Standard each receiving back their 
+respective properties that had been under the Unit Lease, and 
+(ii) the Burgin Mine lease was canceled and the Burgin Mine 
+properties were  returned to registrant free of any lease.  In 
+1996, South Standard was merged into a wholly owned subsidiary of 
+registrant, so that all the property that had been leased to 
+Kennecott under the Unit Lease was owned by registrant and its 
+subsidiary immediately after the merger.  See "Item 1. 
+Description of Business.-Merger of South Standard Into 
+Registrant's Subsidiary." 
+
+	 All of registrant's property that was subject to the Unit 
+Lease when the lease was in existence, including the Burgin Mine, 
+together with certain other properties owned by registrant, have 
+been transferred by registrant to Tintic Utah Metals in return 
+for which registrant has received a 50% vested membership 
+interest in Tintic Utah Metals under the terms of the Operating 
+Agreement.  The property that had been owned by South Standard 
+and that was acquired by registrant's subsidiary as a result of 
+the merger of South Standard may also be transferred to Tintic 
+Utah in the future.  See "Item 1. Description of Business.-
+Operating Agreement." and "East Tintic Mining District.", 
+above.
+	
+Production From Burgin Mine While Under Lease To Kennecott.
+
+	Kennecott mined 1,870,218 tons of ore from the Burgin Mine 
+orebody under the Unit Lease over a twelve year period which 
+produced: 10,929,978 ounces of silver; 338,127,751 pounds of lead 
+and 349,209,284 pounds of zinc.  Kennecott, during that period, 
+never reported Burgin ore reserve figures to registrant.
+
+
+
+
+
+Proven And Probable Ore Reserves At The Burgin Mine. 
+
+	As indicated above, Sunshine acquired the underground mining 
+rights to the Burgin Mine in 1980.  As lessee of the Burgin Mine, 
+Sunshine conducted extensive surface and underground drilling 
+programs and computed the property's proven and probable ore 
+reserves.  Sunshine had access to the proven and probable ore 
+reserves by means of the Burgin Mine's Apex Number 2 shaft.  The 
+shaft, together with the connecting drifts and drill stations, 
+had been rehabilitated by Sunshine at a cost of approximately $6 
+million.  After the Burgin Mine was returned to registrant in 
+1992, registrant continued to have access to the reserves through 
+the Apex Number 2 shaft, and the shaft was utilized by registrant 
+in its underground drilling program, up to the time registrant 
+transferred the Burgin Mine properties to Tintic Utah Metals in 
+July 1996 under the terms of the Operating Agreement. See "Item 
+1. Description of Business.- Operating Agreement."  After the 
+property was transferred to Tintic Utah Metals, the underground 
+drilling program was continued by Tintic Utah Metals and 
+independent consultants were hired to calculate the ore reserves 
+based on the results of the drilling programs, who substantiated 
+the earlier Sunshine ore reserve estimates, with essentially the 
+same grades.  Tintic Utah Metals's consultants, as shown in the 
+chart below, have currently estimated a total of 1,075,000 
+million tons of proven and probable ore reserves.  In addition, 
+because of extensive drilling results and the fact that the 
+Burgin Mine deposit was mined for many years by Kennecott, there 
+is a high degree of confidence by Tintic Utah Metals that 
+inferred or possible resources currently estimated at 407,000 
+additional tons will probably be realized.   Tintic Utah Metals 
+is continuing its underground drilling to the north and south of 
+the main Burgin orebody in an effort to prove-up the likely 
+extension of the mineralized ore zone in both directions.  Tintic 
+Utah Metals anticipates that the underground drilling program 
+will be completed in the third quarter of 1997.   See "Item 6. 
+Management's Discussion and Analysis or Plan of Operation.-PLAN 
+OF OPERATION- Tintic Utah Metals."
+
+	Proven and probable ore reserves, to date, of the New Burgin 
+orebody, as determined by Tintic Utah Metals's independent 
+consultants, are estimated as follows:
+
+                                              Contained         
+Contained      Contained       Contained
+				Tons of	Ounces of      Pounds of        
+Pounds of
+				   Ore	              Silver              
+Lead       	   Zinc
+
+Proven and Probable Reserves 1,075,000          17,726,750     
+452,360,000   143,405,000
+
+
+	Possible resources of the New Burgin orebody, as estimated 
+by Tintic Utah Metals are:
+
+                                                     Contained         
+Contained      Contained       Contained
+Tons of	        Ounces of      Pounds 
+of              Pounds of
+Ore	            Silver              
+Lead       	    Zinc
+
+(1)407,000 6,146,576    
+130,177,
+14842,
+521,269
+
+Sources tonnage exists where there is strong logic evidence of the existence of 
+additional ore reserves of a well known deposit, such as, in the case of the 
+Burgin Mine, 
+the past history of mining by Kennecott.  See "Production From 
+Burgin Mine While Under Lease To Kennecott.", above.  Additional 
+ongoing drilling results are expected to provide additional data 
+based upon which the possible resources may be upgraded to the 
+proven and/or  probable categories.
+
+
+Current Underground Drilling Program At Burgin Mine.
+
+	As indicated above, registrant's lease with Sunshine was 
+terminated in 1992 and the Burgin Mine was returned to registrant 
+as of January 1, 1993.  Registrant then began its efforts to seek 
+a joint venture partner, culminating in the Operating Agreement 
+dated July 17, 1996 with Korea Zinc and Akiko and the transfer by 
+registrant of its East Tintic Mining District properties, 
+including the Burgin Mine, to Tintic Utah Metals.  See "Item 1. 
+Description of Business.-Operating Agreement."  Prior to the 
+transfer of its properties to Tintic Utah Metals, registrant had, 
+in January, 1995, initiated an underground drilling program in 
+the west end of the Burgin Mine, together with additional 
+drifting and the construction of five new underground drill 
+stations.  The drilling program was designed to confirm 
+Sunshine's 1989 estimate of 1,032,173 tons of proven and probable 
+ore reserves, and to increase the New Burgin Mine's proven and 
+probable ore reserves by enlarging previously delineated reserves 
+in several areas around the perimeter of the Burgin orebody.   
+After the Burgin Mine property was transferred to Tintic Utah 
+Metals in July, 1996, the drilling program was continued by 
+Tintic Utah Metals.   As of the end of February, 1997,  a total 
+of forty-one drill holes had been completed with assays 
+indicating high grade mineralization intercepts in approximately 
+one-half of these drillholes.  Following are drillhole assays per 
+ton for several of  the more significant drillholes:
+
+		104 ft. intercept assaying at 21 ounces of silver, 640 
+pounds of lead and 80 pounds of zinc, including an 8 ft. segment 
+assaying at 58 ounces of silver and 960 pounds of lead;
+
+		 55 ft. intercept assaying at 10 ounces of silver, 640 
+pounds of lead and 220 pounds of zinc, including a 17 ft. segment 
+assaying at 16 ounces of silver and 660 pounds of lead;
+
+		 24 ft. intercept assaying at 48.4 ounces of silver, 
+260 pounds of lead and 130 pounds of zinc, including a 14 ft. 
+segment assaying at 74.7 ounces of silver,  336 pounds of lead 
+and 180 pounds of zinc;
+		
+                        96 ft. intercept assaying at 7.4 ounces 
+of silver, 156 pounds of lead and 68 pounds of zinc, including a 
+21 ft. segment assaying at 15.5 ounces of silver,  306 pounds of 
+lead and 72 pounds of zinc;
+
+		 92 ft. intercept assaying at 18.8 ounces of silver, 
+376 pounds of lead and 133 pounds of zinc, including an 11 ft. 
+segment assaying at 90 ounces of silver,  843 pounds of lead and 
+98 pounds of zinc;
+		
+		152.5 ft. intercept assaying at 17.2 ounces of silver 
+and 218 pounds of lead, including an 8.3 ft. segment assaying at 
+84 ounces of silver and 774 pounds of lead.
+	
+
+Physical Condition Of The Burgin Mine.
+
+	While Kennecott was lessee of the Burgin Mine, it had 
+expended  significant monies for capital improvements at the 
+Burgin Mine, such as the building of a concentrating mill, three 
+headframes and hoists, three mine shafts and underground 
+workings, including the Apex number 2 shaft.  When Sunshine 
+succeeded Kennecott as lessee of the Burgin Mine, Sunshine 
+expended funds in the further development of the Burgin Mine.  As 
+a result of the termination in 1992 of registrant's Burgin Lease 
+with Sunshine and the Unit Lease, all of the assets and 
+improvements built by Kennecott and Sunshine at the Burgin Mine, 
+became the property of registrant, with registrant also receiving 
+certain real property, equipment and other personal property from 
+Sunshine.  Registrant estimates that the cost of renovating the 
+concentrating mill would be approximately $3.5 million, but that 
+if the owner of the Burgin Mine  had to completely build a 
+similar facility, the replacement cost would be in excess of $30 
+million.  See "Leasing History of Burgin Mine.", above.  
+
+	Ownership of the capital improvements was transferred to 
+Tintic Utah Metals by registrant in July, 1996 as part of the 
+transfer by registrant of its East Tintic mining properties under 
+the terms of the Operating Agreement.  See "Ownership and 
+Interests In Acreage and Location-East Tintic Mining District.", 
+above.  The capital improvements continue to be used by Tintic 
+Utah Metals in the New Burgin Mine underground reserve expansion 
+drilling program. 
+
+	  Rehabilitation of the operating shafts of the New Burgin 
+Mine has been in progress since the beginning of 1995, with 
+registrant expending funds for that purpose in addition to the 
+underground drilling program.  Tintic Utah Metals has benefitted 
+from the use of the rehabilitated Apex Number 2 shaft which 
+provides access to the underground drilling platforms.  
+Rehabilitation of the concentrator and additional improvements to 
+the property will be provided for under a budget of Tintic Utah 
+Metals.  See Item 1. "Description of Business.-Operating 
+Agreement- Programs And Budgets."
+
+
+Registrant's Properties After Property Transfer To Tintic Utah 
+Metals.
+
+	The signing of the Operating Agreement and the transfer by 
+registrant of title to its East Tintic mining properties, 
+including the Burgin Mine, to Tintic Utah Metals did not affect 
+registrant's continuing ownership of its Main Tintic Mining 
+District properties.  See "Ownership and Interests In Acreage 
+and Location- Main Tintic Mining District.", above.
+
+Property Received From South Standard By Registrant's Subsidiary.
+
+	South Standard was merged with and into Chief Gold Mines, 
+Inc., a wholly owned subsidiary of registrant, effective June 28, 
+1996.  See "Item 1. Description of Business- Merger of South 
+Standard Into Registrant."  As a result of the merger, all of 
+South Standard's assets, subject to its liabilities, were 
+transferred to registrant's subsidiary.  The principal asset 
+received from South Standard as a result of the merger is 2,554 
+acres of patented mining properties, including the Trixie Mine, 
+in the East Tintic Mining District contiguous with the Burgin 
+Mine.  
+
+
+See "Leasing History Of Burgin Mine.", above, for information 
+concerning South Standard's participation with registrant as 
+lessors in the Unit Lease to Kennecott, and subsequently with 
+Sunshine, until the Unit Lease was terminated in 1992.  The 2,554 
+acres may be transferred by registrant to Tintic Utah Metals as 
+part of registrant's capital contribution, subject to certain 
+conditions.  See  "Item 1. Description of Business- Registrant's 
+Contribution Of Additional Property." 
+
+	The Trixie Mine, now owned by registrant's subsidiary, had 
+been South Standard's principal mining asset.  As previously 
+reported by South Standard, since production started from the 
+Trixie Mine in 1969 and through 1992, 713,478 tons of ore had 
+been mined containing an average per ton grade of 0.21 ounces of 
+gold per ton and 6.55 ounces of silver, for a total of 150,048 
+ounces of gold and 4,670,289 ounces of silver.  There has been no 
+production of ore from the Trixie Mine since 1992, the year that 
+the Unit Lease was terminated.
+
+Item 3.  Legal Proceedings.
+	  None
+
+Item 4.  Submission of Matters to a Vote of Security Holders.
+
+	A Special Meeting in Lieu of Annual Meeting of registrant's 
+shareholders was held on December 10, 1996.  The proposals voted 
+upon at the meeting and the results of such voting were as 
+follows:
+
+(1)  	Election of directors to serve for the ensuing year and 
+until their successors are duly elected and qualified.  
+Management's slate of Directors was elected at the meeting:
+
+Management's Slate
+of Directors Elected:		Votes Cast	Votes Withheld-
+Name of Directors		    For*		    Individuals	
+	Broker Non-Votes
+
+Leonard Weitz			4,861,680	       46,402		
+	320,563
+James Callery			4,856,922	       51,160		
+	320,563
+Paul Hines			4,859,680	       53,402		
+	320,563
+Edward R. Schwartz		4,859,680	       53,402		
+	320,563
+Victor V. Tchelistcheff	4,854,680	       53,402		
+	320,563	
+
+(*Cumulative voting for Directors)
+
+(2)  Proposal to approve nonqualified stock options granted to 
+the directors and officers of the Company was approved by the 
+shareholders at the meeting:
+
+		Votes Cast	Votes		Abstentions	Brokers
+		       For	Against	Individuals	Non-Votes
+
+		4,598,440	126,142	        -		589,813
+
+The affirmative vote of the holders of  3,014,603 shares, 
+representing a majority of the shares entitled to vote at the 
+meeting , was required in proposal 2.
+
+
+
+(3)  Proposal to approve the selection of the firm of Arthur 
+Andersen LLP as independent public accountants for registrant for 
+1996.  Proposal (3) was approved by shareholders at the meeting:
+		Votes Cast	  Votes	           Abstentions         
+Brokers
+		       For	Against	Individuals	 Non-Votes
+
+		4,856,604	 9,413		        -		  245,526
+
+	The affirmative vote of the majority of shares represented 
+at the meeting was required to approve Proposal 3.
+
+
+PART II
+
+Item 5.  Market for Common Equity and Related Shareholder 
+Matters.
+
+	The principal markets on which registrant's shares of common 
+stock are traded are the NASDAQ Small-Cap Market under the symbol 
+CFCM and the Pacific Stock Exchange under symbol CFC.
+
+	High and low sales prices of registrant's common stock on 
+the Pacific Stock Exchange for each quarterly period during the 
+past two years are as follows:
+
+1996 Market Price				High		Low
+
+First Quarter.........................................	13-1/2	
+	10-3/8
+Second Quarter....................................	11-1/4	
+	 8
+Third Quarter.......................................	 8-7/8	
+	 6-1/8
+Fourth Quarter.....................................	 9-1/2	
+	 6
+
+1995 Market Price				High		Low
+
+First Quarter.....................................		9-1/4
+		4-3/4
+Second Quarter.................................		8	
+	7
+Third Quarter....................................		8-1/8	
+	6-3/4
+Fourth Quarter..................................	          11-
+3/8		7
+
+	Approximate number of holders of record of registrant's 
+common stock as of March 14, 1997 - 2,100.
+
+	No cash dividends were declared during the years 1996 and 
+1995.
+
+
+
+
+
+Item 6. Management's Discussion And Analysis Or Plan Of 
+Operation.
+
+(a)    PLAN OF OPERATION.
+
+Registrant had no revenues from mining operations during the year 
+1996 or during the period January 1, 1997 to March 14, 1997.  
+Registrant's total revenues in 1996 consisted of $ 116,010 of 
+revenues from real estate sales, interest and miscellaneous 
+sources.  
+Registrant's total revenues of $290,471 in 1995 consisted of 
+$194,389 in sales of fluxing materials to smelters and $96,082 of 
+revenues from real estate sales, interest and miscellaneous 
+sources.
+
+Registrant's net loss for 1996 was $1,518,093 as compared to a 
+net loss of $1,294,594             for 1995.  The increase of 
+$223,499 in the loss for 1996 as compared to 1995 was primarily 
+due to costs and other charges associated with the merger of 
+South Standard Mining Company into a wholly owned subsidiary of 
+registrant, as well as increased exploration costs in 1996.
+
+
+Tintic Utah Metals 
+
+
+	See "Item 1. Description of Business.- Operating 
+Agreement." for a discussion of the principal provisions of the 
+Operating Agreement pursuant to which Tintic Utah Metals was 
+formed to effectuate the joint venture type arrangement between 
+registrant, Korea Zinc and Akiko, with registrant contributing 
+its East Tintic Mining District properties, including the Burgin 
+Mine, in exchange for a 50% vested interest in Tintic Utah 
+Metals.  See "Item 2. Description of Property." for a 
+description of: registrant's East Tintic Mining District 
+properties that were transferred to Tintic Utah Metals; the 
+leasing history of the Burgin Mine; ore production from the 
+Burgin Mine while under lease to Kennecott; current ore reserves 
+at the Burgin Mine, as estimated by Tintic Utah Metals; and, the 
+current underground drilling program at the New Burgin Mine.
+
+	The ongoing underground drilling program was commenced on 
+the Burgin Mine properties in 1995 and was continued by Tintic 
+Utah Metals after registrant transferred its East Tintic Mining 
+District properties to Tintic Utah Metals in July, 1996.  See 
+"Item 2.  Description of Property.-Current Underground Drilling 
+Program At Burgin Mine." for additional information regarding 
+the drilling program and drillhole assays per ton on several of 
+the more significant drillholes.  Registrant anticipates that 
+Tintic Utah Metals will complete its underground drilling program 
+during the third quarter of 1997.  The next principal objective 
+of Tintic Utah Metals will be to complete the engineering work 
+which will be incorporated into a feasibility study.  See "Item 
+1. Description of Business.- Tintic Utah Metals LLC- Agreement 
+With Thyssen Mining."  The feasibility study will be prepared 
+for Tintic Utah Metals by an independent expert and will serve as 
+the basis for Tintic Utah Metals seeking project financing.  Once 
+project financing is obtained, Thyssen Mining (if its agreement 
+with Tintic Utah Metals is then still in effect) or another 
+mining and engineering company would complete all necessary 
+construction and development work, including construction of the 
+major additional production shaft and requisite dewatering to 
+bring the New Burgin Mine into production, followed by Thyssen 
+Mining or another mining company contracting with Tintic Utah 
+Metals to operate the New Burgin Mine, sending Burgin ore 
+production to Korea Zinc and/or other smelters for smelting, as 
+provided in the Operating Agreement.  Based on current costs, it 
+is estimated that $30 to $40 million of additional financing will 
+be required to bring the New Burgin Mine into production.  
+
+	Funds to be used by Tintic Utah Metals for the foregoing 
+purposes over the next twelve months will be derived from a 
+portion of the Initial Cash Contributions remaining to be paid to 
+Tintic Utah Metals by Akiko and Korea Zinc.  See Item 1. 
+"Description of Business.- Operating Agreement."  Only a 
+portion of the foregoing work can be accomplished over the next 
+twelve months, the extent of which cannot be stated with 
+certainty by registrant.  Nor can registrant state with certainty 
+that Tintic Utah Metals will be successful in obtaining a 
+feasibility study that will result in its securing project 
+financing.
+
+	Expressed in terms of current metals prices, the total 
+current value of Tintic Utah Metals's estimated proven and 
+probable ore reserves that are set forth at "Item 2. Description 
+of Property.- Proven And Probable Ore Reserves At The Burgin 
+Mine." is $400,000,000, which latter amount is determined as 
+follows:
+
+                                                    Contained         
+Contained      Contained       Contained
+				      Tons of	        Ounces of      Pounds 
+of       Pounds of							Ore	           
+Silver              Lead              Zinc
+
+Proven and Probable Reserves  1,075,000          17,726,750     
+452,360,000   143,405,000
+
+Approximate Gross Dollar
+Value at Current Prices                                  
+$92,000,000     $218,000,000   $90,000,000   
+          
+	The above stated dollar values do not take into account 
+additional values of the Burgin orebody that may be derived from 
+the possible resources of an additional 407,000 tons of ore, if 
+all or part of the possible resources ore tonnage is upgraded to 
+proven and/or probable reserve categories as a result of 
+additional underground drilling by Tintic Utah Metals.  See 
+"Item 2. Description of Property.- Proven And Probable Ore 
+Reserves At The Burgin Mine."
+
+
+Main Tintic Mining District Project.
+
+	See "Item 1. Description of Business.-Main Tintic Mining 
+District Project." and "Item 2. Description of Property- Main 
+Tintic Mining District" for information concerning:  
+registrant's Main Tintic Mining District consisting of 
+approximately 6,000 acres; the rehabilitation by registrant of 
+the Chief No. 2 shaft and certain drifts completed in October, 
+1996; and, the link-up  in February, 1997, of four separate mine 
+shafts, with registrant gaining access via the Chief No. 2 shaft 
+to the Plutus Mine, the Eagle Mine, the Gemini Mine and the Chief 
+Consolidated Mine. 
+
+	A drilling program was started by registrant during the last 
+quarter of 1996.  A significant underground drillhole in the 
+Chief Consolidated Mine in March, 1997, intersected a 30 foot 
+wide intercept of high grade silver-lead mineralization which 
+assayed at a per ton average of 28.1 ounces of silver and 504 
+pounds of lead.  The full width of the drillhole discovery cannot 
+yet be ascertained because the drill rods broke while they were 
+in an area of the mineralization zone which contained the highest 
+grade per ton mineralization of 42.5 ounces of silver and 930 
+pounds of lead.  Registrant projects that the full width of this 
+mineralized area will be more than 30 feet; 
+however, further drilling is required before any final conclusion 
+can be drawn as to whether or not the area of the drillhole is an 
+extension of the previously mined orebodies.  
+
+	
+	In addition to the above drillhole results, random high-
+grade rock samples from each of the other three mines assayed as 
+follows: 
+
+Plutus Mine: 122 ounces of silver; 504 pounds of lead; 
+50 pounds of zinc;    	and 0.03  ounces of gold. 
+		Eagle Mine:    47.4 ounces of silver; 0.20 ounces of 
+gold; and 106 pounds 						of lead.
+		Gemini Mine:  18.7 ounces of silver; and 600 pounds of 
+lead.
+
+	The above rock sample results are of the highest grade 
+assays and cannot be construed as being representative of average 
+assays in the area, nor can any determination be made at this 
+time by registrant as to whether continuations of any of the 
+previously mined orebodies exist or if any of the four mines will 
+prove economically viable to be reopened for commercial mining.  
+However, given the above described drillhole result at the Chief 
+Consolidated Mine and the significant rock sample grades in the 
+other three mines, registrant will endeavor to undertake a full 
+exploration and development program, focusing on possible 
+extensions of all four previously mined orebodies in the four 
+separate mines.  In order to fund such a program, registrant will 
+consider various sources for obtaining financing to fund its 
+operations, through the private placement of its shares or 
+otherwise, or, in the alternative, registrant will seek a joint 
+venture partner.  It is anticipated that Registrant's initial 
+drilling and rock sampling program will be completed in April, 
+1997.
+
+
+Item 7.  Financial Statements.
+
+The Financial Statements of Registrant are filed pursuant to this 
+item of the report.  See index to Financial Statements. 
+
+
+Item 8.  Changes in and Disagreements with Accountants on 
+Accounting and Financial Disclosure.
+
+None
+
+
+
+
+
+
+
+
+
+
+
+PART III
+
+Item 9.  Directors, Executive Officers, Promoters and Control 
+Persons; Compliance with Section 16(a) of the Exchange  Act.
+
+	The name and age of each of the registrant's directors and 
+executive officers and the positions and offices with the 
+registrant held by him are:
+
+	Name of
+	Registrant's
+	Directors and			      Offices with		Term 
+During Which
+	Executive Officers	   Age	       Registrant		            
+Served in Office
+
+
+	Leonard Weitz (1)	     67	      Director; President,	 
+Director since 1967.
+					      Chairman of the Board 			
+						      	       and Chief 
+Executive Officer
+
+	Edward R. Schwartz(1)    86	      Director; Secretary-	  
+Director since 1974.
+					      Treasurer
+
+
+	James Callery(1)	      59	       Director	   	              
+Director since 1980.
+
+
+	 Paul  Hines(1)		      59	       Director		              
+Director since 1994.
+
+	Victor V. Tchelistcheff(1) 67	       Director			   
+Director since 										
+	   August, 1996
+
+	(1)	Elected to serve as a director for the ensuing year and 
+until his successor is 			duly elected and qualified at 
+the meeting of shareholders held on December 		10, 1996.
+
+The following is a brief account of the business experience 
+during the past five years of each director and executive officer 
+named above:
+
+Leonard Weitz			Chairman and Chief Executive Officer of 
+registrant since 						1971; President from 
+1971 to December, 1993 and from 					
+	August, 1996 to present.
+
+Edward R. Schwartz  		Secretary and Treasurer of 
+registrant since 1979; 						
+	independent consultant since prior to 1992.
+
+James Callery			Engaged in management of oil and gas, 
+forestry, agriculture 					and other 
+investments since prior to 1992.
+
+Paul Hines 			Financial and management consultant and 
+Managing 						Director of Westerly Partners, 
+financial and management 					
+	consultants since 1993.  Managing Director of The 		
+					Leadership Group, consultants to 
+management, from 1991 						to 1992.
+
+Victor V. Tchelistcheff	President of VVT Consultants, performs 
+international 						management and cross 
+cultural communications services to 					
+	clients in cement, minerals, construction and real estate 	
+					development  fields since prior to 1992.  
+During 1993 and 						1994, also worked as 
+volunteer for International Executive 					
+	Services Corps, a non-profit organization, as a Country 	
+					Director in Moscow, Russia on matters 
+involving emerging 						market assistance 
+programs.
+
+	Registrant is not aware of any person who, at any time 
+during the year 1996 was a director, officer or beneficial owner 
+of more than 10 percent of Registrant's common stock who failed 
+to file on a timely basis, reports required by Section 16(a) 
+during 1996 or prior years.
+
+
+Item 10.  Executive Compensation.
+
+	The following information is presented concerning the 
+compensation of Leonard Weitz, President, Chairman and Chief 
+Executive Officer of registrant, for each of registrant's last 
+three completed fiscal years.
+
+
+SUMMARY COMPENSATION TABLE
+
+Name and		     	Annual			Long-Term		All 
+Other	
+Principal		     	Compensation		Compensation	
+	Compensation
+Position	  	Year	Salary			Awards-Options
+
+
+Leonard Weitz	  	1996	$152,083(1)		         (2)
+(President*,		1995	$125,000(1)		         			     
+$50,000 (3)
+Chairman and	   	1994    $125,000(1)
+Chief Executive  	
+Officer)		
+*President from 
+August 8, 1996
+to present.
+
+ (1)  During each of the years 1994, 1995 and 1996, Leonard Weitz 
+received annual base salary under the terms of an employment 
+agreement dated January 4, 1988, which was to expire September 
+30, 1996.  A new employment agreement was entered into between 
+registrant and 
+
+
+
+Leonard Weitz, effective as of September 1, 1996.  Under the 
+terms of the new employment agreement, Leonard Weitz will be 
+employed as Chairman, President and Chief Executive Officer 
+of registrant for a five year period ending August 31, 2001.  
+Under the new employment agreement, Leonard Weitz will receive an 
+annual salary of $175,000 and such bonuses as the Board of 
+Directors of registrant may determine.
+
+(2)  See  "Options Grants During Fiscal Year Ended December 31, 
+1996" and "Option Exercises During Fiscal Year Ended December 31, 
+1996 and Option Values on December 31, 1996, " below, for 
+information concerning nonqualified options to purchase 60,000 
+shares granted to Leonard Weitz by the Board of Directors of 
+registrant on August 8, 1996 and approved by the shareholders on 
+December 10, 1996.
+
+(3)  On September 20, 1995, the Board of Directors of registrant 
+awarded a $50,000 bonus payment to Leonard Weitz on the condition 
+that Korea Zinc Co., Ltd. consummate by September 30, 1995 its 
+purchase of 500,000 shares of registrant's common stock.  The 
+Board also approved on September 20, 1995 a $50,000 three-year 
+loan to Leonard Weitz, the loan to bear interest at the prime 
+rate, adjustable quarterly.  Said stock purchase was timely made 
+by Korea Zinc Co., Ltd.  See "Item 11. Security Ownership of 
+Certain Beneficial Owners and Management".  The award of the 
+bonus and approval of the loan were made by the Board of 
+Directors to Leonard Weitz based upon his indication to the Board 
+of Directors that he intended to exercise his incentive stock 
+option to purchase 40,000 shares of registrant's common stock by 
+November 14, 1995.  Leonard Weitz exercised the option on 
+November 10, 1995 and purchased the 40,000 shares of registrant's 
+common stock.
+
+
+OPTION GRANTS DURING FISCAL YEAR ENDED DECEMBER 31, 1996
+
+The information set forth below is being presented concerning the 
+approval by the shareholders of registrant on December 10, 1996 
+of nonqualified stock options previously granted by the Board of 
+Directors of registrant to Leonard Weitz, the grant of said stock 
+options having been subject to approval by the shareholders.  The 
+following table contains, with respect to said options, the 
+number of options so granted and approved, the percent the grant 
+of options in 1996 represents to total options granted to 
+employees during 1996, the per share exercise price of the 
+options granted, and the expiration date of the options.
+
+				% of Total Options	Exercise	Expiration
+		Number of	Granted to		Price		Date
+		Options	Employees in		Per		of
+Name		Granted	Fiscal Year		Share		Option
+
+Leonard Weitz	60,000(1)(2)	50%			$7.00(3)	8/8/2006
+	
+(1)  Nonqualifed stock options granted by the Board of Directors 
+on August 8, 1996 subject to approval by the shareholders and 
+which approval was given on December 10, 1996.
+
+(2)  Leonard Weitz may exercise all or a part of the option as he 
+continuously remains a director or officer, but in no event later 
+than expiration date of option, except his personal 
+representatives may exercise within twelve months from date of 
+death.	
+
+(3)  The exercise price was the market price of the common stock 
+on the date of grant.		
+OPTION EXERCISES DURING FISCAL YEAR
+ENDED DECEMBER 31, 1996 AND OPTION VALUES
+ON DECEMBER 31, 1996
+
+The following table contains, with respect to stock options held 
+by Leonard Weitz, information as to option exercises during the 
+year 1996, the aggregate dollar value realized upon exercise, the 
+total number of unexercised options held on December 31, 1996 and 
+the aggregate dollar value of the in-the-money, unexercised 
+options held on December 31, 1996.
+
+
+	                Shares			             Number of 
+Unexercised      Value of Unexercised
+	    	  Acquired or	  Value	             Options at		 
+in-the-money options at
+Name	   	  Exercised	   Realized          December 31, 
+1996(1)        December 31, 1996(3)
+
+Nonqualified:
+
+Leonard Weitz      None  	     	   None	                    
+120,000(2)                            $280,000
+
+(1)   All options held are fully exercisable.
+(2)   Nonqualified stock options approved by shareholders.
+(3)   Values are calculated by subtracting the exercise price 
+from the closing price of the     registrant's common stock on 
+NASDAQ on December 31, 1996.
+
+Compensation of Directors
+
+Leonard Weitz, Chairman of the Board and Chief Executive Officer 
+of registrant, is employed through August 31, 2001 under an 
+employment agreement dated September 1, 1996.  See " Executive 
+Compensation - Summary Compensation Table", above, for further 
+details concerning Leonard Weitz's employment agreement.
+
+Each director who is not an officer of registrant receives an 
+annual fee of $5,000; no attendance fees are paid.  Edward R. 
+Schwartz, the Secretary-Treasurer of registrant, who is a 
+director, does not receive a salary; he receives a $10,000 annual 
+fee in lieu of salary.  The Board of Directors of registrant has 
+set a $750 fee per day for services performed by each outside 
+director of registrant that are in addition to services regularly 
+performed by him as a director.
+
+Item 11.  Security Ownership of Certain Beneficial Owners and 
+Management.
+
+	(a) The following table shows as of March 14, 1997, stock 
+ownership of all 		      persons known to management, to be 
+beneficial owners of more than 5% of the common stock of the 
+registrant.
+
+
+
+
+	       Name and Address of		Amount of Nature of	
+	Percentage
+	       Beneficial Owners		Beneficial Ownership	
+	of Class  
+
+	       KZ Utah, Inc.			500,000 shares		   
+8.4%   
+	       ( a subsidiary of
+	       Korea Zinc Co., Ltd.		
+	       142 Nonnyon-Dong,
+	       Gangnam-Ku
+	       Seoul, Korea)
+
+	     No director exercised in 1996 any stock options held by 
+him.  At the meeting of shareholders of registrant held December 
+10, 1996, shareholders approved the issuance of nonqualified 
+stock options to the directors of the Company.  See "Item 4.  
+Submission of Matters to a Vote of Security Holders" for the vote 
+upon the option proposal.  See "Item 10.  Executive Compensation-
+Option Grants During the Fiscal Year Ended December 31, 1996" for 
+information concerning the noqualified option granted to Leonard 
+Weitz.  See footnotes to "Item 11.  Security Ownership of Certain 
+Beneficial Owners and Management" for information concerning 
+options held by directors.  The Company has never issued any 
+stock appreciation rights to its officers and directors.    
+
+(b)  The equity securities of the registrant beneficially owned 
+by all directors and 		       officers and by directors 
+and officers of the registrant as a group, as of March 		       
+14, 1997, are: 
+					
+
+							    Amount and
+							    Nature of
+			  Name & Address		    Beneficial	
+	Percent
+	Title of Class	  of Beneficial Owner		   Ownership*	
+	of Class
+
+	Common Stock,
+	$0.50 par value:  James Callery		    168,468(1)(2)	      
+2.8%	         
+			    RD #2, Box 2750		
+			    Charlotte, Vermont 05445
+
+			     Paul Hines			     125,000(3)	
+	      2.0 %
+			     12 Flying Cloud Rd.
+			     Stamford, Connecticut 06902
+
+			     Edward R. Schwartz	     165,100(4)(5)               
+2.7%
+			     1165 Park Avenue
+			     New York, New York 10128
+		
+			     Victor V. Tchelistcheff     	       
+50,200(6)	                  0.8%
+			     384 De Soto Drive
+			     New Smyrna Beach, Florida 32169
+
+			     Leonard Weitz		      181,010(7)(8)             
+3.0%
+			     11 Longview Lane
+			     Chappaqua, New York 10514
+
+			     Owned by all directors	     689,778(9)	
+	       10.6%
+			      and officers as a group
+
+	Preferred
+	Stock, $0.50
+	par value:	     None
+
+*  Each director has sole voting and investment power with 
+respect to shares owned.
+
+(1)  Does not include an aggregate of 10,500 shares owned by 
+James Callery's wife and         children, in which shares James 
+Callery disclaims any beneficial interest.
+
+(2)  Includes nonqualified stock options previously approved by 
+shareholders of registrant to purchase 120,000 shares held by 
+James Callery.
+
+(3)  Includes nonqualified stock options previously approved by 
+shareholders of registrant to purchase 120,000 shares held by 
+Paul Hines.
+
+(4)  Does not include 200 shares owned by Edward R. Schwartz's 
+wife, in which shares Edward R. Schwartz disclaims any beneficial 
+interest.
+
+(5)  Includes nonqualified stock options previously approved by 
+shareholders of registrant to purchase 120,000 shares held by 
+Edward R. Schwartz.
+
+(6)  Includes nonqualified stock options previously approved by 
+shareholders of registrant to purchase 50,000 shares held by 
+Victor V. Tchelistcheff.
+
+(7)  Does not include 18,000 shares owned by Leonard Weitz's 
+wife, in which shares Leonard Weitz disclaims any beneficial 
+interest.
+
+(8)  Includes 40,000 shares owned jointly with Leonard Weitz's 
+wife and nonqualified stock options previously approved by 
+shareholders of registrant to purchase 120,000 shares held by 
+Leonard Weitz.
+
+(9)  Includes options to purchase an aggregate of 530,000 shares 
+as referred to at Notes 
+(2), (3), (5), (6) and (8) above.  Each of said options is 
+exercisable by the optionee in whole or in part at any time until 
+the expiration of the option.
+
+Item 12.  Certain Relationships and Related Transactions.
+
+	   Registrant retained Howard Weitz P.C. as general counsel 
+during 1995 and 1996.  Howard Weitz, Esq., the sole stockholder 
+of Howard Weitz, P.C., is the brother of Leonard Weitz, the 
+Chairman, President and Chief Executive Officer of Registrant.  
+Registrant believes that the fees earned by Howard Weitz, P.C. 
+during 1995 and 1996 were fair and reasonable in view of the 
+level and extent of legal services rendered pertaining to the 
+Tintic Utah Metals LLC joint venture and the merger with South 
+Standard Mining Company.  Legal fees earned by Howard Weitz, P.C. 
+were $75,900 during the fiscal year ended December 31, 1995 and 
+$96,600 during the year 1996.  However, registrant was reimbursed 
+$36,000 on August 28, 1996 by Tintic Utah Metals LLC for said 
+services performed to the joint venture, thus reducing the 1996 
+fee to registrant to a net fee of $60,600.  
+
+Item 13.  Exhibits and Reports on Form 8-K.
+
+	    (a)  Description of Exhibits  required to be filed by 
+Item 601 of Regulation S-B
+
+	    (The numbers shown below next to each exhibit are keyed 
+to Exhibit Table of 	 	    Item 601 of Regulation S-B)
+
+	    "(2)"	Not applicable
+
+	    "(3)" 	Articles of Incorporation and By-Laws:
+
+	    Registrant hereby incorporates by reference the Articles 
+of Incorporation and 	 	    By-Law previously filed with 
+the Commission.
+
+	    "(4)"	Not applicable
+
+	    "(9)"	Not applicable
+
+	   "(10)"	Material Contracts:
+	      A.	AKIKO Agreement - (i) Agreement (in form of a 
+Letter Agreement) dated 			March 11, 1994 between 
+registrant and AKIKO Gold Resources Ltd. 			Registrant 
+hereby incorporates by references said Letter Agreement with 	
+		AKIKO dated March 11, 1994, copies of which were filed 
+with the 				Commission by registrant as part of its 
+1993 Form 10-KSB Report. 
+
+	     (ii)	Amendment to AKIKO Agreement in form of a letter 
+from registrant to 			AKIKO dated September 1, 1994.  
+Registrant hereby incorporates by 			reference said 
+letter dated September 1, 1994, copies of which were filed 		
+	with the Commission by registrant as part of its 1994 Form 
+10-KSB 			Report.
+
+	      B.	Operating Agreement of Tintic Utah Metals LLC 
+dated as of July 17, 1996 		by and among registrant, Akiko 
+Resources (Utah) Inc. and K Z Utah, 			Inc., a copy of 
+which is filed with this Report and marked as Exhibit "A".
+
+	      C.	Amendment to Operating Agreement of Tintic Utah 
+Metals LLC dated as 			of March 11, 1997 by and among 
+registrant, Akiko Resources (Utah) Inc. 			and KZ 
+Utah, Inc., a copy of which is filed with this Report and marked 
+as 			Exhibit "B".
+
+	      D.	Articles of Organization of Tintic Utah Metals 
+LLC, a copy of which is 			filed with this Report and 
+marked as Exhibit "C".
+
+	      E. Agreement dated as of November 12, 1996 between 
+Tintic Utah Metals 		          	 LLC and Thyssen Mining 
+Construction of Canada. Ltd., a copy of which is 			filed 
+with this Report and marked as Exhibit "D".	
+
+		"(11)"  Not applicable.
+		"(13)"  1996 Annual Report not yet furnished to 
+security holders as of 				filing date of this 
+Report.
+		"(16)"  Not applicable
+		"(18)"  Not applicable.
+		"(21)"  Not applicable.
+		"(22)"  Not applicable.
+		"(23)"  Not applicable.
+		"(24)"  Not applicable.
+		"(27)"  Not applicable.
+		"(28)"  Not applicable.
+		"(99)"  Not applicable.
+(B)		Reports filed on Form 8-K:
+		None
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SIGNATURES
+
+In accordance with Section 13 or 15(d) of the Exchange Act, the 
+registrant caused this report to be signed on its behalf by the 
+undersigned, thereunto duly authorized.
+
+
+
+			Chief Consolidated Mining Company				
+(Registrant)
+
+
+
+By /s/ Leonard Weitz									
+	
+					(Signature and Title)
+					  Leonard Weitz
+		Chairman of the Board of Directors, President and Chief 
+Executive Officer
+
+Date					March 28, 1997					
+
+	In accordance with the Exchange Act, this report has been 
+signed below by the following persons on behalf of the Registrant 
+and in the capacities and on the dates indicated.
+
+
+
+By /s/ Edward R. Schwartz								
+	
+					(Signature and Title)
+					Edward R. Schwartz
+			Director, Secretary and Treasurer, Principal 
+Financial Officer and
+					Principal Accounting Officer
+
+Date					March 28, 1997					
+
+
+
+
+By/s/ James Callery										
+					(Signature and Title)
+					James Callery
+					Director
+
+Date					March 28, 1997					
+
+
+
+
+
+
+
+
+Index to Financial Statements for the Years Ended December 31, 
+1996 and 1995
+
+			Chief Consolidated Mining Company				
+
+									Page
+	Report of Independent Public Accountants			F-2
+	Financial Statements:		
+		Consolidated Balance Sheet				F-3
+		Consolidated Statements of Operations		F-4
+		Consolidated Statements of Stockholders' Equity	F-5
+		Consolidated Statements of Cash Flows		F-7
+		Notes to Consolidated Financial Statements		F-9
+
+			Tintic Utah Metals LLC					
+
+									Page
+	Report of Independent Public Accounts			F-20
+	Financial Statements:
+		Balance Sheet						F-21
+		Statement of Operations				F-22
+		Statement of Member's Capital			F-23
+		Statement of Cash Flow				F-24
+		Notes to Financial Statements				F-25
+
+Schedules are omitted either because they are not required or 
+because the required information is contained in the financial 
+statements or notes thereto.
+
+
+
+	
+
+	
+
+
+
+
+			
+
+
+
+
+				F-1
+
+
+
+
+
+
+
+REPORT OF INDEPENDENT PUBLIC ACCOUNTANTS
+
+
+
+To Chief Consolidated Mining Company:
+
+We have audited the accompanying consolidated balance sheet of 
+Chief Consolidated Mining Company (an Arizona corporation) and 
+subsidiaries as of December 31, 1996, and the related 
+consolidated statements of operations, shareholders' equity and 
+cash flows for the years ended December 31, 1996 and 1995.  These 
+financial statements are the responsibility of the Company's 
+management.  Our responsibility is to express an opinion on these 
+financial statements based on our audits.
+
+We conducted our audits in accordance with generally accepted 
+auditing standards.  Those standards require that we plan and 
+perform the audit to obtain reasonable assurance about whether 
+the financial statements are free of material misstatement.  An 
+audit includes examining, on a test basis, evidence supporting 
+the amounts and disclosures in the financial statements.  An 
+audit also includes assessing the accounting principles used and 
+significant estimates made by management, as well as evaluating 
+the overall financial statement presentation.  We believe that 
+our audits provide a reasonable basis for our opinion. 
+
+As discussed in Note 1, a substantial portion of the assets of 
+the Company consist of investments in a joint venture and mining 
+claims and properties for which significant additional 
+development costs must be incurred to bring the mining properties 
+controlled by the joint venture or the Company into operation.  
+The realization of these investments is dependent upon the 
+ability of the Company and/or its joint venture partners to 
+obtain the required capital to complete the development of the 
+mining properties. 
+
+In our opinion, the financial statements referred to above 
+present fairly, in all material respects, the financial position 
+of Chief Consolidated Mining Company and subsidiaries as of 
+December 31, 1996 and the results of their operations and their 
+cash flows for the years ended December 31, 1996 and 1995 in 
+conformity with generally accepted accounting principles.
+
+
+ARTHUR ANDERSEN LLP
+
+
+
+Salt Lake City, Utah
+  March 14, 1997
+
+
+
+
+
+
+
+
+
+
+
+
+							F-2
+
+
+CHIEF CONSOLIDATED MINING COMPANY AND SUBSIDIARIES
+
+CONSOLIDATED BALANCE SHEET
+
+DECEMBER 31, 1996
+
+ASSETS
+
+CURRENT ASSETS:
+
+
+  Cash
+$    52,250
+
+  U.S. treasury bills, at cost which 
+approximates market value
+621,214
+
+  Accounts receivable
+2,991
+
+  Other current assets
+39,800
+
+
+- - -----------
+
+          Total current assets
+716,255
+
+
+
+
+INVESTMENT IN TINTIC
+3,975,873
+
+
+
+
+INVESTMENT IN CENTRAL STANDARD CONSOLIDATED 
+MINES
+79,961
+
+
+
+
+ADVANCES TO CENTRAL STANDARD CONSOLIDATED 
+MINES
+25,150
+
+
+
+
+MINING CLAIMS AND PROPERTIES, less accumulated
+  depletion of $819,444
+
+1,602,395
+
+
+
+
+MACHINERY AND EQUIPMENT, less accumulated 
+  depreciation of $21,607
+
+38,151
+
+
+
+
+OTHER ASSETS
+8,473
+
+
+- - -----------
+
+          Total assets
+$ 6,446,258
+
+
+===========
+
+
+LIABILITIES AND SHAREHOLDERS' EQUITY
+
+CURRENT LIABILITIES:
+
+
+  Accounts payable
+$    17,708
+
+  Accrued liabilities
+21,555
+
+  
+- - -----------
+
+          Total current liabilities
+39,263
+
+
+- - -----------
+
+MINORITY INTEREST
+42,029
+
+
+- - -----------
+
+COMMITMENTS AND CONTINGENCIES (Notes 1 and 7)
+
+
+
+
+
+SHAREHOLDERS' EQUITY:
+
+
+  Preferred stock - $.50 par value; 1,500,000 
+shares authorized,
+    5,200 shares outstanding
+
+2,600
+
+  Common stock - $.50 par value; 20,000,000 
+shares authorized,
+    6,004,750 shares issued, and 5,988,109 
+shares outstanding
+
+2,994,055
+
+  Additional paid-in capital
+11,566,944
+
+  Deferred compensation
+(46,089)
+
+  Notes receivable from shareholders
+(87,500)
+
+  Accumulated deficit
+(8,065,044)
+
+
+- - -----------
+
+
+
+
+          Total shareholders' equity
+6,364,966
+
+
+- - -----------
+
+          Total liabilities and shareholders' 
+equity
+$ 6,446,258
+
+
+===========
+
+							F-3
+
+
+CHIEF CONSOLIDATED MINING COMPANY AND SUBSIDIARIES
+
+CONSOLIDATED STATEMENTS OF OPERATIONS
+
+FOR THE YEARS ENDED DECEMBER 31, 1996 AND 1995
+
+
+
+
+   1996   
+   1995   
+
+
+
+
+
+REVENUES:
+
+
+
+  Interest
+$    74,804
+$    77,308
+
+  Sale of flux materials
+- - -  
+194,389
+
+  Land sales and other
+41,206
+18,774
+
+
+- - -----------
+- - -----------
+
+          Total revenues
+116,010
+290,471
+
+
+- - -----------
+- - -----------
+
+
+
+
+
+EXPENSES:
+
+
+
+  General and administrative
+709,916
+633,202
+
+  Exploration costs
+435,187
+92,132
+
+  Other operating costs
+480,829
+652,647
+
+  Cost of sales of flux materials
+- - -  
+169,431
+
+  Taxes other than income taxes
+8,171
+37,653
+
+
+- - -----------
+- - -----------
+
+          Total expenses
+1,634,103
+1,585,065
+
+
+- - -----------
+- - -----------
+
+
+
+
+
+NET LOSS
+$(1,518,093)
+$(1,294,594
+)
+
+
+===========
+===========
+
+
+
+
+
+NET LOSS PER COMMON SHARE
+$      (.26)
+$      
+(.25)
+
+
+===========
+===========
+
+
+
+
+
+WEIGHTED AVERAGE NUMBER OF COMMON
+  SHARES OUTSTANDING
+
+5,947,028
+
+5,176,881
+
+
+===========
+===========
+
+							F-4
+
+The accompanying notes to consolidated financial statements are 
+in integral part of this consolidated balance sheet.
+
+
+
+CHIEF CONSOLIDATED MINING COMPANY AND SUBSIDIARIES
+
+CONSOLIDATED STATEMENTS OF SHAREHOLDERS' EQUITY
+
+FOR THE YEARS ENDED DECEMBER 31, 1996 AND 1995
+
+
+
+
+
+Preferred S
+tock
+Shares   
+Amount
+ 
+
+
+      Common Sto
+ck     
+  Shares     
+  Amount  
+
+Addition
+al
+Paid-in
+  Capita
+l  
+
+
+Deferred
+Compensa
+tion
+Notes 
+Receivab
+le
+From
+Sharehol
+ders
+
+
+Accumula
+ted
+  Defici
+t  
+
+
+
+
+
+
+
+
+
+Balance at December 31, 1994
+5,65
+3
+$2,82
+7
+4,874,5
+56
+$2,437,
+278
+$7,619,5
+81
+$    -  
+$     -  
+$(5,252,
+357)
+
+
+
+
+
+
+
+
+
+
+
+  Sale of common stock at 
+net 
+    proceeds of $4.00 per 
+share
+
+- - -  
+
+- - -  
+
+750,000
+
+375,000
+
+2,625,00
+0
+
+- - -  
+
+- - -  
+
+- - -  
+
+
+
+
+
+
+
+
+
+
+
+  Issuance of common stock 
+to an 
+    officer of the Company 
+in  exchange 
+    for services at an 
+average equivalent 
+    price of $6.44 per share
+
+
+
+- - -  
+
+
+
+- - -  
+
+
+
+3,000
+
+
+
+1,500
+
+
+
+17,813
+
+
+
+- - -  
+
+
+
+- - -  
+
+
+
+- - -  
+
+
+
+
+
+
+
+
+
+
+
+  Issuance of common stock 
+to two 
+    employees as an 
+incentive bonus at an
+    equivalent price of 
+$6.50 per share
+
+
+- - -  
+
+
+- - -  
+
+
+2,000
+
+
+1,000
+
+
+12,000
+
+
+- - -  
+
+
+- - -  
+
+
+- - -  
+
+
+
+
+
+
+
+
+
+
+
+  Issuance of common stock 
+in exchange
+    for consulting services 
+at an
+    average equivalent price 
+of $5.74
+    per share
+
+
+
+- - -  
+
+
+
+- - -  
+
+
+
+3,100
+
+
+
+1,550
+
+
+
+16,250
+
+
+
+- - -  
+
+
+
+- - -  
+
+
+
+- - -  
+
+
+
+
+
+
+
+
+
+
+
+  Sale of common stock in 
+connection 
+    with the exercise of 
+stock options 
+    at exercise prices of 
+$2.50 and $5.46 
+    per share
+
+
+
+- - -  
+
+
+
+- - -  
+
+
+
+180,000
+
+
+
+90,000
+
+
+
+670,800
+
+
+
+- - -  
+
+
+
+- - -  
+
+
+
+- - -  
+
+
+
+
+
+
+
+
+
+
+
+  Exercise of stock options
+- - -  
+- - -  
+- - -  
+- - -  
+75,000
+(75,000)
+- - -  
+- - -  
+
+
+
+
+
+
+
+
+
+
+
+  Loans issued to 
+shareholders for the 
+    exercise of stock 
+options
+
+- - -  
+
+- - -  
+
+- - -  
+
+- - -  
+
+- - -  
+
+- - -  
+
+(87,500)
+
+- - -  
+
+
+
+
+
+
+
+
+
+
+
+  Exchange of preferred 
+stock for 
+    common stock
+
+(453
+)
+
+(227)
+
+453
+
+227
+
+- - -  
+
+- - -  
+
+- - -  
+
+- - -  
+
+
+
+
+
+
+
+
+
+
+
+  Amortization of deferred 
+compensation
+- - -  
+- - -  
+- - -  
+- - -  
+- - -  
+3,726
+- - -  
+- - -  
+
+
+
+
+
+
+
+
+
+
+
+  Net loss
+- - -  
+- - -  
+- - -  
+- - -  
+- - -  
+- - -  
+- - -  
+(1,294,5
+94)
+
+
+- - ----
+- - -
+- - -----
+- - -
+- - -------
+- - --
+- - -------
+- - ---
+- - --------
+- - ---
+- - --------
+- - -
+- - --------
+- - -
+- - --------
+- - ---
+
+
+
+
+
+
+
+
+
+
+
+Balance at December 31, 1995
+5,20
+0
+$2,60
+0
+5,813,1
+09
+$2,906,
+555
+$11,036,
+444
+$ 
+(71,274)
+$ 
+(87,500)
+$(6,546,
+951)
+
+
+- - ----
+- - -
+- - -----
+- - -
+- - -------
+- - --
+- - -------
+- - ---
+- - --------
+- - ---
+- - --------
+- - -
+- - --------
+- - -
+- - --------
+- - ---
+
+
+
+
+
+
+
+
+
+
+
+
+
+Page 2 of 2
+
+CHIEF CONSOLIDATED MINING COMPANY AND SUBSIDIARIES
+
+CONSOLIDATED STATEMENTS OF SHAREHOLDERS' EQUITY
+
+FOR THE YEARS ENDED DECEMBER 31, 1996 AND 1995
+
+
+
+
+
+Preferred S
+tock
+Shares   
+Amount
+ 
+
+      Common Sto
+ck     
+  Shares     
+  Amount  
+
+Addition
+al
+Paid-in
+  Capita
+l  
+
+
+Deferred
+Compensa
+tion
+Notes 
+Receivab
+le
+From
+Sharehol
+ders
+
+
+Accumula
+ted
+  Defici
+t  
+
+
+
+
+
+
+
+
+
+Balance at December 31, 1995
+5,20
+0
+$2,60
+0
+5,813,1
+09
+$2,906,
+555
+$11,036,
+444
+$ 
+(71,274)
+$ 
+(87,500)
+$(6,546,
+951)
+
+
+
+
+
+
+
+
+
+
+
+  Sale of common stock in 
+connection 
+    with exercise of stock 
+options at 
+    an exercise of $3.00 per 
+share
+
+
+- - -  
+
+
+- - -  
+
+
+175,000
+
+
+87,500
+
+
+437,500
+
+
+- - -  
+
+
+- - -  
+
+
+- - -  
+
+
+
+
+
+
+
+
+
+
+
+  Grant of an option to 
+purchase 20,000 
+    shares of common stock 
+at an exercise
+    price of $7.00 per share 
+
+
+- - -  
+
+
+- - -  
+
+
+- - -  
+
+
+- - -  
+
+
+93,000
+
+
+- - -  
+
+
+- - -  
+
+
+- - -  
+
+
+
+
+
+
+
+
+
+
+
+  Amortization of deferred 
+compensation
+- - -  
+- - -  
+- - -  
+- - -  
+- - -  
+25,185
+- - -  
+- - -  
+
+
+
+
+
+
+
+
+
+
+
+  Net loss
+- - -  
+- - -  
+- - -  
+- - -  
+- - -  
+- - -  
+- - -  
+(1,518,0
+93)
+
+
+- - ----
+- - -
+- - -----
+- - -
+- - -------
+- - --
+- - -------
+- - ---
+- - --------
+- - ---
+- - --------
+- - -
+- - --------
+- - -
+- - --------
+- - ---
+
+
+
+
+
+
+
+
+
+
+
+Balance at December 31, 1996
+5,20
+0
+$2,60
+0
+5,988,1
+09
+$2,994,
+055
+$11,566,
+944
+$ 
+(46,089)
+$ 
+(87,500)
+$(8,065,
+044)
+
+
+====
+=
+=====
+=
+=======
+==
+=======
+===
+========
+===
+========
+=
+========
+=
+========
+===
+
+
+
+
+
+CHIEF CONSOLIDATED MINING COMPANY AND SUBSIDIARIES
+
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+
+FOR THE YEARS ENDED DECEMBER 31, 1996 AND 1995
+
+Increase (Decrease) in Cash and Cash Equivalents
+
+
+    1996 
+   
+    1995    
+
+CASH FLOWS FROM OPERATING 
+ACTIVITIES:
+
+
+
+  Net loss
+$(1,518,0
+93)
+$(1,294,594)
+
+  Adjustments to reconcile net loss 
+to 
+    net cash used in operating 
+activities-
+
+
+
+      Noncash expense related to 
+issuance of 
+        common stock options
+
+93,000
+
+- - -  
+
+      Issuance of common stock for
+        services rendered
+
+- - -  
+
+50,113
+
+      Depreciation
+16,838
+25,703
+
+      Amortization of deferred 
+compensation
+25,185
+3,726
+
+      Increase in accounts 
+receivable
+29,237
+69,929
+
+      (Decrease) increase in other 
+assets
+5,630
+(7,725)
+
+      Increase (decrease) in 
+accounts payable
+(193,069)
+11,248
+
+      Increase in accrued 
+liabilities
+1,565
+7,985
+
+
+- - ---------
+- - --
+- - -----------
+
+          Net cash used in operating
+            activities
+
+(1,539,70
+7)
+
+(1,133,615)
+
+
+- - ---------
+- - --
+- - -----------
+
+CASH FLOWS FROM INVESTING 
+ACTIVITIES:
+
+
+
+  Net decrease (increase) in U.S. 
+treasury
+2,058,557
+(1,334,617)
+
+  Mining property development costs
+(1,084,26
+1)
+(1,419,526)
+
+  Purchase of property and equipment
+- - -  
+(95,118)
+
+  Increase in investment in 
+affiliate
+- - -  
+(4,560)
+
+  Advances to affiliates
+(4,000)
+- - -  
+
+
+- - ---------
+- - --
+- - -----------
+
+          Net cash provided by (used 
+in)
+            investing activities
+
+970,296
+
+(2,853,821)
+
+
+- - ---------
+- - --
+- - -----------
+
+
+
+
+
+CASH FLOWS FROM FINANCING 
+ACTIVITIES:
+
+
+
+  Net proceeds from sale of common 
+stock
+525,000
+3,673,300
+
+  Decrease in minority interest
+(172)
+(206)
+
+
+- - ---------
+- - --
+- - -----------
+
+          Net cash provided by 
+financing
+            activities
+
+524,828
+
+3,673,094
+
+
+- - ---------
+- - --
+- - -----------
+
+
+
+(44,583)
+
+(314,342)
+
+
+
+
+
+CASH AT BEGINNING OF YEAR
+96,833
+411,175
+
+
+- - ---------
+- - --
+- - -----------
+
+
+CASH AT END OF YEAR
+
+$    
+52,250
+
+$    96,833
+
+
+=========
+==
+===========
+
+
+
+
+
+
+F-7
+The accompanying notes to 
+consolidated financial statements 
+are an integral part of these 
+consolidated statements.
+
+
+
+
+
+Page 2 of 2
+
+CHIEF CONSOLIDATED MINING COMPANY AND SUBSIDIARIES
+
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+
+FOR THE YEARS ENDED DECEMBER 31, 1996 AND 1995
+
+
+
+
+SUPPLEMENTAL SCHEDULE OF NONCASH INVESTING AND FINANCING 
+ACTIVITIES:
+
+	  During 1996, the Company contributed $3,923,510 of net mineral 
+properties
+    and $52,363 of net property and equipment as an investment in 
+the Tintic
+    Utah Metals LLC joint venture (see Note 1).
+
+  During 1996, the Company issued an option to purchase 20,000 
+shares of
+    common stock to the executive director of Tintic Utah Metals 
+LLC at an
+    option price of $7 per share.  The option had a fair value of 
+$4.65
+    per share.  In connection with the issuance of this option, 
+the Company
+    recognized noncash expense of $93,000.
+
+  During 1995, the Company loaned a total of $87,500 to an 
+officer and an
+    employee in connection with their exercise of options to 
+purchase
+    common stock.
+
+  During 1995, the Company issued 3,000 shares of its common 
+stock (market
+    price of $19,313 at the time of issuance) to its former 
+president 
+    and chief operating officer for services rendered in 
+connection 
+    with 
+his employment with the Company.
+
+  During 1995, the Company issued 3,100 shares of common stock 
+(market 
+    price of $17,800 at the time of issuance) to an entity as 
+partial 
+    payment for professional services rendered in connection with 
+providing
+    environmental compliance consultation to the Company.
+
+  During 1995, the Company issued 2,000 shares of common stock 
+(market price 
+    of $13,000 at the time of issuance) to two employees as an 
+incentive 
+    bonus in connection with their employment with the Company.
+
+
+							F-8
+
+
+
+
+CHIEF CONSOLIDATED MINING COMPANY AND SUBSIDIARIES
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+
+
+(1)  	NATURE OF OPERATIONS AND RECENT INVESTMENTS
+
+Chief Consolidated Mining Company ("Chief") was incorporated in 
+the state of Arizona in 1909.  The Company currently owns 8,554 
+acres of patented mining property in the Tintic Mining District 
+in Utah County and Juab County, Utah.  Chief and its subsidiaries 
+(collectively, the "Company") operate as a mineral resource 
+company actively engaged in the exploration and development of 
+their mining claims and properties.
+
+The Company owns approximately 23 percent of the outstanding 
+capital stock of Central Standard Consolidated Mines.
+
+On March 11, 1994, the Company entered into a letter agreement 
+(the "Agreement") with Akiko Gold Resources Ltd. ("Akiko") 
+providing for the eventual creation of a joint venture and the 
+sale by the Company of a total of 1,035,000 shares of its common 
+stock to Akiko.  On September 11, 1995, Akiko and KOREA Zinc Co., 
+Ltd. ("Korea Zinc") entered into a letter of intent wherein 
+Akiko would assign 50 percent of its potential joint venture 
+ownership to Korea Zinc in exchange for Korea Zinc purchasing the 
+remaining 500,000 shares of the Company's common stock that Akiko 
+was obligated to purchase and for a contribution of $3,000,000 to 
+the proposed joint venture on account of Akiko's obligation to 
+contribute $6,000,000 to the proposed joint venture.  The sale of 
+stock to Akiko and Korea Zinc was transacted through private 
+placement transactions at a price of $4 per share.  During 1995 
+and 1994, Akiko purchased 250,000 and 285,000 shares, 
+respectively, of the Company's common stock for a total of 
+$2,140,000 in cash.  During 1995, Korea Zinc purchased 500,000 
+shares of the Company's common stock for a total of $2,000,000 in 
+cash.
+
+Under a certain operating agreement dated July 17, 1996, the 
+Company, Akiko and Korea Zinc formed Tintic Utah Metals LLC 
+("Tintic"), a Colorado limited liability company.  The Company 
+contributed $3,975,873 of its mining claims and properties and 
+machinery and equipment for 50 percent membership interest in 
+Tintic.  Akiko and Korea Zinc were obligated under the July 17, 
+1996 operating agreement to contribute $3,000,000 each at which 
+time they would receive a 25 percent vested membership interest 
+in Tintic.  On March 11, 1997, the Company, Akiko and Korea Zinc 
+entered into an amendment of the Tintic operating agreement.  The 
+amendment provides for Akiko and Korea Zinc to vest in their 
+membership interests in Tintic as they each contribute the 
+$3,000,000 to Tintic in accordance with an agreed-upon schedule.  
+The amendment also provides that if Akiko does not make timely 
+contributions to Tintic, Korea Zinc can make the required 
+contribution and increase its respective interest in Tintic, so 
+long as Korea Zinc has paid its entire $3,000,000 contribution 
+cobligation.  
+							
+
+							F-
+
+
+If Korea Zinc does not make a contribution to Tintic that was 
+originally scheduled to be made by Akiko, then Korea Zinc and 
+Akiko are deemed to have relinquished any further right to 
+acquire additional interest in Tintic and the Company's 
+membership interest would increase correspondingly.  During 1996, 
+Korea Zinc contributed $2,000,000 to Tintic.  Korea Zinc will 
+vest its 25 percent interest in Tintic upon contribution of its 
+remaining $1,000,000 cash obligation.  The currently remaining 
+$4,000,000 in contributions will be contributed in various stages 
+in 1997 and 1998.  
+
+The Company's contribution was made at the historical bases of 
+the related mining properties and machinery and equipment for 
+financial reporting purposes.  No gain recognition or step-up in 
+basis was recorded in the accompanying consolidated financial 
+statements as a result of the transaction.  The investment, 
+classified under the caption "Investment In Tintic," is 
+accounted for using the equity method.
+
+On June 28, 1996, South Standard Mining Company ("South 
+Standard"), a Utah Corporation, merged with and into Chief Gold 
+Mines, Inc. ("Chief Gold"), a Delaware corporation and wholly 
+owned subsidiary of the Company with Chief Gold being the 
+surviving corporation.  The 1,241,717 outstanding shares of South 
+Standard common stock were converted into 372,515 shares of the 
+Company's common stock.  The transaction was accounted for as a 
+pooling of interests and the consolidated financial statements 
+have been retroactively restated for all periods prior to the 
+merger to include the operations of South Standard.  South 
+Standard owned 214 patented mining claims containing  
+approximately 2,554 acres and ten fractional unpatented claims 
+containing ten acres in the East Tintic Mining District in Utah 
+County and Juab County, Utah.
+
+Net revenues and net loss of the separate companies for the 
+periods preceding the acquisitions were as follows:
+
+
+Net 
+Revenues
+  Net 
+Loss  
+
+
+
+
+
+Year ended December 31, 
+1995:
+
+
+
+  Chief Consolidated, as 
+    previously reported
+
+$ 90,390
+
+$(1,178,88
+4)
+
+  South Standard
+ 201,699
+(115,710)
+
+  Intercompany royalties
+  (1,618)
+        -
+  
+
+
+- - --------
+- - ----------
+- - -
+
+  Combined, as reported 
+in the
+    accompanying 
+financial
+    statements
+
+
+$290,471
+
+
+$(1,294,59
+4)
+
+
+========
+==========
+=
+
+
+The Company's unrecovered investment in mining claims and 
+properties, net of applicable depletion, is $1,602,395 as of 
+December 31, 1996, representing approximately 25 percent of total 
+assets.  The Company's investment of $3,975,873 in Tintic 
+represents the historical basis of the mining properties and 
+machinery and equipment it contributed to the joint venture and 
+represents approximately 62 percent of total assets.  
+							F-10
+
+
+During the years ended December 31, 1996 and 1995, the Company 
+has not generated significant revenues and has incurred net 
+losses.  The Company's operating activities used $1,539,707 and 
+$1,133,615 of cash during the years ended December 31, 1996 and 
+1995, respectively.  Significant additional development costs 
+must be incurred to bring the Company's and Tintic's mining 
+properties into operation.  
+
+
+(2)  SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+
+Principles of Consolidation
+
+The accompanying consolidated financial statements include the 
+accounts of the Company and all majority-owned subsidiaries.  
+Investments, including Tintic and Central Standard Consolidated 
+Mines, in which the Company's interest is 50 percent or less and 
+where it is deemed that the Company's ownership gives it 
+significant influence are accounted for using the equity method.
+
+U.S. Treasury Bills
+
+In accordance with Statement of Financial Accounting Standards 
+("SFAS") No. 115, "Accounting for Certain Investments in Debt and 
+Equity Securities," the Company has classified all investments 
+in U.S. treasury bills as "available for sale."  SFAS No. 115 
+provides for recording of "available for sale" investments at 
+current market value with an offsetting adjustment to 
+shareholders' equity.  At December 31, 1996 and 1995, cost 
+approximated market value for these treasury bills.
+
+Mining Claims and Property
+
+Costs of developing mining properties (upon completion of 
+exploration) are capitalized.  Exploration costs are expensed as 
+incurred.  When a mining property reaches the production stage, 
+the related capitalized costs will be amortized using the units 
+of production method on the basis of proven and probable ore 
+reserves.  The Company's mining properties are periodically 
+assessed for impairment of value and any losses are charged to 
+operations at the time of impairment.  No mineral depletion 
+provisions have been made since 1978 as a result of suspension of 
+mining on the Company's properties.
+
+Property and Equipment
+
+Property and equipment are recorded at cost.  Major additions and 
+improvements are capitalized while minor replacements, 
+maintenance and repairs that do not increase the useful lives of 
+the assets are expensed as incurred.  Provision for depreciation 
+of property and equipment has been computed using the straight-
+line method over estimated useful lives ranging from 3 to 20 
+years.
+
+
+
+
+
+
+
+
+							F-11
+
+
+
+Income Taxes
+
+The Company follows the provisions of SFAS No. 109, "Accounting 
+for Income Taxes," which requires that income tax accounts be 
+computed using the liability method.  Deferred taxes are 
+determined based upon the estimated future tax effects of 
+differences between the financial statement and tax bases of 
+assets and liabilities given the provisions of currently enacted 
+tax laws.
+
+Net Loss Per Common Share
+
+The Company's net loss per common share has been calculated based 
+on the weighted average number of shares of common stock 
+outstanding during the year.  Common stock equivalents were 
+excluded from the calculation of the weighted average number of 
+shares outstanding for the years ended December 31, 1996 and 1995 
+because they were antidilutive, thereby decreasing the net loss 
+per common share.
+
+Pervasiveness of Estimates
+
+The preparation of financial statements in conformity with 
+generally accepted accounting principles requires management to 
+make estimates and assumptions that affect the reported amounts 
+of assets and liabilities and disclosure of contingent assets and 
+liabilities at the date of the financial statements and reported 
+amounts of revenues and expenses during the reporting period.  
+Actual results could differ from those estimates.
+
+Recent Accounting Pronouncement
+
+During 1996, the Company adopted SFAS No. 121, "Accounting For 
+The Impairment Of Long-Lived Assets And For Long-Lived Assets To 
+Be Disposed Of."  The adoption of SFAS No. 121 had no impact on 
+the Company's financial position or results of operations.
+
+Reclassifications
+
+Certain reclassifications have been made to the December 31, 1995 
+consolidated financial statements in order to conform to the 
+current year presentation.
+
+
+(3)  	CAPITALIZATION
+
+The Board of Directors of the Company has authorized the 
+issuance, at the stockholders' option, of common stock in 
+exchange for preferred stock on a share-for-share basis.  
+Preferred shares obtained in the exchange are retired.  During 
+1996 and 1995, 0 and 453 preferred shares, respectively, were 
+exchanged for common shares.
+
+The shares of preferred stock and common stock of the Company are 
+equal in the right to receive dividends, to vote, and in all 
+other respects except that upon liquidation the preferred shares 
+are entitled to a preferential payment of $.50 per share.
+							F-12
+During the first quarter of 1995, the Company agreed to 
+compensate its former president and chief operating officer (the 
+"Former President") through cash and/or issuance of common stock 
+at the Former President's election.  During
+1995, the Company issued 3,000 shares of common stock to the 
+Former President for services rendered.  The common stock was 
+issued at an agreed-upon value of an average of $4.56 per share 
+during 1995 which was below the market price of the Company's 
+common stock for the period the services were rendered.  As a 
+result, the Company recognized additional compensation expense of 
+$5,625 in the accompanying 1995 consolidated statement of 
+operations in connection with the issuance of these shares.  The 
+additional compensation represents the difference between the 
+market price of the Company's common stock during the period the 
+services were rendered and the agreed-upon value per share.
+
+During the year ended December 31, 1995, the Company issued 3,100 
+shares of common stock to an entity as partial payment for 
+professional services rendered in connection with environmental 
+compliance consultation provided to the Company.  The shares were 
+issued at a price equal to the market price of the common stock 
+on the date of issuance.
+
+During the year ended December 31, 1995, the Company issued 2,000 
+shares of common stock to two employees as incentive compensation 
+in exchange for previous services rendered.  The shares were 
+issued at a price equal to the market price of the common stock 
+on the date of issuance.
+
+
+(4)	  STOCK OPTIONS
+
+The Company applies APB Opinion 25 ("APB 25") and related 
+interpretations in accounting for its stock-based compensation 
+plans.  Accordingly, no compensation cost has been recognized for 
+stock options granted to officers, directors and other key 
+employees.  Had compensation cost been determined based on the 
+fair value at the grant date for awards under its plans 
+consistent with the method required by SFAS No. 123, the 
+Company's net loss and loss per share would have been increased 
+to the pro forma amounts indicated below:
+
+
+
+    1996   
+ 
+    1995  
+  
+
+
+
+
+
+
+Net loss:
+As 
+reported
+$(1,518,093
+)
+$(1,294,59
+4)
+
+
+Pro forma
+ 
+(2,819,793)
+ 
+(1,294,594
+)
+
+
+
+
+
+
+Net loss per 
+  common share:
+
+As 
+reported
+
+$      (.26
+)
+
+$      (.2
+5)
+
+
+Pro forma
+$      (.47
+)
+$      (.2
+5)
+
+
+The fair value of each option granted is estimated on the date of 
+grant using the Black-Scholes option pricing model with the 
+following weighted-average assumptions used for grants in 1996:  
+Risk-free interest rate of 6.2 percent; expected dividend yields 
+of 0 percent; expected lives of 10 years; expected volatility of 
+42 percent.
+
+Because the SFAS No. 123 method of accounting has not been 
+applied to options granted prior to January 1, 1995, the 
+resulting pro forma compensation cost may not be representative 
+of that to be expected in future years.  
+
+							F-13
+
+
+Incentive Stock Options
+
+In June 1982, the shareholders approved an Incentive Stock Option 
+Plan (the "Plan") for key employees which provided for the 
+Board of Directors to grant options to purchase up to 100,000 
+shares of the Company's common stock.  The Plan expired in June 
+1992.
+
+During the year ended December 31, 1995, the Company loaned an 
+officer and an employee $50,000 and $37,000, respectively, to 
+facilitate their exercise of stock options issued under the Plan.  
+The issuance of the loans to the employees created a new 
+measurement date for financial reporting purposes.  The Company 
+recorded deferred compensation of $75,000 (the difference between 
+the market value of the stock and exercise price of the options 
+on the date the loan was issued) in the accompanying 1995 
+statement of shareholders' equity.  The deferred compensation is 
+being amortized over the three-year life of the note receivable.  
+During the years ended December 31, 1996 and 1995, $25,185 and 
+$3,726 of expense related to the amortization of the deferred 
+compensation was recognized in the accompanying statements of 
+operations.
+
+During the year ended December 31, 1995, two officers and an 
+employee exercised a total of 75,000 options at exercise prices 
+of $2.50 per share.
+
+As of December 31, 1995, no incentive stock options remained 
+outstanding under the Plan.
+
+Nonqualified Stock Options
+
+From time to time, the shareholders have approved the issuance of 
+nonqualified stock options to officers, directors and a key 
+employee.  The nonqualified stock options are immediately vested 
+and must be exercised within ten years from the date of grant.
+
+During 1996, the shareholders approved the granting of 
+nonqualified stock options for the purchase of 120,000 shares of 
+common stock to certain officers and directors of the Company.  
+These options have an exercise price of $6.94 per share (which 
+was the market price on the date of grant) and expire on December 
+5, 2005.  During 1996, the shareholders approved the granting of 
+nonqualified stock options for the purchase of 170,000 shares of 
+common stock to certain officers and directors of the Company.  
+These options have an exercise price of $7.00 per share (which 
+was the market price on the date of grant) and expire on August 
+7, 2006. 
+
+							F-1
+
+
+A summary of the status of the nonqualified stock options at 
+December 31, 1996 and 1995 and changes during the years then 
+ended is presented in the table and narrative below:
+
+
+         1996      
+   
+         1995      
+   
+
+
+
+
+ Shares
+ 
+Wtd. Avg.
+Exercise
+  Prices  
+
+
+ Shares
+ 
+Wtd. Avg.
+Exercise
+  Prices  
+
+
+
+
+
+
+
+Outstanding at 
+  beginning of 
+year
+
+320,000
+
+$3.50
+
+320,000
+
+$3.50
+
+Granted
+290,000
+6.97
+- - -  
+  -  
+
+Exercised
+- - -  
+- - -  
+- - -  
+  -  
+
+Forfeited
+(60,000
+)
+3.50
+- - -  
+  -  
+
+
+- - -------
+
+- - -------
+
+
+Outstanding at end 
+  of year
+
+550,000
+ 
+5.33
+
+320,000
+
+3.50
+
+
+=======
+
+=======
+
+
+Exercisable at end 
+  of year
+
+550,000
+
+5.33
+
+320,000
+
+3.50
+
+
+=======
+
+=======
+
+
+
+
+
+
+
+
+Weighted average 
+fair
+  value of options
+  granted
+
+
+
+4.49
+
+
+
+- - -
+
+
+Of the 550,000 options outstanding and exercisable at 
+December 31, 1996, 260,000 have an exercise price of $3.50, with 
+a weighted average remaining contractual life of 7.5 years.  The 
+remaining 290,000 of the 550,000 options outstanding and 
+exercisable at December 31, 1996 have exercise prices ranging 
+between $6.94 and $7.00, with a weighted average exercise price 
+of $6.97 and a weighted average remaining contractual life of 9.4 
+years.
+						
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+							F-15
+
+
+Other Stock Options
+
+In addition to the incentive and nonqualified stock options 
+previously discussed, the Company has granted stock options to 
+investors and the executive director of Tintic at various times.  
+A summary of the status of the nonqualified stock options at 
+December 31, 1996 and 1995 and changes during the years then 
+ended is presented in the table and narrative below:
+
+
+         1996      
+   
+         1995      
+   
+
+
+
+
+ Shares
+ 
+Wtd. Avg.
+Exercise
+  Prices 
+ 
+
+
+ Shares
+ 
+Wtd. Avg.
+Exercise
+  Prices  
+
+
+
+
+
+
+
+Outstanding at 
+  beginning of 
+year
+
+394,300
+
+$6.63
+
+599,300
+
+$6.23
+
+Granted
+20,000
+7.00
+- - -  
+  -  
+
+Exercised
+(175,00
+0)
+3.00
+(105,00
+0)
+5.46
+
+Forfeited
+- - -  
+- - -
+(100,00
+0)
+5.46
+
+
+- - -------
+
+- - -------
+
+
+Outstanding at 
+end 
+  of year
+
+239,300
+
+9.31
+
+394,300
+
+6.63
+
+
+=======
+
+=======
+
+
+Exercisable at 
+end 
+  of year
+
+239,300
+
+9.31
+
+394,300
+
+6.63
+
+
+=======
+
+=======
+
+
+Weighted average 
+fair
+  value of 
+options
+  granted
+
+
+
+4.65
+
+
+
+ -  
+
+
+Of the 239,300 options outstanding and exercisable at 
+December 31, 1996, 20,000 have an exercise price of $7.00, with a 
+weighted average remaining contractual life of 9.6 years.  The 
+remaining 219,300 of the 239,300 options outstanding and 
+exercisable at December 31, 1996 have an exercise price of $9.52 
+and a weighted average remaining contractual life of .8 years.
+
+During the year ended December 31, 1996, the Company recorded 
+compensation expense of $93,000 in the accompanying consolidated 
+statement of operations for the options granted to Tintic's 
+executive director.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+							F-16
+
+
+(5)	  INCOME TAXES
+
+The income tax provisions for 1996 and 1995 differ from the 
+amounts computed by applying the statutory federal income tax 
+rate to the loss before provision for income taxes as follows:
+
+
+ 1996 
+ 1995 
+
+
+
+
+
+Statutory federal income
+  tax rate
+
+(35.0)%
+
+(35.0)%
+
+State income taxes, net
+  of federal benefit
+
+(3.3)%
+
+(3.3)%
+
+Nondeductible expenses
+     -  %
+     -  %
+
+Valuation allowance 
+38.3 %
+38.3 %
+
+
+- - -----
+- - -----
+
+
+
+
+
+Effective income tax rate
+     -  %
+     -  %
+
+
+=====
+=====
+
+
+
+The tax effects of temporary differences and the related 
+valuation allowance against the deferred income tax asset as of 
+December 31, 1996 were as follows:
+
+Deferred income tax assets:
+
+
+  Net operating loss carryforward
+$2,534,100
+
+  Future deductible expenses related 
+    to issuance of common stock 
+options
+
+187,021
+
+  Acquisition costs capitalized for
+    income tax purposes
+
+69,838
+
+  Other
+1,836
+
+
+- - ----------
+
+
+
+
+  Total deferred income tax assets
+2,792,795
+
+  Valuation allowance
+(2,665,073)
+
+
+- - ----------
+
+  Deferred income tax assets, net of
+    valuation allowance
+
+127,722
+
+
+
+
+Deferred income tax liability:
+
+
+  Tax over book depreciation
+(1,318)
+
+  Amortization of development costs
+(126,404)
+
+
+- - ----------
+
+
+
+
+Net deferred income taxes
+$      -  
+
+
+==========
+
+
+
+
+
+
+
+
+
+
+							F-17
+
+
+The Company has net operating loss carryforwards ("NOLs") for 
+federal tax reporting purposes of $6,625,098.  The NOLs expire as 
+follows:
+
+	Year of Expiration	  Amount  
+
+	1997	$   78,095
+	1998	161,465
+	1999	245,953
+	2000	192,858
+	2001	232,305
+	2002	197,762
+	2003	133,291
+	2004	204,917
+	2005	510,052
+	2006	256,031
+	2007	181,150
+	2008	772,649
+	2009	929,998
+	2010	1,213,554
+	2011	1,315,018
+		----------
+
+		$6,625,098 
+		==========
+
+The Tax Reform Act of 1986 contains provisions which limit net 
+operating loss carryforwards available based upon certain changes 
+in ownership.  In connection with the acquisition of South 
+Standard during 1996, changes in the ownership of South Standard 
+triggered limitations on all pre-existing net operating loss 
+carryforwards.  Additionally, the South Standard net operating 
+losses are available for use only by South Standard.  At December 
+31, 1996, management estimates that approximately $270,000 of net 
+operating loss carryforwards are limited to be used only by South 
+Standard.  Of this amount, approximately $180,000 of these net 
+operating loss carryforwards are available for use each year.  If 
+the annual limited amount is not utilized in any particular year, 
+it remains available on a cumulative basis through the expiration 
+date.
+
+
+(6)	  RELATED-PARTY TRANSACTIONS
+
+As discussed in Note 4, the Company loaned $50,000 to an officer 
+and $37,500 to an employee who are also shareholders of the 
+Company.  The loan to the officer bears interest at the prime 
+rate (8.25 percent at December 31, 1996) and interest is payable 
+quarterly.  The loan to the employee is noninterest bearing.  The 
+principal balance of both notes receivable is due on November 7, 
+1998.  These notes receivable are secured by certain shares of 
+the Company's common stock.
+
+
+
+
+
+
+
+							F-18
+
+
+(7)  	COMMITMENTS AND CONTINGENCIES
+
+Environmental Matters
+
+Prior to 1993, the Company leased its mining properties to other 
+companies for operation, exploration and development.  Under the 
+terms of the leases, these other companies were obligated to 
+comply with all federal, state and local environmental laws and 
+regulations affecting the mining industry.  All reclamation costs 
+related to the Company's properties prior to 1993 are the 
+responsibility of the prior operators (Lessees).  Management is 
+not aware of any current environmental contamination and clean-up 
+costs related to its mining properties resulting from activities 
+subsequent to 1992.
+
+Under the Company's agreement with Akiko and Korea Zinc, the 
+Company, Akiko and Korea Zinc would become liable for 
+environmental aspects of future operations on the Tintic 
+properties.  Tintic will be required to apply for the necessary 
+State of Utah permits ("permitting") in connection with various 
+aspects of its development and future mining activities, 
+including its plans for de-watering that portion of the Burgin 
+ore body that is located beneath the water table.  Since no final 
+plans will be formulated until additional work and studies at the 
+Tintic properties have been completed, no assessment can be made 
+at this time by the Company concerning potential issues that may 
+be raised by the authorities regarding environmental laws with 
+respect to the permitting.
+
+Office Lease
+
+The Company leased office space under a month-to-month operating 
+lease until March 1997.  Lease payments were $1,554 per month.  
+Total rent expense for office space was $18,654 during each of 
+1996 and 1995.
+
+In March 1997, the Company signed a long-term, noncancelable 
+operating lease for its New York City office space.  The lease 
+expires on May 31, 2001.  Lease payments are $1,850 per month.  
+Future minimum lease payments under this lease are due as 
+follows:
+
+	Year ending December 31,	
+
+	1997	$18,500
+	1998	22,200
+	1999	22,200
+	2000	22,200
+	2001	9,250
+		-------
+
+		$94,350
+		=======
+
+
+
+
+
+						F-19
+
+
+
+
+
+
+
+REPORT OF INDEPENDENT PUBLIC ACCOUNTANTS
+
+To the Management Committee and Members
+  of Tintic Utah Metals LLC:
+
+We have audited the accompanying balance sheet of Tintic Utah 
+Metals LLC (a Colorado limited liability corporation in the 
+development stage) (the "Company") as of December 31, 1996, and 
+the related statements of operations, members' capital and cash 
+flows for the period from inception (July 17, 1996) to December 
+31, 1996.  These financial statements are the responsibility of 
+the Company's management.  Our responsibility is to express an 
+opinion on these financial statements based on our audit.
+
+We conducted our audit in accordance with generally accepted 
+auditing standards.  Those standards require that we plan and 
+perform the audit to obtain reasonable assurance about whether 
+the financial statements are free of material misstatement.  An 
+audit includes examining, on a test basis, evidence supporting 
+the amounts and disclosures in the financial statements.  An 
+audit also includes assessing the accounting principles used and 
+significant estimates made by management, as well as evaluating 
+the overall financial statement presentation.  We believe that 
+our audit provides a reasonable basis for our opinion. 
+
+As discussed in Note 1, a substantial portion of the assets of 
+the Company consist of investments in mining claims and 
+properties for which significant additional development costs 
+must be incurred to bring these properties into operation.  The 
+realization of these investments is dependent upon the ability of 
+the Company to obtain the required capital to complete the 
+development of the mining properties. 
+
+In our opinion, the financial statements referred to above 
+present fairly, in all material respects, the financial position 
+of Tintic Utah Metals LLC as of December 31, 1996 and the results 
+of its operations and its cash flows for the period from 
+inception (July 17, 1996) to December 31, 1996 in conformity with 
+generally accepted accounting principles.
+
+
+
+ARTHUR ANDERSEN LLP
+
+
+Salt Lake City, Utah
+  March 14, 1997			
+
+
+							F-2
+
+
+TINTIC UTAH METALS LLC
+(A Development Stage Company)
+
+BALANCE SHEET
+
+AS OF DECEMBER 31, 1996
+
+
+
+
+
+
+Contribut
+ed
+Fair 
+Value 
+Adjustment 
+for
+Historical
+Predecessor
+    Basis    
+
+Historical
+Predecesso
+r
+   Basis  
+ 
+
+ASSETS
+
+
+
+
+
+
+
+
+
+CURRENT ASSETS:
+
+
+
+
+  Cash 
+$   
+862,239
+$       -  
+$  
+ 862,239
+
+  Accounts receivable
+11,708
+- - -  
+11,708
+
+
+- - ---------
+- - --
+- - -----------
+- - ----------
+- - -
+
+
+873,947
+- - -  
+873,947
+
+
+- - ---------
+- - --
+- - -----------
+- - ----------
+- - -
+
+
+
+
+
+
+MINING CLAIMS AND 
+PROPERTIES
+7,019,081
+(2,024,127)
+4,994,954
+
+
+- - ---------
+- - --
+- - -----------
+- - ----------
+- - -
+
+MACHINERY AND EQUIPMENT, 
+less
+  accumulated depreciation 
+  of $1,694
+
+
+13,551
+
+
+- - -  
+
+
+13,551
+
+
+- - ---------
+- - --
+- - -----------
+- - ----------
+- - -
+
+
+
+
+
+
+
+$ 
+7,906,579
+$(2,024,127)
+$ 
+5,882,452
+
+
+=========
+==
+===========
+==========
+=
+
+
+
+
+
+
+
+LIABILITIES AND MEMBERS' CAPITAL
+
+CURRENT LIABILITIES:
+
+
+
+
+  Accounts payable
+$   
+116,144
+$       -  
+$   116,144
+
+  Accrued liabilities
+38,595
+- - -  
+38,595
+
+  
+- - ---------
+- - --
+- - -----------
+- - -----------
+
+
+154,739
+- - -  
+154,739
+
+
+- - ---------
+- - --
+- - -----------
+- - -----------
+
+
+
+
+
+
+COMMITMENTS AND 
+CONTINGENCIES
+  (Notes 1 and 4)
+
+
+
+
+
+
+
+
+
+MEMBERS' CAPITAL
+7,751,840
+(2,024,127)
+5,727,713
+
+
+- - ---------
+- - --
+- - -----------
+- - -----------
+
+
+
+
+
+
+
+$ 
+7,906,579
+$(2,024,127)
+$ 5,882,452
+
+
+=========
+==
+===========
+===========
+
+
+
+
+
+
+
+
+
+
+F-21
+
+
+TINTIC UTAH METALS LLC
+(A Development Stage Company)
+
+STATEMENT OF OPERATIONS
+FOR THE PERIOD FROM INCEPTION (JULY 17, 1996)
+
+TO DECEMBER 31, 1996
+
+
+
+
+
+
+REVENUES
+$    -   
+
+
+
+
+
+
+
+
+
+
+GENERAL AND ADMINISTRATIVE EXPENSES
+(269,637)
+
+
+
+
+OTHER INCOME, net
+21,477
+
+
+- - ---------
+
+
+
+
+NET LOSS
+$(248,160)
+
+
+=========
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+F-22
+
+
+TINTIC UTAH METALS LLC
+(A Development Stage Company)
+
+STATEMENT OF MEMBERS' CAPITAL
+
+FOR THE PERIOD FROM INCEPTION (JULY 17, 1996)
+
+TO DECEMBER 31, 1996
+
+
+
+
+
+
+
+
+Contributed
+Fair Value 
+Adjustment 
+for
+Historical
+Predecessor
+     Basis   
+ 
+
+Historical
+Predecesso
+r
+   Basis  
+ 
+
+
+
+
+
+
+Balance at inception
+  (July 17, 1996)
+
+$       -  
+
+$       -  
+
+$       -  
+
+
+
+
+
+
+  Contribution of mining 
+    property and 
+equipment
+
+6,000,000
+
+(2,024,127)
+
+3,975,873
+
+
+
+
+
+
+  Contribution of cash
+2,000,000
+- - -  
+2,000,000
+
+
+
+
+
+
+  Net loss incurred 
+during
+    the development 
+stage
+
+(248,160)
+
+- - -  
+
+(248,160)
+
+
+- - -----------
+- - -----------
+- - ----------
+- - -
+
+
+
+
+
+
+Balance at December 31, 
+1996
+$ 7,751,840
+$(2,024,127)
+$ 
+5,727,713
+
+
+===========
+===========
+==========
+=
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+F-23
+
+The accompanying notes to financial statements are an integral 
+part of this statement.
+
+
+TINTIC UTAH METALS LLC
+(A Development Stage Company)
+
+STATEMENT OF CASH FLOWS
+
+FOR THE PERIOD FROM INCEPTION (JULY 17, 1996)
+
+TO DECEMBER 31, 1996
+
+Increase (Decrease) in Cash
+
+
+CASH FLOWS FROM OPERATING ACTIVITIES:
+
+
+  Net loss
+$  (248,160)
+
+  Adjustments to reconcile net loss to net 
+cash used
+    in operating activities-
+
+
+      Depreciation
+1,694
+
+        Change in assets and liabilities-
+
+
+          Increase in accounts receivable
+(11,708)
+
+          Increase in accounts payable and 
+            accrued liabilities
+
+154,739
+
+
+- - -----------
+
+
+
+
+              Net cash used in operating 
+activities
+(103,435)
+
+
+- - -----------
+
+CASH FLOWS FROM INVESTING ACTIVITIES:
+
+
+  Purchase of machinery and equipment
+(15,245)
+
+  Mining property development costs
+(1,019,081)
+
+
+- - -----------
+
+
+
+
+              Net cash used in investing 
+activities
+(1,034,326)
+
+
+- - -----------
+
+
+
+
+CASH FLOWS FROM FINANCING ACTIVITIES:
+
+
+  Member capital contributions
+2,000,000
+
+
+- - -----------
+
+
+
+
+              Net cash provided by financing 
+activities
+2,000,000
+
+
+- - -----------
+
+
+
+
+NET INCREASE IN CASH
+862,239
+
+
+
+
+CASH AT BEGINNING OF PERIOD
+- - -  
+
+
+- - -----------
+
+
+
+
+CASH AT END OF PERIOD
+$   862,239
+
+
+===========
+
+
+  SUPPLEMENTAL DISCLOSURE OF NONCASH INVESTING AND FINANCING 
+ACTIVITIES:
+
+    In connection with the formation of the Company, Chief 
+Consolidated Mining 
+      Company contributed mining properties and machinery and 
+equipment with a
+      contributed fair value of $6,000,000 (historical basis of 
+$3,975,873) to 
+      the Company in exchange for 50 percent interest in the 
+Company.
+
+
+
+
+
+
+							F-24
+The accompanying notes to financial statements are an integral 
+part of this statement.
+
+
+TINTIC UTAH METALS LLC
+
+(A Development Stage Company)
+
+NOTES TO FINANCIAL STATEMENTS
+
+
+
+(1)	FORMATION OF JOINT VENTURE AND NATURE OF OPERATIONS
+
+Tintic Utah Metals LLC (the "Company") was organized in 
+the state of Colorado in connection with a operating 
+agreement signed on July 17, 1996 between Chief Consolidated 
+Mining Company ("Chief"), Akiko Resources (Utah) Inc. 
+("Akiko") (a subsidiary of Akiko Gold Resources Ltd.) and 
+KZ Utah, Inc. ("Korea Zinc") (a subsidiary of Korea Zinc 
+Company, Ltd.).
+
+Under the operating agreement, Chief received a 50 percent 
+vested membership interest and Akiko and Korea Zinc will, 
+upon making the required cash capital contributions, each 
+receive a 25 percent vested membership interest in the 
+Company.  In exchange for its 50 percent membership 
+interest, Chief contributed approximately 8,700 acres of 
+patented mining property and related mining equipment to the 
+Company (which had an agreed upon fair value of $6,000,000 
+and an historical basis of $3,975,873).  Akiko and Korea 
+Zinc were each obligated to contribute $3,000,000 in cash to 
+the Company prior to August 31, 1998, at which time they 
+would receive their membership interests.  On March 11, 
+1997, Chief, Akiko and Korea Zinc entered into an amendment 
+of the Tintic operating agreement.  The amendment provides 
+for Akiko and Korea Zinc to vest in their interests in 
+Tintic as they contribute the $6,000,000 to Tintic in 
+accordance with an agreed upon time schedule.  Korea Zinc 
+will vest its 25 percent membership interest in the Company 
+upon contribution of its remaining $1,000,000 cash 
+obligation.  Akiko will vest 8.33 percent of its membership 
+interest each time it contributes $1,000,000 to the Company.  
+The amendment also provides that if Akiko does not make 
+timely contributions to Tintic, Korea Zinc can make the 
+required contribution and increase its membership interest 
+in Tintic accordingly, so long as Korea Zinc has paid in its 
+full $3 million contribution.  If Korea Zinc does not make a 
+contribution to Tintic that was originally scheduled to be 
+made by Akiko, then Korea Zinc and Akiko are deemed to have 
+relinquished any further right to acquire additional 
+membership interest in Tintic and Chief's membership 
+interest would increase correspondingly.
+
+The Company owns approximately 8,500 acres of patented 
+mining property in the Tintic Mining District in Utah County 
+and Juab County, Utah.  Additionally, the Company owns 
+unpatented mining claims covering approximately 200 acres in 
+the vicinity of its patented properties.  The Company's 
+primary objective is to bring the Burgin Mine back into 
+production.  Since the date of inception, the Company has 
+continued the development of the Burgin ore body that was 
+previously conducted by Chief.  In addition, as 
+circumstances permit, the Company anticipates conducting 
+further exploration and potentially acquiring additional 
+mineral properties in the Tintic Mining District.
+
+
+
+
+						F-25
+
+The Company is in the development stage and has not 
+generated any operating revenues to date.  There can be no 
+assurance of future revenues.  The developmental nature of 
+the Company's activities is such that inherent risks exist 
+in the Company's operations.  The Company's unrecovered 
+investment in mining claims and properties is $7,019,081 as 
+of December 31, 1996 representing approximately 89 percent 
+of total assets (at contributed fair value).  The Company's 
+operating and investing activities used $1,137,761 of cash 
+during the period from inception to December 31, 1996.  
+Significant additional development costs must be incurred to 
+bring the Company's mining properties with proven and 
+probable reserves into operation.  Akiko and Korea Zinc are 
+obligated to contribute an additional $3,000,000 and 
+$1,000,000 in cash, respectively, to fund the continued 
+operations of the Company.  Successful future operations are 
+dependent upon (among other factors) the continued funding 
+by the Company members, obtaining necessary regulatory 
+approvals, successful completion of a bankable feasibility 
+study and obtaining necessary debt or equity funding.
+
+
+(2)	SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+
+Mining Claims and Property
+
+Costs of developing mining properties (upon completion of 
+exploration) are capitalized.  Exploration costs are 
+expensed as incurred.  When a mining property reaches the 
+production stage, the related capitalized costs are 
+amortized using the units of production method on the basis 
+of proven and probable ore reserves.  The Company's mining 
+properties are assessed for impairment of value and any 
+losses are charged to operations at the time of impairment.  
+
+Machinery and Equipment
+
+Machinery and equipment are recorded at cost.  Major 
+additions and improvements are capitalized while minor 
+replacements, maintenance and repairs that do not increase 
+the useful lives of the assets are expensed as incurred.  
+Provision for depreciation of machinery and equipment has 
+been computed using the straight-line method over estimated 
+useful lives ranging from 3 to 10 years.
+
+Reclamation Costs
+
+Reclamation costs are accrued and expensed, principally by 
+the units-of-production method based on estimated proven and 
+probable ore reserves.  
+Reclamation liabilities are expensed upon determination.
+
+Income Taxes
+
+Federal and state income tax regulations require that the 
+income of a limited liability corporation be included in the 
+tax returns of the members; accordingly, there are no 
+liabilities or provisions for income taxes recorded in the 
+accompanying financial statements.
+
+Pervasiveness of Estimates
+
+The preparation of financial statements in conformity with 
+generally accepted accounting principles requires management 
+to make estimates and assumptions that affect the reported 
+amounts of assets and liabilities
+					F-26
+
+and disclosure of contingent assets and liabilities at the 
+date of the financial statements and reported amounts of 
+revenues and expenses during the reporting period.  Actual 
+results could differ from those estimates.
+
+Recent Accounting Pronouncement
+
+During 1996, the Company adopted Statement of Financial 
+Accounting Standards ("SFAS") No. 121, "Accounting For 
+The Impairment Of Long-Lived Assets and for Long-Lived 
+Assets to be Disposed Of."  The adoption of SFAS No. 121 
+did not have any impact on the Company's financial position 
+or results of operations.
+
+
+(3)  ENVIRONMENTAL MATTERS
+
+Under the operating agreement, Chief has indemnified the 
+Company from liabilities resulting from any activities 
+carried on by or on behalf of Chief on the contributed 
+properties prior to September 30, 1995.  The Company is 
+responsible for environmental aspects of operations 
+subsequent to September 30, 1995 on the Company's 
+properties.  The Company will be required to apply for the 
+necessary State of Utah permits ("permitting") in 
+connection with various aspects of its development and 
+future mining activities, including its plans for de-
+watering that portion of the Burgin ore body that is located 
+beneath the water table.  Since no final plans will be 
+formulated until additional work and studies at the 
+Company's properties have been completed, no assessment can 
+be made at this time by the Company concerning potential 
+issues that may be raised by the authorities regarding 
+environmental laws in connection with the permitting.  The 
+Company cannot estimate the future costs associated with 
+compliance with the permits or related laws and regulations.
+
+
+(4)  COMMITMENTS
+
+Vehicle Lease
+
+The Company leased a vehicle under a noncancelable operating 
+lease through October 1999.  The lease payments on the 
+vehicle are $285 per month and the remaining obligation as 
+of December 31, 1996 was $9,405 to be paid as follows:
+
+Year ending December 
+31, 
+
+
+
+
+
+	1997
+$3,420
+
+	1998
+3,420
+
+	1999
+2,565
+
+
+- - ------
+
+
+
+
+
+$9,405
+
+
+======
+
+
+
+
+						F-27
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+The accompanying notes to consolidated financial statements
+ are an integral part of this consolidated balance sheet.
+
+
+The accompanying notes to consolidated financial statements
+ are an integral part of these consolidated statements.
+
+
+
+
+
+
+
+
+The accompanying notes to financial statements
+ are an integral part of this balance sheet.
+
+
+
+
+The accompanying notes to financial statements
+ are an integral part of this statement.
+
+
+
+
+The accompanying notes to financial statements
+ are an integral part of this statement.
+
+
+
+
+
+
+
+
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

@@ -1,0 +1,3263 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ IazkezYYeM48jmSS6+9GTSUN8/W5qKDmy+MYHZPAp3eYqrhsOQpDd21PRvIkUJuW
+ xehnULl6zbQgjnicLZl82Q==
+
+<SEC-DOCUMENT>0000031079-96-000013.txt : 19960930
+<SEC-HEADER>0000031079-96-000013.hdr.sgml : 19960930
+ACCESSION NUMBER:		0000031079-96-000013
+CONFORMED SUBMISSION TYPE:	10KSB
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	19960630
+FILED AS OF DATE:		19960927
+SROS:			NASD
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			EASTCO INDUSTRIAL SAFETY CORP
+		CENTRAL INDEX KEY:			0000031079
+		STANDARD INDUSTRIAL CLASSIFICATION:	ORTHOPEDIC, PROSTHETIC & SURGICAL APPLIANCES & SUPPLIES [3842]
+		IRS NUMBER:				111874010
+		STATE OF INCORPORATION:			NY
+		FISCAL YEAR END:			0630
+
+	FILING VALUES:
+		FORM TYPE:		10KSB
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-08027
+		FILM NUMBER:		96635352
+
+	BUSINESS ADDRESS:	
+		STREET 1:		130 W 10TH ST
+		CITY:			HUNTINGTON STATION
+		STATE:			NY
+		ZIP:			11746
+		BUSINESS PHONE:		5164271802
+
+	MAIL ADDRESS:	
+		STREET 1:		130 W 10TH ST
+		CITY:			HUNTINGTON SQUARE
+		STATE:			NY
+		ZIP:			11746
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	EASTCO SAFETY EQUIPMENT INC
+		DATE OF NAME CHANGE:	19760225
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	GLOFANE CO INC
+		DATE OF NAME CHANGE:	19750501
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>10KSB
+<SEQUENCE>1
+<TEXT>
+
+<PAGE>
+                       SECURITIES AND EXCHANGE COMMISSION
+                             Washington, D.C. 20549
+                                        
+                                   FORM 10-KSB
+
+[X]  ANNUAL REPORT PURSUANT TO SECTION 13 OR 15 (d) OF THE SECURITIES
+EXCHANGE ACT OF 1934 [FEE REQUIRED]
+
+For the Fiscal Year Ended June 30, 1996
+
+OR
+
+[ ]  TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES 
+     EXCHANGE ACT OF 1934 [NO FEE REQUIRED]
+
+     For the transition period from ___________ to ___________
+
+     Commission File No. 0-8027
+
+                         EASTCO INDUSTRIAL SAFETY CORP.                  
+                 (Name of small business issuer in its charter)
+
+    NEW YORK                  5098                       11-1874010
+- --------------                ----                       -----------
+(State or other          (Primary Standard             (I.R.S. Employer
+jurisdiction of          Industrial Classification       Identification
+incorporation or              Code Number)                  Number)
+organization)
+
+       130 West 10th Street, Huntington Station, New York         11746
+     --------------------------------------------------------------------
+        (Address of principal executive offices)               (Zip Code)
+
+Registrant's telephone number, including area code (516) 427-1802
+                                                    -------------
+Securities registered pursuant to Section 12 (b) of the Act:
+
+          None
+
+Securities registered pursuant to Section 12 (g) of the Act:
+
+     a) $.12 par value common stock ("Common Stock")
+     b) Class A Redeemable Common Stock Purchase Warrant ("Class A Warrant")
+
+Check whether the registrant (1) has filed all reports required to be filed
+by Section 13 or 15 (d) of the Exchange Act of 1934 during the past twelve
+(12) months (or for such shorter period that the registrant was required to
+file such reports), and (2) has been subject to the filing requirements for
+the past ninety (90) days.
+
+                         YES  X                NO     
+                             ---                  ---
+Check if there is no disclosure of delinquent filers in response to Item 405
+of Regulation S-B not contained in this form, and no disclosure will be
+contained, to the best of registrant's knowledge, in definitive proxy or
+information statements incorporated by reference in Part III of this Form
+10-KSB or any amendment to this Form 10-KSB:  [X]
+
+<PAGE>
+
+State registrant's revenues for its most recent fiscal year.  $26,982,699
+
+The aggregate market value of the voting stock held by non-affiliates of the
+registrant as of August 16, 1996 was approximately $3,951,000. Non-affiliates
+include all shareholders other than officers, directors and 5% shareholders
+of the Company.  Market value is based upon the price of the Common Stock as
+of the close of business on August 16, 1996 which was $7 1/4 per share as
+reported by NASDAQ.
+
+As of August 16, 1996, the number of shares outstanding of the Common
+Stock was 879,488 shares.  The number of shares has been adjusted for prior
+stock splits and estimated rounding for fractional shares.
+
+<PAGE>
+                             PART I
+                                
+Item 1.  Description of Business
+
+(a)  Business Development.
+
+     Eastco Industrial Safety Corp. ("Eastco"), the registrant, is a
+corporation organized and existing under the laws of the State of New York,
+having been incorporated on May 15, 1958.
+
+     The Company, through its wholly-owned subsidiaries, Disposable Safety
+Wear, Inc. ("Disposable"), Safety Wear Corp. ("Safety Wear"), Puerto Rico
+Safety Equipment Corporation ("Puerto Rico Safety Equipment"), and Puerto
+Rico Safety Corp. ("Puerto Rico Safety"), manufactures industrial protective
+clothing products and distributes a wide range of industrial safety products. 
+The Company's Manufacturing Operations sells its products to distributors. 
+The Company's Distribution Operations sells products to "end users,"
+including manufacturing companies and service businesses, public utilities,
+fisheries, pharmaceutical plants, the transportation industry and companies
+engaged in hazardous materials abatement. Use of products sold by the Company
+has in a large part resulted from the adoption of OSHA standards and the
+awareness of industry and the general public for the need to remove hazardous
+materials contained in industrial facilities, schools and buildings.
+
+(b) Business of Issuer.
+
+Manufacturing Operations
+
+(1)  Manufactured products are sold under the "Charkate /Worksafe",
+"Charkate", "Worksafe" and "COVER-UP" trade names. The Company, through
+Disposable, Safety Wear and Puerto Rico Safety Equipment manufactures
+disposable and reusable industrial protective apparel.  Disposable protective
+products items include coveralls, shirts, pants, hats, hoods, aprons, smocks,
+lab coats, hazardous material handler suits, examination gowns, sleeves, shoe
+covers and related items.  Disposable clothing is designed to protect the
+user from, among other things, splash, dirt contamination and against a wide
+range of hazardous substances. Disposable clothing is made primarily of a
+spun bonded polyolefin produced solely by Dupont under the trade name
+Tyvek(R).  Reusable industrial protective clothing consists of items for the
+protection of various parts of the body which are designed to shield the user
+from, among other things, splash, dirt, contamination, heat, fire, cold and
+the outside environment.  Specific products manufactured include coveralls,
+gloves, mitts, shirts,  thermal underwear, sleeves, coats, pants, leggings,
+spats, bibs, safety vests and a variety of other kinds of protective clothing
+and uniforms.  The Company also manufactures welding blankets, curtains and
+screens. 
+
+     Sales of manufactured disposable clothing and related disposable
+products accounted for approximately 43% and 39% of the Company's
+consolidated revenues for the fiscal years ended June 30, 1996 and 1995,
+respectively.
+
+(2)  The Company's Manufacturing Operations and warehousing are located
+primarily in Puerto Rico and Alabama.  The Company's manufacturing
+operations are directed primarily from New York. The Company is presently
+testing the use of contracted production facilities in Mexico. The 
+Company's products are sold primarily in the United States and Puerto Rico. 
+The Company sells its manufactured products through sales representatives.
+
+
+                                   1
+
+<PAGE>
+
+In addition, manufactured products are sold through the Company's
+Distribution Operations in the northeastern region of the United States
+and Puerto Rico to "end users."  
+
+     The Company utilizes catalogs and telemarketing to aid in its sales
+efforts, although the Company does not engage in any mail order business.
+Sales are primarily to distributors who sell to "end users" comprised of
+industrial, commercial and governmental accounts.  The Company considers
+industrial accounts to be those businesses which are primarily based upon
+manufacturing and production, while commercial accounts are considered by the
+Company to be service businesses.  The Company also believes that standards
+established by OSHA have resulted in a need by others to purchase the
+Company's products.  Sales are also promoted through trade shows, mailings
+and advertising in trade magazines and directories.
+
+(3)      The Company has made no public announcement of, or made public
+information about, any new product in this segment which would require the
+investment of a material amount of the Company's assets or which otherwise is
+material.  
+
+(4)      The market for industrial protective clothing and industrial safety
+products is extremely competitive.  The Company faces competition in all  of
+its product markets from large, established companies that have greater
+financial, managerial, sales and technical resources than the Company, and
+some of the Company's product markets are dominated by such larger companies. 
+Larger competitors also may be able to benefit from economies of scale and
+introduce new products that compete with the Company's products.  The
+Company's primary competitors in its Manufacturing Operations are Kappler
+Inc. and Lakeland Industries, Inc., in disposable clothing sales, and P.G.I.,
+Incorporated, Red Kap, a subsidiary of VF Industries Inc., Topps Mfg. Co. and
+Workrite Uniform Co. in the sale of reusable clothing.  Primary competitors
+in the manufacture of reusable gloves are Chicago Protective Apparel, Inc.
+and Steel Grip, Inc.
+
+(5)     The Company is not dependent upon any one company for a source of
+supply of raw materials for its manufacturing operations other than DuPont
+which supplies the Company with Tyvek(R), which is used in various lines of
+its disposable products. Products utilizing Tyvek(R) accounted for
+approximately 41% and 35% of consolidated sales for the fiscal years ended
+June 30, 1996 and June 30, 1995, respectively.  Management believes that its
+current relationship with DuPont is satisfactory.  However, the Company has
+no contract with DuPont for the supply of such raw material; therefore,
+DuPont could terminate this relationship at any time.
+
+(6)     This segment of the Company is not dependent upon any single customer
+or any few customers, the loss of any one or more of whom would have an
+adverse effect on the business of the Company.  No one company or customer
+accounts for more than 10% of this segment's sales.  
+
+(7)      Puerto Rico Safety Equipment is engaged in manufacturing in Puerto
+Rico and was granted an exemption for seventeen (17) years under the Puerto
+Rico Industrial Tax Exemption Act of 1963 (the "Industrial Tax Act") with
+respect to Puerto Rico income taxes on the production of such items as safety
+clothing, protective sleeves, coats, pants, hoods and jackets for the period
+commencing January 1, 1970.  On July 1, 1989 Puerto Rico Safety Equipment was
+
+                                   2 
+
+<PAGE>
+
+granted an extension of its exemption and has a 90% exemption from Puerto
+Rico income taxes for the ten-year period ending on June 30, 1999.  During
+this period, Puerto Rico Safety Equipment has a 75% exemption from Puerto
+Rico municipal taxes on its real and personal property utilized in its
+operations.
+
+     Disposable has been granted a fifteen-year exemption under the
+Industrial Tax Act with respect to Puerto Rico income taxes on its operations
+covering the production of disposable clothing and with respect to the
+property used in its operations for the period commencing June 4, 1977,
+subject to the terms of the grant.  This exemption has been extended until
+June 30, 2006 on the basis of a 90% exemption on Puerto Rico income taxes and
+a 60% exemption on municipal taxes on its real and personal property.
+
+     Puerto Rico Safety Equipment and Disposable have elected to apply
+Section 936 of the Internal Revenue Code, effective July 1, 1979.  The
+provisions of Section 936 are effective until revoked by the Company.  If the
+conditions of Section 936(a)(2) are satisfied, the Section 936 credit equals
+the portion of the United States income tax that is attributable to taxable
+income from sources outside the United States derived from the active conduct
+of a trade or business within a United States possession, or the sale or
+exchange of substantially all of the qualified possession source investment
+income.  Dividends payable by each subsidiary to the Company from operations
+are entitled to a 100% dividends received deduction but are subject to a 10%
+withholding tax in Puerto Rico.  The Omnibus Budget Reconciliation Act of
+1993 (the "Omnibus Act") imposes new limitations on computing the Possession
+Tax Credit under Section 936 for tax years beginning after 1993.  There are
+two methods for determining the credit under the new law.  Under the first
+method, the amount of the credit may be determined by using the so-called
+economic activity limit.  This attempts to limit the credit by applying
+various percentages to possession-based compensation, depreciation and taxes
+paid or accrued.  Alternatively, the Company may make an irrevocable election
+when it files its June 30, 1995 federal income tax return to have present
+rules apply, but to phase out the credit to 60% of the 1994 level, and
+further phase down by 5% per year to 40% in 1998 and years thereafter.  Since
+the credit is a function of future earnings, if any, the effect of such
+limitations cannot be determined at the present time.  In addition, the
+Omnibus Act makes the 100% dividends received deduction subject to the
+Alternative Minimum Tax Calculation. The Small Business Job Protection Act of
+1996 further limits the Possession tax credit for years beginning after 2001
+with the credit being eliminated for tax years beginning after 2005. No
+dividends have been declared on the aggregate undistributed earnings of
+Puerto Rico Safety Equipment and Disposable (which through June 30, 1996,
+aggregates approximately $2,321,000) and none are intended to be declared 
+because it is management's intention to reinvest the earnings, if any, from
+such subsidiaries indefinitely.  The Company believes that based upon
+current operations, the Omnibus Act will not have a material effect on the
+Company for the foreseeable future.
+
+     As Puerto Rico tax exemptions are reduced or expire the Company may be
+required to pay taxes on income earned in Puerto Rico.  The Company is unable
+to predict the amount of such impact after such exemptions are reduced or
+expire.   
+
+(8) and (9) The Company does not believe that there is a need for
+governmental approval for it to  sell its principal products in this segment.
+Various of the Company's products are subject to OSHA and other governmental
+standards.
+
+                                   3
+
+<PAGE>
+
+(10) The Company, during the last two fiscal years, has not spent any
+material amount on research and development relating to the development of
+new products, services or techniques or the improvement of existing products,
+services or techniques.
+
+(11) Compliance with Federal, State and local environmental laws is expected
+to have no material effect upon capital expenditures, earnings and the
+competitive position of the Company.  
+
+     The Company's manufacturing facilities are subject to regulation and
+inspection standards established by OSHA.  Such facilities have not yet been
+inspected for compliance with OSHA.  Although the Company believes it is in
+material compliance with required standards, there can be no assurance that
+any inspection will not reveal that the Company has failed to comply with
+OSHA and that, as a result, the Company may be required to expend sums, which
+can be costly, to assure compliance with OSHA regulations.
+
+(12) The total number of employees employed by the registrant as of June 30,
+1996 was approximately 214 for both segments.
+
+Distribution Operations
+
+(1)  The Company, primarily through Eastco, distributes industrial safety
+products to "end-users" made by the Charkate / Worksafe division as well as
+by non-affiliated companies.  These products include hard hats, protective
+glasses, ear muffs, ear plugs, respirators, goggles, face shields, rainwear,
+protective footwear, first-aid kits, monitoring devices, signs and related
+products. These products are sold to manufacturing companies and service
+businesses, including public utilities, fisheries, hospitals, pharmaceutical
+plants, the transportation industry and companies engaged in hazardous
+materials abatement.
+
+     The Company supplies a variety of items which may be used during the
+removal and/or encapsulation of hazardous materials in office buildings,
+chemical plants, refineries, electric generating plants and schools. 
+Abatement products sold by the Company include in the largest part, items
+made by other companies, such as negative air machines, respirators, air
+filtration equipment, vacuums, polybags and sheetings, decontamination
+showers, signs, tools, pumps, sprayers and related equipment.  The Company
+does not engage in the removal or encapsulation of hazardous materials. 
+Sales of these products accounted for approximately 20% and 22% of the
+Company's consolidated revenues for the fiscal years ended June 30, 1996 and
+June 30, 1995, respectively.  The foregoing percentages do not include
+products used in the abatement field which are manufactured by the Company.
+
+(2)  The Company's Distribution Operations are primarily directed from the
+Company's offices in New York.  The Company also has facilities for
+warehousing and distribution of its non-manufactured products in Puerto Rico,
+Connecticut and Florida.  The Company sells a variety of safety products from
+independent manufacturers, including, but not limited to 3M, Racal Health and
+Safety, Inc.  Items distributed are sold primarily in the northeastern region
+of the United States.
+
+     The Company employs 10 full-time salespeople in its Distribution
+Operations who sell products distributed by the Company, and on a more
+limited basis, products manufactured by the Company.  The Company uses 
+
+                                   4
+
+<PAGE>
+
+catalogs and telemarketing to aid in its sales efforts.  The Company does not
+engage in any mail order business nor sell on a retail basis.  Sales are
+primarily to industrial, commercial and governmental accounts which are "end
+users".
+
+(3)  The Company has made no public announcement of, or made public
+information about, any new product in this segment which would require the
+investment of a material amount of the Company's assets or which otherwise is
+material.  
+
+(4)  The market for industrial protective clothing and industrial safety
+products is extremely competitive.  The Company faces competition in all  of
+its product markets from large, established companies that have greater
+financial, managerial, sales and technical resources than the Company, and
+some of the Company's products markets are dominated by such larger
+companies. Larger competitors also may be able to benefit from economies of
+scale and introduce new products that compete with the Company's products.
+The Company's major competitors in its Distribution Operations are Balco
+Industries, Inc. and Freemont Safety Corp. in industrial sales, and
+Insulation Distributions Company, Industrial Productions Company and Aramsco
+Company in abatement sales.
+
+(5)  The Company serves as a distributor for various firms but is not
+dependent upon any one company for which it acts as a distributor.
+
+(6)  This segment of the Company is not dependent upon any single customer or
+any few customers, the loss of any one or more of whom would have an adverse
+effect on the business of the Company.  No one company or customer accounts
+for more than 10% of this segment's sales.
+
+(7)  Patents, trademarks, licenses, franchises and concessions are not
+material to this segment.
+
+(8) and (9)  The Company does not believe that there is a need for
+governmental approval for it to  sell its principal products in this segment. 
+Various of the Company's products are subject to OSHA and other governmental
+standards.
+
+(10)  The Company, during the last two fiscal years, has not spent any
+material amount on research and development relating to the development of
+new products, services or techniques, or the improvement of existing
+products, services or techniques.
+
+(11)  Compliance with Federal, State and local environmental laws is expected
+to have no material effect upon capital expenditures, and the competitive
+position of the Company.
+
+(12)  See (12) above under the Company's Manufacturing Operations.
+
+
+
+
+
+
+                                   5
+
+<PAGE>
+
+Item 2.  Description of Property
+
+     The following properties are material to the business of the Company:
+
+     The executive offices of the Company are located at 130 West 10th
+Street, Huntington Station, New York and are owned by the Company (the
+"Huntington Property").  The Huntington Property is also used for warehousing
+and distributing and contains approximately 25,000 square feet of warehouse
+space and 5,000 square feet of office space.  At June 30, 1996, the premises
+were subject to a first real estate mortgage due to 130 West 10th Street
+Associates, LLC  ("Associates"). in the amount of $489,781.  The wives of
+Messrs. Alan Densen and Anthony Towell, executive officers and directors of
+the Company and Herbert Schneiderman, a director, are members of Associates.
+
+     The Company's wholly owned subsidiary, Disposable, leases a building
+consisting of approximately 45,000 square feet in Aguadilla, Puerto Rico from
+the Puerto Rico Industrial Development Company which is used for
+manufacturing and warehousing.  A lease was entered into for these premises
+on February 21, 1995, effective for the ten year period commencing September
+1, 1993.  Rent for the two year period ending August 31, 1996 is at the
+monthly rate of $7,079, which escalates to $13,041 in the final year of the
+lease.
+
+     The Company's wholly owned subsidiary, Safety Wear, occupies
+approximately 30,000 square feet in Decatur, Alabama.  The premises are
+utilized for the cutting and warehousing of coveralls and the manufacturing
+of disposable products.  The Company pays $6,450 rent per month. The premises
+are leased on a month-to-month basis.  Should these facilities not be
+available to the Company, the Company believes that alternative sites are
+available at a comparative cost.
+
+Item 3.   Legal Proceedings
+
+     The Company, in the past, used asbestos in the manufacture of its
+products.  Such use was terminated by the Company in the mid-1980's.  It has
+been alleged that asbestos is a cause of cancer, asbestosis, mesothelioma,
+and other related diseases, the symptoms of which may not appear for twenty
+or more years.  Since the early 1980's, numerous lawsuits have been
+instituted against the Company by persons who have been exposed to asbestos
+and asbestos products. Such legal proceedings, for the most part, are covered
+by the Company's insurance policies.  
+
+     As of June 30, 1996, the Company estimates that it is a party to
+approximately 280 cases with respect to exposure to asbestos involving
+approximately 1300 plaintiffs, of which no cases pertain to Puerto Rico
+Safety Equipment.  Reference is made to Exhibit 99.05 for a schedule of the
+pending actions against the Company, as of June 30, 1996, that have not been
+settled or dismissed. 
+
+     All of the actions against the Company to date have been brought by
+non-employees of the Company and are based upon personal injury claims.  The
+pending actions are in the Supreme Court of the State of New York, County of
+New York; Superior Court of New Jersey, Middlesex County, Law Division; and
+the Court of Common Pleas of Luzerne County, Trial Division of Pennsylvania. 
+The number of first-party plaintiffs include, in various instances, spouses
+of said plaintiffs.  The actions, with the exception of one pending action,
+
+                                   6
+
+<PAGE>
+
+involve a multitude of defendants.  The complaints allege exposure to
+asbestos and asbestos products over various periods of time.  Each seeks
+varying amounts of damages, usually unlimited, or for each plaintiff as high
+as $10,000,000 for compensatory damages and $20,000,000 for punitive damages. 
+The Company may become a party to additional asbestos actions in the future. 
+
+     From 1981 through June 30, 1996, the Company estimates that
+approximately 900 actions on behalf of approximately 7,500 first-party
+plaintiffs have been instituted against it concerning asbestos-related claims
+and that approximately 600 actions and the claims of approximately 6,200
+plaintiffs have been terminated against the Company.  During fiscal 1996, the
+Company estimates approximately 30 actions on behalf of approximately 630
+first party plaintiffs were instituted against it and approximately 30
+actions on behalf of approximately 670 plaintiffs actions were settled or
+discontinued against it for which the Company's obligations on these
+settlements were approximately $19,000.  The Company estimates that as of
+June 30, 1996, with the exception of defense costs, a total of approximately
+$1,400,000 has been paid, or agreed to be paid, in settlements to date with
+regard to the terminated actions (inclusive of actions against Puerto Rico
+Safety Equipment) of which all but approximately $30,000 has been paid by the
+Company's insurance carriers. The foregoing is based upon information
+available to the Company to date. Through June 30, 1996, the Company has paid
+less than $35,000 for legal and defense costs to counsel appointed by the
+insurance carriers to defend it.  Past results of settlements and defense
+costs are not necessarily indicative of future settlements and defense costs,
+which the Company is unable to predict.
+
+     For the period April 1, 1968 to April 1, 1969 and March 11, 1971 to
+November 27, 1985, the Company believes that it has various policies of
+primary insurance in different amounts which would protect it against
+liability for asbestos-made, product-related personal injuries.  The policies
+range in amounts from $50,000 to $1,000,000.  The Company also believes that
+since August 10, 1972 to on or about August 11, 1986 it has had various
+policies for excess coverage applicable to asbestos claims.  These policies
+range in amounts from $500,000 to $10,000,000 for excess coverage. There are
+gaps of approximately six weeks in the primary coverage between March 11,
+1971 to November 27, 1985 and approximately thirty-six months in the excess
+coverage between August 10, 1972 and August 11, 1986 and an additional period
+of approximately thirteen months for excess coverage insurance companies in
+liquidation where there is likely to be no coverage. Reference is made to
+Exhibits 99.06 and 99.07 for a schedule of the foregoing insurance policies. 
+The policies of insurance set forth on Exhibits 99.06 and 99.07 are not
+applicable to all of the subsidiaries of the Company, which have varying
+coverage, and such subsidiaries may also be without coverage for various
+times of their doing business.  Not all of these policies are in the
+possession of the Company.  
+
+     During fiscal 1994, the Company reached a settlement pertaining to all
+pending and future cases against Eastco in the State of  New York brought by
+one firm of plaintiffs' attorneys, which firm has been primarily responsible
+for bringing asbestos actions against the Company in the State of New York. 
+The settlement does not apply to Puerto Rico Safety Equipment and is only
+applicable to cases brought by the same law firm against the Company in the
+state of New York.  The Company is to be dismissed without any payment in
+cases not involving any exposure to a power generating station in the State
+of New York ("Powerhouse").  Where there is Powerhouse exposure, a payment of
+
+                                   7 
+
+<PAGE>
+
+$100 is to be made for each alleged nonmalignant case and $300 for each
+malignant case. Where plaintiffs consist of two spouses, such is deemed one
+case. Payment is to await appropriate documentation of exposure, releases
+from the plaintiffs and the agreement of each plaintiff whose case is
+settled.  A copy of the letters between counsel for the Company and counsel
+for plaintiffs' attorneys setting forth this settlement is designated as
+Exhibit 99.11.
+
+     Effective June 26, 1990, an agreement between the Company and its
+primary insurance carriers dated March 26, 1990 became effective.  The
+Company entered into this agreement in an effort to resolve uncertainties as
+to its insurance coverage which will cover asbestos claims against the parent
+Company where any exposure to asbestos is alleged during the period 1971 to
+1985, inclusive.  Pursuant to this agreement, the Company is obligated to
+share in the payment of asbestos-related claims against Eastco. Pursuant to
+the agreement, the Company is obligated to pay 12% of all attorneys' fees
+incurred on its behalf and 17% of indemnity costs (which include judgment and
+settlement amounts).  The balance of these costs are to be paid by the
+insurance carriers which are party to the agreement.  The agreement is
+subject to policy limitations of each insurance policy.  The agreement may be
+terminated at any time upon ninety (90) days' notice by any of the parties
+provided that termination may not be effective as to any asbestos action that
+has already been placed on the trial calendar, unless it has a scheduled
+trial date more than twelve (12) months from the date the notice of
+termination is given.  The Company is presently aware of only one pending
+case on the trial calendar.  A copy of the defense and indemnity agreement
+dated March 26, 1990 is designated as Exhibit 99.05. 
+
+     Effective during May, 1991 the Company entered into a Settlement
+Agreement and Release with Mount Vernon Fire Insurance Company.  Pursuant to
+this Agreement, which is designated Exhibit 99.10, the Company discontinued
+its action against Mount Vernon, which provided that, subject to the terms of
+the Agreement, Mount Vernon would reimburse the Company (where applicable)
+for 6.25% of attorneys' fees (52.08% of the Company's 12% share referred to
+in the agreement in the previous paragraph) and 6.25% of indemnification
+costs (36.76% of the Company's 17% share referred to in the agreement in the
+previous paragraph).  The Agreement is not applicable to any asbestos actions
+against the Company where no exposure is alleged to products manufactured or
+distributed by Eastco between April 1, 1968 and April 1, 1969.  The Agreement
+may be terminated at any time upon 90 days' notice, but such notice is not
+applicable to asbestos actions placed on a trial calendar, unless such has a
+trial date more than twelve months from the date the notice of termination is
+given.  The agreement provides that the limit available under the policy is
+$100,000 plus attorneys' fees while the agreement is in effect and is
+applicable only to the parent company.  Approximately $25,000 has been
+reimbursed by Mount Vernon Fire Insurance Company as of June 30, 1996 for
+indemnification.
+
+     The Company is unable to ascertain the total extent of insurance
+applicable to asbestos claims against it or the extent to which its insurance
+carriers will provide coverage.  The two agreements  referred to above
+between the Company and the insurance carriers may not be applicable to
+Puerto Rico Safety Equipment Corporation , which is covered by other
+insurance.  To date, the claims settled by Puerto Rico Safety Equipment
+Corporation have been paid in full by insurance.  A schedule of insurance
+believed to be applicable to Puerto Rico Safety Equipment Corporation is 
+
+                                   8
+
+<PAGE>
+
+designated Exhibit 99.08.
+
+No agreement has been reached with the insurance companies confirming all of
+these policies, which range from $100,000 to $500,000 for primary coverage
+and $1,000,000 to $5,000,000 for excess coverage.  The policies for Puerto
+Rico Safety Equipment Corporation cover the period March 11, 1971 to July 23,
+1986 with various gaps as described on the exhibit.  
+
+     An action entitled Michael F. Cilone and Marie Cilone v.Willson Safety
+Products, Inc., Standard Coating Corporation, National Paint Co., Inc., E.I.
+Dupont De Nemours & Co Inc., Orb Industries, Inc., PPG Industries Inc., Olde
+England Paint & Varnish Corp., Oatey Co., d/b/a Bond Tight Products, Eastco
+Industrial Safety Corp. was instituted on September 19, 1988 in the Supreme
+Court of the State of New York, County of Kings.  The Company has referred
+this matter to its insurance carriers applicable to the period 1984 to 1986
+and who have provided primary insurance on an annual basis of $1,000,000 per
+year in addition to applicable excess carriers. The complaint alleges four
+causes of action, including one for punitive damages on behalf of Michael F.
+Cilone, against the Company in the amount of $5,000,000 each and one cause of
+action for $500,000 on behalf of Marie Cilone.  The complaint alleges that
+the Company sold respirators made by Willson Safety Products and other safety
+equipment to Michael F. Cilone's employer, the New York City Transit
+Authority, between 1984 and 1986 and that he sustained injuries as a result
+of chemicals and various materials made by the other defendants.  The Company
+has been advised by counsel, designated by its insurance carriers to defend
+it, that any settlement and/or verdict expenses would be within the policy
+limits of the Company's insurance.  This is based upon the present status of
+the case and the fact that depositions have not yet all been completed. 
+
+     The Company's insurance may not provide coverage for punitive damages
+where such damages are sought against it in pending litigation.  Punitive
+damages are allowable in addition to compensatory damages and are awarded as
+a punishment to the defendant for the wrong in the particular case as well as
+for the protection of the public against similar acts, to deter the defendant
+from a repetition of the wrongful act and to serve as a warning to others. 
+Usually a wrong, aggravated by an evil or wrongful motive or a willful and
+intentional misdoing or a reckless indifference equivalent thereto, is
+required for a court to award punitive damages.  The Company is unable to
+specify whether its actions would give rise to punitive damages.  It believes
+that its actions should not give rise to punitive damages.  There, however,
+can be no assurance that this will be the case.
+
+Item 4.   Submission of Matters to a Vote of Security Holders
+
+     On August 12, 1996, there was submitted to shareholders of the Company
+at a special shareholders meeting the following which were approved by the
+votes as indicated:
+
+1.  Authorization of amendment to certificate of incorporation to effect a
+one-for-ten reverse stock split.
+
+FOR  7,831,310      AGAINST  521,458    ABSTAIN   12,102    
+
+2.  Authorization of amendment to certificate of incorporation to authorize
+preferred stock.
+
+FOR  5,466,731   AGAINST  386,584    ABSTAIN  173,570   NOT VOTED  2,337,985
+
+                                   9
+
+<PAGE>
+
+
+3.  Proposal to approve the adoption of the 1996 Incentive Stock Option Plan.
+
+FOR  5,463,911   AGAINST  424,404   ABSTAIN  171,515   NOT VOTED 2,305,040
+
+4.  Proposal to approve the adoption of the 1996 Non-Qualified Stock Option
+Plan.
+
+FOR 5,463,222    AGAINST  542,613   ABSTAIN  53,995    NOT VOTED 2,305,040
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                   10
+
+<PAGE>
+
+                            PART II
+
+Item 5.   Market for Common Equity and Related Stockholder Matters
+
+(a)  The principal market on which the Common Stock of the Company is traded
+is the NASDAQ Small-Cap Market and its symbol is ESTO.  The following chart
+sets forth the high and low sales prices as determined from NASDAQ for the 
+Common Stock for the last two fiscal years and is adjusted for the Company's
+1-for-10 reverse stock split effective August 12,1996 (the "Reverse Split").
+
+                                  High                            Low
+                              ------------                    ------------
+Fiscal Year Ended June 30
+
+     1995
+     ----
+First Quarter                    $ 17.50                        $ 8.75
+Second Quarter                     14.38                          5.63
+Third Quarter                      16.25                          7.50
+Fourth Quarter                     17.50                         10.00
+
+
+     1996
+     ----
+First Quarter                    $ 20.00                        $15.00
+Second Quarter                     20.63                         10.63
+Third Quarter                      14.38                          7.50
+Fourth Quarter                     14.38                          6.25
+
+
+(b)  The approximate number of holders of record of the Common Stock as of
+September 17, 1996 was 325.  The Company believes there are in excess of
+1,200 beneficial holders of the Common Stock.
+
+     (1)  No dividends have been paid during the past two years.
+
+     (2)  The Company has no present intention of paying any cash dividends
+in its foreseeable future and intends to use its net income, if any, in its
+operations.
+
+     (3)  The Company is prohibited from paying dividends under its loan
+agreement with Congress Financial Corporation ("Congress").
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                   11
+
+<PAGE>
+
+Item 6.   Management's Discussion and Analysis
+
+(a)  Not applicable.
+
+Results of Operations
+
+     Fiscal Year 1996 Compared to Fiscal Year 1995
+
+     The Company's net income for fiscal 1996 was $10,000, which included
+non-recurring expenses of approximately $113,000, comprised primarily of the
+settlement costs with the Company's former underwriter and costs incurred in
+connection with the issuance and repurchase of debentures, compared to a net
+profit of approximately $78,000 for fiscal 1995.
+
+     Consolidated net sales during fiscal 1996 increased by 12.3% to
+$26,983,000 from $24,025,000 during fiscal 1995.  In fiscal 1996,
+Manufacturing Operations revenues increased 20.9% to $17,889,000 from
+$14,791,000, while Distribution Operations revenues decreased 1.5% to
+$9,094,000 from $9,234,000.  The Company believes that the overall increase
+in sales was due to improved industry conditions in the manufacturing
+segment. 
+
+     The Company's gross profit margin continues to increase resulting in a
+20.3% gross profit margin in fiscal 1996 as compared to 19.9% in fiscal 1995. 
+The Company believes that this increase was due primarily to continued
+manufacturing efficiencies, targeting sales that produce higher gross profits
+and improved inventory position.
+
+     Selling, general, and administrative expenses for fiscal 1996 were
+$4,546,000 or 16.8% of sales compared to $4,149,000 or 17.3% for the prior
+fiscal year. The decrease as a sales percentage was due to the increase in
+sales volume for the year as well as the effect of the Company's continuing
+cost reductions and increased purchase discounts and advertising incentives
+earned.
+
+     Interest expense was $836,000 for fiscal 1996 as compared to $584,000 in 
+the prior year.  This increase was due principally due to increased 
+borrowings during the year for working capital, including establishing of
+sales-point warehouses in the southwest and western areas of the United
+States.
+
+     Outstanding options and warrants did not materially dilute earnings per
+share in 1996, but could do so in the future if there is a significant
+increase in the spread between their exercise price and the quoted market
+price of the Company's Common Stock.
+
+     Recent hurricanes have adversely affected production and shipments in
+Puerto Rico which may adversely affect fiscal first quarter 1997 results.  
+None of the Company's production facilities have been damaged and the Company
+believes that any potential adverse affect would be temporary.
+
+Adoption of New Accounting Standards
+
+     Under Financial Accounting Standards Statement No. 123 (FASB 123), 
+
+                                   12
+
+<PAGE>
+
+"Accounting for Stock-Based Compensation", companies are required to provide
+new disclosures about stock options based upon their fair value at the date
+of grant. This new rule becomes effective for fiscal years beginning after
+December 15, 1995. FASB 123 provides for an option to disclose the pro-forma
+effects of stock compensation on net income and earnings per share or charge
+stock compensation to earnings. The Company intends to adopt the pro-forma
+disclosure method in its June 30, 1997 consolidated financial statements.
+
+Liquidity and Capital Resources
+
+     The Company had working capital as of June 30, 1996 of $1,553,000 as
+compared to working capital of $1,065,000 as of June 30, 1995.  The increase
+resulted primarily from the sale of stock in a private placement in June
+1996. A substantial portion of the Company's working capital consists of
+inventory, which was $5,230,000 and $4,364,000, as of June 30, 1996 and 1995,
+respectively. The Company is required to maintain substantial inventories of
+its numerous products to meet the immediate requirements of its customers who
+need products on short notice and who do not maintain an inventory of such
+products.
+
+      The Company had a line of credit agreement with Congress whereby the
+Company may borrow up to $6,000,000, with interest payable at 2.25% above the
+prime rate, plus an unused line fee of .25% per year.  Borrowings under this
+agreement were limited to 50% of the eligible inventory up to a maximum of
+$2,875,000 and 80% of eligible accounts receivable.  In July, 1996, the line
+of credit was amended and extended until October 1, 1999 with an option by
+Congress to extend the loan for an additional year.  The line was increased
+to $9,000,000 with an interest rate at 1.25% above the prime rate which will
+be reduced to prime plus 1% subject to the consummation of the Company's
+proposed public offering by December 31, 1996 and the net proceeds of this
+offering being at least $2,500,000.  The limits on borrowings were increased
+to 85% of eligible accounts receivable and 55% of eligible inventory.  The
+amounts outstanding at June 30, 1996 and June 30, 1995 were $5,558,000 and
+$4,829,000, respectively.  The Company had $76,000 available for borrowing at
+June 30, 1996.  The loan is subject to certain working capital and net worth
+requirements and is collateralized by all of the assets of the Company not
+previously pledged under other loan agreements.  The loan agreement prohibits
+the payment of cash dividends by the Company.
+
+     In September 1993, the Company received an overadvance of $500,000 from 
+Congress.  In connection therewith, Messrs. A. Densen, L.Densen, and A.
+Towell obtained the Junior Participation from Congress by advancing $250,000 
+of their funds to Congress. $250,000 of this overadvance has been repaid to
+Congress.  The balance of $215,000, after repayment of $35,000 to L. Densen,
+will be repaid by Congress, at its option, to Messrs. A.Densen, L.Densen, and
+A. Towell subject to the availability of funds.
+
+      The Company believes that its current working capital position, line of
+credit and operations will be sufficient to satisfy its cash needs through
+June 30, 1997.
+
+     The Company has filed for a rights and standby offering pursuant to
+which it is offering Units consisting of common stock and Class B Warrants to
+its shareholders and those not subscribed for to an underwriter.  A
+registration statement for such offering has been filed under registration
+number 333-09517 and is anticipated to be effective shortly.  The Company is
+to receive net proceeds of approximately $2,625,000, which it will utilize
+for paydown on its line of credit thereby increasing the amount available 
+
+                                   13
+
+<PAGE>
+
+under such line of credit for future working capital and other needs such as
+acquisitions.
+
+     Net cash used for operating activities was principally a result of an 
+increase in accounts receivable and inventories which was only partially
+offset by an increase in accounts payable.  Cash flows used in investing 
+activities was for the purchase of property, plant and equipment.  Cash flows
+provided by financing activities was principally from increased borrowings
+under the Company's line of credit and from the proceeds of a private 
+placement of the Company's Common Stock.
+
+     The Company has no material commitments for capital expenditures.
+
+     At the present time, the Company, together with a variety of defendants,
+is a party to various asbestos-related lawsuits involving a number of
+plaintiffs alleging damages from exposure to asbestos products sold by the
+Company. The Company may become a party to additional asbestos-related
+actions in the future. The Company is also party to a non-asbestos product
+liability action. While as indicated in "Business-Legal Proceedings" legal
+and settlement costs to the Company have not been material to date, the
+Company cannot, at this time, determine the outcome of these uncertainties
+which may have an adverse effect upon the liquidity of the Company in the
+future.
+
+Risks
+
+     From time to time, information provided by the Company or statements
+made by its employees, or information provided in its filings with the
+Securities and Exchange Commission may contain forward looking information.
+The Company's actual future results may differ materially from those
+projections or statements made in such forward looking information as a
+result of various risks and uncertainties, including but not limited to
+competition, management, losses, availability of capital, asbestos litigation
+and insurance coverage applicable thereto, government regulation, the need
+for substantial inventories and Tyvek(R), the absence of dividends, and tax
+incentives.  There can be no assurances that asbestos litigation will not 
+have an adverse affect upon the Company.  There can be no assurances that
+the Rights and Standby Offering that the Company filed will be 
+successfully consummated. The market price of the Company's Common Stock may
+be volatile at times in response to fluctuations in the Company's quarterly 
+operating results, changes in analyst earnings estimates, market conditions, 
+as well as general conditions and other factors general to the Company.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                   14
+
+<PAGE>
+
+Item 7.   Financial Statements
+
+          See Consolidated Financial Statements annexed hereto.
+
+Item 8.   Changes in and Disagreements with Accountants on
+          Accounting and Financial Disclosure
+
+          Not applicable.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                   15
+<PAGE>
+
+                                  PART III
+
+Item 9.   Directors, Executive Officers, Promoters and Control Persons;
+          Compliance with Section 16(a) of the Exchange Act
+
+(a)  The directors and executive officers of the Company are as follows:
+
+Name                 Age      Position
+- ----                 ---      --------
+Alan E. Densen       62       President and Chief Executive
+                              Officer and Director
+
+Lawrence Densen      38       Senior Vice President and Director
+
+Anthony P. Towell    64       Vice President of Finance,
+                              Secretary, Treasurer, Chief
+                              Financial Officer and Director
+
+Dr. Martin Fleisher  59       Director
+
+James Favia          62       Director
+
+Herbert Schneiderman 64       Director
+
+The term of office of the following directors does not expire until the
+Company's 1996 annual meeting and when their successors are chosen:
+
+                     Alan E. Densen
+                     Lawrence Densen
+                     Anthony P. Towell
+
+The term of office of the following directors does not expire until the
+Company's 1997 annual meeting and when their successors are chosen:
+
+                     Dr. Martin Fleisher
+                     James Favia
+                     Herbert Schneiderman
+
+
+Alan E. Densen has been President, Chief Executive Officer and a director of
+the Company since 1958 (except for the period September 1993 to January 1994,
+when he served as its Senior Vice President). He was also Treasurer and Chief
+Financial Officer of the Company through 1992.
+
+Lawrence Densen, Senior Vice President and director of the Company, has been
+a Vice President and a director of the Company since 1986. 
+
+Anthony P. Towell has been the Company's Vice President of Finance,
+Treasurer, and Chief Financial Officer since 1992, its Secretary since 1993,
+and from 1989 to 1992 its Vice President.  He has been a director of the
+Company since 1989.  He was a director of New York Testing Laboratories, Inc.
+("NYT"), a laboratory testing company and manufacturer of automotive
+accessories, from 1988 to 1995.  In addition, he has been a director since
+1988 of Nytest Environmental Inc. ("Nytest"), a hazardous waste testing
+Company.  Mr. Towell was a director of Ameridata Technologies, Inc.
+("Ameridata"), a provider of computer products and services, from 1991 
+
+                                   16
+
+<PAGE>
+
+to 1996. The common stock of Nytest is and Ameridata was registered under
+Section 12(g) and (b), respectively, of the Securities Exchange Act of 1934.
+
+Dr. Martin Fleisher has been a director of the Company since 1989. He holds
+a Ph.D. in biochemistry from New York University, has been attending clinical
+chemist at Memorial Sloan-Kettering Cancer Center since 1967. He devotes only
+a limited portion of his time to the business of the Company.
+
+James Favia has been a director of the Company since July 26, 1995.  He is a
+consultant to Donald & Co. who acts as the Company's investment advisor.  He
+is a chartered financial analyst and has an MBA in finance which he obtained
+from New York University in 1959. He was a director of T.J. Systems until
+November, 1994. The common stock of T.J. Systems is registered under Section
+12(g) of the Securities Exchange Act of 1934.  He devotes only a limited
+portion of his time to the business of the Company.
+
+Herbert Schneiderman has been a director of the Company since July 26, 1995.
+He is President of the Casablanca Group, L.P., a manufacturer of diversified
+women's sportswear. He devotes only a limited portion of his time to the
+business of the Company.
+
+(b)  Not applicable.
+
+(c)  Alan E. Densen is the father of Lawrence Densen.
+
+(d)  Not applicable.
+
+The Company is not aware of the failure of any director, officer or owner of
+more than 10% of the Company's common stock to timely file any reports
+required by Section 16(a) of the Securities Exchange Act of 1934.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                   17
+
+<PAGE>
+
+Item 10.  Executive Compensation
+
+The following describes the components of the total compensation of the CEO
+and each other executive officer of the Company whose total annual salary and
+bonus exceeds $100,000.
+
+                          Summary Compensation Table
+<TABLE>
+<CAPTION>
+          Annual Compensation                Long term compensation
+          ------------------                 ----------------------
+                                      Awards                  Payouts
+                                 ---------------          --------------
+                              Other               Securities           All
+Name and                      annual   Restricted  underlying  LTIP    other
+principal         Salary  Bonus  compen-   stock    options /  payouts compen-
+position   Year   ($)      ($) sation($) award(s)($) SARs(#)(5)  ($)   sation($)
+- --------  ----   -----    ---- ------    --------   --------    ------  --------
+<S>       <C>     <C>     <C>  <C>        <C>     <C>          <C>     <C>
+Alan E.   1996    117,661 -0-  35,672(3)  -0-      8,348(4)    -0-     -0-
+Densen,   1995    107,930 -0-  32,875(3)  -0-     82,158(2)    -0-     -0-
+CEO       1994(1) 117,154 -0-  30,078(3)  -0-         -0-      -0-     -0-    
+               
+                    
+Lawrence  1996    101,778 -0-   4,200     -0-       8,348(4)   -0-     -0-
+Densen,   1995     89,130 -0-   4,200     -0-      82,158(2)   -0-     -0-
+Senior VP 1994     86,936 -0-   4,200     -0-         -0-      -0-     -0-
+</TABLE>
+                         
+(1)  From September, 1993 to January, 1994, Mr. Densen was not CEO; he served
+     as Senior Vice President.
+
+(2)  Includes incentive stock options granted January 20, 1995 to acquire
+     2,000 shares at $10.625 as well as non-qualified stock options to
+     acquire 80,158 shares exercisable at $5.302 per share, each exercisable
+     until January 19, 2005. The non-qualified options can not be exercised
+     during the first five years except it was determined in September 1995
+     that the non-qualified options can be exercised for 40,079 shares of
+     Common Stock. Said options provide for adjustment in the event of
+     dilution as a result of sales of securities at less than the exercise
+     price and have been adjusted to and inclusive of the Reverse Split.
+
+(3)  Primarily life insurance premiums on the life of Alan E. Densen owned by
+     Mr. Densen's wife and paid for by the Company.
+
+(4)  Warrants to acquire 8,348 shares of Common Stock at $5.771 granted
+     February 23, 1996 until February 22, 2001, in consideration of the
+     guaranty of overadvances by Congress to the Company. These warrants
+     provide for adjustment in the event of dilution and have been adjusted
+     to and inclusive of the Reverse Split.
+
+(5)  Each person's options including only options directly held by such 
+     person.
+
+
+                                   18
+
+<PAGE>
+
+Stock Options
+
+                     OPTION/SAR GRANTS IN LAST FISCAL YEAR
+
+                              [Individual Grants]
+
+                Number of         Percent of
+               securities        total options /
+               underlying        SARs granted        Exercise
+               Options/SARs        in fiscal         or base       Expiration
+Name           granted (#)(1)       year (1)       price ($/Sh)      Date
+- -----          --------------    --------------    -------------   -----------
+Alan E.          8,348               33.3%             $5.771       2/22/2001
+Densen,
+CEO
+
+Lawrence         8,348               33.3%             $5.771       2/22/2001
+Densen,
+Senior V.P.
+
+(1)  See note (4) above in the Summary Compensation Table.
+
+               AGGREGATED OPTION/SAR EXERCISES IN LAST FISCAL YEAR
+                          AND FY-END OPTION/SAR VALUES
+
+                                               Number
+                                           of securities            Value
+                                            underlying         unexercised in-
+                                            unexercised      the-money options
+            Shares                      SARs at FY-end (#)   SARs at FY-end($)
+          acquired on       Value        exercisable /         exercisable /
+Name      exercise (#)    realized ($)   unexercisable(2)     unexercisable
+- -----     --------------  -----------    -------------      ----------------
+Alan E.       0               0          50,427/40,079     $108,969/100,619
+Densen,
+CEO (1)
+
+Lawrence      0               0          51,108/40,079     $108,969/100,619
+Densen,
+Senior V.P.
+
+(1)  See footnotes (2) and (4) above in the Summary Compensation Table. Does
+     not include warrants to acquire 1,667 shares described in Note (1) under
+     Principal Shareholders or options held by Lawrence Densen.
+
+(2)  Each person's options include only options directly held by such 
+     person.
+
+Employment Agreements and Change in Control Features
+
+As of July 1, 1995, Alan E. Densen entered into a new employment agreement
+which provides for him to serve as the Company's President for a term of five
+years and Lawrence Densen also entered into a new employment agreement to
+serve as Senior Vice-President for a term of five years. Anthony P. Towell
+has a similar contract. At the end of each fiscal year during the term of the
+agreement, the agreements are automatically extended for one additional year 
+
+                                   19
+
+<PAGE>
+
+to be added at the end of the then current term of the agreements, unless the
+Board of Directors determines not to extend the agreements.  Each may also
+terminate their agreements upon thirty days written notice.  The base annual
+salaries for Alan E. Densen and Lawrence Densen were $117,661 and $101,778,
+respectively, for fiscal 1996 which is to be increased at the beginning of
+each fiscal uear commencing July 1, 1996, at the discretion of the Board of
+Directors but not less than 10% of the minimum compensation paid to the 
+employees in the prior fiscal year.  For fiscal 1997, their base fiscal
+salaries are $133,100 and $115,500, respectively. Each is entitled to
+receive an annual bonus equal to 3 1/3% of the Company's earnings 
+before interest and taxes for the fiscal year ended June 30, 1996 and each
+fiscal year thereafter during the term of the agreement, and Lawrence Densen
+is entitled to .75% of the Company's revenues in excess of $20.5 million.
+Bonuses are to be paid within 30 days after the completion of the Company's
+audited financial statements for each fiscal year and is to be paid in cash 
+or registered shares of common stock of the Company. In addition, each, in
+accordance with Company policy, is entitled to receive reimbursement of
+ordinary and necessary business expenses, a monthly automobile allowance of
+$700 and disability, medical and hospitalization insurance.
+
+The employment agreements entered into by Messrs. Alan E. Densen and Lawrence
+Densen include provisions that provide for their right to terminate the
+agreements and thereby receive additional compensation, as provided below, in
+the event that they are not elected or retained as President and Senior
+Vice-President, respectively, or as a director of the Company; the Company
+acts to materially reduce their duties and responsibilities under the
+agreement; the Company changes the geographic location of their duties to a
+location from the New York metropolitan area; their base compensation is
+reduced by 10% or more; any successor to the Company fails to assume the
+agreements; any other material breach of the agreements which is not cured by
+the Company within 30 days; and a "Change of Control" by which a person,
+other than a person who is an officer and/or director of the Company as of
+the effective date of the agreements, or a "group" as defined in Section
+13(d)(3) of the Securities and Exchange Act of 1934, becomes the beneficial
+owner of 20% or more of the combined voting power of the then outstanding
+securities of the Company or the composition of the board changes so that the
+officers of the Company no longer hold a majority of the seats.
+
+In the event that Messrs. Alan E. Densen or Lawrence Densen terminate their
+positions because of any of the aforesaid reasons other than a "Change of
+Control", or if the Company terminates their employment in any way that is a
+breach of the agreement by the employer, Messrs. Alan E. Densen and Lawrence
+Densen shall be entitled to receive, in addition to their salary
+continuation, as a bonus, a cash payment equal to their total base salary
+plus projected expenses and bonuses for the remainder of the term thereof,
+payable within 30 days of termination and all stock options, warrants and
+other stock appreciation rights granted by the Company to them shall become
+immediately exercisable at an exercise price of $0.10 per share. In the event
+that either owns or is entitled to receive any unregistered securities of the
+Company, than the Company shall register such securities within 120 days of
+the their termination.
+
+In the event that there is a "Change of Control", Messrs. Alan E. Densen and
+Lawrence Densen shall be paid within 30 days thereof a one-time bonus equal
+to their total minimum base salary for the next three years and Alan Densen
+shall be immediately reimbursed for all amounts not yet received for his
+participation in the balance of $215,000 ($35,000 has been repaid to Lawrence 
+
+                                   20
+
+<PAGE>
+
+Densen) junior participation in the loans made to the Company from Congress
+during September 1993, without regard to whether such amount is currently due
+pursuant to the terms thereof.
+
+Messrs. A. Densen, L. Densen, and A. Towell, in modification agreements to
+their employment agreements, have waived: (i) their right to bonuses based
+upon the Company's earnings before interest and taxes for the fiscal years
+ended June 30, 1996 through June 30, 2000; (ii) their exercise rights on 
+options and warrants and repayment of their junior participation interests
+with Congress and compensation payable in the event of a Change in Control
+with respect to the Private Placement and the Rights Offering; and (iii)
+their right to terminate their relationship with the Company, as per the
+terms of their respective employment agreements. L.Densen has waived his 
+right to bonuses based upon the Company's revenues for the fiscal years
+ended June 30, 1996 and 1997.  The modification agreements and waivers
+provide that their right to terminate their employment agreements 
+and waiver of their bonuses shall not be waived in the event that there is 
+a material breach of such agreements by the Company. In the event sufficient
+working capital is not available, the Company is anticipated each year to
+request Messrs. A.Densen, L. Densen, and A. Towell to waive any bonuses
+earned based upon the Company's earnings.
+
+During February 1996, Messrs. A. Densen, L. Densen, and A. Towell guaranteed
+to Congress overadvances to the Company of up to $500,000 in excess of the
+Company's eligible borrowings.  The Company issued warrants for a term of
+five years in consideration for their guaranty to each Messrs. A. Densen, L.
+Densen, and A. Towell to purchase 8,348 shares of Common Stock at an exercise
+price of $5.771 per share commencing February 23, 1996.  The overadvances
+have since been repaid and their guarantees are no longer in effect. 
+
+Compensation to Directors
+
+     No compensation is paid to officers who also serve as directors for
+their serving solely as a director. Outside directors are compensated at the
+rate of $500 for each board of directors meeting which they attend in person.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                   21
+
+<PAGE>
+
+Item 11.  Security Ownership of Certain Beneficial Owners and Management
+
+(a)  The following are known by the Company, as of the date hereof, to be the 
+     beneficial owners of more than five percent of Common Stock (All per share
+     amounts have been adjusted to reflect the 1-for-10 Reverse Split):
+
+<TABLE>
+<CAPTION>
+
+               Name and Address         Amount and Nature    Percent
+Title of Class of Beneficial Owner      of Beneficial Owner  of Class
+- -------------- -------------------     -------------------   --------  
+<S>             <C>                     <C>                   <C>  
+Common Stock    Alan E. Densen          59,396(1)(4)(5)       6.4% 
+$.12 par value  130 West 10th Street    shares direct and
+                Huntington Station, NY  beneficial
+
+Common Stock    Lawrence Densen         53,608(2)(4)(5)       5.8% 
+$.12 par value  130 West 10th Street    shares direct and
+                Huntington Station, NY  beneficial
+
+Common Stock    Anthony P. Towell       138,739(3)(4)(5)     13.7% 
+$.12 par value  130 West 10th Street    shares direct and
+                Huntington Station, NY  beneficial
+
+Common Stock    George Schiavoni        76,000                8.6% 
+$.12 par value  46 Bayview Avenue       shares direct and
+                Sag Harbor, NY          beneficial
+</TABLE>
+
+- ------------------
+(1)  Includes warrants, held by Mr. Densen's wife, to acquire 1,667 shares of
+     Common Stock, exercisable at $13.00 per share which expire April 11,
+     1999. Also includes incentive stock options granted under the 1994 Plan
+     to acquire 2,000 shares of Common Stock, exercisable at $10.625 which
+     expire January 19, 2005. Amount indicated does not include shares
+     beneficially owned by Lawrence Densen, son of Alan E. Densen.
+
+(2)  Does not include shares beneficially owned by Alan E. Densen, father of
+     Lawrence Densen.  Includes 700 Class A Warrants; incentive stock 
+     options granted under the 1983 Incentive Stock Option Plan (the "1983
+     Plan") to acquire 625 shares which expire December 17, 1996 and are
+     exercisable at $26.664 per share; incentive stock options granted under
+     the 1983 Plan to acquire 56 shares of Common Stock which expire May 31,
+     1998 and are exercisable at $30.00 per share; and incentive stock
+     options granted under the 1994 Plan to acquire 2,000 shares of Common
+     Stock , which expire January 19, 2005 and are exercisable at $10.625.
+
+(3)  Includes 1,500 Class A Warrants; warrants, held by Mr. Towell's wife, to
+     acquire 1,667 shares of Common Stock, exercisable at $13.00 per share
+     which expire April 11, 1999; and incentive stock options granted under
+     the 1994 Plan to acquire 2,000 shares of Common Stock, exercisable at
+     $10.625 which expire January 19, 2005. Also includes warrants to acquire
+     82,645 shares of Common Stock exercisable at $6.292 per share which
+     expire April 11, 1999, which warrants provide for an anti-dilution
+     adjustment as a result of sales of securities at less than the exercise
+     price.
+
+
+                                   22
+
+<PAGE>
+
+(4)  Includes non-qualified options to acquire 40,079 shares to each Messrs.
+     A. Densen, A. Towell and L. Densen exercisable until January 19, 2005 at
+     an exercise price of $5.302. These options provide for an anti-dilution
+     adjustment as a result of sales of securities at less than the exercise
+     price. See "Certain Relationships and Related Transactions".
+
+(5)  Includes warrants to acquire 8,348 shares of Common Stock exercisable at
+     $5.771 per share, which expire February 22, 2001. These warrants 
+     provide for an anti-dilution adjustment as a result of sales
+     of securities at less than the exercise price. See "Certain
+     Relationships and Related Transactions".
+
+(b)  The following table sets forth as of August 12, 1996, the number of
+shares of Common Stock owned by each of the present directors of the Company,
+together with certain information with respect to each:
+
+                          Amount and Nature         Percent
+Name and Address          of Beneficial Owner       of Class
+- ----------------          -------------------       -------- 
+Alan E. Densen                 59,396(1)               6.4% 
+130 West 10th Street          shares direct
+Huntington Station, NY        and beneficial
+
+Anthony P. Towell             138,739(2)              13.7% 
+130 West 10th Street          shares direct
+Huntington Station, NY        and beneficial
+
+Lawrence Densen                53,608(3)               5.8% 
+130 West 10th Street          shares direct
+Huntington Station, NY        and beneficial
+
+Dr. Martin Fleisher             1,000(4)                 *  
+130 West 10th Street          shares direct
+Huntington Station, NY        and beneficial
+
+James Favia                     2,000(5)                 *  
+130 West 10th Street          shares direct
+Huntington Station, NY        and beneficial
+
+Herbert Schneiderman            3,833(6)                 *  
+130 West 10th Street          shares direct
+Huntington Station, NY        and beneficial
+
+All executive officers
+     and directors
+     as a group
+    (6 persons)               258,576                 23.0% 
+- -------------------
+*   Less than 1%
+
+
+                                   23
+
+<PAGE>
+
+(1)  See footnotes (1), (4), and (5) in (a) above.
+
+(2)  See footnotes (3), (4), and (5) in (a) above.
+
+(3)  See footnotes (2), (4), and (5) in (a) above.
+
+(4)  Includes stock options to acquire 1,000 shares of Common Stock.
+
+(5)  Includes stock options to acquire 1,000 shares of Common Stock.
+
+(6)  Includes warrants and stock options to acquire 1,833 shares of Common
+     Stock.
+
+The foregoing reflects the outstanding options and warrants held by each of
+such persons, and reflects all adjustments for anti-dilution rights through
+the Reverse Split.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                   24
+
+<PAGE>
+
+Item 12.  Certain Relationships and Related Transactions
+
+During September, 1993 the Company's lender, Congress, agreed to provide an
+overadvance to the Company of $500,000.  In connection therewith, Messrs. A.
+Densen, L. Densen and A. Towell obtained a junior participation interest from
+Congress by advancing $250,000 of their funds to Congress. $250,000 of this
+overadvance was repaid to Congress during fiscal 1994.  Mr. L. Densen was
+repaid $35,000 of the previous balance in full by Congress during May, 1996. 
+The balance of $215,000 will be repaid by Congress, at its option, to Messrs.
+A. Densen and A. Towell, subject to the availability of funds.
+
+A group of investors (the "Associates") holds a first mortgage on the
+Company's executive offices and warehouse facility in the principal amount of
+$489,782 as of June 30, 1996. The wives of Alan E. Densen and Anthony
+P.Towell, executive officers and directors of the Company, and Herbert
+Schneiderman, a director of the Company, are members of Associates owning
+approximately 38% thereof.  During the fiscal year ended June 30, 1996, the
+Company paid Associates $121,107 in principal and interest on the mortgage,of
+which $72,346 constituted interest.
+
+On January 20, 1995, the Company granted non-qualified options to acquire
+80,158 shares of Common Stock to each Messrs. A. Densen, A. Towell, and L.
+Densen. Because it was determined that the audited pre-tax profit for fiscal
+1995 was greater than $50,000, non-qualified options can now be exercised for
+40,079 shares of Common Stock.The remaining 40,079 non-qualified options can
+not be exercised during the first five years. The non-qualified options
+provide for adjustment in the event of dilution as a result of sales of
+securities at less than the exercise price. All of the options granted on
+January 20, 1995 were granted in consideration of previous sacrifices
+including reduction  in salaries, cancellation of options, and other
+surrendered benefits by executive officers as well as the turnaround
+performance achieved by the Company. The turnaround achieved by the Company
+in its performance can be directly related to the efforts of Messrs. A.
+Densen, A. Towell, and L. Densen.
+
+On January 31, 1995, the Company's board of directors reduced the exercise
+price of the 2.3 million outstanding Class A Warrants issued in connection
+with the 1994 Public Offering to $13.00 per share. At the same time, the
+board of directors also reduced the exercise price to $13.00 per share with
+regard to the 10,833 warrants ("Associate Warrants") issued to a group of
+investors, including the spouses of Alan Densen (1,667 Associate Warrants
+owned by her) and Anthony P. Towell (1,667 Associate Warrants owned by her),
+and Herbert Schneiderman (833 Associate Warrants owned by him), in connection
+with a reduction of indebtedness regarding the Company's premises; 82,645
+warrants purchased by Anthony P. Towell, the Company's Chief Financial 
+Officer, from Scorpio Partners, L.P.; 4,078 Royce warrants issued in
+connection with a 1991 public offering; and 833 warrants in connection with a
+1991 bridge loan. All these warrants have also been extended to April 11, 1999.
+These warrants were all adjusted as indicated so as to treat them on an equal
+basis and to provide incentives for them to be exercised.
+
+                                   25
+
+<PAGE>
+
+The Company had employment agreements with Messrs. A. Densen, A. Towell and
+L. Densen, which commenced as of the effective date of the Company's 1994
+public offering in April, 1994. As of July 1, 1995, these executive officers
+entered into new agreements. See "Executive Compensation Employment
+Agreements and Change in Control Features" with regards to provisions
+contained in the employment agreement of Alan E. Densen, the Company's
+President and CEO, and Lawrence Densen, the Company's Senior Vice-President,
+and Anthony P. Towell, the Company's Vice-President and Chief Financial
+Officer. Messrs. A. Densen, L. Densen, and A. Towell, in modification
+agreements to their employment agreements, have waived: (i) their right to
+bonuses based upon the Company's earnings before interest and taxes for the
+fiscal years ended June 30, 1996 through June 30, 2000; (ii) their exercise
+rights on options and warrants and repayment for their junior participation 
+interests with Congress and compensation payable in the event of a Change in
+Control with respect to the Private Placement and the Proposed Rights 
+Offering; and (iii) their right to terminate their relationship with the
+Company, as per the terms of their respective employment agreements. L. Densen
+has waived his right to bonuses based upon the Company's revenues for fiscal
+years ended June 30, 1996 and 1997. The modification agreements and waivers
+provide that their right to terminate their employment agreements and waiver 
+of their bonuses shall not be waived in the event that there is a material
+breach of such agreements by the Company. 
+
+On April 18, 1995, the Company entered into an agreement with Donald to act
+as its investment adviser for a term of three years at a retainer of $3,000
+per month. The agreement may be terminated for cause at any time and after
+eighteen (18) months by either party upon forty-five days notice. Donald was
+also granted a five year warrant to purchase 12,500 shares exercisable at
+$12.50 per share, the closing market price on the date of grant. James Favia,
+a director of the Company, serves as a consultant to Donald.
+
+On July 10, 1995 the Company terminated its relationship with Lew Lieberbaum
+& Co., Inc. ("Lew Lieberbaum"), the Company's underwriter in its 1994 public
+offering. Pursuant to an agreement dated July 10, 1995, the Company canceled
+all of Lew Lieberbaum's rights under the Underwriting Agreement (the
+"Underwriting Agreement"), including, but not limited to, the right of first
+refusal to act on behalf of the Company in future transactions, the
+cancellation of all Underwriter's Warrants held by Lew Lieberbaum or its
+affiliates, their right to representation on the Company's board of directors
+and the termination of any obligation by holders of securities subject to a
+"lock-up" to obtain the permission of Lew Lieberbaum prior to sale or other
+disposition of said securities. At the same time, Leonard A. Neuhaus and
+Sheldon Lieberbaum, who are affiliated with Lew Lieberbaum, resigned as
+directors of the Company. In exchange, the Company issued 10,000 shares of
+common stock to Lew Lieberbaum.
+
+During February 1996, Messrs. A. Densen, A. Towell and L. Densen, executive
+officers and directors of the Company, guaranteed to Congress overadvances to
+the Company of up to $500,000 in excess of the Company's eligible borrowings. 
+The Company issued warrants for a term of five years in consideration for
+their guaranty to each Messrs. A. Densen, A. Towell, and L. Densen to
+purchase 8,348 shares of Common Stock at $5.771 per share which expire on
+February 22, 2001, and are subject to anti-dilution provisions. The
+overadvance has since been repaid and their guarantees have been returned to
+them.
+
+                                   26
+
+<PAGE>
+
+On June 28, 1996, the Company completed a Private Placement Offering,
+pursuant to which it issued 399,000 shares at $1.50 per share to 20
+investors, pursuant to provisions for exemption from registration under the
+Securities Act of 1933 as amended. The terms of the Private Placement
+Offering were established by negotiation between the Company and Royce
+Investment Group, Inc., a registered broker/dealer (the "Private Placement
+Agent"). Under the terms of the Private Placement Offering, 10 1/2 units (the
+"Units") were offered, and sold, in multiples of $57,000 per Unit. Each full
+Unit consists of 38,000 shares of the Company's Common Stock, par value $0.12
+per share. The Company used net proceeds from the Private Placement Offering
+to pay off a short-term loan in the amount of $500,000 from Elono Portfolio
+S.A., which had been used to reduce the amount due to Congress. Gross
+proceeds from the Private Placement Offering were $598,500. The Underwriter
+acted as Placement Agent and received a commission of 10% and a 3%
+non-accountable expense allowance. On July 9, 1996, the Company completed an
+additional private placement offering for 114,000 shares at $1.50 per share
+to 5 investors for use as working capital, pursuant to provisions for
+exemption from registration under the Securities Act of 1933 as amended.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                   27
+
+<PAGE>
+
+Item 13.  Exhibits and Reports on Form 8-K
+
+     (a)  The following exhibits are incorporated by reference to the
+Company's Registration Statement on Form SB-2 (No. 333-09517), as filed on
+August 2, 1996 and as amended:
+
+Exhibit       Description of Exhibit
+- -------       ----------------------
+3.01          Certificate of Incorporation, as amended
+3.01.1        Certificate of Amendment to Certificate of Incorporation filed
+              August 12, 1996
+3.01.2        Certificate of Amendment to Certificate of Incorporation dated 
+              February 15, 1989
+3.02          By-Laws
+3.02.1        Amendments to By-Laws adopted September, 1996
+4.01          Form of Common Stock Certificate
+10.01         Employment Agreement with Alan Densen,
+              dated as of July 1, 1995
+10.02         Employment Agreement with Lawrence Densen,
+              dated as of July 1, 1995
+10.03         Employment Agreement with Anthony Towell,
+              dated as of July 1, 1995
+10.05         Amendment to Financing Agreements with Congress dated July,
+              1996
+10.07         Form of Modification Agreement to Employment Agreements with
+              Alan Densen, Lawrence Densen and Anthony Towell and Waiver
+11.01         Statement re: Computation of per share earnings
+21.01         Subsidiaries of the Registrant
+27.01         Financial Data Schedule
+99.01         1996 Incentive Stock Option Plan
+              as amended to date
+99.02         1996 Non-Qualified Stock Option Plan
+              as amended to date
+99.03         Form of Warrants held by Anthony Towell dated
+              January 31, 1994 (and whose exercise date
+              has been extended to April 30, 1999)
+99.04         Form of Option Agreements Granted as of
+              January 20, 1995 with Alan Densen, Anthony
+              Towell and Lawrence Densen
+99.05         Asbestos Litigation as of June 30, 1996
+99.06         Product liability primary insurance
+              coverage for asbestos
+99.07         Product liability excess insurance
+              coverage for asbestos
+99.08         Insurance coverage for Puerto Rico
+              Safety Equipment Corporation for asbestos
+99.09         Defense and indemnity agreement dated March 26, 1990
+99.10         Defense and indemnity agreement dated May, 1991
+99.11         Letters between L'Abbate & Balkan, counsel for Eastco
+              and Wilentz, Goldman & Spitzer, counsel for plaintiffs'       
+              attorneys, dated February 3, 1994 and March 14, 1994,
+              respectively, with respect to settlement of New York cases
+
+
+
+
+                                   28
+
+<PAGE>
+
+     The following exhibits are incorporated by reference to the Company's
+annual reports on Form 10K for the periods indicated:
+
+For the year ended June 30, 1991:
+- ---------------------------------
+10.04          Accounts Financing Agreement (Security Agreement), Covenants
+               Supplement to Accounts Financing Agreement (Security
+               Agreement), Inventory Loan Agreement and Inventory and
+               Equipment Security Agreement Supplement to Accounts Financing
+               Agreement (Security Agreement) executed as of October 1, 1991
+               with Congress (filed as Exhibit 10.1)
+
+For the year ended June 30, 1993:
+- ---------------------------------
+10.06          Exemption of Puerto Rico Safety Corporation with respect to
+               Puerto Rico taxes as amended to date
+10.09          Joint Participation Agreement between Congress and Alan E.
+               Densen dated September 20,1993 (referred to as Exhibit 10.4)
+10.10          Joint Participation Agreement between Congress and Anthony
+               P. Towell dated September 20,1993 (referred to as Exhibit
+               10.5)
+10.11          Joint Participation Agreement between Congress and Lawrence
+               Densen dated September 20,1993 (referred to as Exhibit 10.6)
+
+
+     The following exhibits are incorporated by reference to the Registration
+Statement on Form S-1 (No. 33-74988) as amended, effective April 12, 1994. 
+The number in parentheses refers to the exhibit number in the Form S-1:
+
+4.03           Form of Class A Warrant Certificate (4b)
+4.04           Form of Warrant Agency Agreement between the Company and
+               American Stock Transfer and Trust Co. (4c)
+
+
+
+(b)  A report on Form 8-K was filed during the last quarter of fiscal year
+1996 on June 28, 1996, under Item 5.
+
+     A report on Form 8-K was also filed on August 14, 1996, under Items 5
+and 7.
+
+
+
+
+
+
+
+
+                                   29
+
+<PAGE>
+
+                                SIGNATURES
+
+     In accordance with Section 13 or 15(d) of the Exchange Act, the
+registrant caused this report to be signed on its behalf by the undersigned,
+thereunto duly authorized.
+
+                                   EASTCO INDUSTRIAL SAFETY CORP.
+
+
+                                   By: /s/ Alan E. Densen      Date: 9/20/96
+                                      --------------------
+                                        ALAN E. DENSEN
+                                   President and Chief Executive Officer 
+
+
+                                   By: /s/ Anthony P. Towell   Date:  9/20/96
+                                       ---------------------
+                                        ANTHONY P. TOWELL
+                                   Vice President of Finance, Treasurer and 
+                                   Chief Financial Officer
+
+     In accordance with the Exchange Act, this report has been signed by the
+following persons on behalf of the registrant and in the capacities and on
+the dates indicated.
+
+                                   By: /s/ Alan E. Densen     Date: 9/20/96
+                                       ------------------
+                                        ALAN E. DENSEN
+                                        Director
+
+
+                                   By: /s/ Lawrence Densen    Date: 9/20/96
+                                       -------------------
+                                        LAWRENCE DENSEN
+                                        Director
+
+
+                                   By: /s/ Herbert Schneiderman Date:9/20/96
+                                       ------------------------
+                                        HERBERT SCHNEIDERMAN
+                                        Director
+
+                                   By: /s/ Martin Fleisher    Date: 9/20/96
+                                       -------------------
+                                        MARTIN FLEISHER
+                                        Director
+
+                                   By: /s/ Anthony P. Towell  Date: 9/20/96
+                                       ---------------------
+                                        ANTHONY P. TOWELL
+                                        Director
+
+                                   By: /s/ James A. Favia     Date: 9/20/96
+                                       ------------------
+                                        JAMES A. FAVIA
+                                        Director
+
+                                   30
+
+<PAGE>
+
+
+
+               EASTCO INDUSTRIAL SAFETY CORP. AND SUBSIDIARIES
+
+                      CONSOLIDATED FINANCIAL STATEMENTS
+
+                                    INDEX
+
+INDEPENDENT AUDITORS' REPORT.......................................... F-2
+
+CONSOLIDATED FINANCIAL STATEMENTS:
+
+   Consolidated Balance Sheets........................................ F-3
+
+   Consolidated Statements of Operations.............................. F-4
+
+   Consolidated Statements of Changes in Shareholders' Equity......... F-5
+
+   Consolidated Statements of Cash Flows.............................. F-6
+
+   Notes to Consolidated Financial Statements......................... F-8
+
+
+
+
+
+
+
+                                     F-1
+
+<PAGE>
+
+                 [LETTERHEAD OF CORNICK, GARBER & SANDLER, LLP]
+
+                          Independent Auditors' Report
+
+Board of Directors and Shareholders
+Eastco Industrial Safety Corp.
+Huntington Station, New York
+
+         We have audited the accompanying consolidated balance sheet of EASTCO
+INDUSTRIAL SAFETY CORP. AND SUBSIDIARIES as at June 30, 1996 and the related
+consolidated statements of operations, changes in shareholders' equity and cash
+flows for each of the two years in the period ended June 30, 1996. These
+financial statements are the responsibility of the Company's management. Our
+responsibility is to express an opinion on these financial statements based on
+our audits.
+
+         We conducted our audits in accordance with generally accepted auditing
+standards. Those standards require that we plan and perform the audits to obtain
+reasonable assurance about whether the financial statements are free of material
+misstatement. An audit includes examining, on a test basis, evidence supporting
+the amounts and disclosures in the financial statements. An audit also includes
+assessing the accounting principles used and significant estimates made by
+management, as well as evaluating the overall financial statement presentation.
+We believe that our audits provide a reasonable basis for our opinion.
+
+         In our opinion, such consolidated financial statements present fairly,
+in all material respects, the consolidated financial position of Eastco
+Industrial Safety Corp. and Subsidiaries as at June 30, 1996 and the results of
+their operations and their cash flows for each of the two years in the period
+ended June 30, 1996, in conformity with generally accepted accounting
+principles.
+
+         As discussed in Note 11 to the consolidated financial statements, the
+Company is a defendant in various lawsuits alleging exposure by plaintiffs to
+asbestos and products containing asbestos sold by the Company. Since the
+ultimate outcome or range of liability, if any, resulting from these lawsuits
+cannot presently be determined, no provision for any liability that may result
+has been made in the accompanying consolidated financial statements.
+
+                                            /s/ CORNICK, GARBER & SANDLER, LLP
+                                            ----------------------------------
+                                            CERTIFIED PUBLIC ACCOUNTANTS
+
+Uniondale, New York
+September 11, 1996
+
+
+                                      F-2
+
+<PAGE>
+
+
+                         EASTCO INDUSTRIAL SAFETY CORP.
+                                AND SUBSIDIARIES
+
+                           CONSOLIDATED BALANCE SHEET
+
+                                  JUNE 30, 1996
+
+<TABLE>
+<CAPTION>
+
+                                     ASSETS
+
+<S>                                                           <C>
+Current assets:
+   Cash and cash equivalents (Note 1)                         $   646,030
+   Accounts receivable, net of allowance for
+      doubtful accounts of $155,000 at June 30,
+      1995 (Notes 5 and 6)                                      4,669,070
+   Inventories (Notes 1, 2 and 5)                               5,230,237
+   Other                                                          441,763
+                                                              -----------
+
+                  Total current assets                         10,987,100
+
+Property, plant and equipment, net
+   (Notes 1, 3, 5 and 6)                                        1,278,095
+Other assets                                                      206,910
+                                                              -----------
+
+                  T O T A L                                   $12,472,105
+                                                              ===========
+
+                                   LIABILITIES
+
+Current liabilities:
+   Loans payable (Note 5)                                     $ 5,853,075
+   Current maturities of long-term debt (Note 6)                   56,044
+   Accounts payable                                             3,234,127
+   Accrued expenses                                               291,341
+                                                              -----------
+
+                  Total current liabilities                     9,434,587
+
+Long-term debt, less current maturities (Note 6)                  433,738
+                                                              -----------
+
+                  Total liabilities                             9,868,325
+                                                              -----------
+
+Commitments and contingencies (Notes 9, 10 and 11)
+
+                              SHAREHOLDERS' EQUITY
+                        (Notes 1, 5, 6, 7, 12 and 13)
+
+Common stock, $.12 par value; authorized 20,000,000
+   shares; outstanding 765,488                                    91,859
+Additional paid-in capital                                     6,742,476
+(Deficit) (statement attached)                                (4,230,555)
+                                                              -----------
+
+                                                               2,603,780
+                                                             -----------
+
+                  T O T A L                                  $12,472,105
+                                                             ===========
+
+</TABLE>
+
+     The notes to consolidated financial statements are made a part hereof.
+
+                                       F-3
+
+<PAGE>
+
+                         EASTCO INDUSTRIAL SAFETY CORP.
+                                AND SUBSIDIARIES
+
+                      CONSOLIDATED STATEMENTS OF OPERATIONS
+
+<TABLE>
+<CAPTION>
+
+ 
+                                                   Year Ended June 30,
+                                             ------------------------------
+                                                 1996               1995
+                                             -----------       ------------
+
+<S>                                          <C>               <C>
+Net sales                                    $26,982,699        $24,024,897
+                                             -----------        -----------
+
+Costs and expenses:
+   Cost of sales (Note 1)                     21,495,693         19,254,571
+   Selling, general and
+      administrative (Note 1)                  4,546,222          4,148,517
+   Interest (Notes 5, 6 and 7)                   836,359            583,665
+   Other expense (income) (net)                   16,388            (39,793)
+   Settlement with former
+   underwriter (Note 7)                           78,000
+                                             -----------        -----------
+
+         Total costs and expenses             26,972,662         23,946,960
+                                             -----------        -----------
+
+NET INCOME                                   $    10,037        $    77,937
+                                             ===========        ===========
+
+Income per share (Note 1):
+  Primary                                           $.02               $.20
+                                                    =====              ====
+      
+   Assuming full dilution                           $.02               $.17
+                                                    =====              ====
+       
+Average number of shares used in
+computing per share amounts:   
+   Primary                                       595,758            392,529
+                                              ===========       ===========
+                             
+   Assuming full dilution                        595,758            471,698
+                                              ===========       ===========
+</TABLE>   
+
+
+
+     The notes to consolidated financial statements are made a part hereof.
+
+
+                                       F-4
+
+<PAGE>
+
+                         EASTCO INDUSTRIAL SAFETY CORP.
+                                AND SUBSIDIARIES
+
+           CONSOLIDATED STATEMENTS OF CHANGES IN SHAREHOLDERS' EQUITY
+                          (NOTES 1, 5, 6, 7, 12 and 13)
+
+<TABLE>
+<CAPTION>
+
+
+                                                     Additional
+                                  Common Stock*       Paid-in
+                              Shares        Amount    Capital      (Deficit)       Total
+                            ------------   --------  ----------  ------------     ----------
+
+<S>                            <C>          <C>       <C>         <C>             <C>
+
+BALANCE - JULY 1, 1994         347,738      $41,729   $6,224,509  $(4,318,529)    $1,947,709
+
+Net income for the year ended
+   June 30, 1995                                                       77,937         77,937
+                             ---------       ------   ----------  -----------     ----------
+
+BALANCE - JUNE 30, 1995        347,738       41,729    6,224,509   (4,240,592)     2,025,646
+
+Shares issued on settlement
+   with former underwriter      10,000        1,200       70,825                      72,025
+
+Exercise of Class A warrants     3,750          450       48,300                      48,750
+
+Shares issued on conversion
+   of subordinated debenture    26,374        3,165      121,963                     125,128
+
+Purchase and retirement of
+   common stock                (21,374)      (2,565)    (177,435)                   (180,000)
+
+Shares issued in private       399,000       47,880      454,314                     502,194 
+   placement
+
+Net income for the year ended
+   June 30, 1996                                                       10,037         10,037
+                              --------     --------    ---------    ---------     ----------
+
+BALANCE - JUNE 30, 1996        765,488    $  91,859  $ 6,742,476  $(4,230,555)    $2,603,780
+                              ========    =========  ===========  ===========    ===========
+</TABLE>
+
+*As restated to give retroactive effect to the 1-for-10 reverse stock split in 
+August 1996.
+
+     The notes to consolidated financial statements are made a part hereof.
+
+                                       F-5
+
+<PAGE>
+
+                         EASTCO INDUSTRIAL SAFETY CORP.
+                                AND SUBSIDIARIES
+
+                      CONSOLIDATED STATEMENTS OF CASH FLOWS
+
+<TABLE>
+<CAPTION>
+
+
+                                                     Year Ended June 30,
+INCREASE (DECREASE) IN CASH AND                -------------------------------
+  CASH EQUIVALENTS                                1996                1995
+                                               ----------          ----------
+<S>                                             <C>                 <C>
+Cash flows from operating activities:
+   Net income                                  $   10,037          $   77,937
+                                               ----------          ----------
+   Adjustments to reconcile results of
+   operations to net cash effect of
+   operating activities:
+      Depreciation and amortization               134,290             164,533
+      Provision for (recovery of) losses on
+         accounts receivable                      105,732             (38,655)
+      Shares issued for settlement
+         with former underwriter                   72,025
+      Net changes in assets and liabilities:
+         Accounts receivable                     (876,629)           (430,003)
+         Inventories                             (866,339)         (1,197,860)
+         Other current assets                      40,105             (37,608)
+         Other assets                             (75,122)             20,247
+         Accounts payable                         343,084             401,146
+         Accrued expenses                         (40,566)           (102,136)
+                                               -----------         -----------
+            Total adjustments                  (1,163,420)         (1,220,336)
+                                               -----------         -----------
+            Net cash used for operating
+              activities                       (1,153,383)         (1,142,399)
+                                               -----------         -----------
+Cash flows from investing activities:
+   Acquisition of property, plant and
+      equipment                                   (93,274)           (191,242)
+                                               -----------         -----------
+
+</TABLE>
+
+
+
+
+
+
+
+
+
+(Continued)
+                                       F-6
+
+<PAGE>
+
+
+                         EASTCO INDUSTRIAL SAFETY CORP.
+                                AND SUBSIDIARIES
+
+                      CONSOLIDATED STATEMENTS OF CASH FLOWS
+                                       
+<TABLE>
+<CAPTION>
+
+
+                                                   Year Ended June 30,
+                                           ---------------------------------
+                                                1996                 1995
+                                           ------------         ------------
+<S>                                         <C>                  <C>
+Cash flows from financing activities:
+   Repayments of long-term debt            $    (48,762)        $    (42,426)
+   Borrowings under line of credit
+      agreements                             28,621,372           25,789,531
+   Repayments under line of credit
+      agreements                            (27,697,205)         (24,044,483)
+   Borrowing under Bridge loan                  500,000
+   Repayment of Bridge loan                    (500,000)
+   Net proceeds from private placement
+      of common stock                           502,194
+   Net proceeds from convertible
+      subordinated debenture                    225,128
+   Repurchase of convertible
+      subordinated debenture                   (100,000)
+   Proceeds from excercise of
+      Class A warrants                           48,750
+   (Decrease) in bank overdrafts                                    (365,277)
+   Purchase of common stock                    (180,000)
+                                            ------------         ------------
+
+         Net cash provided by
+           financing activities               1,371,477            1,337,345
+                                            ------------         ------------
+
+NET INCREASE IN CASH AND
+   CASH EQUIVALENTS                             124,820                3,704
+
+Cash and cash equivalents - Beginning           521,210              517,506
+                                            ------------         ------------
+
+CASH AND CASH EQUIVALENTS - END            $    646,030         $    521,210
+                                            ============         ============
+
+Supplemental disclosure of cash paid for:
+   Interest                                $    836,359         $    583,665
+                                            ============         ============
+
+   Income taxes                            $      5,440
+                                            ============
+
+Supplemental disclosure of noncash
+ financing activities:
+   Conversion of convertible subordinated
+      debenture into common stock          $    150,000
+                                            ============
+
+</TABLE>
+
+     The notes to consolidated financial statements are made a part hereof.
+
+
+                                       F-7
+
+<PAGE>
+
+                         EASTCO INDUSTRIAL SAFETY CORP.
+                                AND SUBSIDIARIES
+
+                   NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+                        YEAR ENDED JUNE 30, 1996 AND 1995
+
+
+
+
+NOTE 1 - Summary of Significant Accounting Policies:
+
+         Operations:
+
+         The Company operates in two industry segments. The first is the
+         manufacture and sale of disposable clothing, industrial protective
+         clothing and protective products to distributors throughout the United
+         States and in Puerto Rico. The second is the distribution and sale of
+         industrial protective clothing and protective products directly to "end
+         users" located primarily in the Northeast United States.
+
+         The Company's manufacturing division uses Tyvek(R), which is only
+         available from one supplier, to produce disposable clothing.
+         Products made of Tyvek(R) accounted for approximately 41% and 35%
+         of consolidated sales for the years ended June 30, 1996 and 1995, 
+         respectively.
+
+         Principles of Consolidation:
+
+         The consolidated financial statements include the accounts of Eastco
+         Industrial Safety Corp. and its subsidiaries, all of which are
+         wholly-owned. All significant intercompany balances and transactions
+         have been eliminated in consolidation.
+
+
+         Use of Estimates:
+
+         The preparation of financial statements in conformity with generally
+         accepted accounting principles requires management to make estimates
+         and assumptions that affect the reported amounts of assets and
+         liabilities and disclosure of contingent assets and liabilities at the
+         date of the financial statements and the reported amounts of revenues
+         and expenses during the reporting period. Actual results could differ
+         from those estimates.
+
+
+
+
+
+
+(Continued)                            F-8
+
+
+<PAGE>
+
+                         EASTCO INDUSTRIAL SAFETY CORP.
+                                AND SUBSIDIARIES
+
+                   NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+                        YEAR ENDED JUNE 30, 1996 AND 1995
+
+
+
+NOTE 1 - Summary of Significant Accounting Policies (Continued):
+
+         Cash:
+
+         Cash includes certificates of deposit of approximately $300,000 and
+         $500,000 at June 30, 1996 and 1995, respectively, which are considered
+         cash equivalents. A $300,000 certificate has been pledged as collateral
+         for a bank loan to the extent of such loan (see Note 5).
+
+         Inventories:
+
+         Inventories are stated at the lower of cost (determined on a first-in,
+         first-out basis) or market, which represents estimated net realizable
+         value.
+
+         Depreciation and Amortization:
+
+         Property, plant and equipment are depreciated on a straight-line basis
+         over the estimated useful lives of the related assets. Leasehold
+         improvements are amortized on a straight-line basis over the shorter of
+         their estimated useful lives or the remaining term of the lease.
+
+         Income Taxes:
+
+         The Company accounts for its income taxes under the provisions of
+         Statement of Financial Accounting Standards No. 109 (FASB 109).
+
+         Per Share Amounts:
+
+         Primary earnings per share amounts have been computed utilizing the
+         weighted average number of common and, if material, common equivalent
+         shares outstanding during the period. Fully diluted earnings per share
+         is based upon the weighted average number of common and common
+         equivalent shares outstanding. Per share amounts give effect to the
+         retroactive adjustment for the 1-for-10 reverse stock split approved by
+         the shareholders in August 1996 (see Note 12).
+
+         All other per share amounts and information set forth in the attached
+         financial statements and the notes thereto have also been adusted to
+         give effect to the reverse stock split.
+
+(Continued)                            F-9
+
+<PAGE>
+
+                        EASTCO INDUSTRIAL SAFETY CORP.
+                                AND SUBSIDIARIES
+
+                   NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+                        YEAR ENDED JUNE 30, 1996 AND 1995
+
+
+
+
+NOTE 2 - Inventories:
+
+         Inventories at June 30, 1996 consist of the following:
+
+
+            Raw materials               $1,701,676
+            Work-in-process                514,555
+            Finished goods               3,014,006
+                                        ----------
+
+               Total                    $5,230,237
+                                        ==========
+
+NOTE 3 - Property, Plant and Equipment:
+
+         Property, plant and equipment at June 30, 1996 is comprised of the
+         following:
+
+                                                                Estimated
+                                                               Useful Life
+                                                                 (Years)
+                                                               -----------
+           Cost:
+              Land                             $  382,000
+              Building and leasehold
+                improvements                      827,451          5 - 40
+              Machinery and equipment           1,187,178          3 - 10
+              Furniture and fixtures              229,074          7 - 10
+                                               ----------     
+
+                   Total                        2,625,703
+
+           Less accumulated depreciation
+              and amortization                  1,347,608
+                                               ----------
+
+                   Balance                     $1,278,095
+                                               ==========
+
+(Continued)                         F-10
+
+<PAGE>
+
+                         EASTCO INDUSTRIAL SAFETY CORP.
+                                AND SUBSIDIARIES
+
+                   NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+                        YEAR ENDED JUNE 30, 1996 AND 1995
+
+
+
+
+NOTE 4 - Income Taxes:
+
+         The Company accounts for income taxes under the provisions of Statement
+         of Financial Accounting Standards No. 109 (SFAS 109). While SFAS 109
+         requires the recognition of a deferred tax asset for the benefit of net
+         operating loss carryforwards, it also requires the recognition of a
+         valuation allowance when it is more likely than not that such benefit
+         will not be realized. As a result of the Company's past history of
+         losses and the amount of its net income for the two years ended June
+         30, 1996 and 1995, it has recorded valuation allowances equal to its
+         net deferred tax asset account.
+
+         Deferred income taxes relate to the following temporary differences and
+         carryforwards at June 30, 1996:
+
+            Deferred tax assets:
+              Net operating loss carryforwards                      $1,800,000
+              Allowance for doubtful accounts
+                 and credits                                            66,000
+              Tax basis adjustments to inventory                        56,000
+                                                                    ----------
+                                                                     1,922,000
+
+                     Total
+
+            Less deferred tax liability:
+              Accelerated depreciation of
+                 property and equipment                                 11,000
+                                                                    ----------
+                     Balance                                         1,911,000
+
+            Less valuation allowance                                 1,911,000
+                                                                    ----------
+            Net deferred income taxes after
+              valuation allowance                                   $     --
+                                                                    ==========
+
+
+
+(Continued)
+                                      F-11
+
+<PAGE>
+
+                         EASTCO INDUSTRIAL SAFETY CORP.
+                                AND SUBSIDIARIES
+
+                   NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+                        YEAR ENDED JUNE 30, 1996 AND 1995
+
+
+
+NOTE 4 - Income Taxes (Continued):
+
+         Two wholly-owned Puerto Rico based subsidiaries have been granted
+         exemptions from paying Puerto Rico income taxes under provisions of the
+         Puerto Rico Industrial Tax Exemption Act of 1963, provided such
+         subsidiaries continue to meet the terms and conditions of their grants.
+         One subsidiary's exemption expires on June 30, 1999. The subsidiary has
+         received a 90% exemption from Puerto Rico income taxes and a 75%
+         exemption from Puerto Rico municipal and property taxes. The second
+         subsidiary has received a 90% exemption from Puerto Rico income and
+         property taxes and a 60% exemption from Puerto Rico municipal income
+         taxes to June 2006. These subsidiaries have elected, pursuant to
+         Section 936 of the Internal Revenue Code, to receive credits equivalent
+         to the amount of Federal income taxes which would otherwise be due on
+         their income. The Omnibus Budget Reconciliation Act of 1993 imposes
+         limitations on computing the Possession Tax Credit under Section 936
+         for tax years beginning after 1993. In addition, the Act makes the 100%
+         dividends received deduction subject to the Alternative Minimum Tax
+         calculation. The Small Business Job Protection Act of 1996 further
+         limits the Possession tax credit for years beginning after 2001 with
+         the credit being eliminated for tax years beginning after 2005.
+
+         Dividends, if paid by the Puerto Rico based subsidiaries, are subject
+         to a withholding tax of 10%; however, no taxes have been provided on
+         their aggregate undistributed earnings (of approximately $2,321,000 at
+         June 30, 1996) because it is management's intention to reinvest such
+         earnings indefinitely.
+
+         A reconciliation between the expected tax expense at the statutory
+         federal income tax rate and the Company's actual income tax expense is
+         as follows:
+
+
+                                                            June 30,
+                                                    ------------------------
+                                                       1996           1995
+                                                    ---------      ---------
+            Income tax expense                   
+               at the statutory rate                 $ 3,000        $ 26,000
+            Effect of net operating loss of      
+               Puerto Rican subsidiaries for     
+               which there is no current tax     
+               benefit                           
+            Effect of domestic net operating     
+               loss for which there is no        
+               current tax benefit                    (3,000)
+            Benefit of utilization of net        
+               operating loss carryforwards                         (26,000)
+                                                     --------       --------
+                                                 
+                 Actual income tax expense           $  --          $   --
+                                                    ========        ======== 
+         
+(Continued)
+                                      F-12
+
+<PAGE>
+
+                         EASTCO INDUSTRIAL SAFETY CORP.
+                                AND SUBSIDIARIES
+
+                   NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+                        YEAR ENDED JUNE 30, 1996 AND 1995
+
+
+NOTE 4 - Income Taxes (Continued):
+
+         At June 30, 1996, the Company has net operating loss carryforwards of
+         approximately $4,738,000 for federal income tax purposes. Such
+         carryforwards expire in 2005 through 2011. As a result of the private
+         placement offering in June 1996, the amount of the loss carryforwards
+         which can be utilized to offset future taxable income are limited to
+         approximately $345,000 a year, plus any loss carryforwards incurred
+         after June 30, 1996.
+
+         The annual limitation of the Company's net operating loss deductions
+         may be further reduced as a result of the proposed public
+         offering (see Note 13).
+
+
+NOTE 5 - Loans Payable:
+
+         Loans payable are comprised of short-term bank borrowings of $295,000
+         at June 30, 1996 and borrowings under the Company's line of credit
+         agreement with Congress Financial Corporation ("Congress"). Short-term
+         bank borrowings (which usually have 30 day terms) are renewable at the
+         bank's option and bear interest at 1% above the bank's prime rate.
+
+         In July 1996, the line of credit with Congress was amended and extended
+         until October 1, 1999 with an option by Congress to extend the loan for
+         one year. The line was increased from $6,000,000 to $9,000,000 with
+         interest at 1.25% above the prime rate. If the proposed public offering
+         is consummated no later than December 31, 1996 and the net proceeds are
+         at least $2,500,000, the interest charged will be reduced to 1% above
+         prime. The limit on borrowings was increased to 85% of eligible
+         accounts receivable and 55% of eligible inventory. The loans are
+         subject to certain working capital and net worth requirements and are
+         collateralized by all assets of the Company not previously pledged
+         under other loan agreements. The loan agreement prohibits the payment
+         of dividends by the Company. In September 1993, Congress sold to three
+         individuals, who are officers and directors of the Company, a $250,000
+         junior participation in the loans made to the Company. The Company had
+         an informal agreement with Congress, whereby Congress agreed to provide
+
+(Continued)                           F-13
+
+<PAGE>
+
+                         EASTCO INDUSTRIAL SAFETY CORP.
+                                AND SUBSIDIARIES
+
+                   NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+                        YEAR ENDED JUNE 30, 1996 AND 1995
+
+
+NOTE 5 - Loans Payable (Continued):
+
+         the Company an additional $500,000 in borrowing availability which was
+         repaid at $11,250 a week beginning November 1, 1993 until $250,000 of
+         additional borrowings was repaid. Congress can, at its option,
+         repurchase the junior participation if the Company has at least
+         $250,000 in availability under the financing agreement. In May 1996,
+         participations of $35,000 were repurchased. The participants' interest
+         in the obligations, collateral and collections is subordinated to
+         Congress.
+
+
+NOTE 6 - Long-Term Debt:
+
+         Long-term debt consists of a mortgage payable, collateralized by land,
+         building, accounts receivable and personal property. In June 1992, a
+         group of investors ("investors"), including a director and the spouses
+         of certain officers and directors of the Company, acquired for
+         $650,000, the mortgage on the Company's building with a balance of
+         approximately $962,000 and $500,000 of subordinated debt from a bank.
+         The group entered into a modification of indebtedness agreement which
+         reduced the mortgage to $650,000 and forgave the balance, which, after
+         the write off of related deferred financing costs, resulted in a gain
+         of $722,000 in fiscal 1992. In connection with this transaction, the
+         Company also issued five-year warrants to acquire 10,833 shares of
+         common stock at $30.00 a share. In January 1995, the Company reduced
+         the exercise price to $13.00 and extended the expiration date until
+         April 1999. The mortgage is payable in monthly installments of $10,092,
+         including interest at 14% a year, with the remaining balance of
+         approximately $439,000 due in June 1997. Interest on the mortgage was
+         $72,346 and $78,682 for the years ended June 30, 1996 and 1995,
+         respectively, approximately 38% of which was paid to a director and the
+         spouses of the officers and directors of the Company.
+
+         In September 1996, investors extended the mortgage until July 1, 2002,
+         with interest at 12% a year or 3% above the prime rate, whichever is
+         greater. The remaining balance of approximately $283,000 will be due on
+         July 1, 2002.
+
+         Based upon the new terms of the non-current portion of the mortgage is 
+         due as follows:
+
+             Year ending June 30,
+             --------------------
+                    1998              $ 27,000
+                    1999                27,000
+                    2000                30,000
+                    2001                34,000
+                    2002                38,000
+                    2003               283,000
+                                      --------
+                       Total          $439,000
+                                      ========
+
+(Continued)                           F-14
+
+<PAGE>
+
+                         EASTCO INDUSTRIAL SAFETY CORP.
+                                AND SUBSIDIARIES
+
+                   NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+                        YEAR ENDED JUNE 30, 1996 AND 1995
+
+
+
+NOTE 7 - Shareholders' Equity:
+
+         Common Stock:
+
+         In April 1991, the Company sold, pursuant to a rights offering, 48,007
+         shares of common stock. In this connection, the underwriter was sold a
+         warrant to purchase 4,078 shares of common stock at $53.30 per share,
+         which was exercisable until February 28, 1996. The Company also had
+         borrowed $200,000 with interest at 17% per annum during February 1991
+         from five unrelated parties. These loans were repaid out of the
+         proceeds of the rights offering, including interest. In connection with
+         these loans, the Company issued warrants to purchase 833 shares of
+         common stock, exercisable at $30.00 per share until May 13, 1996. In
+         January 1995, the Company reduced the exercise price of the above
+         warrants to $13.00 and extended their expiration dates until April
+         1999.
+
+         On April 19, 1994, the Company sold in a public offering 200,000 units
+         at $20.00 per unit. Each unit consists of one share of the Company's
+         common stock and one Class A warrant. Each warrant entitled the holder
+         to purchase one share of common stock at an exercise price of $24.00 a
+         share from April 12, 1995 through April 12, 1999. In January 1995, the
+         Company reduced the exercise price to $13.00 a share. These warrants
+         are redeemable by the Company commencing April 12, 1995 at $1.00 a
+         warrant, provided that the high bid price of its stock is at least
+         $19.50 for the required number of days prior to the Notice of
+         Redemption. The Company also granted to the underwriter an option to
+         purchase, at the same price, 30,000 units to cover over-allotments.
+         This option was exercised in May 1994. In addition, the Company sold to
+         the underwriter for $10 an option, exercisable from April 12, 1995 to
+         April 12, 1999, to purchase 23,000 additional units at $29.00 a unit
+         and entered into a two year consulting agreement with the underwriter
+         at a total cost of $72,000. Subsequent to the public offering, two
+         officers of the underwriter became directors of the Company until their
+         resignations on July 10, 1995.
+
+         On July 10, 1995, the Company issued 10,000 shares of common stock to
+         the underwriter of its 1994 public stock offering in exchange for the
+         cancellation of all of its rights under the Underwriting Agreement. The
+         $78,000 cost thereof, based on the market value of the shares issued
+         and legal expenses incurred, is separately reflected on the
+         consolidated statement of operations for the year ended June 30, 1996.
+
+
+
+
+
+
+(Continued)                           F-15
+
+<PAGE>
+
+                         EASTCO INDUSTRIAL SAFETY CORP.
+                                AND SUBSIDIARIES
+
+                   NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+                        YEAR ENDED JUNE 30, 1996 AND 1995
+
+
+
+NOTE 7 - Shareholders' Equity (Continued):
+
+         Private Placements:
+
+         On June 28, 1996, the Company issued, in a private placement, 10 1/2
+         units at $57,000 a unit. Each unit consists of 38,000 shares of the
+         Company's common stock. The net proceeds to the Company were
+         approximately $501,000 after fees to the placement agent and other
+         expenses. The proceeds were used to repay a $500,000 bridge loan, with
+         interest at 10%, made on May 17, 1996. In connection with the bridge
+         loan, the Company issued warrants to purchase 2,500 shares at a $10.00
+         per share which expire on June 30, 1999. On July 9, 1996, an additional
+         3 units were sold for net proceeds of $171,000. No fees were paid to
+         the placement agent for these units. The 513,000 shares issued will be
+         registered in the proposed public offering (see Note 13). However, the
+         shares underlying the 3 units cannot be sold until nine months after
+         the effective date of the proposed public offering.
+
+         Convertible Subordinated Debenture:
+
+         During April 1996, the holder of a $250,000 convertible subordinated
+         debenture, issued in February 1996, converted $150,000 of the debenture
+         into 26,374 shares of the Company's common stock. The Company
+         repurchased 21,374 of these shares for $180,000 and retired the stock.
+         The remaining $100,000 balance of the debenture was repurchased for
+         $120,000, including accrued interest. The $20,000 excess has been
+         included with interest expense for the year ended June 30, 1996.
+
+         Other Warrants:
+
+         In January 1994, a corporate officer/director of the Company purchased
+         a warrant from a prior lender. The warrant is for the purchase of
+         82,645 shares at $6.29 per share. The warrant expires on March 31,
+         1997.
+
+         On May 13, 1996, warrants to purchase 8,348 shares each were granted to
+         the Company's president and two vice presidents for their gurantees
+         of overadvances by Congress (see Note 5). The warrants are exerciseable
+         until February 23, 2001 at $5.77 per share.
+
+         On July 26, 1995, the Company issued to a consulting firm, which is the
+         employer of a  director of the Company, a five year warrant to
+         purchase 12,500 shares of the Company for $12.50 a share.
+
+
+
+
+(Continued)                           F-16
+
+<PAGE>
+
+                         EASTCO INDUSTRIAL SAFETY CORP.
+                                AND SUBSIDIARIES
+
+                   NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+                        YEAR ENDED JUNE 30, 1996 AND 1995
+
+
+NOTE 7 - Shareholders' Equity (Continued):
+
+         Incentive Stock Option Plans:
+
+         Under the Company's 1983 Incentive Stock Option Plan, options could be
+         granted to June 23, 1993 for a maximum of 5,625 shares of the Company's
+         common stock. At June 30, 1996, options to purchase 865 shares at
+         $26.70 to $30.00 a share are outstanding; no further options may be
+         granted under this plan.
+
+         The Company's 1992 Incentive Stock Option Plan provides for the
+         granting of options for 20,000 shares of the Company's common stock to
+         December 20, 2002. The Company has agreed not to issue any additional
+         options under this plan.
+
+         The Company's 1994 Incentive Stock Option Plan provides for the
+         granting of options for 10,000 shares of the Company's common stock to
+         January 2004. Options for 1,500 shares may be issued under this plan.
+
+         Options granted under the incentive stock option plans must be
+         exercised within such period as stated in the plans and, in any event,
+         must be exercised no later than ten years after the date they are
+         granted. The plans provide that the exercise price of the options may
+         not be less than 100% of the fair market value of common stock at the
+         date of grant or 110% in the case of an incentive stock option granted
+         to any employee owning more than 10% of the voting power of all classes
+         of stock of the Company.
+
+         Transactions under the above plans are summarized as follows:
+
+                                            Shares      Option Price Per Share
+                                            ------      ----------------------
+
+           Outstanding - June 30, 1994      1,178          $26.40 to $ 30.00
+
+           Granted                          8,500          $10.63
+           Expired                            (13)
+                                           ------
+
+           Outstanding - June 30, 1995
+             and 1996                       9,665          $10.63 to $30.00
+                                           =======
+
+
+
+
+
+
+
+
+
+
+(Continued)
+
+                                      F-17
+
+<PAGE>
+
+                         EASTCO INDUSTRIAL SAFETY CORP.
+                                AND SUBSIDIARIES
+
+                   NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+                        YEAR ENDED JUNE 30, 1996 AND 1995
+
+
+
+
+NOTE 7 - Shareholders' Equity (Continued):
+
+         1995 Stock Options:
+
+         On January 20, 1995, the Board of Directors granted to the Company's
+         president and two vice-presidents each ten-year nonqualified options to
+         purchase 80,158 shares each at $5.30 per share. The options are
+         exercisable after five years but may become exercisable sooner upon the
+         Company achieving pretax earnings targets. Based on the earnings for
+         the year ended June 30, 1995, options for 120,237 shares are now
+         exercisable.
+
+         Other nonqualified options outstanding at June 30, 1996, under prior
+         years' grants, aggregate 3,108 shares at $16.875 to $30.00 a share.
+
+         The following summarizes shares reserved at June 30, 1996 under options
+         and warrants outstanding:
+
+                                                                   Price Per
+                                                    Number           Share
+                                                   --------     ---------------
+          Stock options:
+             Incentive stock option plans             9,665     $10.63 - $30.00
+             Nonqualified options                   243,582     $ 5.30 - $30.00
+          Warrants:
+             Class A                                226,250     $13.00
+             Other                                  138,433     $ 5.77 - $13.00
+
+
+
+(Continued)                              F-18
+
+<PAGE>
+
+                         EASTCO INDUSTRIAL SAFETY CORP.
+                                AND SUBSIDIARIES
+
+                   NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+                        YEAR ENDED JUNE 30, 1996 AND 1995
+
+
+
+
+NOTE 8 - Commitments and Contingencies:
+
+         Rent:
+
+         The Company is obligated through August 2003 under several
+         noncancellable long-term operating leases covering office, factory and
+         warehouse facilities. Minimum annual rentals under these leases are:
+
+           Year ending June 30:
+              1997                                     $  116,000
+              1998                                        127,000
+              1999                                        137,000
+              2000                                        157,000
+              2001                                        142,000
+           Thereafter                                     332,000
+                                                       ----------
+
+                     Total                             $1,011,000
+                                                       ==========
+
+         Rent expense, including month-to-month rentals, was $226,000 and
+         $219,000 in the fiscal years ended June 30, 1996 and 1995.
+
+         Employment Agreements:
+
+         The Company had employment agreements, which commenced as of the
+         effective date of the April 1994 public offering, with three of its
+         officers. These agreements provided for combined annual salaries of
+         $247,000. On July 1, 1995, these officers entered into new agreements
+         which provide for the following:
+    
+                Officer                          Period          Annual Salary
+                -------                          ------          -------------
+    
+            President                            5 years            $121,000
+            Senior Vice-President *              5 years            $105,000
+            Vice-President of Finance
+              and Treasurer                      5 years            $ 55,000
+
+
+
+(Continued)
+
+                                      F-19
+
+<PAGE>
+
+                         EASTCO INDUSTRIAL SAFETY CORP.
+                                AND SUBSIDIARIES
+
+                   NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+                        YEAR ENDED JUNE 30, 1996 AND 1995
+
+
+
+
+NOTE 8 - Commitments and Contingencies (Continued):
+
+         Employment Agreements (Continued):
+
+          *    This officer is entitled to a bonus of 3/4 of 1% of net
+               sales in excess of $20,500,000, after June 30, 1997.
+
+         The above officers are also entitled to annual increases of not less
+         than 10% of the prior year's compensation. In addition, should an
+         unrelated party obtain more than 20% of the Company's then outstanding
+         stock, other than by transactions initiated by the Company in the
+         ordinary course of business, the following will occur:
+
+          (a)  Each will be paid a bonus equal to their minimum base salary for
+               the next three years.
+
+          (b)  Each will be repaid their junior participation in loans made to
+               the Company (see Note 5).
+
+          (c)  All rights (options, warrants, etc.) will become immediately
+               vested and exercisable.
+
+         These officers have waived their right to additional compensation
+         payable resulting from a change in control due to the private
+         placements and the proposed public offering (see Notes 7 and 13).
+
+NOTE 9 - Profit Sharing Plan:
+
+         The Company's qualified profit sharing plan covering all eligible
+         full-time employees provides for discretionary (i.e., no minimum
+         contributions are required) contributions as approved by the Company's
+         Board of Directors. The profit sharing plan includes a 401(k) plan.
+         There were no contributions made for the fiscal years ended June 30,
+         1996 and 1995.
+
+(Continued)
+                                      F-20
+
+<PAGE>
+
+                         EASTCO INDUSTRIAL SAFETY CORP.
+                                AND SUBSIDIARIES
+
+                   NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+                        YEAR ENDED JUNE 30, 1996 AND 1995
+
+
+
+
+NOTE 10 - Industry Segment Information:
+
+         Information for the Company's distribution and manufacturing segments
+         for the years ended June 30, 1996 and 1995 is summarized as follows:
+
+<TABLE>
+<CAPTION>
+
+   1996                      Distribution        Manufacturing       Total
+   ----                      ------------        -------------    -----------
+
+<S>                           <C>                <C>              <C>
+Net sales                     $9,094,046         $17,888,653      $26,982,699
+                              ==========         ===========      ===========
+
+Operating profit              $  133,760         $ 2,124,131      $ 2,257,891
+                              ==========         ===========
+General corporate expenses                                         (1,411,495)
+Interest expense                                                     (836,359)
+Income before provision for                                       -----------
+   income taxes                                                   $    10,037
+                                                                  ===========
+
+Identifiable assets           $5,182,514         $ 7,289,591      $12,472,105
+                              ==========         ===========      ===========
+Capital expenditures          $   43,704         $    49,570      $    93,274
+                              ==========         ===========      ===========
+Depreciation and amortiza-
+   tion expense               $   58,941         $    75,349      $   134,290
+                              ==========         ===========      ===========
+
+   1995
+   ----
+
+Net sales                     $9,233,456         $14,791,441      $24,024,897
+                              ==========         ===========      ===========
+
+Operating profit              $  156,199         $ 1,666,331      $ 1,822,530
+                              ==========         ===========
+
+General corporate expenses                                         (1,160,928)
+Interest expense                                                     (583,665)
+Loss before provision for                                         -----------
+   income taxes                                                   $    77,937
+                                                                  ===========
+
+Identifiable assets           $4,291,806         $ 6,424,242      $10,716,048
+                              ==========         ===========      ===========
+Capital expenditures          $   27,882         $   163,360      $   191,242
+                              ==========         ===========      ===========
+Depreciation and amortiza-
+   tion expense               $   37,462         $   127,071      $   164,533
+                              ==========         ===========      ===========
+</TABLE>
+
+(Continued)
+                                      F-21
+
+<PAGE>
+
+                         EASTCO INDUSTRIAL SAFETY CORP.
+                                AND SUBSIDIARIES
+
+                   NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+                        YEAR ENDED JUNE 30, 1996 AND 1995
+
+
+
+NOTE 11 - Litigation:
+
+          At June 30, 1996, the Company is a defendant in approximately 280
+          lawsuits, together with a multitude of other defendants, in actions
+          alleging exposure by approximately 1,300 first party plaintiffs to
+          asbestos and products containing asbestos sold by the Company over
+          unspecified periods of time.
+
+          To June 30, 1996 and since 1981, the Company estimates approximately
+          900 actions on behalf of approximately 7,500 first party plaintiffs
+          have been instituted against it concerning asbestos related claims and
+          that claims of approximately 6,200 plaintiffs have been terminated.
+          The foregoing numbers assume the consummation of pending settlements.
+          The Company estimates that with the exception of defense costs, a
+          total of approximately $1,400,000 has been agreed to in settlements to
+          date with regard to the terminated actions of which all but $30,000
+          has been paid by the Company's insurance carriers. To June 30, 1996,
+          the Company has paid less than $35,000 for legal and defense costs to
+          counsel appointed by the insurance companies to defend it. The Company
+          entered into an agreement with its primary insurance companies,
+          wherein its liability is limited to 12% of the cost of the defense
+          liability and 17% of the settlement claim of certain litigation. The
+          agreement, which is subject to policy limitations on each insurance
+          policy, may be terminated at any time upon 90 days notice by any of
+          the parties provided that termination may not be effective as to any
+          asbestos action that has already been placed on the trial calendar,
+          unless it has a scheduled trial date more than 12 months from the date
+          the notice is given. In May 1991, the Company reached an agreement
+          with Mount Vernon Fire Insurance Company, one of its primary insurance
+          carriers, with respect to its pending and future asbestos litigation.
+          Mount Vernon agreed to contribute 6.25% to the Company's defense costs
+          and 6.25% to its indemnity costs for so long a period of time as
+          $100,000 in aggregate has not been paid for indemnity costs. This
+          agreement applied only during the period Mount Vernon provided
+          insurance coverage, which is between April 1, 1968 to April 1, 1969.
+          However, because past results of settlements and defense costs are not
+          necessarily indicative of future settlements and defense costs and
+          because, as of this date, management is still unable
+
+
+(Continued)
+
+                                      F-22
+
+<PAGE>
+
+                         EASTCO INDUSTRIAL SAFETY CORP.
+                                AND SUBSIDIARIES
+
+                   NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+                        YEAR ENDED JUNE 30, 1996 AND 1995
+
+
+
+NOTE 11 - Litigation (Continued):
+
+          to fully ascertain the extent of insurance coverage applicable to
+          asbestos claims against the Company or the extent to which insurance
+          carriers will provide coverage, neither management nor counsel is able
+          to predict the outcome of these matters or the range of any potential
+          liability that might result. In addition, based on past history,
+          management believes it is likely that there will be additional
+          asbestos action instituted against the Company.
+
+          The Company is party to one other product liability action arising in
+          the ordinary course of business. After consultation with counsel, the
+          Company considers that its ultimate liability, if any, after available
+          insurance coverage, in this matter, would not have a material adverse
+          effect upon the Company's financial position. However, there can be no
+          assurances that the Company's insurance coverage will adequately cover
+          these cases or whether the Company's insurance will provide coverage
+          for punitive damages should they be awarded.
+
+NOTE 12 - Subsequent Events:
+
+          Reverse Stock Split, Preferred Stock, Stock Option Plans and Stock
+          Options:
+
+          On May 13, 1996, the Board of Directors approved the following
+          proposals which were approved by the shareholders at a special
+          meeting on August 12, 1996.
+
+          1.   A 1-for-10 reverse stock split of all outstanding shares of the
+               Company. The acompanying financial statements and notes thereto
+               give retroactive effect to this split.
+
+          2.   Amendment of the certificate of incorporation to authorize a
+               class of preferred stock consisting of 1,000,000 shares.
+
+          3.   Adoption of the 1996 incentive stock option plan for the issuance
+               of 300,000 shares to key employees.
+
+          4.   Adoption of the 1996 nonqualified stock option plan for the
+               issuance of 300,000 shares to key employees.
+
+
+(Continued)                           F-23
+
+<PAGE>
+
+                         EASTCO INDUSTRIAL SAFETY CORP.
+                                AND SUBSIDIARIES
+
+                   NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+                        YEAR ENDED JUNE 30, 1996 AND 1995
+
+
+
+NOTE 13 - Proposed Public Offering:
+
+          The Company has signed a letter of intent with an underwriter for a
+          rights offering and for the sale of units. Each holder of 5 shares of
+          the Company's common stock will be allowed to purchase 4 units. Each
+          unit is comprised of one share of common stock and a Class B warrant
+          to purchase one share of common stock. The warrants are exercisable
+          twelve months after the effective date of the offering or earlier with
+          the underwriters consent and expire three years from the effective
+          date of the offering. These warrants are redeemable by the Company
+          eighteen months after the effective date at $.01 a warrant provided
+          the high bid price of its stock is at least 150% in excess of the
+          exercise price of the warrants for the required number of days prior
+          to the redemption notice. The Company entered into a standby agreement
+          with the underwriter whereby any units not sold pursuant to the
+          exercise of rights will be sold to the underwriter at the same price.
+          In the event the unsubscribed units to be purchased by the underwriter
+          is less than 300,000 units, the underwriter will have the right, but
+          not the obligation, to purchase additional Units that will bring the
+          total up to 300,000 units. The Company also granted to the
+          underwriter, for $7, an option to purchase one unit for each 10
+          units sold in the offering. The Company will also enter into a one
+          year financial consulting agreement at a cost of 2% of the gross
+          proceeds of the offering. The Company also agreed to pay the
+          underwriter a warrant solicitation fee of 7% of the exercise price
+          of each Class B warrant.
+
+                                      F-24
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

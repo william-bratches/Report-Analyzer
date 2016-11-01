@@ -1,0 +1,1360 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ JdCDV3eGyssWWKnRpSF452e2nuWWeh6y6mZGYwpFyHcNJcodAInUsC1p4NgmbmCc
+ 0lHz0zG5ZrO+CCDgrXkuEg==
+
+<SEC-DOCUMENT>0000024751-96-000009.txt : 19960502
+<SEC-HEADER>0000024751-96-000009.hdr.sgml : 19960502
+ACCESSION NUMBER:		0000024751-96-000009
+CONFORMED SUBMISSION TYPE:	10KSB
+PUBLIC DOCUMENT COUNT:		4
+CONFORMED PERIOD OF REPORT:	19951231
+FILED AS OF DATE:		19960501
+SROS:			NONE
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			CORNING NATURAL GAS CORP
+		CENTRAL INDEX KEY:			0000024751
+		STANDARD INDUSTRIAL CLASSIFICATION:	NATURAL GAS TRANSMISSION & DISTRIBUTION [4923]
+		IRS NUMBER:				160397420
+		STATE OF INCORPORATION:			NY
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10KSB
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-00643
+		FILM NUMBER:		96554725
+
+	BUSINESS ADDRESS:	
+		STREET 1:		330 W WILLIAM ST
+		STREET 2:		P O BOX 58
+		CITY:			CORNING
+		STATE:			NY
+		ZIP:			14830
+		BUSINESS PHONE:		6079363755
+
+	MAIL ADDRESS:	
+		STREET 1:		330 W WILLIAM STREET
+		STREET 2:		P O BOX 58
+		CITY:			CORNING
+		STATE:			NY
+		ZIP:			14830
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>10KSB
+<SEQUENCE>1
+<TEXT>
+
+                     U.S. Securities and Exchange Commission
+                             Washington, D.C.  20549
+
+     (X)  ANNUAL REPORT UNDER SECTION 13 OR 15 (d) OF THE SECURITIES AND
+          EXCHANGE ACT OF 1934 (Fee Required)
+
+               For the fiscal year ended     December 31, 1995   
+
+                    Commission file number            0-643      
+
+                      Corning Natural Gas Corporation                      
+                 (Name of small business issuer in its charter)
+
+           New York                                 16-0397420             
+(State or other jurisdiction of         (I.R.S. Employer Identification No.)
+ incorporation or organization)
+
+  330 W. William St., Corning NY                             14830         
+(Address of principal executive offices)                  (Zip Code)
+
+Issuer's telephone number    (607) 936-3755  
+
+Securities registered under Section 12(b) of the Exchange Act:  None
+
+Securities registered under Section 12(g) of the Exchange Act:
+
+                          Common Stock - $5.00 par value                  
+                                (Title of class)
+
+     Check whether the issuer (1) filed all reports required to be filed by
+Section 13 or 15(d) of the Exchange Act during the past 12 months (or for such
+shorter period that the registrant was required to file such reports), and (2)
+has been subject to such filing requirements for the past 90 days.  Yes   X  
+No                            
+
+     Check if there is no disclosure of delinquent filers in response to Item
+405 of Regulation S-B is not contained in this form, and no disclosure will be
+contained, to the best of registrant's knowledge, in definitive proxy or
+information statements incorporated by reference in Part III of this Form 10-KSB
+or any amendment to this Form 10-ISV.   (X)
+
+Revenues for fiscal year ended December 31, 1995  $ 18,668,002
+
+The aggregate market value of the 338,390 shares of the Common Stock held by
+non-affiliates of the Registrant at the $24 average of bid and asked prices as
+of February 1, 1996 was $8,121,360.
+
+Number of shares of Common Stock outstanding as of the close of business on
+February 1, 1996 - 460,000.
+
+                       DOCUMENTS INCORPORATED BY REFERENCE
+
+     Portions of Registrant's Annual Report to Shareholders for the fiscal year
+     ended December 31, 1995, and definitive proxy statement and notice of
+     annual meeting of shareholders, dated April 23, 1996, are incorporated by
+     reference into Part I, Part II and Part III hereof.
+
+
+                         CORNING NATURAL GAS CORPORATION
+                                   FORM 10-KSB
+                   For the Fiscal Year Ended December 31, 1995
+
+                                     Part I
+
+ITEM 1 - DESCRIPTION OF BUSINESS
+(a)  Business Development
+Corning Natural Gas Corporation (the "Company" or "Registrant"), incorporated in
+1904, is a natural gas utility.  The Company purchases its entire supply of gas,
+and distributes it through its own pipeline distribution and transmission
+systems to residential, commercial, industrial and municipal customers in the
+Corning, New York area and to two other gas utilities which service the Elmira
+and Bath, New York areas.  The Company is under the jurisdiction of the Public
+Service Commission of New York State which oversees and sets rates for New York
+gas distribution companies.  The transportation of customer owned gas, purchased
+on the spot market, through the Company's distribution system continues to
+provide substantial revenues.  The Company currently transports for both system
+supply and end-use customers.  The Company also sells, leases and services
+appliances, primarily gas burning, through its wholly owned subsidiary, Corning
+Natural Gas Appliance Corporation.
+(b)  Business of Issuer
+     (1)  The Company maintains a gas supply portfolio of numerous contracts and
+is not dependent on a single supplier.  The Company had no curtailments during
+1995 and expects to have an adequate supply available for its customers during
+1996 providing that no abnormal conditions or actions occur.
+     (2)  The Company is franchised to supply gas service in all the political
+subdivisions in which it operates and is adequately protected therewith.
+     (3)  Since the Company's business is seasonal by quarters, sales for each
+quarter of the year vary and are not comparable.  Sales for calendar years vary
+depending on variations in temperature, but the Company's Weather Normalization
+Clause (WNC) serves to stabilize net revenue from the effects of temperature
+variations. The WNC allows the Company to adjust customer billings to compensate
+for fluctuations in net revenue caused by temperatures which are higher or lower
+than the thirty year average temperature for the period.  Degree days, which
+represent the number of degrees that the average daily temperature falls below
+65 degrees Fahrenheit, totaled 6,772 in 1995 and 7,008 in 1994.
+     (4)  The Company has three major customers, the details of which appear in
+the notes to the financial statements in the attached 1995 Annual Report to
+Shareholders which is incorporated by reference thereto.
+     (5)  Historically, the Company's competition in the residential market has
+been primarily from electricity in cooking, water heating and clothes drying,
+and to a very small degree, in heating.  The price of gas remains low in
+comparison to that of electricity in the Company's service territory and the
+Company's competitive position in the residential market continues to be very
+strong.  Approximately 99% of the Company's general service customers heat with
+gas.
+     In recent years competition from oil has developed in the industrial
+market.  The Company has been able to counteract much of this competition, to
+date, through the transportation of customer owned gas for a transportation
+charge.  The end use customer contracts on the spot market for the purchase of
+the gas, usually at substantial savings.  The Company's transportation rate is
+equal to the lowest unit rate of the appropriate rate classification, exclusive
+of gas costs, hence the profit margin is maintained.  Additionally, under the
+recent deregulated environment there is opportunity for the Company to increase
+revenue by selling its upstream pipeline capacity to transportation customers.
+The Company is authorized to retain 15% of such revenue and 85% is returned to
+firm customers in the form of lower gas costs.  Transportation customers that
+pay for this capacity are virtually assured that their supply will not be
+interrupted.  Revenues derived from the resale of this capacity were $154,033 in
+1995 and $244,638 in 1994.  Discounting due to excess capacity available in the
+marketplace was primarily responsible for the decrease in revenue.  For those
+willing to bear some risk, the Company has an interruptible transportation rate
+for its large industrial customers whereby the customer may elect to avoid
+payment of demand charges but bears the risk of partial or total upstream
+interruption of service during certain periods.  To maintain industrial load in
+the event that oil prices temporarily drop below the equivalent gas price, the
+Company continues to maintain a flexible transportation rate schedule.  This
+flexible rate, however, was not utilized in 1995 and has been invoked only once
+since its inception.
+     In September 1995 the Company purchased the assets of a local gas
+distribution company, Finger Lakes Gas Company, through the Federal Bankruptcy
+Court.  Finger Lakes Gas served customers in the Hammondsport, NY area and had a
+customer base of approximately 320 customers.  The Company was able to purchase
+this all plastic system with a bid of $560,000.  The Company was pleased to
+purchase these assets that originally cost over $1.5 million to construct for
+its relatively low bid.  The nearly new, all plastic, system was already
+connected and serving 320 customers with a potential to add 200 more in the near
+future.  On a per customer basis, this represents a very low investment.  The
+capital to purchase these assets was obtained through short term debt.  The
+Company has not found it necessary to apply for an increase in rates on this
+part of our system which means the original rates made effective in 1990 remain
+in effect six years later. 
+     Shortly after the Company took possession of the system, Mercury Aircraft,
+Inc. announced it would purchase the former Taylor Wine Company facilities and
+centralize their other plants.  The reopening of this major facility will most
+certainly contribute toward the stability and future viability of the new gas
+system which is now part of the Company.  The former Finger Lakes Gas Company's
+operations, which did not have a significant impact on 1995, are included in the
+consolidated results from the acquisition date.
+     In December, 1994 the New York Public Service Commission instituted a
+proceeding to address issues related to the merging competitive natural gas
+market.  This proceeding is intended to provide a framework whereby access to
+facilities on upstream pipelines made available by FERC Order 636 would be
+available to end use customers on the Local Distribution Company level.  The
+Company made the required filings and estimates the new tariff filings to be
+approved and become effective May 1, 1996.  The Company considers this a
+transitional step towards full unbundling of services with future changes made
+as circumstances warrant. 
+     The Company currently has a rate application before the New York State
+Public Service Commission requesting an increase of approximately 2.5% of
+revenues.  Negotiations are on going and the Company expects approval of the
+application and the ability to implement the new rates in 1996.
+     (6)  The Company believes compliance with present federal, state and local
+provisions relating to the protection of the environment will not have any
+material adverse effect on capital expenditures, earnings and financial position
+of the Company. 
+     (7)  Sixty-six persons were employed on a full-time basis and six on a
+part-time basis by the Company in 1995 and sixty-seven persons were employed on
+a full-time basis and five on a part-time basis during 1994.
+     (8)  The Company's labor-management relationship is good.  Typical labor
+negotiations are completed in one to two days.  The current labor contract was
+signed September 1, 1995 for a three year period.
+ITEM 2 - DESCRIPTION OF PROPERTY
+     The Company completed the construction of a new office building at 330 West
+William Street, Corning, NY in the fall of 1991.  This structure is physically
+connected to the operations center built three years earlier.  The Company had
+outgrown its general offices at 27 East Denison Parkway.  That property has been
+sold, and the gain on the sale was returned to ratepayers.
+     The Company's pipeline system is thoroughly surveyed each year.  Any
+necessary replacements are included in the construction budget.  Approximately
+105 miles of transmission main, 279 miles of distribution main, 12,749 services
+and 86 measuring and regulating stations, along with various other property are
+distributed throughout the service area.  All of the above described property is
+owned by the Company, except for one short section of 10" gas main which is
+leased and which is used primarily to serve Corning Incorporated.  All of the
+above described property which is owned by the Company is adequately insured,
+and is subject to the lien of the Company's first mortgage indenture.
+ITEM 3 - LEGAL PROCEEDINGS
+     The Company is not a party to any material pending legal proceedings, nor
+is the Company aware of any problems of any consequence which it anticipates may
+result in legal proceedings.
+ITEM 4 - SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS
+     No matters were submitted to a vote of security holders during the fourth
+quarter of 1995.
+Additional Item
+Executive Officers of the Registrant
+(Including Certain Significant Employees)
+
+                              Business Experience           Years Served
+Name                Age       During Past 5 Years           In This Office
+
+Thomas K. Barry      50  Chairman of the Board of Directors        2
+                         President & C.E.O.                       11 
+
+Edgar F. Lewis       58  Senior Vice President - Operations       15
+
+Kenneth J. Robinson  51  Executive Vice President                  4
+                         Financial Vice President & Treasurer      4 
+
+Phyllis J. Groeger   55  Secretary                                 8 
+
+Thomas S. Roye       42  Vice President - Administration           4
+                         Assistant Treasurer & Assistant Secretary 4
+
+Gary K. Earley       41  Treasurer                                 4
+                         Accountant, Rates & Regulations           4
+
+Term of office is for one year.  (Normally from April to April)
+
+
+                                     Part II
+ITEM 5 - MARKET FOR THE REGISTRANT'S COMMON EQUITY AND RELATED STOCKHOLDER
+MATTERS
+     The principal market on which the Registrant's common stock is traded, the
+range of high and low bid quotations for each quarterly period during the past
+two years, the amount and frequency of dividends, and a description of
+restrictions upon the Registrant's ability to pay dividends, appear in the
+attached Annual Report to Shareholders for the year ended December 31, 1995 and
+such information is incorporated herein by reference in response to the
+requirements of this item.  The number of stockholders of record of the
+Registrant's Common Stock was 389 at December 31, 1995.  The high and low bid
+quotations reflect inter-dealer prices, without retail markup, markdown or
+commission and may not represent actual transactions.  
+
+ITEM 6 - MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS
+OF OPERATIONS
+     Management's discussion of financial condition and results of operations of
+the Company appears in the attached 1995 Annual Report to Shareholders.  
+
+ITEM 7 - FINANCIAL STATEMENTS
+     The consolidated financial statements, together with the independent
+auditors' report thereon of KPMG Peat Marwick LLP dated February 9, 1996 are
+included in the 1995 Annual Report to Shareholders attached hereto, and are
+incorporated in this Form 10-KSB by reference thereto.
+
+ITEM 8 - CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND
+FINANCIAL DISCLOSURE
+None
+
+                                    Part III
+ITEM 9 - DIRECTORS, EXECUTIVE OFFICERS, PROMOTERS AND CONTROL PERSONS
+     The information required regarding the executive officers of the Registrant
+is included in Part 1 under "Additional Item".
+
+ITEM 10 - EXECUTIVE COMPENSATION
+     The information required regarding the compensation of the executive
+officers appears in the Definitive Proxy Statement attached hereto.
+
+ITEM 11 - SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT
+     The information required regarding the security ownership of certain
+beneficial owners and management appears in the Definitive Proxy Statement
+attached hereto.
+
+ITEM 12 - CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS
+     The information required regarding certain relationships and related
+transactions appears in the Definitive Proxy Statement attached hereto.
+
+                                     Part IV
+
+ITEM 13 - EXHIBITS AND REPORTS ON FORM 8-K
+
+(a)  Exhibits
+
+     The following exhibits are filed with this Form 10-KSB or incorporated    
+herein by reference:  (Exhibit numbers correspond to numbers assigned to      
+exhibits in Item 601 of Regulation S-B)
+
+                                 Name of Exhibit
+Exhibit                                                                    Page 
+
+ 3        A copy of the Corporation's Articles of Incorporation,
+          as currently in effect, including all amendments, was
+          filed with the Company's Form 10-K for December 31, 1987.
+
+ 3        A copy of the Corporation's complete by-laws, as
+          currently in effect, was filed with the Corporation's
+          report on Form 10-Q for the quarter ended March 31, 1984.
+
+10        A copy of the "Agreement Between Corning Natural Gas
+          Corporation and Local 139", dated September 1, 1995,
+          is filed herewith.                                                13
+
+10        Consulting Agreement and Employment Contracts with
+          three executive officers were filed with the Company's
+          Form 10-K for December 31, 1987.
+
+10        A copy of the Service Agreement with CNG
+          Transmission Corporation was filed with the Company's
+          Form 10-KSB for December 31, 1993.
+
+10        A copy of the Sales Agreement with Bath Electric, Gas
+          and Water was filed with the Company's Form 10-K for
+          December 31, 1989.
+
+10        A copy of the Transportation Agreement between the Company
+          and New York State Electric and Gas Corporation was filed
+          with the Company's Form 10-KSB for December 31, 1992.                
+       
+10        A copy of the Transportation Agreement between the
+          Company and Corning Incorporated was filed with the
+          Company's Form 10-KSB for December 31, 1992.
+
+10        A copy of the Service Agreement with Columbia Gas
+          Transmission Co. was filed with the Company's
+          10-KSB for December 31, 1993.                                        
+                   
+10        A copy of the Service Agreement with Tennessee Gas
+          Pipeline Co. was filed with the Company's 10-KSB
+          for December 3, 1993.
+
+13        A copy of the Corporation's Annual Report to
+          Shareholders for 1995, is filed herewith.                         14
+
+
+22        Information regarding the Company's sole subsidiary was
+          filed as Exhibit 22 with the Company's Form 10-K for
+          the period ended December 31, 1981.
+
+28        Corning Natural Gas Corporation Proxy Statement is
+          filed herewith.                                                   15 
+                                                       
+99        Order from the U.S. Bankruptcy Court, Northern District
+          of New York re: Approval of Acquisition of Finger Lakes
+          Gas Company                                                       16
+
+99        Order from the Public Service Commission of New York State
+          re:  Approval of Acquisition of Finger Lakes Gas Company          17
+
+(b)  Reports on Form 8-K
+
+     The Company filed no reports on Form 8-K during the three month period  
+   ended December 31, 1995.
+SIGNATURES
+
+     In accordance with Section 13 or 15 (d) of the Securities 
+
+Exchange Act, the registrant caused this report to be signed on its 
+
+behalf by the undersigned, there unto duly authorized.        
+
+
+                              CORNING NATURAL GAS CORPORATION
+                                      (Registrant)
+
+
+Date     March 22, 1996            THOMAS K. BARRY                   
+                                   Thomas K. Barry, President & C.E.O.
+                                   and Chairman of the Board
+
+
+
+Date     March 22, 1996            GARY K. EARLEY                    
+                                   Gary K. Earley, Treasurer
+
+
+
+     In accordance with the Exchange Act, this report has been signed 
+
+below by the following persons on behalf of the registrant and in the 
+
+capacities and on the dates indicated.
+
+
+Date      March 22, 1996           J.E. BARRY                        
+                                   J.E. Barry, Director             
+
+
+
+Date      March 22, 1996           DONALD R. PATNODE                 
+                                   Donald R. Patnode, Director
+
+
+
+Date      March 22, 1996           J.A. FINLEY                       
+                                   J.A. Finley, Director
+SIGNATURES
+
+     In accordance with Section 13 or 15 (d) of the Exchange Act, the 
+
+registrant caused this report to be signed on its behalf by the 
+
+undersigned, there unto duly authorized.
+
+
+                                   CORNING NATURAL GAS CORPORATION
+                                            (Registrant)
+
+
+Date    March 22, 1996         By                                     
+                                   Thomas K. Barry, President & C.E.O.
+                                   and Chairman of the Board
+
+
+Date    March 22, 1996                                                
+                                   Gary K. Earley, Treasurer
+
+
+     In accordance with the Exchange Act, this report has been signed 
+
+below by the following persons on behalf of the registrant and in the 
+
+capacities and on the dates indicated.
+
+
+Date    March 22, 1996         By                                     
+                                   J.E. Barry, Chairman of the Board
+
+
+Date    March 22, 1996                                                
+                                   Donald R. Patnode, Director
+
+
+Date    March 22, 1996                                                
+                                   J.A. Finley, Director
+
+
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-13
+<SEQUENCE>2
+<TEXT>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                               AGREEMENT
+
+                                BETWEEN
+
+                    CORNING NATURAL GAS CORPORATION
+
+                                  and
+
+                            LOCAL UNION 139
+
+                     International Brotherhood of
+                      Electrical Workers AFL-CIO
+                       September 1, 1995
+                               AGREEMENT
+
+                                BETWEEN
+
+                    CORNING NATURAL GAS CORPORATION
+
+                                  and
+
+                            LOCAL UNION 139
+
+                     International Brotherhood of
+                      Electrical Workers AFL-CIO
+
+                           September 1, 1995
+
+
+                           A G R E E M E N T
+
+          This Agreement made and entered into at Corning, New York
+this 14th day of June, 1995, effective as of September 1, 1995 by and
+between Corning Natural Gas Corporation, a New York corporation
+(hereinafter referred to as the "Company") and the International
+Brotherhood of Electrical Workers, AFL-CIO, Local 139) hereinafter
+referred to as the "Union".
+
+                              WITNESSETH
+          WHEREAS, the National Labor Relations Board on March 23,
+1967, following a representation election held on March 15, 1967, in
+Case No. 3-RC-4093, found, determined and certified that the Union has
+been designated and selected by a majority of the employees of the
+Company, in the unit described below, as their representative for the
+purposes of collective bargaining, and that, pursuant to Section 9(a)
+of the National Labor Relations Act, as amended, the Union is the
+exclusive representative of all the employees in such unit for the
+
+                               - Page 2 -
+9/1/95
+purposes of collective bargaining with respect to rates of pay, wages,
+hours of employment, and other conditions of employment; and the unit
+is described as all production and maintenance employ
+subdivisions in which it operates and is adequately protected therewith.
+     (3)  Since the Company's business is seasonal by quarters, sales for each
+quarter of the year vary and are not comparable.  Sales for calendar years vary
+depending on variations in temperature, but the Company's Weather Normalization
+Clause (WNC) serves to stabilize net revenue from the effects of temperature
+variations. The WNC allows the Company to adjust customer billings to compensate
+for fluctuations in net revenue caused by temperatures which are higher or lower
+than the thirty year average temperature for the period.  Degree days, which
+represent the number of degrees that the average daily temperature falls below
+65 degrees Fahrenheit, totaled 6,772 in 1995 and 7,008 in 1994.
+     (4)  The Company has three major customers, the details of which appear in
+the notes to the financial statements in the attached 1995 Annual Report to
+Shareholders which is incorporated by reference thereto.
+     (5)  Historically, the Company's competition in the residential market has
+been primarily from electricity in cooking, water heating and clothes drying,
+and to a very small degree, in heating.  The price of gas remains low in
+comparison to that of electricity in the Company's service territory and the
+Company's competitive position in the residential market continues to be very
+strong.  Approximately 99% of the Company's general service customers heat with
+gas.
+     In recent years competition from oil has developed in the industrial
+market.  The Company has been able to counteract much of this competition, to
+date, through the transportation of customer owned gas for a transportation
+charge.  The end use customer contracts on the spot market for the purchase of
+the gas, usually at substantial savings.  The Company's transportation rate is
+equal to the lowest unit rate of the appropriate rate classification, exclusive
+of gas costs, hence the profit margin is maintained.  Additionally, under the
+recent deregulated environment there is opportunity for the Company to increase
+revenue by selling its upstream pipeline capacity to transportation customers.
+The Company is authorized to retain 15% of such revenue and 85% is returned to
+firm customers in the form of lower gas costs.  Transportation customers that
+pay for this capacity are virtually assured that their supply will not be
+interrupted.  Revenues derived from the resale of this capacity were $154,033 in
+1995 and $244,638 in 1994.  Discounting due to excess capacity available in the
+marketplace was primarily responsible for the decrease in revenue.  For those
+willing to bear some risk, the Company has an interruptible transportation rate
+for its large industrial customers whereby the customer may elect to avoid
+payment of demand charges but bears the risk of partial or total upstream
+interruption of service during certain periods.  To maintain industrial load in
+the event that oil prices temporarily drop below the equivalent gas price, the
+Company continues to maintain a flexible transportation rate schedule.  This
+flexible rate, however, was not utilized in 1995 and has been invoked only once
+since its inception.
+     In September 1995 the Company purchased the assets of a local gas
+distribution company, Finger Lakes Gas Company, through the Federal Bankruptcy
+Court.  Finger Lakes Gas served customers in the Hammondsport, NY area and had a
+customer base of approximately 320 customers.  The Company was able to purchase
+this all plastic system with a bid of $560,000.  The Company was pleased to
+purchase these assets that originally cost over $1.5 million to construct for
+its relatively low bid.  The nearly new, all plastic, system was already
+connected and serving 320 customers with a potential to add 200 more in the near
+future.  On a per customer basis, this represents a very low investment.  The
+capital to purchase these assets was obtained through short term debt.  The
+Company has not found it necessary to apply for an increase in rates on this
+part of our system which means the original rates made effective in 1990 remain
+in effect six years later. 
+     Shortly after the Company took possession of the system, Mercury Aircraft,
+Inc. announced it would purchase the former Taylor Wine Company facilities and
+centralize their other plants.  The reopening of this major facility will most
+certainly contribute toward the stability and future viability of the new gas
+system which is now part of the Company.  The former Finger Lakes Gas Company's
+operations, which did not have a significant impact on 1995, are included in the
+consolidated results from the acquisition date.
+     In December, 1994 the New York Public Service Commission instituted a
+proceeding to address issues related to the merging competitive natural gas
+market.  This proceeding is intended to provide a framework whereby access to
+facilities on upstream pipelines made available by FERC Order 636 would be
+available to end use customers on the Local Distribution Company level.  The
+Company made the required filings and estimates the new tariff filings to be
+approved and become effective May 1, 1996.  The Company considers this a
+transitional step towards full unbundling of services with future changes made
+as circumstances warrant. 
+     The Company currently has a rate application before the New York State
+Public Service Commission requesting an increase of approximately 2.5% of
+revenues.  Negotiations are on going and the Company expects approval of the
+application and the ability to implement the new rates in 1996.
+     (6)  The Company believes compliance with present federal, state and local
+provisions relating to the protection of the environment will not have any
+material adverse effect on capital expenditures, earnings and financial position
+of the Company. 
+     (7)  Sixty-six persons were employed on a full-time basis and six on a
+part-time basis by the Company in 1995 and sixty-seven persons were employed on
+a full-time basis and five on a part-time basis during 1994.
+     (8)  The Company's labor-management relationship is good.  Typical labor
+negotiations are completed in one to two days.  The current labor contract was
+signed September 1, 1995 for a three year period.
+ITEM 2 - DESCRIPTION OF PROPERTY
+     The Company completed the construction of a new office building at 330 West
+William Street, Corning, NY in the fall of 1991.  This structure is physically
+connected to the operations center built three years earlier.  The Company had
+outgrown its general offices at 27 East Denison Parkway.  That property has been
+sold, and the gain on the sale was returned to ratepayers.
+     The Company's pipeline system is thoroughly surveyed each year.  Any
+necessary replacements are included in the construction budget.  Approximately
+105 miles of transmission main, 279 miles of distribution main, 12,749 services
+and 86 measuring and regulating stations, along with various other property are
+distributed throughout the service area.  All of the above described property is
+owned by the Company, except for one short section of 10" gas main which is
+leased and which is used primarily to serve Corning Incorporated.  All of the
+above described property which is owned by the Company is adequately insured,
+and is subject to the lien of the Company's first mortgage indenture.
+ITEM 3 - LEGAL PROCEEDINGS
+     The Company is not a party to any material pending legal proceedings, nor
+is the Company aware of any problems of any consequence which it anticipates may
+result in legal proceedings.
+ITEM 4 - SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS
+     No matters were submitted to a vote of security holders during the fourth
+quarter of 1995.
+Additional Item
+Executive Officers of the Registrant
+(Including Certain Significant Employees)
+
+                              Business Experience           Years Served
+Name                Age       During Past 5 Years           In This Office
+
+Thomas K. Barry      50  Chairman of the Board of Directors        2
+                         President & C.E.O.                       11 
+
+Edgar F. Lewis       58  Senior Vice President - Operations       15
+
+Kenneth J. Robinson  51  Executive Vice President                  4
+                         Financial Vice President & Treasurer      4 
+
+Phyllis J. Groeger   55  Secretary                                 8 
+
+Thomas S. Roye       42  Vice President - Administration           4
+                         Assistant Treasurer & Assistant Secretary 4
+
+Gary K. Earley       41  Treasurer                                 4
+                         Accountant, Rates & Regulations           4
+
+Term of office is for one year.  (Normally from April to April)
+
+
+                                     Part II
+ITEM 5 - MARKET FOR THE REGISTRANT'S COMMON EQUITY AND RELATED STOCKHOLDER
+MATTERS
+     The principal market on which the Registrant's common stock is traded, the
+range of high and low bid quotations for each quarterly period during the past
+two years, the amount and frequency of dividends, and a description of
+restrictions upon the Registrant's ability to pay dividends, appear in the
+attached Annual Report to Shareholders for the year ended December 31, 1995 and
+such information is incorporated herein by reference in response to the
+requirements of this item.  The number of stockholders of record of the
+Registrant's Common Stock was 389 at December 31, 1995.  The high and low bid
+quotations reflect inter-dealer prices, without retail markup, markdown or
+commission and may not represent actual transactions.  
+
+ITEM 6 - MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS
+OF OPERATIONS
+     Management's discussion of financial condition and results of operations of
+the Company appears in the attached 1995 Annual Report to Shareholders.  
+
+ITEM 7 - FINANCIAL STATEMENTS
+     The consolidated financial statements, together with the independent
+auditors' report thereon of KPMG Peat Marwick LLP dated February 9, 1996 are
+included in the 1995 Annual Report to Shareholders attached hereto, and are
+incorporated in this Form 10-KSB by reference thereto.
+
+ITEM 8 - CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND
+FINANCIAL DISCLOSURE
+None
+
+                                    Part III
+ITEM 9 - DIRECTORS, EXECUTIVE OFFICERS, PROMOTERS AND CONTROL PERSONS
+     The information required regarding the executive officers of the Registrant
+is included in Part 1 under "Additional Item".
+
+ITEM 10 - EXECUTIVE COMPENSATION
+     The information required regarding the compensation of the executive
+officers appears in the Definitive Proxy Statement attached hereto.
+
+ITEM 11 - SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT
+     The information required regarding the security ownership of certain
+beneficial owners and management appears in the Definitive Proxy Statement
+attached hereto.
+
+ITEM 12 - CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS
+     The information required regarding certain relationships and related
+transactions appears in the Definitive Proxy Statement attached hereto.
+
+                                     Part IV
+
+ITEM 13 - EXHIBITS AND REPORTS ON FORM 8-K
+
+(a)  Exhibits
+
+     The following exhibits are filed with this Form 10-KSB or incorporated    
+herein by reference:  (Exhibit numbers correspond to numbers assigned to      
+exhibits in Item 601 of Regulation S-B)
+
+                                 Name of Exhibit
+Exhibit                                                                    Page 
+
+ 3        A copy of the Corporation's Articles of Incorporation,
+          as currently in effect, including all amendments, was
+          filed with the Company's Form 10-K for December 31, 1987.
+
+ 3        A copy of the Corporation's complete by-laws, as
+          currently in effect, was filed with the Corporation's
+          report on Form 10-Q for the quarter ended March 31, 1984.
+
+10        A copy of the "Agreement Between Corning Natural Gas
+          Corporation and Local 139", dated September 1, 1995,
+          is filed herewith.                                                13
+
+10        Consulting Agreement and Employment Contracts with
+          three executive officers were filed with the Company's
+          Form 10-K for December 31, 1987.
+
+10        A copy of the Service Agreement with CNG
+          Transmission Corporation was filed with the Company's
+          Form 10-KSB for December 31, 1993.
+
+10        A copy of the Sales Agreement with Bath Electric, Gas
+          and Water was filed with the Company's Form 10-K for
+          December 31, 1989.
+
+10        A copy of the Transportation Agreement between the Company
+          and New York State Electric and Gas Corporation was filed
+          with the Company's Form 10-KSB for December 31, 1992.                
+       
+10        A copy of the Transportation Agreement between the
+          Company and Corning Incorporated was filed with the
+          Company's Form 10-KSB for December 31, 1992.
+
+10        A copy of the Service Agreement with Columbia Gas
+          Transmission Co. was filed with the Company's
+          10-KSB for December 31, 1993.                                        
+                   
+10        A copy of the Service Agreement with Tennessee Gas
+          Pipeline Co. was filed with the Company's 10-KSB
+          for December 3, 1993.
+
+13        A copy of the Corporation's Annual Report to
+          Shareholders for 1995, is filed herewith.                         14
+
+
+22        Information regarding the Company's sole subsidiary was
+          filed as Exhibit 22 with the Company's Form 10-K for
+          the period ended December 31, 1981.
+
+28        Corning Natural Gas Corporation Proxy Statement is
+          filed herewith.                                                   15 
+                                                       
+99        Order from the U.S. Bankruptcy Court, Northern District
+          of New York re: Approval of Acquisition of Finger Lakes
+          Gas Company                                                       16
+
+99        Order from the Public Service Commission of New York State
+          re:  Approval of Acquisition of Finger Lakes Gas Company          17
+
+(b)  Reports on Form 8-K
+
+     The Company filed no reports on Form 8-K during the three month period  
+   ended December 31, 1995.
+SIGNATURES
+
+     In accordance with Section 13 or 15 (d) of the Securities 
+
+Exchange Act, the registrant caused this report to be signed on its 
+
+behalf by the undersigned, there unto duly authorized.        
+
+
+                              CORNING NATURAL GAS CORPORATION
+                                      (Registrant)
+
+
+Date     March 22, 1996            THOMAS K. BARRY                   
+                                   Thomas K. Barry, President & C.E.O.
+                                   and Chairman of the Board
+
+
+
+Date     March 22, 1996            GARY K. EARLEY                    
+                                   Gary K. Earley, Treasurer
+
+
+
+     In accordance with the Exchange Act, this report has been signed 
+
+below by the following persons on behalf of the registrant and in the 
+
+capacities and on the dates indicated.
+
+
+Date      March 22, 1996           J.E. BARRY                        
+                                   J.E. Barry, Director             
+
+
+
+Date      March 22, 1996           DONALD R. PATNODE                 
+                                   Donald R. Patnode, Director
+
+
+
+Date      March 22, 1996           J.A. FINLEY                       
+                                   J.A. Finley, Director
+SIGNATURES
+
+     In accordance with Section 13 or 15 (d) of the Exchange Act, the 
+
+registrant caused this report to be signed on its behalf by the 
+
+undersigned, there unto duly authorized.
+
+
+                                   CORNING NATURAL GAS CORPORATION
+                                            (Registrant)
+
+
+Date    March 22, 1996         By                                     
+                                   Thomas K. Barry, President & C.E.O.
+                                   and Chairman of the Board
+
+
+Date    March 22, 1996                                                
+                                   Gary K. Earley, Treasurer
+
+
+     In accordance with the Exchange Act, this report has been signed 
+
+below by the following persons on behalf of the registrant and in the 
+
+capacities and on the dates indicated.
+
+
+Date    March 22, 1996         By                                     
+                                   J.E. Barry, Chairman of the Board
+
+
+Date    March 22, 1996                                                
+                                   Donald R. Patnode, Director
+
+
+Date    March 22, 1996                                                
+                                   J.A. Finley, Director
+
+
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-13
+<SEQUENCE>3
+<TEXT>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                               AGREEMENT
+
+                                BETWEEN
+
+                    CORNING NATURAL GAS CORPORATION
+
+                                  and
+
+                            LOCAL UNION 139
+
+                     International Brotherhood of
+                      Electrical Workers AFL-CIO
+                       September 1, 1995
+                               AGREEMENT
+
+                                BETWEEN
+
+                    CORNING NATURAL GAS CORPORATION
+
+                                  and
+
+                            LOCAL UNION 139
+
+                     International Brotherhood of
+                      Electrical Workers AFL-CIO
+
+                           September 1, 1995
+
+
+                           A G R E E M E N T
+
+          This Agreement made and entered into at Corning, New York
+this 14th day of June, 1995, effective as of September 1, 1995 by and
+between Corning Natural Gas Corporation, a New York corporation
+(hereinafter referred to as the "Company") and the International
+Brotherhood of Electrical Workers, AFL-CIO, Local 139) hereinafter
+referred to as the "Union".
+
+                              WITNESSETH
+          WHEREAS, the National Labor Relations Board on March 23,
+1967, following a representation election held on March 15, 1967, in
+Case No. 3-RC-4093, found, determined and certified that the Union has
+been designated and selected by a majority of the employees of the
+Company, in the unit described below, as their representative for the
+purposes of collective bargaining, and that, pursuant to Section 9(a)
+of the National Labor Relations Act, as amended, the Union is the
+exclusive representative of all the employees in such unit for the
+
+                               - Page 2 -
+9/1/95
+purposes of collective bargaining with respect to rates of pay, wages,
+hours of employment, and other conditions of employment; and the unit
+is described as all production and maintenance employ
+subdivisions in which it operates and is adequately protected therewith.
+     (3)  Since the Company's business is seasonal by quarters, sales for each
+quarter of the year vary and are not comparable.  Sales for calendar years vary
+depending on variations in temperature, but the Company's Weather Normalization
+Clause (WNC) serves to stabilize net revenue from the effects of temperature
+variations. The WNC allows the Company to adjust customer billings to compensate
+for fluctuations in net revenue caused by temperatures which are higher or lower
+than the thirty year average temperature for the period.  Degree days, which
+represent the number of degrees that the average daily temperature falls below
+65 degrees Fahrenheit, totaled 6,772 in 1995 and 7,008 in 1994.
+     (4)  The Company has three major customers, the details of which appear in
+the notes to the financial statements in the attached 1995 Annual Report to
+Shareholders which is incorporated by reference thereto.
+     (5)  Historically, the Company's competition in the residential market has
+been primarily from electricity in cooking, water heating and clothes drying,
+and to a very small degree, in heating.  The price of gas remains low in
+comparison to that of electricity in the Company's service territory and the
+Company's competitive position in the residential market continues to be very
+strong.  Approximately 99% of the Company's general service customers heat with
+gas.
+     In recent years competition from oil has developed in the industrial
+market.  The Company has been able to counteract much of this competition, to
+date, through the transportation of customer owned gas for a transportation
+charge.  The end use customer contracts on the spot market for the purchase of
+the gas, usually at substantial savings.  The Company's transportation rate is
+equal to the lowest unit rate of the appropriate rate classification, exclusive
+of gas costs, hence the profit margin is maintained.  Additionally, under the
+recent deregulated environment there is opportunity for the Company to increase
+revenue by selling its upstream pipeline capacity to transportation customers.
+The Company is authorized to retain 15% of such revenue and 85% is returned to
+firm customers in the form of lower gas costs.  Transportation customers that
+pay for this capacity are virtually assured that their supply will not be
+interrupted.  Revenues derived from the resale of this capacity were $154,033 in
+1995 and $244,638 in 1994.  Discounting due to excess capacity available in the
+marketplace was primarily responsible for the decrease in revenue.  For those
+willing to bear some risk, the Company has an interruptible transportation rate
+for its large industrial customers whereby the customer may elect to avoid
+payment of demand charges but bears the risk of partial or total upstream
+interruption of service during certain periods.  To maintain industrial load in
+the event that oil prices temporarily drop below the equivalent gas price, the
+Company continues to maintain a flexible transportation rate schedule.  This
+flexible rate, however, was not utilized in 1995 and has been invoked only once
+since its inception.
+     In September 1995 the Company purchased the assets of a local gas
+distribution company, Finger Lakes Gas Company, through the Federal Bankruptcy
+Court.  Finger Lakes Gas served customers in the Hammondsport, NY area and had a
+customer base of approximately 320 customers.  The Company was able to purchase
+this all plastic system with a bid of $560,000.  The Company was pleased to
+purchase these assets that originally cost over $1.5 million to construct for
+its relatively low bid.  The nearly new, all plastic, system was already
+connected and serving 320 customers with a potential to add 200 more in the near
+future.  On a per customer basis, this represents a very low investment.  The
+capital to purchase these assets was obtained through short term debt.  The
+Company has not found it necessary to apply for an increase in rates on this
+part of our system which means the original rates made effective in 1990 remain
+in effect six years later. 
+     Shortly after the Company took possession of the system, Mercury Aircraft,
+Inc. announced it would purchase the former Taylor Wine Company facilities and
+centralize their other plants.  The reopening of this major facility will most
+certainly contribute toward the stability and future viability of the new gas
+system which        Form 10-K for December 31, 1987.
+
+10        A copy of the Service Agreement with CNG
+          Transmission Corporation was filed with the Company's
+          Form 10-KSB for December 31, 1993.
+
+10        A copy of the Sales Agreement with Bath Electric, Gas
+          and Water was filed with the Company's Form 10-K for
+          December 31, 1989.
+
+10        A copy of the Transportation Agreement between the Company
+          and New York State Electric and Gas Corporation was filed
+          with the Company's Form 10-KSB for December 31, 1992.                
+       
+10        A copy of the Transportation Agreement between the
+          Company and Corning Incorporated was filed with the
+          Company's Form 10-KSB for December 31, 1992.
+
+10        A copy of the Service Agreement with Columbia Gas
+          Transmission Co. was filed with the Company's
+          10-KSB for December 31, 1993.                                        
+                   
+10        A copy of the Service Agreement with Tennessee Gas
+          Pipeline Co. was filed with the Company's 10-KSB
+          for December 3, 1993.
+
+13        A copy of the Corporation's Annual Report to
+          Shareholders for 1995, is filed herewith.                         14
+
+
+22        Information regarding the Company's sole subsidiary was
+          filed as Exhibit 22 with the Company's Form 10-K for
+          the period ended December 31, 1981.
+
+28        Corning Natural Gas Corporation Proxy Statement is
+          filed herewith.                                                   15 
+                                                       
+99        Order from the U.S. Bankruptcy Court, Northern District
+          of New York re: Approval of Acquisition of Finger Lakes
+          Gas Company                                                       16
+
+99        Order from the Public Service Commission of New York State
+          re:  Approval of Acquisition of Finger Lakes Gas Company          17
+
+(b)  Reports on Form 8-K
+
+     The Company filed no reports on Form 8-K during the three month period  
+   ended December 31, 1995.
+SIGNATURES
+
+     In accordance with Section 13 or 15 (d) of the Securities 
+
+Exchange Act, the registrant caused this report to be signed on its 
+
+behalf by the undersigned, there unto duly authorized.        
+
+
+                              CORNING NATURAL GAS CORPORATION
+                                      (Registrant)
+
+
+Date     March 22, 1996            THOMAS K. BARRY                   
+                                   Thomas K. Barry, President & C.E.O.
+                                   and Chairman of the Board
+
+
+
+Date     March 22, 1996            GARY K. EARLEY                    
+                                   Gary K. Earley, Treasurer
+
+
+
+     In accordance with the Exchange Act, this report has been signed 
+
+below by the following persons on behalf of the registrant and in the 
+
+capacities and on the dates indicated.
+
+
+Date      March 22, 1996           J.E. BARRY                        
+                                   J.E. Barry, Director             
+
+
+
+Date      March 22, 1996           DONALD R. PATNODE                 
+                                   Donald R. Patnode, Director
+
+
+
+Date      March 22, 1996           J.A. FINLEY                       
+                                   J.A. Finley, Director
+SIGNATURES
+
+     In accordance with Section 13 or 15 (d) of the Exchange Act, the 
+
+registrant caused this report to be signed on its behalf by the 
+
+undersigned, there unto duly authorized.
+
+
+                                   CORNING NATURAL GAS CORPORATION
+                                            (Registrant)
+
+
+Date    March 22, 1996         By                                     
+                                   Thomas K. Barry, President & C.E.O.
+                                   and Chairman of the Board
+
+
+Date    March 22, 1996                                                
+                                   Gary K. Earley, Treasurer
+
+
+     In accordance with the Exchange Act, this report has been signed 
+
+below by the following persons on behalf of the registrant and in the 
+
+capacities and on the dates indicated.
+
+
+Date    March 22, 1996         By                                     
+                                   J.E. Barry, Chairman of the Board
+
+
+Date    March 22, 1996                                                
+                                   Donald R. Patnode, Director
+
+
+Date    March 22, 1996                                                
+                                   J.A. Finley, Director
+
+
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-13
+<SEQUENCE>4
+<TEXT>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                               AGREEMENT
+
+                                BETWEEN
+
+                    CORNING NATURAL GAS CORPORATION
+
+                                  and
+
+                            LOCAL UNION 139
+
+                     International Brotherhood of
+                      Electrical Workers AFL-CIO
+                       September 1, 1995
+                               AGREEMENT
+
+                                BETWEEN
+
+                    CORNING NATURAL GAS CORPORATION
+
+                                  and
+
+                            LOCAL UNION 139
+
+                     International Brotherhood of
+                      Electrical Workers AFL-CIO
+
+                           September 1, 1995
+
+
+                           A G R E E M E N T
+
+          This Agreement made and entered into at Corning, New York
+this 14th day of June, 1995, effective as of September 1, 1995 by and
+between Corning Natural Gas Corporation, a New York corporation
+(hereinafter referred to as the "Company") and the International
+Brotherhood of Electrical Workers, AFL-CIO, Local 139) hereinafter
+referred to as the "Union".
+
+                              WITNESSETH
+          WHEREAS, the National Labor Relations Board on March 23,
+1967, following a representation election held on March 15, 1967, in
+Case No. 3-RC-4093, found, determined and certified that the Union has
+been designated and selected by a majority of the employees of the
+Company, in the unit described below, as their representative for the
+purposes of collective bargaining, and that, pursuant to Section 9(a)
+of the National Labor Relations Act, as amended, the Union is the
+exclusive representative of all the employees in such unit for the
+
+                               - Page 2 -
+9/1/95
+purposes of collective bargaining with respect to rates of pay, wages,
+hours of employment, and other conditions of employment; and the unit
+is described as all production and maintenance employ
+subdivisions in which it operates and is adequately protected therewith.
+     (3)  Since the Company's business is seasonal by quarters, sales for each
+quarter of the year vary and are not comparable.  Sales for calendar years vary
+depending on variations in temperature, but the Company's Weather Normalization
+Clause (WNC) serves to stabilize net revenue from the effects of temperature
+variations. The WNC allows the Company to adjust customer billings to compensate
+for fluctuations in net revenue caused by temperatures which are higher or lower
+than the thirty year average temperature for the period.  Degree days, which
+represent the number of degrees that the average daily temperature falls below
+65 degrees Fahrenheit, totaled 6,772 in 1995 and 7,008 in 1994.
+     (4)  The Company has three major customers, the details of which appear in
+the notes to the financial statements in the attached 1995 Annual Report to
+Shareholders which is incorporated by reference thereto.
+     (5)  Historically, the Company's competition in the residential market has
+been primarily from electricity in cooking, water heating and clothes drying,
+and to a very small degree, in heating.  The price of gas remains low in
+comparison to that of electricity in the Company's service territory and the
+Company's competitive position in the residential market continues to be very
+strong.  Approximately 99% of the Company's general service customers heat with
+gas.
+     In recent years competition from oil has developed in the industrial
+market.  The Company has been able to counteract much of this competition, to
+date, through the transportation of customer owned gas for a transportation
+charge.  The end use customer contracts on the spot market for the purchase of
+the gas, usually at substantial savings.  The Company's transportation rate is
+equal to the lowest unit rate of the appropriate rate classification, exclusive
+of gas costs, hence the profit margin is maintained.  Additionally, under the
+recent deregulated environment there is opportunity for the Company to increase
+revenue by selling its upstream pipeline capacity to transportation customers.
+The Company is authorized to retain 15% of such revenue and 85% is returned to
+firm customers in the form of lower gas costs.  Transportation customers that
+pay for this capacity are virtually assured that their supply will not be
+interrupted.  Revenues derived from the resale of this capacity were $154,033 in
+1995 and $244,638 in 1994.  Discounting due to excess capacity available in the
+marketplace was primarily responsible for the decrease in revenue.  For those
+willing to bear some risk, the Company has an interruptible transportation rate
+for its large industrial customers whereby the customer may elect to avoid
+payment of demand charges but bears the risk of partial or total upstream
+interruption of service during certain periods.  To maintain industrial load in
+the event that oil prices temporarily drop below the equivalent gas price, the
+Company continues to maintain a flexible transportation rate schedule.  This
+flexible rate, however, was not utilized in 1995 and has been invoked only once
+since its inception.
+     In September 1995 the Company purchased the assets of a local gas
+distribution company, Finger Lakes Gas Company, through the Federal Bankruptcy
+Court.  Finger Lakes Gas served customers in the Hammondsport, NY area and had a
+customer base of approximately 320 customers.  The Company was able to purchase
+this all plastic system with a bid of $560,000.  The Company was pleased to
+purchase these assets that originally cost over $1.5 million to construct for
+its relatively low bid.  The nearly new, all plastic, system was already
+connected and serving 320 customers with a potential to add 200 more in the near
+future.  On a per customer basis, this represents a very low investment.  The
+capital to purchase these assets was obtained through short term debt.  The
+Company has not found it necessary to apply for an increase in rates on this
+part of our system which means the original rates made effective in 1990 remain
+in effect six years later. 
+     Shortly after the Company took possession of the system, Mercury Aircraft,
+Inc. announced it would purchase the former Taylor Wine Company facilities and
+centralize their other plants.  The reopening of this major facility will most
+certainly contribute toward the stability and future viability of the new gas
+system which        Form 10-K for December 31, 1987.
+
+10        A copy of the Service Agreement with CNG
+          Transmission Corporation was filed with the Company's
+          Form 10-KSB for December 31, 1993.
+
+10        A copy of the Sales Agreement with Bath Electric, Gas
+          and Water was filed with the Company's Form 10-K for
+          December 31, 1989.
+
+10        A copy of the Transportation Agreement between the Company
+          and New York State Electric and Gas Corporation was filed
+          with the Company's Form 10-KSB for December 31, 1992.                
+       
+10        A copy of the Transportation Agreement between the
+          Company and Corning Incorporated was filed with the
+          Company's Form 10-KSB for December 31, 1992.
+
+10        A copy of the Service Agreement with Columbia Gas
+          Transmission Co. was filed with the Company's
+          10-KSB for December 31, 1993.                                        
+                   
+10        A copy of the Service Agreement with Tennessee Gas
+          Pipeline Co. was filed with the Company's 10-KSB
+          for December 3, 1993.
+
+13        A copy of the Corporation's Annual Report to
+          Shareholders for 1995, is filed herewith.                         14
+
+
+22        Information regarding the Company's sole subsidiary was
+          filed as Exhibit 22 with the Company's Form 10-K for
+          the period ended December 31, 1981.
+
+28        Corning Natural Gas Corporation Proxy Statement is
+          filed herewith.                                                   15 
+
+</TEXT>
+
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

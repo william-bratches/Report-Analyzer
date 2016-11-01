@@ -1,0 +1,1619 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ BvRYbYzl5MNnQxg5N4ZTxWxmxPZW/cCyBM+bJ/OxlY01qAQX7N+qBaT4ifsoL6r/
+ pM/jM3UxCp+U/epbkHamPA==
+
+<SEC-DOCUMENT>0000013033-04-000004.txt : 20040729
+<SEC-HEADER>0000013033-04-000004.hdr.sgml : 20040729
+<ACCEPTANCE-DATETIME>20040729125822
+ACCESSION NUMBER:		0000013033-04-000004
+CONFORMED SUBMISSION TYPE:	10KSB
+PUBLIC DOCUMENT COUNT:		5
+CONFORMED PERIOD OF REPORT:	20040430
+FILED AS OF DATE:		20040729
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			CAMELOT CORP
+		CENTRAL INDEX KEY:			0000013033
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-PREPACKAGED SOFTWARE [7372]
+		IRS NUMBER:				840691531
+		STATE OF INCORPORATION:			CO
+		FISCAL YEAR END:			0430
+
+	FILING VALUES:
+		FORM TYPE:		10KSB
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-08299
+		FILM NUMBER:		04938226
+
+	BUSINESS ADDRESS:	
+		STREET 1:		PMB 249
+		STREET 2:		6757 ARAPAHO RD. STE. 711
+		CITY:			DALLAS
+		STATE:			TX
+		ZIP:			75248
+		BUSINESS PHONE:		(972)458-1767
+
+	MAIL ADDRESS:	
+		STREET 1:		PMB 249
+		STREET 2:		6757 ARAPAHO RD., STE. 711
+		CITY:			DALLAS
+		STATE:			TX
+		ZIP:			75248
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	BOLYARD OIL & GAS LTD
+		DATE OF NAME CHANGE:	19890824
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>10KSB
+<SEQUENCE>1
+<FILENAME>camelo10ksb043004.txt
+<TEXT>
+
+                     U.S SECURITIES AND EXCHANGE COMMISSION
+                              Washington, DC 20549
+
+                                   FORM 10-KSB
+(Mark One)
+[x] Annual report under Section  13 or 15 (d) of the  Securities Exchange Act of
+    1934 (Fee required)
+
+For the fiscal year ended April 30, 2004
+                          --------------
+
+[ ] Transition report under Section 13 or 15 (d) of the  Securities Exchange Act
+    of 1934 (No fee required)
+For the transition period from _____ to _____
+
+Commission file number  0-8299
+                        ------
+
+                               CAMELOT CORPORATION
+- --------------------------------------------------------------------------------
+                 (Name of Small Business Issuer in Its Charter)
+
+               Colorado                                 84-0691531
+- -------------------------------------      -------------------------------------
+   (State or other jurisdiction of                  (I.R.S. Employer
+    Incorporation or Organization)                   Identification No.)
+
+   PMB 249, 6757 Arapaho Road, Suite 711, Dallas, Texas                75248
+- --------------------------------------------------------------------------------
+    (Address of Principal Executive Office)                         (Zip Code)
+
+
+- --------------------------------------------------------------------------------
+    (Former Address of Principal Executive Office)                  (Zip Code)
+
+                                 (972) 612-1400
+                ------------------------------------------------
+                (Issuer's Telephone Number, Including Area Code)
+
+Securities registered under Section 12(b) of the Exchange Act:
+- --------------------------------------------------------------
+
+                                                   Name of Each Exchange
+         Title of Each Class                        on Which Registered
+         -------------------                        -------------------
+
+                 None                                      None
+
+Securities registered under Section 12(g) of the Exchange Act:
+- --------------------------------------------------------------
+
+                                   None
+
+Check whether the issuer:  (1) filed all reports required to be filed by Section
+13 or 15(d) of the  Exchange  Act during the past 12 months (or for such shorter
+period that the registrant was required to file such reports),  and (2) has been
+subject to such filing requirements for the past 90 days.   [x] Yes [ ] No
+
+
+<PAGE>
+
+Check if there is no disclosure of delinquent  filers in response to Item 405 of
+Regulation S-B contained in this form, and no disclosure  will be contained,  to
+the  best of  registrant's  knowledge,  in a  definitive  proxy  or  information
+statements  incorporated  by  reference  in Part III of this Form  10-KSB or any
+amendment to this Form 10-KSB. [x]Yes [ ] No
+
+Issuer's revenues for its most recent fiscal year is $ - .
+
+As of July 27,  2004,  the  aggregate  market  value of the voting stock held by
+non-affiliates was $60,000.
+
+The number of shares  outstanding  of the  Registrant's  common  stock $0.01 par
+value was 6,236,106 at May 31, 2004.
+
+
+Documents  Incorporated by Reference.
+
+              NONE
+
+                                     PART 1
+
+Item 1.    Business
+           --------
+
+Camelot  Corporation  ("Registrant" or "the Company") is inactive,  and is now a
+blind pool company  seeking  merger  opportunities.  It was previously a holding
+company  but since the  fiscal  year ended  April 30,  1999 the  Company  has no
+operations, and all previous business activities have been discontinued. All its
+subsidiaries have been dissolved by its various states of incorporation.
+
+The Company was  incorporated  in Colorado on September 5, 1975, and completed a
+$500,000 public offering of its common stock in March 1976. The Company has made
+several acquisitions and divestments of businesses (see Discontinued  Activities
+- - Acquisition  and Divestment  History).  The Company was delisted from NASDAQ's
+Small Cap Market on February 26, 1998.  Subsequently  it was unable to raise the
+additional  capital  required  to  continue  the  activities  of  its  operating
+subsidiaries.  Its principle subsidiary,  Third Planet Publishing, Inc. sold all
+rights,  title and interests to its software and hardware  products on March 31,
+1998 and has  since  been  dissolved  by the  state of  Florida.  Its  remaining
+operating  subsidiary  mrcdrom.com,  inc.  liquidated  its  inventory and ceased
+trading  in  July,  1998.  In  July,  1998  all  employees  of  Camelot  and its
+subsidiaries  were  terminated.  Its directors and officers have since  provided
+unpaid services on a part-time basis to the Company.
+
+The  Registrant  is one of a number of similar blind pool  companies  affiliated
+with Mr. Daniel  Wettreich the President of the Registrant.  The other companies
+are as follows:
+
+         Wincroft,  Inc.  ("Wincroft") was organized in the state of Colorado in
+         May 1980 as part of a  quasi-reorganization  of  Colspan  Environmental
+         Systems,   and  has  made  several   acquisitions  and  divestments  of
+         businesses  unrelated  to its present  activities.  It has been a blind
+         pool company since April  2000.Mr.  Daniel  Wettreich is a Director and
+         President of Wincroft and as at the  financial  year ended March,  2003
+         owned 3,576,400 shares representing 80.5% of the issued and outstanding
+         common stock of Wincroft.
+
+         Forme Capital, Inc. ("Forme") was incorporated in the state of Delaware
+         in December  1986,and has made several  acquisitions and divestments of
+         businesses  unrelated  to its present  activities.  It has been a blind
+         pool company since April 2000.  Mr. Daniel  Wettreich is a Director and
+         President of Forme and as at the financial  year ended April 2003 owned
+         2,992,968  shares  representing  98.8% of the  issued  and  outstanding
+         common stock of Forme.
+
+<PAGE>
+
+         Malex, Inc. ("Malex") was incorporated in the state of Delaware in June
+         1987.  It has been a blind pool company  since  inception.  Mr.  Daniel
+         Wettreich is a Director and  President of Malex and as at the financial
+         year ended April 2003 owned 7,781,490 shares representing 92.64% of the
+         issued and  outstanding  common stock of Malex. He also had an indirect
+         interest in 225,000  common  stock of Malex  representing  2.67% of the
+         issued and outstanding  common stock of that company.  These shares are
+         owned by the wife of Mr. Wettreich and he has disclaimed all beneficial
+         interest in these shares.
+
+
+The  Registrant  has had no success in  finding  companies  with which to merge,
+during the past three years.  The basis on which future  decisions to merge with
+any blind pool company  associated with Mr.Daniel  Wettreich will be the opinion
+of Mr.Wettreich regarding primarily the quality of the businesses that are to be
+merged and their  potential for future  growth,the  quality of the management of
+the  to  be  merged  entities,  and  the  benefits  that  could  accrue  to  the
+shareholders of the blind pool company if the merger  occured.  The selection of
+which blind pool company affiliated with Mr. Wettreich will be used for a merger
+in a given  transaction is arbitrary and is partly dependent on which blind pool
+company is of interest to the potential  merger  partner.  The Registrant has no
+particular  advantage  as a blind pool company over any other blind pool company
+affiliated with Mr. Wettreich,  and there can be no guarantee that a merger will
+take place,  or if a merger does take place that such merger will be  successful
+or be beneficial to the stockholders of the Registrant.
+
+
+Discontinued Activities - Acquisition and Divestment History
+
+The Company's activities were conducted through  subsidiaries,  all of which are
+now  discontinued  or have been sold.  Third Planet  Publishing,  Inc.,  (`Third
+Planet")  (established in January 1995) was a research and  development  company
+developing hardware and software solutions for audio and video conferencing over
+the Internet. mrcdrom.com, inc. ("mrcdrom.com"), (established in March 1998) was
+an Internet catalog retailer of software. Camelot Internet Access Services, Inc.
+("CIAS"), (established in June 1996) was a provider of Internet access services.
+Alexander Mark Investments  (USA), Inc. ("AMI") (80% acquired in May 1997) was a
+U.S.  public holding  company whose only investment was a shareholding in Meteor
+Technology plc ("Meteor") a U.K. public company.
+
+Third Planet was a research and development  company focusing on the development
+of  VideoTalk,  a video  conferencing  system  for the  Internet.  Approximately
+$7,000,000  was  expended  by  Third  Planet  in  developing  VideoTalk  and its
+ancilliary   software   product   DigiPhone  since   inception.   VideoTalk  was
+successfully  demonstrated at COMDEX in the later part of 1997.  However, a lack
+of funds for  marketing  the  product was  experienced  in 1998.  Following  the
+Company's delisting from NASDAQ Small Cap Market in February,  1998 Third Planet
+sold on March 31,  1998 all rights,  title and  interest  in  VideoTalk  and its
+ancilliary  products to  Wincroft,  Inc. a US public  company  traded on the OTC
+Bulletin  Board.  The  consideration  was $7,002,056  payable by the issuance of
+5,000,000  Preferred  Shares,  Series A and 1,028,000  Common Shares in Wincroft
+together with a $2,000,000 note.  Subsequently,  on June 29, 1998 the $2,000,000
+note was converted into 2,000,000 Preferred Shares, Series B in Wincroft.
+
+<PAGE>
+
+The Company made other acquisitions as follows:
+
+        Date                 Name                    Business            Cost
+   --------------   ------------------------   ---------------------   --------
+
+   March 1991       Vesta Land Title Company   Titles                  $120,000
+   July 1991        Business Investigations    Investigations          $312,231
+   July 1992        McKee-Blanchard            Appraisals              $ 32,203
+   September 1992   First Appraisal Group      Appraisals              $ 15,000
+   June 1994        Maxmedia Distributing      Software Distribution   $168,500
+
+These companies  ceased doing business in July 1994,  July 1994,  November 1993,
+November 1993, and May 1995, respectively.
+
+On September 16, 1988, the Company  acquired Stock Transfer  Company of America,
+Inc.  ("STCA"),  a transfer  agent,  for 6,666 newly issued common shares of the
+Company  (post  reverse  split).  In connection  with this  transaction,  Daniel
+Wettreich was  appointed a Director,  Chairman and Chief  Executive  Officer and
+Jeanette  Fitzgerald  was appointed a Director.  On April 11, 1994,  following a
+decision by the  Directors  of the  Company to  discontinue  financial  services
+activities,  STCA was sold to a company  affiliated with Mr.  Wettreich for book
+value, $13,276. (See Item 12. Certain Relationships and Related Transactions).
+
+On March 2, 1990, the Company's subsidiary, Beecher Energy, Ltd. ("Beecher") was
+listed on the  Vancouver  Stock  Exchange  in an initial  public  offering.  The
+Company sold its 69% shareholdings in Beecher on July 6, 1994 for C$400,000, (US
+$288,293).
+
+In January 1991, the Company acquired for cash an 80% majority interest in Forme
+Capital,  Inc.  ("Forme") a publicly traded real estate company from the wife of
+Mr.  Wettreich.  In  September  1993,  the  Company  sold to  Forme  two  office
+properties  and then sold all its  investment  in Forme for cash  (approximately
+$40,000) to Mrs. Wettreich. These transactions were approved by the shareholders
+of the Company at the Annual Meeting held on February 15, 1994.
+
+In July, 1993, Registrant acquired approximately 40% of the issued share capital
+of Goldstar Video Corporation ("GVC"), a video marketing company for a net price
+of  $92,432.  Registrant  also made a  $150,000  secured  loan to GVC.  Further,
+Goldstar Entertainment, Inc. ("GEI") a subsidiary of Registrant acquired certain
+licenses  and  other  assets  from  GVC for  $375,000.  Thereafter  Registrant's
+subsidiary Camelot  Entertainment,  Inc. commenced business as a video marketing
+company.  On October 20, 1993,  GVC filed for protection  from  creditors  under
+Chapter 11 of the  Bankruptcy  Code which was converted to Chapter 7 on February
+4, 1994.  Registrant  was not a  controlling  shareholder  of GVC. The Company's
+subsidiary  Camelot  Entertainment,  Inc.  filed  under  Chapter  7  of  the  US
+Bankruptcy laws in January 1995.
+
+In November 1995,  Registrant appointed Firecrest Group plc a public company, as
+exclusive  distributor  for  DigiPhone  in the  United  Kingdom  and  Ireland in
+consideration  for $1,950,575  payable by shares equal to  approximately  10% of
+Firecrest.  ("Digiphone Rights") In March 1996 all relations with Firecrest were
+terminated  and   Registrant   sold  all  its  shares  in  Firecrest  in  market
+transactions.  Subsequently,  Firecrest sold its DigiPhone Rights to Meteor.  In
+July 1996,  Registrant  sold the  European  rights to  distribute  DigiPhone  to
+DigiPhone Europe Ltd which became a subsidiary of Meteor.  The consideration was
+(pound)5,000,000  of loan stock  which was  subsequently  converted  into Meteor
+shares. In November 1996 Registrant sold the  international  DigiPhone rights to
+Meteor for  (pound)1,000,000 of loan stock which subsequently was converted into
+Meteor shares. In May 1998, DigiPhone  International,  Ltd. a Meteor subsidiary,
+became the  exclusive  marketing  company  for all Third  Planet  products  on a
+worldwide basis.
+
+In May 1997, Registrant acquired  approximately 80% of AMI whose principle asset
+was approximately 57% of Meteor. The consideration  (post reverse split) payable
+to the seller,  Adina, Inc. ("Adina") was 892,015 Preferred Shares,  Series J of
+Registrant and 453,080  Preferred  Shares,  Series J in deferred  consideration.
+Following the transaction Adina had 49% of the voting rights attributable to the
+issued and outstanding common and preferred shares of Registrant.  Mr. Wettreich
+was a  director  of Adina and did not  participate  in any  directors'  votes in
+relation to this transaction.
+
+<PAGE>
+
+Registrant,  through its acquisition of 80% of AMI in May 1997 obtained  control
+of Meteor, a U.K. listed public company which was subsequently renamed Constable
+Group plc. Meteor's two operational  subsidiaries,  were DigiPhone International
+Ltd.  and  Meteor  Payphones  Ltd.  DigiPhone  International  was the  worldwide
+distributor  for  all  products  developed  by  Third  Planet  and  was  sold to
+Registrant in January,  1998 for cancellation of (pound)500,000  loan stock owed
+to  Camelot  by  Meteor.  All  rights  owned  by  DigiPhone  International  were
+transferred  to  Third  Planet  Publishing  prior to the  sale of  VideoTalk  to
+Wincroft.  Registrant sold all its  shareholding in AMI for $38,063 on March 20,
+1998.  Meteor  Payphones  and its sister  payphone  companies  were  placed into
+liquidation on 30th March 1998.  Constable Group plc (formerly Meteor Technology
+plc) was placed into liquidation on 31st July 1998.
+
+mrcdrom.com  began  operations in April,  1997 as an Internet  shopping  company
+selling software titles over the World Wide Web. It also announced the filing of
+a registration  statement to raise up to  $12,000,000  through an initial public
+offering ("IPO") over the Internet,  however such registration was withdrawn and
+no funds were raised.  mrcdrom.com had losses throughout its trading history and
+due to the inability of Registrant to fund such  continuing  losses ceased doing
+business in July,  1998,  liquidated all its  inventory,  and terminated all its
+employees.
+
+Camelot Internet Access Services,  Inc. was an Internet services provider formed
+in January 1996 using the UUNet backbone. This subsidiary's principle activities
+were the  provision of support  services  for  Registrant  and the  provision of
+Internet  access to users of DigiPhone  who would  otherwise be unable to access
+the Internet. The Company became inactive during 1997.
+
+In February 1997, Registrant acquired from Meteor the U.S.A. and Canadian rights
+to  PCAMS  software,  a  payphone  contract  and  management  system  originally
+developed for Meteor's payphone  subsidiary.  The consideration was cancellation
+of (pound)2,000,000  unsecured convertible loan stock owed by Meteor to Camelot,
+and the issuance by Camelot of 3,238,400  restricted  common  shares of Camelot.
+Management  intended to utilize PCAMS software both by offering such software to
+independent  providers  and by  seeking  acquisitions  of  payphone  businesses.
+Registrant's limited resources precluded active marketing of this product and in
+March 1998 the product was sold back to Meteor for (pound)70,000.
+
+Employees
+
+As of July 14, 1998, the Company ceased having any employees.  Its directors and
+officers have since provided  unpaid  services on a part-time basis as needed to
+the Company.
+
+
+Item 2.    Properties
+           ----------
+
+Company  previously  leased,  approximately  25,700 square feet of warehouse and
+office space in  Carrollton,  Texas on a lease expiring on December 31, 2000. As
+of July 24,  1998 this  lease was  terminated  by the  payment of $39,781 by the
+Company to the landlord and the Company has no further liability under the terms
+of the lease. The Company rents an accommodation  address in Dallas,  Texas on a
+month to month basis for a nominal fee.
+
+<PAGE>
+
+Item 3.    Legal Proceedings
+           -----------------
+
+Registrant has received a decision from the  Comptroller  of Public  Accounts of
+the State of Texas  relating to a  Franchise  Tax  determination  for the period
+1/1/96 through 12/31/98. The Comptroller's decision became due October 17, 2001,
+and  following an Order  Denying  Motion for  Rehearing,  such  decision  became
+effective on November 26, 2001. Registrant has consequently become liable in the
+amount of  $78,542.65  and  additional  interest  will  accrue at $17.12 per day
+through the date of payment.
+
+Registrant  has been  advised  that a Notice of Filing of  Petition  to Register
+Foreign  Judgment is being made to  domesticate in the State of Texas a judgment
+obtained  Re: The Audio  Visual  Group dba AIMS  Media v Goldstar  Entertainment
+Video  Corporation,  etc. et al. No further  information  has been obtained with
+regard to this Notice, however should such petition be successful Registrant may
+become liable in the amount of $550,000.
+
+No other material  legal  proceedings to which the Company is a party is subject
+or pending and no such proceedings are known by the Company to be contemplated.
+
+There are no  proceedings  to which any  director,  officer or  affiliate of the
+Company, or any owner of record (or beneficiary) of more than 5% of any class of
+voting securities of the Company is a party adverse to the Company.
+
+Item 4.    Submission of Matters to a Vote of Security Holders
+           ---------------------------------------------------
+
+No matters were  submitted to a vote of the  security  holders  during the final
+quarter of the fiscal year or subsequent to the end of the fiscal year.
+
+                                     Part II
+                                     -------
+
+Item 5.    Market for Registrant's Common Equity and Related Stockholder Matters
+           ---------------------------------------------------------------------
+
+The Company's common stock trades on the OTC Bulletin Board. The following table
+sets forth the  quarterly  high and low prices of the common  stock for the last
+two years. They reflect inter-dealer prices,  without retail mark-up,  mark-down
+or commission, and may not necessarily represent actual transactions
+
+             2004                                    High              Low
+             ----                                    ----              ---
+
+             First         July 31, 2003             0.01              0.01
+             Second        October 31, 2003          0.01              0.01
+             Third         January 31, 2003          0.01              0.01
+             Fourth        April 30, 2004            0.01              0.01
+
+
+
+             2003
+             ----
+
+             First         July 31, 2002             0.01              0.01
+             Second        October 31, 2002          0.01              0.01
+             Third         January 31, 2003          0.01              0.01
+             Fourth        April 30, 2003            0.01              0.01
+
+
+As of July 27, 2004, the Company had approximately  1,275 shareholders of record
+of Company's  common stock.  No dividends have been declared on the stock in the
+last two fiscal years and the Board of Directors  does not  presently  intend to
+pay dividends in the near future.
+
+<PAGE>
+
+Item 6.    Management Discussion and Analysis
+           ----------------------------------
+
+2004
+
+The Company's revenue for the period ended April 30, 2003 was $-0- compared with
+$0 for the previous  period.  Net loss for the period was $7,250 compared with a
+loss for the  previous  year of  $8,725.  The  losses  for  2004  and 2003  were
+primarily  due to accrued  franchise  taxes  following  from a decision from the
+Comptroller of Public Accounts of the State of Texas.
+
+The consolidated balance sheets for the period show total assets of $90 compared
+with $90 for the previous period.
+
+2003
+
+The Company's revenue for the period ended April 30, 2003 was $-0- compared with
+$0 for the previous  period.  Net loss for the period was $8,725 compared with a
+loss of $81,198. The loss was primarily due to accrued franchise taxes following
+from a decision from the Comptroller of Public Accounts of the State of Texas.
+
+The consolidated balance sheets for the period show total assets of $90 compared
+with $1,288 for the previous period.
+
+2002
+
+The Company's revenue for the period ended April 30, 2002 was $-0- compared with
+$0 for the previous period.  Net loss for the period was $81,198 compared with a
+profit  of  $34,196.  The loss was  primarily  due to  accrued  franchise  taxes
+following from a decision from the  Comptroller of Public  Accounts of the State
+of Texas.
+
+The consolidated balance sheets for the period show total assets of $90 compared
+with $1,288 for the previous period.
+
+Liquidity and Capital Resources
+
+2004
+
+Net cash used in operating activities for the period ended April 30, 2004 was $0
+compared with $0 in 2003. Net cash used by investing  activities was $0 compared
+with $0 in 2003. Net cash provided by financing  activities was $0 compared with
+$0 in 2003. Cash of $90 compared with $90 in 2003.
+
+2003
+
+Net cash used in operating activities for the period ended April 30, 2003 was $0
+compared with  $(1,198) in 2002.  Net cash used by investing  activities  was $0
+compared  with $0 in 2002.  Net cash  provided by  financing  activities  was $0
+compared with $0 in 2002. Cash of $90 compared with $90 in 2002.
+
+2002
+
+Net cash used in  operating  activities  for the period ended April 30, 2002 was
+$(1,198)  compared with $(2,467) in 2001. Net cash used by investing  activities
+was $0 compared with $0 in 2001.  Net cash provided by financing  activities was
+$0 compared with $0 in 2001. Cash of $90 compared with $1,288 in 2001.
+
+<PAGE>
+
+Item 7.    Financial Statement
+           -------------------
+
+Index to Financial Statements                                         Page
+                                                                      ----
+
+Report of Independent Auditors                                        F-1
+
+Financial Statements
+         Balance Sheet - April 30, 2004                               F-2
+
+         Statements of Operations and
+               for the years ended April 30, 2004 and 2003            F-3
+
+         Statements of Stockholders' Equity for the
+                 years ended April 30, 2004 and 2003                  F-4
+
+         Statements of Cash Flows for the years ended
+                 April 30, 2004 and 2003                              F-5
+
+         Notes to Financial Statements                                F-6 to F-9
+
+
+<PAGE>
+
+                           Larry O'Donnell, CPA, P.C.
+
+Telephone (303) 745-4545                                2228 South Fraser Street
+                                                                          Unit 1
+                                                          Aurora, Colorado 80014
+
+
+                          REPORT OF INDEPENDENT AUDITOR
+
+Board of Directors and Stockholders
+Camelot Corporation
+
+I have audited the accompanying balance sheet of Camelot Corporation as of April
+30, 2004 and the related statements of operations, accumulated deficit, and cash
+flows  for  the  two  years  then  ended.  These  financial  statements  are the
+responsibility of the Company's  management.  My responsibility is to express an
+opinion on these financial statements based on my audit
+
+I conducted my audit in accordance with generally accepted auditing standards of
+the Public Company Accounting  Oversight Board (United States).  Those standards
+require that I plan and perform the audit to obtain  reasonable  assurance about
+whether the financial  statements  are free of material  misstatement.  An audit
+includes  examining,  on a test  basis,  evidence  supporting  the  amounts  and
+disclosures in the financial  statements.  An audit also includes  assessing the
+accounting principles used and significant estimates made by management, as well
+as evaluating the overall financial statement presentation.  I believe my audits
+provide a reasonable basis for my opinion.
+
+In my opinion, the financial statements referred to above present fairly, in all
+material respects, the financial position of Camelot Corporation as of April 30,
+2004, and the results of their operations and their  consolidated cash flows for
+the years ended April 30, 2004 and 2003, in conformity  with generally  accepted
+accounting principles in the United States of America.
+
+The  accompanying  financial  statements  have been  prepared  assuming that the
+Company  will  continue  as a  going  concern.  As  discussed  in  Note 4 to the
+financial   statements,   the  Company's   significant  operating  losses  raise
+substantial  doubt  about  its  ability  to  continue  as a going  concern.  The
+financial  statements do not include any adjustments  that might result from the
+outcome of this uncertainty.
+
+
+Larry O'Donnell, CPA, PC
+July 26, 2004
+
+
+
+
+                                      F-1
+<PAGE>
+
+
+                               CAMELOT CORPORATION
+                                  Balance Sheet
+                                 April 30, 2004
+
+                                     ASSETS
+
+CURRENT ASSETS
+ Cash and cash equivalents                                   $         90
+                                                             ------------
+
+     Total current assets                                    $         90
+                                                             ------------
+
+
+                                                             $         90
+                                                             ============
+
+                      LIABILITIES AND STOCKHOLDERS' EQUITY
+
+CURRENT LIABILITIES
+ Accounts payable                                            $      4,561
+ Franchise tax payable                                             92,600
+                                                             ------------
+
+     Total current liabilities                               $     97,161
+                                                             ------------
+
+STOCKHOLDERS' EQUITY
+ Common stock, $.01 par value, 50,000,000 shares
+  authorized, 6,236,106 shares issued and outstanding              62,361
+ Preferred stock, $.01 par value, 100,000,000 shares
+  authorized, no shares issued
+  and outstanding
+ Additional paid-in capital                                    35,611,950
+ Accumulated deficit                                          (32,934,685)
+ Less treasury stock at cost, 29,245 shares                    (2,836,697)
+                                                             ------------
+
+     Total stockholders' equity                                   (97,071)
+                                                             ------------
+
+                                                             $         90
+                                                             ============
+
+
+
+
+
+                 See accompanying notes to financial statements
+                                       F-2
+<PAGE>
+
+
+
+                               CAMELOT CORPORATION
+                            Statements of Operations
+                              Years Ended April 30,
+
+                                                 2004           2003
+                                             -----------    -----------
+
+REVENUES                                     $      --      $      --
+
+OPERATING EXPENSES
+     General and administrative                      950          2,425
+     Franchise taxes                               6,300          6,300
+                                             -----------    -----------
+
+     Total costs and expenses                      7,250          8,725
+
+
+
+
+NET INCOME (LOSS)                            $    (7,250)   $    (8,725)
+                                             ===========    ===========
+
+INCOME (LOSS) PER SHARE                      $     (.001)   $     (.012)
+                                             ===========    ===========
+
+
+Weighted average number of common stock
+ and common stock equivalent shares            6,236,106      6,236,106
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                 See accompanying notes to financial statements
+                                       F-3
+<PAGE>
+
+                               CAMELOT COPORATION
+                        Statements of Accumulated Deficit
+                              Years Ended April 30,
+
+                                               2004            2003
+                                               ----            ----
+
+Balance, May 1                            $(32,927,435)   $(32,918,710)
+
+Net income (loss)                               (7,250)         (8,725)
+                                          ------------    ------------
+
+Balance, April 30                         $(32,934,685)   $(32,927,435)
+                                          ============    ============
+
+
+
+
+
+
+
+
+
+
+
+
+
+                  See accompanying notes to financial statement
+                                       F-4
+<PAGE>
+<TABLE>
+<CAPTION>
+
+                               CAMELOT CORPORATION
+                            Statements of Cash Flows
+                              Years Ended April 30,
+                                                                                     2004         2003
+<S>                                                                                <C>          <C>
+CASH FLOWS FROM OPERATING ACTIVITIES:
+
+    Net Income (Loss)                                                              $  (7,250)   $  (8,725)
+
+    Adjustments to reconcile net  loss to net cash used in operating activities:
+     Increase (decrease) in:
+     Accounts payable and accrued expenses                                             7,250        8,725
+                                                                                   ---------    ---------
+
+
+Net cash used in operating activities                                                   --           --
+
+CASH FLOW FROM INVESTING ACTIVITIES:
+  Net cash provided by (used in) investing activities                                   --           --
+                                                                                   ---------    ---------
+
+
+CASH FLOWS FROM FINANCING ACTIVITIES:
+  Net  cash provided by (used in) financing  activities                                 --           --
+                                                                                   ---------    ---------
+
+
+NET INCREASE (DECREASE) IN CASH                                                         --           --
+
+
+Cash at beginning of year                                                                 90           90
+                                                                                   ---------    ---------
+
+Cash at ending of year                                                             $      90    $      90
+                                                                                   =========    =========
+
+</TABLE>
+
+                 See accompanying notes to financial statements
+                                       F-5
+<PAGE>
+
+                               CAMELOT CORPORATION
+                          NOTES TO FINANCIAL STATEMENTS
+
+1.   SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+
+     Business Activity and Principles of Consolidation
+
+     The  Company  is now  inactive  and all  its  operating  subsidiaries  have
+     discontinued operations.  The Company was primarily engaged in research and
+     development of Internet software and hardware and the retailing of computer
+     software over the Internet.  Discontinued  operations of subsidiaries  were
+     involved in selling software  products through retail stores located in the
+     Dallas metroplex,  the provision of internet services,  video marketing and
+     distribution,  financial  services,  real estate  rentals,  and oil and gas
+     development.
+
+     Cash and Cash Equivalents
+
+     The  Company   considers  all  highly  liquid   investments  with  original
+     maturities of three months or less to be cash equivalents. Cash equivalents
+     are composed primarily of investments in a money market account.
+
+     Income (Loss) Per Share
+
+     Income  (Loss) per common  share is computed  on the basis of the  weighted
+     average number of common shares outstanding during the respective  periods.
+     Outstanding stock warrants,  options and preferred shares are excluded from
+     the computations, as their effect would be anti-dilutive.
+
+
+     Income Taxes
+
+     Deferred income taxes are determined using the liability method under which
+     deferred tax assets and liabilities are determined  based upon  differences
+     between financial and tax basis of assets and liabilities.
+
+
+     Fair Value of Financial Instruments
+
+     Fair value of  financial  instruments  are  estimated  to  approximate  the
+     related book value, unless otherwise indicated, based on market information
+     available to the Company.
+
+
+
+                                       F-6
+<PAGE>
+
+     Impairment of Long-Lived Assets
+
+     Impairment   losses  are   recorded  on   long-lived   assets  and  certain
+     identifiable  intangible assets held and used in operations whenever events
+     or changes in  circumstances  indicate that the carrying amount of an asset
+     may not be recoverable.
+
+     Use of Estimates
+
+     In preparing  financial  statements in conformity  with generally  accepted
+     accounting  principles,  management  is  required  to  make  estimates  and
+     assumptions that affect the reported amounts of assets and liabilities, the
+     disclosure  of  contingent  assets  and  liabilities  at  the  date  of the
+     financial  statements,  and the  reported  amounts of revenues and expenses
+     during  the  reporting  period.  Actual  results  could  differ  from those
+     estimates.
+
+
+2.   INCOME TAXES
+
+     The Company had no current State or Federal  income tax expense for each of
+     the years ended April 30, 2004 and 2003.
+
+     Deferred tax assets and liabilities are determined  based on the difference
+     between currently enacted tax rates. Deferred tax expense or benefit is the
+     result of the changes in deferred tax assets and liabilities.
+
+     Deferred  income taxes arise  principally  from the  temporary  differences
+     between  financial  statement and income tax  recognition  of allowance for
+     doubtful  accounts,   note  receivable   allowance,   investment  valuation
+     adjustments, inventory reserve and from net operating losses.
+
+     The  components  of deferred  taxes at April 30,  2004 in the  accompanying
+     balance sheet is summarized below:
+
+     Note receivable allowance                                     680,000
+     Capital loss carryforward                                      32,000
+     Net operating loss carryforward                            11,900,000
+       Less valuation allowance                                (12,900,000)
+                                                               -----------
+       Deferred tax asset-net                                  $         -
+
+      At April 30, 2004,  the Company has  approximately  $26,000,000  of unused
+Federal net operating loss carryforwards, which expire in the years 2003 through
+2013.
+
+                                       F-7
+<PAGE>
+
+     Approximately  $640,000 of the net  operating  loss  carryforwards  for tax
+     purposes are limited due to statutory  changes in the tax law in connection
+     with the change in more than 50% ownership of the Company in 1988.  Because
+     of statutory  requirements  in the law,  that portion of the net  operating
+     loss carryforward applicable to the period prior to the ownership change is
+     limited to use of approximately  $35,800 per year until it expires.  As the
+     net operating losses expire,  at a minimum,  approximately  $425,000 of the
+     tax net operating loss carryforward will not be available for the Company's
+     future use.
+
+3.   STOCKHOLDERS' EQUITY
+
+     Preferred Stock
+
+     The Company has 100,000,000  authorized  shares of $.01 par value preferred
+     stock with rights and  preferences  as designated by the board of directors
+     at the time of issuance.  The Company has the following series of preferred
+     stock issued and outstanding at April 30, 2004:
+
+     Number of Shares
+
+     Series of             Authorized                Issued and
+     Preferred             Stock                     Outstanding
+          A                     2,000                      -
+          B                    75,000                      -
+          C                    50,000                      -
+          D                    66,134                      -
+          E                   108,056                      -
+          F                    15,000                      -
+         BB                 1,000,000                      -
+          G                 5,333,333                      -
+          H                17,000,000                      -
+          I                10,000,000                      -
+          K                   412,000                      -
+          L                   500,000                      -
+                          -----------                -----------
+TOTAL                      34,561,523                      -
+
+     Series E preferred  shares are  entitled to receive a  cumulative  dividend
+     equivalent to $1,600 per month.
+
+     Series H preferred  shares  ("Series H") are entitled to receive a dividend
+     of 9% payable  quarterly.  The Series H are convertible to common shares at
+     twenty percent off the closing price of the common shares.
+
+     Series L preferred shares ("Series L") are entitled to receive a cumulative
+     dividend of 7%,  payable in common shares of the Company.  The Series L are
+     convertible to common shares at twenty percent off the closing price of the
+     common  shares.  All shares will  automatically  be  converted  into common
+     shares two years after issuance.
+
+                                       F-8
+<PAGE>
+
+     Any split or combination of common shares requires a simultaneous  split or
+     combination  of each  series  of  preferred  shares  and visa  versa.  Upon
+     liquidation  or  dissolution  of the  Company,  holders  of each  series of
+     preferred shares are entitled to receive, to the extent of their par value,
+     pro rata with other  preferred  shareholders  and before  holders of common
+     shares, all assets legally available for distribution to stockholders. Each
+     series of preferred shares issued as of fiscal year-end is nonvoting.
+
+4.   CONTINGENCIES
+
+     Litigation
+
+     The  Company is liable for Texas  state  franchise  taxes of  approximately
+     $80,000.
+
+     Also,  the Company has been  advised that a Notice of Filing of Petition to
+     Register  Foreign  Judgment  is being made to  domesticate  in the State of
+     Texas a judgment obtained regarding The Audio Visual Group dba AIMS Media v
+     Goldstar   Entertainment   Video  Corporation.   Should  such  petition  be
+     successful, the Company may become liable in the amount of $550,000.
+
+     Going Concern
+
+     The accompanying  financial statements have been prepared assuming that the
+     company will  continue as a going  concern.  The company has had  recurring
+     operating losses for the past several years and is dependent upon financing
+     to  continue  operations.  The  financial  statements  do not  include  any
+     adjustments that might result from the outcome of this  uncertainty.  It is
+     management's plan to find an operating company to merge with, thus creating
+     necessary operating revenue.
+
+
+
+
+
+
+                                      F-9
+<PAGE>
+
+Item 8.    Disagreements on Accounting and Financial Disclosure
+           ----------------------------------------------------
+
+During the past three years, there were no disagreements between the Company and
+the  auditors  regarding  any  matter of  accounting  principles  or  practices,
+financial statement disclosure, or auditing scope or procedure.
+
+                                    PART III
+
+Item 9.    Directors and Executive Officers of the Registrant
+           --------------------------------------------------
+
+The following  persons serve as directors  and/or  officers of the Company as of
+July 28, 2003:
+
+Name                 Age     Position       Period Served          Term Expires
+- ----                 ---     --------       -------------          ------------
+
+Daniel Wettreich     52      Chairman,      September 16, 1988     Next Annual
+                             President,                            Meeting
+                             Director
+
+Allan S. Wolfe       72      Director       May 24, 1993           Next Annual
+                                                                   Meeting
+
+Daniel Wettreich
+- ----------------
+
+Daniel  Wettreich  is  Chairman,  President  and  Director of the Company  since
+September 1988.  Additionally,  he currently  holds  directors  positions in the
+following public companies: Forme Capital, Inc., Wincroft, Inc., and Malex, Inc.
+which are dormant companies seeking merger opportunities.
+
+Allan S. Wolfe
+- --------------
+
+Allan S. Wolfe has been a Director  of the  Company  since  May,  1993.  He is a
+director of Palm Desert Art,  Inc.,  formerly  Database  Technologies,  Inc.,  a
+public company now involved with art galleries, from May 1986 to the present. He
+is also,  since 1984, a director and Chief Executive  Officer of Pathfinder Data
+Group ("PDG"), a database company. A subsidiary of PDG,  Pathfinder  Replacement
+Services,  Inc.,  filed for protection  from creditors  under Chapter 11 and has
+since been converted to Chapter 7.
+
+
+Item 10.   Executive Compensation
+           ----------------------
+
+The  following  table lists all cash  compensation  exceeding  $100,000  paid to
+Company's  executive officers for services rendered in all capacities during the
+fiscal year ended April 30, 2003.  No bonuses  were granted to any officer,  nor
+was any compensation deferred.
+
+<PAGE>
+<TABLE>
+<CAPTION>
+
+SUMMARY COMPENSATION TABLE
+
+=================================================================================
+
+                                                               Restricted
+Name and Principal                              Other Annual     Stock     Option
+       Position         Year   Salary   Bonus   Compensation    Award(s)    SARs
+- ---------------------- ------ -------- ------- -------------- ------------ ------
+<S>                    <C>    <C>      <C>     <C>            <C>          <C>
+Daniel Wettreich        2004      -       -           -            -          -
+Chairman and CEO        2003      -       -           -            -          -
+                        2002      -       -           -            -          -
+====================== ====== ======== ======= ============== ============ ======
+
+</TABLE>
+
+Directors of the Company are  reimbursed  for  reasonable  expenses  incurred in
+attending meetings of the Board of Directors.
+
+Company has no compensatory plans or arrangements  whereby any executive officer
+would receive  payments from the Company or a third party upon his  resignation,
+retirement or termination of employment,  or from a change in control of Company
+or a change in the officer's responsibilities following a change in control.
+
+Item 11.   Security Ownership of Certain Beneficial Owners and Management
+           --------------------------------------------------------------
+
+The  following  table sets forth as of June 17,  2004  information  known to the
+management of the Company concerning the beneficial ownership of Common Stock by
+(a) each person who is known by the Company to be the  beneficial  owner of more
+than five percent of the shares of Common Stock  outstanding,  (b) each director
+at that time, of the Company  (including  principal  directors of  subsidiaries)
+owning  Common  Stock,  and  (c)  all  directors  and  officers  of the  Company
+(including principal directors of subsidiaries) as a group (2 persons).
+
+Name and Address of                  Amount and Nature of            Percent
+Beneficial Owner                     Beneficial Ownership            of Class
+- ----------------                     --------------------            --------
+
+Daniel Wettreich                               0                         *
+18170 Hillcrest Road, Suite 100
+Dallas, Texas 75248
+
+Allan Wolfe                               10,250 (1)                     *
+112 Riverway Place,
+Bedford, NH 03110
+
+All Officers and Directors                10,250 (1)                     *
+as a group (2 persons)
+
+* Under 0.1%
+
+
+     (1)  Includes an option to purchase  6,625  shares  granted to Allan Wolfe,
+     which option is not exercised.
+
+
+<PAGE>
+
+Item 12.   Certain Relationships and Related Transactions
+           ----------------------------------------------
+
+On February 24, 1999 in order to provide cash and future stream of cash flow the
+Company sold to Texas Country Gold Development,  Inc., a company affiliated with
+its President, 700,000 shares of Wincroft for $87,500 payable $1,000 in cash and
+in a note yielding 6%.
+
+On May 20, 1997 Adina,  Inc. a company  affiliated with Mr Wettreich  subscribed
+for  (post  reverse)  1,345,295  restricted  Preferred  Shares,  Series J of the
+Company with payment by the transfer of 6,029,921  restricted  common  shares of
+Alexander Mark Investments (USA), Inc. to the Company.  892,215 of the Preferred
+Shares were issued upon execution of the Agreement and 453,080 were subsequently
+issued as deferred  consideration.  The Preferred Shares have one vote per share
+and vote with the  common  shares,  are non  convertible,  non-yielding  and are
+subordinate to outstanding  preferred  shares but have a liquidation  preference
+over common shares. On April 18, 1998 Adina sold the Preferred Shares,  Series J
+to Forsam Venture Funding,  Inc., a company of which Mr. Wettreich is a director
+and officer.
+
+Stock Transfer Company of America,  Inc., ("STCA") a company affiliated with the
+President of the Company provided services during the year ended April 1999, and
+1998 as a securities transfer agent. A total of $1,000, and $18,855 were paid by
+Company for these services. In the opinion of the Board of Directors,  the terms
+of these  transactions  were as fair to the company as could have been made with
+an unaffiliated party. Additionally,  STCA received management services from the
+Company  and paid $6,000 per month  starting  in  November  1997 until April 30,
+1998.
+
+Until March 1998 the Company  leased  10,000  square feet of offices  from Forme
+Capital,  Inc., a company  affiliated  with the President of the Company.  Total
+rent paid during  fiscal 1998 and 1997 was $135,383  and $80,000,  respectively.
+The lease agreement and transactions  related thereto were approved by a vote of
+Company's  shareholders.  In September  1997 the lease was  terminated by mutual
+consent and the  Company  paid  approximately  $17,000 on a month to month basis
+thereafter.  In February, 1998 the Company vacated the premises and consolidated
+its offices at 2415 Midway Road. The Company surrendered the Midway lease to the
+landlord in July 1998 for $39,781.
+
+During  fiscal 1998 and 1997,  Company  received  dividend  payments  from Forme
+Capital,  Inc.,  Preferred Shares Series C in the amount of $46,657 for 1998 and
+$46,657 for 1997.
+
+On January 17, 1996, the Company's  disinterested  directors  approved a secured
+loan to the Corporate  Secretary in the amount of $75,156 to exercise options to
+purchase  Company stock.  This loan bears  interest at a rate 6% per annum.  The
+Company agreed to accept Company stock in settlement of the loan.
+
+On August 1, 1996, the Company's disinterested directors approved a secured loan
+to the Corporate Secretary in the amount of $14,000. This loan bears interest at
+a rate of 6% per annum and was repaid as of January 31, 1997.
+
+On  September  25, 1996 the  Company's  disinterested  directors  approved a non
+recourse  secured  loan  to the  President  of the  Company  in  the  amount  of
+$1,800,000.  This loan  bears  interest  at a rate of 6% per  annum.  During the
+quarter  ended  January 31, 2002 the Company  extinguished  as paid in full this
+non-recourse  loan by the transfer to the Company as treasury stock of 1,345,295
+Preferred Stock Series J of the Company, such preferred shares being transferred
+to the Registrant as substitution for and in lieu of the original  collateral of
+a Pledge  Agreement  securing such  non-recourse  loan which was secured only on
+36,250  post-reverse  split common shares of the Registrant,  and which had been
+subsequently written off by the Company as uncollectable.
+
+<PAGE>
+
+On March 4, 1997,  the  Company  acquired  the US and  Canadian  rights to PCAMS
+software  a  payphone  contract  and  management  system  software  from  Meteor
+Technology,  plc payable by the cancellation of  (pound)2,000,000  of loan stock
+owed to the Company by Meteor and  (pound)500,000 by the issuance by the Company
+to Meteor of 80,960 restricted  common shares.  Mr. Wettreich and Ms. Fitzgerald
+who were  directors  of both  companies at the time did not  participate  in any
+directors  votes in  relation  to this  transaction.  On May 11,  1998 the PCAMS
+software was sold back to Meteor for  (pound)70,000  as the Company did not have
+sufficient  funds to market the  software and was  restricted  in its ability to
+sublicense the software.
+
+On May 20, 1997, the Company's  subsidiary Third Planet amended the terms of its
+existing  distribution  agreement with DigiPhone  International  a subsidiary of
+Meteor  Technology  plc, to market  exclusively  all TPP products on a worldwide
+basis. Mr. Wettreich and Ms. Fitzgerald who were directors of these companies at
+the  time  did not  participate  in any  directors  votes  in  relation  to this
+transaction.
+
+In  May,  1997,  the  Company  accepted  a  Preferred  Share,   Series  J  stock
+subscription  by Adina,  Inc.,  a public  company of which Mr.  Wettreich  was a
+director and officer. Mr. Wettreich did not participate in any directors vote in
+respect to this transaction. The consideration for the issuance of the Preferred
+Shares was the transfer of eighty (80%)  percent of Alexander  Mark  Investments
+(USA),  Inc. a public company whose major asset was fifty-seven (57%) percent of
+the outstanding  ordinary shares of Meteor. The Preferred Shares,  Series J have
+one vote per share voting with the common shares, have a liquidation  preference
+over the common shares but are subordinate to the outstanding  Preferred Shares,
+are not convertible and pay no dividends.  They also are subject to a forward or
+reverse  split in any  instances  for which the common  shares are  subject to a
+forward or reverse split on the exact same basis.
+
+On  May  30,  1997,  the  Company  subscribed  for(pound)500,000  1997-2007  10%
+unsecured  redeemable loan stock of Meteor by paying cash. Mr. Wettreich and Ms.
+Fitzgerald who were directors of both companies at the time, did not participate
+in any directors votes in relation to this transaction.
+
+On March 20, 1998  Registrant  sold to Forsam Venture  Funding,  Inc.  3,837,706
+shares in Alexander Mark investments  (USA),Inc for its then net asset value per
+share of $24,233 payable by the issuance by Forsam of 8% Preferred  Shares.  Mr.
+Wettreich is a director of Forsam and did not  participate  in any director vote
+relating  to this  transaction.  At the  same  time  Registrant  sold  to  Abuja
+Consultancy, Ltd. 2,192,265 shares in Alexander Mark Investments (USA), Inc. for
+$13,830 cash. These transactions  represented  Registrants total shareholding in
+Alexander Mark Investments (USA),Inc.
+
+On March 20, 1998 Registrant sold to Abuja Consultancy, Ltd. 1,149,464 shares in
+Meteor Technology plc representing its total  shareholding in that company for a
+price  calculated  at the then pro rata net asset value of Meteor  amounting  to
+$16,187 cash.
+
+On March 23, 1998,  Registrant  acquired from Alexander Mark Investments  (USA),
+Inc.  43,000  Preferred  Shares,  Series B of Forsam Venture Funding for $43,000
+cash.
+
+<PAGE>
+
+On February 23, 2003 the Board of Registrant  determined that in order to pursue
+a merger  transaction  it was in  Registrant's  interest  to present a corporate
+structure  and financial  statement  structure  that would be most  conducive to
+effecting such a merger transaction,  and that as Registrant was still the owner
+of 700,000 shares in Wincroft,  Inc, a company  affiliated with the President of
+Registrant,  which shares have been  written  down to nil value in  Registrant's
+books for several years,  Registrant  transfered for nil  consideration  all the
+shares of Wincroft,Inc owned by Registrant to Wincroft, Inc as Treasury shares.
+
+
+The Company has no  compensatory  plans or  arrangements  whereby any  executive
+officer  would  receive  payments  from the  Company  or a third  party upon his
+resignation,  retirement  or  termination  of  employment,  or from a change  in
+control of the Company or a change in the officer's responsibilities following a
+change in control.  Under the 1996 Stock Option Plan or under the Company's 1991
+Outside  Directors  Stock Option Plan options  granted under these plans contain
+provisions pursuant to which the unvested portions of outstanding options become
+immediately  exercisable  and fully vested upon a merger of the Company in which
+the Company's  stockholders  do not retain,  directly or indirectly,  at least a
+majority of the  beneficial  interest in the voting  stock of the Company or its
+successor,  if the successor corporation fails to assume the outstanding options
+or  substitute  options  for the  successor  corporation's  stock to replace the
+outstanding  options.  The outstanding options will terminate to the extent they
+are not exercised as of  consummation  of the merger,  or assumed or substituted
+for by the successor corporation.
+
+
+
+                                     PART IV
+
+Item 13.   Exhibits, Financial Statement Schedules, and Reports on Form 8-K
+           ----------------------------------------------------------------
+
+(a) (1) The following  financial  statements are included herein for fiscal year
+ended April 30, 2004.
+
+Index to Consolidated Financial Statements                      Page
+                                                                ----
+
+Report of Independent Auditors - 2003 and 2002                  F-1
+Consolidated Financial Statements
+   Balance Sheet - April 30, 2003                               F-2
+
+   Statements of Operations and Other Comprehensive Income
+           for the years ended April 30, 2003 and 2002          F-3
+
+   Statements of Stockholders' Equity for the
+           years ended April 30, 2003 and 2002                  F-4
+
+   Statements of Cash Flows for the years ended
+           April 30, 2003 and 2002                              F-5 and F-6
+
+   Notes to Consolidated Financial Statements                   F-7 through F-18
+
+(a) (2)        Consolidated Schedule                               -
+(a) (3)        Exhibits included herein:
+
+<PAGE>
+
+3(a)                                 Articles of  Incorporation  Incorporated by
+                                     reference to Form 10 Registration Statement
+                                     filed on June 23, 1976.
+
+3(b)    Bylaws                       Incorporated by Reference as
+                                     immediately above.
+
+       22(a)   Subsidiaries          NONE
+
+(7)     Reports on Form 8-K:  Report on February 27, 2003 reporting Item 5.
+
+
+
+
+ITEM 14 - PRINCIPAL ACCOUNTANT FEES AND SERVICES
+
+General.  Larry O'Donnell,  CPA, P.C.  ("O'Donnell") is the Company's  principal
+auditing  accountant  firm.  The  Company's  Board of Directors  has  considered
+whether  the  provision  of  audit  services  is  compatible  with   maintaining
+O'Donnell's independence.
+
+Audit Fees. O'Donnell billed for the following professional services:
+$950 for the audit of the annual  financial  statement  of the  Company  for the
+fiscal year ended April 30, 2004.
+
+
+
+<PAGE>
+
+                                   SIGNATURES
+                                   ----------
+
+Pursuant to the  requirements of Section 13 or 15(d) of the Securities  Exchange
+Act of 1934,  the Company has duly caused this report to be signed on its behalf
+by the undersigned, thereunto duly authorized.
+
+CAMELOT CORPORATION
+- -------------------
+(Company)
+
+By:   /s/ Daniel Wettreich
+      --------------------
+      President
+
+Date: July 28, 2004
+      -------------
+
+     Pursuant to the  requirements of the Securities  Exchange Act of 1934, this
+report has been signed below by the  following  persons on behalf of the Company
+and in the capacities and on the dates indicated.
+
+
+By:   /s/ Daniel Wettreich
+      --------------------
+      Director; President
+      (principal executive officer and
+       principal financial officer)
+
+Date: July 28, 2004
+      -------------
+
+
+By:   /s/Allan Wolfe
+      --------------
+      Director
+
+Date: July 28, 2004
+      -------------
+
+
+
+
+
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-31.1
+<SEQUENCE>2
+<FILENAME>camelo10ksb043004ex311.txt
+<DESCRIPTION>CERTIFICATION OF CHIEF EXECUTIVE OFFICER - SECTION 302
+<TEXT>
+
+EXHIBIT 31.1      SECTION 302 CERTIFICATION OF CHIEF EXECUTIVE OFFICER
+
+
+I, Danny Wettreich, certify that:
+
+     1.   I  have  reviewed  this  annual  report  on  Form  10-KSB  of  Camelot
+          Corporation;
+
+     2.   Based on my knowledge,  this annual report does not contain any untrue
+          statement  of a  material  fact  or  omit to  state  a  material  fact
+          necessary to make the statements  made, in light of the  circumstances
+          under which such  statements were made, not misleading with respect to
+          the period covered by this annual report;
+
+     3.   Based on my knowledge,  the financial statements,  and other financial
+          information  included in this  annual  report,  fairly  present in all
+          material respects the financial  condition,  results of operations and
+          cash flows of the registrant as of, and for, the periods  presented in
+          this annual report;
+
+     4.   The registrant's  other certifying  officers and I are responsible for
+          establishing  and maintaining  disclosure  controls and procedures (as
+          defined in Exchange Act Rules  13a-15(e) and  15d-15(e))  and internal
+          control  over  financial  reporting  (as defined in Exchange Act Rules
+          13a-15(f) and 15d-15(f)) for the registrant and have;
+
+               a.   Designed such disclosure controls and procedures,  or caused
+                    such disclosure controls and procedures to be designed under
+                    our  supervision,   to  ensure  that  material   information
+                    relating  to  the  registrant,  including  its  consolidated
+                    subsidiaries,  is made  known to us by others  within  those
+                    entities,  particularly  during  the  period  in which  this
+                    report is being prepared;
+               b.   Designed such internal control over financial reporting,  or
+                    caused such internal control over financial  reporting to be
+                    designed  under  our  supervision,   to  provide  reasonable
+                    assurance  regarding the reliability of financial  reporting
+                    and the  preparation  of financial  statements  for external
+                    purposes in accordance  with generally  accepted  accounting
+                    principles;
+               c.   Evaluated the  effectiveness of the registrant's  disclosure
+                    controls  and  procedures  and  presented in this report our
+                    conclusions  about the  effectiveness  of the  controls  and
+                    procedures,  as of the  end of the  period  covered  by this
+                    report based on such evaluation; and
+               d.   Disclosed  in this  report  any  change in the  registrant's
+                    internal  control over  financial  reporting  that  occurred
+                    during the  registrant's  most recent  fiscal  quarter  (the
+                    registrant's  fourth fiscal quarter in the case of an annual
+                    report)  that  has  materially  affected,  or is  reasonable
+                    likely  to  materially  affect,  the  registrant's  internal
+                    control over financial reporting; and
+
+     5.   The registrant's other certifying officers and I have disclosed, based
+          on our most recent  evaluation  of  internal  control  over  financial
+          reporting,  to the  registrant's  auditors and the audit  committee of
+          registrant's  board of directors (or persons performing the equivalent
+          function):
+
+               a.   All significant  deficiencies and material weaknesses in the
+                    design or  operation  of  internal  control  over  financial
+                    reporting  are  reasonably  likely to  adversely  affect the
+                    registrant's  ability  to  record,  process,  summarize  and
+                    report financial information; and
+               b.   Any fraud, whether or not material, that involves management
+                    or  other  employees  who  have a  significant  role  in the
+                    registrant's internal control over financial reporting.
+
+          Date: July 28, 2004
+
+
+                                                     /s/ Danny Wettreich
+                                                     -----------------------
+                                                     Danny Wettreich
+                                                     Chief Executive Officer
+
+
+
+
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-31.2
+<SEQUENCE>3
+<FILENAME>camelo10ksb043004ex312.txt
+<DESCRIPTION>CERTIFICATION OF CHIEF FINANCIAL OFFICER - SECTION 302
+<TEXT>
+
+EXHIBIT 31.2      SECTION 302 CERTIFICATION OF CHIEF FINANCIAL OFFICER
+
+
+I, Danny Wettreich, certify that:
+
+     1.   I  have  reviewed  this  annual  report  on  Form  10-KSB  of  Camelot
+          Corporation;
+
+     2.   Based on my knowledge,  this annual report does not contain any untrue
+          statement  of a  material  fact  or  omit to  state  a  material  fact
+          necessary to make the statements  made, in light of the  circumstances
+          under which such  statements were made, not misleading with respect to
+          the period covered by this annual report;
+
+     3.   Based on my knowledge,  the financial statements,  and other financial
+          information  included in this  annual  report,  fairly  present in all
+          material respects the financial  condition,  results of operations and
+          cash flows of the registrant as of, and for, the periods  presented in
+          this annual report;
+
+     4.   The registrant's  other certifying  officers and I are responsible for
+          establishing  and maintaining  disclosure  controls and procedures (as
+          defined in Exchange Act Rules  13a-15(e) and  15d-15(e))  and internal
+          control  over  financial  reporting  (as defined in Exchange Act Rules
+          13a-15(f) and 15d-15(f)) for the registrant and have;
+
+               a.   Designed such disclosure controls and procedures,  or caused
+                    such disclosure controls and procedures to be designed under
+                    our  supervision,   to  ensure  that  material   information
+                    relating  to  the  registrant,  including  its  consolidated
+                    subsidiaries,  is made  known to us by others  within  those
+                    entities,  particularly  during  the  period  in which  this
+                    report is being prepared;
+               b.   Designed such internal control over financial reporting,  or
+                    caused such internal control over financial  reporting to be
+                    designed  under  our  supervision,   to  provide  reasonable
+                    assurance  regarding the reliability of financial  reporting
+                    and the  preparation  of financial  statements  for external
+                    purposes in accordance  with generally  accepted  accounting
+                    principles;
+               c.   Evaluated the  effectiveness of the registrant's  disclosure
+                    controls  and  procedures  and  presented in this report our
+                    conclusions  about the  effectiveness  of the  controls  and
+                    procedures,  as of the  end of the  period  covered  by this
+                    report based on such evaluation; and
+               d.   Disclosed  in this  report  any  change in the  registrant's
+                    internal  control over  financial  reporting  that  occurred
+                    during the  registrant's  most recent  fiscal  quarter  (the
+                    registrant's  fourth fiscal quarter in the case of an annual
+                    report)  that  has  materially  affected,  or is  reasonable
+                    likely  to  materially  affect,  the  registrant's  internal
+                    control over financial reporting; and
+
+     5.   The registrant's other certifying officers and I have disclosed, based
+          on our most recent  evaluation  of  internal  control  over  financial
+          reporting,  to the  registrant's  auditors and the audit  committee of
+          registrant's  board of directors (or persons performing the equivalent
+          function):
+
+               a.   All significant  deficiencies and material weaknesses in the
+                    design or  operation  of  internal  control  over  financial
+                    reporting  are  reasonably  likely to  adversely  affect the
+                    registrant's  ability  to  record,  process,  summarize  and
+                    report financial information; and
+               b.   Any fraud, whether or not material, that involves management
+                    or  other  employees  who  have a  significant  role  in the
+                    registrant's internal control over financial reporting.
+
+          Date: July 28, 2004
+
+
+                                                     /s/ Danny Wettreich
+                                                     -----------------------
+                                                     Danny Wettreich
+                                                     Chief Financial Officer
+
+
+
+
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-32.1
+<SEQUENCE>4
+<FILENAME>camelo10ksb043004ex321.txt
+<DESCRIPTION>CERTIFICATION OF CHIEF EXECUTIVE OFFICER - SECTION 906
+<TEXT>
+
+
+                                  EXHIBIT 32.1
+
+
+                  CERTIFICATION PURSUANT TO RULE 13a-14(b) and
+                             18 U.S.C. SECTION 1350,
+                             AS ADOPTED PURSUANT TO
+                 Section 906 of the Sarbanes-Oxley Act of 2002
+
+
+     In connection with the filing by Camelot Corporation (the "Company") of the
+Annual  Report  on Form  10-KSB  for the  period  ending  April  30,  2004  (the
+"Report"), I, Danny Wettreich,  Chief Executive Officer of the Company, certify,
+pursuant  to 18  U.S.C.  1350,  as  adopted  pursuant  to  Section  906  of  the
+Sarbanes-Oxley Act of 2002, that:
+
+          1.   The Report fully complies with the  requirements of Section 13(a)
+               and 15(d) of the Securities Exchange Act of 1934; and
+
+          2.   The information  contained in the Report fairly presents,  in all
+               material  respects,   the  financial  condition  and  results  of
+               operation of the Company.
+
+
+
+
+
+
+
+                                               /s/ Danny Wettreich
+                                               ---------------------------------
+                                               Danny Wettreich
+                                               Chief Executive Officer
+
+
+Dated:  July 28, 2004
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-32.2
+<SEQUENCE>5
+<FILENAME>camelo10ksb043004ex322.txt
+<DESCRIPTION>CERTIFICATION OF CHIEF FINANCIAL OFFICER - SECTION 906
+<TEXT>
+
+
+                                  EXHIBIT 32.2
+
+
+                  CERTIFICATION PURSUANT TO RULE 13a-14(b) and
+                             18 U.S.C. SECTION 1350,
+                             AS ADOPTED PURSUANT TO
+                 Section 906 of the Sarbanes-Oxley Act of 2002
+
+
+     In connection with the filing by Camelot Corporation (the "Company") of the
+Annual  Report  on Form  10-KSB  for the  period  ending  April  30,  2004  (the
+"Report"), I, Danny Wettreich,  Chief Financial Officer of the Company, certify,
+pursuant  to 18  U.S.C.  1350,  as  adopted  pursuant  to  Section  906  of  the
+Sarbanes-Oxley Act of 2002, that:
+
+          1.   The Report fully complies with the  requirements of Section 13(a)
+               and 15(d) of the Securities Exchange Act of 1934; and
+
+          2.   The information  contained in the Report fairly presents,  in all
+               material  respects,   the  financial  condition  and  results  of
+               operation of the Company.
+
+
+
+
+
+
+
+                                               /s/ Danny Wettreich
+                                               ---------------------------------
+                                               Danny Wettreich
+                                               Chief Financial Officer
+
+
+Dated:  July 28, 2004
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

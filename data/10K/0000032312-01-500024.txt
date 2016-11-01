@@ -1,0 +1,1117 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ RxMGRsbwcSGi4xN/nHZWT9xiAqJonSKiiNGzE7CBgj5Ov6ooZYlEy0W1JXDf/Vj8
+ w1EnEqSHvJbi5TD2+NI8xw==
+
+<SEC-DOCUMENT>0000032312-01-500024.txt : 20010710
+<SEC-HEADER>0000032312-01-500024.hdr.sgml : 20010710
+ACCESSION NUMBER:		0000032312-01-500024
+CONFORMED SUBMISSION TYPE:	10KSB/A
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20010331
+FILED AS OF DATE:		20010706
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			EMCEE BROADCAST PRODUCTS INC
+		CENTRAL INDEX KEY:			0000032312
+		STANDARD INDUSTRIAL CLASSIFICATION:	RADIO & TV BROADCASTING & COMMUNICATIONS EQUIPMENT [3663]
+		IRS NUMBER:				131926296
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0331
+
+	FILING VALUES:
+		FORM TYPE:		10KSB/A
+		SEC ACT:		
+		SEC FILE NUMBER:	001-06299
+		FILM NUMBER:		1675788
+
+	BUSINESS ADDRESS:	
+		STREET 1:		PO BOX 68
+		STREET 2:		SUSQUEHANNA ST. EXTENSION WEST
+		CITY:			WHITE HAVEN
+		STATE:			PA
+		ZIP:			18661-0068
+		BUSINESS PHONE:		570-443-9575
+
+	MAIL ADDRESS:	
+		STREET 1:		PO BOX 68
+		CITY:			WHITE HAVEN
+		STATE:			PA
+		ZIP:			18661-0068
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	ELECTRONICS MISSILES & COMMUNICATIONS INC
+		DATE OF NAME CHANGE:	19920703
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>10KSB/A
+<SEQUENCE>1
+<FILENAME>amend.txt
+<TEXT>
+
+
+
+             U.S. SECURITIES AND EXCHANGE COMMISSION
+                     WASHINGTON, D.C.  20549
+
+
+                         FORM 10-KSB/A-1
+
+
+(Mark One)
+
+                   ANNUAL REPORT UNDER SECTION 13 OR 15(d) OF THE
+                   SECURITIES EXCHANGE ACT OF 1934 [Fee Required]
+
+                         For the fiscal year ended March 31, 2001
+
+                   TRANSITION REPORT UNDER SECTION 13 OR 15(d) OF
+                   THE SECURITIES EXCHANGE ACT OF 1934 [No Fee
+                   Required]
+
+                         For the transition period from _________
+                         _________________ to ___________________
+
+                  Commission file number 1-6299
+
+
+                  EMCEE BROADCAST PRODUCTS, INC.
+          (Name of small business issuer in its charter)
+
+             DELAWARE                       13-1926296
+(State or other jurisdiction of   (I.R.S. Employer Identification
+ incorporation or organization)    Number)
+
+ SUSQUEHANNA STREET EXTENSION,
+  PO BOX 68, WHITE HAVEN, PA                  18661-0068
+(Address of principal executive               (Zip Code)
+ offices)
+
+Issuer's telephone number: (570) 443-9575
+
+                               ////
+
+Securities registered under Section 12(b) of the Exchange Act:
+Title of each class:                 Name of each exchange on which
+                                               registered:
+
+        Common                     NASDAQ National Market
+
+Securities registered under Section 12(g) of the Exchange Act:
+
+                               None
+                         (TITLE OF CLASS)
+
+
+
+
+
+
+
+
+                   Independent Auditors' Report
+
+
+
+Board of Directors
+EMCEE Broadcast Products, Inc.
+White Haven, Pennsylvania
+
+We have audited the consolidated balance sheets of EMCEE Broadcast Products,
+Inc. and subsidiaries as of March 31, 2001 and 2000 and the related consoli-
+dated statements of loss, shareholders' equity and cash flows for the years
+then ended.  These financial statements are the responsibility of the Com-
+pany's management.  Our responsibility is to express an opinion on these
+financial statements based on our audits.
+
+We conducted our audits in accordance with auditing standards generally
+accepted in the United States of America. Those standards require that we plan
+and perform the audit to obtain reasonable assurance about whether the
+financial statements are free of material misstatement.  An audit includes
+examining, on a test basis, evidence supporting the amounts and disclosures in
+the financial statements.  An audit also includes assessing the accounting
+principles used and significant estimates made by management, as well as
+evaluating the overall financial statement presentation.  We believe that our
+audits provide a reasonable basis for our opinion.
+
+In our opinion, the consolidated financial statements referred to above
+present fairly, in all material respects, the financial position of EMCEE
+Broadcast Products, Inc. and subsidiaries as of March 31, 2001 and 2000, and
+the results of their operations and their cash flows for the years then ended,
+in conformity with accounting principles generally accepted in the United
+States of America.
+
+
+/s/ KRONICK KALADA BERDY & CO.
+Kingston, Pennsylvania
+June 26, 2001
+
+
+
+
+
+
+
+
+
+<PAGE>
+<PAGE>
+<TABLE>
+<CAPTION>
+
+         EMCEE BROADCAST PRODUCTS, INC. AND SUBSIDIARIES
+      CONSOLIDATED BALANCE SHEETS - MARCH 31, 2001 AND 2000
+
+
+
+                              ASSETS
+
+                                                       2001           2000
+                                                ---------------------------
+<C>                                                 <S>          <S>
+Current assets:
+  Cash and equivalents                           $    69,210      $   261,304
+  U.S. Treasury Bills                                               1,773,600
+  Accounts receivable, net of allowance for
+   doubtful accounts (2001, $388,000; 2000,
+   $70,000)                                         1,628,454       1,452,279
+  Inventories                                       4,099,919       3,080,313
+  Prepaid expenses                                    160,043          80,113
+  Income taxes refundable                                             373,000
+  Deferred income taxes                                               249,000
+                                                    ---------       ---------
+          Total current assets                      5,957,626       7,269,609
+                                                    ---------       ---------
+Property, plant and equipment:
+
+  Land and land improvements                          246,841         246,841
+  Building                                            617,475         617,475
+  Machinery                                         2,203,134       1,925,042
+                                                    ---------       ---------
+                                                    3,067,450       2,789,358
+  Less accumulated depreciation                     2,441,773       2,249,467
+                                                    ---------       ---------
+                                                      625,677         539,891
+                                                    ---------       ---------
+Other assets                                        2,398,011       1,292,448
+                                                    ---------       ---------
+Note receivable, sale of license                      540,000         525,000
+Less deferred portion                              (  540,000)     (  525,000)
+                                                    ---------       ---------
+                                                            0               0
+                                                    ---------       ---------
+          Total assets                            $ 8,981,314     $ 9,101,948
+                                                    =========================
+
+<FN>
+See notes to consolidated financial statements
+</FN>
+</TABLE>
+<PAGE>
+
+
+
+<TABLE>
+<CAPTION>
+              LIABILITIES AND SHAREHOLDERS' EQUITY
+
+                                                      2001          2000
+                                                    -----------------------
+<C>                                                  <S>            <S>
+Current liabilities:
+  Current portion of long-term debt               $   108,000     $   106,000
+  Accounts payable                                    756,430         368,671
+  Accrued expenses:
+    Payroll and related expenses                      233,766         214,316
+    Other                                             608,113         437,836
+  Deposits from customers                             914,796          64,247
+                                                    ---------       ---------
+          Total current liabilities                 2,621,105       1,191,070
+                                                    ---------       ---------
+Long-term debt, net of current portion              1,028,488         596,354
+                                                    ---------       ---------
+
+Shareholders' equity:
+  Common stock, $.01 - 2/3 par;
+   authorized 9,000,000 shares; issued
+   4,406,361 shares                                    73,450          73,450
+  Additional paid-in capital                        3,583,484       3,583,484
+  Retained earnings                                 3,512,795       5,518,241
+                                                    ---------       ---------
+                                                    7,169,729       9,175,175
+  Less shares held in treasury, at cost
+   (396,880 shares and 401,764 shares
+   for 2001 and 2000, respectively)                 1,838,008       1,860,651
+                                                    ---------       ---------
+                                                    5,331,721       7,314,524
+                                                    ---------       ---------
+          Total liabilities and equity             $8,981,314      $9,101,948
+                                                    =========================
+
+
+
+</TABLE>
+<PAGE>
+
+
+<TABLE>
+<CAPTION>
+         EMCEE BROADCAST PRODUCTS, INC. AND SUBSIDIARIES
+                 CONSOLIDATED STATEMENTS OF LOSS
+               YEARS ENDED MARCH 31, 2001 AND 2000
+
+
+                                                      2001             2000
+                                                   --------------------------
+<C>                                                  <S>              <S>
+Net sales                                        $ 6,108,770      $ 4,738,493
+Costs of products sold                             5,707,502        3,738,735
+                                                   ---------        ---------
+Gross profit                                         401,268          999,758
+                                                   ---------        ---------
+Operating expenses:
+  Selling                                          1,129,767          900,028
+  General and administrative                       1,736,329        1,071,668
+  Research and development                           454,592          430,678
+                                                   ---------        ---------
+                                                   3,320,688        2,402,374
+                                                   ---------        ---------
+Loss from operations                              (2,919,420)      (1,402,616)
+                                                   ---------        ---------
+Other income (expense), net:
+  Interest expense                               (  126,234)       (   57,724)
+  Interest income                                   111,146           168,772
+  Other                                          (  169,938)       (    9,305)
+                                                  ---------         ---------
+                                                 (  185,026)          101,743
+                                                  ---------         ---------
+Loss before income taxes                         (3,104,446)       (1,300,873)
+
+Income taxes benefit                              1,099,000           474,000
+                                                   ---------         ---------
+Net loss                                        $(2,005,446)      $(  826,873)
+                                                  ============================
+
+Basic and diluted loss per share                      $(.50)           $(.21)
+                                                       ======================
+<FN>
+See notes to consolidated financial statements
+</FN>
+</TABLE>
+<PAGE>
+
+
+<TABLE>
+<CAPTION>
+
+
+          EMCEE BROADCAST PRODUCTS, INC. AND SUBSIDIARIES
+          CONSOLIDATED STATEMENTS OF SHAREHOLDERS' EQUITY
+                YEARS ENDED MARCH 31, 2001 AND 2000
+
+
+
+                                         Common stock           Additional
+                                                                  paid-in
+                                        Shares     Amount         capital
+                                      -------------------------------------
+<C>                                      <S>         <S>         <S>
+Balance, March 31, 1999               4,384,161   $ 73,084     $ 3,502,092
+
+Common stock issued                      22,200        366          81,392
+
+Net loss for the year
+                                       ---------   -------       ---------
+Balance, March 31, 2000                4,406,361    73,450       3,583,484
+
+Treasury stock issued
+
+Net loss for the year
+                                       ---------    ------       ---------
+ Balance, March 31, 2001               4,406,361  $ 73,450     $ 3,583,484
+                                       ===================================
+
+
+<FN>
+See notes to consolidated financial statements
+</FN>
+</TABLE>
+<PAGE>
+
+<TABLE>
+<CAPTION>
+
+
+
+
+
+
+                       Treasury stock
+Retained
+earnings      Shares       Amount          Total
+- ----------------------------------------------------
+  <S>           <S>        <S>            <S>
+$ 6,345,114   401,764   $(1,860,651)    $ 8,059,639
+
+                                         81,758
+
+ (  826,873)                             (  826,873)
+  ---------   -------     ---------       ---------
+  5,518,241   401,764    (1,860,651)      7,314,524
+
+             (  4,884)       22,643          22,643
+
+ (2,005,446)                             (2,005,446)
+  ---------   -------     ---------       ---------
+$ 3,512,795   396,880   $(1,838,008)    $ 5,331,721
+ ==================================================
+
+</TABLE>
+<PAGE>
+
+
+<TABLE>
+<CAPTION>
+          EMCEE BROADCAST PRODUCTS, INC. AND SUBSIDIARIES
+               CONSOLIDATED STATEMENTS OF CASH FLOWS
+                YEARS ENDED MARCH 31, 2001 AND 2000
+
+                                                      2001             2000
+                                                    -------------------------
+<C>                                                   <S>            <S>
+Cash flows from operating activities:
+  Net loss                                        $(2,005,446)    $(  826,873)
+  Adjustments:
+    Depreciation                                      203,730         243,577
+    Amortization                                       18,467
+    Provision for doubtful accounts                   324,000          42,000
+    Treasury stock issued for directors fees           22,643
+    Loss on equity investments                        171,040          33,800
+    Change in assets and liabilities,
+     net of effect of 2001 acquisition:
+      (Increase) decrease in:
+        Accounts receivable                        (  409,580)     (  891,031)
+        Inventory                                  (  814,038)        442,266
+        Prepaid expenses                           (   79,930)         11,729
+        Income taxes refundable                       373,000         167,000
+        Deferred income taxes                      (1,098,000)     (   88,000)
+        Other assets                               (  111,888)     (  288,470)
+      Increase (decrease) in:
+        Accounts payable                              343,230          80,642
+        Accrued expenses                              169,588         354,398
+        Deposits from customers                       850,549      (   12,498)
+                                                    ---------        --------
+        Net cash used in operating activities      (2,042,635)     (  731,460)
+                                                    ---------        --------
+Cash flows from investing activities:
+  Purchases of:
+    Property, plant and equipment                  (   71,516)     (   52,188)
+    U.S. Treasury Bills                            (  809,101)     (3,197,667)
+    Advanced Broadcast Systems                     (  500,000)
+  Proceeds from:
+    Maturities of U.S. Treasury Bills               2,582,701       3,200,000
+    Sale of other assets                              250,000
+  Other assets                                     (   35,677)     (  545,629)
+                                                    ---------       ---------
+        Net cash provided by (used in)
+         investing activities                       1,416,407      (  595,484)
+                                                    ---------       ---------
+Cash flows from financing activities:
+  Proceeds from issuance of:
+    Long-term debt                                  1,115,527          20,141
+    Common stock                                                       81,758
+  Payments on long-term debt                       (  681,393)     (   86,074)
+                                                    ---------       ---------
+        Net cash provided by financing activities     434,134          15,825
+                                                    ---------       ---------
+Net decrease in cash and equivalents               (  192,094)     (1,311,119)
+
+Cash and equivalents, beginning                       261,304       1,572,423
+                                                     --------       ---------
+Cash and equivalents, ending                      $    69,210     $   261,304
+                                                    =========================
+
+<PAGE>
+Supplemental disclosures of cash flow information:
+
+Cash paid (refunded) during the year for:
+   Interest                                        $   134,000    $    61,000
+   Income taxes                                    $(  373,000)   $(  530,000)
+
+Fair value of assets acquired and liabilities assumed or settled for purchase
+of
+Advanced Broadcast Systems, Inc.:
+   Equipment                                       $   245,000
+   Inventory                                           178,568
+   Accounts receivable                                  90,595
+   Goodwill                                            200,505
+   Accounts payable                                 (   44,529)
+   Accrued liabilities                              (   20,139)
+   Inter-company payables                           (  150,000)
+                                                     ---------
+   Cash paid                                       $   500,000
+                                                     =========
+<FN>
+See notes to consolidated financial statements
+</FN>
+<PAGE>
+
+         EMCEE BROADCAST PRODUCTS, INC. AND SUBSIDIARIES
+            NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+               YEARS ENDED MARCH 31, 2001 AND 2000
+
+1. Summary of significant accounting policies and significant estimates:
+
+Principles of consolidation:
+The consolidated financial statements include the accounts of EMCEE Broadcast
+Products, Inc. and its subsidiaries, all of which are wholly-owned (together,
+the Company).  All significant intercompany accounts and transactions have
+been eliminated.
+
+Acquisition:
+On April 17, 2000, the Company completed its acquisition of Advanced Broadcast
+Systems, Inc. (ABS) for approximately $500,000 in cash.  ABS is a manufacturer
+of commercial high and medium power analog and digital television transmitters
+for UHF broadcast markets.  This acquisition was completed using the purchase
+method of accounting.  In connection with this purchase, the Company incurred
+Goodwill in the amount of $272,000.  This amount is being amortized over 15
+years.
+
+Revenue recognition:
+Revenue from product sales of equipment is recognized at the time of delivery
+and after consideration of all the terms and conditions of the customers'
+contract (purchase order).  Revenues on installation contracts are recorded on
+the basis of the estimated percentage of completion of individual contracts
+determined under the cost-to-cost method.  Estimated losses on long-term
+contracts are recognized in the period in which a loss becomes apparent.
+
+During 1992, a rural cellular license was sold for $3,100,000.  The initial
+payment was $845,000, net of closing costs of $155,000.  The $2,100,000
+balance, which bore interest at 7% payable at maturity, was due in December
+1996.  None of the deferred payment and the related interest income was
+recognized prior to 1997 because of their extended collection period and
+because there was not a reasonable basis to evaluate the likelihood of
+collection.  On April 3, 1997 the Company collected $2,500,000 and received an
+unsecured $500,000 note receivable as settlement of the original note.
+
+The $540,000 note receivable is due and payable upon the occurrence of any one
+or more of certain specified events involving the debtor including, but not
+limited to, acquisition, merger, bankruptcy, and insolvency.  None of the
+specified events relate to the debtor's normal operations.  The $540,000
+includes accrued interest calculated at 3%.  The note receivable is fully
+reserved because it has no definite collection period and because there is not
+a reasonable basis to evaluate the likelihood of collection.
+
+<PAGE>
+
+        EMCEE BROADCAST PRODUCTS, INC. AND SUBSIDIARIES
+      NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+               YEARS ENDED MARCH 31, 2001 AND 2000
+
+1. Summary of significant accounting policies and significant estimates
+   (continued):
+
+Cash equivalents and U.S. Treasury Bills:
+The Company considers cash equivalents to be all highly liquid investments
+purchased with an original maturity of three months or less.  U.S. Treasury
+Bills with an original maturity of more than three months are considered to be
+investments.  All U.S. Treasury Bills are stated at cost which approximates
+market and are considered as available for sale.  All U.S. Treasury Bills not
+included as cash equivalents had contracted maturities of at least six months.
+
+Inventories:
+Inventories are stated at the lower of standard cost which approximates
+current actual cost (on a first-in, first-out basis) or market (net realizable
+value).
+
+Property, plant and equipment and depreciation:
+Property, plant and equipment are stated at cost.  Depreciation is provided on
+the straight-line method over the estimated useful lives of the assets.
+
+Investments:
+Investments are accounted for under the equity method if the Company has
+ownership of between 20% and 50%.  Investments where the Company's ownership
+is less than 20% are accounted for under the cost method.
+
+Advertising:
+These expenses are recorded when incurred.  They amounted to $38,000 and
+$21,000 for 2001 and 2000, respectively.
+
+Use of estimates and significant estimates:
+Management uses estimates and assumptions in preparing financial statements.
+Those estimates and assumptions affect the reported amounts of assets and
+liabilities, the disclosure of contingent assets and liabilities and the
+reported revenues and expenses.
+
+At March 31, 2001 and 2000, a significant portion of the inventory of one of
+the Company's products is in excess of the Company's current requirements
+based on the recent level of sales.  Management has developed a program to
+reduce this inventory to desired levels over the near term and believes no
+loss will be incurred on its disposition.  No estimate can be made of a range
+of amounts of loss that are reasonably possible should the program not be
+successful.
+
+<PAGE>
+
+         EMCEE BROADCAST PRODUCTS, INC. AND SUBSIDIARIES
+      NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+               YEARS ENDED MARCH 31, 2001 AND 2000
+
+1. Summary of significant accounting policies and significant estimates
+   (continued):
+
+The Company has recorded a deferred tax asset of $1,347,000. Realization is
+dependent on generating sufficient taxable income prior to expiration of the
+loss carryforwards.  Although realization is not assured, management believes
+it is more likely than not that all of the deferred tax asset will be real
+ized.  The amount of the deferred tax asset considered realizable, however,
+could be reduced in the near term if estimates of future taxable income during
+the carryforward period are reduced.
+
+Reclassifications:
+Certain amounts reported in the 2000 financial statements have been reclassi-
+fied to conform with the 2001 presentation.
+
+2. Loss per share:
+
+Basic loss per share is computed by dividing loss applicable to common
+shareholders by the weighted average number of common shares outstanding.
+Diluted loss per share is similar to basic loss per share except that the
+weighted average of common shares outstanding is increased to include the
+number of additional common shares that would have been outstanding if the
+dilutive potential common shares had been issued.  There were no dilutive
+potential common shares in 2001 because the assumed exercise of the options
+would be anti-dilutive.
+
+The following table presents the basic and diluted EPS computations:
+
+                                             2001
+                                -----------------------------------
+                                                        Per-share
+                               Net loss     Shares       amount
+                              ----------    --------    ---------
+   Basic and diluted EPS
+   Net loss which relates
+    to common stockholders    $(2,005,446)  4,004,624     $(.50)
+                                ================================
+
+                                             2000
+                                 ----------------------------------
+                                                        Per-share
+                                Net loss     Shares      amount
+                                ----------   ---------   ---------
+   Basic EPS
+   Net loss which relates
+    to common stockholders      $(826,873)   3,983,147    $(.21)
+
+    Effect of dilutive
+     securities, stock options                  10,613
+                                  --------    ---------     ---
+    Diluted EPS
+   Net loss which relates
+     to common stockholders      $(826,873)  3,993,760    $(.21)
+                                   ==============================
+<PAGE>
+
+
+         EMCEE BROADCAST PRODUCTS, INC. AND SUBSIDIARIES
+      NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+               YEARS ENDED MARCH 31, 2001 AND 2000
+
+3. Segment information:
+
+In 2001, the Company has two operating segments which manufacture and sell a
+variety of products: EMCEE and ABS.  EMCEE manufactures principally multichan-
+nel multipoint distribution service (MMDS).  ABS manufactures medium to high
+power transmitters.  In 2000, the Company's primary activity was in one
+segment which consisted primarily of the manufacturing of MMDS.  The following
+is a summary of certain financial information relating to the two segments:
+
+      Total revenue by segment:
+         EMCEE                                          $ 4,920,000
+         ABS                                              1,189,000
+                                                          ---------
+                                                        $ 6,109,000
+                                                          =========
+      Operating loss by segment:
+         EMCEE                                         $(2,762,000)
+         ABS                                            (  157,000)
+                                                         ---------
+                                                      $ (2,919,000)
+                                                         =========
+     Identifiable assets by segment:
+         EMCEE                                         $ 7,462,000
+         ABS                                               880,000
+                                                         ---------
+         Total identifiable assets                       8,342,000
+
+         Corporate                                         639,000
+                                                         ---------
+         Total assets                                 $  8,981,000
+                                                         =========
+       Depreciation and amortization
+        by segment:
+         EMCEE                                         $   132,000
+         ABS                                                39,000
+         Corporate                                          51,000
+                                                         ----------
+                                                       $   222,000
+                                                         ==========
+       Capital expenditures by segment:
+        EMCEE                                          $    27,000
+        ABS                                                 18,000
+        Corporate                                           27,000
+                                                          --------
+                                                       $    72,000
+                                                         ==========
+The Company evaluates segment performance based on profit or loss from
+operations before interest, other income/expense and taxes.
+<PAGE>
+
+
+        EMCEE BROADCAST PRODUCTS, INC. AND SUBSIDIARIES
+      NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+               YEARS ENDED MARCH 31, 2001 AND 2000
+
+
+3. Segment information (continued):
+
+Major customers are those that individually account for more than 10% of the
+Company's consolidated revenues.  For the years ended March 31, 2001 and 2000,
+one customer with total EMCEE sales of $1,221,000 and $1,122,000,
+respectively, qualified as a  major customer.  At March 31, 2001 and 2000, the
+major customer accounted for 67% and 72%, respectively, of the Company's
+consolidated current accounts receivable.  As of March 31, 2001, the Company
+is aggressively pursuing through legal action collection of the amounts
+outstanding from the major customer.  These amounts are not supported by
+letters of credit.  The Company has a specific reserve for this customer in
+the amount of $384,000.  ABS did not have sales to any individual customer
+greater than 10% of total revenues.
+
+The Company performs ongoing credit evaluations of its customers and, when
+deemed necessary and when possible, requires deposits and a letter of credit
+on foreign sales and deposits on domestic sales.  Historically, the Company's
+uncollectible accounts receivable have been immaterial.
+
+Foreign sales amounted to $3,513,000 and $2,962,000 for 2001 and
+2000,respectively.  Sales by foreign geographic regions are as follows:
+
+                                       2001               2000
+                                       --------------------------
+   Asia/Pacific Rim                $ 1,705,000        $ 1,516,000
+   South America                       614,000            698,000
+   Caribbean                           167,000            104,000
+   Middle East                           8,000            393,000
+   North America                       130,000             47,000
+   Europe                              495,000             83,000
+   Central America                     309,000             26,000
+   Africa                               20,000
+   Other                                65,000             95,000
+                                     ---------          ---------
+                                   $ 3,513,000        $ 2,962,000
+                                     ============================
+
+Revenues are attributed to regions based on location of customers. All long-
+lived assets and deferred tax assets are attributable to the United States.
+All foreign sales are contracted in United States currency; therefore, there
+is no impact from foreign currency rates.
+
+
+<PAGE>
+
+        EMCEE BROADCAST PRODUCTS, INC. AND SUBSIDIARIES
+      NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+               YEARS ENDED MARCH 31, 2001 AND 2000
+
+4. Inventories:
+                                               2001           2000
+                                          ---------------------------
+
+   Finished goods                        $   433,000      $   440,000
+   Work-in-process                           731,000          468,000
+   Raw materials                           1,225,000          728,000
+     Manufactured components               1,710,919        1,444,313
+                                           ---------        ---------
+                                         $ 4,099,919      $ 3,080,313
+                                            ===========================
+5. Long-term debt:
+
+At March 31, 2001, substantially all of the Company's assets were pledged as
+collateral for a line of credit and other indebtedness which totaled approxi-
+mately $1,107,041.
+
+The line of credit consisted of advances under a line of credit agreement with
+commitments aggregating $2,000,000.  The maximum amount of any month end and
+average amount outstanding during the year ended March 31, 2001 were
+$1,100,000 and $825,000, respectively.  The average amount outstanding was
+computed using total daily borrowings divided by the number of days such
+borrowings were outstanding.  The weighted average interest rate during the
+year ended March 31, 2001 was 8.26%.
+
+On October 30, 2000, the Company received written notice from its primary
+lending institution that its working capital line of credit would not be
+renewed.  As a result, the bank made a demand for the entire outstanding
+principal balance of the line of credit with all accrued and unpaid interest
+and all reimbursable fees and expenses of the bank.  Under the provisions of
+the bank's notice, these sums had to be paid on or before November 10, 2000.
+The Company is, therefore, in default of such payment.  Because the line of
+credit is cross defaulted under the bank's loan documents with other
+indebtedness of the Company to the bank, the bank had the right to accelerate
+the maturity of such other indebtedness and, if not timely paid, hold the
+Company in default.  Subsequent to the written notice,  the Company and the
+bank entered into a forbearance agreement under which, among other things, the
+bank agreed to forbear from exercising its rights and remedies under the loan
+documents and permit the Company to repay the line of credit during a specific
+period of time and maintain scheduled payments on the other bank debt with
+final payment being made in June 2001.
+
+Subsequent to March 31, 2001, this indebtedness was refinanced with $1,500,000
+and $500,000 term loans.  The notes mature in 2016 and 2006, and require
+monthly payments of $15,214 and $10,379, respectively.  Interest is calculated
+at 9% for the $500,000 term loan and 2.0% above the national prime rate for
+the $1,500,000 term loan.  The interest rate of the $1,500,000 note adjusts
+every three years.  These loans are collateralized by principally all assets
+of the Company and contain certain financial and restrictive covenants.  In
+addition, both loans contain prepayment penalties.
+
+
+<PAGE>
+
+
+         EMCEE BROADCAST PRODUCTS, INC. AND SUBSIDIARIES
+      NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+               YEARS ENDED MARCH 31, 2001 AND 2000
+
+
+5. Long-term debt (continued):
+
+Principal repayment of the refinanced loans and other debt is as follows:
+
+               2002                              $   108,000
+               2003                                  149,000
+               2004                                  158,000
+               2005                                  173,000
+               2006                                  188,000
+               Thereafter                          1,250,654
+                                                   ---------
+
+                                                 $ 2,026,654
+                                                   ==========
+6. Other assets:
+                                                2001               2000
+                                            ------------------------------
+   Investments, equity method           $   444,656          $   233,265
+   Investments, cost method                                      480,639
+   Notes receivable                                              266,115
+   Accounts receivable                      355,574              289,243
+   Goodwill                                 250,781               23,186
+   Deferred income taxes                  1,347,000                    0
+                                          ---------            ---------
+                                        $ 2,398,011          $ 1,292,448
+                                          ==============================
+
+The investments are in companies who own and/or operate businesses that
+provides rapid access to the internet, wireless cable television, and other
+types of telecommunication service.
+
+Notes receivable of $116,000 were settled in 2001 by the transfer to the
+Company of an additional equity investment.  This addition resulted in a
+transfer of $346,000 (including the $116,000) from a cost method to equity
+method investment.
+
+7. Common stock:
+
+Nonqualified stock option plans provide for the grant of options to purchase
+up to 300,000 shares.  Upon the termination or expiration of any stock options
+granted, the shares covered by such terminated or expired stock options will
+be available for further grant; 31,075 options were available for grant at
+March 31, 2001.  The Board of Directors, at the date of grant of an option,
+determines the number of shares subject to the grant and the terms of such
+option.  All outstanding options granted expire after 5 years and vest over
+two years.
+
+
+<PAGE>
+
+
+         EMCEE BROADCAST PRODUCTS, INC. AND SUBSIDIARIES
+      NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+               YEARS ENDED MARCH 31, 2001 AND 2000
+
+
+7. Common stock (continued):
+
+Changes in outstanding common stock options granted are summarized below:
+
+                                         2001                 2000
+                                   ------------------   -------------------
+                                   Number    Average     Number    Average
+                                     of      exercise     of       exercise
+                                   shares    price      shares     price
+                                  --------   --------   -------    -------
+Balance at beginning of year      126,675     $5.81     151,875     $5.50
+Options exercised                                        22,200      3.68
+Options forfeited                  27,275      4.52       3,000      6.16
+                                  -------      ----     -------      ----
+Balance at end of year             99,400     $6.16     126,675     $5.81
+                                  =======================================
+
+Options exercisable at year-end    99,400     $6.16     126,675     $5.81
+
+
+At March 31, 2001, the options had remaining contractual lives of .67 years.
+
+During 1997, warrants to purchase 200,000 shares of common stock at $9.76 a
+share were issued and remain outstanding at March 31, 2001.  These warrants
+expire in May 2001.
+
+The Company in accordance with an election under generally accepted accounting
+principles for stock options has recorded no compensation cost.
+
+8. Income taxes:
+
+The following table sets forth the current and deferred amounts of the
+provisions for income tax benefit for the years ended March 31, 2001 and 2000:
+
+                                    2001         2000
+                                   --------------------
+
+        Current                   $        0    $ 386,000
+        Deferred                   1,099,000       88,000
+                                   ---------      -------
+                                  $1,099,000    $ 474,000
+                                   ======================
+
+
+<PAGE>
+
+
+         EMCEE BROADCAST PRODUCTS, INC. AND SUBSIDIARIES
+      NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+               YEARS ENDED MARCH 31, 2001 AND 2000
+
+8. Income taxes (continued):
+
+The provisions for income taxes at the Company's effective rate differed from
+the provision for income taxes at the statutory Federal rate of 34% for the
+years ended March 31, 2001 and 2000 as follows:
+
+                                             2001            2000
+                                           --------------------------
+Federal income tax benefit at
+    the statutory rate                      $1,055,000      $ 441,000
+Foreign sales corporation benefit                              13,000
+Federal income tax credit                       21,000         18,000
+Other                                           23,000          2,000
+                                               -------        -------
+Benefit for income taxes                    $1,099,000      $ 474,000
+                                             ========================
+
+The tax effects of net operating loss carryforwards and temporary differences
+that give rise to deferred income taxes at March 31, 2001 and 2000 are
+presented in the table below:
+
+                                               2001            2000
+                                             ------------------------
+Deferred tax assets:
+ Net operating loss carryforwards          $  879,000       $  29,000
+ Inventory                                    212,000         121,000
+ Accounts receivable                          131,000          24,000
+ Employee benefits                             59,000          47,000
+ Investments                                   34,000               0
+ Property and equipment                        28,000          26,000
+ Other differences                              4,000           2,000
+                                              -------         -------
+     Total deferred tax assets             $1,347,000       $ 249,000
+                                            =========================
+
+The net operating loss carryforwards reflect the federal income tax benefit of
+$2,585,000 in loss carryforwards, which expire in varying amounts between 2020
+and 2021.
+
+9. Fair value of financial instruments:
+
+Many of the Company's financial instruments lack an available trading market
+as characterized by a willing buyer and a willing seller engaging in an
+exchange transaction.  The Company's fair value estimates for those instru-
+ments are based upon subjective assumptions and involve significant uncertain-
+ties resulting in estimates that vary with changes in assumptions.  Any
+changes in assumptions or estimation methodologies may have a material effect
+on the estimated fair values disclosed.
+
+
+<PAGE>
+
+
+         EMCEE BROADCAST PRODUCTS, INC. AND SUBSIDIARIES
+      NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+               YEARS ENDED MARCH 31, 2001 AND 2000
+
+
+9. Fair value of financial instruments (continued):
+
+A summary at March 31, 2001 and 2000 is as follows:
+
+                                   2001                   2000
+                           --------------------------------------------
+                            Carrying      Fair      Carrying     Fair
+                             value       value        value     value
+                           --------------------------------------------
+Short-term assets         $1,697,664  $1,697,664  $3,860,183  $3,860,183
+Notes receivables                                   266,1152      66,115
+Other long-term assets       355,574     355,574     289,243     289,243
+Short-term liabilities     2,513,105   2,513,105   1,085,070   1,085,070
+Debt                       1,136,488   1,136,488     702,354     702,354
+
+Short-term asset and liabilities (exclusive of bank debt):
+The fair values of cash and equivalents, U.S. Treasury Bills, accounts and tax
+refund receivables, accounts payable and other short-term financial liabili-
+ties approximate their carrying values due to the short-term nature of these
+financial instruments.
+
+Other long-term assets:
+Fair value of long-term accounts receivable is estimated to approximate
+carrying value.  Fair value of cost method investment in 2000 is not disclosed
+because it was not practicable to estimate those values
+
+Notes receivables:
+The carrying value of notes receivable included in other assets is estimated
+to approximate fair values.  Although there are no quoted market prices
+available for these instruments, the fair value estimates were based on the
+change in interest rate and risk related interest rate spreads since the notes
+origination date.  It was not practicable to estimate the fair value of the
+note receivable, sale of license, because the Company was unable to estimate
+the timing and form of the ultimate settlement of the amount due to it.  The
+Company has fully provided for any potential loss resulting from the non-
+payment of this receivable.
+
+Debt:
+The fair value of debt that is variable rate debt that reprices regularly or
+was refinanced subsequent to year end at principal amounts using comparable
+interest rate methodology approximates the carrying amounts.
+
+
+<PAGE>
+
+         EMCEE BROADCAST PRODUCTS, INC. AND SUBSIDIARIES
+      NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+               YEARS ENDED MARCH 31, 2001 AND 2000
+
+
+10. Fourth quarter adjustments (unaudited):
+
+Year end adjustments, which affected the results of operations for the fourth
+quarter of 2001, relating principally to inventory, accounts receivable and
+income taxes, resulted in fourth quarter losses of $352,000, which is $.09 per
+share.  Had the adjustments been reported in prior quarters, results of
+operations for the fourth quarter would have been a net loss of $801,000 ($.20
+per share).
+
+11. Issuance of shares:
+
+Subsequent to March 31, 2001, the Company entered into two stock option
+agreements which were exercised and provided for the issuance of 800,000
+shares of common stock at $.75 per share.
+
+<PAGE>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+In accordance with Section 13 or 15(d) of the Exchange Act, the Registrant
+caused this report to be signed on its behalf by the undersigned, thereunto
+duly authorized.
+
+
+                              EMCEE BROADCAST PRODUCTS, INC.
+
+                              /s/ JAMES L. DESTEFANO
+                              James L. DeStefano, President/CEO
+                              Date: July 6, 2001
+
+                              /s/ KERRY TURNER
+                              Kerry Turner, Controller
+                              Date: July 6, 2001
+
+          In accordance with the Exchange Act, this report has been signed
+below by the following persons on behalf of the Registrant and in the
+capacities and on the dates indicated.
+
+
+/s/ JAMES L. DESTEFANO                  Date: July 6, 2001
+James L. DeStefano, Director
+
+/s/ ROBERT HOSTETLER                    Date: July 6, 2001
+Robert Hostetler, Director
+
+/s/ TIMOTHY P. HULICK, Ph.D             Date: July 6, 2001
+Timothy P. Hulick, Ph.D,
+ Director
+
+/s/ MICHAEL J. LEIB                     Date: July 6, 2001
+Michael J. Leib, Director
+
+/s/ RANDALL P. MARX                     Date: July 6, 2001
+Randall P. Marx, Director
+
+/s/ RICHARD J. NARDONE                  Date: July 6, 2001
+Richard J. Nardone, Director
+
+/s/ EVAGELIA ROGIOKOS                   Date: July 6, 2001
+Evagelia Rogiokos, Director
+
+
+<PAGE>
+
+</TABLE>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

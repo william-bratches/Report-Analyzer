@@ -1,0 +1,752 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ N8l0/O2yya+9c1UIes7rDF2y2mUdrJRgDPuEqXbNaY8tTrYWHQoUZDZ5iCoENTnV
+ 2Q4d0myWy+WawBAt/L5kxg==
+
+<SEC-DOCUMENT>0000020819-96-000024.txt : 19960928
+<SEC-HEADER>0000020819-96-000024.hdr.sgml : 19960928
+ACCESSION NUMBER:		0000020819-96-000024
+CONFORMED SUBMISSION TYPE:	10KSB/A
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	19951231
+FILED AS OF DATE:		19960821
+SROS:			PSE
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			CLARY CORP
+		CENTRAL INDEX KEY:			0000020819
+		STANDARD INDUSTRIAL CLASSIFICATION:	ELECTRICAL INDUSTRIAL APPARATUS [3620]
+		IRS NUMBER:				950630196
+		STATE OF INCORPORATION:			CA
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10KSB/A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-03489
+		FILM NUMBER:		96618529
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1960 S WALKER AVE
+		CITY:			MONROVIA
+		STATE:			CA
+		ZIP:			91016
+		BUSINESS PHONE:		8183594486
+
+	MAIL ADDRESS:	
+		STREET 1:		1960 S WALKER AVENUE
+		CITY:			MONROVIA
+		STATE:			CA
+		ZIP:			91016
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>10KSB/A
+<SEQUENCE>1
+<DESCRIPTION>CLARY CORPORATION
+<TEXT>
+
+SECURITY AND EXCHANGE COMMISSION
+WASHINGTON. D.C. 20549
+FORM 10-KSB
+
+              AMENDED
+
+ANNUAL REPORT PURSUANT TO SECTION 13 OR 15 (d) OF THE
+SECURITIES EXCHANGE ACT OF 1934
+
+REGISTRANT NAME: CLARY CORPORATION
+
+STATE OF INCORPORATION: CALIFORNIA
+
+EIN: 95-0630196
+
+ADDRESS:1960 S WALKER AVE, MONROVIA, CALIFORNIA, 91016
+
+REGISTRANT TELEPHONE NUMBER: 818/359-4486
+
+SECURITIES REGISTERED PURSUANT SECTION 12 (g) OF ACT: NONE
+
+
+The registrant has filed all reports required to be filed by section 13 or
+ 15 (d) of the Securities Exchange Act of 1934 during the preceding 12 months
+ and has been subject to such filing requirements for the past ninety(90) days.
+
+There are not delinquent filers in response to item 405 of Regulation SB if
+ not contained in this form and no disclosure will be contained to the best
+ of Registrant's knowledge is definitive Proxy or information statement
+ incorporated by reference to part III of this form 10-KSB or any amendment
+ to this Form 10-KSB. 
+
+Issuer's revenues for its most fiscal year were $6,401,000.
+
+The aggregate market value of the voting stock held by non-affiliates of the
+ Registrant as of March 27,1996 amounted to $800,000.
+
+The registrant had 1,807,319 shares of common stock outstanding as of March
+ 27,1996
+
+
+LISTING OF DOCUMENTS INCORPORATED BY REFERENCE
+
+(1) Part II - Items 5,6,7 and 8 Annual Report to Shareholders for fiscal year
+ ended   December 31,1995
+
+(2) Part III - Item 10,11,12 and 13. Definitive proxy statement for the  1995
+ Annual Meeting Of Shareholders to be filed pursuant to Regulation 14A within
+ 120 days after the close of the fiscal year ended December 31,1995.
+
+
+
+Item 1	Business
+
+The Registrant's operations are presently conducted through its Precision
+ Instrument Division located in Monrovia, California. The product presently
+ being produced by the Precision Instrument Division consist  of a line of
+ uninterruptible power supplies (U.P.S.) ranging in size from 400va to 37.5 kva.
+ The U.P.S.  is a power system that can both smooth out voltage fluctuations
+ and maintain a power load under power blackout conditions. U.P.S.'s are
+ designed to provided fifteen minutes or more(depending on num
+
+The registrant markets the U.P.S. trough trade publications, tradeshows and
+ telemarketing. However, sales are generally made by the Registrant through
+ distributors who sell the products to end-users. For the year 1995,
+ Nova Power System, a major distributor through its direct and indirect sales
+ accounted for more than twenty percent of the Registrant's total sales.
+
+The Registrant assembles finished components and other materials to produce
+ its products. Relatively little fabrication or raw materials is done by the
+ Registrant. The Registrant purchases imported raw material and finished
+ components used in production of the Registrant's products.  Thus, the
+ Registrant is dependent upon the ability of suppliers to meet performance
+ specifications, quality standard and delivery schedules. The Registrant
+ endeavors to assure availability of sources of supplies and does not an
+
+Competition - The markets for the registrant's products highly competitive.
+ The  Registrant is aware of approximately forty competitors for on-line UPS
+ products and additional fifty to sixty competitors for off-line UPS products.
+ Many of these companies have far greater financial resources than the
+ registrant. The Registrant competes primarily on the basis of the quality,
+ reliability and technical sophistication of its products, although price
+ remains an important factor. The registrant attempts to locates 
+
+Substantially all of the Registrant's products are subject of ongoing
+ modification and I improvment and are subject to scientific and technological
+ changes.
+
+Backlog - The following table sets forth the amounts representing orders
+ believed by the Registrant to be firm. The backlog at December 31,1995
+ represents orders which the Registrant expects to deliver during 1996.
+ There are no seasonal effects on orders.
+
+FIRM BACKLOG AS OF
+DECEMBER 31
+
+   1995									1994
+$209,045								$449,000
+
+
+
+
+Other - As of December 31,1995, the Registrant employed 29 people, all of
+ which are full-time employees.
+
+	Other required information as to the Registrant's description of business
+ operations and its development is incorporated herein by reference to pages
+ 1 through 3 in the Registrant's financial statements contained therein,
+ each incorporated by reference in this report. 
+
+Item 2.		Properties	      	Sq.Fts.Leased  	Annual Rental	 	Term
+
+	Home Office and Precision
+	Instrument Division	        	26,000		      	$220,000	     5/31/98
+
+	During fiscal 1995 properties were utilized at approximately 60% of capacity
+
+	The Registrant believes its properties are suitable for its needs.
+
+Item 3.	Legal Proceedings
+
+In 1996 the company entered into a verbal distribution agreement granting a
+ distributor the non-exclusive rights to distributor certain products of its
+ former CAD division. In 1991, the company filed suit to recover the
+ uncollected balance of its receivable due from the distributor.
+ The distributor filed a countersuit alleging misrepresentation.
+ On May 24,1993 the jury awarded the distributor net damages of approximately
+ $264,000
+including double damages, legal cost and interest. In November 1993. the
+ Company filed  and appeal against this judgment and provided a supersedeas
+ bond secured by $300,000 certificate of deposit. On November 8,1994, the
+ Court of Appeals issued an order reversing the trial courts judgment against
+ the Company. On January 23,1995 the distributor files an Application for
+ Writ of Error with the Supreme Court of Texas.
+On July 7,1995, the Supreme Court of Texas ordered the judgment of the Court
+ of appeals be reversed and the cause be remanded back to that court for
+ further proceedings. On July 20,1995, the company filed a motion for
+ Rehearing with the Supreme Court. Management has estimated a range of
+ amounts for the potential loss, including legal costs, relating to this
+ matter and an amount considering management to be the probable loss was
+ provided for in the statement of operations for 1993 as loss from discontinued
+ operations. An unfavorable resolution of this matter to the company could 
+result in an additional liability of approximately $250,000 which jas not been
+reflected in the financial statements.
+
+
+
+Part II
+
+Item 4.	Submissions Matters to Vote of Security Holder- Not applicable
+
+Item 5.	Market for Registrant's Common Equity and Related  Shareholders Matters
+	(Annual Report, page#11)
+
+Item6.	Selected Financial Data(Annual Report, page #12)
+
+Item 7.	Management's Discussion and Analysis of Financial Conditions and
+ Result of	Operations. (Annual Report, page #4)
+
+Item 8.	Financial Statemants and Supplemental Data. (Annual Report, pages 5,
+ 6,7)
+
+On the Above Items 5 through 8 reference is mades to the Registrant's Annual
+ Report to the Shareholders for the year anded December 31,1995. incorporated
+ by reference in this report. 
+
+Item 9.	Disagreements on Accounting  and Financial Disclosures - None
+
+Part III
+
+Item 10. Directors and Executive Officers of the Registrant.(Proxy. pages 3.4)
+
+	The Directors and Executive Officers are incorporated by reference to 
+	information contained in Registrant's Proxy Statements to be filed with 
+	the commission pursuant to Regulation 14A.
+
+Item 11. Management Remuneration and Transactions. (Proxy, page 5)
+
+Item 12. Security Ownership of Certain Beneficial Owners and Management.
+	   (Proxy, page 3)
+
+Item 13. Certain Relationships and Related Transactions.(Proxy, page 4,5)
+
+	Item 10 through 13 are incorporated by reference to information in the
+	Registrant's proxy statement to be filed with the Commission pursuant
+	to Regulation 14A.
+
+
+
+PART IV
+
+Item 14.  Exhibits, Financial Statement Schedules and Reports on Form 8-K
+
+(a)	1)Financial Statements
+
+	The following financial statements are included in the Registrant's Annual
+ Reports to Shareholders for the year ended December 31,1995 (incorporated
+ by reference in this report):
+
+	Report of Independent Certified Public Accountants(Annual Report, page 11)
+
+	Statements of Operations for the years ended December 31,1994 and 1994
+	(Annual Report, page 5)
+
+	Balance Sheet- December 31,1995 (Annual Report, page 6)
+
+	Statements of Stockholder's Equity for three years ended December 31,1995
+	(Annual Report, page 8)
+
+	Statements of Cash Flows for the years ended December 31,1995 and 1994
+	(Annual Report, page 7)
+
+	Notes to Financial Statements.(Annual Report, page 8,10)
+
+
+	(2) Report of Independent Certified Public Accountants on Schedules
+
+	The following schedule is included in this report:
+
+	II- Valuations Accounts and Reserves - 1995 and 1994
+
+	Schedules other than those listed above are omitted as not applicable, not
+ 	required or the information is included in the financial statements or
+ notes 	thereto
+
+
+	(3) Exhibits
+	
+	3.1	Articles of incorporation with all amendments to date(incorporated by 	
+		reference from Registrant's Annual Reports with Form 10K for the year
+		ended December 31,1992)
+
+	3.2	Bylaws of the Registrant (incorporated by reference from Registrant's
+ 			Annual Report with  Form 20K for the year ended December 31,1992)
+
+	4.1	9% Convertible Subordinated Note Agreement (incorporated with this 
+			report)
+
+	(3) Exhibits(continued)
+
+	4.2	Statements of Preferences of Preferred Stock (incorporated by reference 
+		from Registrant's Annual Report with Form 10K for the year ended
+		 December 31,1992) See Exhibit 3.1
+
+	10.1	Credit Agreement between Clary Corporation and the First Interstate 
+			Bank (incorporated with this report).
+
+	10.2	1982 Stock Option Plan (incorporated by reference form Registrant's
+ 			Annual Report with Form 10K for the year ended December 31,1992)
+
+	10.3	1984 Stock Option Plan (incorporated by reference form Registrant's
+ 			Annual Report with Form 10K for the year ended December 31,1992)
+
+	13.1	Annual Report to Shareholders for the year ended December 31,1995
+		(incorporated by reference in this report)
+
+
+(b)	Reports on Form 8-k
+
+	On November 11,1994, the Registrant filed a Form 8-k reflecting a change from 
+	Grant Thornton to Stonefield Josephson, the Registrant's Independent Public
+	Accountants. 
+
+
+CLARY CORPORATION
+
+SCHEDULE II- VALUATION ACCOUNTS AND RESERVES
+
+YEARS ENDED DECEMBER 31,1995 AND 1994
+
+ALLOWANCE FOR DOUBTFUL ACCOUNTS
+
+
+					                                  1995                 1994 
+BEGINNING BALANCE		                  	$15,000             	$11,000
+
+ADDITIONAL CHARGES
+TO COST AND EXPENSES		  	               7,000 	             10,000
+
+DEDUCTIONS			     	                     2,000		              6,000
+
+ENDING BALANCE				                     20,000	              15,000
+
+
+
+
+
+
+STONEFIELD JOSEPHSON
+ACCOUNTANCY CORPORATION
+
+
+
+REPORT OF INDEPENDENT CERTIFIED PUBLIC ACCOUNTANTS ON SCHEDULE
+
+
+
+
+Board of Directors
+Clary Corporation
+
+In connection with our audit of the financial statements of Clary Corporate
+ion referred to in our report dated February 16,1996, which is included in
+ the annual report to security holders and incorporated by reference in
+ Part II of this form, we have also audited schedule II for the years ended
+ December 31,1995 and 1994. In our opinion, this schedule present fairly,
+ in all material respects, the information required to be set forth 
+therein.
+
+
+
+						Stonefield Josephson
+						Accountancy Corporation
+
+
+Santa Monica, California
+February 16,1996
+
+
+
+
+
+
+SIGNATURES
+
+Pursuant to the requirements of the Section 13 or 15 (d) of the Securities
+ Exchange Act of 1934, the Registrant has duly caused this report to be 
+signed on its behalf by the undersigned, thereunto duly authorized.
+
+
+
+						CLARY CORPORATION
+
+						BY: D.G.ASH-Treasurer
+
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, 
+this report has been signed below by the following persons on behalf of
+the Registrant and in the capacities and on the dates indicated. 
+
+
+Dated:
+					                   	President and Chief Executive Officer
+March 28,1996					            	John G. Clary
+
+					Directors:
+
+
+
+	March 28,1996			D.G. Ash
+
+	March 28,1996			John G. Clary
+
+	March 28,1996			John P. Clary
+
+	March 28,1996			Dr. Harland Gerds
+
+
+
+
+
+
+
+
+Statement of Operations (Year Ended December 31,1995)
+
+Sales and Other Income
+Net Sales					                                		5971,000
+Other Income				                            			  430,000
+							                                    	-------------
+							                                        	6401,000
+
+Cost and Expenses
+Cost Of Products sold				                      	4713,000
+Engineering and product development			           386,000
+Selling							                                 	1033,000
+General and Administrative				                	  296,000
+Interest on Long-term debt					                   33,000
+Other Interest							                            129,000
+								                                    -------------
+							                                        	6590,000
+							                                     	-------------
+
+(Loss) Earnings before income taxes and
+ discontinued operation						                 	( 189,000)
+Income tax expense						                           1,000
+							                                    	--------------
+Net loss						                                	( 190,000)
+							                                     ==============
+(Loss) earnings per share					                    (.11)
+Discontinued operation					                        -0- 
+								                                    ---------------
+Net(loss) per common share					                    (.11)
+								                                    ===============
+
+BALANCE SHEET
+
+ASSETS
+CURRENT ASSETS
+	Cash							                                          	292,000
+	Cash Restricted					                                 	300,000
+	Notes and accounts receivable, less allowance
+	for doubtful accounts of $20,000 in 1995		           	838,000
+	Inventories					          	                          2010,000
+	Prepaid expenses and other assets				                  61,000
+								                                         	-------------
+Total current assets						                            3501,000
+Property and equipment						                           151,000
+Others assets								                                  120,000
+									                                         -------------
+TOTAL ASSETS						                                    3772,000
+								                                           =============
+
+
+LIABILITIES AND STOCKHOLDERS' EQUITY
+
+CURRENT LIABILITIES
+	Notes payable							                                 895,000
+	Accounts payable and accrued expenses		            	 421,000
+	Accrued payroll, payroll  taxes and amounts
+	withheld from employees					                         120,000
+	Customer deposits						                               31,000
+								                                          	------------
+	Total current liabilities					                      1467,000
+Convertible subordinated debt					                    600,000
+Stockholders' equity
+	Cumulative convertible preferred stock,51/2 %,
+ par value	$5 per share; authorized and outstanding,
+ 11.033		                                              55,000
+	Common stock, par value$1 per share, authorized 
+	3000,000 shares, issued and outstanding 1807,319   	2509,000
+	Additional paid-in capital					                     5099,000
+	Accumulated deficit					                           (5958,000)
+									                                         -------------
+									                                            1705,000
+									                                          -------------
+TOTAL LIABILITIES AND STOCKHOLDERS' EQUITY	          3772,000
+									                                          ============
+
+STATEMENT OF CASH FLOW
+
+CASH FLOWS FROM OPERATING ACTIVITIES
+	NET(LOSS)						                                          	(190,000)
+	Adjustment to reconcile net(loss) to net cash
+	(used) provided by operating activities:
+	Depreciation							                                         48,000
+	Provision for losses on accounts receivable		                7,000
+	Change in assets and liabilities:
+	Decrease(increase) in accounts receivable			               280,000
+	(increase)decrease in inventory				                       (172,000)
+	Decrease(increase)in prepaid expenses			                     5,000
+	(Increase)decrease  in other assets				                   (  7,000)
+	(Decrease)increase in accounts payable and accrued
+	expenses							                                           (147,000)
+	(Decrease)increase in customer deposits			                ( 12,000)
+									--------------
+	Net cash(used)provided by operating activities		         ( 188,000)
+
+CASH FLOWS FROM INVESTING ACTIVITIES
+	Capital expenditures					                               	(  17,000)
+	Proceeds from disposal of Division				                      65,000
+									-------------
+	Net cash provided(used)by investing activities		            48,000
+
+
+
+CASH FLOWS FROM FINANCING ACTIVITIES
+	Net(repayment) borrowing under line-of credit	          	( 205,000)
+	Proceeds from issuance of Long-Term Notes		                600,000
+	Principal payments under long-term debt and capital
+	lease obligations			                                  			( 292,000)
+	Dividends paid				                                   	   (   3,000)
+						                                              			--------------
+	Net cash provided(used)by financing activities		            100,000
+									                                              --------------
+	Net(decrease) increase in cash and cash equivalents	      (  40,000)
+	Cash and cash equivalents at beginning of period		          332,000
+									                                              --------------
+	Cash and cash equivalents at end of period			               292,000
+									                                                ============
+
+NOTES TO FINANCIAL STATEMENTS
+December 31,1995
+
+NOTE 1: SUMMARY OF ACCOUNTING POLICIES
+The company's operations are In manufacturing of uninterruptible power
+ systems and related products. A summary of the Company's significant
+ accounting policies consistently applied in the preparation of the financial
+ statements to follows
+
+USE OF ESTIMATES:
+The preparation of financial statements in conformity with generally accepted
+ accounting principles requires management to make estimates and assumptions
+ that affect the reported amount of assets and liabilities and disclosure of
+ contingent assets and liabilities at the date of the financial statements
+ and the reported amounts of revenues and expenses during the reporting period.
+Actual results could differ from those estimates. 
+
+CASH EQUIVALENTS
+Cash equivalents consist of short-term, highly liquid investments which are
+ readily convertible into cash.
+
+INVENTORIES
+Inventories are stated at the lower of cost(including direct materials,
+ direct labor and manufacturing overhead) or market on the first-in, first-out
+ basis. Obsolete and possible excess quantities are reduced to their estimated
+ net realizable values in the period such obsolescence is determined. 
+
+PROPERTY AND EQUIPMENT
+Property and equipment are carried at cost. Improvement to leased property are
+ amortized over the term of the lease. Depreciation is provided on the
+ straight-line basis over the estimated useful lives form 3 to 20 years. 
+
+
+
+
+
+(LOSS)EARNINGS PER COMMON SHARE
+(Loss) earnings per common share are based upon the weighted  average number
+ of common stock outstanding during each period(1,807,319 in 1995) after
+ giving effect to dividend requirements on the preferred stock. No effect is
+ given to stock options as they resulted in less than 3% dilution. 
+
+NOTE 2- INVENTORIES
+Inventories were composed of the following amounts as of December 31,1995
+
+Finished Goods			                   	$1,130,000
+Work In Progress				                    880,000
+						                          ----------------
+					                               	$2,010,000
+					                          	================
+
+NOTE 3- PROPERTY AND EQUIPMENT
+Property and equipment were composed of the following amounts as of  December
+ 31,1995.
+
+Machinery and equipment				                   	$1,326,000
+Dies,,jigs and fixtures						                      31,000
+Leasehold improvements					                        60,000
+							                                  	----------------
+								                                       $1,417,000
+Less accumulated deprecciation
+	and amortization					                          1,266,000
+								                                  ----------------
+								                                     $    151,000
+								                                  ================
+
+NOTE 4- NOTES PAYABLE
+At December 31,1995 the company had a short-term borrowing agreement with a
+ financial institution which was collateralized by essentially all assets of
+ the company.
+The agreement require the maintenance of certain ratios pertaining to working
+ capital and debt to equity. The financial institute has informed the Company
+  it will not renew the agreement when it terminates on March 15,1996.
+ The Company is in the process of obtaining alternative financing. Information
+ with respect to  notes payable to the financial institution at December 31,1995
+ is as follows:
+
+Line of credit subject to collateral available		          	$1,200,000
+Oustanding loans						                                        895,000
+Unused credit available					                                   29,000
+Interest rate prime plus					                                   	2.5%
+Average interest rate at 12/31				                              12.25%
+Average during the year
+	Short-term borrowings	                                  			$1,035,000
+	Weighted average interest rate			                             11.38%
+	Maximum month end short-term borrowing
+	during the year				                                        	$1,1000,00
+
+
+NOTE 5- TAXES ON INCOME
+In February 1992, the Financial Accounting Standards Board issued Statement
+ of Financial Accounting Standards No. 109 "Accounting for Income Taxes"
+("SFAS109").The Company previously accounted for income taxes under Accounting
+ Principles Board Opinion No. 11("APB 11"). Effective January 1,1996 the Company
+  changed its method of accounting for income taxes from the deferred method
+ required under APB 11 to the asset end liability method required under SFAS
+ 109. There was no effect of this change on the Company's financial position or
+ results of operations  due to cumulative losses. 
+The objective of the asset and liability method is to establish deferred tax
+ assets and liabilities for the temporary differences between the financial
+ reporting basis and the tax basis of the Company's assets and liabilities at
+ enacted tax rates expected to be in effect when such amounts are realized or
+ settled. As of December 31,1995, the Company has total deferred tax liability
+ of $13,000, and total deferred tax assets of $546,000. The Company has recorded
+ valuation allowance for the amount by which total deferred tax assets exceed 
+total deferred liability,and as a result, the Company has not recorded any 
+liability or assets for deferred taxes as of December 31,1995. Significant
+components of the company's deferred tax assets and liabilities as of
+December 31,1995,are as follows:
+
+Deferred tax assets
+	Allowance for doubtful accounts		              	$   6,000
+	Inventory reserve					                              7,000
+	Accrued legal fees					                            22,000
+	Tax credit carryforward				                        82,000
+	Net operating loss carryforward	              		  368,000
+								                                      ------------
+								                                           485,000
+	Valuation  allowance					                         472,000
+								                                      ============
+								                                            13,000
+
+Deferred tax liabilities
+	Depreciation
+	Installment sale income				                    (   13,000)
+								                                      --------------
+								                                        $      -0-    
+								                                      ==============
+The net operating loss carryforwards expire at various dates through 2009 and
+ the tax credit carryforwards expires in 1996 through 2001. 
+
+NOTE 6-CONVERTIBLE SUBORDINATED DEBT
+Convertible subordinated debt  at December 31, consist of the following:
+
+9.5% convertible subordinated notes due October 17,2000
+ and convertible into common stock at $1.00 per share.			     	$600,000
+
+The convertible subordinated debt is generally subordinated to notes payable
+ and indebtedness to financial institutions now outstanding  or subsequently
+ incurred.
+
+NOTE 7- COMMITMENTS AND CONTINGENCIES
+Aggregate rental commitments under operating leases at December 31,1995 for
+ property are as follows:$82,000(1996), $82,000(1997),$34,000(1998).
+The total rental expenses under all leases was $81,000 for 1995, $81,000 for
+ 1994 and $80,000 for 1993. 
+In 1990 the Company entered into a verbal distributor agreement granting a
+ distributor the non-exclusive rights to distribute certain products of its
+ former CAD division. In 1991, the Company filed suit to recover the uncollected
+ balances of its receivable due from the distributor. The distributor filed a
+ countersuit  alleging mis representation. On may 24,1993 the jury awarded the
+ distributor net damages of approximately $265,000 including double damages,
+ legal costs and interest. In November 1993, the Company filed an appeal againts
+this judgement and provided a supersedeas bond secured by $300,000 certificate
+of deposit, which has been classified as a current asset in the accompanying
+balance sheet. On November 8,1994 the Courts of Appeals issued an order
+ reversing the trial courts judgment against the company.On January 23,1995
+the distributor filedan Application for Writ of Error with the Supreme Court
+of Texas. On July 7,1995,the Supreme Court of Texas ordered the judgement
+of the Court of Appeals be reversed and the cause be remanded back to that
+court for further proceeding. On July 20,1995,the company filed a Motion for
+Rehearing with the Supreme Court.
+Management has estimated a range of amounts for the potential loss,including
+legal costs, relating to this matter and an amount considered by management
+to be probable loss was provided for in the statement of operations for 1993
+as loss form discontinued operations.The additional liability, if any, and the
+classification of the certificate of deposit cannot presently be determined.
+A unfavorable resolution of this matter to the Company, including failure to
+conclude the appeal prior to December 31,1996 could result in an additional
+liability of approximately $250,000 and/or the reclasification  of an equal
+amount of the "cash restricted" to noncurrent assets,which has not been 
+reflected in the financial statements.  
+
+NOTE 9- SALE OF DIVISION
+On March 1,1991, the company completed an asset sales of its Construction
+ Automation Division to Alpine Engineered Products,Inc.. In the transaction,
+ the Company received $900,000 in cash, a five year note for $261,000 and
+ override payments on the net sales of the Division over the next five years.
+ The five-year note receivable balance was $33,000 at December 31,1995. The
+ note bears interest at prime rate.
+As of December 31,1995, the Company has received the maximum amount of override
+ payments due either from direct payment or sale of future payments on a non-
+recourse basis. During 1995,1994 and 1993, the company recognized as income 
+$330,000, $319,000 and $213,000, respectively from these override payments
+
+NOTE 8-STOCKHOLDERS' EQUITY
+The 5.5% cumulative  convertible  preferred stock may be redeemed in whole or
+ in part by the Company , upon not less than 30 days notice, at $5.50 a share,
+ plus accrued dividends to the date of redemption. The preferred stock is
+ convertible on basis of 1.15 shares of common stock for each share of preferred
+ stock. During 1995 and 1994 there were no shares of preferred stock converted 
+to common stock. As of December 31,1995 , 12,688 shares of common stock were
+ reserved for conversion of preferred stock. The company also has reserved
+600,000 shares of common stock for conversion of 9.5% convertible subordinated
+note:
+In the event of liquidation, the holder of the preferred stock have preferential
+ rights to the company's assets.
+The company has an Employee Incentive Stock Option Plan which was adopted in
+ 1984. Under this plan, the Company has reserved 59,000 shares of common stock
+ for purchases by officers and key employees. Grants under the plan are made
+ by the committee consisting of two members of the Board of Directors.
+ Exercise price of options may not be less than the fair market value of common
+ stock at the time of grant. At December 31,1995, 59,000 shares outstanding
+ and 10,000 are exercisable at $1.00 per share.The options are exercisable in
+annual instalments, commencing one year after the date of grant and expiring
+five years after the date of grant.
+ In addition, the company had reserved 15,000 shares  of common stock for
+ purchase by directors, officers or employees under a non-qualified stock
+ option plan. At December 31,1995, 15,000 shares are outstanding at $1.00 per
+ share. The options are immediately exercisable and expire five years from
+ date of grant.
+
+</TEXT>
+
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

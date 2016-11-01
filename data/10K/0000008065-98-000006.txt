@@ -1,0 +1,1895 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ HfJFH4TYzLEr+oHfoOULwYsEgjlbjtFLxdUQNCWxy83tGA5ioLY0TSwx1Sgje8yW
+ WSDvWCNtiad9yCvYdU7a0A==
+
+<SEC-DOCUMENT>0000008065-98-000006.txt : 19980929
+<SEC-HEADER>0000008065-98-000006.hdr.sgml : 19980929
+ACCESSION NUMBER:		0000008065-98-000006
+CONFORMED SUBMISSION TYPE:	10KSB
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	19980630
+FILED AS OF DATE:		19980928
+SROS:			NONE
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			ASTROSYSTEMS INC
+		CENTRAL INDEX KEY:			0000008065
+		STANDARD INDUSTRIAL CLASSIFICATION:	INDUSTRIAL INSTRUMENTS FOR MEASUREMENT, DISPLAY, AND CONTROL [3823]
+		IRS NUMBER:				135691210
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0630
+
+	FILING VALUES:
+		FORM TYPE:		10KSB
+		SEC ACT:		
+		SEC FILE NUMBER:	000-03344
+		FILM NUMBER:		98715685
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1220 MARKET STREET
+		STREET 2:		SUITE 603
+		CITY:			WILMINGTON
+		STATE:			DE
+		ZIP:			19801
+		BUSINESS PHONE:		(302) 652-
+
+	MAIL ADDRESS:	
+		STREET 1:		1220 MARKET STREET
+		STREET 2:		SUITE 603
+		CITY:			WILMINGTON
+		STATE:			DE
+		ZIP:			19801
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>10KSB
+<SEQUENCE>1
+<TEXT>
+
+ ..                 U.S. SECURITIES AND EXCHANGE COMMISSION
+
+                            Washington, D. C. 20549                   
+
+                                 FORM 10-KSB
+(Mark One)
+
+X  ANNUAL REPORT UNDER SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF
+   1934
+          
+   For the fiscal year ended             June 30, 1998                  
+                             _______________________________________________
+
+TRANSITION REPORT UNDER SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF
+1934
+
+For the transition period from          to                             
+
+Commission file number        0-3344       
+                      _____________________
+
+                                ASTROSYSTEMS, INC.
+____________________________________________________________________________
+                  (Name of small business issuer in its charter)
+
+            Delaware                                        13-5691210 
+________________________________________________        ____________________
+(State or other jurisdiction of incorporation or        (I.R.S. Employer
+ organization)                                           Identification No.)
+ 
+1220 Market Street, Suite 603, Wilmington, DE                  19801
+________________________________________________        ____________________
+(Address of Principal Executive Offices)                     (Zip Code)
+
+Issuer's telephone number             (302) 652-3115
+                         _______________________________________  
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+                                              Name of each exchange on 
+      Title of each class                         which registered     
+      ___________________                     _________________________
+             None                    
+                          
+Securities registered pursuant to Section 12(g) of the Act:
+
+                 Common Stock, par value $.10 per share
+                 _______________________________________          
+                              (Title of Class)
+
+     Check whether the issuer (1) filed all reports required to be filed by 
+Section 13 or 15(d) of the Securities Exchange Act during the past 12 months
+(or for such shorter period that the Registrant was required to file such
+reports), and (2) has been subject to such filing requirements for the past
+90 days.  YES....X....  NO..........
+
+     Check if no disclosure of delinquent filers in response to Item 405 of
+Regulation S-B is contained in this form, and no disclosure will be
+contained, to the best of Registrant's knowledge, in definitive proxy or
+information statements incorporated by reference in Part III of this Form 10-
+KSB or any amendment to this Form 10-KSB.    YES....X....  NO..........   
+
+     The Registrant's revenues for fiscal year ended June 30, 1998 were $0.
+
+     The aggregate market value of the Registrant's Common Stock held by 
+nonaffiliates of the Registrant is $5,692,252 (as of September 15, 1998).  
+
+                        (ISSUERS INVOLVED IN BANKRUPTCY
+                     PROCEEDINGS DURING THE PAST FIVE YEARS):
+     Check whether the issuer has filed all documents and reports required to
+be filed by Section 12, 13 or 15 (d) of the Securities Exchange Act after the
+distribution of securities under a plan confirmed by a court.  
+YES...    NO ..N/A..
+
+                    (APPLICABLE ONLY TO CORPORATE REGISTRANTS)
+     The number of shares outstanding of the Registrant's Common Stock is
+5,933,576 (as of September 15, 1998).
+
+                       DOCUMENTS INCORPORATED BY REFERENCE
+                                       None
+
+
+
+                                  PART I
+
+Item 1.     Description of Business
+            _______________________
+
+       (a)  Business Development.  
+            ____________________
+
+            (1)  General.  Prior to February 7, 1996, Astrosystems, Inc. (the
+"Company") had three operating divisions: Behlman Electronics, Inc. 
+("Behlman"), a wholly-owned subsidiary of the Company which produced
+commercial AC power supplies, the Defense Electronics Division which designed
+and manufactured power conversion devices and the Industrial Automation 
+Division which produced industrial control products.
+
+            Since its inception, the Company's primary business had been in 
+efense electronics.  The Company's revenues decreased every year since fiscal
+year 1992 from $18,100,000 in the fiscal year ended June 30, 1992 to
+$12,300,000 in the fiscal year ended June 30, 1995.  The decline was
+primarily due to a continuing decline in defense budgets and severe price
+competition from lower cost geographical areas and corporate consolidations.
+In addition, high fixed overhead costs necessitated by defense contracts
+coupled with a declining business base were tending to make the Company non-
+competitive.  The Company attempted to offset this decline by increasing
+sales for its commercial and industrial products and although the results 
+showed some promise, they were not expected to be sufficient.
+
+            In view of the decline described above, the Board of Directors
+(the "Board") considered various alternatives for maximizing the Company's
+value and decided that a planned liquidation was in the best interest of the
+stockholders.  In the opinion of the Board, the Company's common stock
+historically had traded at a discount from the net value of its assets and
+the liquidation would allow the Company to distribute its real tangible
+value.  A Plan of Complete Liquidation and Dissolution (the "Plan") for the
+Company was therefore submitted to the stockholders and approved on February
+2, 1996.  Pursuant to the Plan, the Company consummated the sale of the
+assets of its three operating divisions, as described below (see "Asset
+Purchase Agreements").
+
+            Since February 2, 1996, the Company has been engaged in
+implementing the Plan.  Some of its ongoing activities are: 1) implementing
+the asset purchase agreements (see "Asset Purchase Agreements" below); 2)
+relocating the Company to Delaware (see "Other Matters" below); 3)
+distributing benefit plan funds; 4) completing open contracts and collecting
+accounts receivable; 5) engaging in negotiations, litigation and other
+methods of dispute resolution regarding final price determination for the
+asset sales; 6) engaging a new auditor (see "Other Matters" below); 7)
+determining and implementing an initial distribution to stockholders; 8)
+seeking to realize stockholder value for the solar cell license and
+AstroPower, Inc. assets (see "Solar Cell Assets" below) and 9) preparing
+federal and state tax returns, SEC filings and additional federal and state
+filings necessary for the dissolution process.
+
+            On June 30, 1997, the Company declared an initial cash
+distribution of $5.00 per share to stockholders of record as of August 15,
+1997.  On September 8, 1997, the distribution was made.  No date has been set
+for further distributions.  Under the terms of the Plan, the Company has
+until February 2, 2000 to complete the liquidation by making distributions
+directly to its stockholders or to a liquidating trust.
+
+            (2)  Asset Purchase Agreements.  Effective February 6, 1996,
+pursuant to a certain Asset Purchase Agreement dated as of January 11, 1996
+(the "Orbit Agreement") by and among the Company, Behlman, Orbit
+International Corp. ("Orbit") and Cabot Court, Inc. ("Cabot"), a wholly-owned
+subsidiary of Orbit, the Company sold to Cabot certain assets of its Defense
+Electronics Division and Behlman sold to Cabot certain of its assets for an
+aggregate purchase price of $3,706,700.  The purchase price was made subject
+to adjustment based upon a valuation of the transferred inventory and
+equipment as of the closing date.  Pursuant to the Orbit Agreement, a portion
+of the purchase price is being held in escrow to provide for indemnification
+claims that Cabot may assert against the Company or Behlman thereunder. As of
+June 30, 1998, the amount in escrow was approximately $512,000.
+
+            The value of certain inventory items under the Orbit Agreement
+currently is being disputed along with a number of other items such as
+warranty costs.  However, the Company does not believe that the final result
+will materially affect Net Assets in Liquidation. 
+
+            Effective February 7, 1996, pursuant to an Asset Purchase
+Agreement of such date by and between the Company and North Atlantic
+Instruments, Inc. ("North Atlantic"), the Company sold to North Atlantic
+certain assets of its Industrial Automation Division for a purchase price of
+$704,500.  Based upon a valuation of the transferred inventory and equipment
+as of the closing date, the purchase price was later adjusted to
+approximately $596,700. 
+
+            (3)  Solar Cell Assets.  In 1983, the Company acquired a 16-year
+license (the "License") from the University of Delaware covering a new
+process for the manufacture of solar cells.  In connection with the
+acquisition of the License, the Company issued a $20,000,000 nonrecourse note
+(the "Note"), originally due in 1993 and bearing interest at the rate of 14%
+per year.  The Note is secured by the Company's rights under the License and
+is to be paid prior to its due date solely on the basis of 4% of sales of
+products developed by this process, subject to certain minimum quarterly
+payments of $11,250 to $12,500.  To date, there have been no amounts paid
+under the Note other than the minimum quarterly payments.  Concurrently with
+the grant of the License, a sublicense for the process was given to
+AstroPower, Inc. ("AstroPower"), a company engaged in photovoltaic research
+and production.  An amendment to the license agreement extended its term to
+2006; concurrently, the due date of the Note was extended to May 1999.  The
+Company, for financial reporting purposes, has not recorded the Note. 
+
+            The Company currently owns 1,193,750 shares of AstroPower, Inc.
+common stock. On February 12, 1998, AstroPower, Inc. successfully completed
+an initial public issue and its stock is currently listed on the NASDAQ
+National Market (symbol APWR). In connection with the initial public issue,
+the Company entered into an agreement with the underwriter not to sell or
+otherwise transfer any of its stock for six months after the date of the
+issue. As of June 30, 1998, the Company determined that the fair value of its
+investment in AstroPower, Inc. is approximately $6,448,000 ($5.40 per share).
+The Company retained an outside independent appraiser to assist management in
+adjusting AstroPower, Inc.'s quoted market value ($8.375 at June 30, 1998) to
+fair value after considering such factors as the Company's agreement with the
+underwriter, statutory restrictions limiting sales by the Company of its
+holdings in AstroPower, Inc. and other factors.  As the Company has a zero
+basis in this stock, any sale or transfer will result in a corporate tax
+based on the value of the stock at that time. Provision for such taxes has
+been made in Deferred Income Taxes based on the estimated fair market value. 
+
+            (4)  Other Matters.  On December 18, 1996, the Company's 
+independent auditor, Richard A. Eisner & Company LLP, resigned citing an
+independence issue. The Company instituted a search for a new auditor and in
+June 1997, Grant Thornton LLP was retained. The Company filed its Form 10-KSB
+for the fiscal year ended June 30, 1996 with unaudited financials.  Due to
+the unaudited nature of such filing and the fact that the Company was in
+liquidation, NASDAQ removed the Company from listing on its stock market. 
+The Company's stock continues to be publicly traded on the NASD OTC
+Electronic Bulletin Board.
+
+            The Company vacated its manufacturing and office space in Lake
+Success, New York, prior to June 30, 1996, in accordance with the terms of
+its lease.  The Company relocated to a new office in Wilmington, Delaware.
+
+            The Company is a corporation originally incorporated in the State
+of New York in 1959.  In April, 1987, the Company changed its state of
+incorporation to Delaware.
+
+       (b)  Business of Issuer.  Since February 2, 1996, the Company's sole
+business has been the implementation of its Plan of Complete Liquidation and
+Dissolution.
+
+            (1)  Special Features of Government Contracts.  In accordance
+with the asset purchase agreements governing the asset sales, certain
+government contracts previously awarded to the Company were novated to the
+purchasers.  Under the standard terms of the novation agreements, the Company
+remains jointly liable with the purchasers for performance under these
+contracts.  In addition, a number of contracts were not novated and the
+Company has subcontracted performance under these contracts to the purchaser
+of its defense-related assets.  Management does not believe that the final
+results of these transactions will have a material effect on the Company's
+Net Assets in Liquidation.
+
+            (2)  Solar Cell License.  The Company has a license covering a
+new process for the manufacture of solar cells (see "Solar Cell Assets" under
+Item 1(a) above).
+
+            (3)  Environmental Regulation Compliance.  The Company is of the
+belief that compliance with federal, state and local provisions which may 
+have been enacted or adopted regulating the discharge of materials into the
+environment, or otherwise relating to the protection of the environment, will
+have no material effect on the Company's assets.
+
+            (4)  Number of Employees.  The Company currently has four
+employees, three of whom are full time employees.  Management believes its
+relations with its employees are good.  No employees are represented by a
+collective bargaining agreement.
+
+Item 2.     Description of Property.
+            _______________________
+
+            The Company's office is located in Wilmington, Delaware, where 
+the Company occupies approximately 1,100 square feet of usable space.  The
+premises are leased from an unaffiliated party through May 31, 1999 at an
+annual rental of approximately $23,000, which includes common area
+maintenance and real estate taxes.  
+
+Item 3.     Legal Proceedings.
+            _________________
+
+            There are no material pending legal proceedings to which the
+Company or any of its subsidiaries is a party or of which any of their
+property is the subject.
+
+Item 4.     Submission of Matters to a Vote of Security Holders.
+            ____________________________________________________
+
+            On June 29, 1998, the Company held an annual meeting of
+stockholders at which a board of five directors was elected.  The number of
+affirmative votes and negative votes with regard to the foregoing were as
+follows:
+
+
+                                    Voted for           Withheld Proxy
+Nominee                             Election          to vote for Election
+_________________________           _________         ____________________
+
+Seymour Barth                       4,137,565                20,362
+
+Gilbert H. Steinberg                4,137,565                20,362
+
+Elliot J. Bergman                   4,136,423                21,504
+
+Elliot D. Spiro                     4,136,523                21,404
+
+Walter Steinberg                    4,136,423                21,504
+
+
+
+
+                                PART II
+
+Item 5.     Market for Common Stock and Related Stockholder Matters.
+            ________________________________________________________
+
+            (a)  The Company's Common Stock is traded in the over-the-counter
+market (symbol:  ASTR).  The following table sets forth the quarterly high
+and low bid prices for the last two fiscal years.  The quotations set forth
+below represent interdealer quotations (which exclude retail markups,
+markdowns and commissions) and do not necessarily reflect actual
+transactions.
+
+                                                          Bid
+                                                         _____
+                 Quarterly Period                  High          Low
+                 ________________                  _____        _____
+
+            July 1996 - September 1996             6 3/8        5 3/8 
+            October 1996 - December 1996           6            4 3/8 
+            January 1997 - March 1997              5 1/2        4 3/4 
+            April 1997 - June 1997                 5 5/8        5  
+            July 1997 - September 1997             5 3/4          1/4
+            October 1997 - December 1997           1 3/8          1/4
+            January 1998 - March 1998              2 1/2        1 1/4 
+            April 1998 - June 1998                 2 3/8        2   
+
+            Certain of the quotations set forth above represent quarterly
+periods prior to payment by the Company of the liquidating distribution
+discussed below and do not reflect market prices following the distribution.
+
+       (b)  The number of stockholders of record of the Registrant's Common
+Stock, par value $.10 per share, as of June 30, 1998 was 811.
+
+       (c)  On June 30, 1997, the Company declared an initial liquidating
+distribution of $5.00 per share in cash to stockholders of record as of
+August 15, 1997.  The distribution was paid on September 8, 1997.  Although
+the Company has not established a firm timetable for additional liquidating
+distributions to stockholders, the Company will, subject to exigencies
+inherent in winding up the Company's business, make such distributions
+consistent with maximizing stockholder value.  The actual amount and timing
+of, and record date for, all additional distributions will be determined by
+the Board of Directors, in its sole discretion, and will depend in part upon
+the Board's determination as to whether particular assets are to be
+distributed in kind or otherwise disposed of, and the amounts deemed
+necessary by the Board to pay or provide for all the Company's liabilities
+and obligations.  
+
+
+
+
+Item 6.     Management's Discussion and Analysis or Plan of Operation.
+            _________________________________________________________
+
+            The Board of Directors adopted, and the stockholders approved on
+February 2, 1996, a Plan of Complete Liquidation and Dissolution (the "Plan")
+of the Company.  See "Plan of Complete Liquidation and Dissolution" below.  
+Since that date, the Company has been operating under the Plan and its
+financial reporting is being made in accordance with the liquidation basis of
+accounting.  Therefore, the following discussion relates to financial
+statements presented on a liquidation basis since statements presented on a
+going concern basis are no longer material to stockholder value.
+
+            Liquidity, Capital Resources and Impact of Inflation.
+            ____________________________________________________
+
+            The Company announced on March 26, 1996 a Board of Directors
+authorization for the repurchase of up to 500,000 shares of Common Stock to 
+be made from time to time through open market and privately negotiated
+transactions (in addition to the 500,000 shares previously authorized on
+October 23, 1992).  To date, 676,404 shares have been repurchased. No shares
+were repurchased during fiscal years 1998 or 1997. 
+
+            The repurchase authorization remains in force and the Company
+will, from time to time, repurchase shares in accordance with applicable law
+when it is consistent with maximizing stockholder distributions under the
+Plan.
+
+            On June 30, 1997, the Company declared an initial liquidating
+distribution of $5.00 per share in cash to stockholders of record as of
+August 15, 1997.  The distribution was paid on September 8, 1997.  Although
+the Company has not established a firm timetable for additional liquidating
+distributions to stockholders, the Company will, subject to exigencies
+inherent in winding up the Company's business, make such distributions
+consistent with maximizing stockholder value.  The actual amount and timing
+of, and record date for, all additional distributions will be determined by
+the Board of Directors, in its sole discretion, and will depend in part upon
+the Board's determination as to whether particular assets are to be
+distributed in kind or otherwise disposed of, and the amounts deemed
+necessary by the Board to pay or provide for all the Company's liabilities
+and obligations. 
+
+            Statement of Net Assets in Liquidation.
+            ______________________________________
+
+            Pursuant to the Plan, the Company consummated the sales of the
+assets of its three operating units (Military Division, Behlman Electronics
+subsidiary and Industrial Automation Division) as of February 7, 1996.  The
+exact amount of the proceeds to the Company of such sales is dependent upon a
+final fixed asset and inventory valuation.  The value of certain inventory
+items is being disputed; however, the Company does not believe that the final
+result will affect materially Net Assets in Liquidation.  In connection with
+the sale of the Military and Behlman operations, approximately $512,000 of
+the purchase price currently is being held in escrow to provide for certain
+indemnification claims that the buyer may assert against the Company under
+the sale agreement.
+
+            The Company owns 1,193,750 shares of AstroPower, Inc. common
+stock. On February 12, 1998, AstroPower, Inc. successfully completed an
+initial public issue and its stock is currently listed on the NASDAQ National
+Market (symbol APWR). In connection with the initial public issue, the
+Company entered into an agreement with the underwriter not to sell or
+otherwise transfer any of its stock for six months after the date of the
+issue. As of June 30, 1998, the Company determined that the fair value of its
+investment in AstroPower, Inc. is approximately $6,448,000 ($5.40 per share).
+The Company retained an outside independent appraiser to assist management in
+adjusting AstroPower, Inc.'s quoted market value ($8.375 at June 30, 1998) to
+fair value after considering such factors as the Company's agreement with the
+underwriter, statutory restrictions limiting sales by the Company of its
+holdings in AstroPower, Inc. and other factors.  As the Company has a zero
+basis in this stock, any sale or transfer will result in a corporate tax
+based on the value of the stock at that time. Provision for such taxes has
+been made in Deferred Income Taxes based on the estimated fair market value. 
+
+            The Company has set aside, as Accrued expenses/Contingency 
+reserve, an amount believed to be adequate for payment of all expenses and
+other known liabilities as well as likely and quantifiable contingent 
+obligations, including potential tax obligations.  Any portion of the
+contingency reserve which the Company determines is no longer required will 
+be made available for distribution to its stockholders.  In the event that 
+the Accrued expenses/Contingency reserve account is not adequate for payment
+of the Company's expenses and liabilities, each stockholder could be held
+liable for pro rata payments to creditors in an amount not to exceed the
+stockholder's prior distributions from the Company.  The Company has 
+therefore adopted a conservative policy in retaining sufficient assets to 
+insure against any unforeseen and non-quantifiable contingencies.
+
+            Statement of Changes in Net Assets in Liquidation.
+            _________________________________________________
+
+            From  June 30, 1997 to June 30, 1998 there was an increase in Net
+Assets in Liquidation of $6,509,000. This increase was primarily due to the
+net effect of the valuation of AstroPower, Inc. stock and the exercise of
+stock options.
+
+            Plan of Complete Liquidation and Dissolution.
+            ____________________________________________
+
+            On February 2, 1996, the stockholders of the Company approved a
+Plan of Complete Liquidation and Dissolution for the Company.  Pursuant to
+the Plan, the Company has sold its three operating units and intends to sell
+such of its remaining assets as are not to be distributed in kind to its
+stockholders.  The Company intends to provide for payment of all expenses,
+liabilities and obligations of the Company and liquidate via distributions to
+stockholders.
+
+            On June 30, 1997, the Board declared an initial liquidating
+distribution of $5.00 per share to stockholders of record as of August 15,
+1997, which was paid September 8, 1997.  The Board has not yet established
+the precise amount of any further distributions pursuant to the Plan.  The
+actual amount and timing of, and record date for, all such distributions will
+be determined by the Board of Directors, in its sole discretion, and will
+depend in part upon the Board's determination as to whether particular assets
+are to be distributed in kind or otherwise disposed of, and the amounts
+deemed necessary by the Board to pay or provide for all the Company's
+liabilities and obligations.
+
+            Year 2000 Issue
+            _______________
+
+            The Year 2000 issue is the result of computer programs using a
+two-digit format as opposed to four digits to indicate the year. Such
+computer systems will be unable to interpret dates beyond 1999 which could
+cause a system failure or other computer errors, leading to disruptions in
+operations. The Year 2000 issue will not have a material effect on the
+Company's financial position.
+
+Item 7.		Financial Statements.
+
+
+
+
+                  INDEX TO CONSOLIDATED FINANCIAL STATEMENTS
+
+
+                                                               Page
+                                                               ____
+
+Report of Independent Certified Public Accountants               F-2
+
+
+Financial Statements
+
+    Consolidated Statements of Net Assets 
+      (Liquidation Basis)                                        F-3
+
+    Consolidated Statements of Changes in Net Assets 
+      (Liquidation Basis)                                        F-4
+
+    Notes to Consolidated Financial Statements
+      (Liquidation Basis)                                     F-5 - F-16
+
+
+
+
+             REPORT OF INDEPENDENT CERTIFIED PUBLIC ACCOUNTANTS
+
+
+Board of Directors and Stockholders 
+  Astrosystems, Inc.
+
+
+We have audited the accompanying consolidated statements of net assets
+(liquidation basis) of Astrosystems, Inc. (a Delaware corporation) and its
+subsidiaries (the "Company") as of June 30, 1998 and 1997, and the related
+consolidated statements of changes in net assets (liquidation basis) for the
+years then ended.  These financial statements are the responsibility of the
+Company's management.  Our responsibility is to express an opinion on these
+financial statements based on our audits.
+
+We conducted our audits in accordance with generally accepted auditing
+standards.  Those standards require that we plan and perform the audit to
+obtain reasonable assurance about whether the financial statements are free
+of material misstatement.  An audit includes examining, on a test basis,
+evidence supporting the amounts and disclosures in the financial statements. 
+An audit also includes assessing the accounting principles used and
+significant estimates made by management, as well as evaluating the overall
+financial statement presentation.  We believe that our audits provide a
+reasonable basis for our opinion.
+
+As described in Note A to the financial statements, the stockholders of
+Astrosystems, Inc. approved a plan of liquidation on February 2, 1996, and
+the Company sold its operating businesses shortly thereafter.  As a result,
+the Company has changed its basis of accounting for periods subsequent to
+February 2, 1996 from a going concern basis to a liquidation basis.
+
+In our opinion, the financial statements referred to above present fairly, in
+all material respects, its consolidated net assets in liquidation as of June
+30, 1998 and 1997, and the changes in its consolidated net assets in
+liquidation for the years then ended, in conformity with generally accepted
+accounting principles applied on the bases described in the preceding
+paragraph.
+
+
+
+
+GRANT THORNTON LLP
+
+Melville, New York
+August 18, 1998
+
+
+                                    F-2
+
+
+
+                   Astrosystems, Inc. and Subsidiaries
+
+                  CONSOLIDATED STATEMENTS OF NET ASSETS
+                            (LIQUIDATION BASIS)
+
+
+                                                June 30,      June 30,
+ASSETS                                            1998          1997  
+______                                          ________      ________
+
+Cash and cash equivalents                       $14,459,000   $33,911,000
+U.S. Government securities                          978,000     5,978,000
+Investment in AstroPower, Inc.                    6,448,000 
+Loans to officers                                 1,186,000     3,698,000
+Other assets                                      1,056,000     1,187,000
+                                                ___________   ___________
+                                                 24,127,000    44,774,000
+
+
+LIABILITIES
+___________
+
+Liquidation distribution payable                               29,138,000
+Deferred income taxes                             8,015,000     5,400,000
+Accrued expenses/contingency reserve              4,106,000     4,739,000
+                                                ___________   ___________
+      Net assets in liquidation                 $12,006,000   $ 5,497,000
+                                                ===========   ===========
+
+
+Number of common and common equivalent shares 
+   outstanding                                    5,826,800     5,827,600
+                                                  =========     =========
+
+
+Net assets in liquidation per share                   $2.06         $1.39
+                                                      =====         =====
+
+
+
+
+
+
+The accompanying notes are an integral part of these statements. 
+
+                                    F-3
+
+
+
+                   Astrosystems, Inc. and Subsidiaries
+
+             CONSOLIDATED STATEMENTS OF CHANGES IN NET ASSETS
+                             (LIQUIDATION BASIS)
+
+
+                                                   Year ended    Year ended
+                                                     June 30,      June 30,
+                                                       1998          1997
+                                                   __________    __________
+
+Net assets in liquidation - beginning of period    $ 5,497,000   $34,469,000
+
+Liquidation distributions declared                               (29,138,000)
+
+Increase in estimated liquidation values of net
+   assets over liabilities                           6,509,000       166,000
+                                                   ___________   ___________
+Net assets in liquidation - end of period          $12,006,000   $ 5,497,000
+                                                   ===========   ===========
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The accompanying notes are an integral part of these statements.
+
+                                    F-4
+
+
+
+                   Astrosystems, Inc. and Subsidiaries
+
+                NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+                             (LIQUIDATION BASIS)
+
+                           June 30, 1998 and 1997
+
+
+NOTE A - BASIS OF PRESENTATION AND SUMMARY OF
+         SIGNIFICANT ACCOUNTING POLICIES
+_____________________________________________
+
+    A Plan of Complete Liquidation and Dissolution (the "Plan") was adopted
+    by the Company's Board of Directors on October 26, 1995 and approved by
+    the holders of a majority of the Company's outstanding shares of common
+    stock on February 2, 1996.  The Plan provides for:  (1) the payment of or
+    provision for all of the Company's liabilities and obligations, (2) the
+    distribution to the Company's shareholders in kind or of the proceeds
+    from sale or other disposition of all of the Company's assets, (3) the
+    transfer of any remaining assets to a liquidating trust by February 2,
+    2000, if applicable, and (4) the dissolution of the Company.
+
+    The Board of Directors is currently unable to predict the precise amount
+    or timing of any future distributions pursuant to the Plan.  The actual
+    amount and timing of, and record date for, all distributions will be
+    determined by the Board of Directors, in its sole discretion, and will
+    depend in part upon the Board's determination as to whether particular
+    assets are to be distributed in kind or otherwise disposed of, and the
+    amounts deemed necessary by the Board to pay or provide for all the
+    Company's liabilities and obligations.  See Note F - Liquidating
+    Distribution.
+
+    The Company has adopted the liquidation basis of accounting for all
+    periods subsequent to February 2, 1996.  Under the liquidation basis of
+    accounting, assets are stated at their estimated net realizable values
+    and liabilities are stated at their anticipated settlement amounts. 
+    Therefore, historical financial information is not comparable to the
+    liquidation period financial information.
+
+    The Company has set aside, as accrued expenses/contingency reserve, an
+    amount believed to be adequate for payment of all expenses and other
+    known liabilities, as well as likely and quantifiable contingent
+    obligations, including potential tax obligations.  A portion of the
+    accrued expenses/contingency reserve is a reserve for other
+    contingencies, aggregating $1,350,000 and $1,250,000 at June 30, 1998 and
+    1997, respectively, which will be made available for distribution to
+    stockholders when the Company determines it is no longer required.  In
+    the event that the reserve for other contingencies is not adequate for
+    payment of the Company's expenses and liabilities, each stockholder could
+    be held liable for pro rata payments to creditors in an amount not to
+    exceed the stockholder's prior distributions from the Company.
+
+                                    F-5
+
+
+
+                   Astrosystems, Inc. and Subsidiaries
+
+          NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (continued)
+                           (LIQUIDATION BASIS)
+
+                          June 30, 1998 and 1997
+
+
+NOTE A (continued)
+__________________
+
+    The valuation of assets and liabilities necessarily requires many
+    estimates and assumptions, and there are substantial uncertainties in
+    carrying out the provisions of the Plan.  The actual value of any
+    liquidating distributions will depend upon a variety of factors
+    including, among others, the actual market prices of any securities
+    distributed in kind, the proceeds from the sale of any of the Company's
+    assets and the actual timing of distributions.  The valuations presented
+    in the accompanying statement of net assets in liquidation represent
+    estimates, based on present facts and circumstances, of the estimated
+    realizable values of assets, net of liabilities and estimated costs
+    associated with carrying out the provisions of the Plan.  The actual
+    values and costs could be higher or lower than the amounts recorded. 
+
+    A summary of other significant accounting policies applied in the
+    preparation of the accompanying consolidated financial statements
+    follows:
+
+    1.  Principles of Consolidation
+
+        The consolidated financial statements include the accounts of the
+        Company and its subsidiaries.  Material intercompany transactions and
+        account balances have been eliminated in consolidation.
+
+    2.  Cash Equivalents
+
+        Cash equivalents consist of the Company's investments in money market
+        funds.
+
+    3.  U.S. Government Securities
+
+        The Company holds investments in U.S. Government securities which
+        consist of United States Treasury Notes which are reported at fair
+        value.  As these securities mature, the Company is not reinvesting
+        the funds.  At June 30, 1998, there is one United States Treasury
+        Note outstanding with a face amount of $1,000,000 which matures on
+        March 31, 2001.
+
+    4.  Income Taxes
+
+        Deferred income taxes are recognized for temporary differences
+        between the financial statement and income tax bases of assets and
+        liabilities and loss carryforwards for which income tax benefits are
+        expected to be realized in future years.  The effect on deferred
+        taxes of a change in tax rates is recognized in income in the period
+        that includes the enactment date.
+
+                                    F-6
+
+
+ 
+                   Astrosystems, Inc. and Subsidiaries
+
+         NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (continued)
+                            (LIQUIDATION BASIS)
+
+                           June 30, 1998 and 1997
+
+
+NOTE B - INVESTMENT IN ASTROPOWER, INC.
+_______________________________________
+
+    The Company owns 1,193,750 shares of the common stock of AstroPower, Inc. 
+    Such investment was accounted for on the equity method and, accordingly,
+    the Company recorded its share in the losses of this entity as a
+    reduction of its investment.  This investment was fully written down to
+    zero in prior years.
+
+    On February 12, 1998, AstroPower, Inc. successfully completed an initial
+    public issue and the stock is currently listed on the NASDAQ National
+    Market (symbol APWR).  In connection with the initial public issue, the
+    Company entered into an agreement with the underwriter not to sell or
+    otherwise transfer any of its stock for six months after the date of the
+    issue.
+
+    At June 30, 1998, the Company has determined that the fair value of its
+    investment in AstroPower, Inc. is approximately $5.40 per share as of
+    June 30, 1998.  The Company retained an outside independent appraiser to
+    assist management in adjusting AstroPower, Inc.'s quoted market value
+    ($8.375 at June 30, 1998) to fair value after considering such factors as
+    the Company's agreement with the underwriter, statutory restrictions
+    limiting sales by the Company of its holdings in AstroPower, Inc. and
+    other factors.  As the Company has a zero basis in this stock, any sale
+    or transfer will result in a corporate tax based on the value of the
+    stock at that time.  A provision for such taxes has been made in Deferred
+    Income Taxes based on the current estimated fair value.
+
+
+NOTE C - LOANS TO OFFICERS
+__________________________
+
+    Loans made to officers of the Company aggregated $1,186,000 and
+    $3,698,000 at June 30, 1998 and 1997, respectively, and bear interest at
+    the rate of 6% per annum.  
+
+
+
+
+                                    F-7
+
+
+
+
+                   Astrosystems, Inc. and Subsidiaries
+
+          NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (continued)
+                           (LIQUIDATION BASIS)
+
+                         June 30, 1998 and 1997
+
+
+
+NOTE D - OTHER ASSETS
+_____________________
+
+    Other assets consist of the following:
+
+                                                  June 30,       June 30,
+                                                    1998          1997
+                                                ___________     __________
+
+    Accounts receivable - net                   $   225,000     $  228,000
+    Due from purchasers of assets (Note I)          589,000        594,000
+    Due from related party                                          96,000
+    Prepaid insurance                                15,000         26,000
+    Accrued interest and dividends                   16,000         97,000
+    Long-term investment (1)                        185,000        113,000
+    Other                                            26,000         33,000
+                                                ___________     __________
+                                                 $1,056,000     $1,187,000
+                                                 ==========     ==========
+
+    1.  The long-term investment represents an investment in a limited
+        partnership and is recorded at its fair value.
+
+
+NOTE E - ACCRUED EXPENSE/CONTINGENCY RESERVE
+____________________________________________
+
+    Accrued expenses at June 30, 1998 and 1997 include estimates of costs to
+    be incurred in carrying out the Plan.  The actual costs could vary
+    significantly from the related provisions due to uncertainty related to
+    the length of time required to complete the Plan and complexities and
+    contingencies which may arise.
+
+
+
+
+                                    F-8
+
+
+
+                   Astrosystems, Inc. and Subsidiaries
+
+           NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (continued)
+                          (LIQUIDATION BASIS)
+
+                        June 30, 1998 and 1997
+
+
+NOTE E (continued)
+______
+
+    Existing and estimated liabilities at June 30, 1998 and 1997 consist of:
+
+                                                    1998           1997
+                                                  __________    __________
+
+    Accounts payable, accrued expenses and 
+       miscellaneous                              $1,933,000    $2,187,000
+    Minimum payments on nonrecourse  
+       obligation                                     50,000       100,000
+    Shutdown costs and estimated operating 
+       costs (including compensation) to 
+       administer the Plan through dissolution     1,542,000     3,122,000
+    Estimated interest income                       (345,000)     (696,000)
+    Estimated tax benefit of losses through 
+       dissolution                                  (424,000)   (1,224,000)
+    Reserve for other contingencies                1,350,000     1,250,000
+                                                  __________    __________
+                                                  $4,106,000    $4,739,000
+                                                  ==========    ==========
+
+    Accounts payable, accrued expenses and miscellaneous consist of deferred
+    compensation payable to the officers of the Company, commissions payable,
+    customer balances, accrued professional fees and other accrued
+    liabilities.
+
+    The Company has set aside, as reserve for other contingencies, an amount
+    believed to be adequate for payment of likely and quantifiable contingent
+    obligations, including potential tax obligations.  Any portion of the
+    reserve for other contingencies which the Company determines is no longer
+    required will be made available for distribution to its stockholders.  In
+    the event that the reserve for other contingencies account is not
+    adequate for payment of the Company's expenses and liabilities, each
+    stockholder could be held liable for pro rata payments to creditors in an
+    amount not to exceed the stockholder's prior distributions from the
+    Company.  
+
+                                     F-9
+
+
+
+                     Astrosystems, Inc. and Subsidiaries
+
+          NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (continued)
+                             (LIQUIDATION BASIS)
+
+                            June 30, 1998 and 1997
+
+
+NOTE F - LIQUIDATING DISTRIBUTION
+_________________________________
+
+    Pursuant to the Plan, the Company will distribute pro rata to the
+    Company's stockholders all of its remaining property and assets,
+    including the proceeds of any sale, exchange or disposition, except such
+    property or assets as are required for paying or making provision for the
+    claims and obligations of the Company.  Such distributions may occur all
+    at once or in a series of distributions and may be in cash or in kind, in
+    such manner, and at such time or times, as the Board of Directors may
+    determine.
+
+    On June 30, 1997, the Board of Directors declared a liquidating
+    distribution to holders of record of the Company's common stock on August
+    15, 1997, in the amount of $5.00 per share.  This liquidating
+    distribution was paid on September 8, 1997.
+
+
+NOTE G - NET ASSETS IN LIQUIDATION PER SHARE
+____________________________________________
+
+    Number of common shares for net assets in liquidation per share assumes
+    the exercise of all dilutive stock options.  At June 30, 1997, dilutive
+    options aggregated 716,765 with an average exercise price of
+    approximately $2.89.  At June 30, 1998, there were no outstanding stock
+    options.  The effect of these options in 1997 is shown below:
+
+
+                                                   June 30,     June 30,
+                                                     1998         1997
+                                                  _________    _________
+    Number of common and common equivalent
+      shares - outstanding                        5,826,800    5,827,600
+                                                  =========    =========
+
+    Net assets in liquidation                   $12,006,000   $5,497,000
+    Proceeds from the exercise of dilutive 
+      stock options                                            2,070,000
+    Estimated tax benefit of compensatory 
+      stock options                                              545,000
+                                                ___________    _________
+
+        Adjusted net assets in liquidation      $12,006,000   $8,112,000
+                                                ===========   ==========
+
+    Net assets in liquidation per share               $2.06        $1.39
+                                                      =====        =====
+
+
+                                    F-10
+
+
+                   Astrosystems, Inc. and Subsidiaries
+
+         NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (continued)
+                            (LIQUIDATION BASIS)
+
+                          June 30, 1998 and 1997
+
+
+NOTE H - CHANGES IN NET ASSETS IN LIQUIDATION 
+_____________________________________________
+
+    Changes in net assets in liquidation represent changes since adoption of
+    the Plan of Complete Liquidation and Dissolution on February 2, 1996. 
+    The changes in the estimated liquidation values of net assets over
+    liabilities are as follows:
+
+                                                   June 30,      June 30,
+                                                     1998          1997
+                                                  __________    __________
+
+    Adjustments to accounts payable               $1,061,000    $    -    
+    Proceeds from exercise of stock options        2,070,000         -     
+    Additional interest earned on cash 
+      and cash equivalents                           667,000     1,683,000
+    Purchase of common stock                           -          (768,000)
+    Change in the estimate of shut-down costs       (289,000)     (635,000)
+    Valuation of AstroPower, Inc. stock            6,448,000         -      
+    Change in the estimate of tax benefit         (3,415,000)     (216,000)
+    Change in the estimate of contingent 
+      liabilities                                   (100,000)       50,000
+    Other adjustments                                 67,000        52,000
+                                                  __________    __________
+
+          Increase in estimated liquidation
+            values of net assets over 
+            liabilities                          $6,509,000    $  166,000
+                                                 ==========    ==========
+
+
+NOTE I - SALE OF OPERATING ASSETS
+_________________________________
+
+    As of February 7, 1996, all of the Company's operating assets were sold
+    to two purchasers.  The purchase prices are subject to adjustment based
+    upon a final valuation of the transferred inventory and equipment. 
+    Pursuant to one of the purchase agreements, $1,000,000 of the purchase
+    price of $3,706,700 was being held in escrow to provide for
+    indemnification claims that may be asserted against the Company.  At June
+    30, 1998 and 1997, the amount held in escrow was reduced to approximately
+    $512,000 and $773,000, respectively.
+
+    The proceeds from the sale of assets to one purchaser is dependent upon
+    the final asset and inventory valuation.  The Company has recorded a
+    receivable aggregating approximately $594,000 based upon the Company's
+    valuation of inventory sold.  The value of certain inventory items is
+    currently being disputed; however, the Company does not believe that the
+    final agreed-upon valuation, which is currently subject to ongoing
+    arbitration, will have a material effect on the value of the net assets
+    in liquidation.
+
+                                    F-11
+
+
+
+                    Astrosystems, Inc. and Subsidiaries
+
+           NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (continued)
+                            (LIQUIDATION BASIS)
+
+                          June 30, 1998 and 1997
+
+
+NOTE J - CONTINGENCIES AND COMMITMENTS 
+______________________________________
+
+    1.  The Company leases office space in Wilmington, Delaware, and is
+        obligated for minimum annual rentals of $21,000 during the year ended
+        June 30, 1999.
+
+        The last year's lease payment has been paid in advance by the
+        Company.  This prepaid rent is included in other assets in the
+        accompanying consolidated statement of net assets at June 30, 1998
+        and 1997.
+
+        Rent expense was approximately $23,000 during the years ended June
+        30, 1998 and 1997.
+
+    2.  Employment contracts with the officers of the Company provide for
+        minimum annual total compensation of approximately $748,000.  In the
+        event of death or disability of the Company's principal officers while
+        employed, the contracts call for payments of 50% of compensation paid
+        in the preceding fiscal year for the three years following such event. 
+        In June 1996, each of the Company's officers was given three years'
+        notice, as required by the employment agreements, of the termination
+        of his employment agreement with the Company. 
+
+    3.  In accordance with the asset purchase agreements governing the asset
+        sales, certain government contracts previously awarded to the Company
+        were novated to the purchasers.  Under the standard terms of the
+        novation agreements, the Company remains jointly liable with the
+        purchasers for performance under these contracts.  In addition, a
+        number of contracts were not novated and the Company has
+        subcontracted performance under these contracts to the purchaser of
+        its defense-related assets.  Management does not believe that the
+        final results of these transactions will have a material effect on
+        the value of the net assets in liquidation.
+
+    4.  The Company is a party to various litigations that arose in the
+        ordinary course of its prior business.  On the basis of information
+        furnished by counsel and others, management believes that none of
+        these litigations will have a material effect on the value of the net
+        assets in liquidation.
+
+                                    F-12
+
+
+
+                   Astrosystems, Inc. and Subsidiaries
+
+          NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (continued)
+                             (LIQUIDATION BASIS)
+
+                           June 30, 1998 and 1997
+
+
+NOTE J (continued)
+______
+
+    5.  In 1983, the Company acquired a sixteen-year license from the
+        University of Delaware  covering a new process for the manufacture of
+        solar cells.  In connection with the acquisition of the
+        aforementioned license, the Company issued a $20,000,000 nonrecourse
+        note originally due in 1993 and bearing interest at 14% per annum.
+        The note is secured by the Company's rights under the license and is
+        to be paid prior to its due date solely on the basis of 4% of sales
+        of products developed by this process, subject to certain minimum
+        quarterly payments of $11,250 to $12,500.  An amendment to the
+        license agreement  extended the term of the license agreement to 2006
+        as well as extended the due date of the note to May 1999.  The
+        Company made quarterly payments of $50,000 and $49,000 during the
+        years ended June 30, 1998 and 1997, respectively.
+
+        The Company, for financial reporting purposes, has not recorded the
+        note and has provided for expected payments pursuant to the license
+        agreement.  No payments based on sales were required to be made
+        through June 30, 1998.  
+
+    6.  The Company has a profit-sharing plan which provides benefits upon
+        retirement, death, incapacity or separation of eligible employees. 
+        There were no profit-sharing expenses for the years ended June 30,
+        1998 and 1997, respectively.
+
+    7.  The Company maintains a Retirement Savings Plan which allows
+        participants to make contributions by salary reductions pursuant to
+        Section 401(k) of the Internal Revenue Code of 1986.  The Company is
+        obligated to make contributions (either in cash or Company stock)
+        equal to 50% of the employees' contribution.  At June 30, 1998, the
+        Company owed the Retirement Savings Plan approximately 111,500 shares
+        of its common stock for past contributions.  Such shares were
+        transferred to the Plan subsequent to June 30, 1998.  Employees vest
+        immediately in their contribution and in the Company's contribution.
+
+
+NOTE K - STOCK OPTIONS AND OTHER STOCK TRANSACTIONS
+___________________________________________________
+
+    The Company's 1991 Stock Option Plan provides for the granting of options
+    to purchase up to 1,500,000 shares of its common stock to eligible
+    employees, nonemployee directors, consultants and advisors.  The fair
+    value and pro forma effects on the Company's net assets in liquidation
+    and net assets in liquidation per share are not presented, as the fair
+    value of the options granted (determined pursuant to Statement of
+    Financial Accounting Standards No. 123, "Accounting for Stock-Based
+    Compensation") has no effect on the liquidation basis consolidated
+    financial statements.
+
+                                    F-13
+
+
+                   Astrosystems, Inc. and Subsidiaries
+
+          NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (continued)
+                             (LIQUIDATION BASIS)
+
+                            June 30, 1998 and 1997
+
+
+NOTE K (continued)
+______
+
+    A summary of stock option activity related to the Company's stock option
+    plan is as follows:
+
+                                                      Weighted 
+                              Number      Option       average    Number of
+                                 of       price       exercise      shares
+                              shares     per share      price    exercisable
+                              _______  _____________   _______   ___________
+
+    Outstanding at 
+      February 3, 1996        507,300  $2.88 - $4.00    $3.58      504,675
+                                                                   =======
+    Exercised                (467,300) $2.88 - $4.00    $3.62 
+                             ________
+
+
+    Outstanding at 
+      June 30, 1997            40,000  $2.88 - $4.00    $3.04       40,000
+                                                                    ======
+    Exercised                 (40,000) $2.88 - $4.00    $3.04 
+                              _______
+
+
+    Outstanding at 
+      June 30, 1998              -                                     -     
+                              =======                               ======
+
+
+    During the period February 3, 1996 to June 30, 1996, options for the
+    purchase of 499,998 shares were exercised, which options were granted
+    other than pursuant to the Company's stock option plan.  These options
+    had a weighted average exercise price of $3.08.
+
+    On September 10, 1996, the Company granted its two outside directors an
+    aggregate of 4,000 options to purchase shares of the Company's common
+    stock at an option price of $3.50 per share.  These options were not
+    granted pursuant to the Company's stock option plan.
+
+    At June 30, 1997, there were outstanding 676,765 nonincentive stock
+    options, which options were granted other than pursuant to the Company's
+    stock option plan.  These options had a weighted average exercise price
+    of $2.88 and were exercised in July 1997.  See Note C - Loans to
+    Officers.
+
+    In March 1996, the Company announced that its Board of Directors
+    authorized the purchase of up to 500,000 shares of its common stock,
+    under a stock repurchase program.  (This repurchase program was in
+    addition to the 500,000 shares previously authorized on October 23,
+    1993.)  The purchases may be made by the Company from time to time on the
+    open market at the Company's discretion.
+
+    There were no purchases of common stock during the years ended June 30,
+    1998 and 1997.
+
+                                    F-14
+
+
+                    Astrosystems, Inc. and Subsidiaries
+
+             NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (continued)
+                            (LIQUIDATION BASIS)
+
+                          June 30, 1998 and 1997
+
+
+NOTE L - TAXES ON INCOME
+________________________
+
+    All income tax accounts have been restated to reflect the liquidation
+    basis of accounting.  Upon any distribution of its property to its
+    shareholders, the Company will generally recognize a gain or loss as if
+    the distributed property were sold to the shareholders at its fair market
+    value.  The Company will provide shareholders and the Internal Revenue
+    Service with a statement of the amount of cash distributed to its
+    shareholders and its best estimate as to the value of any property
+    distributed to them during the year.  There can be no assurance that the
+    Internal Revenue Service will not challenge the tax characterization of
+    any such distribution, including such valuation.  As a result of such a
+    challenge, the amount of gain or loss recognized by the Company and/or
+    its shareholders might be changed.
+
+    In addition, the Company's income tax returns for certain years remain
+    subject to examination.  Accordingly, additional assessments of income
+    taxes are possible. 
+
+    The deferred tax liability is as follows:
+
+                                                   June 30,      June 30,
+                                                    1998           1997
+                                                 ___________    ___________
+
+    Deferred tax liability 
+      Difference between financial reporting  
+        and tax bases of University of 
+        Delaware note                            $12,361,000    $11,669,000
+      AstroPower, Inc. stock                       2,257,000          -     
+                                                 ___________    ___________
+                                                  14,618,000     11,669,000
+
+    Deferred tax (asset)
+      Utilization of net operating loss 
+        carry-forward                             (5,860,000)    (4,994,000)
+      Utilization of compensation deduction         (651,000)    (1,048,000)
+      Other                                          (92,000)      (227,000)
+                                                  ___________    ___________
+
+                                                  (6,603,000)    (6,269,000)
+                                                 ___________    ___________
+
+    Net deferred tax liability                   $ 8,015,000    $ 5,400,000
+                                                 ===========    ===========
+
+                                    F-15
+
+
+
+                    Astrosystems, Inc. and Subsidiaries
+
+           NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (continued)
+                             (LIQUIDATION BASIS)
+
+                            June 30, 1998 and 1997
+
+
+NOTE L (continued)
+______
+
+    Deferred taxes result from temporary differences in the recognition of
+    revenue and expense for tax and financial reporting purposes.  The
+    principal sources of these differences were net operating loss
+    carryforwards, compensation expenses and amortization and accrued
+    interest relating to the license from the University of Delaware (see
+    Note J).  In addition, during the fourth quarter of fiscal 1998, the
+    Company adjusted deferred taxes to reflect actual compensation expense
+    associated with employee stock options.
+
+    At June 30, 1998, the Company had available net operating loss
+    carryforwards for income tax reporting purposes as follows:
+
+
+                                 Net operating        Expiring in
+                                     loss             year ending
+        Period ended             carryforwards          June 30,
+        ____________             _____________        ___________
+
+        June 30, 1990            $ 1,302,000              2005
+        June 30, 1991              3,252,000              2006
+        June 30, 1993                596,000              2008
+        June 30, 1994                605,000              2009
+        June 30, 1995                525,000              2010
+        June 30, 1996              7,662,000              2011
+        June 30, 1997                240,000              2012
+        June 30, 1998              2,558,000              2013
+                                 ___________
+
+                                 $16,740,000
+                                 ===========
+
+
+
+
+
+                                    F-16
+
+
+
+Item 8.     Changes in and Disagreements with Accountants on Accounting and 
+            Financial Disclosure.
+            ________________________________________________________________
+
+            On December 18, 1996, Richard A. Eisner & Company, LLP ("Eisner")
+resigned as the independent public accountants for the Company since, as it
+indicated, it was no longer independent with respect to the Company.  Eisner
+had served as the Company's independent public accountants since 1967.
+
+            Eisner's report on the Company's financial statements as of June
+30, 1995 and 1994 and for the years then ended neither contain an adverse
+opinion or a disclaimer of opinion nor is modified as to uncertainty, audit
+scope or accounting principles.
+
+            During the period from July 1, 1995 to December 18, 1996 and the
+fiscal years ended June 30, 1995 and 1994, there were no disagreements with
+Eisner on any matter of accounting principles or practices, financial
+statement disclosure, or auditing scope or procedure, which, if not resolved
+to the satisfaction of such firm, would have caused it to make reference to
+the subject matter of the disagreement in connection with its report.
+
+            On June 17, 1997, the Company engaged Grant Thornton LLP as its
+independent public accountants with respect to the fiscal years ended June
+30, 1997 and 1996.  The engagement of Grant Thornton LLP was approved by the
+Audit Committee of the Company.
+
+
+                              PART III
+
+
+Item 9.     Directors, Executive Officers, Promoters and Control Persons; 
+            Compliance with Section 16(a) of the Securities Exchange Act.
+            _____________________________________________________________
+
+                                 Year Became       Positions held
+            Name                 a Director   Age  with Registrant   
+            ___________________  ___________  ___  _______________
+
+            Seymour Barth           1959      70   President and Director
+
+            Gilbert H. Steinberg    1964      67   Vice President, Treasurer
+                                                   and Director
+
+            Elliot J. Bergman       1964      72   Vice President, Secretary
+                                                   and Director
+
+            Walter A. Steinberg     1989      71   Director
+
+            Elliot D. Spiro         1994      69   Director
+
+            The term of each Director extends until the next annual meeting
+of the Company's stockholders and until his successor is elected and
+qualified.
+
+            Seymour Barth has served as President of the Company since 1964
+and as a Director of the Company since its inception in 1959.
+
+            Gilbert H. Steinberg has served as a Director, Vice President and
+Treasurer of the Company since 1964.
+
+            Elliot J. Bergman has served as a Director, Vice President and
+Secretary of the Company since 1964.
+
+            Walter A. Steinberg has been an independent engineering
+consultant for more than the past five years and has served as a Director of
+the Company since 1989.
+
+            Elliot D. Spiro has served as Chairman and Chief Executive
+Officer of Branch Insurance Agency, a property/casualty and financial
+services insurance agency, for more than the past five years and has served
+as a Director of the Company since 1994.
+
+            There is no family relationship among any of the Company's
+Directors and executive officers.
+
+            Section 16(a) Beneficial Ownership Reporting Compliance.
+            ________________________________________________________
+
+            To the Company's knowledge, based on a review of written
+representations that no reports were required, during the fiscal year ended
+June 30, 1998, all Section 16(a) filing requirements applicable to the
+Company's officers, Directors and 10% stockholders were complied with.
+
+
+
+Item 10.    Executive Compensation.
+            _______________________
+
+       (a)  Summary Compensation Table.
+            ___________________________
+
+                         Annual Compensation      Long-Term Compensation
+                         ___________________    __________________________
+                                                 Awards         Payouts
+                                                __________________________
+                                                  Shares
+Name and Principal                              Underlying     All Other
+     Position        Year   Salary    Bonus      Options      Compensation
+__________________   ____   ______    _____     __________    _____________
+
+Seymour Barth        1998  $310,807     0            0              0         
+President            1997  $310,807     0            0        $71,088(4)
+                     1996  $310,807     0      390,921 (1)    $ 6,262(5)
+
+
+Elliot Bergman       1998  $218,716     0            0              0         
+Vice President &     1997  $218,716     0            0        $69,545(4)
+Secretary            1996  $218,716     0      390,921 (2)    $ 6,921(5)
+
+
+Gilbert Steinberg    1998  $218,716     0            0              0        
+Vice President &     1997  $218,716     0            0        $69,340(4)
+Treasurer            1996  $218,716     0      390,921 (3)    $ 6,935(5)
+
+
+    (1)  Issued concurrently with the cancellation of options for the
+         purchase of 371,607 shares.
+
+    (2)  Issued concurrently with the cancellation of options for the
+         purchase of an equal number of shares.
+
+    (3)  Issued concurrently with the cancellation of options for the
+         purchase of 374,769 shares.
+
+    (4)  Includes 35,591 shares contributed by the Company to the accounts of 
+         each of Messrs. Barth, Bergman and G. Steinberg for Fiscal 1997
+         pursuant to the terms of its 401(k) Plan.  Also includes $66,342,
+         $64,799 and $64,594 for Messrs. Barth, Bergman and G. Steinberg,
+         respectively, in connection with the exercise of certain stock
+         options at the Company's request.
+
+    (5)  Represents 1,138, 1,254 and 1,256 shares contributed by the Company
+         to the accounts of Messrs. Barth, Bergman and G. Steinberg,
+         respectively, for Fiscal 1996 pursuant to the terms of its 401(k)
+         Plan.
+
+         The options which were cancelled for Messrs. Barth and Steinberg
+were "incentive options" which required the exercise price to be ten percent
+above market price.  These were replaced by "nonqualified" options and were,
+accordingly, repriced to market price at the time of the original grant.
+
+    (b)  Option Grants Table.
+         ____________________
+
+         Inapplicable.
+
+
+    (c)  Aggregated Option Exercises in Last Fiscal Year.
+         ________________________________________________
+
+
+Name                 Shares Acquired on Exercise           Value Realized
+                                 (#)
+__________________   ___________________________           ______________
+
+Seymour Barth                  224,255                         $504,574
+
+Elliot Bergman                 224,255                         $504,574
+
+Gilbert Steinberg              224,255                         $504,574
+
+
+         No options were held by Messrs. Barth, Bergman or G. Steinberg as of
+June 30, 1998.
+
+    (d)  Compensation of Directors.
+         __________________________
+
+         Messrs. W. Steinberg and Spiro are entitled to receive $5,000 per
+year for their services as a Director plus an additional $750 for each
+meeting of the Board attended in person and $100 per meeting attended by
+conference telephone. No other Directors receive compensation for their
+services as such. 
+
+    (e)  Employment Contracts and Termination of Employment and Change-in-
+         Control Arrangements.
+         _________________________________________________________________
+
+         Employment Agreements
+
+         In April 1994, the Company entered into Employment Agreements with
+each of Messrs. Barth, G. Steinberg and Bergman which provided for, among
+other things, the following:  (i) minimum annual compensation of $304,116 for
+Mr. Barth and $214,008 for each of Messrs. G. Steinberg and Bergman
+(effective September 5, 1994, the annual compensation payable to Messrs.
+Barth, G. Steinberg and Bergman was increased to $310,807, $218,716 and
+$218,716, respectively); (ii) a term ending upon the earliest to occur of the
+following: (a) the employee's death or incapacity; (b) "cause", as defined in
+the Employment Agreement; (c) at the election of the Company, upon not less
+than three years' prior written notice to the employee; or (d) at the
+election of the employee, upon not less than six months' prior written notice
+to the Company; and (iii) in the event the employee's employment shall
+terminate as a result of death or incapacity, the Company would be obligated
+to make annual payments to the employee or his estate or representative for a
+period of three years in an amount equal to 50% of the compensation paid or
+payable to the employee with respect to the fiscal year immediately preceding
+the fiscal year in which his employment terminated.  
+
+         In June 1996, each of Messrs. Barth, G. Steinberg and Bergman was
+given three years' notice, as required by the Employment Agreements, of the
+termination of his Employment Agreement with the Company.
+
+Item 11. Security Ownership of Certain Beneficial Owners and
+         Management.
+         ___________________________________________________
+
+         The following table sets forth, to the knowledge of the Company,
+certain information regarding the Company's outstanding Common Stock
+beneficially owned as of September 15, 1998 (i) by each person who is known
+by the Company to own beneficially or exercise voting or dispositive control
+over more than 5% of the Company's Common Stock, (ii) by each of the
+Company's Directors, and (iii) by all executive officers and Directors as a
+group:
+
+
+                                                             Approximate
+        Name and               Number of Shares             Percentage of
+        Address of               and Nature of               Outstanding
+     Beneficial Owner        Beneficial Ownership             Shares (1)
+     ____________________    ____________________           _____________
+
+     Seymour Barth.......       1,545,635 (1)(2)            26.0% (1)(2)
+     1220 Market Street
+     Suite 603
+     Wilmington, Delaware
+
+     Gilbert H. Steinberg       1,185,491 (1)               20.0% (1)
+     1220 Market Street
+     Suite 603
+     Wilmington, Delaware
+
+     Elliot J. Bergman...       1,070,598 (1)(3)            18.0% (1)(3)
+     1220 Market Street
+     Suite 603
+     Wilmington, Delaware
+
+     Morris Barth,.......         335,849 (4)                5.7% (4)
+     c/o Astrosystems, Inc.
+     1220 Market Street
+     Suite 603
+     Wilmington, Delaware
+
+     Elliot D. Spiro.....          12,100                      *
+     71 South Central Avenue
+     Valley Stream, New York
+ 
+     Walter A. Steinberg.           2,000                      *
+     111 Eddy Drive
+     Huntington Station, New York
+
+     All Directors and.....     3,458,684 (1)(2)(3)          58.3% (1)(2)(3)
+       executive officers 
+       as a group (5 persons)
+
+     *  Less than 1%
+
+(1)  Includes for each of Messrs. Barth, G. Steinberg and Bergman 178,570
+shares over which they have voting power as trustees under the Company's
+401(k) and profit-sharing plans (including 61,208, 58,817 and 57,119 shares
+allocated to the accounts of Messrs. Barth, G. Steinberg and Bergman,
+respectively).
+
+(2)  Includes 250,000 shares held in trust for the benefit of Mr. Barth's
+family, as to which trust Mr. Barth serves as co-trustee.  Excludes 110,000
+shares held in trust for the benefit of Mr. Barth's children, as to which
+shares Mr. Barth disclaims any beneficial interest.
+
+(3)  Includes 225,000 shares held in various trusts for the benefit of Mr.
+Bergman's family, as to which trusts Mr. Bergman serves as co-trustee.
+
+(4)  Includes 300,000 shares held in various trusts for the benefit of the
+descendants of Seymour Barth, as to which trusts Morris Barth serves as co-
+trustee.
+
+Item 12. Certain Relationships and Related Transactions.
+         _______________________________________________
+
+         In June 1996, Messrs. Barth, G. Steinberg and Bergman exercised
+stock options and each was loaned $912,498, payable, with interest at the
+rate of 6% per annum, on December 31, 1997 or earlier demand by the Company,
+for use in the exercise.  The exercise of these options resulted in tax
+benefits to the Company.  Each of Messrs. Barth, G. Steinberg and Bergman was
+later loaned an additional $292,515, payable, with interest at the rate of 6%
+per annum, on December 31, 1997 or earlier demand by the Company, in
+connection with the aforementioned exercise of stock options. 
+
+         In July, 1997, each of the above mentioned individuals was further
+loaned $644,733, payable, with interest at the rate of 6% per annum, on
+September 30, 1997 or earlier demand by the Company, for use in the exercise
+of additional stock options, the exercise of which resulted in additional tax
+benefits to the Company.
+
+         All of the above loans, including interest thereon, were repaid to
+the Company in full as of September 29, 1997.
+
+         In December, 1997, the above named individuals were loaned
+additional amounts in connection with tax obligations arising from the
+aforementioned exercise of stock options, as follows: $432,803 to Mr. Barth,
+$395,019 to Mr. Bergman and $358,183 to Mr. G. Steinberg, in each case
+payable, with interest at the rate of 6% per annum, on June 30, 1999 or
+earlier demand by the Company..
+
+Item 13. Exhibits, List and Reports on Form 8-K.
+         _______________________________________
+
+    (a)  Exhibits:
+ 
+         (2)    Plan of Complete Liquidation and Dissolution - incorporated
+                by reference to Exhibit A to Proxy Statement of the Company
+                dated January 12, 1996 with respect to Annual Meeting of
+                Stockholders held February 2, 1996 (File No. 0-3344).
+
+         (3)(a) Certificate of Incorporation and Certificate of Amendment
+                thereto -  incorporated by reference to Exhibit 3(a) to
+                the Company's Annual Report on Form 10-KSB for its fiscal
+                year ended June 30, 1993 (File No. 0-3344).
+
+            (b) Bylaws - incorporated by reference to Exhibit 3(b) to the
+                Company's Annual Report on Form 10-KSB for its fiscal year
+                ended June 30, 1993 (File No. 0-3344).
+
+
+        (10)(a) Lease with regard to AstroPower, Inc., Delaware premises -
+                incorporated by reference to Exhibit 10 to the Company's
+                Annual Report on Form 10-K for its fiscal year ended June 30,
+                1990 (File No. 0-3344).
+
+            (b) 1991 Stock Option Plan - incorporated by reference to Exhibit
+                A to the Company's definitive Proxy Statement dated December
+                12, 1990 (File No. 0-3344).
+
+            (c) Settlement Agreement with Internal Revenue Service -
+                incorporated by reference to Exhibit 10 to the Company's
+                Annual Report on Form 10-K for its fiscal year ended June 30,
+                1991 (File No. 0-3344).
+
+            (d) Employment Agreement dated as of April 18, 1994 between the
+                Company and Seymour Barth - incorporated by reference to
+                Exhibit 10 to theCompany's Annual Report on Form 10-KSB for
+                its fiscal year ended June 30, 1994 (File No. 0-3344).
+
+            (e) Employment Agreement dated as of April 18, 1994 between the
+                Company and Elliot Bergman - incorporated by reference to
+                Exhibit 10 to the Company's Annual Report on Form 10-KSB for
+                its fiscal year ended June 30, 1994 (File No. 0-3344).
+
+            (f) Employment Agreement dated as of April 18, 1994 between the
+                Company and Gilbert H. Steinberg - incorporated by reference
+                to Exhibit 10 to the Company's Annual Report on Form 10-KSB
+                for its fiscal year ended June 30, 1994 (File No. 0-3344).
+
+            (g) Asset Purchase Agreement dated as of January 11, 1996 by and
+                among the Company, Behlman Electronics, Inc., Orbit
+                International Corp. and Cabot Court, Inc. - incorporated by
+                reference to Exhibit B to Proxy Statement of the Company
+                dated January 12, 1996 with respect to Annual Meeting of
+                Stockholders held February 2, 1996 (File No. 0-3344).
+
+      (21)  Subsidiaries of the Company.
+
+      (27)  Financial Data Schedule
+
+(b)   Reports on Form 8-K:
+      ____________________
+
+      No report on Form 8-K was filed by the Company during the quarter ended
+      June 30, 1998.
+
+
+
+
+
+                                 SIGNATURES
+
+            In accordance with Section 13 or 15(d) of the Exchange Act, the
+Registrant caused this report to be signed on its behalf by the undersigned
+thereunto duly authorized.
+
+
+                                                ASTROSYSTEMS, INC.
+
+
+                                                 BY:   /S/
+                                                      ____________________ 
+                                                      Seymour Barth, 
+                                                      President
+
+September 28, 1998
+
+          In accordance with the Exchange Act, this report has been signed
+below by the following persons on behalf of the Registrant and in the
+capacities and on the dates indicated.
+
+                        President, Principal Executive
+ /S/                      Officer and Director            September 28, 1998
+_____________________                                      
+Seymour Barth
+
+
+                        Vice President, Secretary
+ /S/                      and Director                    September 28, 1998
+_____________________                   
+Elliot J. Bergman
+
+
+                        Vice President, Treasurer,
+                          Principal Financial and
+                          Accounting Officer and          September 28, 1998
+ /S/                              Director
+______________________
+Gilbert Steinberg
+
+
+
+ /S/                    Director                          September 28, 1998
+______________________
+Elliot D. Spiro
+
+
+
+ /S/                      Director                         September 28, 1998
+_____________________      
+Walter Steinberg 
+
+
+
+
+
+
+                                                                   EXHIBIT 21
+
+
+                                SUBSIDIARIES
+
+
+NAME                                               STATE OF INCORPORATION
+____                                               ______________________
+
+Astrosub, Inc.                                             Delaware
+
+AstroPower, Inc. (1)                                       Delaware
+
+ 
+
+
+
+
+
+(1)    Registrant owns 14.0% of outstanding common stock
+
+
+
+
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-27
+<SEQUENCE>2
+<TEXT>
+
+<TABLE> <S> <C>
+
+<ARTICLE> 5
+<MULTIPLIER> 1,000
+       
+<S>                             <C>                     <C>
+<PERIOD-TYPE>                   YEAR                   YEAR
+<FISCAL-YEAR-END>                          JUN-30-1998             JUN-30-1997
+<PERIOD-START>                             JUL-01-1997             JUL-01-1996
+<PERIOD-END>                               JUN-30-1998             JUN-30-1997
+<CASH>                                          14,459                  33,911
+<SECURITIES>                                       978                   5,978
+<RECEIVABLES>                                        0                       0
+<ALLOWANCES>                                         0                       0
+<INVENTORY>                                          0                       0
+<CURRENT-ASSETS>                                24,127                  44,774
+<PP&E>                                               0                       0
+<DEPRECIATION>                                       0                       0
+<TOTAL-ASSETS>                                  24,127                  44,774
+<CURRENT-LIABILITIES>                            4,106                  31,325
+<BONDS>                                              0                       0
+<PREFERRED-MANDATORY>                                0                       0
+<PREFERRED>                                          0                       0
+<COMMON>                                         5,827                   5,828
+<OTHER-SE>                                           0                       0
+<TOTAL-LIABILITY-AND-EQUITY>                         0                       0
+<SALES>                                              0                       0
+<TOTAL-REVENUES>                                     0                       0
+<CGS>                                                0                       0
+<TOTAL-COSTS>                                        0                       0
+<OTHER-EXPENSES>                                     0                       0
+<LOSS-PROVISION>                                     0                       0
+<INTEREST-EXPENSE>                                   0                       0
+<INCOME-PRETAX>                                      0                       0
+<INCOME-TAX>                                         0                       0
+<INCOME-CONTINUING>                                  0                       0
+<DISCONTINUED>                                       0                       0
+<EXTRAORDINARY>                                      0                       0
+<CHANGES>                                            0                       0
+<NET-INCOME>                                         0                       0
+<EPS-PRIMARY>                                        0                       0
+<EPS-DILUTED>                                        0                       0
+        
+
+</TABLE>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

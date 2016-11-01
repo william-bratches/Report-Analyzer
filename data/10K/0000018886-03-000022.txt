@@ -1,0 +1,1916 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ IfFmRQB3wNbVjRBcwfc2DOC893eWEx2BR5qWI2cU3VV1p9Likw7ogHFUeH1mWnuh
+ 7hKEgLDYBHzRvSl70d7wzg==
+
+<SEC-DOCUMENT>0000018886-03-000022.txt : 20030224
+<SEC-HEADER>0000018886-03-000022.hdr.sgml : 20030224
+<ACCEPTANCE-DATETIME>20030221175541
+ACCESSION NUMBER:		0000018886-03-000022
+CONFORMED SUBMISSION TYPE:	10KSB/A
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20020930
+FILED AS OF DATE:		20030224
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			VISTA CONTINENTAL CORP
+		CENTRAL INDEX KEY:			0000018886
+		STANDARD INDUSTRIAL CLASSIFICATION:	PATENT OWNERS & LESSORS [6794]
+		IRS NUMBER:				720510027
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0930
+
+	FILING VALUES:
+		FORM TYPE:		10KSB/A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-03303
+		FILM NUMBER:		03576632
+
+	BUSINESS ADDRESS:	
+		STREET 1:		6600 W. CHARLESTON BLVD., SUITE 118
+		STREET 2:		-
+		CITY:			LAS VEGAS
+		STATE:			NV
+		ZIP:			89146
+		BUSINESS PHONE:		702-228-2077
+
+	MAIL ADDRESS:	
+		STREET 1:		6600 W. CHARLESTON BLVD., SUITE 118
+		CITY:			LAS VEGAS
+		STATE:			NV
+		ZIP:			89146
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	CARROTONE LABORATORIES INC
+		DATE OF NAME CHANGE:	19680314
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	CARRTONE LABORATORIES INC
+		DATE OF NAME CHANGE:	19720508
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	CENTURY LABORATORIES INC
+		DATE OF NAME CHANGE:	19920703
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>10KSB/A
+<SEQUENCE>1
+<FILENAME>form10ksb093002amd2b.txt
+<TEXT>
+
+
+
+             U.S. SECURITIES AND EXCHANGE COMMISSION
+                          Washington, D.C. 20549
+
+                                Form 10-KSB
+                              Amendment No. 1
+
+
+          ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE
+                   SECURITIES EXCHANGE ACT OF 1934
+            For the fiscal year ended September 30, 2002
+
+
+
+                    VISTA CONTINENTAL CORPORATION
+
+
+                   COMMISSION FILE NO. 2-90519
+
+        A Delaware Corporation           EIN: 72-0510027
+
+                   6600 W. Charleston Blvd. # 118
+                      Las Vegas, NV 89146
+
+                    Telephone: 702-228-2077
+
+
+Securities to be registered under Section 12(g) of the Act:
+
+$ 0.001 Par Value Common Shares
+
+Indicate by check mark whether the registrant has (1) filed all
+reports required to be filed by Section 13 or 15(d) of the Securities
+Exchange Act of 1934 during the preceding 12 months (or such shorter
+period that the Registrant was required to file such reports), and (2)
+has been subject to such filing requirements for the past 90 days.
+Yes X   No.
+
+Indicate by check mark if disclosure of delinquent filers pursuant
+to Item 405 of Regulation S-K is not contained herein, and will not
+be contained, to the best of Registrant's knowledge, in definitive
+proxy or information statements incorporated by reference in Part III
+of this Form 10-K or any amendment to this Form 10-K [X]
+
+State the aggregate market value of the voting stock held by non
+affiliates of the Registrant: As of September 30, 2002 $ 25,397,474
+
+The number of shares outstanding of the Registrant's $0.0001 par
+value common stock, its only class of equity securities as of
+September 30, 2002, was 45,150,283 shares.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PART I
+
+ITEM 1 and 2. DESCRIPTION OF BUSINESS AND PROPERTIES
+
+
+Introduction
+
+Vista Continental Corporation ("Vista") is a U.S.-based gold,
+zirconium and rare earth exploration and development company
+with our principal asset being our ownership of 9 mining concessions
+in Peru through our 99% owned subsidiary Quillabamba Mining, S.A.C.
+In addition to these concessions, on July 12, 2002 we also secured
+full mining rights on an additional 10 mining concessions owned by
+our majority shareholder through a Peruvian corporation, Rio Grande
+Mining, S.A.  These rights were obtained in exchange for a 10% of
+consolidated net income royalty and the assumption of Rio Grande's
+10% net income royalty payable to a third party. These 19 claims
+form a virtually continuous claim block of approximately 65
+kilometers along the Urubamba River in central Peru.  here is
+one claim that breaks up the continuous nature of our claim block
+and we are presently engaged in negotiations to securing full mining
+rights to this claim as well.
+
+Company History
+
+A predecessor entity, Quillabamba Mining, S.A.C., was organized
+as a Peruvian corporation on July 1, 1998 (see Note 2).  The
+Norsoca Trust was created as a California Business Trust on
+July 25, 1998.  Thirty five shareholders contributed a total of
+$1,430 for 1,430,000 shares.  The proceeds were used to incorporate
+Vista Continental Development Corp., ("Vista Development"), a private
+corporation, in Nevada on September 24, 1999.  The Norsoca
+shareholders swapped their shares one for one for 1,430,000 shares
+ of Vista and Norsoca was dissolved.  The owner of Quillabamba Mining
+contributed his interest in Quillabamba for a majority ownership of
+ Vista in 1999.  Vista Development changed its name to Vista Continental
+Corporation ("Vista") on December 16, 1999.  On June 6, 2002 we
+completed a reverse merger transaction with Century Laboratories,
+Inc. ("Century"), a public company.  In this transaction all outstanding
+shares of Vista were exchanged for 39,837,355 or approximately 90.7%,
+of Century's common shares.  As a result of this transaction and the
+resulting name change we are now a publicly traded company on the NASDAQ
+Bulletin Board ("OTCBB") under the symbol VICC.
+
+Mining Concessions
+
+The 19 mining concessions which we own or control give us the
+mining rights spanning approximately 65 linear kilometers and have
+an area of approximately 9,500 hectares.  All these concessions
+are located along the Uruambamba River in Peru.  They contain
+riverbed gravel in both active and inactive floodplains and gravels
+that have been deposited on hillsides bordering the river. It is
+possible that that these gravels have the potential to contain gold,
+zirconium and rare earth minerals that may be exploitable economically.
+Our intention is to continue the exploration and development of these
+concessions to determine the amounts, if any, of these elements
+contained within these riverbed and hillside gravel deposits.
+
+
+Rental Houses
+
+
+Besides the mining concessions that we own or control the rights
+to, we also own 8 rental houses located throughout metropolitan
+Las Vegas contributed by non-control shareholders.  The company
+has been leasing these houses to generate cash flow and will continue
+to do so until it is determined to be in the best interests of the
+company to sell these properties.  These properties were mortgaged
+with short-term obligations to private investors in August 2002 to
+partially and temporarily fund the companies operations in 2002.
+The properties are owned by two 100% owned subsidiaries of Vista,
+Vista Management Holdings, LLC and Vista Management Holdings II LLC.
+
+Business Purpose
+
+We were formed to develop various mining interests in Peru that we
+acquired in 2000 and 2002.  We have spent the last 4 years
+studying the property, building a 25-acre base camp, importing
+various pieces of mining and processing equipment and raising money
+for these activities.  As of January 13, 2003, we believe we are
+at least 12 months away from seeing limited commercial production.
+
+Business Activities
+
+In January, 2002 a scoping study on the property was undertaken
+by Acres International an international mining consulting firm.
+Acres reported the results of its study to us on February 6, 2002.
+The purpose of the study was to ensure that the investigation and
+subsequent development of the property was proceeding along industry
+standards and to evaluate the project in terms of economic potential.
+The report concluded that the project warranted further development
+and that with a plus or minus 40% accuracy, the breakeven gold grade
+for a NPV return of 15% would be 335 mg/M3 (milligrams per cubic meter).
+A gold price of $270/oz. was used by Acres International to determine
+this cut off grade.
+
+On August 15, 2002, we announced signing a contract with Ruen
+Drilling Int. Inc. Sucursal Del Peru, an international drilling
+contractor, to begin the comprehensive first-stage drilling program.
+This program was started and completed in November, 2002.  This
+program was designed to test both types of gravel deposits on our
+concessions.  During this program we drilled 28 holes in total at
+varying depths, depending on when bedrock was encountered by the
+drill rig.  Samples were obtained from the drill every 1.5 meters.
+These samples were prepared by our employees for assay at our on site
+sample preparation facility and a portion of the sample was then sent
+to independent assay laboratories for analysis.  The two laboratories
+we used were CIMM Peru S.A. and ALS Chemex in Vancouver.  Gold values
+were determined via amalgamation methods.  A summary of the program
+and its results follows.
+
+Palma Real West
+
+Eight holes were drilled in this area, an active floodplain located
+5 kilometers west of the village of Palma Real.  Bedrock was
+encountered at very deep levels, over 50 meters, indicating the
+potential for much larger volumes of gravel than originally assumed.
+While assay results are still pending on some of these holes, Hole
+5 encountered a significant gold intercept at a depth of 25 meters.
+This intercept assayed at 12,000 mg/m3 (milligrams per
+cubic meter) substantially higher than the breakeven gold
+grade calculated by Acres International in their report.
+Further intercepts were encountered in this hole near the
+surface that assayed at 650 mg/m3.  This hole was at the
+western edge of the planned drill pattern and a large area
+to the west is still unevaluated at this point in time.
+There is no assurance that similar test results will be
+encountered further to the west in this area.
+
+
+Football Terrace
+
+This area is one of the hillside gravel deposit areas.
+It is located in an inactive flood plain and is located
+approximately two kilometers downstream from the camp and
+processing site facility.  Four holes were drilled in this
+area.  Bedrock proved difficult to find in this area.  The
+deepest hole was drilled to approximately 45 meters when
+it had to be abandoned due to difficulty in obtaining the
+samples from the drill.  Bedrock had not been encountered
+at this depth.  Further work in this area is planned for
+the future with one of the goals to be to define the bedrock
+depth.  At 45 meters this suggests a greater volume of gravel
+than originally assumed.  All samples from this area were sent
+out for assay and almost all of them returned gold intercept
+values.  Hole 2 had the highest gold value of approximately 580
+mg/m3.  In total, three of the holes contained gold intercepts
+above 300 mg/m3 with Hole 4 returning continuity of gold
+intercepts over a 15 meter interval. Rare Earth Oxide and zirconium
+intercepts were also encountered in the samples.  A detailed
+laboratory testing program has been initiated to determine
+the potential economic values of these materials.
+
+Palma Real East
+
+Seven holes were drilled in this area, an active floodplain
+located approximately 3 kilometers east of the village of Palma
+Real, and approximately 15 kilometers downstream from the camp
+and processing facility. Bedrock was encountered at a depth of
+approximately 52 meters indicating the potential for larger
+volumes of gravels than originally assumed.  Near surface gold
+intercepts were encountered in 5 of the seven holes.  Hole 3
+returned a gold intercept of 1,260 mg/m3 at a depth of approximately
+10 meters and Hole 4 returned a gold intercept 2,033 mg/M3 at a
+depth of approximately 4 meters.  Rare Earth Oxide and zirconium
+intercepts were also encountered, in greater concentrations than
+encountered in the Football Terrace area; however, until the detailed
+laboratory-testing program can be completed it is impossible to
+determine whether these results suggest an economically viable
+quantity of these minerals.
+
+Test Mine Area
+
+Nine holes were drilled in this area located immediately adjacent
+to the camp and processing plant facility.  Bedrock was encountered
+at a depth of 30 meters indicating the potential for greater volumes
+or gravel than originally assumed.  180 samples, representing 7 of
+the 9 holes were assayed.  Of these, 144 were found to contain gold,
+although significantly below the cut off grade of 300 mg/m3
+established by Acres International.  Due to these low gold
+values and in an effort to manage costs the remaining samples
+were not sent out for assay.  The samples that were assayed
+also showed positive results for rare earth oxides and
+zirconium, however, until the detailed laboratory testing
+program can be completed it is impossible to determine whether
+these results suggest an economically viable quantity of these
+minerals.
+
+Mapping Activities
+
+In addition to the drilling program, we concluded the
+preparation of a detailed contour map of our entire claim
+block. The preparation of this map will enable us to better
+evaluate our exploration results and identify any trends
+that may be present within our concessions.
+
+Test Mining and Process Plant Testing
+
+We test mined the area immediately adjacent to the camp
+and processing plant location.  We added two sets of Spirals
+to our processing to optimize our gold recovery and added
+a gravity 'shaking' table to the existing wash plant facility.
+These two additions will enable us to recover any free gold
+contained in the gravels and rare earth oxides and allow
+for smoother plant operations.  The low gold grades in the
+area we test mined did not yield much in the way of gold
+recovered, however, we were able to fine tune the plant
+in preparation for the next test mining activities.
+
+At the completion of our drilling and test mining programs
+we believe we will be in a position to undertake a first-stage
+feasibility study to determine the commercial viability of the
+property.  The drilling program will provide us with a good
+indication of our potential reserves, while the test-mining
+program will enable us to obtain mining and processing cost
+estimates as well as the estimates for the recoverability of
+the gold, zirconium and rare earths that we believe exist
+within the gravels located on our claims.
+
+Commercial production is currently anticipated to begin no
+earlier than the first or second quarter of fiscal 2004.
+
+
+Item 3. LEGAL PROCEEDINGS
+
+There are no pending legal proceedings to which the company
+is a party or to which any of its property is subject.
+
+
+Item 4. SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS
+
+     On April 4, 2002 the controlling shareholders of Century
+Laboratories, Inc. ("CYLI"), entered into a reorganization
+and stock purchase agreement (the "Reorganization Agreement")
+with Vista Continental Corp, a Nevada Corp.
+
+     CYLI was incorporated in Delaware on June 16, 1958.
+Its authorized capital consisted of 65,000,000 shares of
+common stock, par value $.001 and 10,000,000 shares of
+preferred stock, par value $.001. As of the date of the
+Reorganization Agreement CYLI had issued and outstanding
+4,108,982 common shares and no shares of preferred stock
+issued and outstanding. CYLI had no outstanding options,
+warrants, rights or other contractual arrangements
+relating to the issuance of any additional common or
+preferred shares.
+
+     At the closing of the reorganization the shareholders
+of VCC exchanged all of their issued and outstanding shares
+for 39,837,355 common shares of CYLI issued by CYLI for
+purposes of the transaction. These newly issued shares of
+CYLI were issued pursuant to Section 4(2) of the Securities
+Act of 1933 and related state securities law exemptions. The
+closing date for the reorganization was June 6, 2002. The
+transaction resulted in VCC becoming a wholly owned subsidiary
+of CYLI. Following the closing the total issued and outstanding
+shares of CYLI was a total of 43,946,337 common shares. No
+ preferred shares were outstanding at the closing.
+
+     Following the reorganization the shareholders of CYLI
+consented to changing the name from Century Laboratories, Inc.
+to Vista Continental Corporation. The current officers and
+directors were elected following the resignation of the
+officers and directors of CYLI as of the closing of the
+transaction. There were no other shareholder actions taken
+during the fiscal year.
+
+
+
+
+
+
+
+
+
+
+PART II
+
+Item 5. MARKET FOR REGISTRANT'S COMMON EQUITY AND RELATED
+STOCKHOLDER MATTERS
+
+Merger.
+
+ (a)   Effective June 6, 2002 pursuant to the terms of a
+Reorganization and Stock Purchase Agreement (the "Reorganization
+Agreement") dated as of April 9, 2002 we completed a reverse
+merger transaction with Century Laboratories, Inc. ("Century"),
+ a public company.  The prices quoted below for our stock prior
+to this date represent market data for Century Labs, which at
+the time was trading under the symbol "CYLI" subsequent to May 1,
+2001 and "CNLB" prior to this date.  Under this Reorganization
+Agreement Century acquired all of the outstanding shares of Vista
+Continental Corporation in exchange for 39,837,355 or
+approximately 90.7% of Century common shares.  The terms of this
+merger are more fully described in the Form 8-K filed on June 11,
+2002 and incorporate here by reference.  As a result of this
+transaction and the resulting name change we became a publicly
+traded company under the symbol VICC.  For the table below the
+quarter ended March, 31, 2002 is N/A since this pre-dates the
+reverse merger between Century and Vista and at the time Century
+was an inactive shell with no trading activity.
+
+(b)    Our company's common stock is traded over the counter and
+is not listed on any national or regional exchange or on the
+NASDAQ National Market.  We are traded on the NASDAQ Bulletin
+Board ("OTCBB") under the symbol "VICC".  The NASDAQ Bulletin
+Board provides some degree of liquidity, however, this market
+is less liquid than established stock exchanges or the NASDAQ
+National Market.
+
+The following table sets forth the range of high and low
+bid prices that have been provided to our company for each
+of the quarters for the fiscal year ended December 31, 2001
+and the 9 months ended September 30, 2002.  These prices as
+so quoted are by dealers to each other without retail mark-ups,
+mark-downs or commissions and do not represent actual transactions.
+ This information was obtained from the OTCBB report service.
+
+FISCAL YEAR ENDED DECEMBER 31, 2001
+                             Low Bid    High Bid
+                               Price    Price
+First Quarter                 0.08        0.13
+Second Quarter                0.06        0.05
+Third Quarter                 0.20        0.73
+Fourth Quarter               0.73         0.00
+
+NINE MONTHS ENDED SEPTEMBER 30, 2002
+                             Low Bid    High Bid
+                               Price    Price
+Quarter ended 03/31/02        N/A        N/A
+Quarter ended 06/30/02        0.16       7.05
+Quarter ended 09/30/02        0.65       3.92
+
+There were approximately 3,100 stockholders of record as
+of January 13, 2002.
+
+(c)    We have not paid dividends with respect to our
+common stock during the previous three fiscal years.
+Dividends are not anticipated in the foreseeable future
+as we intend to retain earnings to support our current
+operations and fund future exploration and development
+projects.
+
+
+ITEM 6. SELECTED FINANCIAL DATA
+
+  Selected financial information is provided for the past
+two fiscal years.
+
+
+                                          FY 2002          FY 2001
+
+Net Sales                                       0                 0
+Operating income (loss)               (12,281,681)         (976,216)
+Net Income (Loss)                     (12,377,525)         (999,105)
+Income (Loss)/Share                          (.31)             (.03)
+Total Assets                            2,273,835         2,227,275
+Long Term Obligations                           0                 0
+Cash Dividends/Share                            0                 0
+
+
+
+
+ITEM 7. PLAN OF OPERATION
+
+In 2002, we showed a net loss of approximately $12 million,
+or $0.31 per common share outstanding.  Our cash position as
+at September 30, 2002 was only $160,000.  Our cash outflow
+from operations for the year was approximately $3 million.
+In order to fund our planned operations throughout the next
+fiscal year we will require approximately the same amount,
+or $3 million, in cash.  Since September 30, 2002 we have only
+been able to raise approximately $315,000 in equity, the
+balance of our operations have been funded by cash contributions
+from our majority shareholder described below.  Our capital
+raising efforts are continuing on an ongoing basis.
+
+We anticipate spending approximately $1,535,000 on drilling
+and test mining programs in our second fiscal quarter of 2003.
+In addition to this we estimate that we will need about
+$1,000,000 in overhead operating cash during the next 12
+months.  A secondary 2003 drilling program could cost us
+an additional $1,000,000 over the next 12 months.  We
+currently estimate that if the results of the above-described
+programs are positive that a commercial production decision
+can be made by the end of our fourth quarter ended September
+30, 2003.  We also estimate that a capital costs required to
+bring the property up to commercial production will range
+between $30 - $50 million, although we will have to undertake
+an engineering study to validate these numbers.  We do not feel
+that such a study is advisable or even possible until the results
+of our second quarter drilling and test-mining programs are
+complete and the results can be studied.
+
+We do not presently have sufficient funds to complete any
+the programs described above.  We also will be required to
+repay the principal balance and interest on the mortgages
+we took out on our rental houses by the end of fiscal 2003.
+To retire these mortgages we will need $832,515 by the end
+of August, 2003.  We are currently analyzing whether these
+properties should be retained by the company, if it is in the
+best interests of the company to dispose of them, we will
+undertake to do that as soon as practical.  If we decide
+to retain these houses we will look at re-mortgaging them
+on more favorable terms to the company.
+
+
+Between September 30, 2002, and December 31, 2002 we have
+received $305,000 in cash contributions from our majority
+shareholder.  In order to recognize past capital contributions
+to June 30, 2002 this shareholder received restricted shares
+in November as disclosed in the Notes our Financial Statements.
+We will continue to give this individual restricted shares in
+accordance with the formula contained within these Notes on an
+ongoing basis to recognize any and all future capital contributions.
+
+Critical Accounting Policies
+
+We have the following assets which have alternative recording
+amounts available to us under generally accepted accounting
+principles.  These alternative methods and our reasons for
+using the valuations we use are as described below:
+
+a.   Property and equipment is shown at our original cost
+less accumulated depreciation using lives of 3 - 4 years.
+Most of our fixed assets are mining equipment.  Prevailing
+mining company practice is to depreciate these assets over
+a 4-year period, which is the rate we are using.  We could
+alternatively argue that these assets will last a longer
+period because they are not under heavy use currently and
+we take care of them.  If we chose an 8-year life instead
+of 4 years, our depreciation expense for 2002 would be
+$115,000 less.  We did not depreciate these assets in 2001
+because although we bought most of them then, we didn't
+begin using them much until fiscal 2002.
+
+We do not feel an impairment charge is necessary because
+this equipment is all being actively used in our exploratory
+mining operations currently being conducted.  We will add an
+impairment charge should any major piece of equipment become
+unusable.
+
+b.   Our 8 rental houses in Las Vegas, Nevada are shown at
+our original cost less accumulated depreciation using lives
+of 40 years.  These rental houses have not provided positive
+cash flow to us since inception because (a) not all of the
+houses are rented all the time, and (b) we have made repairs
+to bring them to top condition.  We do expect them to cash
+flow in the future, although maybe not enough to support a
+discounted present value at least equal to our carrying value.
+
+We do not feel an impairment charge is appropriate be
+cause our current carrying values in each case are below what
+we could obtain if we sold any house in the current real estate
+market.
+
+c.   Our 9 mining concessions are shown at cost.  Since all
+of these concessions have been acquired from our founder Alberto
+Docouto, we are showing them at his original cost.  We are not
+depreciating them because they have an indefinite life.
+
+We do not feel an impairment charge is appropriate because we
+believe our current carrying values are far below the present
+value of estimated future cash flows from these properties.
+As we continue to explore our claims, we will write off any
+claim that proves not viable to commercially develop.
+
+On February 12, 2003 we amended our certificate of incorporation
+To increase our authorized capital to 145,000,000 common shares
+of $ .001 par value and 10,000,000 preferred shares of $ .001
+par value.
+
+
+
+ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
+
+
+
+
+
+
+
+
+
+
+
+
+INDEPENDENT AUDITORS REPORT
+
+
+To the Board of Directors
+  Vista Continental Corporation
+  (A Development Stage Company)
+  Las Vegas, Nevada
+
+We have audited the accompanying consolidated balance sheet of Vista
+Continental Corporation, as of September 30, 2002 and the related
+statements of expenses, stockholders' equity, and cash flows for each
+of the two years then ended and for the period from July 1, 1998
+(Inception) through September 30, 2002.  These financial statements
+are the responsibility of Vista's management.  Our responsibility is
+to express an opinion on these financial statements based on our audits.
+
+We conducted our audits in accordance with auditing standards generally
+accepted in the United States of America.  Those standards require that
+we plan and perform the audits to obtain reasonable assurance about whether
+the financial statements are free of material misstatement.  An audit
+includes examining, on a test basis, evidence supporting the amounts
+and disclosures in the financial statements.  An audit also includes
+assessing the accounting principles used and significant estimates
+made by management, as well as evaluating the overall financial
+statement presentation.  We believe that our audits provide a
+reasonable basis for our opinion.
+
+In our opinion, the consolidated financial statements referred to above
+present fairly, in all material respects, the financial position of
+Vista Continental Corporation, as of September 30, 2002 and the results
+of its operations and its cash flows for the periods described in
+conformity with accounting principles generally accepted in the United
+States of America.
+
+As discussed in Note 10 to the financial statements, errors resulting in
+an understatement of previously reported par value of common stock,
+additional paid in capital, and deficit accumulated during the
+development stage as of September 30, 2002, was discovered by the
+management of Vista during January 2003.  Accordingly, adjustments
+have been made as of September 30, 2002, to correct the error.
+
+
+MALONE & BAILEY, PLLC
+www.malone-bailey.com
+Houston, Texas
+
+November 28, 2002,
+  except Note 9, which
+  is dated December 30, 2002
+  and Note 10, which is dated
+  February 13, 2003
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	    VISTA CONTINENTAL CORPORATION
+	    (A Development Stage Company)
+	     CONSOLIDATED BALANCE SHEET
+	      As of September 30, 2002
+
+
+			                            (Restated)
+			                           ------------
+ASSETS
+Current Assets
+  Cash			                   $    160,348
+  Prepaid expenses			              5,000
+			                         ------------
+    Total current assets			      165,348
+
+Property & equipment, net of $239,858
+         accumulated depreciation			779,984
+Rental houses in Las Vegas, Nevada
+  net of $38,772 accumulated depreciation	    1,228,728
+Mining concessions			             99,275
+Deposits			                            500
+			                         ------------
+      Total Assets			       $  2,273,835
+			                         ============
+LIABILITIES
+Current Liabilities
+  Accounts payable			      $    150,782
+  Accrued expenses			           177,063
+  Tenant security deposits			       4,995
+  Notes payable, net of $148,845
+    unamortized prepaid
+    interest and loan costs			     683,670
+			                        ------------
+Total Current Liabilities			   1,016,510
+			                        ------------
+
+Minority interest			                  11,573
+
+Commitments
+
+STOCKHOLDERS' EQUITY
+
+Common stock, $.001 par, 75,000,000 shares
+  authorized, 48,406,878 shares issued
+  and outstanding			                 48,407
+Additional paid in capital			 15,703,643
+Deficit accumulated during the
+    development stage			      (14,506,298)
+			                       ------------
+Total Stockholders' Equity			  1,245,752
+			                       ------------
+TOTAL LIABILITIES AND
+    STOCKHOLDERS' EQUITY		     $  2,273,835
+			                       ============
+
+
+
+                     VISTA CONTINENTAL CORPORATION
+	               (A Development Stage Company)
+	            CONSOLIDATED STATEMENTS OF EXPENSES
+	     For the years ended September 30, 2002 and 2001 and
+                the Period from July 1, 1998 (Inception)
+                     Through September 30, 2002
+
+
+				                                         (Restated)
+				                                          Inception
+			                 (Restated)	                  Through
+			                   2002	         2001	        2002
+			               ------------	------------    ------------
+
+Mining operating expenses	  $    682,432	$    87,605	    $    818,315
+Administrative expenses	          12,441,853	    886,148		13,329,392
+Depreciation		             237,396		2,463	 	   239,858
+			              ------------   ------------	    ------------
+
+Net loss from operations	   (13,361,681)	   (976,216)	(14,387,565)
+
+Other income and expenses
+- - rental house expenses, net of
+	rental house receipts	   (    84,536)	   ( 21,057)	 (  105,593)
+- - minority interest portion of
+	net rental house expenses	     845		  211		      1,056
+  - interest expense	         (    12,153)			      (    12,153)
+  - foreign currency loss			         (  2,043)	(     2,043)
+			              ------------   ------------	     ------------
+
+Net loss		              $(13,457,525)  $   (999,105)     $(14,506,298)
+			               ============	============	============
+Per share, basic and diluted:
+  Net loss per common share	         $(.33)	      $(.03)
+  Weighted average common shares
+	outstanding	                40,990,423	 36,263,346
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                  VISTA CONTINENTAL CORPORATION
+                  (A Development Stage Company)
+	CONSOLIDATED STATEMENT OF CHANGES IN STOCKHOLDERS' EQUITY
+	    For the Period from July 1, 1998 (Inception)
+                    Through September 30, 2002
+                           (Restated)
+
+
+
+	                                                     Deficit
+                                                          Accumulated
+			                                         During
+	                                 Common Stock	    Development
+			                  Shares	Amount	Stage	     Totals
+				        ----------   --------    ---------  ------------
+Incorporation of Vista
+  Continental Corporation	   1,430,000   $     1,430		    $  1,430
+Incorporation of Quillabamba
+  Mining, S.A.C.	              23,500,000	     979	               979
+Shares issued in exchange for
+  mining equipment on
+     October 1, 1999		  10,000,000	  40,000			40,000
+Stockholder contributions to
+       capital			                    61,538	            61,538
+Net loss						  $(    49,668)	       (    49,668)
+				         ----------   -----------	-------- ----------
+Balances, September 30, 2000	  34,930,000       103,947  (  49,668)	54,279
+
+Stock issued in exchange for:
+  Services at $.004 per
+    share in December 2000	   1,620,000	   6,480			 6,480
+  7 rental properties on
+    March 29, 2001	           114,000     1,117,611	         1,117,611
+  Cash at $10 per share on
+    May 22, 2001	                 100,000     1,000,000	     	   1,000,000
+  1 rental property on June 7, 2001	13,000	 132,660	           132,660
+  Cash at $10 per share from June
+    2001 through September 2001	33,300	 333,000	           333,000
+Stock option expense			             373,750	           373,750
+Stockholder contributions to capital		 189,788	           189,788
+Net loss						   (   999,105)	         ( 999,105)
+				        ----------     ---------	--------- ---------
+Balances, September 30, 2001	  36,810,300	3,257,236 ( 1,048,773)2,208,463
+
+Stock issued in exchange for:
+  Cash at $10 per share from
+    October 2001 to February 2002	27,055	  270,550		 	270,550
+  Cash at $.60 per share from
+    February 2002 through
+       May 2002                  2,656,595	1,593,957	          1,593,957
+  2 Mining concessions	         3,000,000	   89,500		       89,500
+  Services at $10 per share
+    in June 2002 	                 700,000	7,000,000	          7,000,000
+  Services at $1.80 per share
+    in July 2002	                 600,000	1,080,000	          1,080,000
+  Services at $1.88 & $1.82 per
+    share in September 2002	     430,000	  806,600			806,600
+  Acquisition of Century	   4,182,928
+Stock option expense		                    927,857			927,857
+Stockholder contributions to capital		  726,350			726,350
+Net loss						    (13,457,525)	        (13,457,525)
+				----------	-----------	------------	  ------------
+Balances, September 30, 2002	  48,406,878  $15,752,050 $(13,426,298) $1,245,752
+				        ==========	  	  =============   ========
+	Less:  par value			         (  48,407)
+						        -----------
+						        $15,703,643
+						        ===========
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+               VISTA CONTINENTAL CORPORATION
+	            (A Development Stage Company)
+	        CONSOLIDATED STATEMENTS OF CASH FLOWS
+	  For the years ended September 30, 2002 and 2001 and
+             the Period from July 1, 1998 (Inception)
+                  Through September 30, 2002
+
+                                                                  (Restated)
+		                                                       Inception
+	                                               (Restated)	  Through
+			                     2002	       2001	         2002
+			                     ------------	----------	------------
+CASH FLOWS FROM OPERATING ACTIVITIES
+Net loss		                   $(13,457,525)  $ (999,105)	$(14,506,298)
+Adjustments to reconcile net loss
+  to cash used by operating activities:
+    Depreciation	                        269,083	   9,548	     278,630
+    Stock and options issued
+         for services	                9,814,457	 380,230	  10,195,967
+    Income assigned to
+          minority interest	          (     845)	 (  211)	      1,056)
+	Changes in:
+    Prepaid expenses	                    5,782	( 10,525)	(     5,000)
+    Accounts payable	                  147,832	   2,440	     50,782
+    Accrued expenses	                  176,963	     100	    177,063
+    Tenant security deposits	              1,650	(  1,255)	        395
+    Note payable accretion	             12,153			     12,153
+			                   ------------    ----------	------------
+NET CASH USED BY OPERATING ACTIVITIES ( 3,030,450)	(618,778)	( 3,697,364)
+			                   ------------    ----------  ------------
+CASH FLOWS USED IN INVESTING ACTIVITIES
+  Purchase of property & equipment	  (    85,341)	(893,710)	(   979,842)
+  Acquisition of mining concessions					      (     9,775)
+  Increase in deposits			                       500)	   (    500)
+				             ------------    ----------	------------
+NET CASH USED IN INVESTING ACTIVITIES (    85,341)	(894,210)	(   990,117)
+				             ------------   ----------	------------
+
+
+CASH FLOWS FROM FINANCING ACTIVITIES
+  Proceeds from notes payable	           671,517		          671,517
+  Contributions to capital
+    by founding shareholder	           726,350	 189,788	    977,676
+  Sale of stock	                     1,864,507     1,333,000	  3,198,636
+			                  ------------    ----------   ------------
+NET CASH FLOWS FROM FINANCING
+           ACTIVITIES                  3,262,374     1,522,788	  4,847,829
+			                    ----------    ----------	-----------
+NET CHANGE IN CASH	                 146,583	   9,800	    160,348
+Cash balance, beginning	                  13,765	   3,965	          0
+			                  ------------    ----------   ------------
+Cash balance, ending	            $    160,348    $   13,765   $    160,348
+		                        ============    ==========   ============
+
+
+Noncash Transactions:
+  Purchase of mining concessions
+        with stock	           $     89,500				     89,500
+  Purchase of rent houses with stock		    $1,250,271   $  1,250,271
+  Purchase of equipment with stock					           40,000
+
+
+
+VISTA CONTINENTAL CORPORATION
+(A Development Stage Company)
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+
+NOTE 1 - SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+
+Nature of business.  A predecessor entity, Quillabamba Mining,
+S.A.C., was organized as a Peruvian corporation on July 1, 1998.
+See Note 2. The Norsoca Trust was created as a California Business
+Trust on July 25, 1998.  35 shareholders contributed a total of
+$1,430 for 1,430,000 shares.  The proceeds were used to incorporate
+Vista Continental Development Corp., ("Vista Development") in Nevada
+on September 24, 1999. The Norsoca shareholders swapped their shares
+for 1,430,000 shares of Vista and Norsoca was dissolved.  Vista
+Development changed its name to Vista Continental Corporation
+("Vista") on December 16, 1999. Quillabamba Mining, S.A.C. remains
+a 99%-owned subsidiary of Vista.  In 2001, two other 99%-owned
+subsidiaries were formed to hold 8 rent houses contributed in
+2001 to Vista by investors.  See Note 2.
+
+On June 6, 2002, Vista entered into an agreement of stock exchange
+with an inactive public company, Century Laboratories, Inc. ("Century"),
+and exchanged 100% of its shares for 39,837,355 or 90.5% of total Century
+shares after the merger.  For accounting purposes this transaction was
+treated as an acquisition of Century and a recapitalization of Vista.
+See Note 7.
+
+Vista is developing a mining concession in Peru that it acquired in
+October 2000.
+
+Restatements of 2002 were made.  See note 10 for details.
+
+Principles of consolidation. The consolidated financial
+statements include the accounts of Vista and its subsidiaries.
+All significant intercompany transactions and balances have been
+eliminated.
+
+Cash and cash equivalents.  For purposes of the statements of ]
+cash flows, Vista considers all highly liquid investments purchased
+with an original maturity of three months or less to be cash
+equivalents.
+
+Use of estimates.  In preparing financial statements, management
+makes estimates and assumptions that affect the reported amounts
+of assets and liabilities in the balance sheet and revenue and
+expenses in the income statement.  Actual results could differ from
+those estimates.
+
+Revenue recognition.  Vista has no revenues to date from its mining
+operations.  Rental house income and expenses are netted in other income.
+
+Long lived assets. Property, plant and equipment are stated at cost less
+depreciation beginning when the assets are placed in service.  Major
+renewals and improvements are capitalized; minor replacements, maintenance
+and repairs are charged to current operations.
+
+Depreciation is computed by applying the straight-line method over the
+estimated useful lives of the machinery and equipment.
+
+Impairment of Long-Lived Assets.  Vista reviews the carrying value of
+its long-lived assets annually or whenever events or changes in
+circumstances indicate that the historical cost-carrying value of an
+asset may no longer be appropriate.  Vista assesses recoverability
+of the carrying value of the asset by estimating the future net cash
+flows expected to result from the asset, including eventual disposition.
+If the future net cash flows are less than the carrying value of the
+asset, an impairment loss is recorded equal to the difference between
+the asset's carrying value and fair value.
+
+
+A summary of property and equipment as of September 30, 2002 is as follows:
+
+								   Cost	Depr. lives
+								----------	-----------
+	Mining equipment					$  976,093	   4 years
+	Office computers and equipment		    36,649	   3 years
+	Vehicles						     7,100	   3 years
+	Accumulated depreciation			  (239,858)
+								----------
+								$  779,984
+								==========
+
+Income taxes.  Vista accounts for income taxes using the asset and
+liability approach which is used to recognize deferred tax assets
+and liabilities for the expected future tax consequences of temporary
+differences between the carrying amounts and the tax bases of assets
+and liabilities.  Vista records a valuation allowance to reduce the
+deferred tax assets to the amount that is more likely than not to be
+realized.
+
+Foreign currency.  Vista's Peruvian subsidiary has the U.S. dollar
+designated as their functional currency because most of the transactions
+there are conducted in U.S. dollars.  Transactions conducted in the
+local currency are remeasured to U.S. dollars for consolidation purposes
+using current rates of exchange for monetary assets and liabilities
+and historical rates of exchange for nonmonetary assets and related
+elements of expense.  Expense elements are remeasured at average rates
+that approximate the rates in effect on the transaction dates.
+Remeasurement gains and losses are included in other income and expense.
+
+The basic net loss per common share is computed by dividing the
+net loss applicable to common stockholders by the weighted
+average number of common shares outstanding.
+
+Diluted net loss per common share is computed by dividing the
+net loss applicable to common stockholders, adjusted on an "as
+if converted" basis, by the weighted average number of common
+shares outstanding plus potential dilutive securities.  For the
+years ended September 30, 2002 and 2001, potential dilutive
+securities had an anti-dilutive effect and were not included
+in the calculation of diluted net loss per common share.
+
+Stock options.  Vista accounts for stock options issued to employees
+under the intrinsic value method.  Under this method, no compensation
+expense is recognized for stock options granted when the number of
+underlying shares is known and exercise price of the option is greater
+than or equal to the fair market value of the stock on the date of
+grant. Fair value is used for options and warrants issued to
+non-employees as compensation.
+
+
+NOTE 2 - SUBSIDIARIES
+
+In October 2000, Alberto Docouto contributed mining equipment valued at
+his original cost of $40,000 for 10,000,000 shares of Vista.
+
+Quillabamba Mining S.A.C. ("Quillabamba") was formed as a Peruvian
+corporation on July 1, 1998.  This entity controlled 7 mining leases
+in Peru.  This number increased to 9 in 2002.  In October 2000, a 1%
+shareholder returned his share to Quillabamba and Mr. Docouto, a
+98% shareholder, contributed his now 99% ownership of Quillabamba
+to Vista for 23,500,000 shares of Vista.  Because both companies
+are and have been controlled by Mr. Docouto since their inceptions,
+these financial statements are shown as having been combined since
+the inception of each. The remaining 1% of Quillabamba is owned by
+a Peruvian citizen, as required by Peruvian law.
+
+In March 2001, 7 rent houses in Las Vegas valued at $1,117,611 were
+contributed by an investor for 114,000 shares of Vista.  These houses
+were contributed by Vista to Vista Management Holdings Co. LLC
+("VMH I") in exchange for a 99% ownership interest in VMH I.
+
+In June 2001, one rent house in Las Vegas valued at $132,660 was
+contributed by an investor for 13,000 shares.  This house was
+contributed by Vista to Vista Management Holdings Co. II LLC
+("VMH II") in exchange for a 99% ownership interest in VMH II.
+
+The other 1% of each rent house LLC is controlled by Mr. Docouto
+through ownership by another entity.
+
+
+NOTE 3 - TENANT SECURITY DEPOSITS
+
+Each of the eight rental properties require a security deposit
+from the tenant.  In the acquisition of the rental properties,
+Vista assumed $4,600 of tenant security deposits.  The total as
+of September 30, 2002 was $4,995.
+
+
+NOTE 4 - NOTES PAYABLE
+
+In September 2002, Vista borrowed money using all eight of its rent
+houses as collateral.  Net proceeds to Vista totaled $671,517.  All
+principal and interest is due in September 2003.  The stated interest
+rate is 14%, with an effective interest rate of 21.7%.  Interest and
+loan costs of $160,998 were deducted at closing and are being amortized
+over the life of the loan.
+
+
+
+NOTE 5 - STOCK ISSUANCES
+
+FOR SERVICES
+
+In December 2000, Vista issued 1,620,000 shares of common stock to
+directors and employees for a fair value of $.004 per share for a total
+value of $6,480.  The stock price used is the average value of stock
+issued to the founding shareholder during the prior year.
+
+In the third quarter of 2002, Vista issued 700,000 shares of common
+stock for services valued at $10 per share or $7,000,000.  The stock
+price used is the price of stock sold to investors during this period.
+
+In the fourth quarter of 2002, Vista issued 430,000 shares of common
+stock for services valued at $1.88 and $1.82 per share or $806,600.
+The stock price used is the average market trading price during this
+period.
+
+FOR CASH
+
+In May 2001, Vista sold 100,000 shares of common stock for $10 per
+share for total proceeds of $1,000,000.  From June 2001 through September
+2001, Vista sold 33,300 shares of common stock for $10 per share for
+total proceeds of $333,000.
+
+From October 2001 to February 2002, Vista sold 27,055 shares for
+$270,550.  Vista issued 2,656,595 shares for cash advances made to
+Vista by the majority shareholder between February 2002 and May 2002.
+
+FOR MINING CONCESSIONS
+
+In fiscal year 2002, Vista issued 3,000,000 shares to the founder
+and majority shareholder for 2 new mining concessions in Peru valued
+at the shareholder's original cost of these mining concessions, or
+$89,500.
+
+FOR CENTURY ACQUISITION
+
+Vista merged with a publicly-traded inactive company, Century
+Laboratories, Inc. on June 6, 2002.  Immediately before the merger,
+Century had 4,108,982 shares outstanding.  Century issued 1 new share
+in exchange for each share outstanding of Vista's then outstanding shares,
+or 39,837,355 shares, resulting in a total merged company shares
+outstanding of 43,946,337 shares.  This merger was accounted for as a
+"reverse merger" whereby Vista is shown as acquiring Century by adding
+4,108,982 shares as outstanding to Vista's previous 39,837,355 shares.
+In addition, 73,946 shares were issued for services performed in connection
+with the merger with Century Laboratories, Inc.   Also in addition, Vista
+paid $578,075 to certain owners of Century.  This amount is included
+in administrative expenses in 2002.  Contemporaneously, 300,000 shares
+were issued to an officer of Vista as compensation for services rendered
+in connection with this acquisition.
+
+SHAREHOLDER CONTRIBUTIONS
+
+Mr. Docouto contributed $2,320,307 and $189,788 in cash and payments
+of Vista expenses in fiscal 2002 and 2001, respectively.
+
+Mr. Docouto has committed additional monies as required to finance Vista
+in fiscal 2003, which Vista has estimated to be about $3 million.
+
+STOCK OPTION EXPENSE
+
+Under the intrinsic value method, compensation expense for stock
+options issued to employees totaled $927,857 and $373,750 in fiscal
+2002 and 2001, respectively.  See Note 7.
+
+NOTE 6 - INCOME TAXES
+
+	Deferred tax assets			$ 1,444,000
+	Less: valuation allowance		 (1,444,000)
+				                  -----------
+	Net deferred taxes			$         0
+				                   ===========
+
+Vista has net operating losses of approximately $3,643,000 and
+$468,000 at September 30, 2002 and 2001, respectively, each of
+which can be carried forward 20 years.
+
+
+NOTE 7 - STOCK OPTIONS AND WARRANTS
+
+Vista's Stock Option Plan provides for the grant of up to 600,000 shares
+of non-qualified options to directors, officers and employees of Vista,
+and opportunities for directors, officers, employees and consultants
+of Vista to make purchases of stock in Vista.  The Plan's issuances
+are administered by Vista's Board of Directors, who have substantial
+discretion to determine the recipients, amounts, time, price, exercise
+terms, and restrictions, if any.
+
+Vista uses the intrinsic value method of calculating compensation expense
+to employees.  During fiscal 2001, Vista issued stock options to employees
+and directors. The difference between the cash selling price of $10 per
+share and the option exercise price of $5 per share, for 560,000 options
+was $2,800,000, which is being recognized as compensation expense for
+the issuance of these options.  $373,750 was recognized in 2001,
+$927,857 in 2002 and $642,143, $535,000, $253,750 and $67,500 will
+be recognized in 2003 - 2006, respectively.
+
+During fiscal 2002, Vista issued 350,000 options to employees and
+directors.  The exercise price of $10 per share was more than the
+selling price of Vista's stock on each grant date.  Therefore, there
+was no intrinsic value and no expense has been recorded in connection
+with these options.
+
+
+
+
+Summary information is as follows:
+		                                  No. of	    Exercise
+		                                 Options	      Price
+		                                 --------	    --------
+	Options outstanding at 9/30/2000             0
+	Options granted in fiscal 2001	   660,000	    $  5.00
+	Options forfeited in fiscal 2001	  (100,000)	       5.00
+		                                --------	   --------
+	Options outstanding at 9/30/2001	   560,000		 5.00
+	Options granted in fiscal 2002	   350,000		10.00
+		                                --------
+	Options outstanding at 9/30/2002	   910,000
+		                                ========
+
+Additional disclosures as of 9/30/2002 are:
+				                     Options   	 Options
+			 	                     at $5.00   	at $10.00
+				                    ---------		---------
+	Number of shares			          560,000		 350,000
+	Weighted average remaining life	  33 months		33 months
+
+	Currently exercisable share options	    510,000		 350,000
+
+Had compensation cost for Vista's issuances of stock options to employees
+been determined based on fair value on the grant dates for awards under
+the Plan consistent with the Black-Scholes option-pricing model suggested
+by FASB Statement 123, Vista's losses and basic and diluted loss per share
+would have been increased to the pro forma amounts indicated below:
+
+			                              2002	      2001
+	(in thousands)	                     --------	    --------
+	Net loss	- As reported	        $(12,378)	   $  (999)
+			- Pro forma	               (12,425)	      (999)
+
+	Basic and diluted loss per share
+			- As reported	         $( 0.31)	    $( 0.03)
+			- Pro forma	                ( 0.31)	     ( 0.03)
+
+Variables used in the Black-Scholes option pricing model include
+(1) 5.00% risk-free interest rate, (2) expected option life is the
+actual remaining life of the options as of year-end, (3) expected
+volatility is the actual historical price fluctuation and (4) zero
+expected dividends.
+
+
+NOTE 8 - COMMITMENTS AND CONTINGENCIES
+
+Vista's office lease expires on January 31, 2003 with a monthly rent
+of $10,800.  Vista used to have a second office in Toronto, Canada
+and that monthly rent was $2,525.  Use of and payment for that
+office was discontinued in late 2002, although Mr. Docouto still
+maintains that location for his other business interests.  Rent
+expense in fiscal 2002 and 2001 was $157,211 and $66,791 respectively.
+
+Vista has employment agreements with six senior management personnel,
+which vary from 1 to 5 years in total length.  As of November 29, 2002,
+the following are the minimum salary commitments if all of these
+personnel continue as Vista employees:
+
+  	   Year ended September 30, 2003		$  566,933
+					    2004		   358,600
+					    2005		   358,600
+       				    2006		   333,600
+				  - thereafter		   112,500
+							      ----------
+					  Total		$1,730,233
+							      ==========
+
+In connection with these employment agreements, if Bill Brooks,
+CEO beginning July 1, 2002, is terminated without cause, his full
+salary currently at $150,000 per year is payable through July 1,
+2007.  Also, Vista will owe 6 months' salary to two other senior
+personnel if they are terminated early by Vista.  The other 3
+contracts call for minimal severance pay if they are terminated
+early by Vista.
+
+Two consultants are due 250,000 shares each when the company obtains
+a listing for trading of its shares on NASDAQ.
+
+In July 2002, Vista acquired the rights to mine 12 additional Peruvian
+leases from entities controlled by Mr. Docouto in exchange for 20% of
+net mining income for 10 leases and 10% of net mining income from 2
+leases, whereby Vista would pay 20% or 10% of any resulting consolidated
+net income to Mr. Docouto from mining operations on those leases.  These
+mining rights were acquired for a perpetual life, but with a provision
+of automatic forfeiture in the event of a sudden change or loss of
+control of Vista by the current board of directors.
+
+
+NOTE 9 - SUBSEQUENT EVENTS
+
+In November 2002, Vista sold 400,000 shares of common stock and
+400,000 options to purchase Vista stock at $2 per share to two investors
+for $300,000.
+
+In November 2002, Vista issued 50,000 shares of common stock to an
+employee pursuant to his employment agreement.  The shares were
+valued at $1.38 per share or $69,000.
+
+In November 2002, Vista sold 30,000 shares of common stock to a third
+party for proceeds of $14,625.
+
+In December 2002, Vista issued 29,630 shares of common stock to
+settle a lawsuit.  The shares were valued at $1.44 per share or
+$42,668.  This amount is included in accounts payable as of September
+30, 2002.
+
+
+NOTE 10 - RESTATEMENTS PREVIOUSLY REPORTED FINANCIAL STATEMENTS
+
+In the originally prepared financials, 600,000 shares issued to
+two third parties for services in July 2002 were erroneously not
+recorded.  The value of the shares was $1,080,000.  In addition, on
+December 6, 2002, the board of directors passed a resolution to issue
+2,656,595 shares of Vista common stock to the majority shareholder
+for cash contributions made to Vista between February 2002 and May 2002.
+This transaction was recorded properly, but the number of shares issued
+was erroneously omitted.  These restated financials correct the amount
+of shares issued and outstanding as of September 30, 2002.
+
+A summary of the restatements are as follows:
+
+				        Previously	 Increase
+As of September 30, 2002:	   Stated	      (Decrease)	   Restated
+				       ------------    -----------    ------------
+Balance Sheet:
+	Cash		           $    160,348			     $    160,348
+	Prepaid expenses		      5,000				      5,000
+	Property & equipment, net   779,984		       	    779,984
+	Rental houses, net	  1,228,728		  	        1,228,728
+	Mining concessions	     99,275				     99,275
+	Deposits		              500				        500
+				     ------------			     ------------
+		Total assets     $  2,273,835		           $  2,273,835
+				     ============			     ============
+
+	Accounts payable	     $    150,782		            $   150,782
+	Accrued expenses		    177,063		 	          177,063
+	Tenant security deposits	4,995				      4,995
+	Notes payable, net	    683,670				    683,670
+	Minority interest		     11,573				     11,573
+	Common stock		     45,150		    3,257	     48,407
+	Additional paid
+          in capital           14,626,900	      1,076,743    15,703,643
+	Deficit accumulated
+          during the
+	    development stage	(13,426,298)    (1,080,000)	(14,506,298)
+				     ------------	   -----------	------------
+	    Total liabilities
+            and equity	     $  2,273,835	   $         0	$  2,273,835
+				     ============    ===========    ============
+
+For the year ended September 30, 2002:
+
+Statement of Expenses:
+	Mining operating
+         expenses	           $    682,432			      $    682,432
+	Administrative expenses	 11,361,853	   $ 1,080,000	  12,441,853
+	Depreciation		    237,396	   		           237,396
+	Other income and expenses    95,844				      95,844
+				     ------------    -----------     ------------
+	Net loss 		     $(12,377,525)   $(1,080,000)   $(13,457,525)
+				     ============	   ===========	============
+
+Net loss per common share	    $(.31)           $(.02)	       $(.33)
+Weighted average common shares
+	outstanding		      40,004,891		 985,532	   40,990,423
+
+
+
+ITEM 9. CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON
+ACCOUNTING AND FINANCIAL DISCLOSURE
+
+Not applicable.
+
+PART III
+
+ITEM 10. DIRECTORS AND EXECUTIVE OFFICERS
+<table>
+<s>                 <c>         <c>
+
+NAME                AGE       POSITION
+William Brooks      51        President and Chief Executive Officer
+Robert Taylor       39        Chief Financial Officer
+Ashak Rustom        61        Vice President, Finance, and Director
+Howard Rubinoff     45        Secretary
+Steven Hegedus      67        Director
+Richard Smythe      56        Director
+Takao Nishimura     48        Director
+Dennis Hare         70        Director
+</table>
+
+The background and experience for the Directors and Officers is
+as follows:
+
+William Brooks.  Mr. Brooks, 51, is President and Chief Executive
+Officer of the Company and has been since July, 2002.  Mr. Brooks
+received his Bachelor of Science Degree in Metallurgical Engineering
+from the Colorado School of Mines in December 1973.  He has over 29
+years of experience in the mining and mineral processing industry.
+Mr. Brooks was General Manager of the Yuba Placer Gold Company for
+4 years.  The Yuba Placer Gold Company operated a large inland dredge
+on river gravels located in Marysville, California.  The
+types of gravel encountered at Yuba are similar to those found
+on the company's mining concessions in Peru.  Mr. Brooks was also
+General Manager of the Austin Venture located near Austin Nevada.
+Mr. Brooks has extensive international experience working in Canada,
+Australia and South Africa.
+
+Robert Taylor.  Mr. Taylor, 39, is Chief Financial Officer of the
+Company and has been since September, 2002.  Mr. Taylor received his
+Bachelor of Commerce Degree from the University of Toronto in May, 1986.
+Mr. Taylor is a member of Canadian Institute of Chartered Accountants.
+Mr. Taylor also holds a Certified Public Accountant Certificate in the
+State of Illinois.  Mr. Taylor is a former Audit Manager with Ernst and
+Young.  Mr. Taylor was a Project Analyst with Lac Minerals, the
+Administration Manager and Controller for the Bullfrog Mine, operated
+first by Lac then by Barrick Gold.  Mr. Taylor was also the Manager of
+Finance and Administration for the Getchell mine operated by Getchell
+Gold Corporation.  Prior to joining Vista, Mr. Taylor held several
+positions with American Residential Services, LLC a subsidiary of
+Service Master including Regional Controller, Six Sigma Black Belt
+and General Manager (Las Vegas).
+
+
+
+Ashak Rustom.  Mr. Rustom, 61, is the Vice President, Finance and
+a Director of the Company and has been since the company was formed
+in September, 1999. Mr. Rustom has an extensive background in project
+management, contract administration, financing, cash flow projections,
+property valuations, cost control as well as forecasts, and financial
+planning.  Mr. Rustom has over 40 years experience in corporate finance
+and management of risk capital investments.
+
+Howard Rubinoff.  Mr. Rubinoff, 45, is Secretary of the Company.  Mr.
+Rubinoff is a partner at the law firm Fogler Rubinoff.  Mr. Rubinoff
+has over 15 years experience in corporate and commercial law with an
+emphasis on mergers and acquisitions and financing.  A graduate of
+Windsor Law School, Mr. Rubinoff has traveled extensively assisting
+clients in their global expansions and has been involved in the purchase
+and financing of many hydro electrical power plants.  Mr. Rubinoff's firm
+is the Canadian member of the International Lawyers network.
+
+Steven Hegedus, DDS.  Dr. Hegedus, 67 is a Director of the Company.
+Dr. Hegedus received his Doctor of Dental Surgery from the University
+of Toronto and has a thriving orthodontic practice in Welland and Niagara
+Falls, Ontario. Dr. Hegedus has an extensive background in real estate
+holdings, development and business ventures as the owner of Helubar
+Corporation, an Ontario real estate holdings corporation and as President
+of Villa Mora Corporation, an Ontario real estate development company.
+
+Richard Smythe, Ph.D.  Dr. Smythe, 56 is a Director of the Company.
+Dr. Smythe has 25 years experience working with gas emissions and
+gas study research and testing technique development.  Dr. Smythe
+received his PH.D. in Analytical Chemistry at the University of Waterloo
+(Ontario).  Dr. Smythe then did a post-doctoral fellowship at the State
+University of New York in Buffalo. Dr. Smythe has acted as adjunct research
+supervisor at Brock University in St. Catherines, Ontario.  Dr. Smythe
+has operated his own testing an analysis laboratory and continues to
+act as consulting senior scientist for Walker Industries.  Dr. Smythe
+is qualified as an expert witness throughout the court systems of the
+province of Ontario as well as the States of New York and Pennsylvania.
+Dr. Smythe has had numerous articles published in scientific journals.
+
+Takao Nishimura.  Mr. Nishimura, 48, is a Director of the
+company.  Mr. Nishimura graduated with a Bachelor's degree from Kyoto
+University of Foreign Study in 1977 and is an executive member of the
+Asian Pacific Alliance of YMCAs and an executive member of the alliance
+of YMCAs in Japan, as well as being District Governor of T's Men's Club
+of Toshin District in Japan.  Mr. Nishimura is President of Netwest USA,
+Inc. of Nevada and also President of Ebiyusa Co. of Osaka, Japan.
+
+Dennis Hare.  Mr. Hare, 70, is a Director of the Company.  Mr. Hare
+received his degree in Civil Engineering from the University of Wales
+in Cardiff (UK) and is a member of both the Professional Engineers of
+Ontario and the Institution of Civil Engineers, UK.  Mr. Hare is past
+Vice President and Director of International Operations for Acres
+International, a worldwide engineering consulting firm.  He also served
+as Acres International's board member for various joint ventures and
+consortia, responsible for executing hydro electric, irrigation and
+mining projects in Iran, India and China.  As Vice-President, Hydro
+Division for Acres International, Mr. Hare had corporate responsibility
+for business development and operations relating to all hydro electric,
+irrigation, water resource projects and agriculture activities
+overseas, including the management of major projects in Pakistan,
+Ghana, Iran, China, Laos, Cambodia, Argentina, Colombia and Canada.
+Mr. Hare was also Founding Director of Canada China Power Inc. ("CIPM").
+
+
+
+ITEM 11. EXECUTIVE COMPENSATION
+
+The following sets forth certain information regarding the annual
+and long-term compensation for services in all capacities to the company
+for the prior fiscal year ended December 31, 2001 and the nine-month
+period ended September 30, 2002 of those persons who were either (i)
+the Chief Executive Officer of the Company during the last completed
+fiscal year or (ii) one of the four most highly compensated executive
+officers of the company as of the end of the last completed fiscal year
+whose annual salary and bonuses exceeded $100,000 (collectively, the
+"Named Executive Officers").
+
+William Brooks, President and Chief Executive Officer of the Company
+received the following compensation during the nine-month period ended
+September 30, 2002.  Mr. Brooks was paid $26,923 in salary from the date
+he began working for the company to September 30, 2002.  Mr. Brooks'
+current annual salary is $150,000.  Mr. Brooks was also reimbursed for
+$13,771 of relocation expenses.
+
+Robert Taylor, Chief Financial Officer received the following
+compensation during the nine-month period ended September 30, 2002.
+Mr. Taylor was paid $7,212 in salary from the date he began working
+for the company to September 30, 2002. Mr. Taylor's current annual
+salary is $125,000.
+
+The following table sets forth certain information with respect to
+grants of stock options during the nine-month period ended September
+30, 2002 to the Named Executive Officers.
+
+
+
+OPTION GRANTS DURING SIX MONTH PERIOD ENDED SEPTEMBER 30, 2002
+
+NAME                NUMBER OF SHARES TO           PRICE PER SHARE
+                    BE ISSUED ON EXERCISED        UPON EXERCISE
+
+William Brooks      100,000                        10.00
+Robert Taylor       50,000                         10.00
+
+All options granted represent nonqualified stock options that carry a
+three-year term.  The options were issued with an exercise price that exceeded
+the selling price of Vista's stock on each grant date.
+
+
+ITEM 12. SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT
+
+     The following table sets forth the numbers of shares of common stock
+owned of record or beneficially of the officers and directors and controlling
+shareholder.
+
+Name and Address              Number of Shares           Percent
+                              Owned Beneficially         of Class
+
+Steve Hegedus                    237,500                   .5
+851 S. Rampart Blvd. # 150
+Las Vegas, NV 89128
+
+Victor Hare
+851 S. Rampart Blvd. # 150        10,000                   .02
+Las Vegas, NV 89128
+
+Ashak Rustom                      205,800                  .5
+851 S. Rampart Blvd. # 150
+Las Vegas, NV 89128
+
+Takao Nishimura                   327,500                   .7
+851 S. Rampart Blvd. # 150
+Las Vegas, NV 89128
+
+Howard Rubinoff                    25,000                   .05
+851 S. Rampart Blvd. # 150
+Las Vegas, NV 89128
+
+Alberto Docouto                 31,347,308                 69.4
+851 S. Rampart Blvd. # 150
+Las Vegas, NV 89128
+
+
+
+Officers and
+Directors as a
+group                            805,800                    1.8
+
+
+
+
+ITEM 13.  CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS
+
+As the majority of our voting common shares are beneficially owned,
+through a corporation owned by him, by one individual, Mr. Alberto
+DoCouto, and Mr. DuCouto owns various other companies, we are related
+to all companies that Mr. DoCouto owns or controls.  One company
+so-controlled by Mr. DoCouto, Minera Rio Grande, S.A. ("Rio Grande")
+is a Peruvian mining company.  Our Company and Rio Grande both occupy
+and use the camp and processing facility established in Peru.  The costs
+of running and maintaining the camp, processing plant, equipment and
+facilities are shared between our company and Rio under the terms of an
+Occupancy and Use Agreement signed between the two parties and amended
+from time to time.  Our Las Vegas Office Space is also shared with
+other companies that are owned or controlled by Mr. DoCouto.  The costs
+of these offices are similarly split according to another Occupancy and
+Use Agreement.
+
+
+See accompanying summary of accounting policies
+and notes to financial statements.
+
+
+
+PART IV
+
+
+ITEM 14. EXHIBITS, FINANCIAL STATEMENT SCHEDULES AND REPORTS
+ON FORM 8-K.
+
+
+(a)     Exhibits:
+
+
+        99.1   Certification of Chief Executive Officer pursuant
+to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of
+the Sarbanes-Oxley Act of 2002.
+
+        99.2  Certification of Chief Financial Officer pursuant
+to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of
+the Sarbanes-Oxley Act of 2002.
+
+
+(b)  Form 8-K
+
+        No reports on Form 8-K were required to be filed during
+the period covered by this report.
+
+
+
+
+
+
+
+SIGNATURES
+
+In accordance with Section 12 of the Securities Exchange
+Act of 1934, we caused this amended report on Form 10-KSB to
+be signed on its behalf by the undersigned, thereunto duly
+authorized.
+
+
+
+Vista Continental Corporation
+
+
+
+Dated:       02/20/2003
+
+
+
+    /s/    Bill Brooks
+    -------------------------------------------------------
+    By:   Bill Brooks, Chief Executive Officer and President
+
+
+
+
+CERTIFICATION
+
+
+I, Robert Taylor, certify that:
+
+
+1.  I have reviewed this amended annual report on Form 10-KSB of
+Vista Continental Corporation;
+
+2. Based on my knowledge, this quarterly report does not contain
+any untrue statement of a material fact or omit to state a material
+fact necessary to make the statements made, in light of the circumstances
+under which such statements were made, not misleading with respect to
+the period covered by this quarterly report;
+
+3. Based on my knowledge, the financial statements, and other financial
+information included in this quarterly report, fairly present in all material
+respects the financial condition, results of operations and cash flows of the
+registrant as of, and for, the periods presented in this quarterly report;
+
+4. The registrant's other certifying officer and I are responsible for
+establishing and maintaining disclosure controls and procedures (as defined in
+Exchange Act Rules 13a-14 and 15d-14) for the registrant and we have:
+
+a) designed such disclosure controls and procedures to ensure that material
+information relating to the registrant, including its consolidated subsidiaries,
+is made known to us by others within those entities, particularly during the
+period in which this quarterly report is being prepared;
+
+b) evaluated the effectiveness of the registrant's disclosure controls and
+procedures as of a date within 90 days prior to the filing date of this
+quarterly report (the "Evaluation Date"); and
+
+c) presented in this quarterly report our conclusions about the effectiveness of
+the disclosure controls and procedures based on our evaluation as of the
+Evaluation Date;
+
+5. The registrant's other certifying officer and I have disclosed, based on our
+most recent evaluation, to the registrant's auditors and the audit committee of
+registrant's board of directors (or persons performing the equivalent function):
+
+a) all significant deficiencies in the design or operation of internal controls
+which could adversely affect the registrant's ability to record, process,
+summarize and report financial data and have identified for the registrant's
+auditors any material weaknesses in internal controls; and
+
+b) any fraud, whether or not material, that involves management or other
+employees who have a significant role in the registrant's internal controls; and
+
+6. The registrant's other certifying officer and I have indicated in this
+quarterly report whether or not there were significant changes in internal
+controls or in other factors that could significantly affect internal controls
+subsequent to the date of our most recent evaluation, including any corrective
+actions with regard to significant deficiencies and material weaknesses.
+
+Date: 2/20/03
+
+  				/s/ Robert Taylor
+                       ------------------------------------------
+                       Robert Taylor
+                       Chief Financial and Chief Accounting Officer
+
+
+
+
+CERTIFICATION
+
+I, Bill Brooks, certify that:
+
+1.  I have reviewed this amended annual report on Form 10-KSB
+of Vista Continental Corporation;
+
+2. Based on my knowledge, this quarterly report does not contain any
+untrue statement of a material fact or omit to state a material fact
+necessary to make the statements made, in light of the circumstances
+under which such statements were made, not misleading with respect to
+the period covered by this quarterly report;
+
+3. Based on my knowledge, the financial statements, and other financial
+information included in this quarterly report, fairly present in all material
+respects the financial condition, results of operations and cash flows of the
+registrant as of, and for, the periods presented in this quarterly report;
+
+4. The registrant's other certifying officer and I are responsible for
+establishing and maintaining disclosure controls and procedures (as defined in
+Exchange Act Rules 13a-14 and 15d-14) for the registrant and we have:
+
+a) designed such disclosure controls and procedures to ensure that material
+information relating to the registrant, including its consolidated subsidiaries,
+is made known to us by others within those entities, particularly during the
+period in which this quarterly report is being prepared;
+
+b) evaluated the effectiveness of the registrant's disclosure controls and
+procedures as of a date within 90 days prior to the filing date of this
+quarterly report (the "Evaluation Date"); and
+
+c) presented in this quarterly report our conclusions about the effectiveness of
+the disclosure controls and procedures based on our evaluation as of the
+Evaluation Date;
+
+5. The registrant's other certifying officer and I have disclosed, based on our
+most recent evaluation, to the registrant's auditors and the audit committee of
+registrant's board of directors (or persons performing the equivalent function):
+
+a) all significant deficiencies in the design or operation of internal controls
+which could adversely affect the registrant's ability to record, process,
+summarize and report financial data and have identified for the registrant's
+auditors any material weaknesses in internal controls; and
+
+b) any fraud, whether or not material, that involves management or other
+employees who have a significant role in the registrant's internal controls; and
+
+6. The registrant's other certifying officer and I have indicated in this
+quarterly report whether or not there were significant changes in internal
+controls or in other factors that could significantly affect internal controls
+subsequent to the date of our most recent evaluation, including any corrective
+actions with regard to significant deficiencies and material weaknesses.
+
+
+
+
+Date: 2/20/03
+
+             	  /s/ Bill Brooks
+                    -----------------------------------
+                    Bill Brooks
+                    Chief Executive Officer
+
+
+
+
+
+
+
+
+
+
+
+
+                                  EXHIBIT 99.1
+
+
+     In connection with the Amended Annual  Report on Form 10-KSB
+of Vista Continental Corporation(the "Company") for the year ended
+September 30, 2002 as filed with the Securities and Exchange
+Commission (the "Report"), I, Bill Brooks, Chief Executive Officer
+of the Company, certify, pursuant to section 906 of the Sarbanes-Oxley
+Act of 2002, that:
+
+       (1)the Report fully complies with the requirements of section 13(a)
+          of the Securities Exchange Act of 1934; and
+
+       (2)the information contained in the Report fairly presents, in all
+          material respects, the financial condition and results of
+          operations of the Company.
+
+
+By:        /s/ Bill Brooks
+       --------------------------------------------
+Name:   Bill Brooks
+        Chief Executive Officer
+        February 20, 2003
+
+
+
+
+
+
+                                  EXHIBIT 99.2
+
+   In connection with the Amended Annual Report on Form 10-KSB
+of Vista Continental Corporation(the "Company") for the year ended
+September 30, 2002 as filed with the Securities and Exchange
+Commission (the "Report"), I, Robert Taylor, Chief Financial
+Officer of the Company, certify, pursuant to section 906 of the
+Sarbanes-Oxley Act of 2002, that:
+
+        (3) the Report fully complies with the requirements of section
+            13(a) of the Securities Exchange Act of 1934; and
+
+        (4) the information contained in the Report fairly presents,
+            in all material respects, the financial condition and
+            results of operations of the Company.
+
+
+
+By:      /s/ Robert Taylor
+       -------------------------------------------
+Name:   Robert Taylor
+        Chief Financial and Chief Accounting Officer
+        February 20, 2003
+
+
+
+
+
+
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

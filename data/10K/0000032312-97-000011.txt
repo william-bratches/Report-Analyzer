@@ -1,0 +1,1509 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ A2BBWATLtLpUMY3PoVBHqRp26O8Y5BKiwTeD5Jks4X0IyujhROJp6XT5iyTQY4kM
+ 4Dc6UZ/XOkFLkmBM1ktLXQ==
+
+<SEC-DOCUMENT>0000032312-97-000011.txt : 19970220
+<SEC-HEADER>0000032312-97-000011.hdr.sgml : 19970220
+ACCESSION NUMBER:		0000032312-97-000011
+CONFORMED SUBMISSION TYPE:	10KSB/A
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	19970203
+FILED AS OF DATE:		19970203
+SROS:			NASD
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			EMCEE BROADCAST PRODUCTS INC
+		CENTRAL INDEX KEY:			0000032312
+		STANDARD INDUSTRIAL CLASSIFICATION:	RADIO & TV BROADCASTING & COMMUNICATIONS EQUIPMENT [3663]
+		IRS NUMBER:				131926296
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0331
+
+	FILING VALUES:
+		FORM TYPE:		10KSB/A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-06299
+		FILM NUMBER:		97516343
+
+	BUSINESS ADDRESS:	
+		STREET 1:		P O BOX 68
+		STREET 2:		SUSQUEHANNA STREET EXTENSION WEST
+		CITY:			WHITE HAVEN
+		STATE:			PA
+		ZIP:			18661-0068
+		BUSINESS PHONE:		7174439575
+
+	MAIL ADDRESS:	
+		STREET 1:		P O BOX 68
+		STREET 2:		SUSQUEHANNA STREET EXTENSION
+		CITY:			WHITE HAVEN
+		STATE:			PA
+		ZIP:			18661
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	ELECTRONICS MISSILES & COMMUNICATIONS INC
+		DATE OF NAME CHANGE:	19920703
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>10KSB/A
+<SEQUENCE>1
+<TEXT>
+
+                     U.S. SECURITIES AND EXCHANGE COMMISSION
+                     WASHINGTON, D.C.  20549
+
+
+                         FORM 10-KSB/A (NO. 2)
+                         ---------------------    
+
+(Mark One)
+
+     X             ANNUAL REPORT UNDER SECTION 13 OR 15(d) OF THE
+    ---            SECURITIES EXCHANGE ACT OF 1934               
+
+                         For the fiscal year ended March 31, 1996
+                                                  --------------
+                   TRANSITION REPORT UNDER SECTION 13 OR 15(d) OF
+                   THE SECURITIES EXCHANGE ACT OF 1934           
+
+                         For the transition period from _________
+                         _________________ to ___________________
+
+                  Commission file number 1-6299
+
+                       EMCEE BROADCAST PRODUCTS, INC.
+              ----------------------------------------------               
+          (Name of small business issuer in its charter)
+
+                 DELAWARE                       13-1926296           
+      -------------------------------------------------------------------
+      (State or other jurisdiction of   (I.R.S. Employer Identification
+       incorporation or organization)    Number)
+
+ SUSQUEHANNA STREET EXTENSION,WEST, PO BOX 68, WHITE HAVEN, 18661-0068        
+- ------------------------------------------------------------------------
+(Address of principal executive                              (Zip Code)
+ offices)
+
+Issuer's telephone number: (717) 443-9575
+                       ---------------  
+                                 
+Securities registered under Section 12(b) of the Exchange Act:
+
+Title of each class:                 Name of each exchange on which
+                                               registered:
+
+        Common                     NASDAQ National Market             
+- ----------------------------------------------------------------------
+
+Securities registered under Section 12(g) of the Exchange Act:
+
+                               None                               
+                         (TITLE OF CLASS)
+
+
+<PAGE>
+Check whether the issuer (1) filed all reports required to be filed by Section
+13 or 15(d) of the Exchange Act during the past twelve (12) months (or for
+such shorter period that the registrant was required to file such reports),
+and (2) has been subject to such filing requirements for the past ninety (90)
+days.
+
+                                        Yes   X    No      
+
+
+Check if there is no disclosure of delinquent filers in response to Item 405
+of Regulation S-B is met contained in this form, and no disclosure will be
+contained, to the best of registrant's knowledge, in definitive proxy or
+information statements incorporated by reference in Part III of this Form
+10-KSB or any amendment to this Form 10-KSB. 
+
+
+State issuer's revenues for its most recent fiscal year. $14,292,562.
+
+
+The aggregate market value of the voting stock held by non-affiliates of the
+Registrant is $27,396,719, computed by reference to the closing bid price of
+the stock at June 26, 1996. This computation is based on the number of issued
+and outstanding shares held by persons other than directors and officers of
+the Registrant.
+
+
+State the number of shares outstanding of each of the issuer's classes of
+common equity, as of the latest practicable date:
+
+                CLASS                  OUTSTANDING AT JUNE 27, 1996
+Common stock, par value $.1-2/3 per sh.       4,152,757
+
+
+               DOCUMENTS INCORPORATED BY REFERENCE
+     
+
+          Items 9, 10, 11 and 12 in Part III of this report are incorporated
+by reference from the Proxy Statement expected to be filed within one hundred
+twenty (120) days of the close of the Registrant's fiscal year ended March 31,
+1996.
+
+
+Transitional Small Business Disclosure Format (Check One) 
+
+                                        Yes      ;  No   X  .<PAGE>
+<PAGE>
+ITEM 13.  EXHIBITS AND REPORTS ON FORM 8-K
+          (a) The following constitutes an Exhibit Index of the applicable
+Exhibits to this report:
+
+          DESCRIPTION OF EXHIBIT                            PAGE NUMBER
+
+Articles of Incorporation and Bylaws (3)    
+
+     Certificate of Incorporation. . . . . . . . . . . . .        36  
+     Bylaws. . . . . . . . . . . . . . . . . . . . . . . .       ( 1)
+ 
+Material Contracts (10)   
+
+     Purchase and Sale Agreement . . . . . . . . . . . . .       ( 1)
+     1988 Stock Option Plan. . . . . . . . . . . . . . . .       ( 1)
+     Officers Incentive Compensation Plan  . . . . . . . .        61
+     Agreement (Change in Control Agreements for 
+      certain Executive Officers). . . . . . . . . . . . .        63
+     Non-Negotiable, Non-Transferable Stock Warrant. . . .        79
+     Purchase Order Master Contract. . . . . . . . . . . .        92 (2)
+
+Subsidiaries (21). . . . . . . . . . . . . . . . . . . . .       ( 3)
+
+Financial Data Schedule (27) . . . . . . . . . . . . . . .       ( 4)
+                                                                       
+
+     (1) Incorporated by reference from the Form 10-KSB filed by the
+Registrant with the U.S. Securities and Exchange Commission for fiscal year
+ended 1993.
+
+     (2) Confidential portions have been omitted and filed separately with the
+SEC. 
+
+     (3) Incorporated by reference from the Form 10-KSB filed with the U.S.
+Securities and Exchange Commission for fiscal year ended 1995.
+
+     (4) This Exhibit was filed electronically, but is not included in the
+paper copy of this report.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<PAGE>
+
+     In accordance with Rule 12b--15 of the Exchange Act, the Registrant
+caused this report to be signed on its behalf by the undersigned, thereunto
+duly authorized.
+
+
+
+                              EMCEE BROADCAST PRODUCTS, INC.
+
+
+                              /s/ JAMES L. DESTEFANO 
+                              ---------------------------------           
+                              James L. DeStefano, President/CEO
+                              Date: February 3, 1997
+
+
+                              /s/ ALLAN J. HARDING  
+                              ---------------------------------            
+                              Allan J. Harding, Vice President-
+                                                  Finance
+                              Date: February 3, 1997
+
+<PAGE>
+
+
+
+
+
+<PAGE>
+
+                    PURCHASE ORDER MASTER CONTRACT
+
+
+                        DATED FEBRUARY 7, 1996
+
+
+                                BETWEEN
+
+
+              GENERAL INSTRUMENT CORPORATION OF DELAWARE
+
+                                  AND
+
+                    EMCEE BROADCAST PRODUCTS, INC.
+
+            [THE BLANK SPACES HEREIN REPRESENT OMITTED PORTIONS 
+               WHICH HAVE BEEN FILED SEPPARATELY WITH THE SEC]
+
+
+<PAGE>
+<PAGE>
+                           TABLE OF CONTENTS
+
+I. SCHEDULES                                                1 
+
+II.      SCOPE OF CONTRACT                                  2
+
+III.     PURCHASE ORDERS, PERFORMANCE OF ENGINEERING 
+         SERVICES AND PRICES                                2
+
+IV.      SHIPMENT OF EQUIPMENT AND TESTING PROCEDURES       4
+
+V.      TITLE AND RISK OF LOSS                             5
+
+VI.      PAYMENT                                            6
+
+VII.     OPERATING MANUALS, SCHEMATICS AND VIDEO TAPES      6
+
+VIII.    WARRANTY, QUALITY ASSURANCE AND INSPECTION         7
+
+IX.      NON-WARRANTY REPAIRS AND SPARES SUPPORT FOR 
+         SARA VISION                                        8
+
+X.       MUTUAL REPRESENTATIONS                             9
+
+XI.      CONFIDENTIALITY AND PROPRIETARY RIGHTS             9
+
+XII.     INDEMNIFICATION                                    10
+
+XIII.    LIMITATION OF LIABILITY                            12
+
+XIV.     FORCE MAJEURE                                      12
+
+XV.      TERMINATION                                        15
+
+XVI.     ALTERATIONS, ADDITIONS AND OTHER VARIATIONS        16
+
+XVII.    NONWAIVER OF RIGHTS                                17
+
+XVIII.   NOTICES                                            17
+
+XIX.     APPLICABLE LAW AND RESOLUTION OF DISPUTES          18
+
+XX.      BINDING EFFECT                                     19
+
+XXI.     MEDIA RELEASES                                     19
+
+XXII.    AUDITS AND INSPECTIONS                             19
+
+                                   
+XXIII.   CERTAIN REFERENCES; LANGUAGE                       20
+
+XXIV.    INDEPENDENT CONTRACTOR                             20
+
+<PAGE>
+
+XXV.     ENTIRE AGREEMENT                                  20
+
+XXVI.    SURVIVAL                                          20
+
+XXVII.   FURTHER ASSURANCES                                20
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                  
+
+
+ <PAGE>
+                    PURCHASE ORDER MASTER CONTRACT
+
+THIS Contract is made and effective on this 7th day of February 1996 (the
+"Effective Date"), by and between GENERAL INSTRUMENT CORPORATION OF DELAWARE,
+a Delaware corporation ("Buyer") and EMCEE BROADCAST PRODUCTS, INC., a
+Delaware corporation ("Seller"). 
+
+                             WITNESSETH: 
+
+  WHEREAS, Buyer is an internationally known manufacturer and supplier of
+satellite and wireless cable television equipment; 
+
+  WHEREAS, Buyer has entered into an Agreement with Sara Vision Ltd., a Saudi
+Arabian limited liability company ("Sara Vision"), to design and supply to
+Sara Vision satellite and cable television equipment so as to enable Sara
+Vision to offer a wireless multipoint, multichannel distribution television
+system (the "WATS System") to its customers within The Kingdom of Saudi Arabia
+("Saudi Arabia"); 
+
+  WHEREAS, Seller is a manufacturer and supplier of the equipment (the
+"Equipment") and/or engineering and other services (the "Services") set forth
+in Schedule A, which Buyer wishes to include in its design, qualification,
+assembly and integration of the WATS System; 
+
+  WHEREAS, to accomplish the foregoing objective Buyer desires to have Seller
+design and supply the Equipment and the Services for use in the WATS System; 
+
+  NOW, THEREFORE, in consideration of the mutual covenants and agreements
+contained in this Contract, the parties hereto hereby agree as follows: 
+
+I.      SCHEDULES
+
+This contract between the parties ("Contract") consists of the terms and
+conditions set forth herein and the following schedules incorporated by
+reference: 
+
+A. Schedule A          Equipment Specifications, Engineering and Other         
+                       Services Description
+
+B. Schedule B          Form of Purchase Order
+
+C. Schedule C          Contract Price and Payment Terms
+
+D. Schedule D          Cancellation Charges and Late Delivery Penalties
+
+E. Schedule E          Testing and Acceptance Procedures
+
+F. Schedule F          In-Country Spares
+
+
+
+<PAGE>
+
+II.     SCOPE OF CONTRACT 
+
+A.      Pursuant to this Contract Seller shall (i) provide to Buyer the
+Services as set forth in Schedule A to this Contract, to be performed outside
+of Saudi Arabia, with respect to the design, qualification, special assembly
+and integration of the Equipment in the WATS System, and (ii) sell to Buyer
+the Equipment for use in the WATS System in accordance with the Equipment
+Specifications set forth in Schedule A to this Contract; and Buyer shall pay
+for the Equipment and the Services in accordance with the Contract Price set
+forth in Schedule C to this Contract. 
+
+B.      The Equipment to be supplied hereunder shall be manufactured or
+supplied by Seller. Seller shall disclose to Buyer in writing within five (5)
+days of the Effective Date the model number for each model of Equipment to be
+supplied under this Contract other than such Equipment which has no model
+number. Upon the revision of any model number identified to Buyer hereunder,
+Seller shall promptly identify such revised model number to Buyer. 
+
+C.      In no event shall Seller, without Buyer's prior written consent, make
+any changes to the Equipment or the Equipment manufacturing process which
+affect the Equipment's design, specification, operation, external appearance,
+performance or quality, or otherwise deviates from the Equipment
+Specifications. Seller shall notify Buyer in writing of any proposed changes
+to the Equipment as well as any proposed material changes to the Equipment
+manufacturing process at least ninety (90) days prior to any implementation
+thereof, and shall provide to Buyer such information as may be reasonably
+required by Buyer to analyze the expected impact of such changes. 
+
+D.      All work to be performed by Seller in Saudi Arabia shall be governed
+by a separate services agreement between Seller and Buyer's affiliate, General
+Instrument (U.K.) Ltd. 
+
+III.    PURCHASE ORDERS, PERFORMANCE OF ENGINEERING SERVICES AND PRICES 
+A.      The term "Purchase Order" as used herein shall mean Buyer's written
+purchase order in the form set forth in Schedule B to this Contract, which is
+submitted to Seller for the purchase of Equipment and Services hereunder.
+Except as otherwise agreed by Buyer and Seller, all Purchase Orders for
+Equipment shall be issued at least _______ (_____) days prior to the required
+delivery date. Such Purchase Orders shall reference this Contract, identify
+the Equipment and Services, pricing, quantity, shipping and destination
+information, the required delivery date and other pertinent information for
+Seller to supply the Equipment and Services hereunder. Such Purchase Orders
+are incorporated herein by reference. If, however, any term of an issued
+Purchase Order conflicts with any term of this Contract, this Contract shall
+take precedence. Acceptance of such Purchase Orders by Seller may be made by
+signing and returning the attached acknowledgment copy of the Purchase Orders,
+by other express acceptance, or by attempted part or full performance. If
+Seller uses its own form to accept a Purchase Order, it is understood that
+such use is for Seller's convenience only and that Buyer hereby
+refuses to assent to any terms or conditions contained therein, whether
+
+
+<PAGE>
+conflicting with or in addition to those contained herein, and such
+conflicting and/or additional terms and conditions shall be of no force or
+effect. Acceptance by Seller of such Purchase Orders are limited to 
+the terms and conditions of this Contract, and Buyer hereby rejects any other
+terms, conditions and provisions proposed by Seller. Seller shall acknowledge
+each Purchase Order in writing within _____ (____) calendar days of receipt.
+Purchase Orders may be submitted hereunder by Buyer and its affiliated
+companies as from time to time are identified in writing by Buyer to the
+Seller. Unless agreed in writing by Buyer, Seller shall not purchase
+materials, or make commitments or production arrangements, in excess of the
+amount, or in advance of the time reasonably necessary to meet the required
+delivery date as set forth onthe Purchase Orders submitted hereunder. 
+
+B.      Seller shall, in a competent and professional manner, promptly perform
+the Services set out in Schedule A and prepare and deliver to the Buyer the
+reports and documents set forth therein 
+
+C.      Beginning with the first month following the effective date of this
+Contract, Buyer shall provide to Seller on or before the first day of each
+calendar month a forecast of expected Equipment and Services for the next six
+months. Such forecasts for Equipment and Services are for planning purposes
+only and shall not be considered a binding commitment absent a Purchase Order
+issued in accordance with this Contract. 
+
+D.      The Equipment and Services shall be sold hereunder at the prices set
+forth on Schedule C, or such other prices as Seller and Buyer may agree in
+writing from time to time during the term of this
+Contract._____________________________________________________________________
+______________________________________________________________________________
+______________________________________________________________________________
+______________________________________________________________________________
+______________________________________________________________________________
+______________________________________________________________________________
+
+E.      Buyer may at any time and from time to time, without further cost or
+liability, by written notice to Seller at least _______ (______) business days
+prior to a required delivery date, reschedule any Purchase Order, in whole or
+in part, to a later rescheduled delivery date. 
+
+F. _______________________________________________________________________
+In the event of a cancellation of any Purchase Order or portion thereof by
+Buyer for reason other than a "Force Majeure" event described in paragraph XIV
+or Seller's fault hereunder, Seller may, at its election, require Buyer to pay
+a cancellation charge for the Equipment and Services canceled by Buyer. Such
+cancellation charge, if any, shall be determined in accordance with Schedule
+D.
+__________________________________________________________ Seller shall not be
+paid for any work done in respect of the canceled Purchase Order after receipt
+of the notice of cancellation nor for any costs or expenses of Seller or
+Seller's suppliers or subcontractors which Seller could reasonably have
+avoided. 
+
+
+
+<PAGE>
+In no event shall any such cancellation charge exceed the purchase price of
+the Equipment and Services canceled, nor shall any such charge apply to goods
+or materials which are reasonably returnable by Seller or otherwise useable or
+can be sold in the normal course of Seller's business. 
+
+Within thirty (30) days after notice of cancellation by Buyer, Seller shall
+present Buyer with a cancellation charge calculation accompanied by a
+certificate signed by the Controller or other financial officer of Seller
+stating that such charge properly includes all costs connected with or
+incurred as a result of such cancellation. Buyer shall pay Seller for all
+cancellation charges determined in accordance with Schedule D hereof within
+thirty (30) days of Buyer's receipt of Seller's invoice therefor, together
+with the certificate signed by the Controller or other financial officer of
+Seller. Subject to Paragraph XI, title to all items of work subject to the
+canceled Purchase Order, which would have been incorporated into a deliverable
+item under this Contract, shall, upon payment by Buyer in full of the
+cancellation charges due hereunder, vest in Buyer, and shall be tendered to a
+carrier of Buyer's selection. 
+
+IV.     SHIPMENT OF EQUIPMENT AND TESTING PROCEDURES
+
+A.      Seller shall mark, pack, package, crate, transport, ship and store all
+Equipment to ensure (i) delivery thereof to the identified ultimate
+destination in safe condition, (ii) compliance with all requirements of the
+carrier and destination authorities and (iii) compliance with any special
+instructions of Buyer contained in any Purchase Order. Buyer shall designate
+the carrier for shipment. All shipments shall be made__________________
+________________________, and the prices identified herein shall include all
+fees, costs and charges to be paid for the Equipment, including without
+limitation, all applicable taxes and all applicable charges for packing,
+storing and loading. 
+
+B.      All Equipment shall be manufactured and delivered to Buyer in
+accordance with the required delivery dates, time being of the essence. Upon
+availability for shipment from Seller's location of the Equipment purchased
+hereunder, Seller shall promptly notify the carrier designated by Buyer and
+tender such equipment to the carrier for shipment. Seller shall immediately
+notify Buyer by telephone, with written confirmation, of the occurrence of any
+delay and the period of such delay in the scheduled and or actual delivery of
+any Purchase Order hereunder or any portion thereof with respect to the
+required delivery date._______________________________________________________
+______________________________________________________________________________
+______________________________________________________________________________
+______________________________________________________________________________
+______________________________________________________________________________
+______________________________________________________________________________ 
+
+Notwithstanding anything to the contrary in this Contract, Seller acknowledges
+that in the event of its failure to deliver Equipment or to perform associated
+Services by the date or within the time period specified in a Purchase Order,
+
+
+
+<PAGE>
+Buyer may incur losses or damages that will be difficult or impossible to
+measure or otherwise ascertain. If the delay is not due to fault of Buyer or
+the occurrence of a "Force Majeure" event described in Paragraph XIV of this
+Contract, Buyer may, at its option, assess Seller the late delivery penalties
+listed in Schedule D to this Contract. If at any time during the term of this
+Contract the Equipment or Services designated on any Purchase Order is to be
+delayed or has been delayed for a period of more than _____ (____) days from
+the required delivery date, and such delays are not due to fault of Buyer or
+the occurrence  of  a  "Force Majeure" event  described in Paragraph XIV of
+this Contract, then such delays will constitute a default in Seller's
+performance of its material obligations under this Contract. 
+
+C.      Seller shall in a timely manner duly prepare and provide to the
+selected carrier and send by reliable courier to Buyer, the following for each
+shipment of the Equipment: 
+
+   1.   such documentation as may be required in order to enable the Equipment
+        to be exported to and landed in Saudi Arabia in accordance with Saudi
+        Arabian requirements.
+
+   2.   two original detailed packing lists for such equipment, each stating
+        the model number (where available), quantity and description of
+        tendered equipment to which such amount relates.
+
+D.      Seller shall perform the performance testing of the equipment in
+accordance with the testing and acceptance procedures as are set forth in
+Schedule E. If such tests are not successfully completed to Buyer's reasonable
+satisfaction and reasonable approval, Seller shall evaluate the results and
+subject to the terms hereof, promptly make, or cause to be made, such
+corrections and/or adjustments to the operation, configuration, or design of
+the Equipment as will result in a Successful Completion (as such term is
+defined below) of such performance testing. 
+
+E.      Buyer shall be given at least ____ (___) business days notice prior to
+the commencement of such testing and given the opportunity to observe such
+testing. In the event Buyer determines not to observe the testing performed at
+Seller's facility, the test results shall be deemed to have been approved by
+Buyer upon Seller's certification that the tests have resulted in a Successful
+Completion. Seller acknowledges and agrees that representatives of Sara Vision
+may attend with Buyer any testing sessions as to which Buyer may attend
+hereunder. The term "Successful Completion" as used herein shall mean the
+completion of the applicable tests to the reasonable satisfaction of Buyer in
+accordance with the procedures contemplated in Schedule E hereto, with test
+results equal to or better than the test results set forth therein as being
+acceptable. Seller shallrecord in writing such test results and certify in
+writing each Successful Completion thereof in the form of, and in accordance
+with the procedures set forth in, Schedule E (a "Certificate of Successful
+Test Completion"). 
+
+
+
+
+
+
+<PAGE>
+
+V.      TITLE AND RISK OF LOSS
+
+Unless otherwise set forth on a Purchase Order, title and risk of loss for all
+items purchased hereunder shall pass to Buyer when
+Equipment________________________________________________________. Without
+limiting the foregoing, prior to Seller's shipment of the Equipment in the
+manner required hereunder, the Equipment shall be held by or on Seller's
+behalf without risk or expense to Buyer, and any payments received by Seller
+for the purchase of such items shall be held by Seller pending such title
+transfer. 
+
+VI.     PAYMENT
+
+A. In consideration for the sale of the Equipment and the performance of the
+Services (including without limitation the due performance of the applicable
+testing described in Paragraph IV.E above) in accordance with the provisions
+of this Contract, Buyer shall promptly pay to Seller the total amount set
+forth in Schedule C, in U.S. Dollars (the "Contract Price"). 
+
+B.      Such payment of the Contract Price shall be made in accordance with
+the payment schedule set forth on Schedule C. 
+
+C.      Buyer may deduct from any payment due to Seller or set-off against any
+claim by Seller any amount which is due to Buyer by Seller for any reason,
+including, among other reasons, any charges caused by deviations from the
+terms, conditions and provisions of a Purchase Order. 
+
+VII.    OPERATING MANUALS, SCHEMATICS AND VIDEO TAPES
+
+A.      Concurrently with the delivery of the Equipment to which it relates,
+Seller shall provide Buyer with five (5) copies of any associated English
+language (i) operating/customer maintenance manuals for each unit of the
+Equipment and/or (ii)schematics or blueprints for each unit of the Equipment. 
+
+B.      Seller shall, at Seller's expense, assist Buyer in the preparation of
+English language video tapes with respect to the operation, troubleshooting
+and service of the Equipment. Alternatively, if Seller has already prepared
+video tapes relating to the operation, troubleshooting and service of the
+Equipment, then, at Buyer's sole option after review of the content of such
+video tapes, Seller may provide Buyer with five (5) copies of one or more
+English language video tapes for each type of Equipment sold hereunder. 
+
+VIII.   WARRANTY, QUALITY ASSURANCE AND INSPECTION
+
+A.      Seller warrants that each item of Equipment being sold hereunder
+shall, for the Warranty Period set forth below, (i) conform in all material
+respects to the Equipment Specifications set forth on Schedule A, be free from
+defects in design, materials and workmanship, and, at the time of shipment,
+consist of new and unused components and parts, (ii) with respect to Services
+to be performed hereunder, be diligently performed in a prompt, competent and
+professional manner, (iii) be free of any adverse third party claim against
+title and comply with all applicable governmental laws and regulations 
+<PAGE>
+governing the manufacture, sale and export of the Equipment under this
+Contract, (iv) notinfringe the proprietary and contract rights of others which
+in any way restrict or prevent Buyer's or Sara Vision's use of such Equipment,
+and (v) be merchantable and otherwise fit for the particular purposes and uses
+for which they are purchased to the extent that such purposes and uses are
+generally known to Seller. The Warranty Period for the Equipment covered by
+this paragraph shall commence upon Seller's shipment of such Equipment to
+Buyer and continue thereafter until the earlier of _______________________
+__________________________________________________________________________
+Such warranty shall be assignable by Buyer to Sara Vision. 
+
+B.      Seller shall upon notice or discovery of any Equipment which fails to
+comply with Seller's warranty hereunder ("Equipment Failure") promptly correct
+the cause of the Equipment Failure, and, at Seller's option, promptly repair
+to first quality with new and unused parts or promptly replace the Equipment
+that is affected by the Equipment Failure. Unless otherwise indicated,
+"promptly" as used in this paragraph shall mean by the earliest time that is
+reasonably possible through the use of best efforts and due diligence, but in
+no event more than _________ (____) days. Buyer shall be responsible for
+returning the affected Equipment to Seller. Seller shall be responsible for
+all other expenses resulting from an Equipment Failure that are incurred in
+storing, packing, repairing, replacing and re-shipping Equipment to Buyer. 
+
+1. If the cause of an Equipment Failure is not corrected and/or the affected
+Equipment is not repaired or replaced within such time period, Buyer may, at
+its option and by written notice to Seller at any time and from time to time
+thereafter during the continuance of Seller's failure to correct the Equipment
+Failure: (i) without liability or charge, cancel any Purchase Order or
+affected portion thereof and return for a full refund any Equipment to which
+the Equipment Failure relates, or (ii) make such corrections, repairs and
+replacements as are required with respect to the Equipment Failure and charge
+Seller for the costs incurred in so doing. All such monies as may become
+payable to Buyer hereunder shall be promptly paid by Seller, or at Buyer's
+option offset against any monies due to Seller.
+
+2. If there is an Equipment Failure which occurs ________ times as a result of
+the failure of a particular component of Equipment containing the same serial
+number, said component shall be considered as unreliable, and Seller shall be
+required to promptly replace such affected component with a new and unused
+component of the same model number. 
+
+3. If there is an Equipment Failure which occurs as a result of the failure of
+a particular electronic component in a particular component of Equipment
+containing the same model number either _______ times or in _______ of the
+components of Equipment delivered under this Contract, whichever is greater,
+then the Equipment Failure will constitute an "____________ Failure." In the
+event of an ________ Failure, Seller must promptly respond to (x) investigate
+the cause of such ________ Failure, (y) correct the cause of such ________
+Failure in each item of Equipment delivered under this Contract, and (z)
+correct the cause of such ________ Failure in each item of Equipment in the
+process of being manufactured 
+
+
+
+<PAGE> 
+under the Contract. In the case of an ________ Failure, Buyer shall be
+entitled to investigate the cause of such ________ Failure along with Seller,
+and Seller shall share with Buyer all information relating to the cause and/or
+correction of such ________ Failure.
+
+4. If there is an Equipment Failure or an ________ Failure which is not or
+cannot be promptly remedied by Seller as set forth above, then such Equipment
+Failure or ______ Failure shall constitute a default in Seller's performance
+of its material obligations under this Contract.
+
+5. Until ________________________________________ described above, in an
+effort to minimize the potential downtime resulting from Equipment Failure,
+Seller will support an exchange program whereby Seller will ship those items
+of additional Equipment identified on Schedule F, which Equipment shall be
+maintained by Seller in an inventory in Riyadh at Seller's expense. In the
+event of an Equipment Failure, Seller shall permit Buyer or Sara Vision to
+exchange the affected Equipment for Equipment of like kind maintained in
+inventory and will repair thedefective Equipment and return it to Riyadh,
+where it can then be inventoried in order to service any future Equipment
+Failures.
+
+C. The warranties set forth herein shall apply only to the Equipment which,
+after regular installation and under normal usage, are found to have been
+defective within the warranty period specified by Seller. Seller must be
+notified of any claims hereunder, no later than ______ (___) days after the
+expiration of the warranty period. Such warranties shall not apply to
+equipment or component parts thereof that have been damaged as a result of
+physical or electrical abuse,accident, misuse, use under other than normal
+operating conditions, disassembly or repair of warranted Equipment by persons
+other than Seller's employees, except with Seller's written approval. Seller
+shall not be responsible for delays in performing its obligations under this
+Paragraph resulting from Buyer's negligence or fault or from events of Force
+Majeure. Buyer may, but shall not be required to, perform tests prior to the
+expiration of the warranty period to determine whether equipment conforms to
+applicable warranties.
+
+D.      THE WARRANTIES SET FORTH HEREIN ARE IN LIEU OF ALL OTHER WARRANTIES,
+WHETHER
+EXPRESS OR IMPLIED. 
+
+IX.     NON-WARRANTY REPAIRS AND SPARES SUPPORT FOR SARA VISION 
+
+A.      Seller agrees that for at least ______ (___) years from the delivery
+of the Equipment (the "Support Period"), Seller shall maintain the ability to
+provide Buyer and/or Sara Vision (or make arrangements for the provision of)
+with its reasonable requirements for such repair services and/or spare parts
+for the Equipment which it manufactures and furnishes hereunder. It is
+understood that the charges to Buyer and/or Sara Vision for spare parts and/or
+repairs not covered by warranty shall be at the then current, published time
+and material rates or spare parts prices and shall be invoiced and payable as
+soon as work involved is completed. All shipping, insurance, handling and
+other like costs and expenses associated with such repair services shall be 
+
+
+<PAGE>
+the responsibility of Buyer and/or Sara Vision as the case may be. Such repair
+services will be provided by Seller at a facility to be designated by Seller.
+Seller shall have no obligation hereunder or otherwise, to provide further
+spare parts or repair services with respect to any goods which it has not
+furnished hereunder, or to any person or entity that has failed to pay
+promptly for any such spare parts or repairs. Seller has the right at any time
+to change the amount of credit or terms of payment or to withdraw credit and
+to require partial or full payment in advance as a condition of rendering
+further services or making further shipments hereunder. 
+
+B.     
+___________________________________________________________________________
+______________________________________________________________________________
+______________________________________________________________________________
+______________________________________________________________________________
+_______________________________________________________
+
+X. MUTUAL REPRESENTATIONS
+
+Each party represents and warrants that: 
+
+  1.    It is duly incorporated and in good standing in its jurisdiction of
+        incorporation and has corporate power and authority to enter into and
+        perform this Contract.
+
+  2.    Its execution, delivery and performance of this Contract has been duly
+        authorized by all necessary corporate action.
+
+  3.    Neither it, nor any of its owners, officers, directors, employees,     
+    agents or representatives (i) is (or will be at any time during the        
+    term of this Contract) an official, agent or employee of, or in any        
+ manner connected with, any government, political party, or any entity,        
+ agency,instrumentality or subdivision of such government or party, or         
+any corporation or other entity owned or controlled thereby, and (ii)         
+has received any payment, has knowledge of any payment or other         
+benefit, or will knowingly assist with or permit any payment or other         
+benefit, to be made, directly or indirectly, by or on their behalf, to         
+any person who is an official, agent or employee of, or in any manner         
+connected with, any government, political party or any entity, agency,         
+instrumentality or subdivision of such government, party, or any         
+corporation or other entity owned or controlled thereby, for the         
+purpose of obtaining or retaining business within Saudi Arabia, and         
+shall promptly notify the other of any
+        event that would or may result in an exception to the foregoing
+        representations .
+
+XI. CONFIDENTIALITY AND PROPRIETARY RIGHTS
+
+A.      All information disclosed by either party to the other party,      
+including the terms and conditions of this Contract shall be subject to the
+Non-Disclosure Agreement dated October 13, 1994 between Buyer and Seller.
+
+
+<PAGE>
+
+B.      In the event that the Equipment Specifications require that the
+Equipment is to bear any trade names, trademarks, insignias, logos and the
+like, which are owned or controlled by any General Instrument affiliated
+company ("General Instrument Marks"), such use shall be strictly in accordance
+with Buyer directions and nothing contained in this Contract shall transfer or
+grant to Seller any right or interest in the General Instrument Marks except
+use thereof in the supply of Equipment to Buyer pursuant to this Contract.
+Upon termination of this Contract, for any reason, Seller shall remove all
+General Instrument Marks from any Equipment which may thereafter remain in
+Seller's possession or control. 
+
+C.      Except as set forth in this Contract, nothing contained herein shall
+transfer or grant to either party each other's rights in patents, copyrights,
+trade secrets or other proprietary rights related to Equipment except the use
+thereof as related to and provided under this Contract. 
+
+D.      The obligations under this Paragraph shall survive termination or
+expiration of this Contract. All tangible forms of proprietary information
+delivered by a party to the other hereunder shall be and remain the property
+of the party furnishing the same or its applicable supplier or subcontractor,
+and shall be returned to the furnishing party upon any termination of this
+Contract as a result of any breach by the receiving party hereunder. 
+
+E.      Neither party shall use the name or the name of any trademark or trade
+name (or symbolic representation thereof) of the other party or its parent,
+subsidiaries or other affiliates, in marketing, advertising, public relations
+efforts or in any other manner without the express written consent of such
+other party in each instance, which consent shall not unreasonably be withheld
+or delayed. 
+
+XII. INDEMNIFICATION
+
+A.      Seller shall indemnify and hold harmless Buyer, its shareholders,
+directors, officers, employees, agents, attorneys, designees and assignees, or
+any of them, from and against all losses, damages, settlement amounts,
+liabilities, expenses, attorney's fees, costs, claims, suits, demands,
+actions, causes of actions, proceedings, judgments, assessments, deficiencies
+and charges (collectively, "Damages") caused by, relating to or arising from a
+default in Seller's performance in accordance with this Contract of its
+obligations hereunder, or a breach of its warranties or representations made
+herein. 
+B.      Buyer shall indemnify and hold harmless Seller, its shareholders,
+directors, officers, employees, agents, attorneys, designees and assignees, or
+any of them, from and against Damages caused by, relating to or arising from a
+default in Buyer's performance in accordance with this Contract of its
+obligations hereunder, or a breach of its warranties or representations made
+herein. 
+
+C.      Seller shall indemnify and hold harmless the Buyer, its shareholders,
+directors, officers, employees. attorneys. agents, designees and assignees,
+from
+
+<PAGE>
+and against all Damages to the extent that such Damages are based on a claim
+that equipment manufactured and sold by Seller to Buyer constitute an
+infringement of any United States or Saudi Arabian patent or copyright, or
+misappropriation of atrade secret. Seller shall not be liable for any of the
+following exclusions: (i) infringement by equipment not manufactured and sold
+by Seller hereunder, or from a combination with, an addition to, or
+modification of the equipment after delivery by Seller (other than as
+contemplated by this Contract or performed or
+authorized in writing by Seller), or from use of the Equipment, or any part
+thereof, in the practice of a process, or from the use of other than the
+current available releases of any software available from Seller or the
+immediately preceding release, except to the extent that Seller has informed
+Buyer that such immediately preceding release violates a third party
+Intellectual Property right, or (ii) for royalties payable with respect to the
+use of such infringing equipment, or for any royalty basis other than as set
+forth above. Seller shall not be obligated to defend or be liable for costs
+and damages arising out of or related to the above exclusions 
+
+D.      Subject to the aforementioned exclusions, if any equipment
+manufactured and supplied by Seller to Buyer is so held to infringe any United
+States or Saudi Arabian patent or copyright or to misappropriate a trade
+secret and in any such instance Buyer or Sara Vision is enjoined from using
+the same, or if Seller believes such infringement or misappropriation is
+likely, Seller will exert reasonable efforts, at its expense, (i) procure for
+Buyer on behalf of Sara Vision the right to use such equipment free of any
+liability for patent or copyright infringement or trade secret
+misappropriation or (ii) replace or modify such equipment with a
+non-infringing substitute otherwise complying substantially
+with all the requirements of the Contract. If Seller is unable to implement
+any of the foregoing options, then upon return of the equipment, Seller will
+refund to Buyer the purchase price and the transportation costs thereof, less
+a reasonable credit for use, damage and obsolescence 
+
+E.      In the event of a claim with respect to which a party is an
+indemnified party hereunder, such party (the "Indemnified Party") shall notify
+the other party (the "Indemnifying Party") in writing as soon as practicable,
+but in no event later than fifteen (15) days after receipt of such claims. The
+Indemnified Party's failure to provide such notice shall not preclude it from
+seeking indemnification hereunder unless such failure has materially
+prejudiced the Indemnifying Party's ability to defend such claim. The
+Indemnifying Party shall promptly defend such claim (with counsel of its own
+choosing) and the Indemnified Party shall cooperate with the Indemnifying
+Party in the defense of such claim, including the settlement of the matter on
+the basis stipulated by the Indemnifying Party (with the Indemnifying Party
+being responsible for all costs and expenses of such settlement). If the
+Indemnifying Party within a reasonable time after notice of a claim fails to
+defend the Indemnified Party, the Indemnified Party shall be entitled to
+undertake the defense, compromise or settlement of such claim at the expense
+of the Indemnifying Party. Upon the assumption of the defense of such claim,
+the Indemnifying Party may settle, compromise or defend as it sees fit. 
+
+
+
+
+<PAGE>
+
+F. _______________________________________________________________________    
+
+XIII. LIMITATION OF LIABILITY
+
+IN NO EVENT SHALL EITHER PARTY HEREUNDER BE LIABLE FOR SPECIAL, INCIDENTAL,
+INDIRECT OR CONSEQUENTIAL DAMAGES (INCLUDING, WITHOUT LIMITATION, DAMAGES FOR
+LOSS OF GOOD WILL, LOSS OF BUSINESS PROFITS, BUSINESS INTERRUPTION, LOSS OF
+BUSINESS INFORMATION OF OTHER PECUNIARY LOSS) EVEN IF ADVISED OF THE
+POSSIBILITY THAT SUCH DAMAGES MAY ARISE. IN NO EVENT SHALL SELLER BE LIABLE
+FOR ANY LOSS OF AUDIO, VIDEO OR DATA SIGNALS. In no event shall either party's
+liability for any breach exceed the purchase price for such Equipment giving
+rise to the claim. Any action hereunder must be commenced within one (1) year
+after the cause of action has accrued. Nothing in this Contract shall relieve
+either party of any liability resulting from its gross negligence or willful
+misconduct. 
+
+XIV. FORCE MAJEURE
+
+A.      "Force Majeure" shall mean any act, event or condition described below
+which prevents the affected party from performing its obligations under this
+Contract if such act, event or condition and its effects are beyond the
+reasonable control of such party (and any third party over which such party
+has control) and are not a result of the willful or negligent action of such
+party or of any third party over whom such party has control: 
+
+  1.An act of God, including but not limited to, landslide, lightning,
+earthquake, fire, explosion, casualty, storm, or flood;
+
+  2.Acts of boycott, embargo, war, blockade, insurrection, riot or civil
+disturbance;
+
+  3.  Strikes, lockouts or concerted acts of workmen (except where it is
+within the power of the party invoking Force Majeure to prevent);
+
+  4.  Impossibility in the use of railways, airlines, ships, terminals, ports, 
+Airports or other transport means or services;
+
+  5.  Unavailability of energy, goods or materials (compounded by the same     
+unavailability from alternate sources);
+
+  6.  A material adverse change in the applicable laws, codes, rules, orders
+or regulations, or the enforcement thereof, by governmental authorities, after 
+ 
+the date of this Contract, or a material contradiction within such      
+applicable laws, codes, rules, orders or regulations.
+
+B.      If a party's performance of this is prevented, restricted, delayed or
+interfered with by reason of Force Majeure, such performance shall be excused
+to the extent delayed or prevented by Force Majeure, provided, however, that
+reasonable steps are taken to avoid or remove such causes of nonperformance
+and to continue performance whenever and to the extent such causes are
+removed. 
+
+<PAGE>
+C.      Furthermore, Seller shall be under no liability whatsoever for any
+damage to the Equipment comprising the WATS System or to other property,
+whether of the Buyer, Sara Vision or third parties, or for injury or loss of
+life, or for delays which are the consequence, whether direct or indirect, of
+war, hostilities, invasion, rebellion, revolution, insurrection or military or
+usurped power, civil war, riot, commotion or disorder, or the like, in any way
+involving or related to Saudi Arabia (hereinafter collectively referred to as
+"special risks"), and in such circumstances the following shall apply: 
+
+ 1. If any components of the WATS System supplied by Seller or any other
+materials or property shall sustain destruction or damage by reason of any of
+the aforesaid special risks, Seller shall nevertheless be entitled to be paid
+for the same upon reimbursement of Buyer by Sara Vision; additionally Seller
+shall be entitled to be paid by Buyer upon reimbursement of Buyer by Sara
+Vision the cost of repairing or replacing any such destruction or damage
+thereto so far as may be required by Buyer.
+
+2. Upon reimbursement of Buyer by Sara Vision, Buyer shall repay to Seller any
+increased cost of or cost incidental to the execution of its performance
+hereunder which is howsoever attributable to or consequent on the special
+risks.
+
+3.In the event of such special risks, Buyer shall be entitled, at its option,
+to terminate this Contract upon written notice to Seller, in which event
+Seller shall immediately cease work in the manner and to the extent specified.
+Upon receipt of such a notice of termination, Seller shall promptly take the
+following actions:
+
+a. Stop work under the Contracts on the date and to the extent specified in
+such notice of termination.
+
+b. Place no further orders for materials, services or facilities, except as
+may be necessary for completion of such portion of the work as is not
+terminated.
+
+c. Terminate orders to the extent that they relate to the performance of work 
+terminated by such notice of termination.
+
+d. Settle all outstanding liabilities and all claims arising out of such
+termination of orders for material, services or facilities; and
+
+e. Take such actions as are reasonable for the protection and preservation of
+the property related to this Contract which is in the possession of Seller and
+for which Buyer has or will acquire title hereunder.
+
+4. Within thirty (30) days after determination by Seller of the cost of all
+work terminated, Seller shall submit to Buyer its termination claim consisting
+of the costs of all work performed up to the date of
+termination,__________________________________________________________________
+______________________________________________________________________________
+The term "costs" as used herein includes but is not limited to _________
+_____________________________________________________________________________ 
+
+
+<PAGE>
+The termination claim shall give credit for all amounts already paid by Buyer
+to Seller in respect of the terminated work.
+
+5.    Each termination claim shall be accompanied by a certificate signed by
+the Controller or other financial officer of Seller stating that the claim
+properly includes costs connected with or incurred as a result of such
+termination. In the event Buyer desires independent verification of the
+claim, it may request at Buyer's expense to have Seller's independent
+certified public accountants audit such costs and report to the parties.
+
+6. Subject to Paragraph XI, title to all items of work, which would have been
+   incorporated into a deliverable item under this Contract, and which are in
+   progress before the giving of the notice of termination under Paragraph
+   XIV.C.3 above, shall, upon payment by Buyer in full of all amounts due
+   hereunder after reimbursement by Sara Vision, vest in Buyer, and shall be
+   tendered to a carrier of Buyer's selection.
+
+7. If in Seller's sole judgement it is feasible for Seller to utilize any
+items of terminated work for which Buyer has paid for hereunder, it shall
+submit to Buyer an offer to acquire such items. If such offer is accepted,
+Seller's termination claim shall be credited with the agreed acquisition
+price.
+
+8.      Upon a partial termination, Seller and Buyer shall upon mutual
+agreement equitably reprice the work not terminated and the applicable
+Contract Price for such work shall be adjusted accordingly.
+
+9.      Buyer shall have no liability for payments to Seller under this
+Paragraph
+
+        XIV unless and until Buyer has received payment therefor from Sara
+Vision.
+
+        Buyer agrees that it will proceed with reasonable diligence to pursue
+its remedies against Sara Vision.
+
+XV. TERMINATION
+
+A.      Either party shall, upon written notice to the other, have the right
+to terminate this Contract, in whole or in part, upon the occurrence of any of
+the following events: (i) the other party transfers a substantial portion of
+its assets, property or business for the benefit of creditors, (ii) a
+receiver, trustee in bankruptcy or similar officer is appointed to take charge
+of all or any part of the other party's property or business, or is
+adjudicated a bankrupt, (iii) the other party's performance of its material
+obligations hereunder is prevented, restricted, delayed or interfered with by
+reason of Force Majeure and such event continues for a period in excess of six
+(6) months, (iv) the Buyer's agreement with Sara Vision is terminated for any
+reason, (v) the other party defaults in its performance of its material
+obligations hereunder and such default is not promptly remedied within a
+reasonable time after written notice from the non-defaulting party of such
+default, or (vi) the representations or warranties made by the other party
+hereunder are materially false or breached. 
+<PAGE>
+B.      In addition, Seller shall have the right to terminate this Contract if
+Buyer neglects or fails to make payment in accordance with the terms hereof
+and such condition is not remedied within _______ (___) business days (Seller
+may, at Seller's option, extend the time for Buyer's cure) after written
+notice to Buyer. 
+
+C.      In the event of a termination on account of the occurrence of the
+event set out in Paragraphs XV.A.(v), (vi) or XV.B hereof, the following
+provisions shall apply: 
+
+  1.    If such termination is by reason of Seller's default, then:
+
+
+   (a)  Seller shall not be entitled to received any further payments under
+        this Contract except for payments as are due equitably or pursuant to
+        the terms of this Contract for work (services performed and equipment
+        tendered) actually performed in accordance with the relevant
+        provisions of this Contract up to the effective date of termination. 
+
+   (b)  Buyer shall be entitled at its option either to: 
+
+        (i)  the terminated work (including title thereto except as provided
+             in Paragraph XI) existing on the effective date of the
+             termination, plus the difference between (A) all reasonable
+             amounts paid to Seller and third parties (including all amounts
+             paid previously and subsequently to such termination) necessary
+             to conform the terminated work to the relevant provisions of
+             this Contract (including without limitation the Equipment
+             Specifications), and (B) the Contract Price with respect to the
+             terminated work, or
+
+        (ii) a refund of all payments made to Seller, but in no event shall
+             any such refund exceed the Contract Price for the work so
+             terminated as set out in the relevant provisions of this
+             Contract. In the event of such a refund, Seller shall be
+             entitled to retain title to any and all work which Seller has
+             specifically produced or acquired or entered into in accordance
+             with this Contract, as to which such refund has been made. 
+
+  2.    If such termination is by reason of Buyer's default, then Seller shall
+        have the right immediately to stop work (including stopping the
+        tendering of any undelivered equipment), and Seller shall be entitled
+        to receive from Buyer as payment
+        _____________________________________________________________.
+
+D.      In the event of a termination on account of the occurrence of the
+events set
+out in Paragraphs XV.A.(i), (ii), (iii) and (iv) hereof, the provisions
+of____________________________________________
+____________________________________________.
+
+
+
+
+<PAGE>
+E.      In respect of termination claims by either party hereunder, each claim
+shall be accompanied by a certificate signed by the Controller or other
+financial officer of the claiming party stating that the claim properly
+includes all and only those costs connected with or incurred as a result of
+such termination. In the event the other party desires independent
+verification of the claiming party's claim, it may request at its expense to
+have an independent certified public accountant audit such costs and report to
+the parties. It is understood and agreed that Paragraph XIX. hereof shall
+apply to all disputes or controversies arising out of a termination claim. 
+
+F.      Except as set forth herein such termination shall be in addition to
+any other rights and remedies provided by contract, law or in equity. 
+
+XVI. ALTERATIONS, ADDITIONS AND OTHER VARIATIONS 
+
+A.      Buyer shall have the right to request a variation in the quality or
+quantity of the Equipment or work, or any part thereof, to be provided under
+this Contract, that may in its opinion be necessary, as set forth below: 
+
+  1. To increase or decrease the quantity of any work or Equipment to be
+provided under the Contract. 
+
+  2.    To change the timing, character or quality or kind of any such work or
+        Equipment. 
+
+Upon acceptance of the same by Seller, such variations shall be considered as
+an integral part of the Contract and the value (if any) and scope of all such
+variations shall be taken into account in ascertaining the required equitable
+adjustment, if any, of the schedule, the amount of the Contract Price and/or
+the timing of the payment of such Contract Price according to the Contract. 
+
+B.  Except as set forth herein, Seller and Buyer shall _____________________
+of such adjustment to the Contract Price in respect of such variations. Any
+reduction in costs to Seller of providing the Equipment or performing the work
+resulting from such variations shall be credited against the amounts otherwise
+owing to Seller by Buyer hereunder or, if no amounts are owing at such time,
+shall be promptly refunded to Buyer. 
+
+C.      The Seller shall, from time to time, send to Buyer or Buyer's
+Representative a separate account giving particulars (fully detailed) of all
+claims for any additional expense to which Seller may consider himself
+entitled hereunder, and of all extra and additional work ordered by Buyer
+which it has executed during the preceding month. 
+
+XVII. NONWAIVER OF RIGHTS
+
+Neither the waiver by a party hereto of a breach of, or a default under, any
+of the provisions of this Contract, nor the failure of a party on one or more
+occasions, to enforce any of the provisions of this Contract or to exercise
+any right or privilege hereunder shall thereafter be construed as a waiver of
+any subsequent breach or default, or as a waiver of any of such provisions, 
+
+
+
+<PAGE>
+rights or privileges hereunder. 
+
+XVIII. NOTICES
+
+All notices, requests, or other communications which may be sent or
+electronically transmitted by either party to the other party pursuant to this
+Contract, shall be in writing, sent by telefax (with confirming telefax
+receipt), registered or certified mail, postage prepaid, or delivered by
+recognized courier service, and shall be deemed to have been given when
+received, as follows: 
+
+
+If to Buyer: 
+
+   GENERAL INSTRUMENT CORPORATION OF DELAWARE
+   GI Communications Division
+   2200 Bayberry Road
+   Hatboro, PA 19040 USA
+   Attention: Director, International Projects
+   Tel: 215 830-6137
+   Fax: 215 830-5106
+
+with a copy to
+
+   GENERAL INSTRUMENT CORPORATION OF DELAWARE
+   GI Communications Division
+   2200 Bayberry Road
+   Hatboro, PA 19040 USA
+   Attention: General Counsel
+   Tel: 215 957-8240
+   Fax: 215 956-6408
+
+If to Seller: 
+
+   EMCEE BROADCAST PRODUCTS, INC.
+   Susquehanna Street Extension
+   P.O. Box 68
+   White Haven, PA 18661-0068
+   Attention: President/Chief Executive Officer
+   Tel: 717 443-9575
+   Fax: 717 443-9257
+
+with a copy to 
+
+   LAPUTKA BAYLESS ECKER & COHN, P.C.
+   2 East Broad Street, 6th Floor
+   Hazleton, PA 18201
+   Attention: Martin D. Cohn, Esq. and Robert S. Sensky, Esq.
+   Tel: 717 455-4731
+   Fax: 717 455-0729
+
+
+
+
+<PAGE>
+or to such other address as the person to whom notice is to be given may have
+specified in a notice duly given to the sender as provided herein. 
+
+
+
+XIX. APPLICABLE LAW AND RESOLUTION OF DISPUTES
+
+A. This Contract shall be governed by and construed in accordance with the
+laws of the Commonwealth of Pennsylvania, including the Uniform Commercial
+Code as thereby adopted, without giving effect to any choice of law or
+conflict of law provision or rule that would cause the application of the laws
+of any other jurisdiction. 
+
+B. Any dispute, controversy or claim arising out of or in connection with this
+Contract, including any question regarding its existence, construction,
+interpretation, validity, termination, whether during or after the life of
+this Contract, shall be referred to and finally resolved by compulsory
+arbitration, from which no appeal may be taken, under the Rules of the
+American Arbitration Association. The arbitration shall be held in
+Philadelphia, Pennsylvania before three arbitrators, one arbitrator to be
+appointed by each party. If a party fails to appoint its arbitrator within a
+period of ten (10) business days after the other party has appointed its
+arbitrator, or if the parties cannot agree on the third arbitrator within a
+period of fifteen (15) business days after the appointment of the second
+arbitrator, then the second arbitrator and/or the third arbitrator, as the
+case may be, shall be appointed by the American Arbitration Association. 
+
+C. The parties hereby consent that service of process in any litigation may be
+served in the same manner as any notice hereunder as set forth in Paragraph
+XVIII, with the exception that no notification shall be served by fax. 
+
+D.      Judgment upon the arbitration award may be entered by any court having
+competent jurisdiction 
+
+E. Nothing in this contract shall be deemed to prevent either party from
+seeking injunctive relief from any judicial or administrative authority. 
+
+XX. BINDING EFFECT
+
+These terms and conditions shall be binding upon and inure to the benefit of
+both parties hereto and their permitted successors and assigns. Neither party
+may assign any right or obligation hereunder without the other's prior written
+consent except to an entity controlled by, controlling or under common control
+with such party provided (i) the assignee agrees to be bound by the terms and
+conditions of this Contract, and (ii) such assignment does not adversely
+affect the other party's ability to exercise, and/or benefit from, its rights
+under this Contract. As used herein "control" and variations thereof, shall
+mean the ownership or control, directly or indirectly, of more than fifty
+percent (50%) of the voting power of the shares or other ownership interests
+entitled to vote for the election of directors or other governing authority.
+Except as specifically 
+
+
+
+<PAGE>
+provided herein, this Contract is not intended to establish any third-party
+beneficiary rights. 
+
+
+XXI. MEDIA RELEASES
+
+All information released to the media by Seller or Buyer relating to this
+Contract shall be coordinated with and approved in writing by Seller and Buyer
+prior to its release. Neither Seller nor Buyer shall distribute any
+promotional or marketing material using the name of the other party, without
+the prior written consent of such party. 
+
+XXII. AUDITS AND INSPECTIONS
+
+Buyer reserves the right to visit Seller's facilities and to audit and inspect
+Seller's books, records and operations as is reasonably necessary to verify
+Seller's proper compliance with this Contract. Buyer shall give at least five
+(5) days prior written notice of such audit and conduct such audit at its own
+expense and solely for the purpose of insuring compliance with this Contract.
+Any such audit or inspection shall occur during regular business hours and
+shall not unreasonably interfere with Seller's business activities. 
+
+XXIII. CERTAIN REFERENCES; LANGUAGE
+
+The various headings and titles herein are for convenience and are not
+intended to affect the meaning of the text. 
+
+XXIV. INDEPENDENT CONTRACTOR
+
+This Contract establishes a relationship of vendor and customer and neither
+party hereunder shall be deemed an agent, employee, partner, subcontractor or
+joint venturer of the other by virtue of this Contract or otherwise.
+Furthermore neither party has the authority, express or implied, to assume or
+create any obligations, responsibilities or liabilities on behalf of the
+other, to provide any certifications to third parties on behalf of the other
+party, nor to bind the other in any manner whatsoever. 
+
+XXV. ENTIRE AGREEMENT
+
+This document and the various schedules forming this Contract are to be
+considered as one indivisible whole and the various conditions and clauses as
+mutually complementary and explanatory. The terms and conditions incorporated
+herein contain the final and entire agreement and understanding between the
+parties with respect to the subject matter hereof and merge and supersede all
+prior agreements, understandings and representations. No additions or
+modifications shall be effective unless in writing signed by the parties
+hereto.
+
+No course of dealing or usage of trade or course of performance will be deemed
+relevant to explain or supplement any term expressed in this contract. 
+
+
+
+<PAGE>
+XXVI. SURVIVAL
+
+Termination of this Contract for any reason shall not release either party
+from any obligations set forth in this Contract which: (i) the parties have
+expressly agreed shall survive any such termination; or (ii) remain to be
+performed or by the nature of the rights or obligations set out therein, might
+reasonably be expected to be intended to survive any such termination. 
+
+XXVII. FURTHER ASSURANCES
+
+Each party hereto agrees that upon the written request of the other, it will
+do, or will cause the doing of, all such acts and execute, or cause the
+execution of, all such further documents, assignments, transfers and the like,
+as the other party hereto may from time to time reasonably request be done
+and/or executed as may be necessary or desirable to give effect to this
+Contract. 
+
+IN WITNESS WHEREOF, the parties have duly executed this Contract on the date
+first above written. 
+ 
+SELLER                            BUYER
+
+EMCEE BROADCAST PRODUCTS, INC.   GENERAL INSTRUMENT CORPORATION OF
+                                 DELAWARE
+
+BY:/s/ JAMES L. DESTEFANO        BY:/s/ EDWARD D. BREEN            
+- --------------------------       ---------------------------------
+Name: James L. DeStefano         Name: Edward D. Breen
+Title: President/CEO             Title: Vice President
+<PAGE>                             
+                              SCHEDULE A
+<PAGE>
+                              SCHEDULE B
+
+Form of Purchase Order: (See Attached)
+
+(This Schedule evidenced a copy of the Buyer's form of purchase order. 
+However, because the Contract permits the Seller to use its own form of
+purchase order and conditions the use of any purchase order on the specific
+terms and conditions of the Contract, the Buyer's form of purchase order shown
+hereon is for purposes of example only and, therefore, has not been included
+in this EDGAR filing.)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+<PAGE>
+                              SCHEDULE C
+<PAGE>
+                              SCHEDULE D
+
+<PAGE>
+                              SCHEDULE E
+<PAGE>
+                              SCHEDULE F
+
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

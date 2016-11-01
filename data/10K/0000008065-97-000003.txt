@@ -1,0 +1,562 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ VEPKx1z9a2lcThg6L5LT8tdRRZKzSpNbAIIqIQfTKP5AZrQr9Dp3V1sFU7OWIsP+
+ E+B3g7ETzdzMzvsZBZ8GHg==
+
+<SEC-DOCUMENT>0000008065-97-000003.txt : 19970131
+<SEC-HEADER>0000008065-97-000003.hdr.sgml : 19970131
+ACCESSION NUMBER:		0000008065-97-000003
+CONFORMED SUBMISSION TYPE:	10KSB/A
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	19960630
+FILED AS OF DATE:		19970130
+SROS:			NONE
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			ASTROSYSTEMS INC
+		CENTRAL INDEX KEY:			0000008065
+		STANDARD INDUSTRIAL CLASSIFICATION:	INDUSTRIAL INSTRUMENTS FOR MEASUREMENT, DISPLAY, AND CONTROL [3823]
+		IRS NUMBER:				135691210
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0630
+
+	FILING VALUES:
+		FORM TYPE:		10KSB/A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-03344
+		FILM NUMBER:		97513977
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1220 MARKET STREET
+		STREET 2:		SUITE 603
+		CITY:			WILMINGTON
+		STATE:			DE
+		ZIP:			19801
+		BUSINESS PHONE:		(302) 652-3115
+
+	MAIL ADDRESS:	
+		STREET 1:		1220 MARKET STREET
+		STREET 2:		SUITE 603
+		CITY:			WILMINGTON
+		STATE:			DE
+		ZIP:			19801
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>10KSB/A
+<SEQUENCE>1
+<TEXT>
+
+                U.S. SECURITIES AND EXCHANGE COMMISSION
+                        Washington, D. C. 20549
+
+                              FORM 10-KSB/A
+                             AMENDMENT NO. 1
+(Mark One)
+
+X    ANNUAL REPORT UNDER SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE
+     ACT OF 1934 [FEE REQUIRED]
+
+     For the fiscal year ended               June 30, 1996    
+                               ________________________________________
+
+     TRANSITION REPORT UNDER SECTION 13 OR 15(d) OF THE SECURITIES
+     EXCHANGE ACT OF 1934 [NO FEE REQUIRED]
+
+     For the transition period from
+
+Commission file number:        0-3344       
+                        _________________
+
+                              ASTROSYSTEMS, INC.
+_______________________________________________________________________
+               (Name of small business issuer in its charter)
+
+            Delaware                                    13-5691210    
+_____________________________________________      ____________________
+(State or other jurisdiction of                    (I.R.S. Employer 
+ incorporation or organization)                     Identification No.)
+ 
+1220 Market Street, Suite 603, Wilmington, DE              19801        
+_____________________________________________      ____________________
+(Address of Principal Executive Offices)                (Zip Code)
+
+Issuer's telephone number:       (302) 652-3115
+                             ______________________   
+
+Securities registered pursuant to Section 12(b) of the Act:
+                                          Name of each exchange on
+      Title of each class                     which registered   
+      ___________________                 _________________________ 
+             None 
+
+Securities registered pursuant to Section 12(g) of the Act:
+
+                      Common Stock, par value $.10 per share            
+                     _______________________________________
+                              (Title of Class)
+
+    Check whether the issuer (1) filed all reports required to be filed
+by Section 13 or 15(d) of the Securities Exchange Act during the past
+12 months (or for such shorter period that the Registrant was required
+to file such reports), and (2) has been subject to such filing
+requirements for the past 90 days.                  YES..X..  NO......
+
+    Check if no disclosure of delinquent filers in response to Item 405
+of Regulation S-B is contained in this form, and no disclosure will be
+contained, to the best of Registrant's knowledge, in definitive proxy
+or information statements incorporated by reference in Part III of this
+Form 10-KSB or any amendment to this Form 10-KSB.    YES..X.. NO......  
+
+    The Registrant's revenues for fiscal year ended June 30, 1996 were
+$4,390,000.
+
+    The aggregate market value of the Registrant's Common Stock held by
+nonaffiliates of the Registrant is $15,914,543 (as of August 31, 1996). 
+
+
+                    (ISSUERS INVOLVED IN BANKRUPTCY
+               PROCEEDINGS DURING THE PAST FIVE YEARS):
+    Check whether the issuer has filed all documents and reports
+required to be filed by Section 12, 13 or 15 (d) of the Securities
+Exchange Act after the distribution of securities under a plan
+confirmed by a court.                            YES ......  NO ..N/A..
+
+              (APPLICABLE ONLY TO CORPORATE REGISTRANTS)
+    The number of shares outstanding of the Registrant's Common Stock
+is 5,246,785 (as of August 31, 1996).
+
+                  DOCUMENTS INCORPORATED BY REFERENCE
+                                 None
+
+
+<PAGE>
+                                PART I
+
+Item 1.       Description of Business
+              _______________________
+
+          (a) Business Development.  Prior to February 7, 1996,
+Astrosystems, Inc. (the "Company") had three operating divisions:
+Behlman Electronics, Inc. ("Behlman"), a wholly-owned subsidiary of the
+Company which produced commercial AC power supplies, the Defense
+Electronics Division which designed and manufactured power conversion
+devices and the Industrial Automation Division which produced
+industrial control products.
+
+              A Plan of Complete Liquidation and Dissolution (the
+"Plan") for the Company was approved by the shareholders on February 2,
+1996.  Pursuant to the Plan, the Company consummated the sale of the
+assets of its three operating divisions, as described below. 
+
+              Effective February 6, 1996, pursuant to a certain Asset
+Purchase Agreement dated as of January 11, 1996 (the "Orbit Agreement")
+by and among the Company, Behlman, Orbit International Corp. ("Orbit")
+and Cabot Court, Inc. ("Cabot"), a wholly-owned subsidiary of Orbit,
+the Company sold to Cabot certain assets of its Defense Electronics
+Division and Behlman sold to Cabot certain of its assets for an
+aggregate purchase price of $3,706,700.  The purchase price is subject
+to adjustment based upon a valuation of the transferred inventory and
+equipment as of the closing date.  Pursuant to the Orbit Agreement,
+$1,000,000 of the purchase price is being held in escrow to provide for
+indemnification claims that Cabot may assert against the Company or
+Behlman thereunder.  
+
+              Effective February 7, 1996, pursuant to an Asset Purchase
+Agreement of such date (the "North Atlantic Agreement") by and between
+the Company and North Atlantic Instruments, Inc. ("North Atlantic"),
+the Company sold to North Atlantic certain assets of its Industrial
+Automation Division for a purchase price of $704,500.  The purchase
+price is subject to adjustment based upon a valuation of the
+transferred inventory and equipment as of the closing date.  Pursuant
+to the North Atlantic Agreement, $100,000 of the purchase price is
+being held in escrow pending a determination of the closing date
+inventory and equipment amounts.
+
+              The exact amount of the proceeds from both agreements is
+dependent upon a final asset and inventory valuation.  The value of
+certain inventory items currently is being disputed; however, the
+Registrant does not believe that the final result will affect
+materially the value of the assets in liquidation.
+
+              Since February 2, 1996, the Company has been engaged in
+implementing the Plan, including the following activities:  (1) 
+implementation of the Orbit Agreement, including novation of government
+contracts and the transition of operations from the Company's facility
+to Orbit's facility; (2) implementation of the North Atlantic
+Agreement, including transition of operations from the Company's
+facility to North Atlantic's facility; and (3) payment of outstanding
+accounts payable and collection of outstanding accounts receivable.  
+
+              The Company vacated its manufacturing and office space in
+Lake Success, New York, prior to June 30, 1996, in accordance with the
+terms of its lease.  The Company relocated to a new office in
+Wilmington, Delaware.
+
+              In 1983, the Company acquired a 16-year license (the
+"License") from the University of Delaware covering a new process for
+the manufacture of solar cells.  In connection with the acquisition of
+the License, the Company issued a $20,000,000 nonrecourse note (the
+"Note"), originally due in 1993 and bearing interest at the rate of 14%
+per year.  The Note is secured by the Company's rights under the
+License and is to be paid prior to its due date solely on the basis of
+4% of sales of products developed by this process, subject to certain
+minimum quarterly payments of $11,250 to $12,500.  To date, there have
+been no amounts paid under the Note (other than the minimum quarterly
+payments).  Concurrently with the grant of the License, a sublicense
+for the process was given to AstroPower, Inc. ("AstroPower"), a company
+engaged in photovoltaic research and production.  An amendment to the
+license agreement extended its term to 2006; concurrently, the due date
+of the Note was extended to May 1999.  The Company, for financial
+reporting purposes, has not recorded the Note and charges operations
+with any payments. 
+
+              The Company currently owns 32.2% of the Common Stock of
+AstroPower.  Assuming certain convertible Preferred Stock is converted
+into Common Stock by stockholders of AstroPower other than the Company,
+the Company's interest in AstroPower would be reduced to 22.7%.  The
+Company has a zero basis in its AstroPower Common Stock.  There is
+currently no public market for the AstroPower Common Stock and there
+are certain restrictions on the transferability of such shares.  The
+Board, in its sole discretion, will consider placing the Company's
+AstroPower Common Stock into a liquidating trust or will seek such
+alternate method or methods of sale, disposition or distribution as
+will maximize stockholder value.
+
+              Registrant is a corporation originally incorporated in
+the State of New York in 1959.  In April, 1987, Registrant changed its
+state of incorporation to Delaware.
+
+          (b) Business of Issuer.  Since February 2, 1996, the
+Company's sole business has been the implementation of its Plan of
+Complete Liquidation and Dissolution.
+
+              (1) Special Features of Government Contracts.  In
+accordance with the asset purchase agreements governing the asset
+sales, certain government contracts previously awarded to the Company
+were novated to the purchasers.  Under the standard terms of the
+novation agreements, the Company remains jointly liable with the
+purchasers for performance under these contracts.  In addition, a
+number of contracts were not novated and the Company has subcontracted
+performance under these contracts to the purchaser of its
+defense-related assets.  Management does not believe that the final
+results of these transactions will have a material effect on the
+Company's assets.
+
+              (2) Solar Cell License.  The Company has a license
+covering a new process for the manufacture of solar cells (see Item
+1(a) above).
+
+              (3) Environmental Regulation Compliance.  Registrant is
+of the belief that compliance with federal, state and local provisions
+which may have been enacted or adopted regulating the discharge of
+materials into the environment, or otherwise relating to the protection
+of the environment, will have no material effect on the Company's
+assets.
+
+              (4) Number of Employees.  Registrant currently has four
+full time employees.  Management believes its relations with its
+employees are good.  No employees are represented by a collective
+bargaining agreement.
+
+<PAGE>
+                                PART II
+
+
+
+Item 6.   Management's Discussion and Analysis or Plan of Operation.
+          __________________________________________________________
+
+          The Board of Directors adopted, and the stockholders approved
+on February 2, 1996, a Plan of Complete Liquidation and Dissolution
+(the "Plan") of the Company.  See "Plan of Complete Liquidation and
+Dissolution" below.  Since that date, the Company has been operating
+under the Plan and its financial reporting is being made on the
+liquidation basis of accounting.  Therefore, the following Management
+discussion relates to financial statements presented on a liquidation
+basis since statements presented on a going concern basis are no longer
+material to stockholder value.
+
+          Liquidity, Capital Resources and Impact of Inflation.
+          _____________________________________________________
+
+          The Company announced on March 26, 1996 a Board of Directors
+authorization for the repurchase of up to 500,000 shares of Common
+Stock to be made from time to time through open market and privately
+negotiated transactions (in addition to the 500,000 shares previously
+authorized on October 23, 1992).  To date, 552,527 shares have been
+repurchased. 
+
+          The repurchase authorization remains in force and the Company
+will, from time to time, repurchase shares when it is consistent with
+maximizing shareholder distributions under the Plan.
+
+          During the last three months of the fiscal year, 967,298
+employee stock options were exercised, which increased total assets by
+$2,826,000.
+
+          Statement of Net Assets in Liquidation.
+          _______________________________________
+
+          Pursuant to the Plan, the Company consummated the sales of
+the assets of its three operating units (Military Division, Behlman
+Electronics subsidiary and Industrial Automation Division) as of
+February 7, 1996.  The exact amount of the proceeds to the Company of
+such sales is dependent upon a final fixed asset and inventory
+valuation.  The value of certain inventory items is being disputed;
+however, the Company does not believe that the final result will affect
+materially Net Assets in Liquidation.  In connection with the sale of
+the Military and Behlman operations, $1,000,000 of the purchase price
+is being held in escrow to provide for indemnification claims that the
+buyer may assert against the Company under the sale agreement.
+
+          The Company has set aside, as Accrued expenses/Contingency
+reserve, an amount believed to be adequate for payment of all expenses
+and other known liabilities and foreseeable contingent obligations,
+including potential tax obligations.  Any portion of the contingency
+reserve which the Company determines is no longer required will be made
+available for distribution to its shareholders.  In the event that the
+Accrued expenses/Contingency reserve account is not adequate for
+payment of the Company's expenses and liabilities, each stockholder
+could be held liable for pro rata payments to creditors in an amount
+not to exceed the stockholder's prior distributions from the Company.
+
+          Statement of Changes in Net Assets in Liquidation.
+          __________________________________________________
+
+          From February 3, 1996 to June 30, 1996 there was a change in
+Net Assets in Liquidation of $3,336,000, due primarily to the exercise
+of certain stock options which increased assets by $2,826,000.
+
+          Plan of Complete Liquidation and Dissolution.
+          _____________________________________________
+
+          On February 2, 1996, the stockholders of the Company approved
+a Plan of Complete Liquidation and Dissolution for the Company. 
+Pursuant to the Plan, the Company has sold its three operating units
+and intends to sell such of its remaining assets as are not to be
+distributed in kind to its stockholders.  The Company intends to
+provide for payment of all expenses, liabilities and obligations of the
+Company and liquidate via distributions to stockholders.
+
+          The Board is currently unable to predict the precise amount
+of any distributions pursuant to the Plan.  The actual amount and
+timing of, and record date for, all such distributions will be
+determined by the Board of Directors, in its sole discretion, and will
+depend in part upon the Board's determination as to whether particular
+assets are to be distributed in kind or otherwise disposed of, and the
+amounts deemed necessary by the Board to pay or provide for all the
+Company's liabilities and obligations.
+
+
+
+
+                               PART III
+
+
+Item 9.   Directors, Executive Officers, Promoters and Control Persons;
+          Compliance with Section 16(a) of the Securities Exchange Act.
+          _____________________________________________________________
+
+
+
+                                  Year
+                                Became a            Positions held
+          Name                  Director    Age     with Registrant   
+          ____                  ________    ___     _______________
+          Seymour Barth           1959       68     President and
+                                                    Director
+
+          Gilbert H. Steinberg    1964       65     Vice President,
+                                                    Treasurer and
+                                                    Director
+
+          Elliot J. Bergman       1964       70     Vice President,
+                                                    Secretary and
+                                                    Director
+
+          Walter A. Steinberg     1989       69     Director
+
+          Elliot D. Spiro         1994       67     Director
+     
+          The term of each Director extends until the next Annual
+Meeting of Registrant's Stockholders and until his successor is elected
+and qualified.  The next Annual Meeting of Stockholders is anticipated
+to be held in February 1997.
+
+          Seymour Barth has served as President of the Company since
+1964 and as a Director of the Company since its inception in 1959.
+
+          Gilbert H. Steinberg has served as a Director, Vice President
+and Treasurer of the Company since 1964.
+
+          Elliot J. Bergman has served as a Director, Vice President
+and Secretary of the Company since 1964.
+
+          Walter A. Steinberg has been an independent engineering
+consultant for more than the past five years and has served as a
+Director of the Company since 1989.
+
+          Elliot D. Spiro has served as Chairman and Chief Executive
+Officer of Branch Insurance Agency, a property/casualty and financial
+services insurance agency, for more than the past five years and has
+served as a Director of the Company since 1994.
+
+          There is no family relationship among any of the Company's
+Directors and executive officers.
+
+          To the Company's knowledge, based solely on a review of the
+copies of Forms 5 furnished to the Company and written representations
+that no other reports were required, during the fiscal year ended June
+30, 1996, all Section 16(a) filing requirements applicable to the
+Company's officers, Directors and 10% stockholders were complied with.
+
+Item 13.  Exhibits, List and Reports on Form 8-K.
+          _______________________________________
+
+      (a) Exhibits:
+          _________
+ 
+          (2)     Plan of Complete Liquidation and Dissolution -
+                  incorporated by reference to Exhibit A to Proxy
+                  Statement of Registrant dated January 12, 1996 with
+                  respect to Annual Meeting of Stockholders held
+                  February 2, 1996 (File No. 0-3344).
+
+          (3)(a)  Certificate of Incorporation and Certificate of
+                  Amendment thereto -  incorporated by reference to
+                  Exhibit 3(a) to Registrant's Annual Report on Form
+                  10-KSB for its fiscal year ended June 30, 1993 
+                  (File No. 0-3344).
+
+             (b)  Bylaws -  incorporated by reference to Exhibit 3(b)
+                  to Registrant's Annual Report on Form 10-KSB for its
+                  fiscal year ended June 30, 1993 (File No. 0-3344).
+          
+          (10)(a) Lease with regard to AstroPower, Inc., Delaware
+                  premises - incorporated by reference to Exhibit 10 to
+                  Registrant's Annual Report on Form 10-K for its
+                  fiscal year ended June 30, 1990 (File No. 0-3344).
+
+              (b) 1991 Stock Option Plan - incorporated by reference to
+                  Exhibit A to Registrant's definitive Proxy Statement
+                  dated December 12, 1990 (File No. 0-3344).
+
+              (c) Settlement Agreement with Internal Revenue Service -
+                  incorporated by reference to Exhibit 10 to
+                  Registrant's Annual Report on Form 10-K for its
+                  fiscal year ended June 30, 1991 (File No. 0-3344).
+
+              (d) Stock Retirement Agreement dated August 31, 1980
+                  among Registrant and Messrs. Barth, Bergman and G.
+                  Steinberg - incorporated by reference to Exhibit 10
+                  to Registrant's Annual Report on Form 10-K for its
+                  fiscal year ended June 30, 1991 (File No. 0-3344).
+
+              (e) Employment Agreement dated as of April 18, 1994
+                  between Registrant and Seymour Barth - incorporated
+                  by reference to Exhibit 10(f) to Registrant's Annual
+                  Report on Form 10-KSB for its fiscal year ended June
+                  30, 1994 (File No. 0-3344).
+
+              (f) Employment Agreement dated as of April 18, 1994
+                  between Registrant and Elliot Bergman - incorporated
+                  by reference to Exhibit 10(g) to Registrant's Annual
+                  Report on Form 10-KSB for its fiscal year ended June
+                  30, 1994 (File No. 0-3344).
+
+              (g) Employment Agreement dated as of April 18, 1994
+                  between Registrant and Gilbert H. Steinberg -
+                  incorporated by reference to Exhibit 10(h) to
+                  Registrant's Annual Report on Form 10-KSB for its
+                  fiscal year ended June 30, 1994 (File No. 0-3344).
+
+              (h) Asset Purchase Agreement dated as of January 11, 1996
+                  by and among Registrant, Behlman Electronics, Inc.,
+                  Orbit International Corp. and Cabot Court, Inc. -
+                  incorporated by reference to Exhibit B to Proxy
+                  Statement of Registrant dated January 12, 1996 with
+                  respect to Annual Meeting of Stockholders held
+                  February 2, 1996 (File No. 0-3344).
+
+             (21) Subsidiaries of Registrant.
+
+             (27) Financial Data Schedule
+
+   (b)       Reports on Form 8-K:
+             ____________________
+
+             No Report on Form 8-K was filed during the three months
+             ended June 30, 1996.
+
+
+
+
+<PAGE>
+                              SIGNATURES
+                              __________
+
+          In accordance with Section 13 or 15(d) of the Exchange Act,
+the Registrant caused this amendment to be signed on its behalf by the
+undersigned thereunto duly authorized.
+
+                                           ASTROSYSTEMS, INC.
+
+
+
+                                           BY: /S/                      
+                                              _________________________
+                                              Seymour Barth,
+                                              President
+
+
+
+January 29, 1997
+
+              
+                                                         
+
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-21
+<SEQUENCE>2
+<TEXT>
+
+
+
+                                                          EXHIBIT 21
+
+
+                             SUBSIDIARIES
+
+
+NAME                                           STATE OF INCORPORATION
+____                                           ______________________
+
+Astrosub, Inc.                                         Delaware
+
+AstroPower, Inc. (1)                                   Delaware
+
+BEI Liquidating Corporation (formerly named 
+  Behlman Electronics, Inc.)                           New York         
+                                                 
+                                                         
+
+
+
+
+(1)  Registrant owns 32.2% of outstanding common stock
+
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

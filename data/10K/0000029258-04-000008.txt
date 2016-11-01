@@ -1,0 +1,2057 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ VKy5K17u8GE5EqIBFGehgXLPvB4zZ0jzNQKg/O8zOmyUkfNJrqA2JJrZ9RidJSBK
+ TW3Wolmj2addb5aKkoh1ew==
+
+<SEC-DOCUMENT>0000029258-04-000008.txt : 20040511
+<SEC-HEADER>0000029258-04-000008.hdr.sgml : 20040511
+<ACCEPTANCE-DATETIME>20040510173937
+ACCESSION NUMBER:		0000029258-04-000008
+CONFORMED SUBMISSION TYPE:	10KSB
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20031231
+FILED AS OF DATE:		20040511
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			DIVERSIFIED REALTY INC
+		CENTRAL INDEX KEY:			0000029258
+		STANDARD INDUSTRIAL CLASSIFICATION:	OPERATORS OF NONRESIDENTIAL BUILDINGS [6512]
+		IRS NUMBER:				810268110
+		STATE OF INCORPORATION:			MT
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10KSB
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-02864
+		FILM NUMBER:		04794393
+
+	BUSINESS ADDRESS:	
+		STREET 1:		128 SECOND STREET SOUTH
+		CITY:			GREAT FALLS
+		STATE:			MT
+		ZIP:			59403
+		BUSINESS PHONE:		4067272600
+
+	MAIL ADDRESS:	
+		STREET 1:		P O BOX 2249
+		CITY:			GREAT FALLS
+		STATE:			MT
+		ZIP:			59403
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	PRUDENTIAL DIVERSIFIED SERVICES
+		DATE OF NAME CHANGE:	19671023
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>10KSB
+<SEQUENCE>1
+<FILENAME>dri10ksb2003.txt
+<DESCRIPTION>DIVERSIFIED REALTY, INC. 10KSB 2003
+<TEXT>
+U. S. SECURITIES AND EXCHANGE COMMISSION
+Washington, D. C.  20549
+FORM 10-KSB
+(Mark One)
+ X  ANNUAL REPORT UNDER SECTION 13 OR 15(d)
+   OF THE SECURITIES EXCHANGE ACT OF 1934
+
+For the fiscal year ended December 31, 2003
+   TRANSITION REPORT UNDER SECTION 13 OR 15(d)
+   OF THE SECURITIES EXCHANGE ACT OF 1934
+
+For the transition period from          to ________
+
+Commission file number 0-2864
+         DIVERSIFIED REALTY, INC.        .
+(Name of small business issuer in its charter)
+
+Montana                                       81-0268110
+(State or other jurisdiction of 	(I.R.S. Employer Identification
+ incorporation or organization)	 Number)
+128 Second Street South,
+Great Falls, Montana        59401
+(Address of principal executive offices)(Zip Code)
+
+Issuer's telephone number (406) 727-2600
+
+Securities registered under Section 12(b) of the Exchange Act: None
+
+Securities registered under Section 12(g) of the Exchange Act:
+$.10 Par Value Common Stock
+(Title of class)
+
+Check whether the issuer (1) filed all reports required to be filed by
+Section 13 or 15(d) of the Exchange Act during the past 12 months (or for
+such shorter period that the registrant was required to file such reports),
+and (2) has been subject to such filing requirements for the past 90 days.
+Yes XX  No
+
+Check, if disclosure of delinquent filers in response to Item 405 of
+Regulation S-B is not contained in this form, and no disclosure will be
+contained, to the best of registrant's knowledge, in definitive proxy or
+information statements incorporated by reference in Part III of this Form
+10-KSB or any amendment to this Form 10KSB.
+
+State issuer's revenues for its most recent fiscal year $86,385.
+
+State the aggregate market value of the voting and non-voting common equity
+held by non-affiliates computed by reference to the price at which the common
+equity was sold, or the average bid and asked price of such common equity, as
+of a specified date within the past 60 days.  (See definition of affiliate in
+Rule 12b-2 of the Exchange Act).
+
+As of January 31, 2004, 287,243 shares held by non-affiliates were
+outstanding. The registrant's stock is not traded on any securities exchange.
+To registrant's knowledge, bid and asked quotations for registrant's stock
+are not reported in any newspapers nor are records kept of any quotations by
+securities dealers or  Pink Sheets, LLC. There exists no public market for
+registrant's stock.
+
+(APPLICABLE ONLY TO CORPORATE REGISTRANTS)
+State the number of shares outstanding of each of the issuer's classes of
+common equity, as of the latest practicable date.
+5,366,985 shares $.10 par value common stock are outstanding as of
+January 31, 2004.
+
+DOCUMENTS INCORPORATED BY REFERENCE
+If the following documents are incorporated by reference, briefly describe
+them and identify the part of the form 10-KSB (e.g., Part I, Part II, etc.)
+into which the documents are incorporated: (1) any annual report to security
+holders:(2) any proxy or information statement; and (3) any prospectus filed
+pursuant to Rule 424(b) or (c) of the Securities Act of 1933
+("Securities Act"). The listed documents should be clearly described for
+identification.
+
+Portions of the Diversified Realty, Inc. Annual Report to Shareholders for
+the year ended December 31, 2003 are incorporated by reference into Parts I,
+II, III and IV of this Form 10-KSB.
+
+
+
+
+
+DIVERSIFIED REALTY, INC.
+
+PART I
+
+ITEM 1.	DESCRIPTION OF BUSINESS
+	A description of the Company's business is set forth on Page 1 of
+Exhibit 13, the Annual Report to Shareholders for the year ended
+December 31, 2003, which description is incorporated herein by reference.
+
+
+ITEM 2.	DESCRIPTION OF PROPERTY
+A description of the Company's property ownership is set forth on Page 1
+of Exhibit 13, the Annual Report to Shareholders for the year ended
+December 31, 2003, which description is incorporated herein by reference.
+
+ITEM 3.	LEGAL PROCEEDINGS
+
+No legal proceedings presently pending by or against Diversified Realty,
+Inc., are described herein as management believes that the outcome of
+such litigation should not have a material adverse effect on the financial
+position of the Company taken as a whole.
+
+ITEM 4.	SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS
+
+	No matters were submitted to a vote of security holders during the
+fourth quarter of 2003.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1
+<PAGE>
+
+DIVERSIFIED REALTY, INC.
+
+PART II
+
+ITEM 5.	MARKET FOR COMMON EQUITY AND RELATED STOCKHOLDER MATTERS;
+ITEM 6.	MANAGEMENT'S DISCUSSION AND ANALYSIS OR PLAN OF OPERATIONS;
+ITEM 7.	FINANCIAL STATEMENTS
+
+Items 5, 6 and 7 are set forth on Page 15, Pages 1through 2 and Pages 6
+through 14, respectively, of Exhibit 13, the Annual Report to
+Shareholders for the year ended December 31, 2003, which report is
+incorporated herein by reference.
+
+
+ITEM 8.	CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING
+            AND FINANCIAL DISCLOSURE
+
+There have been no disagreements between the Company and its independent
+auditors on any matter of accounting principles or practices or financial
+statement disclosure or auditing scope or procedure since the Company's
+inception of a nature which, if not resolved, would have caused the
+accountant to make reference in connection with its report.  On
+October 13, 2003, Dwyer & Company, CPA, PC, our independent accountant,
+resigned, when the review for the period ending September 30, 2003 was
+completed.  On February 23, 2004, we engaged Anderson ZurMuehlen & Co.,
+P.C. as our principal accountant to audit our financial statements.  The
+decision to change was approved by the Board of Directors.  Dwyer &
+Company, CPA, PC's  report on the financial statements for either of the
+past two years did not contain an adverse opinion and was not modified as
+to uncertainty, audit scope or accounting principles.  A current report
+on Form 8-K was filed with the SEC on February 24, 2004 regarding the
+change in auditors.
+
+
+ITEM 8A.	CONTROLS AND PROCEDURES
+
+	Evaluation of disclosure controls and procedures.  Based on an
+evaluation carried out under the supervision and with the
+participation of our management, including our Chief Executive Officer
+and Chief Financial Officer during the 90-day period prior to the filing
+of this report, our Chief Executive Officer and Chief Financial Officer
+believe that our disclosure controls and procedures, as defined in
+Securities Exchange Act Rules 13a-14 and 15d-14, are, to the best of
+their knowledge, effective.
+
+Changes in internal controls, subsequent to the date of this evaluation,
+our Chief Executive Officer and Chief Financial Officer are not aware of
+any significant changes in our internal controls over financial
+reporting, including any corrective actions with regard to significant
+deficiencies and material weakness, or in other factors that could
+significantly affect these controls to ensure that information required
+to be disclosed by us, in reports that we file or submit under the
+Securities Act, is recorded, processed, summarized, and reported within
+the time period specified in Securities and Exchange Commission rules or
+regulations.
+2
+<PAGE>
+
+DIVERSIFIED REALTY, INC.
+PART III
+
+ITEM 9.	DIRECTORS, EXECUTIVE OFFICERS, PROMOTERS AND CONTROL
+            PERSONS; COMPLIANCE WITH SECTION 16(a) OF THE EXCHANGE ACT.
+The following are the directors and executive officers of the Company.
+All directors and officers serve as such until the 2004 annual meeting
+of shareholders or until their successors are elected and qualify.
+NAME, AGE, AND YEAR ELECTED				POSITION
+S. M. McCann, 		40,	1990			Director
+Tyler Arneson		24,	2003			Director
+John Ross      		50,	2001			Director
+R. Bruce Robson		62,	2001			Chairman of the Board,
+                                                  President
+Paul J. McCann		83,     2003		Chief Executive Officer
+D.M. Mellinger	      50,     2003            Chief Financial Officer
+
+S. M. McCann is the president and a director of UAC, Inc., an affiliate
+of M Corp, and the president and a director of M Corp.   Tyler Arneson
+is a director of TSI, Inc. and Consulting Associates, Inc.
+Paul J. McCann is also Chief Executive Officer for TSI, Inc. and M Corp.
+
+Family Relationships
+S. M. McCann and Tyler Arneson are descendents of Anne Marie and Paul J.
+McCann. Members of the Anne Marie and Paul J. McCann family control a
+majority of the common stock of M Corp. who owns 94.6% of the Company.
+Anne Marie McCann and Paul J. McCann each disclaim beneficial ownership
+of any shares of stock not owned of record directly by them. Anne Marie
+and Paul J. McCann do not personally own any stock of the Company.
+
+Following are the executive officers of the Company and a description of
+their principal business experience:
+Name and Position   	Business Experience During Past 5 Years
+
+R. Bruce Robson				Data Processing Manager,
+Chairman of the Board,			Sletten Construction Co.
+President					Great Falls, Montana
+
+S. M. McCann		     		Attorney at Law, Business Owner, Investor
+Director	     				San Luis Obispo, California
+
+Tyler Arneson				Carpenter
+Director					Billings, Montana
+
+John Ross					Sales Representative, Maytag Corporation
+Director					Billings, Montana
+
+Paul J. McCann				Executive Officer and Business Manager
+Chief Executive Officer			Clearwater, Florida
+
+D. M. Mellinger				Accountant
+Chief Financial Officer			Great Falls, Montana
+
+
+There has been no audit committee established.  The Board of Directors did
+not deem an audit committee necessary due to the small size of the Company,
+the fact that 88.2% of the Company's assets are in cash and due to the fact
+that Diversified Realty, Inc. is not publicly traded or listed on any
+securities exchange.
+
+Based solely on its review of reports of persons subject to Section 16 of
+the Securities and Exchange Act, the Company believes that required reports
+were filed in a timely manner disclosing transactions involving the
+Company's common stock.
+3
+<PAGE>
+
+DIVERSIFIED REALTY, INC.
+
+ITEM 10.	EXECUTIVE COMPENSATION
+
+Summary Compensation Table. The following table shows the cash compensation
+paid by the Company to its Chief Executive Officer for 2003, 2002 and 2001.
+
+Name of Individual			Calendar		 Total Cash
+   and Position   			  Year  		 Compensation
+
+Paul J. McCann                           2003               None
+Chief Executive Officer                  2002               None
+                                         2001              $44,000
+
+No other officer compensation exceeded $100,000 annually during 2001, 2002
+or 2003.  The Company has not adopted a formal plan for the compensation of
+directors.  During 2003, the Company paid $1000  to the directors.   The
+Company does not have any employment agreements and did not provide any long
+term compensation, stock or other form of non-cash compensation to any of
+the individuals listed above in the last 3 fiscal years.
+
+ITEM 11.	SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT
+
+(a)	Security Ownership of Certain Beneficial Owners
+Set forth below is certain information concerning persons who are known by
+the Company to own beneficially more than 5% of the Company's voting shares
+on January 31,  2004.
+
+							Amount and Nature
+Title of		Name and Address of	Of Beneficial	Percent
+Class   		Beneficial Owner		Ownership         of Class
+
+$.10 Par Value   M Corp                   5,076,708 (1)     94.6%
+Common Stock     110 Second Street South  Direct
+                 Great Falls, Montana
+
+(1)	S. M. McCann, M. A. Arneson and other members of the Anne Marie and
+Paul J. McCann family own directly or indirectly a majority of the
+outstanding stock of M Corp, which company owns 5,076,708 shares (94.6%)
+of the outstanding common stock of the Company. Members of the Anne Marie
+and Paul J. McCann family own directly 3,033 shares (.06%) of the
+Company's stock. Anne Marie and Paul J. McCann, parents of S. M. McCann
+and M. A. Arneson and grandparents of Tyler Arneson, each disclaim
+beneficial ownership of any shares of stock not owned of record directly
+by them. Neither Anne Marie nor Paul J. McCann personally own of record
+any shares of stock in the Company.
+
+4
+<PAGE>
+
+DIVERSIFIED REALTY, INC.
+
+
+
+ITEM 11.  SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT
+	  -Continued
+
+(b)	Security Ownership of Management
+
+The following sets forth as of January 31, 2004, information concerning
+the beneficial ownership of the Company's common stock by each director,
+each executive officer named in the Company's Summary Compensation Table
+and by all directors and executive officers of the Company as a group:
+
+				Amount and Nature
+Name of Beneficial Owner        of Beneficial Ownership		Percent
+
+Paul J. McCann					-- (1)			  --
+1582 Gulf Blvd, Unit 1201
+Clearwater, Florida   33767
+
+All Directors and Officers
+  As a Group	                        -- (1)                    --
+
+(1)	See Note (1) Item 11(a) on preceding page.
+
+(c)	Changes In Control
+
+The Company knows of no contractual arrangements which may at a subsequent
+date result in a change in control of the Company.
+
+ITEM 12.	CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS
+
+Transactions with the Company's parent company, M Corp and its other
+subsidiaries, are disclosed in Note 6 of the notes to financial statements
+in the Annual Report to Shareholders for the year ended December 31, 2003,
+which note is incorporated herein by reference. M Corp owns approximately
+94.6% of the Company's outstanding common stock.
+
+
+
+5
+<PAGE>
+
+DIVERSIFIED REALTY, INC.
+
+PART IV
+
+ITEM 13.	EXHIBITS AND REPORTS
+(a)	Exhibits
+
+Signatures						         			  8
+No. 3.1  	Articles of Incorporation                               9
+No. 3.2	        By-Laws                                         9
+No. 10		Material Contracts                                9
+No. 13 - 	Diversified Realty, Inc., Annual Report to
+                Shareholders for the year ended
+                December 31, 2003, incorporated by reference
+                in this Form 10-KSB                                 20
+No. 14.1-  	Code of Ethics                                          11-12
+No. 16  	Letter on change in certifying accountant               13
+No. 23.1	Letters of Consent                                      13-14
+No. 27		Financial Data Schedules - Diversified Realty, Inc.,
+	        Annual Report to Shareholders for the year ended
+                December 31, 2003, Pages 6-14 of Exhibit 13,
+                incorporated by reference in this Form 10KSB        20
+No. 31.1 	Certification required under Section 302                15-16
+No. 31.2  	Certification required under Section 302                17-18
+No. 32.1 	Certification required under Section 906                19
+No. 32.2  	Certification required under Section 906                19
+
+(b)	Reports on Form 8-K
+No Current Reports on Form 8-K were filed by the Company during the three
+months ended December 31, 2003.  Subsequently, Form 8-K was filed on
+February 24, 2004, upon engagement of new auditing firm, Anderson
+ZurMuehlen, effective with the year end audit as of December 31, 2003.
+
+ITEM 14. 	PRINCIPAL ACCOUNTANT FEES AND SERVICES
+Audit Fees
+
+The aggregate fees for professional services rendered by Dwyer & Company,
+CPA, PC for the audit of annual financial statements and its review of
+financial statements included in Forms 10-QSB in fiscal years 2002 and
+2003 were $4,800 and $1,800, respectively.  The aggregate fees billed for
+professional services rendered by Anderson ZurMuehlen & Co., P.C. for its
+audit of our annual financial statements in the fiscal year 2003 were
+$9,000.
+
+Audit-Related Fees
+
+Aggregate fees for audit related services by Dwyer & Company CPA PC in
+regards to re-issuance of their audit report for the period ending
+December 31, 2002 for inclusion in 2003 annual reports were $422.
+
+Tax Fees
+
+There were no professional service fees rendered by the principal
+accountant for tax advice, tax compliance or tax planning for the fiscal
+years 2002 and 2003.
+
+Other Fees
+
+During the fourth quarter of the year ended December 31, 2003 the Company
+was billed $8,650 by independent accountant, Donald R. Strizki, CPA PC,
+for the preparation and filing of the Schedule 13e-3 on behalf of the
+Company.  There were no other fees during 2002.
+
+6
+<PAGE>
+DIVERSIFIED REALTY, INC.
+
+ITEM 15.    PURCHASES OF EQUITY SECURITIES BY THE SMALL BUSINESS ISSUER AND
+	        AFFILIATED PURCHASERS.
+
+The following table represents the total number of shares repurchased by
+Diversified Realty, Inc. during 2003.
+
+					         Total Number of      Maximum Number
+		Total Number Average Price Shares Purchased as  of Shares that May
+		of Shares    Paid	         a Part of Publicly   Yet Be Purchased
+		Purchased    Per Share      Announced Plans	Under the Plans
+
+Period
+
+Jan 1-31, 2003	 21.8		$.50			-0-			-0-
+Feb 1-29, 2003	  -0-		 .50			-0-			-0-
+Mar 1-31, 2003	  -0-		 .50			-0-			-0-
+Apr 1-30, 2003	 41.8		 .50			-0-			-0-
+May 1-31, 2003	 20		 .50			-0-			-0-
+June 1-30,2003	 -0-		 .50			-0-			-0-
+July 1-31, 2003	 101		 .50			-0-			-0-
+Aug 1-31, 2003	 279.8	 .50			-0-			-0-
+Sept 1-30,2003	 -0-		 .50			-0-			-0-
+Oct 1-31, 2003	 102.8	 .50			-0-			-0-
+Nov 1-30, 2003	 -0-		 .50			-0-			-0-
+Dec 1-31, 2003	 -0-		 .50			-0-			-0-
+
+   Totals		567.2		$.50			-0-			-0-
+
+
+All transactions in the cash repurchase of 567.2 shares were not done pursuant
+to publicly announced plans or programs, and were done at the request of
+shareholders via phone calls or letters.  The registrant's stock is not traded
+on any securities exchange.  There exists no public market for the registrant's
+stock.
+
+
+
+7
+<PAGE>
+DIVERSIFIED REALTY, INC.
+
+SIGNATURES
+
+
+
+
+
+
+In accordance with Section 13 or 15(d) of the Exchange Act, the Registrant has
+caused this report to be signed on its behalf by the undersigned, thereunto
+duly authorized.
+
+
+
+DIVERSIFIED REALTY, INC.
+
+
+
+
+Date:  March 31, 2004	By: s/R. Bruce Robson
+	          R. Bruce Robson,
+	          President
+		 Chairman of the Board
+
+
+
+In accordance with the Exchange Act, this report has been signed below by the
+following persons on behalf of the Registrant and in the capacities indicated
+on March 31, 2004.
+
+
+Director	s/Tyler Arneson
+	  Tyler Arneson
+
+
+Director 	s/S. M. McCann
+	   S. M. McCann
+
+
+Chief Financial Officer	 s/D. Mellinger
+	   D. Mellinger
+
+
+Chief Executive Officer	s/Paul J. McCann
+	    Paul J. McCann
+
+
+8
+<PAGE>
+DIVERSIFIED REALTY, INC.
+
+EXHIBIT 3.1
+
+ARTICLES OF INCORPORATION
+
+
+The Articles of Incorporation were signed on December 2, 1957.  There have
+been no amendments to the Articles of Incorporation during the 2003 or 2002
+calendar years.
+
+
+
+
+
+
+
+
+EXHIBIT 3.2
+
+BY-LAWS
+
+
+During the last two  years  ending December 31, 2003 and December 31, 2002,
+there were no changes to the Diversified Realty, Inc. By-laws.
+
+
+
+
+
+
+
+EXHIBIT 10
+
+MATERIAL CONTRACTS
+
+No material contracts were executed or became effective during 2003 or 2002.
+
+
+
+
+
+
+
+
+
+
+
+
+
+9
+<PAGE>
+
+DIVERSIFIED REALTY, INC.
+
+EXHIBIT 14.1
+
+CODE OF ETHICS
+
+Principals Governing Professional and Ethical Conduct
+
+It is the policy of Diversified Realty, Inc. (the "Company") that the
+Company's Chief Executive Officer, Chief Financial Officer, principal
+accounting officer and controller (or persons performing similar functions)
+adhere to, advocate and promote the following principals:
+
+	-Honest and ethical conduct, including the ethical handling of actual
+       or apparent conflicts of interest between personal and professional
+         relationships;
+	-Full, fair, accurate, timely and understandable disclosures in reports
+         and documents that the Company files with, or submits to, the SEC
+         and other public communications made by the Company; and
+	-Compliance with laws, rules and regulations applicable to the Company.
+
+
+Reporting and Treatment of Violations
+
+Persons, who become aware of suspected violations of this Code should report
+such suspected violations promptly to the Chief Financial Officer, who will
+forward such report to the Company's Chief Executive Officer and Board of
+Directors.  To assist in the response to or investigation of the alleged
+violation, the report should contain as much specific information as possible
+to allow for proper assessment of the nature, extent and urgency of the
+alleged violation.  Without limiting the foregoing, the report should, to the
+extent possible, contain the following information:
+	-the alleged event, matter or issue that is the subject of the alleged
+         violation;
+	-the name of each person involved;
+	-if the alleged violation involves a specific event or events, the
+         approximate date and location of each event; and
+	-any additional information, documentation or other evidence available
+         relating to the alleged violation.
+
+The Chief Executive Officer shall have the power to monitor, investigate,
+make determinations and recommend action to the Board of Directors with respect
+to violations of this Code.  In determining whether a violation of this Code
+has occurred, the Chief Executive Officer may take into account:
+	-the nature and severity of the violation;
+	-whether the violation was a single occurrence or involved repeated
+         occurrences;
+	-whether the violation appears to have been intentional or inadvertent;
+	-whether the person in question had been advised prior to the violation
+	 as to the proper course of action;
+	-whether the person in question had committed other violations in the
+	 past; and
+	-such other facts and circumstances as the Chief Executive Officer shall
+         deem advisable in the context of the alleged violation.
+
+
+
+
+
+10
+<PAGE>
+
+DIVERSIFIED REALTY, INC.
+
+EXHIBIT 14.1 - CONTINUED
+
+CODE OF ETHICS
+
+Consequences of Violations
+
+If a violation is substantiated, the Board of Directors, upon the
+recommendation of the Chief Executive Officer, may impose such sanctions
+or take such actions as it deems appropriate, including but not limited
+to, the following:
+	-Disciplinary action (including censure, re-assignment, demotion,
+         suspension or termination);
+	-Pursuit of any and all remedies available to the Company for any
+       damages or harm resulting from a violation, including injunctive
+        relief; and
+	-Referral of matters to appropriate legal or regulatory authorities
+       for investigation and prosecution.
+
+
+Requests for Waivers and Changes in Code
+
+A waiver of a provision of this Code shall be requested whenever there is
+reasonable likelihood that a contemplated action will violate the Code.  Any
+waiver (including an implicit waiver) that constitutes a material departure
+from a provision of the Code shall be publicly disclosed on a timely basis,
+to the extent required by applicable rules and regulations of the SEC.  In
+addition, any amendments to this Code (other than technical, administrative
+or other non-substantive amendments) shall be publicly disclosed on a timely
+basis, to the extent required by applicable rules and regulations of the SEC.
+
+
+
+
+11
+<PAGE>
+
+DIVERSIFIED REALTY, INC.
+
+EXHIBIT 16
+
+LETTER ON CHANGE IN CERTIFYING ACCOUNTANT
+
+[DWYER & COMPANY, CPA, PC LETTERHEAD]
+
+DWYER & COMPANY, CPA, PC [LOGO]
+
+18 6TH street North, Suite 200, Great Falls, MT   59401
+Phone (406) 453-2463  Fax (406) 727-3225
+
+
+
+
+February 23, 2004
+
+Securities and Exchange Commission
+450 Fifth Street, N.W.
+Washington, D.C.   20549
+
+Ladies and Gentlemen:
+
+I have read the Form 8-K, item 4, for Diversified Realty, Inc.
+(SEC File No. 0-2864) dated February  23, 2004, and I agree
+with the statements made therein concerning my resignation.
+
+
+Sincerely,
+
+
+
+ /s/ Michael K. Dwyer
+Michael K. Dwyer, CPA
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+12
+<PAGE>
+
+DIVERSIFIED REALTY, INC.
+
+EXHIBIT 23.1
+
+CONSENT OF INDEPENDENT ACCOUNTANTS
+
+[LETTERHEAD OF ANDERSON ZURMUEHLEN & CO., P.C.]
+
+We consent to the use in this report on Form 10KSB of our report
+dated March 5, 2004, relating to the financial statements as of
+and for the year ended December 31, 2003 of Diversified Realty,
+Inc.
+
+
+
+
+
+	/s/ Anderson ZurMuehlen & Co., P.C.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+13
+<PAGE>
+
+DIVERSIFIED REALTY, INC.
+
+EXHIBIT 23.2
+
+CONSENT OF INDEPENDENT ACCOUNTANTS - CONTINUED
+
+[DWYER & COMPANY, CPA, PC LETTERHEAD]
+
+DWYER & COMPANY, CPA, PC [LOGO]
+
+18 6TH street North, Suite 200, Great Falls, MT   59401
+Phone (406) 453-2463
+
+
+
+We consent to the use in this report on Form 10KSB of our
+report dated April 2, 2003, relating to the financial
+statements as of and for the year ended December 31, 2002
+of Diversified Realty, Inc.
+
+
+
+/s/ Dwyer & Company, CPA, PC
+    Dwyer & Company, CPA, PC
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+14
+<PAGE>
+
+DIVERSIFIED REALTY, INC.
+
+EXHIBIT 31.1
+
+CERTIFICATION
+
+I, Paul J. McCann, certify that:
+
+
+1.  I have reviewed this annual report on Form 10-KSB of
+    Diversified Realty, Inc.
+
+2.  Based on my knowledge, this report does not contain any
+    untrue statement of a material fact or omit to state a
+    material fact necessary to make the statements made, in
+    light of the circumstances under which such statements
+    were made, not misleading with respect to the period
+    covered by this report;
+
+3.  Based on my knowledge, the financial statements, and
+    other financial information included in the annual report,
+    fairly present in all material respects the financial
+    condition, results of operations and cash flows of
+    Diversified Realty, Inc., as of, and for, the periods
+    presented in this report.
+
+4.  Diversified Realty, Inc.'s other certifying officers and I
+    are responsible for establishing and maintaining disclosure
+    controls and procedures (as defined in Exchange Act Rules
+    13a-15(e) and 15d-15(e) and internal control over financial
+    reporting (as defined in Exchange Act Rules 13a-15(f) and
+    15d-15(f) for Diversified Realty, Inc. and have:
+
+a. Designed such disclosure controls and procedures, or caused
+such disclosure controls and procedures to be designed under our
+supervision, to ensure that material information relating to
+Diversified Realty, Inc., including its consolidated subsidiaries,
+is made known to us by others within those entities, particularly
+during the period in which this report is being prepared;
+
+ b.  Evaluated the effectiveness of Diversified Realty, Inc.'s
+disclosure controls and procedures and presented in this report
+our conclusions about the effectiveness of the disclosure controls
+and procedures, as of the end of the period covered by this report
+based on such evaluation; and:
+
+c. Disclosed in this report any change in Diversified Realty,
+Inc.'s internal control over financial reporting that occurred
+during Diversified Realty, Inc.'s fourth fiscal quarter that has
+materially affected, or is reasonably likely to materially affect
+Diversified Realty, Inc.'s internal control over financial
+reporting;
+
+15
+<PAGE>
+
+DIVERSIFIED REALTY, INC.
+
+EXHIBIT 31.1 - CONTINUED
+
+CERTIFICATION
+
+ 5.  Diversified Realty Inc.'s other certifying officers and I have
+     disclosed, based on our most recent evaluation of internal
+     control over financial reporting, to Diversified Realty, Inc.'s
+     auditors and the audit committee of Diversified Realty, Inc.'s
+     Board of Directors (or persons performing the equivalent
+     functions):
+
+a.  All significant deficiencies and material weaknesses in the
+    design or operation of internal controls over financial reporting
+    which are reasonably likely to adversely affect Diversified
+    Realty, Inc.'s ability to record, process, summarize and report
+    financial information; and
+
+b. any fraud, whether or not material, that involves management or
+   other employees who have a significant role in Diversified
+   Realty, Inc.'s internal control over financial reporting.
+
+
+
+    Date: April 15, 2004             s/Paul J. McCann
+                                        Paul J. McCann,
+                                        Chief Executive Officer
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+16
+<PAGE>
+
+DIVERSIFIED REALTY, INC.
+
+EXHIBIT 31.2
+
+CERTIFICATION
+
+I, D. Mellinger, certify that:
+
+1. I have reviewed this annual report on Form 10-KSB of
+     Diversified Realty, Inc.
+
+2. Based on my knowledge, this report does not contain any
+    untrue statement of a material fact or omit to state a
+    material fact necessary to make the statements made, in
+    light of the circumstances under which such statements
+    were made, not misleading with respect to the period
+    covered by this report;
+
+3. Based on my knowledge, the financial statements, and other
+   financial information included in the annual report, fairly
+   present in all material respects the financial condition,
+   results of operations and cash flows of Diversified Realty,
+   Inc., as of, and for, the periods presented in this report.
+
+4. Diversified Realty, Inc.'s other certifying officers and I
+   are responsible for establishing and maintaining disclosure
+   controls and procedures (as defined in Exchange Act Rules
+   13a-15(e) and 15d-15(e) and internal control over financial
+   reporting (as defined in Exchange Act Rules 13a-15(f) and
+   15d-15(f) for Diversified Realty, Inc. and have:
+
+a.  Designed such disclosure controls and procedures, or caused
+such disclosure controls and procedures to be designed under our
+supervision, to ensure that material information relating to
+Diversified Realty, Inc., including its consolidated subsidiaries,
+is made known to us by others within those entities, particularly
+during the period in which this report is being prepared;
+
+b.  Evaluated the effectiveness of Diversified Realty, Inc.'s
+disclosure controls and procedures and presented in this report
+our conclusions about the effectiveness of the disclosure
+controls and procedures, as of the end of the period covered by
+this report based on such evaluation; and:
+
+c. Disclosed in this report any change in Diversified Realty,
+Inc.'s internal control over financial reporting that occurred
+during Diversified Realty, Inc.'s fourth fiscal quarter that has
+materially affected, or is reasonably likely to materially affect
+Diversified Realty, Inc.'s internal control over financial
+reporting;
+
+
+
+17
+<PAGE>
+
+DIVERSIFIED REALTY, INC.
+
+EXHIBIT 31.2 - CONTINUED
+
+CERTIFICATION
+
+5.  Diversified Realty Inc.'s other certifying officers and I have
+    disclosed, based on our most recent evaluation of internal control
+    over financial reporting, to Diversified Realty, Inc.'s auditors
+    and the audit committee of Diversified Realty, Inc.'s Board of
+    Directors (or persons performing the equivalent functions):
+
+a.  All significant deficiencies and material weaknesses in the design
+    or operation of internal controls over financial reporting which
+    are reasonably likely to adversely affect Diversified Realty,
+    Inc.'s ability to record, process, summarize and report financial
+    information; and
+
+b.  any fraud, whether or not material, that involves management or
+    other employees who have a significant role in Diversified Realty,
+    Inc.'s internal control over financial reporting.
+
+
+
+    Date: April 15, 2004             s/D. Mellinger
+                                       D. Mellinger,
+					 Chief Financial Officer
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+18
+<PAGE>
+
+DIVERSIFIED REALTY, INC.
+
+EXHIBIT 32.1
+
+CERTIFICATION PURSUANT TO 18 U.S.C. SECTION 1350
+AS ADOPTED UPRSUANT TO
+SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002
+
+In connection with the Annual Report of Diversified Realty, Inc.
+on Form 10-KSB for the period ending December 31, 2003 as filed
+with the Securities and Exchange Commission on the date hereof
+(the "Report"),  I, Paul J. McCann, Chief Executive Officer of
+Diversified Realty, Inc., certify, pursuant to 18 U.S.C. Section
+1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley
+Act of 2002, to the best of my knowledge and belief, that;
+
+The report fully compiles with the requirements of section 13(a)
+or 15(d) of the Securities Exchange Act of 1934; and
+
+The information contained in the Report fairly presents, in all
+material respects, the financial condition and result of
+operations of Diversified Realty, Inc.
+
+Date:  April 14, 2004   s/Paul J. McCann
+                         Paul J. McCann, Chief Executive Officer
+
+EXHIBIT 32.2
+
+CERTIFICATION PURSUANT TO 18 U.S.C. SECTION 1350
+AS ADOPTED UPRSUANT TO
+SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002
+
+In connection with the Annual Report of Diversified Realty, Inc.
+on Form 10-KSB for the period ending December 31, 2003 as filed
+with the Securities and Exchange Commission on the date hereof
+(the "Report"), I, D. Mellinger, Chief Financial Officer of
+Diversified Realty, Inc., certify, pursuant to 18 U.S.C. Section
+1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley
+Act of 2002, to the best of my knowledge and belief, that;
+
+The report fully compiles with the requirements of section 13(a)
+or 15(d) of the Securities Exchange Act of 1934; and
+
+The information contained in the Report fairly presents, in all
+material respects, the financial condition and result of
+operations of Diversified Realty, Inc.
+
+Date:  April 14, 2004      s/D. Mellinger
+   			         D. Mellinger,
+                           Chief Financial Officer
+
+
+
+19
+<PAGE>
+
+
+
+
+
+
+DIVERSIFIED REALTY, INC.
+
+
+ANNUAL REPORT
+
+
+2003
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+20
+<PAGE>
+
+DIVERSIFIED REALTY, INC.
+ANNUAL REPORT
+
+DESCRIPTION AND LINES OF BUSINESS
+
+Diversified Realty, Inc. (herein referred to as the
+"Company") is a majority-owned subsidiary of M Corp,
+a financial holding company. As of December 31, 2003,
+M Corp owned approximately ninety-five percent of the
+outstanding common stock of the Company.
+
+The Company was formed as a Montana corporation on
+December 23, 1957 as "Prudential Diversified Services"
+and from 1963 to 1966 was involved in a Chapter X
+bankruptcy and reorganization proceeding.  From the plan
+of reorganization adopted by the United States District
+Court, creditors and holders of outstanding debentures
+were given the right to tender and convert to common stock
+of Diversified Realty, Inc. by December 30, 1972.
+Currently, Diversified Realty, Inc. is primarily engaged
+in the ownership and rental of 10 units of real property
+located exclusively in Yellowstone County, Montana.  The
+units have an average occupancy rate of 16 people.  The
+Company owns one property, not operated as a rental,
+located in Clearwater, Florida which is currently listed
+for sale with Caldwell Banker.
+
+Information as of December 31, 2003, concerning the gross
+carrying amount of real property, accumulated depreciation
+and encumbrances on a property by property basis is presented
+in Note 4, Investments in Real Estate, of the Notes to
+Financial Statements.  The Company does not own any one
+property which is equal to 10% or more of the Company's total
+assets and believes that all real property is adequately
+insured against loss.  The Company does not rely on just one
+or two tenants for its income.  All lease agreements are
+short term, expiring more than once per year.  The Company
+employed three part time persons in 2003.
+
+MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION
+AND RESULTS OF OPERATIONS
+
+Net Income decreased $66,255, 191.7%, in 2003 as compared with
+2002. The decrease in net income in 2003 as compared with 2002
+was due primarily to an increase in legal and accounting expenses
+and a decrease in dividend and interest revenue during 2003.
+
+Dividend and interest income decreased $9,342, 35.9%, in 2003 as
+compared with 2002. The decrease in dividend and interest income
+in 2003 as compared with 2002 was due to a decrease in rates
+earned by the Company.
+1
+
+<PAGE>
+DIVERSIFIED REALTY, INC.
+
+ANNUAL REPORT
+
+MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND
+RESULTS OF OPERATIONS - Continued
+
+Total operating expenses increased $43,696, 60.6%, in 2003 as
+compared with 2002.  Other expenses increased $30,415, 54%, in
+2003 as compared with 2002 due to increases in operating costs,
+mainly professional fees.
+
+Income tax expense increased $13,186, 121.5%, in 2003 as compared
+with 2002 due to the increase in deferred tax items as noted in
+Note 5. The Company files a consolidated federal income tax return
+with the Company's parent company and other affiliates.
+
+The Company has spent a great deal of time and effort planning and
+filing a Schedule 13e-3 and a Schedule 13e-3/A with the Securities
+Exchange Commission in order to merge with DRI, Inc., a  company
+formed November 10, 2003.  The purpose of the merger is to provide
+a source of liquidity to the unaffiliated security holders and to
+enable the Company to eliminate the burdensome time, expenses and
+costs associated with operating a public company.
+
+Transactions with the Company's parent company and its affiliates
+during 2003 and 2002 are disclosed in Note 6, Related Party
+Transactions, of the Notes to Financial Statements.
+
+The Company is considering acquisitions that would deplete the
+Company's available cash and thus affect the liquidity of the
+Company. The acquisition is discussed in Note 7 to the Financial
+Statements.
+
+
+
+
+
+
+
+
+
+
+
+
+
+2
+<PAGE>
+
+DIVERSIFIED REALTY, INC.
+
+ANNUAL REPORT TO SHAREHOLDERS
+
+FINANCIAL REPORT
+
+DECEMBER 31, 2003
+
+
+
+
+
+CONTENTS
+
+
+
+
+                                                        PAGE
+
+	Auditor's Reports                                 4-5
+
+
+FINANCIAL STATEMENTS
+
+Balance Sheets as of December 31, 2003 and 2002	        6
+Statements of Income for the Years Ended
+             December 31, 2003 and 2002	              7
+
+Statements of Stockholders' Equity for the Years Ended
+              December 31, 2003 and 2002	              8
+
+Statements of Cash Flows for the Years Ended
+              December 31, 2003 and 2002	              9
+
+     Notes to Financial Statements	                    10-14
+
+OTHER INFORMATION	                                      15
+
+
+
+
+
+
+
+
+
+
+
+
+
+3
+<PAGE>
+
+
+
+
+
+INDEPENDENT AUDITOR'S REPORT
+
+
+
+To the Board of Directors
+Diversified Realty, Inc.
+Great Falls, MT
+
+We have audited the accompanying balance sheet of Diversified
+Realty, Inc. as of December 31, 2003, and the related
+statements of income, stockholders' equity and cash flows for
+the year then ended.  These financial statements are the
+responsibility of the Company's management.  Our
+responsibility is to express an opinion on these financial
+statements based on our audit.  The financial statements of
+Diversified Realty, Inc. for the year ended December 31, 2002
+were audited by other auditors whose report, dated April 2,
+2003, expressed an unqualified opinion on those statements.
+
+We conducted our audit in accordance with auditing standards
+generally accepted in the United States of America.  Those
+standards require that we plan and perform the audit to obtain
+reasonable assurance about whether the financial statements are
+free of material misstatement.  An audit includes examining, on
+a test basis, evidence supporting the amounts and disclosures
+in the financial statements.  An audit also includes assessing
+the accounting principles used and significant estimates made
+by management, as well as evaluating the overall financial
+statement presentation.  We believe that our audit provides a
+reasonable basis for our opinion.
+
+In our opinion, the financial statements referred to above
+present fairly, in all material respects, the financial
+position of Diversified Realty, Inc. as of December 31, 2003,
+and the results of its operations and its cash flows for the
+year then ended in conformity with accounting principles
+generally accepted in the United States of America.
+
+
+
+S/Anderson ZurMuehlen & Co., P.C.
+
+Anderson ZurMuehlen & Co., P.C.
+828 Great Northern Boulevard
+P.O. Box 1040
+Helena, MT   59624-1040
+
+March 5, 2004
+
+
+
+
+4
+<PAGE>
+
+
+
+
+
+REPORT OF INDEPENDENT AUDITORS
+
+
+
+To the Board of Directors
+Diversified Realty, Inc.
+Great Falls, MT   59401
+
+We have audited the accompanying balance sheet of Diversified
+Realty, Inc., as of December 31, 2002, and the related
+statements of income, stockholders' equity and cash flows for
+the year then ended.  These financial statements are the
+responsibility of the Company's management.  Our responsibility
+is to express an opinion on these financial statements based
+on our audit.
+
+We conducted our audit in accordance with auditing standards
+generally accepted in the United States of America.  Those
+standards require that we plan and perform the audit to obtain
+reasonable assurance about whether the financial statements are
+free of material misstatement.  An audit includes examining, on
+a test basis, evidence supporting the amounts and disclosures
+in the financial statements.  An audit also includes assessing
+the accounting principles used and significant estimates made
+by management, as well as evaluating the overall financial
+statement presentation.  We believe that our audit provides a
+reasonable basis for our opinion.
+
+In our opinion, the financial statements referred to above
+present fairly, in all material respects, the financial
+position of Diversified Realty, Inc., as of December 31,
+2002, and the results of its operation and its cash flows for
+the year then ended, in conformity with accounting principles
+generally accepted in the United States of America.
+
+
+
+
+s/Dwyer & Company, CPA, PC
+
+Dwyer & Company, CPA, PC
+18 6th Street North, Suite 200
+Great Falls, MT   59401
+
+
+April 2, 2003
+Great Falls, MT
+
+
+
+5
+<PAGE>
+
+DIVERSIFIED REALTY, INC.
+BALANCE SHEETS
+DECEMBER 31, 2003 AND 2002
+
+ASSETS		                             2003              2002
+Current Assets
+   Cash (Note 2)                         $ 2,243,026        $ 2,237,202
+   Marketable Securities (Note 3)              3,290              2,832
+   Prepaid Expenses                            4,662                --
+   Income Tax Prepayments                        --              12,032
+   Due From Parent Company (Note 6)          113,951            114,132
+             Total Current Assets        $ 2,364,929        $ 2,366,198
+
+Investments in Property, Plant and
+  Equipment, at Cost (Note 4)
+   Land                                       12,761            12,761
+   Buildings                                 340,815           340,815
+   Furniture, Fixtures and Equipment           4,897            66,467
+		                                 358,473           420,043
+      Less Accumulated Depreciation         (184,855)         (231,659)
+      Net Property, Plant and Equipment      173,618           188,384
+
+Other Assets
+   Long-Term Deferred Income Taxes (Note 1,5)  4,052            16,450
+
+Total Assets                             $ 2,542,599       $ 2,571,032
+
+LIABILITIES AND STOCKHOLDERS' EQUITY
+Current Liabilities
+   Accrued Expenses                     $    13,300        $    10,707
+   Current Deferred Income Taxes              1,340                654
+            Total Current Liabilities   $    14,640        $    11,361
+
+Stockholders' Equity
+   Common Stock, $.10 Par Value,
+   5,367,108 and 5,367,675 shares issued and
+   outstanding as of December 31, 2003 and
+   2002, respectively                       536,711             536,768
+Capital Surplus                           1,927,078           1,927,304
+Retained Earnings                            62,221              93,921
+Accumulated Other Comprehensive Income
+   (Note 1)                                   1,949               1,678
+   Total Stockholders' Equity             2,527,959           2,559,671
+
+Total Liabilities and Stockholders'
+   Equity                               $ 2,542,599         $ 2,571,032
+
+
+
+                         See Notes to Financial Statements.
+
+
+
+
+                                         6
+<PAGE>
+
+DIVERSIFIED REALTY, INC.
+
+STATEMENTS OF INCOME
+FOR THE YEARS ENDED DECEMBER 31, 2003 AND 2002
+
+Income                                           2003        2002
+   Rent                                        $ 69,729     $ 69,760
+   Dividends and Interest                        16,656       25,998
+                                                 86,385       95,758
+
+Expenses
+   Salaries and Payroll Costs                     2,427          431
+   Property Taxes and Licenses                   22,842       20,113
+   Depreciation                                  14,766       15,345
+   Other Expenses                                75,714       36,164
+                                                115,749       72,053
+
+Income (Loss) Before Income Taxes               (29,364)      23,705
+
+Provision for Income Taxes (Note 5)              (2,336)      10,850
+
+            Net Income (Loss)                  $(31,700)    $ 34,555
+
+Other Comprehensive Income (Loss)
+   Net of Income Taxes:
+   Unrealized Holding Gains (Losses)                271        1,678
+
+		Comprehensive Income (Loss)    $     (31,429)   $ 36,233
+
+Basic Earnings (Loss) Per Share                 $ (0.01)     $  0.01
+
+Weighted Average Shares                        5,367,535   5,369,394
+
+
+
+
+
+
+                           See Notes to Financial Statements.
+
+
+
+
+
+
+
+
+
+
+
+7
+<PAGE>
+
+DIVERSIFIED REALTY, INC.
+
+STATEMENTS OF STOCKHOLDERS' EQUITY
+
+FOR THE YEARS ENDED DECEMBER 31, 2003 and 2002
+
+							          		    Accumulated
+								  		    Other
+				 	 Common     Capital   Retained  Comprehensive
+				  	 Stock	Surplus   Earnings  Income      Total
+
+Balances, January 1, 2002   $ 536,974 $1,928,129 $59,366  $  -0-  $ 2,524,469
+Net Income						        34,555 	           34,555
+
+Cancelled Stock		        (206)      (825)                       (1,031)
+
+Net Unrealized Holding Gains
+  Net of income taxes of $1,154				       1,678      1,678
+
+Balances, December 31, 2002 $ 536,768 $ 1,927,304 $93,921  $ 1,678 $2,559,671
+
+Net Loss						        (31,700)  	      (31,700)
+
+Cancelled Stock		             (57)    (226)				   283)
+
+Net Unrealized Holding Gains,
+  Net of income taxes of $187	         			            271       271
+
+Balances, December 31, 2003 $ 536,711  $ 1,927,078 $62,221  $ 1,949 $ 2,527,959
+
+
+
+
+
+
+
+
+See Notes to Financial Statements.
+
+8
+<PAGE>
+
+DIVERSIFIED REALTY, INC.
+STATEMENTS OF CASH FLOWS
+FOR THE YEARS ENDED DECEMBER 31, 2003 and 2002
+
+INCREASE (DECREASE) IN CASH
+  							2003  	  2002
+CASH FLOWS FROM OPERATING ACTIVITIES:
+
+  Cash Received From Customers  		$ 69,804  	$ 70,011
+
+  Cash Paid to Suppliers and Employees  	(91,264)  	(85,043)
+
+  Dividends & Interest Received in Cash  	16,656   	 25,998
+
+  Income Taxes Received (Paid) in Cash 	10,730   	  (550)
+
+Net Cash Provided By Operating Activities 5,926   	 10,416
+
+CASH FLOWS FROM INVESTING ACTIVITIES:
+
+  Cash Purchase of Equipment     		--  		(1,073)
+
+Net Cash Used By Investing Activities  	0   		(1,073)
+
+CASH FLOWS FROM FINANCING ACTIVITIES:
+
+  Repurchase of Common Stock  		(283)  	(1,030)
+
+  Net Cash Advances From (To) Parent Company 181        3,335
+
+Net Cash Provided By (Used In) Financing
+Activities 						(102)         2,305
+
+     NET INCREASE IN CASH  			5,824   	  11,648
+
+     CASH - BEGINNING OF YEAR  		2,237,202      2,225,554
+
+     CASH - END OF YEAR  			$ 2,243,026  $ 2,237,202
+
+
+RECONCILIATION OF NET INCOME TO NET CASH PROVIDED BY OPERATING ACTIVITIES
+
+Net Income(Loss)  				$ (31,700) $ 	34,555
+
+Adjustments to Reconcile Net Income to Net
+Cash Provided By Operating Activities:
+
+  Depreciation  				 	14,766   	 	15,345
+
+  Deferred Taxes  				 12,897          (12,650)
+
+  Changes in Operating Assets and Liabilities
+
+    Decrease in Income Tax Prepayments  	 12,032   	   	950
+
+    (Increase) Decrease in Prepaid Expenses(4,662)     	  --
+
+    Increase (Decrease) in Current Liabilities 2,593       27,784)
+
+NET CASH PROVIDED BY OPERATING ACTIVITIES $ 5,926    $     10,416
+
+
+
+See Notes to Financial Statements.
+
+9
+<PAGE>
+
+DIVERSIFIED REALTY, INC.
+
+NOTES TO FINANCIAL STATEMENTS
+
+1.	SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+
+(a) Nature of Operations, Risks and Uncertainties
+
+The Company is engaged in the ownership and rental of ten
+properties located exclusively within Yellowstone County,
+Montana. The Company's rental operations are dependent in
+large part upon the economy and rental conditions within
+Yellowstone County, Montana. The Company leases its
+properties to lessees with terms of less than one year.
+
+The process of preparing financial statements in conformity
+with accounting principles generally accepted in the United
+States requires the use of estimates and assumptions that
+affect the reported amounts of certain types of assets,
+liabilities, revenues and expenses. Such estimates primarily
+relate to unsettled transactions and events as of the date
+of the financial statements. Actual results could differ from
+those estimates.
+
+(b)	Depreciation
+
+Depreciation for the various classifications of rental property,
+plant and equipment is computed using the straight-line and
+accelerated methods over the estimated useful lives of the
+assets as follows:
+
+Buildings						15 - 27 Years
+Furniture, Fixtures and Equipment	       3 - 10 Years
+
+(c)	Income Taxes
+
+The Company files a consolidated income tax return with its parent
+company. Income taxes are allocated to the Company based upon the
+ratio of the Company's pre-tax income to total consolidated pre-tax
+income.  The Company follows the practice of recording deferred
+income taxes resulting from timing differences between financial
+reporting and income tax reporting.
+
+(d)	Policy of Cash Equivalents
+
+For the purposes of the statement of cash flows, cash equivalents
+include time deposits, certificates of deposit and money market
+accounts, all with original maturities of three months or less.
+
+(e) Comprehensive Income
+
+Comprehensive income includes the difference between the total net
+unrealized gain on available-for-sale securities at December 31,
+2003 and the deferred income taxes applicable to the net unrealized
+gain.
+
+
+10
+<PAGE>
+
+DIVERSIFIED REALTY, INC.
+
+NOTES TO FINANCIAL STATEMENTS - (Continued)
+
+1.	SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES -(continued)
+
+(f) Retirement Plans
+
+The Company adopted an employees' savings plan under Section 401(k)
+of the Internal Revenue Code (the "Code") during 1998. The Company
+allows eligible employees to contribute the maximum percentage of
+their compensation allowed by the Code. The Company matches employee
+contributions in an amount equal to fifty percent of the employee's
+deferred compensation up to a maximum of $1,080 per year.
+Participants are at all times fully vested in their contributions
+and are gradually vested in the Company's contributions. The
+Company's 401(k) contributions and administrative costs were $0
+for 2003 and 2002.
+
+(g)	Earnings Per Share
+Basic earning per share (EPS) is calculated by dividing net income
+by the weighted number of common shares outstanding for the period.
+
+(h)	Reclassifications
+
+Certain reclassifications have been made to the prior year amounts to
+make them comparable to the 2003 presentation. These changes had no
+impact on previously reported results of operations or shareholders'
+equity.
+
+2.	CASH BALANCES
+
+The Company maintains cash accounts with various financial
+institutions and stock brokerage firms. Cash balances are insured up
+to $100,000 by either the Securities Investor Protection Corporation
+("SIPC") or the Federal Deposit Insurance Corporation ("FDIC"). At
+December 31, 2003, cash balances totaling $2,085,152 were uninsured
+by either the SIPC or the FDIC.
+
+3. INVESTMENT SECURITIES
+
+In accordance with SFAS No. 115, the Company classifies all of its
+current and noncurrent investments, as available for sale.
+Following is a summary of the Company's investments:
+
+	Current Assets:			 2003	       2002
+	Cost				 $       --    $     --
+	Gross Unrealized Holding Gain         3,290	      2,832
+
+	Fair Value			 $    3,290	$     2,832
+
+Unrealized gains or losses are shown as other comprehensive income
+or loss in the Company's statements of income for 2003 and 2002.
+
+11
+<PAGE>
+
+4.  INVESTMENTS IN REAL ESTATE
+<TABLE>
+<CAPTION>
+
+                               GROSS AMOUNT CARRIED
+                                 ON BALANCE SHEET
+                 DATE          AT DECEMBER 31, 2003     ACCUMULATED     AMOUNT OF
+DESCRIPTION  CONSTRUCTED    LAND   BUILDINGS   TOTAL    DEPRECIATION   ENCUMBRANCE
+<S>                      <C>       <C>        <C>          <C>             <C>
+Investment
+ Property
+ Florida         1988    $    -    $122,000   $122,000     $  59,084       $  -
+
+Rental Units
+  Montana        Var.         -     218,815    218,815       122,355          -
+
+Miscellaneous
+  Properties              12,761       -        12,761          -             -
+
+Totals                   $12,761   $340,815   $353,576     $ 167,659       $  -
+</TABLE>
+
+
+Reconciliations Of Total Real Estate Carrying Value For The Two Years Ended
+December 31, 2003 are as follows:
+
+                                               2003              2002
+Balance, Beginning of Year                  $353,576           $353,576
+  Less Retirements                              -                  -
+Balance, End of Year                        $353,576           $353,576
+
+Reconciliations Of Accumulated Depreciation For The Two Years Ended
+December 31, 2003 are as follows:
+
+                                               2003              2002
+Balance, Beginning of Year                  $167,659           $153,879
+  Add Provision for Depreciation              13,780             13,780
+  Less Retirements and Sales                     -                  -
+Balance, End of Year                        $181,439           $167,659
+
+12
+<PAGE>
+
+
+DIVERSIFIED REALTY, INC.
+
+NOTES TO FINANCIAL STATEMENTS - Continued
+
+5.	INCOME TAXES
+
+	INcome tax expense (benefit) consists of the following:
+
+
+
+					2003	      2002
+
+	Current:
+	U.S. Income Taxes      $ (10,611)  $	300
+	State Income Taxes            50          1,500
+                               (10,561)         1,800
+	Deferred:
+	U.S. Income Taxes         10,962       (10,750)
+	State Income Taxes         1,935        (1,900)
+			              12,897       (12,650)
+
+				$      2,336   $     (10,850)
+
+The components of income tax expense (benefit) consist of the
+following:
+
+							2003		2002
+
+
+
+Using Federal Statutory Rate 	$      (5,950)	$      8,060
+Increase (Reduction) in Tax
+resulting from:
+
+  Non-Taxable Interest                 (5,490)        (7,631)
+  Meals and Entertainment                  81             31
+  State Income Taxes                        8           (187)
+  Depreciation Expense                    740             -
+  Other, Net                                -             27
+
+    Current Federal Tax Provision $   (10,611)   $       300
+
+The components of deferred tax assets on the balance sheet as of
+December 31, 2003 and 2002 are related to the following:
+
+							2003    	2002
+
+	Deferred Income Tax Assets:
+	Accumulated Depreciation    $	  4,052	$	16,450
+	State Income Taxes                -                -
+
+	                                4,052           16,450
+	Deferred Income Tax Liabilities:
+	Unrealized Gain on Available-For
+	  Sale Securities               1,340             654
+
+
+                                   $	2,712    $	15,796
+
+
+
+
+Current Portion Net Deferred Tax   $  (1,340)    $       (654)
+   Liability
+Long-Term Portion Net Deferred
+   Tax Asset                            4,052           16,450
+
+                                    $   2,712	 $      15,796
+
+
+13
+<PAGE>
+
+DIVERSIFIED REALTY, INC.
+
+NOTES TO FINANCIAL STATEMENTS - Continued
+
+6.	RELATED PARTY TRANSACTIONS
+
+During 2003 and 2002 the Company received managerial assistance from
+M Corp, its parent company, at no cost to the Company.  The Company owns
+ten of the thirty-four condominium units of the Cedar Grove Condominiums
+located in Billings, Montana. The Company paid condominium fees and
+assessments to the Cedar Grove Condominium Association, Inc. during 2003
+and 2002 in the amounts of $12,540 each year. In addition to the
+foregoing, the Company had transactions with its parent company or
+subsidiaries of its parent company, as follows:
+						     2003	  2002
+
+	Cash Transfers From Parent	$   (7,000)	  --
+	Charges For Insurance		    (3,961)	(3,335)
+	Current Income Tax Benefit Due
+	   From Parent                    10,780	  --
+	Net Transactions with Parent	$     (181)	$(3,335)
+
+
+7. COMMITMENTS AND CONTINGENCIES
+
+The Board of Directors has approved the Company's participation in an
+attempt to purchase a savings and loan institution.  The Company will
+participate in the purchase with its parent, M Corp. Should the purchase
+take place, the liquidity of the Company will be significantly affected.
+
+The Board of Directors has approved a merger between a newly formed
+company and Diversified Realty, Inc. in order to take the Company
+private.  Schedule 13e-3 and Schedule 13e-3/A have been filed
+electronically with the Securities Exchange Commission, and can be
+viewed at www.sec.com.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+14
+<PAGE>
+
+DIVERSIFIED REALTY, INC.
+
+DIRECTORS AND OFFICERS
+
+NAME					OCCUPATION
+
+R. Bruce Robson			Data Processing Manager
+President				Sletten Construction Co.
+Chairman of the Board		Great Falls, Montana
+
+John Ross				Sales Representative
+Director				Maytag Corporation
+					Billings, Montana
+
+Tyler Arneson			Carpenter,
+Director				Billings, Montana
+
+S. M. McCann			Attorney at Law, Investor,
+Director				San Luis Obispo, California
+
+Paul J. McCann			C.E.O., Business Manager
+Chief Executive Officer		Clearwater, Florida
+
+D. M. Mellinger			Accountant
+Chief Financial Officer		Great Falls, Montana
+
+
+MARKET INFORMATION
+
+The common stock of Diversified Realty, Inc. is not traded on
+any securities exchange, nor are records kept of any quotations
+by securities dealers or Pink Sheets, LLC. To the best knowledge
+of the Company, bid and asked quotations for Diversified Realty,
+Inc., common stock are not reported in any newspapers.
+
+No dividends were paid in 2003 or 2002.
+
+There are approximately 2,184 holders of record of the Company's
+common stock.
+
+A copy of the Form 10-KSB Annual Report may be obtained upon
+written request to the Company.
+
+
+
+DIVERSIFIED REALTY, INC.
+P. O. Box 2249
+110 Second Street South
+Great Falls, MT  59403-2249
+406-727-2600
+
+
+15
+<PAGE>
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

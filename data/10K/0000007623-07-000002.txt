@@ -1,0 +1,2120 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ Hyk5rBLyv1lJ5Lr/QvEKcEsZPGlzVn0rHH2wJv/dIE8h1sZU1K1GZa8P8MSFrbSf
+ TuresDlaeHI7NP98HN1+Ag==
+
+<SEC-DOCUMENT>0000007623-07-000002.txt : 20070227
+<SEC-HEADER>0000007623-07-000002.hdr.sgml : 20070227
+<ACCEPTANCE-DATETIME>20070226174324
+ACCESSION NUMBER:		0000007623-07-000002
+CONFORMED SUBMISSION TYPE:	10KSB
+PUBLIC DOCUMENT COUNT:		8
+CONFORMED PERIOD OF REPORT:	20061130
+FILED AS OF DATE:		20070227
+DATE AS OF CHANGE:		20070226
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			ARTS WAY MANUFACTURING CO INC
+		CENTRAL INDEX KEY:			0000007623
+		STANDARD INDUSTRIAL CLASSIFICATION:	FARM MACHINERY & EQUIPMENT [3523]
+		IRS NUMBER:				420920725
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0531
+
+	FILING VALUES:
+		FORM TYPE:		10KSB
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-05131
+		FILM NUMBER:		07650407
+
+	BUSINESS ADDRESS:	
+		STREET 1:		P O BOX 288
+		CITY:			ARMSTRONG
+		STATE:			IA
+		ZIP:			50514
+		BUSINESS PHONE:		7128643131
+
+	MAIL ADDRESS:	
+		STREET 1:		P O BOX 288
+		CITY:			ARMSTRONG
+		STATE:			IA
+		ZIP:			50514
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>10KSB
+<SEQUENCE>1
+<FILENAME>ye0610k6.txt
+<TEXT>
+                              UNITED STATES
+                     SECURITIES AND EXCHANGE COMMISSION
+                          WASHINGTON D.C. 20549
+
+                          FORM 10-KSB (Mark one)
+
+[x] Annual report under Section 13 or 15(d) of the Securities Exchange Act of
+    1934
+
+For the fiscal year ended November 30, 2006
+
+[ ] Transition report under Section 13 or 15(d) of the Securities
+Exchange Act of 1934
+
+For the transition period from ______ to _______
+
+Commission File No. 0-5131
+                     ART'S-WAY MANUFACTURING CO., INC.
+             (Name of Small Business Issuer In Its Charter)
+
+           DELAWARE                         42-0920725
+   _____________________________   ________________________________
+  (State or Other Jurisdiction           (I.R.S. Employee
+       of Incorporation                 Identification No.)
+      or   Organization)
+
+        5556 Highway 9
+        Armstrong, Iowa                       50514
+   _____________________________   ________________________________
+     (Address of Principal                  (Zip Code)
+       Executive Offices)
+                           (712) 864-3131
+             (Issuer's Telephone Number, Including Area Code)
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+                                                           None
+
+Securities registered pursuant to Section 12(g) of the Act:
+
+                                           Common stock $.01 par value
+
+Check whether the issuer is not required to file reports pursuant to
+Section 13 on 15(d) of the Exchange Act. [ ]
+
+Check whether the issuer: (1) filed all reports required to be filed by
+Section 13 or 15 (d) of the Exchange Act during the past 12 months (or
+for such shorter period that the registrant was required to file such
+reports), and (2) has been subject to such filing for the past 90 days.
+Yes [X] No []
+
+Check if there is no disclosure of delinquent filers in response to Item
+405 of Regulation S-B is not contained in this form, and no disclosure
+will be contained, to the best of registrant's knowledge, in definitive
+proxy or information statements incorporated by reference in Part III of
+this Form 10-KSB or any amendment to this form 10-KSB. [ x ]
+
+Indicate by check mark whether the registrant is a shell company ( as
+defined in Rule 12b-2 of the Exchange Act). Yes [] No [x]
+
+State issuer's revenues, for its most recent fiscal year: $19,853,812.
+
+State the aggregate market value of the voting and non-voting common
+equity held by non-affiliates computed by reference to the price at
+which the common equity was sold, or the average bid and asked prices of
+such common equity as of a specified date written the past 60 days:
+$15,231,955. As of February 17, 2007.
+
+State the number of shares outstanding of each of the issuer's classes
+of common equity, as of the latest practical date: As of February 26,
+2007, there were 1,978,176 shares of common stock outstanding.
+
+DOCUMENTS INCORPORATED BY REFERENCE: Portions of the Definitive Proxy
+Statement for the registrant's 2007 Annual Meeting of Stockholders to be
+filed within 120 days of November 30, 2006, are incorporated by
+reference into Part III of this Form 10-KSB.
+
+Transitional Small Business Issuer Forecast (check one): Yes [] No [X]
+
+               Art's-Way Manufacturing Co., Inc. and Subsidiary
+                           Index to Annual Report
+                             on Form 10-KSB
+
+                                                                 Page
+Part I
+
+   Item 1 - Description of Business	                       4 thru 6
+
+   Item 2 - Description of Property                            6 thru 7
+
+   Item 3 - Legal Proceedings                                      7
+
+   Item 4 - Submission of Matters to a Vote of Security Holders	   7
+
+Part II
+
+   Item 5 - Market for Common Equity and Related Stockholder   8 thru 9
+   Matters and Small Business Issuer Purchases of
+   Equity Securities
+
+   Item 6 - Management's Discussion and Analysis or Plan       9 thru 13
+   of Operation
+
+
+   Item 7 - Financial Statements                                  13
+
+   Item 8 - Changes in and Disagreements with Accountants         14
+   on Accounting and Financial Disclosure
+
+   Item 8A - Controls and Procedures                              14
+
+   Item 8B - Other Information                                    14
+
+Part III
+
+   Item 9 - Directors, Executive Officers, Promoters and          15
+   Control Persons; Compliance with Section 16(a) of the
+   Exchange Act
+
+   Item 10 - Executive Compensation                               15
+
+   Item 11 - Security Ownership of Certain Beneficial
+   Owners and Management And Related Stockholder Matters          15
+
+   Item 12 - Certain Relationships and Related Transactions       15
+
+   Item 13 - Exhibits                                             15
+
+   Item 14 - Principal Accountant Fees and Services               15
+
+
+                                      PART I
+
+Item 1. Description of Business
+
+   (a) Business Development
+
+   Art's-Way Manufacturing Co., Inc. began operations as a farm equipment
+   manufacturer in 1956. Our manufacturing plant is located in Armstrong,
+   Iowa.
+
+   During the 2005 beet harvesting season we field tested a new single pass
+   defoliator; we projected that this product would be in production and in
+   the field for the 2006 beet harvest. We also tested a new exportable
+   beet harvester. The export unit is designed off of our model 6812 but
+   down sized to fit in a cargo container for shipping.
+
+   In October 2005 we purchased certain assets of Vessel Systems Inc., a
+   manufacturer of pressurized tanks and vessels, located in Dubuque, Iowa.
+   We purchased the inventory, fixed assets and accounts receivable for the
+   purchase price of $844,284, paid in cash. We operate this new business
+   through our wholly-owned subsidiary, Art's-Way Vessels, Inc.
+
+   In July 2006, we celebrated our 50th Anniversary as an agriculture
+   equipment manufacturer.
+
+   Also in July 2006, we exported our newly designed sugar beet harvester
+   and defoliator. We shipped units to the Ukraine, Russia and China. We
+   are very excited to be breaking out into these new markets.
+
+   In August 2006 we purchase certain assets of Tech Space Inc., a
+   manufacturer of modular laboratories, located in Monona, Iowa. We
+   purchased the inventory, fixed assets and accounts receivable for the
+   purchase price of $1,137,606, paid in cash. We operate this new business
+   through our wholly-owned subsidiary, Art's-Way Scientific, Inc.
+
+   Our new grinder mixer launched in late 2005 has been a great success. A
+   major competitor has exited the domestic and international market and we
+   have gained significant market share. In September 2006 our first
+   shipment of grinder mixers sold internationally left our Armstrong
+   facility. We shipped several units to the United Kingdom and to
+   Australia, and we look forward to strengthening these relationships and
+   developing new ones going forward.
+
+   (b) Business of Issuer
+
+   Art's-Way Manufacturing manufactures specialized farm machinery under
+   our own and private labels. Art's-Way Vessels manufactures pressure
+   vessels and Art's-Way Scientific manufactures modular building for
+   various uses, animal containment and laboratories are two of the most
+   common applications.
+
+   Farm equipment manufactured under our own label includes: portable &
+   stationary animal feed processing equipment and related attachments used
+   to mill and mix feed grains into custom animal feed rations; a high bulk
+   mixing wagon to mix animal feeds containing silage, hay and grain; a
+   line of stalk shredders; sugar beet and potato harvesting equipment; and
+   a line of land maintenance equipment, edible bean equipment, moldboard
+   plows and grain drill equipment.
+
+   Private label manufacturing of farm equipment accounted for 13% and 15%
+   of Art's-Way Manufacturing's consolidated sales for the years ended
+   November 30, 2006 and 2005, respectively. While as a percent of sales
+   this shows a decrease, sales were actually up $391,000 over 2005.
+
+   Art's-Way labeled products are sold by farm equipment dealers throughout
+   the United States. There is no contractual relationship with these
+   dealers to distribute our products, and dealers may sell a competitor's
+   product line.
+
+   Art's-Way Vessels produces and sells pressurized vessels, both code and
+   non-code. Vessels can range from 3 feet in length up to 40 feet. The
+   diameter can be between 18 inches to 8 feet. These vessels are sold to
+   manufacturing facilities that will use the vessel as a component part of
+   their end product.
+
+   Art's-Way Scientific produces and sells modular buildings. The buildings
+   are designed to meet the needs of the end user. Buildings commonly
+   produced include swine buildings or the lower end to animal containment
+   building coupled with laboratories for research. Facilities can have a
+   selling price ranging anywhere from $50,000 to in excess of $2,400,000.
+
+   Raw materials, for Art's-Way Manufacturing, Art's-Way Vessels and
+   Art's-Way Scientific in all aspects of our business are acquired from
+   domestic and foreign sources and normally are readily available.
+
+   We maintain manufacturing rights on several products covering unique
+   aspects of design and have trademarks covering product identification.
+   We pay royalties for use of certain manufacturing rights. Our material
+   royalty agreement is with Case New Holland (CNH). The agreement with CNH
+   will run through September 2006, on moldboard plows, however the
+   agreement shall continue in force until terminated or cancelled. We have
+   not terminated or cancelled the agreement as of November 30, 2006. In
+   our opinion, our trademarks and licenses are of value in securing and
+   retaining business.
+
+   Sales of our agricultural products are seasonal; however, we have tried
+   to decrease this impact of seasonality through the development of
+   shredders and beet harvesting machinery coupled with private labeled
+   products, as the peak periods for these different products occur at
+   different times. Similar to other manufacturers in the farm equipment
+   industry, we are affected by factors peculiar to the farm equipment
+   field, including items such as fluctuations in farm income resulting
+   from the change in commodity prices, crop damage caused by weather and
+   insects, government farm programs and other unpredictable variables such
+   as interest rates.
+
+   We believe that pressure vessel sales do not tend to be seasonal.
+
+   We believe that there is a funding cycle through the universities that
+   purchase our modular buildings. We believe that this cycle can be offset
+   by building back logs to get through the slow time and through sales to
+   other public and private sectors.
+
+   We have an OEM supplier agreement with CNH. Under the OEM agreement we
+   have agreed to supply CNH's requirements for certain feed processing and
+   service parts under CNH's label. The agreement has no minimum
+   requirements and can be cancelled upon certain conditions. For the years
+   ended November 30, 2006 and 2005, sales under the CNH label aggregated
+   approximately 8% of consolidated sales.
+
+   Our feed processing products, including private labeled units, compete
+   with similar products of many other manufacturers. We estimated that
+   there are more than 15 competitors producing similar products although
+   total market statistics are not available. We believe that our products
+   are competitively priced with greater diversity than most competitor
+   product lines. Beet harvesting equipment is manufactured by three
+   companies that have a significant impact on the market. We estimate our
+   share of the domestic market is estimated to be about 35%. Other
+   products such as shredders and grain drills are manufactured by
+   approximately 20 other companies. We believe our products are
+   competitively priced with above average quality and performance, in a
+   market where price, product performance and quality are principal
+   elements.
+
+   Another important part of our business is after market service parts
+   that are available to keep our branded and OEM produced equipment
+   operating to the satisfaction of the end user.
+
+   The backlog of orders booked in February 2007, was approximately
+   $11,792,000. Art's-Way Vessels had a backlog of $1,953,000, Art's-Way
+   Scientific had a backlog of $5,715,000 and Art's-Way Manufacturing had a
+   backlog of $4,124,000. Art's-Way Manufacturing had approximately
+   $7,158,000 in consolidated backlog a year ago.
+
+   We currently do no business with any local, state or federal government
+   agencies.
+
+   We are engaged in research and development work on a continual basis to
+   improve the present products and create new products. In 2006, research
+   and development costs were down $99,000. In 2006 most of our research
+   and development was done internally with the help of an outside
+   engineering consultant. Our 2006 costs of $186,000 compare to $285,000
+   in 2005. For further information please see Part II, Item 6, of this
+   report.
+
+   Art's-Way Vessels produces custom tanks and vessels that are
+   manufactured to customer blue prints. Art's-Way Vessels incurred no
+   research and development costs in 2006 and 2005.
+
+   We are subject to various federal, state and local laws and regulations
+   pertaining to environmental protection and the discharge of materials
+   into the environment. In 2006 we completed the installation of a liquid
+   paint system for our whole goods. The new paint system significantly
+   improves the quality of our paint, in terms of luster, hardness and
+   longevity. The paint system is situated in a new location within the
+   plant, as we redesign our workflow to optimize productivity. We have
+   obtained the necessary permits that allow us to change the paint systems
+   and remain in compliance with all applicable laws and regulations.
+
+   During the year ended November 30, 2006, we had peak employment of 90
+   full-time and 12 part-time employees, of which 80 were factory and
+   production employees, 6 were engineers and engineering draftsman, 13
+   were administrative employees, and 3 were in sales and sales management.
+   Employee levels fluctuate based upon the seasonality of the product
+   line.
+
+Item 2. Description of Property.
+
+   Our existing executive offices, production and warehousing facilities in
+   Armstrong, Iowa, are built of hollow clay block/concrete and contain
+   approximately 240,000 square feet of usable space. Most of these
+   facilities were constructed after 1965 and are in good condition. We own
+   approximately 127 acres of land west of Armstrong, which includes the
+   factory and inventory storage space. We currently lease excess land to
+   third parties for farming.
+
+   The facility in Dubuque, Iowa, which houses the manufacturing for
+   Art's-Way Vessels, is a leased building. The building was constructed in
+   2004.
+
+   The facility in Monona, Iowa, which housed the manufacturing for
+   Art's-Way Scientific, was stick built with steel siding. The main
+   manufacturing facility contained approximately 360,000 square feet of
+   usable space, and was constructed in 1969. This structure was totally
+   destroyed by fire on January 16, 2007. There is also a warehouse at this
+   location that is approximately 5,000 square feet and that was
+   constructed in 1994. We are temporarily operating in this facility as we
+   recover from the fire and seek additional temporary and permanent
+   replacement property. For further information, see note 16 to the
+   consolidated financial statements provided in this report.
+
+Item 3. Legal Proceedings.
+
+   We are from time to time a party to various legal actions arising in the
+   normal course of business. We believe that there are no threatened or
+   pending proceedings against us that, if determined adversely, would have
+   a material adverse effect on our business or financial position.
+
+Item 4. Submission of Matters to a Vote of Security Holders.
+
+   Not Applicable.
+
+
+                               PART II
+
+Item 5. Market for Common Equity, Related Stockholder Matters and Small
+Business Issuer Purchases of Equity Securities.
+
+   (a)  Market Information
+
+                                Per Common Stock Bid Prices by Quarter
+                                    Year ended	        Year ended
+                                November 30, 2006    November 30, 2005
+                                High	     Low     High	  Low
+     First Quarter             6.700       4.740    8.790       5.500
+     Second Quarter            9.190       5.470   11.500       5.110
+     Third Quarter             7.350       4.870    9.050       5.110
+     Fourth Quarter            7.850       5.010    5.950       4.500
+
+   Our common stock trades on The NASDAQ Capital Market under the symbol
+   "ARTW." The range of closing bid prices shown above, are as reported by
+   NASDAQ. The quotations shown reflect inter-dealer prices, without retail
+   mark-up, mark-down, or commission and may not necessarily represent
+   actual transactions.
+
+   (b)  Holders
+
+   There were approximately 135 stockholders of our common stock as of
+   February 16, 2007.
+
+   (c) Dividends
+
+   On October 26, 2006 our Board of Directors declared a dividend of $0.05
+   per share to be paid on November 30, 2006 to stockholders of record as
+   of November 15, 2006. An identical dividend was declared in November
+   2005. The loan covenants that restricted the payment of dividends were
+   waived by our lenders. The payment of and the amount of any future
+   dividends will be governed by our financial position at that time, and
+   may again require the waiver of loan covenants by our lenders.
+
+   (d) Securities Authorization for Issuance Under Equity Compensation
+   Plans.
+
+                       Number of      Weighted-average   Number of securities
+                     securities to    exercise price of   remaining available
+                     be issued upon      Outstanding      for future issuance
+                       exercise of        options,           under equity
+                       outstanding    Warrants & rights   compensation plans
+                     options, warrants                   (excluding securities
+	                & rights                      reflected in columns (a))
+
+
+   Equity compensation
+    plans approved by
+    security holders        -                 -                   -
+   (1) Equity compensation
+    plans not approved by
+    security holders     (a)10,000        (b) $3.98           (c) 5,000
+
+    Total                   10,000            -                   5,000
+
+   (1) Information on Director Stock Option Plan (2001) is disclosed in
+   note 9 to the Consolidated Financial Statement filed under Part II, Item
+   7 of this report.
+
+Item 6. Management's Discussion and Analysis or Plan of Operation
+
+   The following discussion of our consolidated financial condition and
+   results of operations should be read in conjunction with the financial
+   statements and the related notes thereto included elsewhere in this Form
+   10-KSB. The matters discussed herein contain forward-looking statements
+   within the meaning of Section 21E of the Securities Exchange Act of
+   1934, as amended, and Section 27A of the Securities Act of 1933, as
+   amended, which involve risks and uncertainties. All statements other
+   than statements of historical information provided herein may be deemed
+   to be forward-looking statements. Without limiting the foregoing the
+   words "believes", "anticipates", "plans", "expects" and similar
+   expressions are intended to identify forward-looking statements. Factors
+   that could cause actual results to differ materially from those in the
+   forward-looking statements include our degree of financial leverage, the
+   factors described in Item 1 of this Form 10-KSB, risks associated with
+   acquisitions and in the integration thereof, risks associated with
+   supplier/OEM agreements, dependence upon the farm economy and the impact
+   of competitive services and pricing, as well as other risks referenced
+   from time to time in our filings with the SEC. Readers are cautioned not
+   to place undue reliance on these forward-looking statements, which
+   reflect management's analysis, judgment, belief or expectation only as
+   of the date hereof. We undertake no obligation to publicly revise these
+   forward-looking statements to reflect events or circumstances that arise
+   after the date hereof.
+
+   Management's Discussion and Analysis of Financial Condition and Results
+   of Operations
+
+   Critical Accounting Policies
+
+   We have identified the following accounting policies as critical to our
+   operations.
+
+   Revenue Recognition - Revenue is recognized when risk of ownership and
+   title pass to the buyer, generally upon the shipment of the product. In
+   very limited circumstances, and only upon a written customer agreement,
+   we recognize revenue upon the production and invoicing of the products.
+   Art's-Way Scientific, Inc. is in the construction industry and will have
+   deposits and/or bench mark payment. Their revenue is recognized on a
+   percentage completed basis.
+
+   Inventory Valuation - Inventories are stated at the lower of cost or
+   market, and cost is determined using the first-in, first-out (FIFO)
+   method. Management monitors the carrying value of inventories using
+   inventory control and review processes that include, but are not limited
+   to, sales forecast review, inventory status reports, and inventory
+   reduction programs. We record inventory write downs to market based on
+   expected usage information for raw materials and historical selling
+   trends for finished goods. Write downs of inventory create a new cost
+   basis. Additional write downs may be necessary if the assumptions made
+   by management do not occur.
+
+   Income Taxes - Current federal and state income taxes are based upon tax
+   returns to be filed reporting the Company's taxable income computed
+   under existing tax code and regulations. Deferred income taxes are
+   accounted for under the asset and liability method. Deferred tax assets
+   and liabilities are recognized for the estimated future tax consequences
+   attributable to differences between the financial statement carrying
+   amounts of existing assets and liabilities and their respective tax
+   bases and operating losses. Deferred tax assets and liabilities are
+   measured using enacted tax rates in effect for the year in which those
+   temporary differences are expected to be recovered or settled. The
+   effect on deferred tax assets and liabilities of a change in tax rates
+   is recognized in income in the period that includes the enactment date.
+   In assessing the realizability of deferred tax assets, management
+   considers whether it is more likely than not that some portion or all of
+   the deferred tax assets will not be realized. The ultimate realization
+   of deferred tax assets is entirely dependent upon the generation of
+   future taxable income during the periods in which those temporary
+   differences become deductible. Management considers the scheduled
+   reversals of deferred tax liabilities, projected future taxable income,
+   and tax planning strategies in making this assessment.
+
+   Results of Operations
+
+   Twelve months ended November 30, 2006 compared to the twelve months
+   ended November 30, 2005
+
+   Our consolidated revenue of $19,854,000 for 2006 represents a 36%
+   increase when compared to $14,619,000 for 2005. Art's-Way Vessels had
+   revenues of $3,797,000, compared to $358,000 in 2005, the year in which
+   we acquired the assets. Art's-Way Scientific had revenues of $1,032,000,
+   for the period from its acquisition in August 2006 through November
+   2006. Art's-Way Manufacturing had revenues totaling $15,025,000.
+   Art's-Way Manufacturing's branded products increased by $992,000 while
+   OEM sales increased by $228,000.
+
+   Gross profit as a percent of sales was 29% for 2006 compared to 30% for
+   2005. While we worked to retain and improve our profit margins with
+   pricing, we have also experienced some disruption due to the acquisition
+   and integration of Art's-Way Vessels and Art's-Way Scientific.
+   Furthermore, we have made some significant changes to our manufacturing
+   methods in our Armstrong facility that had caused inefficiencies during
+   the transition from a batch build to a more lean continuous flow for the
+   production of our grinder mixer line. We also had a number of products
+   that went from the design stage into production; this seems to hurt our
+   efficiencies for a certain amount of time. We do believe that we have
+   instilled new disciplines and expect to regain our gross profit in 2007.
+
+   Consolidated operating expenses in 2006 increased $1,217,000 from 2005.
+   Art's-Way Vessels represents $736,000 of that increase, Art's-Way
+   Scientific represents $269,000 while Art's-Way Manufacturing represents
+   $230,000 of the total. As a percent of sales, operating expenses were
+   20% and 19%, respectively, when comparing 2006 and 2005.
+
+   Consolidated engineering expenses for Art's-Way Manufacturing decreased
+   by $56,000. This was due to a decrease in research and development from
+   2005 when we were developing an exportable beet harvester, defoliator
+   and a new domestic defoliator. As we moved those new products from
+   design into production our engineering department's focus shifted from
+   research and development to production support. In early 2007 we updated
+   our PM 25 grinder mixer. We believe that by investing in our engineering
+   department and research and development we are investing in the future
+   of our company. We believe that by developing new products and updating
+   our current products we will secure and better our position in our
+   markets and allow the company to grow sales.
+
+   Consolidated selling expenses for Art's-Way Manufacturing increased
+   $141,000 from 2005 to 2006. The newly acquired Art's-Way Scientific,
+   accounts for $71,000. Art's-Way Manufacturing selling costs increased
+   $70,000 as this segment increased its marketing efforts to better
+   penetrate our customers and markets.
+
+   Consolidated general and administrative expenses increased by
+   $1,131,000. The addition of Art's-Way Scientific resulted in an increase
+   of $198,000. Art's-Way Vessels resulted in an increase of $737,000.
+   Art's-Way Manufacturing accounted for an increase of $215,000. In 2006
+   we accrued for bonuses paid out in 2007 based on the results of 2006.
+   This was the first year that we accrued for bonuses, as in the past
+   bonus amount were not known until after the reporting period was closed.
+   This change in accounting resulted in an increase in general and
+   administrative expenses of $133,000 compared to 2005. Other cost
+   increases for Art's-Way Manufacturing included on-going expenses to
+   implement a new Enterprise Resource Planning system, costs related to
+   our 50th anniversary milestone and normal inflationary increases.
+
+   Art's-Way Manufacturing experienced a 65% increase in consolidated
+   interest and other expenses in 2006 compared to 2005. Interest expense
+   accounted for substantially all of the increase and was due to higher
+   average loan balances, as we borrowed an additional $1,500,000 to
+   finance acquisitions and equipment purchases, and increased interest
+   rates.
+
+   Income before tax in 2006 was down slightly to $1,417,000 compared to
+   $1,474,000 in 2005. Net income of $934,000 for 2006 compared to $977,000
+   in 2005.
+
+   We continue to strive to reduce costs, and continue our move to a lean
+   manufacturing environment. We also continue to invest in our future
+   through research and development as well as new equipment and
+   acquisitions. We believe that as of the end of fiscal 2006, our overall
+   company has strengthened through new product offerings and the
+   acquisition of Art's-Way Scientific. As previously mentioned the backlog
+   of orders booked in February 2007, totaled approximately $11,792,000
+   compared $7,158,000 in consolidated backlog a year ago. Overall, we are
+   looking forward to another strong year in fiscal 2007.
+
+   Liquidity and Capital Resources
+
+   Twelve months ended November 30, 2006
+
+   Our main sources of funds were from our ability to generate cash from
+   operations and an additional long-term loan. Cash provided from
+   operations was $1,570,000 for fiscal year 2006. We were able to bring
+   our consolidated inventories down $527,000. This decrease was offset by
+   an increase in accounts receivable of $1,357,000. This increase is
+   attributed to our increase in export sales. We give extended terms to
+   our export customers that must wait to take delivery of product for
+   approximately two months while the freight make its way overseas. We do,
+   however, have letters of credit established with our export customers,
+   so the receivables are guaranteed. Our new long-term loan through West
+   Bank was for $1,500,000, and was used to purchase certain assets of Tech
+   Space Inc. and certain new equipment.
+
+   Twelve months ended November 30, 2005
+
+   Our main sources of funds were from our ability to generate cash from
+   operations. Cash provided from operations was $2,497,000 for fiscal year
+   2005. We will continue reinvesting in our company to strengthen its
+   foundation and maximize long-term growth. In 2005 we paid a dividend to
+   our stockholders for the first time in several years. This had a cash
+   impact of $98,000.
+
+   Capital Resources
+
+   The Company has long-term financing through West Bank. Credit facilities
+   consist of a revolving line of credit and three loan agreements totaling
+   $8,000,000.
+
+   Facility #1 is a revolving line of credit for $3,500,000 with advances
+   funding the working capital, letter of credit and corporate credit card
+   needs that mature on March 31, 2007. We are in the process of securing
+   an extension for an additional year and expect to receive this
+   extension. The interest rate is West Bank's prime interest rate plus 1%,
+   adjusted daily. Monthly interest only payments are required and the
+   unpaid principal is due on the maturity date. Collateral consists of a
+   first position on our assets owned including, but not limited to
+   inventories, accounts receivable, machinery and equipment. As of
+   November 30, 2006 and 2005, we had not borrowed against the line of
+   credit.
+
+   Facility #2 is long-term financing for $2,000,000 that is supported by a
+   guarantee issued by the United States Department of Agriculture (USDA)
+   for 75% of the loan amount outstanding. The variable interest rate is
+   West Bank's prime interest rate plus 1.5%, adjusted daily, monthly
+   principle and interest payments are amortized over 20 years with final
+   maturity date of May 31, 2023.
+
+   Facility #3 is long-term financing for $1,000,000 that is also supported
+   by a guarantee issued by the USDA for 75% of the loan amount
+   outstanding. The loan for $1,000,000 was used for new product
+   development in 2005.
+
+   Facility #4 is long-term financing for $1,500,000 that is also supported
+   by a guarantee issued by the USDA for 75% of the loan amount
+   outstanding. The loan for $1,500,000 was used for acquisitions and new
+   equipment in 2006.
+
+   Collateral for Facilities #2 and #3 is primarily real estate with a
+   second position on assets, which are the primary assets securing
+   Facility #1. The USDA subordinates collateral rights in all assets other
+   than real estate in an amount equal to West Bank's other credit
+   commitments. As of November 30, 2006 the outstanding balances on
+   Facilities #2, #3 and #4 were $1,701,842, $943,034 and $1,428,054
+   respectively compared to $1,754,866, $974,356 and $0 at November 30,
+   2005.
+
+   J. Ward McConnell, Jr. was required to personally guarantee all
+   four credit facilities on an unlimited and unconditional basis. The
+   guarantees will be reduced after the first three years to a percentage
+   representing his ownership of the Company. Mr. McConnell's guarantees
+   shall be removed in the event that his ownership interest in the Company
+   is reduced to a level less than 20% after the first three years of the
+   loans. On Facilities #1 and #2 Mr. McConnell's guarantee portion has
+   dropped to his percent ownership. The Company compensates Mr. McConnell
+   at an annual percentage rate of 2% on 40% of the outstanding balance. On
+   Facilities #3 and #4 the Company compensates Mr. McConnell for his
+   personal guarantees at an annual percentage rate of 2% of the
+   outstanding balances. Guarantee payments are made on a monthly basis.
+   Guarantee fee payments to Mr. McConnell were approximately $60,000 and
+   $56,000, for the years ended November 30, 2006, and 2005, respectively.
+
+   Other terms and conditions of all three facilities include providing
+   monthly internally prepared financial reports including accounts
+   receivable aging schedules and borrowing base certificates and year-end
+   audited financial statements. The borrowing bases shall limit advances
+   from Facility #1 to 60% of accounts receivable less than 90 days, 60% of
+   finished goods inventory, 50% of raw material inventory and 50% of
+   work-in-process inventory plus 40% of appraisal value of machinery and
+   equipment. Covenants include, but are not limited to, restrictions on
+   debt service coverage ratio, debt/tangible net worth ratio, current
+   ratio, capital expenditures, and tangible net worth. During the year
+   ended November 30, 2006, we violated the restriction on capital
+   expenditures, payment of dividends and loans to third parties. Under our
+   loan agreement West Bank would have had the right to call the loan
+   and/or increase the interest rate by three percentage points. As stated
+   above, we provide West Bank with monthly financial statements, as well
+   as a cash flow statement on a monthly basis. Therefore they were aware
+   of the amount of capital expenditures we had incurred throughout the
+   year. They were also aware of the decision to pay dividends, and the
+   inter-company loan to Art's-Way Vessels in connection with the asset
+   purchase from Vessels Systems, well in advance of the actual
+   expenditures. The bank views this spending favorably, and waived the
+   covenants.
+
+   Contractual Obligations
+
+   Contractual Obligation         Payments due by period
+                               Total   < 1 yr    1-3 yrs    3-5 yrs    >5 yrs
+   *Long-term debt          5,926,851  598,091  1,196,945  1,198,097  2,933,718
+    including interest
+   Capital lease obligation       0          0	     0           0         0
+   Operating lease obligation 125,000   125,000      0           0         0
+   Purchase Obligations           0          0       0           0         0
+   Other                          0          0       0           0         0
+   Total                    6,051,851   723,091 1,196,945   1,198,097 2,933,718
+
+   * Based on current interest rates at November 30, 2006.
+
+   Our current ratio and its working capital are as shown in the
+   following table:
+
+                                     November 30, 2006	    November 30, 2005
+              Current Assets            $11,218,700             $9,481,557
+              Current Liabilities         2,717,243              2,060,486
+              Working Capital            $8,501,457             $7,421,071
+
+              Current Ratio                  4.1                    4.6
+
+   Utilization of Deferred Tax Assets
+
+   At November 30, 2006 and 2005, we established a deferred tax asset
+   valuation allowance of approximately $11,000 and $41,000, respectively.
+   In assessing our deferred tax assets, management considers whether it is
+   more likely than not that some portion of all of the deferred tax assets
+   will not be realized. The ultimate realization of deferred tax assets is
+   dependent upon the generation of future taxable income during the
+   periods in which those temporary differences become deductible.
+
+   Off-Balance Sheet Arrangements
+
+   We have no off-balance sheet arrangements.
+
+   Item 7. Financial Statements.
+
+
+
+
+
+
+
+Report of Independent Registered Public Accounting Firm
+
+To the Board of Directors
+Art's-Way Manufacturing Co., Inc.
+Armstrong, Iowa
+
+We have audited the consolidated balance sheet of Art's-Way
+Manufacturing Co., Inc. and subsidiary as of November 30, 2005, and the
+related consolidated statements of operations, stockholders' equity and
+cash flows for the year then ended. These financial statements are the
+responsibility of the Company's management. Our responsibility is to
+express an opinion on these financial statements based on our audit.
+
+We conducted our audit in accordance with the standards of the Public
+Company Accounting Oversight Board (United States). Those standards
+require that we plan and perform the audit to obtain reasonable
+assurance about whether the financial statements are free of material
+misstatement. An audit includes examining, on a test basis, evidence
+supporting the amounts and disclosures in the financial statements. An
+audit also includes assessing the accounting principles used and
+significant estimates made by management, as well as evaluating the
+overall financial statement presentation. We believe that our audit
+provides a reasonable basis for our opinion.
+
+In our opinion, the consolidated financial statements referred to above
+present fairly, in all material respects, the financial position of
+Art's-Way Manufacturing Co., Inc. and subsidiary as of November 30,
+2005, and the results of their operations and their cash flows for the
+year then ended in conformity with U.S. generally accepted accounting
+principles.
+
+
+                                       By: /s/ McGladrey & Pullen
+
+Des Moines, Iowa
+January 9, 2006
+
+
+
+
+
+
+
+
+REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM
+
+To the Board of Directors and Stockholders
+Art's-Way Manufacturing Co., Inc.
+Armstrong, Iowa
+
+We have audited the accompanying consolidated balance sheet of Art's-Way
+Manufacturing Co., Inc. and Subsidiaries as of November 30, 2006, and
+the related consolidated statements of operations, stockholders' equity,
+and cash flows for the year then ended. These financial statements are
+the responsibility of the Company's management. Our responsibility is to
+express an opinion on these financial statements based on our audits.
+
+We conducted our audit in accordance with the standards of the Public
+Company Accounting Oversight Board (United States). Those standards
+require that we plan and perform the audit to obtain reasonable
+assurance about whether the financial statements are free of material
+misstatement. An audit includes consideration of internal control over
+financial reporting as a basis for designing audit procedures that are
+appropriate in the circumstances, but not for the purpose of expressing
+an opinion on the effectiveness of the Company's internal control over
+financial reporting. Accordingly, we do not express such an opinion. An
+audit also includes examining, on a test basis, evidence supporting the
+amounts and disclosures in the financial statements. An audit also
+includes assessing the accounting principles used and significant
+estimates made by management, as well as evaluating the overall
+financial statement presentation. We believe that our audit provides a
+reasonable basis for our opinion.
+
+In our opinion, the consolidated financial statements referred to above
+present fairly, in all material respects, the financial position of
+Art's-Way Manufacturing Co., Inc. and Subsidiaries as of November 30,
+2006, and the results of its operations and its cash flows for the year
+then ended in conformity with accounting principles generally accepted
+in the United States of America.
+
+By: /s/ Eide Bailly
+
+
+Minneapolis, Minnesota
+February 23, 2007
+
+
+
+                ART'S-WAY MANUFACTURING CO., INC.
+
+                       Table of Contents
+
+                                                           Page
+
+     Consolidated Statements of Operations -
+       Years ended November 30, 2006 and 2005               F-4
+
+     Consolidated Balance Sheets -
+       November 30, 2006 and 2005                           F-5
+
+     Consolidated Statements of Stockholders' Equity -
+       Years ended November 30, 2006 and 2005               F-6
+
+     Consolidated Statements of Cash Flows -
+       Years ended November 30, 2006 and 2005               F-7
+
+     Notes to Consolidated Financial Statements -
+       Years ended November 30, 2006 and 2005           F-8 - F-18
+
+
+
+                    ART'S-WAY MANUFACTURING CO., INC.
+                 Consolidated Statements of Operations
+                 Years ended November 30, 2006 and 2005
+
+                                    	       2006	     2005
+Net sales                               $ 19,853,812    $ 14,618,904
+Cost of goods sold                        14,148,787      10,213,951
+      Gross profit                         5,705,025       4,404,953
+
+Expenses:
+  Engineering                                428,336         483,831
+  Selling                                    821,291         680,219
+  General and administrative               2,682,558       1,551,213
+      Total expenses                       3,932,185       2,715,263
+      Income from operations               1,772,840       1,689,690
+
+Other income (expense):
+  Interest expense                          (408,618)       (261,162)
+  Other                                       52,624          45,792
+      Total other expense                   (355,994)       (215,370)
+      Income before income taxes           1,416,846       1,474,320
+Income tax (benefit)                         483,306         497,003
+      Net income                           $ 933,540       $ 977,317
+
+Net income per share:
+  Basic                                       $ 0.47          $ 0.50
+  Diluted                                       0.47            0.50
+
+See accompanying notes to consolidated financial statements.
+
+
+
+                    ARTS-WAY MANUFACTURING CO., INC.
+                      Consolidated Balance Sheets
+                       November 30, 2006 and 2005
+
+                Assets                         2006          2005
+Current assets:
+  Cash                                   $ 2,072,121     $ 1,198,238
+  Accounts receivable-customers,
+   net of allowance for doubtful
+   accounts of $108,372 and $46,385
+   in 2006 and 2005, respectively          2,313,290         956,391
+  Inventories, net                         5,998,175       6,525,051
+  Deferred taxes                             672,000         673,000
+  Other current assets                       163,114         128,877
+      Total current assets                11,218,700       9,481,557
+
+Property, plant, and equipment, net        3,185,298       1,890,660
+Inventories, noncurrent                            0         144,871
+Inter Company Trans AWV                            0               0
+Inter Company Trans AWS	                           0               0
+Deferred taxes                               100,000         191,000
+Acquisition AWV                                    0               0
+Acquisition AWS                                    0               0
+Other assets                                 110,240          74,353
+      Total assets                      $ 14,614,238    $ 11,782,441
+
+   Liabilities and Stockholders Equity
+Current liabilities:
+  Notes payable to bank                          $ 0             $ 0
+  Current portion of term debt               220,559         223,946
+  Accounts payable                           587,555         530,722
+  Customer deposits                          424,205         569,354
+  Billings in Excess of Cost and Profit       57,266               0
+  Accrued expenses                         1,427,658         736,464
+      Total current liabilities	           2,717,243       2,060,486
+
+Long-term liabilities                              0               0
+Term debt, excluding current portion       3,852,372       2,558,273
+      Total liabilities                    6,569,615       4,618,759
+
+Stockholders equity:
+  Common stock $0.01 par value.
+   Authorized 5,000,000 shares;
+   issued 1,978,176 and 1,963,176
+   shares in 2006 and 2005                    19,782          19,632
+  Additional paid-in capital               1,765,697       1,719,787
+  Retained earnings                        6,259,144       5,424,263
+       Total stockholders equity          8,044,623       7,163,682
+       Total liabilities and
+        stockholders equity	        $ 14,614,238    $ 11,782,441
+
+
+See accompanying notes to consolidated financial statements.
+
+
+                    ARTS-WAY MANUFACTURING CO., INC.
+             Consolidated Statements of Stockholders Equity
+                 Years ended November 30, 2006 and 2005
+
+                        Common stock        Additional
+	            Number of	             paid-in     Retained
+                      share     Par value    capital     earnings      Total
+Balance,
+ November 30, 2004  1,938,176   $ 19,382  $ 1,634,954  $ 4,545,105 $ 6,199,441
+    Exercise of
+     stock options     25,000        250       79,033            0      79,283
+    Stock based
+     compensation           0          0        5,800            0       5,800
+    Dividends paid,
+     $0.05 per share        0          0            0      (98,159)    (98,159)
+    Net income              0          0            0      977,317     977,317
+Balance,
+ November 30, 2005  1,963,176   $ 19,632  $ 1,719,787  $ 5,424,263 $ 7,163,682
+    Exercise of
+     stock options     15,000        150       40,550            0      40,700
+    Stock based
+     compensation           0          0        5,360            0       5,360
+    Dividends paid,
+     $0.05 per share        0          0            0      (98,659)    (98,659)
+    Net income              0          0            0      933,540     933,540
+Balance,
+ November 30, 2006   1,978,176   $ 19,782  $ 1,765,697  $ 6,259,144 $ 8,044,623
+
+See accompanying notes to consolidated financial statements.
+
+
+
+                    ARTS-WAY MANUFACTURING CO., INC.
+                  Consolidated Statements of Cash Flows
+                  Years ended November 30, 2006 and 2005
+
+                                                            2006       2005
+Cash flows from operations:
+  Net income                                             $ 933,540   $ 977,317
+  Adjustments to reconcile net
+   income to net cash provided by
+   operating activities:
+     Stock based compensation                                5,360       5,800
+     (Gain) Loss on sale of
+       property, plant, and equipment                      (71,764)     (8,486)
+     Depreciation and amortization                         303,754     268,616
+     Deferred income taxes                                  92,000     461,000
+     Changes in assets and liabilities,
+      net of TechSpace Inc & Vessel
+      Systems Inc. acquisition:
+      (Increase) decrease in:
+          Accounts receivable                           (1,031,074)     21,202
+          Inventories                                    1,119,386     204,736
+          Other current assets                             (34,237)    127,072
+          Other, net                                       (35,887)     71,653
+      Increase (decrease) in:
+          Accounts payable                                  56,833      (6,207)
+          Billings in Excess of Costs                       57,266           0
+          Customer deposits                               (459,402)    491,379
+          Accrued expenses                                 691,188    (117,331)
+            Net cash provided by operating activities    1,626,963   2,496,751
+
+Cash flows from investing activities:
+  Purchases of property, plant, and equipment             (974,716)   (378,420)
+  Purchase of assets of Vessels Systems Inc.                     0    (844,284)
+  Purchase of assets of Tech Space Inc.	                (1,137,606)          0
+  Proceeds from sale of property, plant, and equipment	   126,489      22,600
+    Net cash (used in) investing activities             (1,985,833) (1,200,104)
+
+Cash flows from financing activities:
+  Payments on Line of Credit                                     0    (870,071)
+  Payments of notes payable to bank                       (209,288)   (180,697)
+  Payments of long-term liabilities                              0    (144,766)
+  Proceeds from term debt                                1,500,000   1,000,000
+  Proceeds from the exercise of stock options               40,700      79,283
+  Dividends paid to stockholders	                   (98,659)    (98,159)
+    Net cash provided by (used in) financing activities  1,232,753    (214,410)
+
+    Net increase/(decrease) in cash                        873,883   1,082,237
+Cash at beginning of period                              1,198,238     116,001
+Cash at end of period                                  $ 2,072,121 $ 1,198,238
+
+Supplemental disclosures of cash flow information:
+  Cash paid/(received) during the period for:
+     Interest                                            $ 391,149   $ 246,598
+     Income taxes                                           40,359      52,993
+
+Supplemental schedule of investing activities:
+  Vessel Systems Inc acquisition:
+    Accounts Receivable	                                       $ 0   $ 240,585
+    Inventories	                                                 0     116,817
+    Property, plant and equipment                                0     486,882
+    Cash paid                                                  $ 0   $ 844,284
+
+Supplemental schedule of investing activities:
+  Tech Space Inc acquisition:
+    Accounts Receivable	                                 $ 325,825         $ 0
+    Inventories	                                           447,639           0
+    Property, plant and equipment                          678,395           0
+    Customer deposits                                     (314,253)          0
+    Cash paid                                          $ 1,137,606         $ 0
+
+See accompanying notes to consolidated financial statements.
+
+
+
+
+             Notes to Consolidated Financial Statements
+
+(1)  Summary of Significant Accounting Policies
+
+   (a) Nature of Business
+
+       Art's-Way Manufacturing Co., Inc. is primarily engaged in the
+       fabrication and sale of metal products in the agricultural sector of
+       the United States economy. Major product offerings include animal feed
+       processing equipment, sugar beet and potato harvesting equipment, land
+       maintenance equipment, finished mowing and crop shredding equipment and
+       seed planting equipment. A significant part of the Company's business
+       is supplying hay blowers to original equipment manufacturers (OEMs).
+       Another important part of the Company's business is after market
+       service parts that are available to keep its branded and OEM produced
+       equipment operating to the satisfaction of the end user of the Company's
+       products. Art's-Way Vessels, Inc. is primarily engaged in the
+       fabrication and sale of pressurized vessels and tanks.  Art's-Way
+       Scientific, Inc. is primarily engaged in the construction of modular
+       laboratories and animal housing facilities.
+
+   (b) Principles of Consolidation
+
+       The consolidated financial statements include the accounts of Art's-Way
+       Manufacturing Co., Inc. and its wholly-owned subsidiaries, Art's-Way
+       Vessels, Inc. and Art's-Way Scientific, Inc. Art's-Way Vessels became
+       active in October 2005 after purchasing certain assets of Vessel
+       Systems, Inc., while Art's-Way Scientific, Inc. became active in August
+       2006 after purchasing certain assets of Tech Space, Inc. All material
+       inter-company accounts and transactions are eliminated in consolidation.
+
+   (c) Cash Concentration
+
+       The Company maintains its cash balances in several different accounts
+       in two different banks, balances in these accounts are periodically in
+       excess of federally insured limits
+
+   (d) Accounts Receivable
+
+       Accounts receivable are carried at original invoice amount less an
+       estimate made for doubtful accounts based on a review of all outstanding
+       amounts on a monthly basis. Management determines the allowance for
+       doubtful accounts by identifying troubled accounts and by using
+       historical experience applied to an aging of accounts. Accounts
+       receivable are written-off when deemed uncollectible. Recoveries of
+       accounts receivable previously written-off are recorded when received.
+       Accounts receivable are considered past due 60 days past invoice date,
+       with the exception of international sales which primarily are sold with
+       a letter of credit for 120 day terms.
+
+   (e) Inventories
+
+       Inventories are stated at the lower of cost or market, and cost is
+       determined using the first-in, first-out (FIFO) method. Management
+       monitors the carrying value of inventories using inventory control and
+       review processes that include, but are not limited to, sales forecast
+       review, inventory status reports, and inventory reduction programs. The
+       Company records inventory write downs to market based on expected usage
+       information for raw materials and historical selling trends for finished
+       goods. Additional write downs may be necessary if the assumptions made
+       by management do not occur.
+
+   (f) Property, Plant, and Equipment
+
+       Property, plant, and equipment are recorded at cost. Depreciation of
+       plant and equipment is provided using the straight-line method, based on
+       the estimated useful lives of the assets which range from three to
+       thirty-three years.
+
+   (g) Income Taxes
+
+       Income taxes are accounted for under the asset and liability method.
+       Deferred tax assets and liabilities are recognized for the estimated
+       future tax consequences attributable to differences between the
+       financial statement carrying amounts of existing assets and liabilities
+       and their respective tax bases and operating losses. Deferred tax assets
+       and liabilities are measured using enacted tax rates in effect for the
+       year in which those temporary differences are expected to be recovered
+       or settled. The effect on deferred tax assets and liabilities of a
+       change in tax rates is recognized in income in the period that includes
+       the enactment date. In assessing the realizability of deferred tax
+       assets, management considers whether it is more likely than not that
+       some portion or all of the deferred tax assets will not be realized. The
+       ultimate realization of deferred tax assets is entirely dependent upon
+       the generation of future taxable income during the periods in which
+       those temporary differences become deductible. Management considers the
+       scheduled reversals of deferred tax liabilities, projected future
+       taxable income, and tax planning strategies in, making this assessment.
+
+   (h) Revenue Recognition
+
+       Revenue is recognized when risk of ownership and title pass to the
+       buyer, generally upon the shipment of the product.  Shipping costs
+       charged to customers are included in net sales. Freight costs incurred
+       are included in cost of goods sold. In very limited circumstances, and
+       only upon a written customer agreement, we recognize revenue upon the
+       production and invoicing of the products.
+
+       Art's-Way Scientific, Inc. is in the construction industry and will have
+       deposits and/or bench mark payment. Their revenue is recognized on a
+       percentage completed basis.
+
+   (i) Research and Development
+
+       Research and development costs are expensed when incurred. Such costs
+       approximated $186,000 and $285,000 for the years ended November 30, 2006
+       and 2005, respectively.
+
+   (j) Advertising
+
+       Advertising costs are expensed when incurred. Such costs
+       approximated $99,000 and $66,000 for the years ended November 30, 2006
+       and 2005, respectively.
+
+   (k) Income Per Share
+
+       Basic net income per common share has been computed on the basis of
+       the weighted average number of common shares outstanding. Diluted net
+       income per share has been computed on the basis of the weighted average
+       number of common shares outstanding plus equivalent shares assuming
+       exercise of stock options.
+
+       Basic and diluted earnings per common share have been computed based on
+       the following as of November 30, 2006 and 2005:
+
+                                                 2006         2005
+       Basic:
+         Numerator, net income                $	933,540    $ 977,317
+         Denominator: Average number of
+           common shares Outstanding          1,970,676    1,951,108
+         Basic earnings per common share         $ 0.47       $ 0.50
+       Diluted
+         Numerator, net income                $ 933,540    $ 977,317
+         Denominator: Average number of
+           common shares Ourstanding          1,970,676    1,951,108
+
+         Effect of dilutive stock options         7,432	      19,113
+                                              1,978,108    1,970,221
+         Diluted earnings per common share       $ 0.47       $ 0.50
+
+   (l) Stock Based Compensation
+
+       The Company accounted for stock options in accordance with the
+       provisions of the Financial Accounting Standards Board (FASB) Statement
+       No. 123(Revised), Share-Based Payments (FAS 123(R)). Statement FAS
+       123(R) requires that share-based compensation, which includes stock
+       options, be accounted for at the fair value of the applicable equity
+       instrument. The Company utilized the Black Scholes option pricing model
+       to value stock options.
+
+   (m) Use of Estimates
+
+       Management of the Company has made a number of estimates and assumptions
+       related to the reported amount of assets and liabilities, reported
+       amount of revenues and expenses, and the disclosure of contingent assets
+       and liabilities to prepare these financial statements in conformity with
+       generally accepted accounting principles. These estimates include the
+       valuation of the Company's accounts receivable, inventories and
+       realizability of the deferred tax assets. Actual results could differ
+       from those estimates.
+
+   (n) Recently Issued Accounting Pronouncements
+
+       In December 2006, the FASB issued Financial Interpretation No. 48,
+       Accounting for Uncertainty in Income Taxes - an interpretation of
+       FASB Statement No. 109 (Issued 6/06). This Interpretation
+       prescribes a recognition threshold and measurement attribute for
+       the financial statement recognition and measurement of a tax position
+       taken or expected to be taken in a tax return. It also provides
+       guidance on derecognition, classification, interest and penalties,
+       accounting in interim periods, disclosure, and transition.  For the
+       Company, the Statement is effective for fiscal years beginning
+       after December 15, 2006. The Company is assessing the effects of
+       Financial Interpretation No. 48.
+
+(2)  Allowance for Doubtful Accounts
+
+     A summary of the Company's activity in the allowance for doubtful
+     accounts is as follows:
+                                                  2006         2005
+
+      Balance, beginning                        $46,385      $30,417
+        Provision charged to expense             88,528       19,909
+        Less amounts charged-off                (26,541)      (3,941)
+      Balance, ending                          $108,372      $46,385
+
+(3)  Inventories
+
+     Major classes of inventory are:
+                                                 2006         2005
+        Raw materials                        $3,260,897   $3,414,777
+        Work in process                         981,979      480,101
+        Finished goods                        2,886,860    3,889,825
+                                             $7,129,736	  $7,784,703
+        Less: Reserves	                      1,131,561    1,114,781
+                                             $5,998,175	  $6,669,922
+
+(4)  Property, Plant, and Equipment
+
+     Major classes of property, plant, and equipment are:
+                                                 2006	      2005
+         Land                                  $223,509	    $180,909
+         Buildings and improvements           3,341,804	   2,704,570
+         Manufacturing machinery & equipment  9,511,453	   9,163,149
+         Trucks and automobiles                 167,535      104,016
+         Furniture and fixtures                 116,286      110,834
+                                             13,360,587   12,263,478
+         Less accumulated depreciation       10,175,289   10,372,818
+         Property, plant and equipment       $3,185,298   $1,890,660
+
+(5)  Accrued Expenses
+
+     Major components of accrued expenses are:
+                                                 2006         2005
+         Salaries, wages, and commissions      $464,609     $371,680
+         Accrued warranty expense               230,740      131,832
+         Other                                  732,309	     232,952
+                                             $1,427,658	    $736,464
+
+(6)  Product Warranty
+
+     The Company offers warranties of various length to its customers
+     depending on the specific product and terms of the customer purchase
+     agreement. The average length of the warranty period is 1 year from
+     date of purchase. The Company's warranties require it to repair or
+     replace defective products during the warranty period at no cost to
+     the customer. The Company records a liability for estimated costs that
+     may be incurred under its warranties. The costs are estimated based on
+     historical experience and any specific warranty issues that have been
+     identified. Although historical warranty costs have been within
+     expectations, there can be no assurance that future warranty costs will
+     not exceed historical amounts. The Company periodically assesses the
+     adequacy of its recorded warranty liability and adjusts the balance as
+     necessary.
+
+     Changes in the Company's product warranty liability for the years ended
+     November 30, 2006, and 2005 are as follows:
+                                                 2006	      2005
+         Balance, beginning	               $131,832     $119,912
+           Settlements made in cash or in-kind (216,068)    (294,633)
+           Warranties issued                    314,976	     306,553
+         Balance, ending                       $230,740	    $131,832
+
+(7)  Loan and Credit Agreements
+
+     The Company has a revolving line of credit for $3,500,000 with advances
+     funding the working capital, letter of credit and corporate credit card
+     needs that mature on March 2007. The interest rate is West Bank's prime
+     interest rate, adjusted daily. Monthly interest only payments are
+     required and the unpaid principal is due on the maturity date.
+     Collateral consists of a first position on assets owned by the Company
+     including, but not limited to inventories, accounts receivable,
+     machinery and equipment. As of November 30, 2006 and 2005, the Company
+     had not borrowed against the line of credit. Other terms and conditions
+     of the debt with West Bank include providing monthly internally prepared
+     financial reports including accounts receivable aging schedules and
+     borrowing base certificates and year-end audited financial statements.
+     The borrowing base shall limit advances from line of credit to 60% of
+     accounts receivable less than 90 days, 60% of finished goods inventory,
+     50% of raw material inventory and 50% of work-in-process inventory plus
+     40% of appraisal value of machinery and equipment.
+
+     J. Ward McConnell, Jr. was required to personally guarantee the debt
+     with West Bank on an unlimited and unconditional basis. The guarantee of
+     the term debt shall be reduced after the first three years to a
+     percentage representing his ownership of the Company. Mr. McConnell's
+     guarantee shall be removed from the term debt in the event that his
+     ownership interest in the Company is reduced to a level less than 20%
+     after the first three years of the loan. The Company compensates Mr.
+     McConnell for his personal guarantee at an annual percentage rate of 2%
+     of the outstanding balance to be paid monthly. Guarantee fee payments to
+     Mr. McConnell were approximately $60,000 and $56,000, for the years
+     ended November 30, 2006, and 2005, respectively.
+
+     A summary of the Company's term debt is as follows:
+                                                 2006         2005
+     West Bank loan payable in monthly
+      installments of $17,776 including
+      interest at Bank's prime rate plus 1.5%
+      due May 2023  (A) (B)                  $1,701,843	  $1,754,866
+
+     West Bank loan payable in monthly
+      installments of $10,000 including
+      interest at Bank's prime rate plus
+      1.5% due March 2015 (A) (B)               943,034      974,356
+
+     West Bank loan payable in monthly
+      installments of $22,063 including
+      interest at Bank's prime rate plus
+      1.0% due April 2016 (A) (B)             1,428,054            0
+
+     State of Iowa Community Development
+      Block Grant promissory note at 0%
+      interest, maturity 2006 with quarterly
+      principal payments of $11,111                   0       33,334
+
+     State of Iowa Community Development
+      Block Grant local participation
+      promissory notes at 4% interest,
+      maturity 2006, with quarterly principal
+      payments of $7,007                              0       19,663
+
+        Total term debt                       4,072,931    2,782,219
+      Less current portion of term debt         220,559      223,946
+        Term debt, excluding current portion $3,852,372	  $2,558,273
+
+     (A) Notes are supported by a guarantee issued by the United States
+     Department of Agriculture (USDA) for 75% of the loan amount outstanding.
+     Collateral for these loans are primarily real estate with a second
+     position on assets securing the line of credit. The USDA subordinates
+     collateral rights in all assets other than real estate in an amount
+     equal to West Bank's other credit commitments.
+
+     (B) Covenants include, but are not limited to, restrictions on payment
+     of dividends, debt service coverage ratio, debt/tangible net worth
+     ratio, current ratio, limitation on capital expenditures, and tangible
+     net worth. During the year ended November 30, 2006, and 2005, the
+     Company violated certain debt covenants that were waived.
+
+     A summary of the minimum maturities of term debt follows for the years
+     ending November 30:
+
+                            Year:	                     Amount
+                             2007	                   $ 220,559
+                             2008                            242,695
+                             2009                            267,083
+                             2010                            293,891
+                             2011                            323,359
+                           Thereafter                      2,725,344
+                                                         $ 4,072,931
+
+(8)  Employee Benefit Plans
+
+     The Company sponsors a defined contribution 401(k) savings plan
+     which covers substantially all full-time employees who meet eligibility
+     requirements. Participating employees may contribute as salary
+     reductions a minimum of 4% of their compensation up to the limit
+     prescribed by the Internal Revenue Code. The Company began making 25%
+     matching contribution up to 1% of eligible compensation starting June
+     2005. The Company recognized an expense of $17,525 and $10,613 related
+     to this plan during the years ended November 30, 2006 and 2005,
+     respectively.
+
+(9)  Stock Option Plan
+
+     Under the Director Option Plan (2001), stock options may be granted
+     to non-employee directors to purchase shares of common stock of the
+     Company at a price not less than fair market value at the date the
+     options are granted. Non-employee directors who have served for at least
+     one year are automatically granted options to purchase 5,000 shares of
+     common stock. Options granted are nonqualified stock options. The option
+     price, vesting period, and term are set by the Compensation Committee of
+     the Board of Directors of the Company. Options for an aggregate of
+     50,000 common shares may be granted under the Plan. Each option will be
+     for a period of 10 years and may be exercised at a rate of 25% at the
+     date of grant and 25% on the first, second, and third anniversary date
+     of the grant on a cumulative basis. At November 30, 2006, the Company
+     had approximately 5,000 shares available for issuance under the 2001
+     Director Option Plan.
+
+     A summary of changes in the stock option plan is as follows:
+                                                    November 30
+                                                  2006         2005
+     Options outstanding at beginning of period	 25,000       45,000
+     Granted                                          0        5,000
+     Exercised                                  (15,000)     (25,000)
+     Options outstanding at end of period        10,000       25,000
+     Options price range for the period	         $ 2.32       $ 2.32
+                                                    To           To
+                                                 $ 5.21       $ 5.21
+     Options exercisable at end of period         8,750       20,000
+
+     At November 30, 2006 and 2005, the weighted-average remaining
+     contractual life of options outstanding was 6.5 years and 6.9 years
+     respectively, and the weighted-average exercise price was $3.98 and
+     $3.22, respectively. The weighted-average exercise price for options
+     exercisable at November 30, 2006 was $3.80.
+
+     The per share weighted-average fair value of stock options granted in
+     the year ended November 30, 2005, was $3.45, on the date of grant using
+     the Black Scholes option-pricing model with the following
+     weighted-average assumptions: expected dividend yield 0.0%, risk-free
+     interest rate 4.25%, expected volatility factor of 30.01%, and an
+     expected life of 10 years.
+
+(10) Income Taxes
+
+     Total income tax expense (benefit) for the years ended November 30, 2006
+     and 2005 consists of the following:
+                                                    November 30
+                                                  2006	      2005
+     Current expense                           $391,306	    $574,003
+     Benefit of utilization of operating
+      loss carryforward	                              0     (538,000)
+     Deferred expense (benefit)	                 92,000	     461,000
+                                               $483,306     $497,003
+
+     The reconciliation of the statutory Federal income tax rate and the
+     effective tax rate are as follows:
+                                                    November 30
+                                                  2006        2005
+     Statutory federal income tax rate	           34.0%        34.0%
+     Other due primarily to change in
+       valuation allowance                           .1	        (0.3)
+                                                   34.1%        33.7%
+
+     Tax effects of temporary differences that give rise to significant
+     portions of the deferred tax assets at November 30, 2006 and 2005
+     are presented below:
+
+                                                    November 30
+                                                  2006	      2005
+     Deferred tax assets:
+        Tax credits                              11,000      214,000
+        Accrued expenses                        152,000      100,000
+        Inventory capitalization                202,000	     243,000
+        Asset reserves                          440,000	     330,000
+        Property, plant, and equipment	        (22,000)      18,000
+      Total deferred tax assets	                783,000	     905,000
+      Less valuation allowance                   11,000	      41,000
+      Net deferred tax assets	               $772,000	    $864,000
+
+     At November 30, 2006 the Company has approximately $132,000 of research
+     and development credits, 29,000 of state tax credits, and $41,000 of AMT
+     credits. The R&D and state tax credits will begin to expire in 2012 and
+     2007, respectively.
+
+     The Company has established a deferred tax asset valuation allowance
+     of $11,000 at November 30, 2006 and $41,000 at 2005, due to the
+     uncertainty of realizing its deferred tax assets related to the state
+     tax credits. In assessing the realizability of deferred tax assets,
+     management considers whether it is more likely than not that some
+     portion or all of the deferred tax assets will not be realized. The
+     ultimate realization of deferred tax assets is dependent upon the
+     generation of future taxable income during the periods in which those
+     temporary differences become deductible.
+
+(11) Disclosures About the Fair Value of Financial Instruments
+
+     SFAS 107, Disclosures about Fair Value of Financial Instruments, defines
+     fair value of a financial instrument as the amount at which the
+     instrument could be exchanged in a current transaction between willing
+     parties. At November 30, 2006 and 2005, the carrying amount approximates
+     fair value for cash, accounts receivable, accounts payable, notes
+     payable to bank, term debt, and other current and long-term liabilities.
+     The carrying amounts approximate fair value because of the short
+     maturity of these instruments. The fair value of the Company's
+     installment term loan payable also approximates fair value because the
+     interest rate is variable as it is tied to the lender's borrowing rate.
+
+(12) Litigation and Contingencies
+
+     Various legal actions and claims are pending against the Company. In the
+     opinion of management adequate provisions have been made in the
+     accompanying financial statements for all pending legal actions and
+     other claims.
+
+(13) Lease Obligations
+
+     The Company leases the facility in Dubuque Iowa. Under an operating
+     lease agreement which expires in October 2007. The minimum lease
+     payments for the fiscal year ended November 30, 2007 will be
+     approximately $125,000. Total rent expense recognized for the year ended
+     November 30, 2006 and November 30, 2005 was $150,000 and $25,000,
+     respectively.
+
+(14) 2006 and 2005 Acquisition
+
+     Effective August 2, 2006, the Company acquired the operating assets of
+     Tech Space, Inc. for a cash purchase price of approximately $1,138,000.
+     Effective October 4, 2005, the Company acquired the operating assets of
+     Vessels Systems, Inc. for a cash purchase price of approximately
+     $844,000. The operating results of the acquired businesses are reflected
+     in the Company's consolidated statement of income from the acquisition
+     date forward. The acquisitions were made to continue the Company's
+     growth strategy and diversify its product offerings outside the
+     agricultural industry. The purchase price was determined based on an
+     arms-length negotiated value. The transaction was accounted for under
+     the purchase method of accounting, with the purchase price allocated to
+     the individual assets acquired. (See cash flow statement supplemental
+     disclosure)
+
+     Proforma sales and net income information for Tech Space and Vessels
+     Systems, Inc. for 2006 and 2005 were not included as management believes
+     that the Companies would not have had a material impact on the Company's
+     financial statements.
+
+(15) Segment Information
+
+     On October 4, 2005, the Company purchased certain assets of Vessels
+     Systems, Inc. which created a separate operating segment. Then on August
+     2, 2006, the Company purchased certain assets of Tech Space, Inc. which
+     created a third operating segment. Prior to these acquisitions the
+     Company operated in one reportable segment.
+
+     Our reportable segments are strategic business units that offer
+     different products. They are managed separately because each business
+     requires different technology and marketing strategies.
+
+     There are three reportable segments: agricultural products, pressurized
+     vessels and modular buildings. The agricultural products segment
+     fabricates and sells farming products as well as replacement parts for
+     these products in the United States and worldwide. Export sales amounted
+     to $844,000 and $0 in 2006 and 2005 respectively. The pressurized vessel
+     segment produces pressurized tanks. The modular building segment
+     produces modular buildings for animal containment and various laboratory
+     uses.
+
+     The accounting policies applied to determine the segment information are
+     the same as those described in the summary of significant accounting
+     policies. Management evaluates the performance of each segment based on
+     profit or loss from operations before income taxes, exclusive of
+     nonrecurring gains and losses.
+
+     Approximate financial information with respect to the reportable
+     segments is as follows. The agricultural products and pressurized
+     vessels segment information is for the year ended November 30, 2006 and
+     the modular buildings segment information is for the period from
+     acquisition to November 30, 2006.
+
+                                  Twelve Months Ended November 30, 2006
+                           Agricultural  Pressurized    Modular   Consolidated
+                            Products       Vessels     Buildings
+     Revenue from
+      external customers   $15,025,000   $3,797,000   $1,032,000   $19,854,000
+     Income from operations  1,280,000      535,000      (42,000)    1,773,000
+     Income before tax       1,004,000      478,000      (65,000)    1,417,000
+     Total Assets           10,799,000    1,736,000    2,079,000    14,614,000
+     Capital expenditures      925,000	     50,000            0       950,000
+     Depreciation
+        & Amortization         243,000       51,000       10,000       304,000
+
+                                  Twelve Months Ended November 30, 2005
+                           Agricultural  Pressurized    Modular   Consolidated
+                            Products       Vessels     Buildings
+     Revenue from
+      external customer    $14,261,000     $358,000	      $0   $14,619,000
+     Income from operations  1,683,000        7,000            0     1,690,000
+     Income before tax       1,467,000        7,000            0     1,474,000
+     Total Assets           10,691,000    1,091,000            0    11,782,000
+     Capital expenditures      374,000	      4,000            0       378,000
+     Depreciation
+        & Amortization         262,000        7,000            0       269,000
+
+(16) Subsequent Events
+
+     On January 16, 2007, a fire occurred late in the evening at Art's-Way
+     Scientific's plant in Monona, Iowa. The fire destroyed the manufacturing
+     building and all of its contents. There were no injuries, and the
+     Company was able to save the computer server.
+
+     The Company is currently working with its insurance carrier to assess
+     the value of the loss and commence replacement of its assets. The
+     Company has contacted all of the customers that had orders booked and
+     buildings ready to deliver. To date the Company has not lost any orders.
+
+     The Company's main goal at present is to manufacture and ship against
+     its existing backlog. Within a week of the fire the Company was able to
+     start rebuilding one of the buildings that was lost in the fire. The
+     Company also owns a smaller warehouse in Monona which is being used as a
+     temporary production facility. The Company brought in trailers to serve
+     as additional space. Two buildings are to be shipped in February.
+
+Item 8. Changes in and Disagreements With Accountants on Accounting and
+        Financial Disclosure.
+
+        On August 25, 2006, the Company engaged Eide Bailly, LLP to be its
+        independent accountant to audit the Company's financial statements.
+        Prior to the engagement, the Company had not previously had consulted
+        with Eide Bailly, LLP on any matters.
+
+Item 8A. Controls and Procedures.
+
+        Senior management, including the President and Chief Financial Officer,
+        evaluated the effectiveness of our disclosure controls and procedures
+        as of the end of the period covered by this report. Based on that
+        evaluation, the President and Chief Financial Officer concluded that.
+        our disclosure controls and procedures are effective to ensure that
+        information required to be disclosed by us in the reports that we file
+        or submit under the Exchange Act is (a) accumulated and communicated to
+        our management, including our President and Chief Financial Officer, as
+        appropriate to allow timely decisions regarding required disclosure;
+        and (b) recorded, processed, summarized and reported, within the time
+        specified in the SEC's rules and forms. Since that evaluation process
+        was completed there have been no significant changes in our disclosure
+        controls or in other factors that could significantly affect these
+        controls.
+
+        There were no changes in our internal control over financial reporting,
+        identified in connection with this evaluation that occurred during the
+        fourth fiscal quarter that materially affected, or is reasonably likely
+        to materially affect, our internal control over financial reporting.
+
+Item 8B. Other Information.
+
+        Not Applicable
+
+                               PART III
+
+Item 9. Directors, Executive Officers, Promoters and Control Persons;
+Compliance with Section 16(a) of the Exchange Act.
+
+        The information required by Item 9 is incorporated by reference to our
+        Definitive Proxy Statement to be filed pursuant to Regulation 14A
+        within 120 days after November 30, 2006.
+
+        We have adopted a Code of Ethics that applies to our principal
+        executive officer, principal financial officer, principal accounting
+        officer and the Board of Directors. A copy of the Code of Ethics may
+        be obtained free of charge by writing to us at the following address:
+        Art's-Way Manufacturing Co., Inc. 5556 Highway 9 Armstong, IA 50514
+
+Item 10. Executive Compensation.
+
+        The information required by Item 10 is incorporated by reference to our
+        Definitive Proxy Statement to be filed pursuant to Regulation 14A
+        within 120 days after November 30, 2006.
+
+Item 11. Security Ownership of Certain Beneficial Owners & Management
+and Related Stockholder Matters.
+
+        The information required by Item 11 is incorporated by reference to our
+        Definitive Proxy Statement to be filed pursuant to Regulation 14A
+        within 120 days after November 30, 2006.
+
+Item 12. Certain Relationships and Related Transactions.
+
+        The information required by Item 12 is incorporated by reference to our
+        Definitive Proxy Statement to be filed pursuant to Regulation 14A
+        within 120 days after November 30, 2006.
+
+Item 13. Exhibits.
+
+        Please see Exhibit Index.
+
+Item 14. Principal Accountant Fees and Services.
+
+        The information required by Item 14 is incorporated by reference to our
+        Definitive Proxy Statement to be filed pursuant to Regulation 14A
+        within 120 days after November 30, 2006.
+
+                               Signatures
+
+In accordance with Section 13 or 15(d) of the Exchange Act, the
+registrant caused this report to be signed on its behalf by the
+undersigned, thereunto duly authorized.
+
+ART'S-WAY MANUFACTURING CO., INC.
+
+By: ___________________________      By:_____________________________
+    E.W. Muehlhausen                    Carrie L. Majeski
+    President                           Chief Financial Officer
+    (Principal Executive Officer)       (Principal Financial and
+                                           Accounting Officer)
+Date:__________________________	     Date:___________________________
+
+In accordance with the Exchange Act, this report has been signed below
+by the following persons on behalf of the registrant and in the
+capacities and on the dates indicated.
+
+______________________________	              February 26, 2007
+ J. Ward McConnell, Jr.
+Chairman of the Board and Director	            Date
+
+______________________________	              February 26, 2007
+David R. Castle
+Director	                                    Date
+
+______________________________	              February 26, 2007
+Fred Krahmer
+Director                                            Date
+
+______________________________	              February 26, 2007
+James Lynch
+Director                                            Date
+
+______________________________	              February 26, 2007
+Douglas McClellan
+Director                                            Date
+
+_____________________________	              February 28, 2007
+Marc H. McConnell
+Director                                            Date
+
+_____________________________	              February 28, 2007
+Thomas E. Buffamante
+Director                                            Date
+
+
+                Art's-Way Manufacturing Co., Inc.
+                         Exhibit Index
+
+Number	Exhibit Description
+
+2	Agreement & Plan of Merger for Reincorporation of Art's-Way
+        Manufacturing Co., Inc., in Delaware. Incorporated by reference to
+        Exhibit 2 of Annual Report on Form 10-K for the year ended
+        May 27, 1989.
+3	Certificate of Incorporation and By-laws for Art's-Way
+        Manufacturing Co., Inc. Incorporated by reference to Exhibit 3 of
+        Annual Report on Form 10-K for the year ended May 27, 1989.
+3.1     Amendments to Bylaws of Art's-Way Manufacturing Co., Inc. Incorporated
+        by reference to Exhibit 3.1 to the Form 10-QSB for the quarter ended
+        May 31, 2004
+10	Incorporated by reference to the material contracts filed as Exhibit 10
+        to the Annual Report on Form 10-K for the fiscal year ended
+        May 30, 1991.
+10.1	Art's-Way Manufacturing Co., Inc. 401 (k) Savings Plan. Incorporated by
+        reference to Exhibit 28 (a) to the Art's-Way Manufacturing Co., Inc.
+        Registration Statement on Form S-8 filed on October 23, 1992.
+10.2	Art's-Way Manufacturing Co., Inc. Employee Stock Option Plan (1991).
+        Incorporated by reference to Exhibit "A" to Proxy Statement for Annual
+        Meeting of Stockholders held on October 15, 1991.
+10.3	Art's-Way Manufacturing Co., Inc. Director Stock Option Plan (2001).
+        Incorporated by reference as Exhibit 10.3.1 of the Annual Report on
+        Form 10-K for the fiscal year ended November 30, 2002.
+10.4	Asset Purchase Agreement between the Company and J. Ward McConnell,
+        Jr., and Logan Harvesters, Inc. Incorporated by reference to Current
+        Report on Form 8-K dated September 6, 1996.
+10.5    Agreement dated February 12, 2002 between the Company and J. Ward
+        McConnell, Jr., purchase of 640,000 shares of common stock.
+        Incorporated by reference to Current Report on Form 8-K filed
+        February 22, 2002.
+10.6    Forbearance Agreement and Fifteenth Amendment to Loan and Security
+        Agreement dated January 31, 2003 between the Company and UPS Capital
+        Corporation. Incorporated by reference to the Form 10-Q for the quarter
+        ended February 28, 2003.
+10.7    Long-term Financing Agreement dated April 25, 2003 between the Company
+        and West Des Moines State Bank.  Incorporated by reference to the Form
+        10-Q for the quarter ended May 31, 2003.
+10.8    Asset Purchase Agreement between the Company and Obeco Truck Body, Inc.
+        Incorporated by reference to the Form 10-Q filed for the quarter ended
+        August 31, 2003.
+10.9    Asset Purchase Agreement with Vessels Systems Inc. incorporated by
+        reference to the Form 10-KSB filed for the year ended November 31, 2005
+10.10   Asset Purchase Agreement with Tech Space Inc.
+21      Subsidiaries of the small business issuer.
+23      Consent of McGladrey & Pullen, LLP
+23.1    Consent of Eide Bailly, LLP
+31.1    Certification of Chief Executive Officer under the Section 302 of the
+        Sarbanes-Oxley Act of 2002.
+31.2    Certification of Chief Financial Officer under the Section 302 of the
+        Sabanes-Oxley Act of 2002.
+32.1    Certification of Chief Executive Officer under 18 U.S.C. Section 1350.
+32.2	Certification of Chief Financial Officer under 18 U.S.C. Section 1350.
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-23
+<SEQUENCE>2
+<FILENAME>exhib231.txt
+<TEXT>
+
+                             Exhibit 23.1
+      Consent of Independent Registered Public Accounting Firm
+
+To the Board of Directors
+Art's-Way Manufacturing Co., Inc.
+Armstrong, Iowa
+
+We consent to the incorporation by reference in Registration Statement
+No. 33-53724 on Form S-8 related to the 401(k) Savings Plan and the
+Registration Statement on Form S-8 related to the 1991 Employee Stock
+Option Plan of Art's-Way Manufacturing Co., Inc. of our report, dated
+January 7, 2007 appearing in this Annual Report on Form 10-KSB of
+Art's-Way Manufacturing Co., Inc. for the year ended November 30, 2006.
+
+                                             /s/ Eide Bailley LLP
+
+Minneapolis, Minnesota
+February 26, 2007
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-31
+<SEQUENCE>3
+<FILENAME>exhib311.txt
+<TEXT>
+                              Exhibit 31.1
+                             CERTIFICATIONS
+
+I, E.W. Muehlhausen, certify that:
+
+1. I have reviewed this report on Form 10-KSB of Art's-Way Manufacturing
+Co., Inc.;
+
+2. Based on my knowledge, this report does not contain any untrue
+statement of a material fact or omit to state a material fact necessary
+to make the statements made, in light of the circumstances under which
+such statements were made, not misleading with respect to the period
+covered by this report;
+
+3. Based on my knowledge, the financial statements, and other financial
+information included in this report, fairly present in all material
+respects the financial condition, results of operations and cash flows
+of the small business issuer as of, and for, the periods presented in
+this report;
+
+4. The small business issuer's other certifying officer(s) and I are
+responsible for establishing and maintaining disclosure controls and
+procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e))
+and internal control over financial reporting (as defined in Exchange
+Act Rules 13a-15(f) and 15d-15(f)) for the small business issuer and
+have:
+
+   (a) Designed such disclosure controls and procedures, or caused such
+   disclosure control and procedures to be designed under our supervision,
+   to ensure that material information relating to the small business
+   issuer, including its consolidated subsidiaries, is made known to us by
+   others within those entities, particularly during the period in which
+   this report is being prepared;
+
+   (b) Designed such internal controls over financial reporting, or caused
+   such internal controls over financial reporting to be designed under our
+   supervision, to provide reasonable assurance regarding the reliability
+   of financial reporting and the preparation of financial statements for
+   external purposes in accordance with generally accepted accounting
+   principles;
+
+   (c) Evaluated the effectiveness of the small business issuer's
+   disclosure controls and procedures and presented in this report our
+   conclusions about the effectiveness of the disclosure controls and
+   procedures, as of the end of the period covered by this report based on
+   such evaluation; and
+
+   (d) Disclosed in this report any change in the small business issuer's
+   internal control over financial reporting that occurred during the small
+   business issuer's most recent fiscal quarter (the small business
+   issuer's fourth fiscal quarter in the case of an annual report) that has
+   most recent fiscal affected, or is reasonably likely to materially
+   affect, the small business issuer's internal control over financial
+   reporting; and
+
+5. The small business issuer's other certifying officer(s) and I have
+disclosed, based on our most recent evaluation of internal control over
+financial reporting, to the small business issuer's auditors and the
+audit committee of the small business issuer's board of directors (or
+persons performing equivalent functions):
+
+   (a) All significant deficiencies and material weaknesses in the design
+   or operation of internal control over financial reporting which are
+   reasonably likely to adversely affect the small business issuer's
+   ability to record, process, summarize and report financial information;
+   and
+
+   (b) Any fraud, whether or not material, that involves management or
+   other employees who have a significant role in the small business
+   issuer's internal control over financial reporting.
+
+Date: February 28, 2007
+/s/ E.W. Muehlhausen
+
+- ------------------------
+President (Principal Executive Officer)
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-31
+<SEQUENCE>4
+<FILENAME>exhib312.txt
+<TEXT>
+
+                              Exhibit 31.2
+                             CERTIFICATIONS
+
+I, Carrie L. Majeski, certify that:
+
+1. I have reviewed this report on Form 10-KSB of Art's-Way Manufacturing
+Co., Inc.;
+
+2. Based on my knowledge, this report does not contain any untrue
+statement of a material fact or omit to state a material fact necessary
+to make the statements made, in light of the circumstances under which
+such statements were made, not misleading with respect to the period
+covered by this report;
+
+3. Based on my knowledge, the financial statements, and other financial
+information included in this report, fairly present in all material
+respects the financial condition, results of operations and cash flows
+of the small business issuer as of, and for, the periods presented in
+this report;
+
+4. The small business issuer's other certifying officer(s) and I are
+responsible for establishing and maintaining disclosure controls and
+procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e))
+and internal control over financial reporting (as defined in Exchange
+Act Rules 13a-15(f) and 15d-15(f)) for the small business issuer and
+have:
+
+   (a) Designed such disclosure controls and procedures, or caused such
+   disclosure control and procedures to be designed under our supervision,
+   to ensure that material information relating to the small business
+   issuer, including its consolidated subsidiaries, is made known to us by
+   others within those entities, particularly during the period in which
+   this report is being prepared;
+
+   (b) Designed such internal controls over financial reporting, or caused
+   such internal controls over financial reporting to be designed under our
+   supervision, to provide reasonable assurance regarding the reliability
+   of financial reporting and the preparation of financial statements for
+   external purposes in accordance with generally accepted accounting
+   principles;
+
+   (c) Evaluated the effectiveness of the small business issuer's
+   disclosure controls and procedures and presented in this report our
+   conclusions about the effectiveness of the disclosure controls and
+   procedures, as of the end of the period covered by this report based on
+   such evaluation; and
+
+   (d) Disclosed in this report any change in the small business issuer's
+   internal control over financial reporting that occurred during the small
+   business issuer's most recent fiscal quarter (the small business
+   issuer's fourth fiscal quarter in the case of an annual report) that has
+   most recent fiscal affected, or is reasonably likely to materially
+   affect, the small business issuer's internal control over financial
+   reporting; and
+
+5. The small business issuer's other certifying officer(s) and I have
+disclosed, based on our most recent evaluation of internal control over
+financial reporting, to the small business issuer's auditors and the
+audit committee of the small business issuer's board of directors (or
+persons performing equivalent functions):
+
+   (a) All significant deficiencies and material weaknesses in the design
+   or operation of internal control over financial reporting which are
+   reasonably likely to adversely affect the small business issuer's
+   ability to record, process, summarize and report financial information;
+   and
+
+   (b) Any fraud, whether or not material, that involves management or
+   other employees who have a significant role in the small business
+   issuer's internal control over financial reporting.
+
+Date: February 28, 2007
+/s/ Carrie L. Majeski
+
+- ----------------------------
+Chief Financial Officer
+(Principal Financial Officer)
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-32
+<SEQUENCE>5
+<FILENAME>exhib321.txt
+<TEXT>
+                           Exhibit 32.1
+              CERTIFICATION OF FINANCIAL STATEMENTS
+
+   Pursuant to 18 U.S.C. 63 1350, the President of Art's-Way Manufacturing
+Co., Inc. (the "Company"), hereby certify that this Form 10-KSB and the
+financial statements thereto fully comply with the requirements of
+Sections 13(a) and 15(d) of the Securities Exchange Act of 1934, and the
+information contained in the Form 10-KSB and the financial statements
+thereto fairly present, in all material respects, the financial
+condition and results of operations of the Company.
+
+By: /s/ E.W. Muehlhausen
+
+Name: E.W. Muehlhausen
+President
+
+Date 2/28/07
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-32
+<SEQUENCE>6
+<FILENAME>exhib322.txt
+<TEXT>
+
+                              Exhibit 32.2
+                 CERTIFICATION OF FINANCIAL STATEMENTS
+
+    Pursuant to 18 U.S.C. 63 1350, the Chief Financial Officer of Art's-Way
+Manufacturing Co., Inc. (the "Company"), hereby certify that this Form
+10-KSB and the financial statements thereto fully comply with the
+requirements of Sections 13(a) and 15(d) of the Securities Exchange Act
+of 1934, and the information contained in the Form 10-KSB and the
+financial statements thereto fairly present, in all material respects,
+the financial condition and results of operations of the Company.
+
+By: /s/ Carrie L. Majeski
+
+
+
+Name: Carrie L. Majeski
+Chief Financial Officer
+
+Date 2/28/07
+
+
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-21
+<SEQUENCE>7
+<FILENAME>exhibt21.txt
+<TEXT>
+
+                               Exhibit 21
+                Subsidiaries of the Small Business Issuer
+
+Art's Way Vessels, Inc., an Iowa corporation
+Art's Way Scientific, Inc. an Iowa corporation
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-23
+<SEQUENCE>8
+<FILENAME>exhibt23.txt
+<TEXT>
+                                       Exhibit 23
+
+               Consent of Independent Registered Public Accounting Firm
+
+To the Board of Directors
+Art's-Way Manufacturing Co., Inc.
+Armstrong, Iowa
+
+We consent to the incorporation by reference in Registration Statement
+No. 33-53724 on Form S-8 related to the 401(k) Savings Plan and the
+Registration Statement on Form S-8 related to the 1991 Employee Stock
+Option Plan of Art's-Way Manufacturing Co., Inc. of our report, dated
+January 9, 2006 appearing in this Annual Report on Form 10-KSB of
+Art's-Way Manufacturing Co., Inc. for the year ended November 30, 2005.
+
+                                          /s/ McGladrey & Pullen, LLP
+
+Des Moines, Iowa
+February 22, 2007
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

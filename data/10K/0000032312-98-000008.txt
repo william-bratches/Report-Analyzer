@@ -1,0 +1,2681 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ TiIhTVfiMcEek2E1XlNkLYs3OfeKPKhc4LtxZniO6hWCYZOWOjTkoSUT5JmqYXmx
+ Fk/z+SKBJWxPLljOlmsfVA==
+
+<SEC-DOCUMENT>0000032312-98-000008.txt : 19980626
+<SEC-HEADER>0000032312-98-000008.hdr.sgml : 19980626
+ACCESSION NUMBER:		0000032312-98-000008
+CONFORMED SUBMISSION TYPE:	10KSB
+PUBLIC DOCUMENT COUNT:		5
+CONFORMED PERIOD OF REPORT:	19980331
+FILED AS OF DATE:		19980625
+SROS:			NASD
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			EMCEE BROADCAST PRODUCTS INC
+		CENTRAL INDEX KEY:			0000032312
+		STANDARD INDUSTRIAL CLASSIFICATION:	RADIO & TV BROADCASTING & COMMUNICATIONS EQUIPMENT [3663]
+		IRS NUMBER:				131926296
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0331
+
+	FILING VALUES:
+		FORM TYPE:		10KSB
+		SEC ACT:		
+		SEC FILE NUMBER:	001-06299
+		FILM NUMBER:		98653933
+
+	BUSINESS ADDRESS:	
+		STREET 1:		P O BOX 68
+		STREET 2:		SUSQUEHANNA STREET EXTENSION WEST
+		CITY:			WHITE HAVEN
+		STATE:			PA
+		ZIP:			18661-0068
+		BUSINESS PHONE:		7174439575
+
+	MAIL ADDRESS:	
+		STREET 1:		P O BOX 68
+		STREET 2:		SUSQUEHANNA STREET EXTENSION
+		CITY:			WHITE HAVEN
+		STATE:			PA
+		ZIP:			18661
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	ELECTRONICS MISSILES & COMMUNICATIONS INC
+		DATE OF NAME CHANGE:	19920703
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>10KSB
+<SEQUENCE>1
+<TEXT>
+
+             U.S. SECURITIES AND EXCHANGE COMMISSION
+                     WASHINGTON, D.C.  20549
+
+
+                           FORM 10-KSB
+
+
+(Mark One)
+
+                   ANNUAL REPORT UNDER SECTION 13 OR 15(d) OF THE
+     X             SECURITIES EXCHANGE ACT OF 1934 [Fee Required]
+
+                         For the fiscal year ended March 31, 1998
+
+                   TRANSITION REPORT UNDER SECTION 13 OR 15(d) OF
+     __            THE SECURITIES EXCHANGE ACT OF 1934 [No Fee   
+                   Required]                                     
+
+                         For the transition period from _________
+                         _________________ to ___________________
+
+                  Commission file number 1-6299
+
+
+                  EMCEE BROADCAST PRODUCTS, INC.          
+          (Name of small business issuer in its charter)
+
+             DELAWARE                       13-1926296           
+(State or other jurisdiction of   (I.R.S. Employer Identification
+ incorporation or organization)    Number)
+
+ SUSQUEHANNA STREET EXTENSION,
+WEST, PO BOX 68, WHITE HAVEN, PA              18661-0068         
+(Address of principal executive               (Zip Code)
+ offices)
+
+Issuer's telephone number: (717) 443-9575
+
+                               ////
+
+Securities registered under Section 12(b) of the Exchange Act:
+
+Title of each class:                 Name of each exchange on which
+                                               registered:
+
+        Common                     NASDAQ National Market             
+                             
+Securities registered under Section 12(g) of the Exchange Act:
+
+                               None                               
+                         (TITLE OF CLASS)
+
+Check whether the issuer (1) filed all reports required to be filed by Section 
+<PAGE>
+13 or 15(d) of the Exchange Act during the past twelve (12) months (or for
+such
+shorter period that the registrant was required to file such reports), and (2)
+has been subject to such filing requirements for the past ninety (90) days.
+
+                                        Yes   X    No      
+
+
+
+Check if there is no disclosure of delinquent filers in response to Item 405
+of
+Regulation S-B is not contained in this form, and no disclosure will be
+contained, to the best of registrant's knowledge, in definitive proxy or
+information statements incorporated by reference in Part III of this Form
+10-KSB
+or any amendment to this Form 10-KSB.__
+
+
+State issuer's revenues for its most recent fiscal year. $9,187,868.
+
+
+The aggregate market value of the voting stock held by non-affiliates of the
+Registrant is $10,963,767 computed by reference to the closing bid price
+of the stock at June 23, 1998. This computation is based on the number of
+issued
+and outstanding shares held by persons other than directors and officers of
+the
+Registrant.
+
+
+State the number of shares outstanding of each of the issuer's classes of
+common
+equity, as of the latest practicable date:
+
+                CLASS                  OUTSTANDING AT JUNE 23, 1998
+Common stock, par value $.01-2/3              4,033,397
+ per share
+
+               DOCUMENTS INCORPORATED BY REFERENCE
+     
+          Items 9, 10, 11 and 12 in Part III of this report are incorporated
+by reference from the Proxy Statement expected to be filed within one hundred
+twenty (120) days of the close of the Registrant's fiscal year ended March 31,
+1998.
+
+
+Transitional Small Business Disclosure Format (Check One) 
+
+                                        Yes      ;  No   X  .<PAGE>
+<PAGE>
+                  EMCEE BROADCAST PRODUCTS, INC.
+                           FORM 10-KSB
+                 FISCAL YEAR ENDED MARCH 31, 1998
+
+                        TABLE OF CONTENTS
+
+PART I.
+
+ITEM 1.   DESCRIPTION OF BUSINESS                      1
+
+ITEM 2.   DESCRIPTION OF PROPERTY                      5
+
+ITEM 3.   LEGAL PROCEEDINGS                            6
+ 
+ITEM 4.   SUBMISSION OF MATTERS TO A VOTE OF
+          SECURITY HOLDERS                             6
+
+
+PART II.
+
+ITEM 5.   MARKET FOR COMMON EQUITY AND RELATED
+          STOCKHOLDER MATTERS                          6
+
+ITEM 6.   MANAGEMENT'S DISCUSSION AND ANALYSIS
+          OR PLAN OF OPERATION                         7
+
+ITEM 7.   FINANCIAL STATEMENTS                         18
+
+ITEM 8.   CHANGE IN AND DISAGREEMENTS WITH ACCOUNTANTS
+          ON ACCOUNTING AND FINANCIAL DISCLOSURES      18
+
+
+PART III.
+
+ITEM 9.   DIRECTORS, EXECUTIVE OFFICERS, PROMOTERS
+          AND CONTROL PERSONS; COMPLIANCE WITH
+          SECTION 16(a) OF THE EXCHANGE ACT            19
+
+ITEM 10.  EXECUTIVE COMPENSATION                       19
+
+ITEM 11.  SECURITY OWNERSHIP OF CERTAIN BENEFICIAL
+          OWNERS AND MANAGEMENT                        19
+
+ITEM 12.  CERTAIN RELATIONSHIPS AND RELATED
+          TRANSACTIONS                                 19
+
+ITEM 13.  EXHIBITS AND REPORTS ON FORM 8-K             19
+
+          SIGNATURES                                   21
+<PAGE>
+<PAGE>
+                              PART I
+ITEM 1.  DESCRIPTION OF BUSINESS
+          The Registrant (sometimes alternatively referred to in this report
+as the Company or EMCEE) is a corporation, organized and existing under the
+laws of the State of Delaware, having been incorporated in 1960.
+          The Registrant is engaged principally in the manufacture and sale of
+Multichannel Multipoint Distribution Service (MMDS) microwave transmitters and
+related equipment for the wireless cable industry and low power television
+(LPTV) transmitters and related equipment for the television broadcast
+industry. These principal products are distributed primarily through the
+Registrant's sales staff and independent representatives, with most sales
+occurring in the commercial, educational and private television system
+markets. The Registrant also provides all services relative to the design,
+procurement and installation of television broadcast stations, with the
+exception of licensing submissions.
+          For more than the past three years, the Company's primary sales and
+marketing focus has been on the wireless cable industry. While the Company was
+also involved in the manufacture and sale of products to the LPTV market
+during the same period of time, LPTV product sales have been overwhelmingly
+subordinate to the Company's MMDS products. The Company anticipates that its
+MMDS sales will continue to dominate in both domestic and foreign markets.
+          At March 31, 1998, the Registrant employed 66 people, of whom 64
+were full time employees.
+          The Registrant has a variety of raw material sources available to
+conduct its present business. However, substantial periods of lead time for
+delivery are sometimes experienced by the Registrant, making it necessary to
+inventory varied quantities of materials.
+          Significant portions of the Registrant's revenues come from
+contracts with customers who generally do not place orders on a regular basis.
+In addition,the timing of these contracts relate to economic and regulatory
+developments over which the Registrant has little or no control.
+          In fiscal year 1998, purchases by three MMDS customers constituted,
+in the aggregate, $2,261,789, or approximately 24.6% of the Company's net
+sales. Although these purchases were significant in both amount and as a
+percentage of sales, the Company's management believes that the loss of any or
+all of these customers would not have a material adverse impact on the
+Company. 
+          The Registrant's principal suppliers are Andrew Corporation, Fujitsu
+Corporation, and Microwave Filter Company, Inc.
+          Substantially all of the Registrant's domestic products must receive
+Federal Communications Commission (FCC) approval prior to being marketed and
+sold. As of the date of this report, the Registrant does not have any product
+material to the Registrant's business pending approval by the FCC.
+          While FCC regulations, as promulgated or amended from time to time,
+can have an effect on the demand for the Registrant's domestic products, the
+Registrant does not presently know of any existing governmental regulation and
+does not anticipate any probable governmental regulation which would have a
+material effect on its business. However, recently issued FCC regulations
+concerning high definition television (HDTV) may, for an interim period ending
+as early as 2006, create a temporary market for a 2.5 kilowatt UHF transmitter 
+
+
+<PAGE>
+developed by the Registrant and an unaffiliated entity which will facilitate
+the simulcasting of HDTV and ordinary television signals. This technology is
+still in the testing phase and is not presently being utilized by operators on
+a regular basis. In fiscal year 1999, the Registrant has plans to further test
+this technology with a public television station in Harrisburg, Pennsylvania.
+          Through a subsidiary, the Registrant is involved in a joint venture
+with another entity to provide wireless high speed Internet access. Wireless
+high speed Internet access involves connecting to the Internet using MMDS
+transmitters. Although more expensive than traditional telephone Internet
+access, wireless high speed Internet access technology, like its name
+suggests, enables the user to access and utilize the Internet much faster than
+through the telephone, so much so that a user can download information and
+data from the Internet approximately 47 times faster than can be done using a
+regular telephone modem. While the joint venture is not presently selling this
+service to consumers or businesses, an application to do so in Utah is pending
+before the FCC. If this business eventually proves successful, the Registrant
+will seek to become involved in providing the service to other areas of the
+United States as well.
+          By way of a partially owned subsidiary, EMCEE Broadcast Products
+(Chengdu) Company, Ltd., and an agreement with an independent Chinese company,
+the Registrant is seeking to increase sales in China. At present, the
+Registrant sells both companies MMDS transmitter assembly kits. Eventually,
+the Registrant hopes that these companies will be able to carry out
+approximately 30% of the manufacturing process. 
+          The amount of money spent on the Registrant's research and
+development activities in fiscal years 1997 and 1998 was,
+respectively,$444,669 and $377,557. An additional $61,296 and $20,000 of
+research and development costs were funded by customers in fiscal years 1997
+and 1998, respectively.
+          Competitive conditions in the Registrant's industry continue to be
+intense. Nevertheless, in the field of MMDS, the Registrant occupies a strong
+position among its competitors.
+          In the Registrant's opinion, the primary methods of competition in
+its industry are product pricing, the ready availability of quality products
+to accommodate demand, offering quality service of products after sale, and
+maintaining a reputation for having a high degree of technical knowledge. 
+          There has been no material effect on the Registrant as a result of
+compliance with federal, state or local environmental laws. 
+          The Registrant's principal corporate logos, EMCEE and EMCEE
+Broadcast Products, are registered in the United States Patent and Trademark
+Office and are used by the Registrant pursuant to a license with its wholly
+owned subsidiary corporation, EMCEE Cellular Inc., which owns the marks. In
+the same manner, the Registrant also uses the trademark, Site Lock, which is a
+mark associated with a product sold by the Registrant that enhances picture
+quality for MMDS systems in close proximity to systems operating on the same
+frequency, and utilizes a patent for a solid state S-band transmitter.
+ITEM 2.  DESCRIPTION OF PROPERTY
+          The Registrant conducts operations at its facility located on 25
+acres, which the Registrant owns in fee, in White Haven, Pennsylvania.
+          The building was constructed specifically for the Registrant in 1968
+and consists of approximately 27,000 square feet, with the majority of the
+area 
+
+
+
+
+<PAGE>
+devoted to manufacturing. The front portion of the building, consisting of two 
+floors, houses administrative, engineering and sales offices. The land,
+building and improvements are well maintained and in good condition.
+          The Registrant's land, building and improvements are subject to
+encumbrances held by the Registrant's primary lending institution, CoreStates
+Bank, N.A. These encumbrances secure the Registrant's working line of credit,
+mortgage loan and two term loans with the lender. As of the date of this
+report, the aggregate principal balance of these encumbrances is $848,060.
+          Presently, the Registrant also leases approximately 9,000 square
+feet of space in White Haven, Pennsylvania, for research and development
+activities, as well as a warehouse in which it stores certain equipment and
+archival documents.
+ITEM 3.  LEGAL PROCEEDINGS
+          There is no information relevant to the Registrant which must be
+disclosed under this Item 3.
+ITEM 4.  SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS
+          No matter was submitted to a vote of security holders during the
+fourth quarter of fiscal year 1998.
+                             PART II
+ITEM 5.  MARKET FOR COMMON EQUITY AND RELATED STOCKHOLDER MATTERS
+          The NASDAQ National Market is the principal market on which the
+Registrant's common stock is traded.
+MARKET INFORMATION
+STOCK PRICE
+          The table below presents the high and low bid prices of the
+Registrant's common equity for the two most recent fiscal years:
+<TABLE>
+<CAPTION>
+                   FISCAL YEAR 1998                    FISCAL YEAR 1997
+
+<S>          <C>       <C>    <C>      <C>    <C>      <C>      <C>     <C>  
+QTR ENDED: JUNE 30  SEPT 30  DEC 31  MAR 31   JUNE 30  SEPT 30  DEC 31  MAR 31
+
+(BID) HIGH $4.25  $4.375   $4.375  $3.25      $10.50   $7.875  $7.975   $7.50
+
+(BID) LOW  $1.97    $2.03    $2.625  $2.813   $ 6.50   $5.875  $5.375   $3.00
+</TABLE>
+
+          The above high/low bid information was obtained from the NASDAQ
+Stock Market, Inc.
+HOLDERS
+          At March 31, 1998, the number of holders of the Registrant's common
+stock was 1,592.
+DIVIDENDS
+          No dividends were declared during fiscal year 1997 or fiscal year
+1998. The Registrant's loan documents with its primary lending institution
+contain certain financial covenants with which the Registrant must comply in
+order to declare and pay dividends on its common stock.
+ITEM 6.  MANAGEMENT'S DISCUSSION AND ANALYSIS OR PLAN OF OPERATION
+RESULTS OF OPERATIONS
+
+
+
+<PAGE>
+          Net sales for the fiscal year ended March 31, 1998 totaled
+$9,188,000, a decrease of 27% compared to net sales of $12,523,000 for fiscal
+year ended March 31, 1997 and continued the downward trend from net sales of
+$14,293,000 for the fiscal year ended March 31, 1996.
+          The reduction of shipments for the last two years is attributed to
+a large foreign contract, which was terminated in fiscal 1998, and the
+reduction of domestic demand due to the inability of Multichannel Multipoint
+Distribution Service (MMDS) operators to fund new projects.
+          The termination of the large foreign contract, which entailed
+equipment shipments to Saudi Arabia, has been resolved to the satisfaction of
+both parties.  Additional shipments for this project will be nominal, and the
+contractor has indicated that the systems, which were originally designed as
+analog, will be changed to digital.  The future status of the project is
+unknown to the Registrant at this time.
+          Domestic demand in the MMDS industry started its decline in the
+second quarter of fiscal 1997 and continued as operators waited for successful
+testing and installation of digital compression technology.  The major
+operators, who have historically been highly leveraged, are having cash flow
+problems, and it appears that industry demand will not improve until
+additional funding sources
+are found.
+          An optimistic sign in the domestic MMDS industry involves field
+trials that have been underway for the past year, some of which include EMCEE
+manufactured equipment.  These trials involve the use of the MMDS spectrum for
+the transmission of high speed data (Internet) and telephony (wireless local
+loop).  In addition to the ongoing trials, several MMDS operators have already
+begun using the MMDS spectrum for high speed Internet service.  The Company
+expects that over the next few years, MMDS operators will be adding high speed
+Internet and telephony services to the traditional video services currently
+provided.  The addition of these services should have a positive impact on the
+Registrant's future MMDS business. 
+          Foreign shipments for fiscal 1998 were $5,563,000, compared to
+$7,056,000 for fiscal 1997 and $8,174,000 for fiscal 1996.  Shipments in
+fiscal 1997 included $2,113,000 for the large contract mentioned above, while
+shipments in fiscal 1996 included $2,647,000 for a large contract in Malaysia. 
+Foreign shipments comprised 61%, 56% and 57% of total sales for the fiscal
+years 1998, 1997 and 1996 respectively.
+          Gross profit for the fiscal year ending March 31, 1998 was
+$3,070,000 or 33.4% of net shipments, compared to a gross profit of $4,500,000
+(35.9% of net shipments) for fiscal year ended March 31, 1997.  The decrease
+in gross profit dollars and as a percent of sales for the last two fiscal
+periods reflects the decrease in volume.  Product mix between EMCEE
+manufactured product (in which the Company receives a higher margin)and
+original equipment manufactured by others (O.E.M.) did not have a significant
+effect in the three years under review. Fiscal 1998 did include a cancellation
+fee of a moderate six figure amount with minimal direct costs.
+          Operating expenses totaled $2,886,000 for the year ended March 31,
+1998, a reduction of $229,000 (7%) from the prior year.  Selling expense
+decreased $75,000; general and administrative expense decreased $87,000 and
+research and development decreased $67,000.
+          Selling expense was reduced in personnel and personnel related
+expense (including commissions) as the cost containment program started in
+fiscal 1997 was continued in fiscal 1998.  Shows and conventions expense did
+
+<PAGE>
+increase approximately $37,000 in fiscal 1998 compared to fiscal 1997,
+primarily for international shows committed to in the previous year.  The
+shows and conventions budget for fiscal 1999 has been reduced by 48%.  
+          General and administrative costs totaled $1,099,000 for the year
+ended March 31, 1998, compared to $1,186,000 for the year ended March 31,
+1997. Legal expense decreased $74,000; in the prior year, costs were incurred
+relating to international contracts and from the change in the Registrants's
+primary lending institution. A reduction in recruiting costs of approximately
+$22,000 was also realized in the latest fiscal year. 
+          Research and development expense totaled $378,000 for fiscal year
+ended March 31, 1998, compared to $445,000 for the previous year.  Credits for
+payments received for non-recurring engineering (NRE) totaled $20,000 for the
+year just ended, compared to $61,000 received for fiscal 1997.  Reduction of
+expenses for the most recent year occurred in labor and labor related expenses
+and consulting reflecting additional cost containment.  Nonetheless, the
+Company is committed to research and development especially in the digital,
+Internet and high definition television (HDTV) technology.
+          Other income (expense), net totaled $479,000 for the year ended
+March 31, 1998, compared to $2,759,000 for the year ended March 31, 1997.  The
+prior year included an amount of $2,500,000 received as a settlement of a note
+receivable for a cellular license sold in fiscal 1992.  The money, which was
+received in April, 1998, was invested in Treasury Bills and money market
+accounts realizing interest income of $260,000 for fiscal 1998, compared to
+$110,000 for the previous year.
+          Payments on long-term debt decreased the amount of interest expense
+incurred for fiscal 1998 to $84,000 from $93,000 for fiscal 1997.
+          The Registrant sold its remaining stock in Wireless Cable of
+Atlanta, which was acquired by BellSouth, Inc., netting a profit of $277,000
+in the year ended March 31, 1998, compared to a gain of $210,000 realized in
+the prior year.
+          Other income totaled $25,000 for the fiscal year ended March 31,
+1998, compared to $32,000 for the year ended March 31, 1997.  Other income for
+both years consisted primarily of rental income and forfeitures of customers'
+down payments.
+          Net income before income taxes for fiscal 1998 was $662,000, while
+net income before income taxes totaled $4,143,000 for fiscal 1997.
+          Federal income taxes for the year ended March 31, 1997 totaled
+$1,127,000 or 27% of net income before federal taxes.  The amount paid was
+positively impacted due to the Registrants' use of a Foreign Sales Corporation
+(FSC).  Federal income taxes for the year ended March 31, 1998 totaled
+$146,000 or 22% of net income before federal income taxes.  Again, the Company
+utilized the FSC and other tax credits to reduce income taxes; however, as a
+prior year is under examination by the Internal Revenue Service, an additional
+amount of approximately $54,000 has been included which, in management's
+opinion, is adequate for any potential additional tax liability related to the
+examination. As of the date of this report, a proposed settlement of any such
+additional tax liability is pending approval by the Internal Revenue Service.
+There is no state tax liability for periods under review since all profitable
+companies in the consolidated reporting group are domiciled in jurisdictions
+that do not impose income taxes.  
+          Net income for the year ended March 31, 1998 was $515,000 or $.12
+basic income and diluted income per share compared to net income of $3,016,000
+or $.72 basic income ($.71 diluted income) per share for the year ended March
+31, 1997. 
+<PAGE>
+          Selected financial data by quarter for the year ended March 31, 1998
+and 1997 is as follows:
+<TABLE>
+<CAPTION>
+                                             1st Quarter        2nd Quarter    
+  3rd Quarter       4th Quarter
+                1998     1997    1998     1997    1998     1997     1998    
+1997
+
+         (Thousands of Dollars, except per share amounts)
+<S>           <C>    <C>    <C>    <C>     <C>      <C>      <C>       <C>
+Net Sales    $1,823 $4,229 $2,246 $3,322  $2.794   $3,019   $2,325   $1,883
+Gross Profit   499  $1,565 $  818 $1,383  $1,035   $1,193   $  718   $  359
+
+Income before 
+extra-ordinary 
+items & cumulative 
+effect of a 
+change in 
+accounting   $  20   $ 638 $  134 $  404  $ 305   $   283   $   56   $1,691
+
+Per Share:
+Basic        $ .01   $ .15 $  .03 $  .09  $ .07   $   .07   $  .01   $  .41 
+ 
+Diluted      $ .01   $ .15 $  .03 $  .09  $ .07    $   .07   $  .01   $  .40
+
+Net Income   $  20   $ 638 $  134 $  404  $ 305    $   283   $   56   $1,691 
+</TABLE>
+          The first quarter of fiscal 1997 was impacted favorably by the sales
+to one customer for the Saudi Arabia contract.  Earnings for the fourth
+quarter of fiscal 1997 included receipt of $2,500,000 of proceeds on a Note
+Receivable for a fiscal 1992 cellular license sale. 
+Impact of Year 2000
+          The Year 2000 issue is the result of computer programs written using
+two digits rather than four to designate the applicable year.  The Registrant
+has a single source for its mainframe software programming.  It has received
+upgrades and has installed these upgrades that have been certified by the
+vendor to be year 2000 compliant.  Tests have been conducted on the existing
+network and personal computers and the Company believes that the Year 2000
+issue will neither pose significant operational problems for its computer
+systems nor will it have a material impact on the results of operations of the
+Company.  While the Registrant is unaware of any Year 2000 problems with any
+significant suppliers or customers, there can be no guarantee that the systems
+of other companies, if not compliant, will not have an adverse effect on the
+Registrant.  
+Liquidity and Capital Resources
+          The Company anticipates that industry demand for MMDS equipment,
+especially domestic, will be soft for the remainder of calendar year 1998. 
+Management is optimistic, however, in the potential application for high-speed
+Internet service using this equipment.  The Company is investing in
+development and marketing of this product.
+
+
+<PAGE>
+          The Company's cash requirements were satisfied in fiscal 1998
+principally from the cash flow from the sale of the cellular license, cash
+from operations, cash on hand and customers' deposits.  These funds were
+sufficient to meet the Company's working capital expenditures and required
+debt payments.
+          Cash and cash equivalents increased from $681,000 as of March 31, 
+1997 to $2,530,000 as of March 31, 1998 and U.S. Treasury Bills increased from
+$1,679,000 to $2,270,000 for the same time periods.  The increase is primarily
+due to the cash received in April of 1997 for the note receivable settlement
+discussed above.
+          The accounts receivable balance of $1,215,000 as of March 31, 1998
+is $281,000 more than the balance at March 31, 1997.  Although shipments were
+less for fiscal year ended March 31, 1998 compared to the prior year, sales
+for the fourth quarter of fiscal 1998 were 23% higher than the corresponding
+quarter one year ago.  The Company wrote-off $90,000 of accounts receivable
+during fiscal 1998 compared to a write-off of $30,000 for fiscal 1997. 
+Reserve for doubtful accounts of $35,000 is believed by management to be
+adequate as of March 31, 1998.
+          Deposits from customers increased from $121,000 as of March 31, 1997
+to $260,000 as of March 31, 1998 due to the sales volume increase for the
+comparable fourth quarters.
+          Inventories totaled $3,439,000 at March 31, 1998, a decrease of
+$189,000 from the prior year end as controls were implemented to utilize
+inventory that had been purchased for the large Saudi Arabia project.
+          Prepaid expenses totaled $115,000 as of March 31, 1998, as compared
+to $379,000 for March 31, 1997, with the difference being primarily for
+prepaid federal income taxes for the later year.  Deferred income taxes, net,
+changed from a $554,000 deferred tax liability at March 31, 1997 to an $80,000
+deferred tax asset at March 31, 1998 primarily due to the $2,500,000 note
+receivable being recognized in the Company's financial statements in fiscal
+1997 and the Company's consolidated income tax return in fiscal 1998.
+          Property, plant and equipment less accumulated depreciation equaled
+$826,000 as of March 31, 1998 a reduction of $233,000 compared to the same
+date one year earlier.  Purchases of new equipment were $31,000 for the year
+ended March 31, 1998 while depreciation expense totaled $264,000.  One Hundred
+Five Thousand ($105,000) Dollars of fully depreciated assets was written-off
+in fiscal 1998.
+          Other assets of $108,000 as of March 31, 1997 consisted primarily of
+the Company's investment in a Wireless Cable operator referred to above.  The
+balance of this stock was sold in fiscal 1998 for a profit of $277,000.  In
+fiscal 1998, the Registrant, through a subsidiary, and,  along with two other
+parties, formed a limited liability company to operate an Internet service
+entity. The Company's initial investment in the limited liability company was
+$210,000, which was increased subsequent to March 31, 1998 to $470,000.
+However, as a result of another equity holder's contractual "buy down right",
+the Company's investment will be reduced to $130,000.00 or 10% of the limited
+liability company's outstanding equity.  The Company cannot know at this time
+the likelihood or amount of profit (if any) that will be generated. 
+Management does believe that the knowledge obtained in operating an Internet
+services will be valuable in marketing the equipment.  The balance of $1,450
+in the other asset categories at March 31, 1998 represents costs associated
+with organizing subsidiaries of the Registrant.
+
+
+<PAGE>
+          Note receivable of $500,000 for the periods March 31, 1998 and March
+31, 1997 is the balance owing the Company as the result of a settlement
+reached in connection with the sale of a cellular license in fiscal 1992.  As
+there is no definite collection period set and because there is not a
+reasonable basis of collection, the receivable is fully reserved.
+          Long-term debt, including the current portion, totaled $864,000 as
+of March 31, 1998, compared to $915,000 as of March 31, 1997.  An amount of 
+$70,000 was procured at the early part of fiscal 1998 to finance  engineering
+test equipment.  A total of $121,000 was paid against long-term debt during
+this year. Current portion of payments as of March 31, 1998 and March 31, 1997
+were $117,000 and $108,000, respectively.
+          There was no significant difference in the balance of accounts
+payable as of the year ended  March 31, 1998 and 1997.
+          Accrued expenses, payroll and related expenses of $277,000 at March
+31, 1998, compared to March 31, 1997 of $207,000, included additional
+commissions and payroll accruals due to timing differences.  Other accrued
+expense decreased a nominal $11,000 for the same periods.
+          Common stock and additional paid in capital totaled $3,575,000 as of
+March 31, 1998, or a decrease of $60,000 over the balance at March 31, 1997. 
+Treasury stock increased from $1,362,000 as of March 31, 1997 to $1,649,000 as
+of March 31, 1998.  A stock award of 18,560 shares of Company stock was
+granted as a bonus to an officer during fiscal 1998 by transferring 12,763
+shares of Treasury Stock held as of March 31, 1997 and issuing the balance
+from authorized but unissued common stock. The Company, through a wholly owned
+subsidiary, purchased on the open market 119,000 shares of the Company's stock
+during the fiscal year ended March 31, 1998 for a total cash outlay of
+$381,000.  The Company's management has been authorized by the Board of
+Directors to purchase up to $600,000 of Company stock.  As of the date of this
+report, the Company has purchased an additional 30,000 shares in the first
+quarter of fiscal 1999 for approximately $91,000.
+          In addition to the above mentioned purchases, an additional 1,764
+shares were purchased during the year ended March 31, 1998 from former
+employees under the KSOP plan agreement for a cost of $6,000.
+          Inflation has not had a significant impact on cost or price in the
+two fiscal years under review. However, as a significant portion of component
+materials are obtained from sources outside the United States and especially
+from Asia, and significant portions of the Company's sales have historically
+been to the Pacific Rim, financial problems in these countries could have a
+significant affect on the business of the Registrant for the next fiscal year.
+          The backlog of unsold orders as of March 31, 1998 was $2,421,000
+compared to $2,853,000 as of March 31, 1997.  The present backlog is expected
+to be shipped in the first six months of fiscal 1999.
+          EMCEE and Superior Group Corporation are partners in a joint venture
+company named EMCEE Broadcast Products (Chengdu) Co., Ltd ("EMCEE - Chengdu"),
+for purposes of manufacturing and marketing wireless cable transmitters.  The
+products will be manufactured from EMCEE-Chengdu's factory located in Chengdu
+City, Capital City of Sichuan Province, People's Republic of China. 
+Production is expected to begin in the summer of 1998.  
+
+
+
+
+
+<PAGE>
+
+
+ SAFE HARBOR STATEMENT UNDER THE PRIVATE SECURITIES LITIGATION
+                       REFORM ACT OF 1995
+                                
+          Any statements contained in this report which are not historical
+facts are forward looking statements; and, therefore, many important factors
+could cause actual results to differ materially from those in the forward
+looking statements.  Such factors include, but are not limited to, changes
+(legislative, regulatory and otherwise) in the MMDS or LPTV industry, demand
+for the Company's products (both domestically and internationally), the
+development of competitive products, competitive pricing, the timing of
+foreign shipments, market acceptance of new product introductions (including,
+but not limited to, the Company's digital products), technological changes,
+economic conditions (both domestically and internationally, including monetary
+policies of Asian countries), litigation and other factors, risks and
+uncertainties identified in the Company's Securities and Exchange Commission
+filings.
+
+ITEM 7.   FINANCIAL STATEMENTS
+          See pages 23 to 33 of this report for the financial statements
+required by this Item.
+ITEM 8.   CHANGE IN AND DISAGREEMENTS WITH ACCOUNTANTS ON
+ACCOUNTING AND FINANCIAL DISCLOSURES
+          There is no information relevant to the Registrant which must be
+disclosed under this Item 8.
+                          PART III
+ITEM 9.   DIRECTORS, EXECUTIVE OFFICERS, PROMOTERS AND CONTROL
+PERSONS; COMPLIANCE WITH SECTION 16(a) OF THE EXCHANGE ACT
+          The information required by this Item 9 is incorporated herein from
+the Proxy Statement expected to be filed within one hundred twenty (120) days
+of the close of the Registrant's fiscal year.
+ITEM 10.  EXECUTIVE COMPENSATION
+          The information required by this Item 10 is incorporated herein from
+the Proxy Statement expected to be filed within one hundred twenty (120) days
+of the close of the Registrant's fiscal year.
+ITEM 11.  SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND
+MANAGEMENT
+          The information required by this Item 11 is incorporated herein from
+the Proxy Statement expected to be filed within one hundred twenty (120) days
+of the close of the Registrant's fiscal year.
+ITEM 12.  CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS
+          The information required by this Item 12 is incorporated herein from
+the Proxy Statement expected to be filed within one hundred twenty (120) days
+of the close of the Registrant's fiscal year.
+ITEM 13.  EXHIBITS AND REPORTS ON FORM 8-K
+          (a) The following constitutes an Exhibit Index of the applicable
+Exhibits to this report:
+   
+
+
+
+
+
+<PAGE>
+       DESCRIPTION OF EXHIBIT        EXHIBIT NUMBER      PAGE NUMBER
+
+Articles of Incorporation and Bylaws    
+
+   Restated Certificate 
+   of Incorporation                     3 i              (1)
+     Bylaws                             3 ii             34
+                    
+ Material Contracts    
+
+     1996 Stock Option Plan             10              (1)
+     1988 Stock Option Plan             10              64
+                         
+     Officers Incentive Compensation
+      Plan                              10              (1)
+     Agreement (Change in Control 
+      Agreements for certain Executive 
+      Officers)                         10              (2)
+     Non-Negotiable, Non-Transferable 
+      Stock Warrant                     10              (2)
+     Settlement and Release Agreement   10              (1)
+
+Subsidiaries                            21              75
+
+Financial Data Schedule                 27              (3)
+                                                                 
+     (1) Incorporated by reference from the Form 10-KSB filed by the
+Registrant with the U.S. Securities and Exchange Commission for fiscal year
+ended 1997.
+     (2) Incorporated by reference from the From 10-KSB filed with the U.S.
+Securities and Exchange Commission for fiscal year ended 1996.
+     (3) This Exhibit was filed electronically, but is not included in the
+paper copy of this report.
+         (b) Form 8-K filings: The Registrant did not file any reports on Form
+8-K during the last quarter of the period covered by this report. 
+
+     In accordance with Section 13 or 15(d) of the Exchange Act, the
+Registrant caused this report to be signed on its behalf by the undersigned,
+thereunto duly authorized.
+
+                              EMCEE BROADCAST PRODUCTS, INC.
+
+                              /s/ JAMES L. DESTEFANO            
+                              James L. DeStefano, President/CEO
+                              Date: June 25, 1998
+
+                              /s/ ALLAN J. HARDING              
+                              Allan J. Harding, Vice President-
+                                                  Finance
+                              Date: June 25, 1998
+
+
+
+
+<PAGE>
+          In accordance with the Exchange Act, this report has been signed
+below by the following persons on behalf of the Registrant and in the
+capacities and on the dates indicated.
+
+/s/ JAMES L. DESTEFANO             Date: June 25, 1998
+James L. DeStefano, Director
+                              
+/s/ JOE B. HASSOUN                 Date: June 25, 1998
+Joe B. Hassoun, Director
+
+/s/ MICHAEL J. LEIB                Date: June 25, 1998
+Michael J. Leib, Director
+
+/s/ RICHARD J. NARDONE             Date: June 25, 1998
+Richard J. Nardone, Director
+
+/s/ EVAGELIA ROGIOKOS              Date: June 25, 1998
+Evagelia Rogiokos, Director
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<PAGE>
+                   Independent Auditors' Report
+
+
+
+Board of Directors
+EMCEE Broadcast Products, Inc.
+White Haven, Pennsylvania
+
+We have audited the consolidated balance sheets of EMCEE Broadcast Products,
+Inc. and subsidiaries as of March 31, 1998 and 1997 and the related
+consolidated statements of income, shareholders' equity and cash flows for the
+years then ended.  These financial statements are the responsibility of the
+Company's management.  Our responsibility is to express an opinion on these
+financial statements based on our audits.
+
+We conducted our audits in accordance with generally accepted auditing
+standards.  Those standards require that we plan and perform the audit to
+obtain reasonable assurance about whether the financial statements are free of
+material misstatement.  An audit includes examining, on a test basis, evidence
+supporting the amounts and disclosures in the financial statements.  An audit
+also includes assessing the accounting principles used and significant
+estimates made by management, as well as evaluating the overall financial
+statement presentation.  We believe that our audits provide a reasonable basis
+for our opinion.
+
+In our opinion, the consolidated financial statements referred to above
+present fairly, in all material respects, the financial position of EMCEE
+Broadcast Products, Inc. and subsidiaries as of March 31, 1998 and 1997, and
+the results of their operations and their cash flows for the years then ended,
+in conformity with generally accepted accounting principles.
+
+
+Kronick, Kalada, Berdy & Co
+Kingston, Pennsylvania
+May 19, 1998
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<PAGE>
+<TABLE>
+<CAPTION>
+        EMCEE BROADCAST PRODUCTS, INC. AND SUBSIDIARIES
+                  CONSOLIDATED BALANCE SHEETS 
+              YEARS ENDED MARCH 31, 1998 AND 1997 
+                              ASSETS                                           
+                   
+                                      March 31,       March 31,    
+                                         1998           1997  
+                                      --------------------------- 
+ <S>                                        <C>            <C>
+Current assets:
+  Cash and equivalents                   $ 2,529,594 $   681,335
+  U.S. Treasury Bills                      2,269,549   1,679,164
+  Accounts receivable, net of 
+   allowance for doubtful accounts 
+   (1998, $35,000; 1997,$100,000)          1,214,651     933,535
+  Inventories                              3,438,599   3,627,803
+  Prepaid expenses                           115,292     379,358
+  Deferred income taxes                       80,000
+  Note receivable                                      2,500,000
+                                           ------------------------
+
+          Total current assets             9,647,685   9,801,195
+                                           ------------------------
+                                                                
+Property, plant and equipment:  
+  Land and land improvements                 246,841     246,841
+  Building                                   618,686     629,212
+  Machinery                                1,956,085   2,019,717
+                                           ------------------------
+                                           2,821,612   2,895,770
+  Less accumulated depreciation            1,995,946   1,836,630
+                                           ------------------------
+                                             825,666   1,059,140
+                                           ------------------------
+Other assets                                 211,450     108,173
+                                           ------------------------
+Note receivable                              500,000     500,000
+  Less deferred portion                   (  500,000) (  500,000)
+                                           -------------------------
+                                                   0           0
+
+          Total assets                    $10,684,801 $10,968,508
+                                          --------------------------
+                                          --------------------------
+<FN>
+See notes to consolidated financial statements.
+</FN>
+</TABLE>
+<PAGE>
+<TABLE>
+<CAPTION>
+         EMCEE BROADCAST PRODUCTS, INC. AND SUBSIDIARIES
+                CONSOLIDATED STATEMENTS OF INCOME
+               YEARS ENDED MARCH 31, 1998 AND 1997
+
+                                          March 31,       March 31,
+                                             1998           1997     
+                                          ------------------------
+ <S>                                            <C>           <C>   
+Net sales                                 $ 9,187,868  $12,522,811
+Costs of products sold                      6,118,332    8,023,300
+                                            -----------------------         
+Gross profit                                3,069,536    4,499,511
+                                            -----------------------         
+Operating expenses:                                    
+  Selling                                   1,409,927    1,484,962
+  General and administrative                1,098,909    1,186,329
+  Research and development                    377,557      444,669
+                                            ------------------------           
+                                            2,886,393    3,115,960
+                                            ------------------------           
+Income from operations                        183,143    1,383,551
+                                            ------------------------          
+Other income (expense), net:                              
+  Interest expense                         (    83,714)(   92,909)
+  Interest income                              259,704    109,976
+  Gain on sale of equity securities            277,324    210,069
+  Settlement of note receivable                         2,500,000
+  Other                                         25,237     32,015
+                                          ------------------------
+                                               478,551  2,759,151
+                                          ------------------------
+Income before income taxes                     661,694  4,142,702
+                                     
+Income taxes                                   146,410  1,126,800
+                                          ------------------------
+Net income                                   $ 515,284 $3,015,902
+                                          =========================          
+Basic income per share                            $.12       $.72
+                                          =========================
+Diluted income per share                          $.12       $.71
+                                         ==========================
+<FN>
+          See notes to consolidated financial statements.
+</FN>
+</TABLE>                                                                  
+
+
+
+
+
+
+
+<PAGE>
+<TABLE>
+<CAPTION>            EMCEE BROADCAST PRODUCTS, INC. AND SUBSIDIARIES
+                       CONSOLIDATED STATEMENTS OF SHAREHOLDERS' EQUITY
+                             YEARS ENDED MARCH 31, 1998 AND 1997
+     
+                     Common stock         Additional      Retained             
+                  Shares       Amount   paid-in capital  earnings   
+ <S>                 <C>         <C>           <C>           <C>
+Balance, 
+March 31, 1996    4,359,381   $ 72,653    $ 3,517,778   $ 3,396,801    
+
+Common stock 
+issued under 
+stock option plan    18,983        334         44,745                          
+ 
+
+Treasury stock
+purchased      
+Net income for 
+the year                                                  3,015,902            
+                 -----------------------------------------------------
+Balance, 
+March 31, 1997    4,378,364     72,987      3,562,523     6,412,703   
+
+Common stock
+issued                5,797         97     (   60,431) 
+
+Treasury stock
+purchased                                             
+  
+Net income for 
+the year                                                    515,284  
+                -----------------------------------------------------      
+Balance, 
+March 31, 1998  4,384,161     $ 73,084     $3,502,092   $ 6,927,987    
+                =====================================================
+<FN>
+                       See notes to consolidated financial statements.
+</FN>
+</TABLE>                                               
+<PAGE>
+<PAGE>
+<TABLE>
+                            Treasury Stock             Total
+                          Shares    Amount             ------
+                         -----------------                  
+ <S>                            <C>         <C>          <C> 
+
+Balance, March 31, 1996        7,325 $   (52,064)    $6,935,168 
+
+Common stock issued under
+stock option plan                                       45,079
+        
+Treasury Stock Purchased     205,438 ( 1,310,210)    (1,310,210)          
+
+Net income for the year                               3,015,902
+                             -----------------------------------     
+Balance, March 31, 1997      212,763 ( 1,362,274)     8,685,939
+
+Common stock issued         ( 12,763)     99,774         39,440
+
+Treasury stock purchased     119,000 (   386,673)     (386,673)    
+
+Net income for the year                                 515,284
+                             -----------------------------------
+Balance, March 31, 1998      319,000 $(1,649,173)    $8,853,990             
+          
+                             ===================================
+  
+<FN>
+                       See notes to consolidated financial statements.
+</FN>
+</TABLE>                                              
+<PAGE>
+<TABLE>
+<CAPTION>
+             
+             EMCEE BROADCAST PRODUCTS, INC. AND SUBSIDIARIES
+               CONSOLIDATED STATEMENTS OF CASH FLOWS
+                YEARS ENDED MARCH 31, 1998 AND 1997
+           
+                                                        March 31,    March 31,
+                                                           1998         1997   
+                                                        ----------------------
+     <S>                                                    <C>       <C>  
+Cash flows
+from operating activities:
+  Net income                                         $   515,284   $ 3,015,902
+  Adjustments:                                         
+    Depreciation                                         264,313       242,625
+    Provision for doubtful accounts                       25,000        35,000
+    Common stock issued for 
+      compensation                                        39,440
+    Recognition of note receivable                                 (2,500,000)
+    Gain from sale of equity securities              (  277,324)   (  210,069)
+    (Increase) decrease in:                            
+      Accounts receivable                            (  306,116)       850,453
+      Inventory                                          189,204   (  251,902)
+      Prepaid expenses                                   264,066   (  131,425)
+      Deferred income taxes                          (   80,000)       226,000
+      Other assets                                   (  209,277)           727
+    Increase (decrease) in:                            
+      Accounts payable                               (   43,977)   (  429,758)
+      Accrued expenses                                    58,667   (  215,722)
+      Deposits from customers                            138,853   (  405,004)
+      Deferred income taxes                          (  554,000)       554,000
+                                                     -------------------------
+    Net cash provided by operating activities             24,133       780,827
+                                                     ------------------------- 
+       
+Cash flows from investing activities:                         
+  Purchases of:
+    Property, plant and equipment                    (   30,839)   (  355,023)
+    U.S. Treasury Bills                              (3,990,385)   (2,310,138)
+  Proceeds from maturities of:
+    U.S. Treasury Bills                                3,400,000     2,200,000
+    Note receivable                                    2,500,000
+  Proceeds from sale of equity securities                383,324       316,069
+                                                      ------------------------
+   Net cash provided by(used in)investing activities   2,262,100   (  149,092)
+                                                      ------------------------
+Cash flows from financing activities:                         
+  Acquisition of treasury stock                      (  386,673)   (1,310,210)
+  Proceeds from issuance of:
+    Long-term debt                                        70,000       887,000
+    Common stock                                                        45,079
+
+<PAGE>
+  Repayment of long-term debt                        (  121,301)   (1,110,028)
+                                                     ------------------------- 
+                                                              
+   Net cash used in financing activities             (  437,974)   (1,488,159)
+                                                     ------------------------- 
+       
+Net increase (decrease) in cash and equivalents        1,848,259   (  856,424)
+                                                              
+Cash and equivalents, beginning                          681,335     1,537,759
+                                                     ------------------------- 
+       
+Cash and equivalents, ending                         $ 2,529,594   $   681,335
+                                                     =========================
+<FN>
+Supplemental disclosures of cash flow information:
+Cash paid for interest expense amounted to $84,000 and $95,000 in 
+  1998 and 1997, respectively.  Cash paid for income taxes was $646,000 and
+ $531,000 in 1998 and 1997, respectively.
+                                
+         See notes to consolidated financial statements.
+</FN>
+</TABLE>
+
+<PAGE>
+          EMCEE BROADCAST PRODUCTS, INC. AND SUBSIDIARIES
+            NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+                YEARS ENDED MARCH 31, 1998 AND 1997
+                                 
+1.  Summary of significant accounting policies:
+
+Principles of consolidation:
+The consolidated financial statements include the accounts of EMCEE Broadcast
+Products, Inc. and its subsidiaries, all of which are wholly-owned (together,
+the Company).  All significant intercompany accounts and transactions have
+been eliminated.
+
+Revenue recognition, sale of license:
+During 1992, a rural cellular license was sold for $3,100,000.  The initial
+payment was $845,000, net of closing costs of $155,000.  The $2,100,000
+balance, which bore interest at 7% payable at maturity, was due in December
+1996.  None of the deferred payment and the related interest income was
+recognized prior to 1997 because of their extended collection period and
+because there was not a reasonable basis to evaluate the likelihood of
+collection.  On April 3, 1997 the Company collected $2,500,000 and received a
+non-interest bearing, unsecured $500,000 note receivable as settlement of the
+original note. The $500,000 note receivable is due and payable upon the
+occurrence of any one or more of certain specified events involving the debtor
+including, but not limited to, acquisition, merger, bankruptcy, and
+insolvency.  None of the specified events relate to the debtor's normal
+operations.  The note receivable is fully reserved because it has no definite
+collection period and because there is not a reasonable basis to evaluate the
+likelihood of collection.
+
+Cash, equivalents and U.S. Treasury Bills:
+The Company considers cash equivalents to be all highly liquid investments
+purchased with an original maturity of three months or less.  U.S. Treasury
+Bills with an original maturity of more than three months are considered to be
+investments.  All U.S. Treasury Bills are stated at cost which approximates
+market and are considered as available for sale.  All U.S. Treasury Bills  not
+included as cash equivalents had contracted maturities of at least six months.
+
+Inventories:
+Inventories are stated at the lower of standard cost which approximates
+current actual cost (on a first-in, first-out basis) or market (net realizable
+value).
+
+Property, plant and equipment and depreciation:
+Property, plant and equipment are stated at cost.  Depreciation is provided on
+the straight-line method over the estimated useful lives of the assets.
+    
+Advertising:
+These expenses are recorded when incurred.  They amounted to $78,000 and
+$75,000 for 1998 and 1997, respectively.
+
+Fair value:
+The fair value of long-term debt that is variable rate debt that reprices
+regularly, the notes receivable of $2,500,000 which were collected in April
+
+<PAGE>
+1997 and U.S. Treasury Bills approximates the amounts recorded in the
+financial statements.  It was not practicable to estimate the fair value of
+the $500,000 note receivable  because the Company was unable to estimate the
+timing and form of the ultimate settlement of the amount due to it.  The
+Company has fully provided for any potential loss resulting from the
+non-payment of this receivable.
+Use of estimates:
+Management uses estimates and assumptions in preparing financial statements. 
+Those estimates and assumptions affect the reported amounts of assets and
+liabilities, the disclosure of contingent assets and liabilities and the
+reported revenues and expenses.
+
+Reclassifications:
+Certain amounts reported in the 1997 financial statements have been
+reclassified to conform with the 1998 presentation.
+2. Income per share:
+
+Basic income per share is computed by dividing earnings applicable to common
+shareholders by the weighted average number of common shares outstanding. 
+Diluted income per share  is similar to basic income per share except that the
+weighted average of common shares outstanding is increased to include the
+number of additional common shares that would have been outstanding if the
+dilutive potential common shares had been issued.  There were no dilutive
+potential common shares in 1998 because the assumed exercise of the options
+would be anti-dilutive.  Income per share for 1997 has been restated based
+upon the provisions of a revised accounting standard that become effective in
+the current year.
+The following table presents the basic and diluted EPS computations:
+                                        March 31, 1998 
+                               -----------------------------------             
+                                                       Per-share
+                                Income       Shares      amount 
+   Basic EPS
+   Net income which is income
+    available to common
+    stockholders              $  515,284   4,134,780     $ .12
+                                                          ====== 
+                                             1997               
+                               ----------------------------------     
+                                                       Per-share
+                                Income       Shares      amount 
+   Basic EPS
+   Net income which is income
+    available to common
+    stockholders              $3,015,902   4,188,743     $ .72
+
+   Effect of dilutive
+    securities, stock options                 36,132       .01
+                               --------------------------------
+   Diluted EPS
+   Income available to common
+    stockholders              $3,015,902   4,224,875     $ .71
+                              =================================
+
+<PAGE>
+          EMCEE BROADCAST PRODUCTS, INC. AND SUBSIDIARIES
+             NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+                 YEARS ENDED MARCH 31, 1998 AND 1997
+
+3. Cash and equivalents:
+
+At March 31, 1998, cash held at a brokerage corporation in the amount of
+$2,095,000 is not insured.
+
+4.Industry, sales and accounts receivable concentration information:
+
+The Company's primary activity is in one segment which consists of the
+assembly and sale of equipment for the domestic and foreign television
+broadcasting industry.  Major customers are those that individually account
+for more than 10% of the Company's consolidated revenues.  For the years ended
+March 31, 1998 and 1997, one customer with total sales of $939,000 and two
+customers with total sales of $3,476,000, respectively,  qualified as  major
+customers.  Worldwide export sales amounted to $5,563,000 and $7,056,000 for
+1998 and 1997, respectively.  At March 31, 1998 and 1997, there were no
+significant accounts receivable concentrations.  The Company performs ongoing
+credit evaluations of its customers and typically requires deposits and a
+letter of credit on foreign sales and deposits on domestic sales. 
+Historically, the Company's uncollectible accounts receivable have been
+immaterial.  
+
+5.Inventories:
+                                                    1998          1997   
+                                                 --------------------------
+Finished goods                                    $  454,000    $  399,000
+Work-in-process                                      777,000       738,000
+Raw materials                                      1,323,000     1,574,000
+    Manufactured components                          884,599       916,803
+                                                 ---------------------------   
+                                                  $3,438,599    $3,627,803
+                                                 ============================
+6.  Line of credit:
+
+The Company has a line of credit agreement with a bank aggregating $2,000,000
+collateralized by inventories, accounts receivable and all property, plant and
+equipment.  The line of credit agreement requires monthly interest payments at
+ .50% below the bank's prime rate of interest or 1.75% above LIBOR  which was
+5.625% at March 31, 1998.  There were no principal borrowings during the years
+ended March 31, 1998 and 1997.
+
+The loan agreement contains restrictive covenants when amounts are outstanding
+which, among other things, require the Company to maintain a maximum total
+liabilities to net worth ratio, a minimum current ratio and a debt coverage
+ratio.  The Company is allowed to pay dividends on its common stock if it is
+in compliance with the financial covenants and ratios.
+<PAGE>
+<PAGE>  
+        EMCEE BROADCAST PRODUCTS, INC. AND SUBSIDIARIES
+             NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+                 YEARS ENDED MARCH 31, 1998 AND 1997
+
+7.Long-term debt:
+                                                        1998          1997   
+                                                  --------------------------
+Term loan, bank                                   $  686,000    $  735,000
+    Equipment loans                                  177,888       152,000
+    Other                                                           28,189
+                                                   --------------------------
+                                                     863,888       915,189
+    Less current portion                             117,000       108,000
+                                                   --------------------------
+                                                  $  746,888    $  807,189
+                                                  ===========================
+
+The term loan, bank at March 31, 1998 matures in 2012 and requires principal
+payments of $4,083, plus interest.  Interest is calculated at 2.25% above
+LIBOR which was 5.625% at March 31, 1998.  The bank has the option of
+adjusting the monthly payments required under this loan to provide for changes
+in the interest rates.  The term and equipment loans are cross-collateralized
+with and have the same restrictive covenants as the line of credit (see Note
+6).
+
+Principal payments on long-term debt, based on current interest rates, are as
+follows:
+
+                       1999             $  117,000
+                       2000                100,000
+                       2001                 80,000
+                       2002                 80,000
+                       2003                 50,000
+                     Thereafter            436,888
+                                        -----------
+                                        $  863,888 
+                                       ============    
+8. Defined contribution pension plan:
+
+A defined contribution pension plan covers all full time employees who meet
+age and service requirements.  Contributions to the plan, determined at the
+discretion of the Board of Directors, were $28,000 and $29,000 in 1998 and
+1997,respectively.  
+
+9. Common stock:
+Nonqualified stock option plans provide for the grant of options to purchase
+up to 300,000 shares.  Upon the termination or expiration of any stock options
+granted, the shares covered by such terminated or expired stock options will
+be available for further grant; 38,587 options were available for grant at
+March 31, 1998.  The Board of Directors, at the date of grant of an option,
+determines the number of shares subject to the grant and the terms of such
+option.  All outstanding options granted expire after 5 years and vest over
+two years.
+
+<PAGE>
+         EMCEE BROADCAST PRODUCTS, INC. AND SUBSIDIARIES
+             NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+                 YEARS ENDED MARCH 31, 1998 AND 1997
+
+9.  Common stock (continued):
+
+Changes in outstanding common stock options granted are summarized below:
+<TABLE>
+<CAPTION>
+                                 1998                    1997       
+                            Number   Average        Number   Average
+                             of     exercise         of     exercise
+                          shares    price         shares    price  
+   <S>                       <C>       <C>            <C>       <C>  
+  Balance at beginning
+     of year              163,250    $ 5.36         80,083   $ 2.82
+    Options granted                                115,200     6.16
+                          163,250                  195,283
+    Options exercised                               18,983     2.37
+    Options expired        11,375      3.44         13,050     1.31
+    Balance at end of
+     year                 151,875    $ 5.50        163,250   $ 5.36
+    Options exercisable
+     at year-end           36,675    $ 3.44         48,050   $ 3.44
+    Weighted-average grant
+     date fair value of
+     options granted   
+     during the year                                $ 3.09
+</TABLE>
+
+At March 31, 1998, 36,675 and 115,200 options had an exercise price of $3.44
+and $6.16, respectively.  Such options had remaining contractual lives of 2.3
+years and 3.7 years, respectively.
+
+The Company in accordance with an election under generally accepted accounting
+principles for stock options has recorded no compensation cost for its stock
+options in the accompanying consolidated financial statements.
+
+Had compensation cost for stock options been determined based on the fair
+value at the grant dates for awards under the plans, the Company's net income
+and income per share would have been reduced to the proforma amounts disclosed
+below:
+<TABLE>
+<CAPTION>
+                                                1998                1997   
+                                    ----------------------------------
+ 
+   <S>                                        <C>                    <C> 
+  Net income: 
+     As reported                         $  515,284               $3,015,902
+     Proforma                               445,284                2,972,000
+
+
+
+<PAGE>
+   Basic income per share:
+
+     As reported                          $     .12                $     .72
+     Proforma                                   .11                      .71
+
+   Diluted income per share:
+     As reported                          $     .12                $     .71
+     Proforma                                   .11                      .70
+</TABLE>
+
+Proforma net income does not reflect options granted before April 1, 1995. 
+Therefore, the full impact of calculating compensation cost for stock options
+is not reflected in the proforma  amounts presented above because compensation
+cost is reflected over the options' vesting period of two years and compensa-
+tion cost for options granted in the year ended March 31, 1995 are not consid-
+ered for the year ended March 31, 1997.
+
+The fair values were determined using the Black-Scholes option-pricing model
+with the following weighted average assumptions:
+
+                                      1998             1997  
+                                      ----------------------
+    Dividend yield                       .0%            .0%
+    Risk free interest rate            5.84%          5.84% 
+    Expected life                     5 Years        5 Years
+    Volatility                        17.54%         48.88%
+
+During 1997, warrants to purchase 200,000 shares of common stock at $9.76 a
+share were issued and remain outstanding at March 31, 1998.
+
+10.Income taxes:
+
+The following table sets forth the current and deferred amounts of the
+provisions for income taxes for the years ended March 31, 1998 and 1997:
+
+                                         1998       1997    
+                                 -------------------------
+        Current                  $   780,410    346,800
+        Deferred                  (  634,000)   780,000
+                                 -------------------------
+                                 $   146,410 $1,126,800
+                                 =========================
+
+The provisions for income taxes at the Company's effective rate differed from
+the provision for income taxes at the statutory Federal rate of 34% for the
+years ended March 31, 1998 and 1997 as
+follows:
+
+
+
+
+
+
+
+<PAGE>
+<TABLE>
+<CAPTION>
+                                                  1998          1997   
+                                              ---------------------------      
+       <S>                                         <C>         <C> 
+   Federal income tax at the statutory rate   $   225,000 $ 1,408,000
+    Foreign sales corporation benefit          (   74,000) (  180,000)
+    Federal income tax credit                  (   15,000) (   50,000)
+   Stock compensation                          (   43,590) (   51,200)
+   Adjustment to prior year's
+    tax liability                                  54,000   _         
+                                              -------------------------
+
+   Provision for income taxes                 $   146,410 $ 1,126,800
+                                              ==========================
+</TABLE>  
+
+The tax effects of temporary differences that give rise to deferred income
+taxes at March 31, 1998 and 1997 are presented in the table below:
+<TABLE>
+<CAPTION>                                                          
+                                                         1998         1997   
+                                                 ----------------------------
+     <S>                                                    <C>       <C>
+  Deferred tax assets:                                 
+      Inventory                                       $   41,000 $  101,000
+      Employee benefits                                   51,000     51,000
+     Other differences                                    11,000     35,000
+       Total gross deferred tax assets                   103,000    187,000
+   Deferred tax liabilities, 
+      Note receivable                                  ( 714,000)
+      Property and equipment                           (  23,000) (  27,000)
+                                                      -----------------------
+   Net deferred tax asset (liability)                 $   80,000 $( 554,000)
+                                                     =======================
+
+</TABLE>
+11. Litigation:
+
+In the normal course of business, there are various outstanding legal pro-
+ceedings.  In the opinion of management, after consultation with legal
+counsel, the consolidated financial statements of the Company will not be
+materially affected by the outcome of such legal proceedings.
+
+12. Year 2000:
+
+The Company recognizes the need to ensure its operations will not be adversely
+impacted by Year 2000 software failures.  Software failures due to processing
+errors potentially arising from calculations using the Year 2000 date are a
+known risk.  The Company is addressing this risk to the availability and
+integrity of financial systems and the reliability of operating systems.  The
+Company has established processes for evaluating and managing the risks and
+costs associated with this problem.  The total cost of compliance and its
+
+<PAGE>
+effect on the Company's future results of operations is being determined as
+part of the detailed conversion planning.
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99
+<SEQUENCE>2
+<TEXT>
+
+           REVISED BY-LAWS OF ELECTRONICS, MISSILES 
+                   AND COMMUNICATIONS,  INC. 
+                    
+              ADOPTED ON NOVEMBER 24, 1986 
+                      ARTICLE I - OFFICES
+
+     Section 1.1 Registered Office. The registered office of the corporation
+shall be located within the State of Delaware, and unless removed to a
+different location within the State of Delaware by appropriate action of the
+Board of Directors as it may determine appropriate from time to time, the
+registered office shall be in the City of Wilmington, County of New Castle,
+State of Delaware.
+     Section 1.2 Other Offices. The corporation may also have offices at such
+other places within and without the State of Delaware as the Board of
+Directors may, from time to time, determine or the business of the corporation
+may require.
+             ARTICLE II - MEETINGS OF STOCKHOLDERS
+     Section 2.1 Place of Stockholders' Meetings. Meetings of stockholders of
+the corporation shall be held at such place either within or without the State
+of Delaware as may from time to time be designated by the Board of Directors
+and dated in the Notice of Meeting.
+     Section 2.2 Annual Meeting. Commencing in 1986, an annual meeting of
+stockholders shall be held on any civil day no later than in the month of
+September, as determined by the Board of Directors, at which meeting there
+shall be an election of the Board of Directors. The stockholders may transact
+such other business as may properly be brought before the Annual Meeting.
+     Section 2.3 Special Meeting of Stockholders.
+     (a) Special meetings of stockholders, for any proper purpose or purposes,
+unless otherwise prescribed by lay, the certificate of incorporation, as
+amended,
+or the by-laws, may be called by the Chief Executive Officer of the
+corporation
+and shall be called by the Chief Executive Officer or Secretary of the
+corporation at the request in writing of a majority of the Board of Directors
+or
+upon the request in writing of stockholders owning a majority in amount of the
+entire capital stock of the corporation issued and outstanding and entitled to
+vote. Such written request shall state the purpose or purposes of the proposed
+meeting.
+     (b) Upon receipt of an appropriate written request by the Chief Executive
+Officer or Secretary of the corporation from any person or persons entitled to
+call a special meeting, it shall be the duty of the Secretary to fix the date
+of such meeting to be held at such time, being not less than ten (10) days nor
+more than sixty (60) days after the receipt of such request, as the Secretary 
+may determine, and to give due notice thereof. If the Secretary shall neglect 
+or refuse to fix a date for such meeting and gives notice thereof within ten 
+(10) days after receipt of such request, the person or persons calling the 
+meeting may do so.
+     (c) Business transacted at any special meeting of stockholders shall be
+limited to the purposes set forth in the Notice of such meeting.
+     Section 2 4 Notice of Shareholders' Meeting. Written notice stating the
+date, place and hour and, if required by law or these by-laws, the purpose of
+any meeting the stockholders, shall be given to each stockholder of record
+entitled to vote at the meeting at least ten (10) days prior to the date 
+designated for the meeting, unless otherwise required by law. Such notices may
+be given at the discretion of, or in the name of, the Board of Directors,
+President, Vice-President, Secretary or Assistant Secretary. When a meeting 
+is adjourned, it shall not be necessary to give any notice of the adjourned 
+meeting or of the 
+
+<PAGE>
+business to be transacted at the adjourned meeting, other than by announcement
+at the meeting at which such adjournment is taken.
+     Section 2.5 Quorum for Action by Stockholders. 
+     (a) Unless otherwise provided by law, in the Articles of Incorporation,
+as
+amended, or in these by-laws, the presence, in person or by proxy, of the
+holders
+of a majority of the issued and outstanding shares of stock entitled to vote
+at
+such meeting shall constitute a quorum for the purpose of transacting such
+business as may properly come before the meeting. The stockholders present at
+a
+duly organized meeting can continue to do business until adjournment,
+notwithstanding the withdrawal of enough stockholders resulting in less than a
+quorum being present.
+     (b) If a stockholders meeting cannot be organized because a quorum has
+not
+attended, in person or by proxy, those present may, except as otherwise
+provided
+by law, adjourn the meeting from time to time, without notice other than
+announcement at the meeting, until a quorum shall be present, in person or by
+proxy. At such adjourned meeting at which a quorum shall be present, any
+business
+may be transacted which might have been transacted at the meeting as
+originally
+notified.
+     Section 2.6  Action by Stockholders. Unless otherwise required by law,
+the
+Articles of Incorporation, as amended, or in these by-laws, when a quorum is
+present at a Stockholders' Meeting, the vote of a majority of the stock
+present,
+in person or by proxy, entitled to vote at the meeting shall constitute the
+acts
+of the stockholders. If the matter considered at the meeting requires the vote
+of a different percentage of the stock present by virtue of applicable law,
+the
+Articles of Incorporation, as amended, or these by-laws, such different
+percentage shall govern and control the vote in order for a decision to
+constitute action by stockholders.
+     Section 2.7 Voting.
+     (a) Each stockholder shall at every meeting of the stockholders be
+entitled
+to one vote, in person or by proxy, for each share of the common stock having
+voting power held by such stockholder, but no proxy shall be voted on after
+three
+years from its date, unless the proxy provides for a longer period, and,
+except
+where the transfer books of the corporation have been closed or a date has
+been
+fixed as a record date for the determination of its stockholders entitled to
+vote, no share of stock shall be voted on at any election for Directors which
+has
+been transferred on the books of the corporation within twenty days next
+proceeding such election of Directors.
+     (b) The Board of Directors shall fix, in advance, a record date, which
+shall not be more than sixty nor less than ten days before the date of a
+Stockholders Meeting, for the purpose of determining the stockholders entitled
+to notice of or to vote at any meeting of stockholders or any adjournment
+thereof, or to express consent to corporate action in writing without a
+meeting,
+or entitled to receive payment of any dividend or other distribution or
+allotment
+of any rights, or entitled to exercise any rights in respect of any change,
+conversion or exchange of stock or for the purpose of any other lawful action
+of
+the corporation.
+     Section 2.8 Action by Unanimous Consent of Stockholders. Whenever the
+vote
+of stockholders at a meeting thereof is required or permitted to be taken in
+connection with any corporate action by any provisions of the law or the
+Articles
+of Incorporation, as amended, the meeting and vote of stockholders may be 
+
+
+
+<PAGE>
+dispensed with, if all of the stockholders who would have been entitled to
+vote
+upon action if such meeting were held, shall consent in writing to such
+corporate
+action being taken.
+     Section 2.9 Action by Less Than Unanimous Consent of Stockholders.
+     (a) Unless otherwise provided in the Articles of Incorporation, any
+action
+required to be taken by stockholders of any annual or special meeting of
+stockholders of the corporation, or any action which may be taken at any
+annual
+or special meeting of such shareholders, may be taken without a meeting,
+without
+prior notice and without a vote, if a consent in writing, setting for the
+action
+so taken, shall be signed by the holders of outstanding stock having not less
+than the minimum number of votes that would be necessary to authorize or take
+such action at a meeting at which all shares entitled to vote thereon were
+present and voted.
+     (b) Prompt notice of the taking of corporate action without a meeting by
+less than unanimous written consent shall be given to those stockholders who
+have
+not consented in writing.
+     Section 2.10 Chairperson of Stockholder's Meetings. The Board of
+Directors
+shall designate such person as the Board deems appropriate to chair respective
+stockholder meetings. In the absence of such designation, the corporation's
+Chief
+Executive Officer shall chair, or designate the person to chair, the
+respective
+stockholder meetings. 
+     Section 2.11 Secretary for Stockholder's Meetings. The Secretary or
+Assistant Secretary of the corporation shall act as Secretary of all meetings
+of
+Stockholders; and, in the absence of either such officer, the Chairperson may
+appoint any legally competent person to act as Secretary of the meeting.
+                ARTICLE III - BOARD OF DIRECTORS
+     Section 3.1 Number. The Board of Directors shall consist of not less than
+three nor more than ten members. Within the limits specified in this section,
+the
+number of Directors shall be determined by resolution of the Board of
+Directors
+or by the stockholders at the Annual Meeting. Once elected, Directors shall
+serve
+until the next Annual Meeting of the Stockholders and until their successors
+are
+duly elected and qualified or until their earlier resignation or removal.
+     Section 3.2 Election. Members of the Board of Directors shall be elected
+at the Annual Meeting of the Stockholders, except as provided in Section 3.3
+of
+this Article. Members of the Board of Directors need not be stockholders in
+the
+corporation.
+     Section 3.3 Vacancies. In the event any vacancies shall occur in the
+Board
+of Directors, by reason of death, resignation, or increase in the number of
+Directors or otherwise, it may be filled by a majority of the remaining
+Directors, though less than a quorum, for the balance of the term except that,
+in the case of an increase in the number of Directors, such vacancy may be
+filled
+only until the next Annual Meeting of Stockholders, at which time the vacancy
+shall be filled by vote of the stockholders.
+     Section 3.4 Quorum. A majority of the Directors in~office shall be
+necessary to constitute a quorum for the transaction of business, and the acts
+of a majority of the Directors present at a meeting at which a quorum is
+present
+shall be considered as the acts of the Board of Directors. If there is no
+quorum
+present at a duly convened meeting of the Board of Directors, the majority of
+those present may adjourn the meeting from time to time and place to place,
+until
+a quorum shall be present, whereupon the meeting may be held, as adjourned,
+
+<PAGE>
+
+without further notice. At any meeting at which every Director shall be
+present,
+even though without any notice, any business of the corporation may be
+transacted.
+     Section 3.5 Place of Meeting. Meetings of the Board of Directors of the
+corporation, both regular and special, may be held either within or without
+the
+State of Delaware as a majority of the Directors may from time to time appoint
+or as may be designated in the notice calling the meeting.
+     Section 3.6 First Meeting. 
+     (a) The first meeting of each newly elected Board of Directors shall be
+held annually, immediately following the Annual Meeting of the Stockholders at
+the place where such meeting of the stockholders is held or at such other
+place,
+date and hour as a majority of the newly elected Directors may designate. No
+notice of such meeting shall be necessary to the newly elected Directors in
+order
+to legally constitute the meeting, provided a quorum shall be present. At such
+meeting the Board of Directors shall elect officers of the corporation.
+     (b) In addition to such regular meeting at the conclusion of the Annual
+Meeting of Shareholders, the Board of Directors shall have the power to fix by
+resolution the place, date and hour of other regular meetings of the Board.
+Such
+regular meetings of the Board of Directors may be held without notice at such
+time and at such place as shall from time to time be determined by the Board.
+     Section 3.7 Special Meetings. Special meetings of the Board of Directors
+shall be held whenever called by the Chief Executive Officer of the
+corporation,
+by a majority of the executive committee, if any or by written request of two
+Directors in office. Notice of special meetings of the Board of Directors
+shall
+be given to each Director, either personally, by direct telephone contact, by
+mail, or by telegram. Such notice shall designate the place, date and hour of
+the
+special meeting as determined by a majority of the Directors in office, or in
+lieu of such a decision, by the Chief Executive Officer of the corporation.
+     Section 3.8 Notices of Meetings of Board of Directors.
+     (a) Regular Meetings: No notice shall be required to be given of any
+regular meeting of the Board of Directors, if a schedule of regular meetings
+is
+adopted at the Annual Reorganization Meeting, unless the same is held at other
+than the time or place for holding such meetings and fixed in accordance with
+Section 3.5 of these by-laws, in which event at least five (5) days written
+notice shall be given to each Director in advance of the time and place of
+such
+meeting.
+     (b) Special Meetings: Written notice stating the date, place and hour of
+any special meeting of the Board of Directors shall be given at least one (1)
+day
+prior to the date named for such special meeting.
+     Section 3.9 Participation in Meetings by Conference  Telephone. Any
+member
+of the Board of Directors, including the entire Board of Directors, may
+participate in any meeting of the Board of Directors or any committee of the
+Board of Directors (provided such Director is otherwise entitled to
+participate),
+be counted for the purposes of determining a quorum thereof and exercise all
+rights and privileges to which the Director might be entitled were such
+Director
+personally in attendance, including the right to vote, by means of conference
+telephone or other similar communications equipment by means of which all
+persons
+at the meeting can hear each other.
+
+
+<PAGE>
+     Section 3.10 Informal Action By Board of Directors. Any action which may
+be taken at a meeting of the Directors, or of the members of any committee of
+the
+Board of Directors, may be taken without a meeting if a consent or consents in
+writing, setting forth the action so taken, shall be signed by all of the
+Directors, or the members of the committee, as the case may be, and shall be
+filed with the Secretary of the corporation. Such action shall be deemed filed
+with the Secretary regardless of whether the Secretary or some other
+authorized
+person has actual possession of the minute book. Written consents by all of
+the
+Directors executed pursuant to this Section 3.10 may be executed in any number
+of counterparts and shall be deemed effective as of the date set forth
+therein.
+     Section 3.11 Powers of the Board of Directors.
+     (a) General Powers. The Board of Directors shall have all of the power
+and
+authority granted by law to the Board, including all power necessary or
+appropriate to the management of the business and affairs of the corporation.
+     (b) Specified Powers. Without limiting the general powers conferred by
+the
+last preceding subsection and the powers conferred by the Articles of
+Incorporation and these by-laws of the Corporation, it is hereby expressly
+declared that the Board of Directors shall have the following powers:
+               (i) To confer upon any officer or officers of the corporation
+     the power to choose, remove or suspend assistant officers, agent, or
+     servants.
+               (ii) To appoint any person, firm or corporation to accept and
+     hold in trust for the corporation any property belonging to the
+     corporation or in which it is interested, and to authorize any such
+     person, firm or corporation to execute any documents and to perform
+any duties that may be requisite in relation to such trust.
+               (iii) To appoint a person or persons to vote shares of another
+     corporation held and owned by the corporation.
+               (iv) By resolution adopted by a majority of the entire Board
+     of Directors, to designate one or more committees, each committee to
+     consist of two or more Directors of the corporation. To the extent
+     provided in any such resolution, and to the extent permitted by law,
+     a committee so designated shall have and may exercise the authority
+     of the Board of Directors in the management of the business and
+     affairs of the corporation. The Board of Directors may designate one
+     or more Directors as alternate members of any committee, who may
+     replace any absent or disqualified member at any meeting of the
+     committee. If it is specifically granted this power by the Board in
+     its resolution establishing the committee, in the absence or
+     disqualification of any member and all designated alternates of such
+     committee or committees or if the entire Board of Directors has
+     failed thereof to present or provide alternate members, the member
+     or members thereof present at any meeting and not disqualified from
+     voting, whether or not he or they constitute a quorum, may
+     unanimously appoint another Director to act at the meeting in the
+     place of any such absent or disqualified member.
+               (v) To fix the place, date, time and purpose of meetings of
+     stockholders.
+               (vi) To fix compensation of Directors and officers for
+     services rendered.
+
+<PAGE>
+     Section 3.12 Conduct of Meetings of Board of Directors. Meetings of the
+Board of Directors shall be conducted by the Chairperson of the Board, the
+President of the corporation, or by an officer of the corporation designated
+by
+the Board of Directors.
+     Section 3.13 Manifestation of Dissent. A Director of the corporation who
+is present at a meeting of the Board of Directors at which action on any
+corporate matter is taken shall be presumed to have assented to the action
+taken
+unless the Director's dissent shall be entered in the minutes of the meeting
+or
+unless the Director shall file a written dissent to such action with the
+person
+acting as the Secretary of the meeting before adjournment thereof, or shall
+forward such dissent by registered or certified mail to the Secretary of the
+corporation immediately after adjournment of the meeting. Such right of
+dissent
+shall not be afforded to a Director who voted in favor of such action.
+     Section 3.14 Compensation. The Directors shall receive such compensation
+for their services as Directors and as members of any committee appointed by
+the
+Board as may be prescribed by the Board of Directors and shall be reimbursed
+by
+the corporation for ordinary and reasonable expenses incurred in the
+performance
+of their duties. Payment of compensation for services as a Director shall not
+preclude any Director from serving the corporation in any other capacity and
+receiving compensation therefore.
+       ARTICLE IV - COMMITTEES OF THE BOARD OF DIRECTORS
+     Section 4.1 Authority. The Board of Directors may, by resolution passed
+by
+a majority of the entire Board, designate one or more committees, each
+committee
+to consist of two or more of the Directors of the corporation, which, to the
+extent provided in the authorizing resolution, shall have and may exercise the
+powers of the Board of Directors in the management of the business and affairs
+of the corporation and may authorize the seal of the corporation to be affixed
+to all papers which may require it.
+     Section 4.2 Minutes of Meetings. Each committee shall keep minutes of its
+meetings and report the same to the Board of Directors when required.
+     Section 4.3 Executive Committee. The Board of Directors may appoint from
+among its members an executive committee of not less than two members, which
+committee shall designate one of its members as Chairperson. The Board of
+Directors reserves to itself alone the power to declare dividends, issue
+stock,
+recommend to stockholders any action requiring their approval, change the
+membership of any committee at any time, fill vacancies therein, and discharge
+any committee either with or without cause at any time. Subject to the
+foregoing
+limitations, the executive committee shall possess and exercise all other
+powers
+of the Board of Directors during intervals between meetings.
+     Section 4.4 Finance Committee. The Board of Directors may appoint a
+Finance
+Committee of three or more Directors, and shall designate one Director as
+Chairperson of the Committee. The Committee shall have the power to fix from
+time
+to time the compensation of all principal officers of the corporation and so
+otherwise exercise all powers which may be specifically delegated to it by the
+Board of Directors and act upon such matters as may be referred to it from
+time
+to time for study and recommendation by the Board of Directors. The finance
+committee shall also serve as the audit committee to review the audited
+financial
+statements submitted by the corporation's certified public accountant, as well
+as the periodic reports filed by the corporation with regulatory authorities.
+     Section 4.5 Nominating Committee. The Board of Directors may appoint from 
+
+<PAGE>
+among its members at least two Directors for the purpose of making
+recommendations to the Board of Directors for nomination of individuals to
+serve
+on the Board of Directors of the corporation.
+     Section 4.6 Other Committees. The Board of Directors may also appoint
+from
+among its own members such other committees as the Board may determine which
+shall in each case consist of not less than two Directors, and which shall
+have
+such powers and duties as shall from time to time be prescribed in resolutions
+by the Board of Directors. The Chief Executive Officer shall be a member ex
+officio of each such committee appointed by the Board of Directors.
+                      ARTICLE V - OFFICERS
+     Section 5.1 Election and Office. The officers of the corporation shall be
+elected by the Board of Directors and shall be those officers with such titles
+and duties as shall be stated, from time to time, by the Board of Directors in
+a resolution. Two or more offices may be held by the same person, expect that
+where the offices of President and Secretary are held by the same person, such
+person shall not hold any other office.
+     Section 5.2 Term. The Board of Directors at its first regular meeting
+after
+each Annual Meeting of Stockholders may elect such officers with such titles
+and
+duties as shall be stated, from time to time, by the Board of Directors in a
+resolution, including, but not limited to a Chief Executive Officer, a
+President,
+one or more Vice-Presidents, a Secretary, a Treasurer, and such assistant
+officers as the Board may determine necessary, none of whom need to be a
+member
+of the Board of Directors. Each such officer shall serve at; the pleasure of
+the
+Board of Directors until the Annual Meeting of the Board of Directors
+following
+the next annual meeting of stockholders when their successors are chosen and
+qualified, unless sooner removed from office by an affirmative vote of the
+Board
+of Directors during their respective tenures.
+
+     Section 5.3 Compensation. Compensation for all officers of the
+corporation
+shall be fixed by the Board of Directors.
+     Section 5.4 Duties of President or Alternatively Chief Executive Officer.
+     (a) Subject to the provisions of 2.10 the President or such other officer
+as may be designated from time to time by a Resolution of the Board of
+Directors
+shall be the Chief Executive Officer of the corporation, shall preside at all
+meetings of the stockholders and of the Board of Directors, shall have general
+and active management authority over the business of the corporation and shall
+see that all orders and resolutions of the Board of Directors are carried into
+effect.
+     (b) The President or such other officer as may be designated from time to
+time by a Resolution of the Board of Directors, shall execute Bonds,
+Mortgages,
+and other contracts requiring a seal, under the seal of the Corporation,
+except
+where required or permitted by law to be otherwise signed and executed and
+except
+where the signing and execution thereof shall be expressly delegated by the
+Board
+of Directors to some other officer or agent of the corporation.
+     (c) Unless otherwise determined by the Board of Directors, the President
+or Chief Executive Officer shall have full power and authority on behalf of
+the
+corporation to attend and act and to vote at any meeting of the stockholders
+of
+any corporation in which the corporation may hold stock, and, at any such
+meeting, shall possess and may exercise any and all rights and powers incident
+to the ownership of such stock and which, as the owner thereof, the
+corporation
+
+<PAGE>
+may have possessed and exercised.
+     Section 5.5 Duties of Vice-President. The Vice-President, or if there
+shall
+be more than one, Vice-Presidents, in the order determined by the Board of
+Directors shall, in the absence or disability of the President or a Chief
+Executive Officer, perform the duties and exercise the powers of the President
+or Chief Executive Officer and shall perform such other duties and have such
+other powers as the Board of Directors may from time to time prescribe. The
+Vice-
+President shall have such additional powers and perform such duties as may be
+assigned to them by the Board of Directors or the President or Chief Executive
+Officer. A Vice-President may sign and execute contracts and other obligations
+pertaining to the regular course of the Vice-President's duties.
+     Section 5.6 Duties of Secretary and Assistant Secretary.
+     (a) The Secretary shall attend all meetings of the Board of Directors and
+all meetings of the stockholders and record all the proceedings of the
+meetings
+of the corporation and of the Board of Directors and a book to be kept for
+that
+purpose and shall perform similar duties for the standing committees when
+required. The Secretary shall give, or cause to be given, notice of all
+meetings
+of stockholders and special meetings of the Board of Directors, and shall
+perform
+such other duties as may be prescribed by the Board of Directors, President or
+Chief Executive Officer, under whose supervision the Secretary shall serve.
+The
+Secretary shall keep in safe custody both the shareholder records and the seal
+of the corporation and, when authorized by the Board of Directors, affix the
+same
+to any instrument requiring it and, when so affixed, it shall be attested by
+the
+Secretary's signature or by the signature of an assistant Secretary.
+     (b) The assistant Secretary, or if there is more than one, assistant
+Secretaries in the order determined by the Board of Directors, shall, in the
+absence or disability of the Secretary, perform the duties and exercise the
+powers of the Secretary and shall perform such other duties and have such
+other
+powers as the Board of Directors may, from | time to time, prescribe.
+     Section 5.7 Duties of Treasurer and Assistant Treasurer. 
+     (a) Except where otherwise designated by the Board of Directors, from
+time
+to time, the Treasurer shall, subject to the direction of a designated Vice-
+President, have general custody of all the funds and securities of the Company
+and have general supervisions of the collection and disbursement of funds of
+the
+Company. He may sign, with the President, or such other person or persons as
+may
+be designated for the purpose by the Board of Director, all bills of exchange
+or
+promissory notes of the Company. He shall enter or cause to be entered
+regularly
+in the books of the Company full and accurate account of all monies received
+and
+paid by him on account of the Company; shall at all reasonable times exhibit
+his
+books and accounts to any Director of the Company upon application of the
+office
+of the Company during business hours; and whenever required by the Board of
+Directors or the President, shall render a statement of his accounts. He shall
+perform such other duties as may be prescribed from time to time by the Board
+of
+Directors or the By-Laws; he shall give bond to the faithful performance of
+his
+duties in such sum and with such surety as shall be approved by the Board of
+Directors.
+     (b) The Treasurer shall have charge of all the funds and securities of
+the
+corporation which may come into the possession of the corporation. When
+necessary
+or proper, unless otherwise determined by the Board of Directors, the
+Treasurer
+shall endorse for collection on behalf of the corporation checks, notes, and 
+
+<PAGE>
+other obligations, and shall deposit the same to the credit of the corporation
+in such banks or depositories as the Board of Directors may designate and
+shall
+file all receipts and vouchers for payments made to the corporation. The
+Treasurer shall sign all checks made by the corporation, except when the Board
+of Directors shall otherwise direct. The Treasurer shall be responsible for
+the
+regular entry and books of the corporation to be kept for such purpose, and
+the
+full and accurate account of all funds and securities received and paid by an
+account of the corporation. Whenever required by the Board of Directors, the
+Treasurer shall render a statement of the financial condition of the
+corporation.
+The Treasurer shall have such other powers and shall perform such~other duties
+as the Treasurer may be assigned from time to time by the Board of Directors.
+The
+Treasurer shall give such bond, if any, for the faithful performance of the
+duties set forth herein as shall be required by the Board of Directors and any
+such bond shall remain in the custody of the President or Chief Executive
+Officer.
+     (c) The Assistant Treasurer, or if there shall be more than one, the
+Assistant Treasurers in the order determined by the Board of Directors, shall,
+in the absence or disability of the Treasurer, perform the duties and exercise
+the powers of the Treasurer and shall perform such other duties and have such
+other powers as the Board of Directors may from time to time prescribe.
+     Section 5.8 Powers and Duties of Vice-President and Assistant Officers.
+To
+the extent not explicitly set forth above and in the absence of a President,
+each
+Vice-President and each Assistant Officer shall have the powers and perform
+the
+duties of the respective superior officers. Vice-President and Assistant
+Officers
+shall have such rank as may be designated by the Board of Directors. Vice-
+Presidents may be designated by the Board of Directors. Vice-Presidents may be
+designated as having responsibility for a specific area of the corporation's
+affairs, in which event such Vice-President shall be superior to other Vice-
+Presidents in relation to matters within his area. The President or Chief
+Executive Officer shall be the superior officer to the Vice-President or Vice-
+Presidents. The Treasurer and Secretary shall be superior officers to the
+Assistant Treasurers and the Assistant Secretaries, respectively. 
+     Section 5.9 Delegation of Office. The Board of Directors may delegate the
+powers or duties of any officer of the corporation to any other person from
+time
+to time.
+     Section 5.10 Vacancies. The Board of Directors shall have the power to
+fill
+any vacancies in any office occurring for whatever reason. 
+                   ARTICLE VI - COMMON STOCK
+     Section 6.1 Stock Certificates. Every holder of stock in the corporation
+shall be entitled to have a certificate which shall be such form as the Board
+of
+Directors may from time to time prescribe, signed by, or in the name of the
+corporation by, the President or Chief Executive Officer or a Vice-President,
+and
+the Treasurer or Assistant Treasurer, or the Secretary or Assistant Secretary
+of
+the corporation, certifying the number of shares owned by such holder in the
+corporation.
+     Section 6.2 Transfer Agent. The Board of Directors shall have power to
+appoint one or more Transfer Agents and registers for the transfer and
+registration of certificates of stock, and may require that 
+stock certificates shall be countersigned and registered by one or more of
+such
+Transfer Agents and Registrars. Where a certificate is signed (1) by a
+Transfer 
+
+<PAGE>
+Agent or an Assistant Transfer Agent, or (2) by a Transfer Clerk acting on
+behalf
+of the corporation and a Registrar, the signature of any such President, Chief
+Executive Officer, Vice-President, Treasurer, Assistant Treasurer, Secretary
+or
+Assistant Secretary may be a facsimile. In case any officer or officers who
+have
+signed, or whose facsimile signature or signatures have been used on, any such
+certificate or certificates shall cease to be such officer or officers of the
+corporation, whether because of death, resignation or otherwise, before such
+certificate or certificates have been delivered by the corporation, such
+certificate or certificates may nevertheless be adopted by the corporation and
+be issued and delivered as though the person or persons who signed such
+certificate or certificates or whose facsimile signature or signatures have
+been
+used thereon have not ceased to be such officer or officers of the
+corporation.
+     Section 6.3 Lost Certificates. The Board of Directors may direct a new
+certificate or certificates be issued in place of any certificate or
+certificates
+theretofore issued by the corporation alleged to have been lost or destroyed,
+upon the making of an Affidavit of that fact by the person claiming the
+Certificate of Stock to be lost or destroyed. When authorizing such issue of a
+new Certificate or Certificates, the Board of Directors may, in its discretion
+and as a condition precedent to the issuance, require the owner of such lost
+or
+destroyed Certificate or Certificates, or the owner's legal representative, to
+advertise the same in such manner as it shall require and/or to give the
+corporation a bond in such sum as it may direct as indemnity against any claim
+that may be made against the corporation with respect to the Certificate
+alleged
+to be lost or destroyed.
+     Section 6.4 Transfer of Stock. Upon surrender to the corporation or the
+transfer agent of the corporation of a certificate of shares duly endorsed,
+with
+a duly executed Stock Power attached, or otherwise accompanied by proper
+evidence
+of succession, assignment or authority to transfer, it shall be the duty of
+the
+corporation 'to issue a new certificate to the person entitled thereto, cancel
+the old certificate and record the transaction upon its books.
+     Section 6.5 Closing of Transfer Books. The Board of Directors may close
+the
+stock transfer books of the corporation for a period not exceeding sixty days
+preceding the date of any meeting of stockholders or the date for payment of
+any
+dividends or the date for the allotment of rights or the date when any change
+or
+conversion or exchange of capital stock shall go into effect or for a period
+not
+exceeding sixty days in connection with obtaining the consent of stockholders
+for
+any purpose. In lieu of closing the stock transfer books as aforesaid, the
+Board
+of Directors may fix in advance, a day not exceeding sixty days preceding the
+date of any meeting of stockholders, or the date for the payment of any
+dividends, or the date for the allotment of any rights or the date when any
+change or conversion or exchange of common stock shall go into effect, or a
+date
+in connection with obtaining such an expense, as a record date for the
+determination of stockholders entitled to notice of, and to vote at, any such
+meetings, and any adjournment thereof, or entitlement to receive payment of
+such
+dividends, or to any such allotment of rights, or to exercise the rights in
+respect of any such change, conversion or exchange of capital stock, or to
+give
+such consent, and in such case such stockholders, and only such stockholders,
+as
+shall be stockholders of record on the date so fixed shall be entitled to such
+notice of, and to vote at, such meeting and any adjournment thereof, or to
+receive payment of such dividends, or to receive such allotment of rights, or
+to 
+
+<PAGE>
+exercise such rights, or to give such consent, as the case may be,
+notwithstanding any transfer of any stock on the books of the corporation
+after
+such record date fixed as aforesaid.
+     Section 6.6 Holders of Record. The corporation shall be entitled to
+recognize the exclusive right of a person registered on its books as the owner
+of shares to receive dividends, and to vote as such owner, and to hold liable
+for
+calls and assessments a person registered on its books as the owner of shares,
+and shall not be bound to recognize any equitable or other claim to or
+interest
+in such share or shares on the part of any other person, whether or not it
+shall
+have express or other notice thereof, except as otherwise provided by the laws
+of the State of Delaware.
+                     ARTICLE VII - DIVIDENDS
+     Section 7.1 Declared by Board of Directors. Dividends upon the common
+stock
+of the corporation, subject to the provisions of the Articles of
+Incorporation,
+if any, may be declared by the Board of Directors at a regular or special
+meeting, pursuant to law. Dividends may be paid in cash, in property, or in
+shares of the common stock, subject to the provisions of the certificate of
+incorporation.
+     Section 7.2 Reserves. Before making any dividend, there may be set aside
+out of the funds of the corporation available for dividends such sum or sums
+as
+the Directors from time to time, in their sole and absolute discretion, think
+proper as a reserve or reserves to meet contingencies, or for equal dividends,
+or for repairing or maintaining any property of the corporation, or for such
+other purpose as the Directors shall think conducive to the interests of the
+corporation, and the Directors may modify or abolish any such reserve in the
+matter in which it was created.
+                  ARTICLE VIII - MISCELLANEOUS
+     Section 8.1 Annual Statement. The Board of Directors shall present at
+each
+annual meeting, and at any special meeting of the stockholders when called for
+by vote of the stockholders, a full and clear statement of the business and
+condition of the corporation as prepared by its certified public accountant.
+     Section 8.2 Fiscal Year. The fiscal year of the corporation shall be
+fixed
+by resolution of the Board of Directors.
+     Section 8.3 Checks. All checks or demands for money and notes of the
+corporation shall be signed by such officer of officers or such other person
+or
+persons as the Board of Directors may from time to time designate.
+     Section 8.4 Seal. The corporate seal shall have inscribed thereon the
+name
+of the corporation, the year it was organized and words "Corporate Seal,
+Delaware". The seal may be used by causing it or a facsimile thereof to be
+impressed or affixed or reproduced or otherwise.
+     Section 8.5 Waiver of Notice. Any notice required to be given under the
+provisions of these by-laws or otherwise may be waived by the stockholder,
+Director or Officer to whom such notice is required to be given.
+ARTICLE IX - INDEMNIFICATION OF DIRECTORS, OFFICERS AND OTHER PERSONS
+     Section 9.1 Indemnification.
+     (a) The corporation shall indemnify Directors or Officers of the
+corporation against expenses (including legal expenses), Judgments, fines and
+amounts paid in settlement, actually and reasonably incurred by such person,
+to
+the fullest extent now or hereafter permitted by law in connection with any
+threatened, pending or completed action, suit or proceeding, whether civil,
+
+<PAGE>
+criminal, administrative or investigative, brought or threatened to be brought
+against such person, including actions or suits by or in the right of the
+corporation, by reason of the fact that such person is or was a Director or
+Officer of the corporation, its parent or any of its subsidiaries, or acted as
+a Director or Officer or in any other capacity on behalf of the corporation,
+its
+parent or any of its subsidiaries, or is or was serving at the request of the
+corporation as a Director, Officer, employee or agent of another corporation,
+partnership, joint venture, trust or other enterprise.
+     (b) The Board of Directors may, by resolution, similarly indemnify any
+person other than a Director or Officer of the corporation to the fullest
+extent
+now or hereafter permitted by law for liabilities incurred by such person in
+connection with services rendered for or at the request of the corporation,
+its
+parent or any of its subsidiaries.
+     (c) The provisions of this Section shall be applicable to all actions,
+suits or proceedings commenced after its adoption, whether such arise out of
+acts
+or omissions which occurred as to a person who has ceased to be Director or
+Officer or to render services for or at the request of the corporation and
+shall
+inure to the benefit of the heirs, executors and administrators of such
+person.
+The rights of indemnification provided for herein shall not be deemed to be
+the
+exclusive rights to which any Director, Officer, employee or other agent of
+the
+corporation may be entitled.
+     Section 9.2 Advances. The corporation may pay the expenses incurred by
+any
+person entitled to be indemnified by the corporation in defending a civil or
+criminal action, suit or proceeding in advance of the final disposition of
+such
+action, suit or proceeding upon receipt and undertaking by or on behalf of
+such
+person, to repay such amount unless it shall ultimately be determined that
+such
+person is entitled to be indemnified by the corporation as authorized by law.
+     Section 9.3 Insurance. The corporation may purchase and maintain
+insurance
+on behalf of any person who is or was a Director, Officer, employee or agent
+of
+the corporation or who is or was serving in any capacity in any other
+corporation
+or organization at the request of the corporation against any liability
+asserted
+against such person or incurred by such person in any such capacity or arising
+out of such person's status as such, whether or not the corporation would have
+the power to indemnify such person against such liability under law. 
+                     ARTICLE X - AMENDMENTS
+     Section 10.1. The Board of Directors shall have the power to add any
+provision to or to alter or repeal any provision of these by-laws by a vote of
+a majority of all of the Directors at a regular or special meeting of the
+Board
+provided that a statement of the proposed action shall have been included in
+the
+notice or waiver of notice of such meeting of the Board of Directors. The
+power
+of the Board of Directors to alter, amend and repeal these by-laws shall be
+subject always to the power of the stockholders to further alter, amend or
+repeal
+these by-laws.
+     Section 10.2 Stockholders. The stockholders may alter, amend, and repeal
+any provision of the by-laws by a vote of a majority of the stockholders at
+any
+meeting, provided that a statement of the proposed action shall have been
+included in the notice or waiver of notice of such meeting of stockholders.
+     Section 10.3 Notice of Meeting. No change of the time or place of the
+meeting for a vote on a proposal to alter, amend, or repeal these by-laws
+shall
+be made within sixty days before the date on which such meeting is to be held,
+
+<PAGE>
+ and in the case of any change of such time or place, notice thereof shall be
+given to each stockholder in person or by letter mailed to the stockholder's
+last
+known post office address at least twenty days before the meeting is held.
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99
+<SEQUENCE>3
+<TEXT>
+
+           ELECTRONICS MISSILES & COMMUNICATIONS, INC.
+                  NONQUALIFIED STOCK OPTION PLAN
+
+                       SECTION 1.  PURPOSE
+
+     This Nonqualified Stock Option Plan (hereafter the PLAN) is intended to
+advance the interests of Electronics, Missiles & Communications Inc. (hereafter
+EMCEE or the COMPANY), its shareholders and its subsidiaries by encouraging and
+enabling selected officers and other key employees upon whose judgment,
+initiative and effort the Company is largely dependent for the successfulconduct
+of its business, to acquire and retain a proprietary interest in the Company by
+ownership of its stock. Options granted under the Plan are intended to be
+options which do not meet the requirements of Section 422 of the Internal
+Revenue Code of 1954, as amended.
+                     SECTION 2.  DEFINITIONS
+     A.   BOARD means the Board of Directors of EMCEE;
+     B.   COMMITTEE means the body administering this Plan as designated by the
+Board;
+     C.   COMMON STOCK means the common stock of EMCEE, par value $.01667; and
+may include lettered, legend or restricted stock of the Company as approved by
+the Company's counsel;
+     D.   DATE OF GRANT means the date on which an Option is granted under this
+Plan pursuant to a written nonqualified stock option agreement;
+     E.   OPTION means an option granted under this Plan;
+     F.   OPTION AGREEMENT means the written agreement between the Optionee and
+the Company setting forth the details of the Option.
+     G.   OPTIONEE means a person to whom an Option, which has not expired, has
+been granted under this Plan;
+     H.   PLAN means EMCEE's Nonqualified Stock Option Plan as herein set
+forth;
+     I.   SUBSIDIARY or SUBSIDIARIES means a subsidiary corporation or
+corporations of the Company as defined in Section 425 of the Internal Revenue
+Code;
+     J.   SUCCESSOR means the legal representative of the estate of a deceased
+Optionee or the person or persons who acquired the right to exercise an Option
+by bequest or inheritance or by reason of the death of any optionee.
+              SECTION 3.  ADMINISTRATION OF THE PLAN
+     The Plan shall be administered by the Board or a Committee appointed by the
+Board. If the Plan is administered by a Committee, the Committee shall
+immediately draft and submit for review and approval by the Board a procedural
+statement for obtaining Board approval of any action taken by the Committee in
+carrying out the provisions of this Plan. If no Committee is appointed, the
+entire Board shall constitute the Committee. Options to members of the Committee
+may be granted only by a majority vote of the disinterested members of theBoard.
+The Committee shall have full and final authority in its discretion, subject to
+the provisions of the Plan and Board review, to determine the following:
+     A.   The individuals to whom options shall be granted;
+     B.   The time or times at which options shall be granted;
+     C.   The number of shares covered by each option;
+     D.   The purchase price of common stock covered by each option;
+
+
+<PAGE>
+     E.   The construction and interpretation of the Plan;
+     F.   Subject to Section 6, to determine the terms and provisions of the
+respective Option Agreements, which terms and provisions need not be identical
+in any respect including, but without limitation, differing terms covering the
+payment of the option price;
+     G.   To make all other determinations;
+     H.   To take all other actions deemed necessary or advisable for the
+proper administration of the Plan.
+     All such actions and determinations shall be conclusively binding for all
+purposes and upon all persons, unless such actions are determined by the Board
+to be in contravention of the Plan, relevant law or accounting practices.
+           SECTION 4.  COMMON STOCK SUBJECT TO OPTIONS
+     The initial aggregate number of shares of the Company's common stock which
+may be issued upon the exercise of options granted under the Plan shall not
+exceed 200,000, subject to adjustments under the provisions under Section 7. The
+shares of common stock to be issued upon the exercise of options may be
+authorized but unissued shares; shares issued and reacquired by the Company;
+shares bought on the market for the purposes of the Plan; and lettered, legend
+or restricted stock. In the event any option shall, for any reason, terminate or
+expire or be surrendered without having been exercised in full, the shares
+subject to such option but not purchased thereunder shall again be available for
+options to be granted under the Plan.
+                     SECTION 5.  PARTICIPANTS
+     Options may be granted under the Plan to any person who is a director,
+officer or employee of the Company or any of its subsidiaries.
+           SECTION 6.  TERMS AND CONDITIONS OF OPTIONS
+     Any option granted under the Plan shall be evidenced by an agreement
+executed by the Company and the Optionee, which agreement shall contain such
+terms and be in such form as the Committee from time to time approves, subject
+to the following limitations and conditions:
+     A.   Option Price. The option price per share with respect to each Option
+shall be determined by the Board, whether or not the Plan is administered by a
+Committee, but in no instance shall the consideration for the price per share be
+less than the par value of said stock;
+     B.   Period of Option. The expiration date of each Option shall be fixed
+by the Committee, but such expiration date shall not be more than ten (10) years
+from the date of the grant;
+     C.   Vesting of Shareholder's Rights. Neither an Optionee nor the
+Optionee's successor shall have any of the rights of a shareholder of theCompany
+until the certificates evidencing the shares purchased are properly delivered to
+such Optionee or the Optionee's successor;
+     D.   Exercise of Option. Each Option shall be exercisable from time to
+time or over a period commencing on the Date of Grant and ending upon the
+expiration or termination of the Option; provided, however, that the Committee
+may, by the provisions of any Option Agreement, limit the number of shares
+purchasable thereunder in any period or periods of time during which the Option
+is exercisable;
+
+<PAGE>
+     E.   Nontransferrability of Option. Each Option shall be exercisable
+during the Optionee's lifetime only by the Optionee. No Option shall be
+transferrable or assignable by an Optionee, otherwise than by will or by thelaws
+of descent and distribution. Except upon the written consent of the Committee
+waiving this provision, the Option shall terminate and become null and void if
+the Option is pledged or hypothecated in any way, or becomes subject to levy,
+execution, attachment or similar process.
+     F.   Termination of Employment. Unless otherwise provided in this Option
+Plan, upon termination of an Optionee's employment with the Company or with any
+of its subsidiaries, or in the case of a Director, ceases to be such, the
+Optionee's option privilege shall be limited in the manner set forth in his/her
+Option Agreement, or if not specified therein, to the shares which were
+immediately purchasable by him/her at the date of such termination and such
+option privileges shall expire unless exercised by the Optionee within thirty
+(30) days after the date of such termination. The granting of an Option to an
+eligible person does not alter in any way the Company's or a relevant
+subsidiary's existing rights to terminate such person's employment at any time
+for any reason, nor does it confer upon such person any rights or privileges
+except as specifically provided for in the Plan;
+     G.   Death of Optionee. If an Optionee dies while in the employ of the
+Company or any subsidiary, the employee's option privileges shall be limited to
+the shares which were immediately purchasable by the Optionee at the date of
+death and such option privileges shall expire unless exercised by his successor
+within one hundred eighty (180) days after the date of Optionee's death.
+                     SECTION 7.  ADJUSTMENTS
+     A.   In the event that the outstanding shares of common stock of the
+Company are hereafter increased or decreased, or changed into or exchanged for
+a different number or kind of shares or other securities of the Company or
+another corporation by reason of a recapitalization, reclassification, stock-
+split, combination of shares, dividend or other distribution payable in capital
+stock, appropriate adjustments shall be made by the Committee in the number and
+kind of shares for the purchase of which Options may be granted under the Plan.
+In addition, the Committee shall make appropriate adjustments in the number and
+kind of shares as to which outstanding Options, or portions thereof then
+unexercised, shall be exercisable, to the end that the proportionate interest of
+the holder of the Option shall, to the extent practicable, be maintained as
+before the occurrence of such event. Such adjustment in outstanding Optionsshall
+be made without change in the total price applicable to the unexercised portion
+of the Option but with a corresponding adjustment in the option price per share.
+     B.   In the event of dissolution or liquidation of the Company, any Option
+granted under the Plan shall terminate as of the date fixed by the Committee,
+provided that not less than thirty (30) days written notice of the date so fixed
+shall be given to each Optionee and each such Optionee shall have the right
+during such period to exercise the Option as to all or any part of the shares
+covered thereby, including shares as to which such Option would not otherwise be
+exercisable by reason of an insufficient lapse of time.
+
+
+<PAGE>
+     C.   In the event of a reorganization in which the Company is not the
+surviving or acquiring Company, or in which the Company is or becomes a wholly
+owned subsidiary of another Company after the effective date of the
+reorganization, then:
+               (i)  If there is no plan or agreement respecting the
+     reorganization, or if the reorganization agreement does not
+     specifically provide for the change, conversion or exchange of the
+     shares under outstanding and unexercised stock options for
+     securities of another corporation, then the Option shall terminate;
+     or
+               (ii) If there is a reorganization agreement and the
+     reorganization agreement specifically provides for the change,
+     conversion or exchange of the shares under outstanding and
+     unexercised stock options for securities of another corporation,
+     then the Committee shall adjust the shares under such outstanding
+     and unexercised stock options (and shall adjust the shares remaining
+     under the Plan which are then available to be optioned under the
+     Plan, if the reorganization agreement makes specific provisions
+     therefore) in a manner not inconsistent with the provisions of the
+     reorganization agreement for the adjustment, change, conversion or
+     exchange of such stock and such options.
+               (iii)     The term reorganization as used in this section shall
+     mean any statutory merger, statutory consolidation, sale of all or
+     substantially all of the assets of the Company, or sale, pursuant to
+     an agreement with the Company, of securities of the Company pursuant
+     to which the Company is or becomes a wholly owned subsidiary of
+     another Company after the effective date of the reorganization.
+     D.   Adjustments and determinations under this Section shall be made by
+the Committee, whose decisions as to what adjustments or determination shall
+be
+made, and the extent thereof, shall be final, binding and conclusive.
+            SECTION 8.  RESTRICTION ON ISSUING SHARES
+     The exercise of each Option shall be subject to the condition that if at
+any time the Company shall determine in its discretion that the satisfaction
+of
+withholding tax or other withholding liabilities, or that the listing,
+registration, or qualification of any shares otherwise deliverable upon such
+exercise upon any securities exchanged or under any state or federal law, or
+that
+the consent or approval of any regulatory body, is necessary or desirable as a
+condition of, or in connection with, such exercise of the delivery or purchase
+of shares pursuant thereto, then in any such event, such exercise shall not be
+effective unless such withholding, listing, registration, qualification,
+consent,
+or approval shall have been effected or obtained free of any conditions not
+acceptable to the Company.
+    SECTION 9.  AMENDMENT, SUSPENSION AND TERMINATION OF PLAN
+     The Board may at any time suspend or terminate the Plan or may amend it
+from time to time in such respects as the Board may deem advisable in order
+that
+the Options granted hereunder may conform to any changes in the law or in any
+other respect which the Board may deem to be in the best interests of the 
+
+<PAGE>
+Company; provided, however, that without approval by the shareholders of the
+Company representing a majority of the voting power, no such amendment shall
+except as provided in Section 4, increase the maximum number of shares for
+which
+Options may be granted under the Plan, (a) change the provisions of
+subparagraph
+A of Section 6 relating to the establishment of the option price, (b) change
+the
+provisions of subparagraph B of Section 6 relating to the expiration date of
+each
+Option, or (c) change the provisions of the next sentence of this Section 9
+relating to the term of this Plan. Unless the Plan shall theretofore have been
+terminated by the Board or as provided in Section 7, the Plan shall terminate
+ten
+(10) years after the effective date of the Plan. No Option may be granted
+during
+any suspension or after termination of the Plan. Except as provided in Section
+7, no amendment, suspension, or termination of the Plan shall, without the
+Optionee's consent, alter or impair any of the rights or obligations under any
+Option theretofore granted to such Optionee under the Plan.
+   SECTION 10.  EFFECTIVE DATE OF PLAN AND SHAREHOLDER APPROVAL
+     The effective date of the Plan is September 8, 1988, the date of its
+approval by the Shareholders of the Company.
+     Approved and accepted the 13th day of February, 1989.
+ATTEST:                       ELECTRONICS, MISSILES &
+                               COMMUNICATIONS, INC.
+
+s/s Kay E. Krull                   By: s/s  S. Stanley Fischman               
+    KAY E. KRULL                      S. STANLEY FISCHMAN
+CORP. ASST. SEC'Y                      PRESIDENT/CEO   
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99
+<SEQUENCE>4
+<TEXT>
+
+        SUBSIDIARIES OF EMCEE BROADCAST PRODUCTS, INC. (1)
+     The following constitute all of the Registrant's subsidiary corporations:
+     1. EMCEE Cellular Inc., a Delaware corporation; 
+     2. EMCEE Export Sales Company, Inc., a Delaware corporation (this
+corporation is a wholly owned subsidiary of EMCEE Cellular Inc.);
+     3.   R.F. Systems, Inc., a Delaware corporation (this corporation is a
+wholly owned subsidiary of EMCEE Cellular Inc.); 
+     4.   R.F. Systems of Nevada, Inc., a Nevada corporation (this corporation
+is a wholly owned subsidiary of EMCEE Cellular Inc.);
+     5.   Universal Rapid Access, LLC (this limited liability company is a
+partially owned subsidiary of R.F. Systems of Nevada, Inc., which owns 50% of
+the
+outstanding equity of the limited liability company); and
+     6.   EMCEE Broadcast Products (Chengdu) Company, Ltd. (the Registrant
+owns
+25% of the issued and outstanding capital stock of this corporation).
+
+(1) All subsidiaries are wholly owned by the Registrant unless otherwise
+indicated.
+
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-27
+<SEQUENCE>5
+<TEXT>
+
+<TABLE> <S> <C>
+
+<ARTICLE> 5
+<CIK> 0000032312
+<NAME> EMCEE BROADCAST PRODUCTS, INC.
+       
+<S>                                             <C>
+<PERIOD-TYPE>                                   YEAR
+<FISCAL-YEAR-END>                          MAR-31-1998
+<PERIOD-START>                             APR-01-1997
+<PERIOD-END>                               MAR-31-1998
+<CASH>                                       2,529,594
+<SECURITIES>                                 2,269,549
+<RECEIVABLES>                                1,249,651
+<ALLOWANCES>                                    35,000
+<INVENTORY>                                  3,438,599
+<CURRENT-ASSETS>                             9,647,685
+<PP&E>                                       2,821,612
+<DEPRECIATION>                               1,995,946
+<TOTAL-ASSETS>                              10,684,801
+<CURRENT-LIABILITIES>                        1,083,923
+<BONDS>                                              0
+<COMMON>                                        73,084
+<PREFERRED-MANDATORY>                                0
+<PREFERRED>                                          0
+<OTHER-SE>                                   8,780,906
+<TOTAL-LIABILITY-AND-EQUITY>                10,684,801
+<SALES>                                      9,187,868
+<TOTAL-REVENUES>                             9,187,868
+<CGS>                                        6,118,332
+<TOTAL-COSTS>                                9,004,725
+<OTHER-EXPENSES>                             (562,265)
+<LOSS-PROVISION>                                25,403
+<INTEREST-EXPENSE>                              83,714
+<INCOME-PRETAX>                                661,694
+<INCOME-TAX>                                   146,410
+<INCOME-CONTINUING>                            515,284
+<DISCONTINUED>                                       0
+<EXTRAORDINARY>                                      0
+<CHANGES>                                            0
+<NET-INCOME>                                   515,284
+<EPS-PRIMARY>                                      .12
+<EPS-DILUTED>                                      .12
+        
+
+</TABLE>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

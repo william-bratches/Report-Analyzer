@@ -1,0 +1,2107 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: keymaster@town.hall.org
+Originator-Key-Asymmetric:
+ MFkwCgYEVQgBAQICAgADSwAwSAJBALeWW4xDV4i7+b6+UyPn5RtObb1cJ7VkACDq
+ pKb9/DClgTKIm08lCfoilvi9Wl4SODbR1+1waHhiGmeZO8OdgLUCAwEAAQ==
+MIC-Info: RSA-MD5,RSA,
+ sGqDT+7IYxuZo9r5GUmEWz7bm/wbf2W0EgNybEQwkeQrx3e6vph74ziir91uTDTZ
+ EZFriN62clcW4zUZDDSEGg==
+
+<IMS-DOCUMENT>0000020199-95-000017.txt : 19950629<IMS-HEADER>0000020199-95-000017.hdr.sgml : 19950629
+ACCESSION NUMBER:		0000020199-95-000017
+CONFORMED SUBMISSION TYPE:	10KSB40
+PUBLIC DOCUMENT COUNT:		4
+CONFORMED PERIOD OF REPORT:	19950331
+FILED AS OF DATE:		19950628
+SROS:			NONE
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			CHURCH LOANS & INVESTMENTS TRUST
+		CENTRAL INDEX KEY:			0000020199
+		STANDARD INDUSTRIAL CLASSIFICATION:	REAL ESTATE INVESTMENT TRUSTS [6798]
+		IRS NUMBER:				756030254
+		STATE OF INCORPORATION:			TX
+		FISCAL YEAR END:			0331
+
+	FILING VALUES:
+		FORM TYPE:		10KSB40
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-08117
+		FILM NUMBER:		95550261
+
+	BUSINESS ADDRESS:	
+		STREET 1:		5305 I-40 W
+		CITY:			AMARILLO
+		STATE:			TX
+		ZIP:			79106
+		BUSINESS PHONE:		8063583666
+
+	MAIL ADDRESS:	
+		STREET 1:		P O BOX 8203
+		CITY:			AMARILLO
+		STATE:			TX
+		ZIP:			79106
+</IMS-HEADER>
+<DOCUMENT>
+<TYPE>10KSB40
+<SEQUENCE>1
+<DESCRIPTION>FORM 10-KSB405 FOR CHURCH LOANS & INVESTMENTS TST
+<TEXT>
+
+              ================================================
+
+                                 FORM 10-KSB405
+
+                       SECURITIES AND EXCHANGE COMMISSION
+                             Washington, D.C. 20549
+                            -----------------------
+
+               [X] ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d)
+                     OF THE SECURITIES EXCHANGE ACT OF 1934
+
+                    For the Fiscal Year Ended March 31, 1995
+
+               [_] TRANSITION REPORT UNDER SECTION 13 OR 15(d)
+                     OF THE SECURITIES EXCHANGE ACT OF 1934
+
+              For the transition period from _________to ________.
+
+                      Commission File No. 08117
+
+                            ------------------------
+
+                        CHURCH LOANS & INVESTMENTS TRUST
+                 (Name of small business issuer in its charter)
+
+              Texas                                   75-6030254
+    -------------------------------                ------------------- 
+    (State or other jurisdiction of                  (IRS Employer
+    incorporation or organization)                 Identification No.)
+
+         5305 I-40 West, Amarillo, Texas                  79106
+    ----------------------------------------            ----------
+    (Address of principal executive offices)            (Zip Code)
+
+                                 (806) 358-3666
+                          ---------------------------
+                          (Issuer's telephone number)
+
+         Securities registered pursuant to Section 12(b) of the Exchange
+         Act:  None
+
+         Securities registered pursuant to Section 12(g) of the Exchange
+         Act:  Shares of Beneficial Interest
+
+                            ------------------------
+
+              Check whether the issuer (1) has filed all reports  required to be
+         filed by  Section  13 or 15(d) of the  Exchange  Act during the past 12
+         months (or for such shorter  period that the registrant was required to
+         file  such   reports),   and  (2)  has  been  subject  to  such  filing
+         requirements for the past 90 days.
+
+                         Yes  [ X ]          No [__]
+
+              Check if there is no disclosure  of delinquent  filers in response
+         to Item 405 of Regulation S-B contained in this form, and no disclosure
+         will be contained, to the best of registrant's
+
+
+<PAGE>
+
+
+
+         knowledge,  in definitive proxy or information statements  incorporated
+         by reference  of part III of this Form 10-KSB or any  amendment to this
+         Form 10-KSB.   [ X ]
+
+              Issuer's revenues for its most recent fiscal year: $4,406,930.
+
+              The   aggregate   market   value  of  the  voting  stock  held  by
+         non-affiliates of the registrant is $15,021,564.50 as of June 15, 1995.
+
+              The number of shares  outstanding of each of the issuer's  classes
+         of common stock, as of March 31, 1995 is 7,007,402 shares of beneficial
+         interest.
+
+                      Documents Incorporated by Reference:
+
+              Portions of the Annual Report to  Shareholders  for the year ended
+         March 31, 1995, are incorporated by reference into Parts II and III.
+
+              Exhibits  3(a) and  3(b)  included  in Form  S-11  under  File No.
+         2-51235 are incorporated by reference into Part III.
+
+
+
+                                      -2-
+
+<PAGE>
+
+
+
+
+                               TABLE OF CONTENTS
+                        FORM 10-KSB ANNUAL REPORT - 1995
+                        CHURCH LOANS & INVESTMENTS TRUST
+
+                                                                      Page
+                                                                      ----
+        PART I
+
+             Item 1:  Description of Business ................          4
+             Item 2:  Description of Properties ..............          6
+             Item 3:  Legal Proceedings ......................          6
+             Item 4:  Submission of Matters to a Vote of
+                       Security Holders ......................          6
+
+
+        PART II
+
+             Item 5:  Market for Common Stock
+                       and Related Stockholder Matters .......          6
+             Item 6:  Management's Discussion and Analysis or
+                       Plan of operation .....................          7
+             Item 7:  Financial Statements ...................         13
+             Item 8:  Changes in and Disagreements with
+                       Accountants on Accounting and
+                       Financial Disclosure ..................         14
+
+
+        PART III
+
+             Item 9:  Directors, Executive Officers, Promoters
+                       and Control Persons; Compliance with
+                       Section 16(a) of the Exchange Act .....         15
+             Item 10: Executive Compensation .................         15
+             Item 11: Security Ownership of Certain Beneficial
+                       Owners and Management .................         16
+             Item 12: Certain Relationships and Related
+                       Transactions ..........................         17
+             Item 13: Exhibits and Reports on Form 8-K .......         18
+
+
+                                      -3-
+
+<PAGE>
+
+
+
+
+                                     PART I
+
+
+         Item 1:  DESCRIPTION OF BUSINESS
+
+         Church  Loans  &  Investments  Trust  ("the  Trust")  is a real  estate
+         investment  trust  organized  under  the laws of the  State of Texas in
+         March  1963.  Although  the  Trust has the  authority  to engage in the
+         business of buying,  selling and leasing of real estate,  the Trust has
+         heretofore restricted its business activities primarily to making loans
+         to churches and other  nonprofit  organizations  which are secured by a
+         first mortgage on real estate owned by such borrowers.
+
+         The period of duration of the Trust,  unless  dissolved  in  accordance
+         with law,  or by the  consent  of the  owners  of shares of  beneficial
+         interest in the Trust, is perpetual.  The Trust may be dissolved by the
+         affirmative  vote  of  not  less  than  two-thirds  of  the  owners  of
+         outstanding   shares  of  the   Trust.   Owners  of   Secured   Savings
+         Certificates,  a debt instrument  issued by the Trust,  have no vote in
+         regard to any activities of the Trust, including dissolution.
+
+         The  control and  management  of the Trust  properties,  and all powers
+         necessary  or  appropriate  to effect any and all of the  purposes  for
+         which the Trust is organized, is vested in the Board of Trust Managers.
+         All managers are members of a congregation of the Church of Christ.
+
+         The  number of shares of  beneficial  interest  in the Trust  which the
+         Trust is authorized to issue is unlimited.
+
+         The  Trust is  qualified  as a "real  estate  investment  trust"  under
+         Sections  856-858 of the Internal  Revenue Code of 1986 as amended (the
+         "Internal Revenue Code" or "Code"). It is the intention of the Trust to
+         continue to qualify as a real estate investment trust under the Code.
+
+         The Trust maintains an office located at 5305 I-40 West,  Amarillo,  TX
+         79106 (telephone 806/358-3666).
+
+         As mentioned above,  the Trust is primarily  engaged in the business of
+         making  mortgage loans to churches and other  nonprofit  organizations.
+         The  Declaration  of Trust  restricts the  investments  of the Trust to
+         loans secured by a first mortgage, deed of trust or other lien covering
+         real  property  with the  amount of such loans not to exceed 66 2/3% of
+         the value of the real  property  securing  such loan as determined by a
+         competent independent appraiser.  Although the Trust has been primarily
+         in the business of making  long-term  mortgage  loans,  during the past
+         several years it has been more involved in making short-term interim or
+         construction loans to finance the construction of church buildings, the
+         purchase of real
+
+                                      -4-
+
+<PAGE>
+
+
+
+         estate, or the refinancing of existing indebtedness.  Most, if not all,
+         of the interim loans  presently  being made by the Trust are associated
+         with bond  offerings  of churches  and other  nonprofit  organizations.
+         These interim loans are scheduled to be repaid from the proceeds of the
+         bond offerings.
+
+         The Trust is not limited to the location of the  property  securing any
+         loans in which it may  invest and seeks to spread  its  investments  in
+         areas of the United States where favorable yields prevail.
+
+         As of March 31, 1995, the Trust has 194 permanent and interim  mortgage
+         loans and  investments  in church bonds  having a principal  balance of
+         $40,541,324,  with the average principal amount thereof being $208,976.
+         The  interest  rates on these  loans vary from 7.0% to 15.75% per annum
+         with the weighted  average  interest rate of mortgage  loans and church
+         bonds being 10.94% per annum at March 31, 1995.  The original  terms of
+         these loans vary form one year to thirty years, with the majority being
+         for a term of twenty years.
+
+         During the fiscal  year of the Trust  ending  March 31,  1995,  the net
+         income of the Trust was $2,344,026, as compared to $2,288,342 in fiscal
+         1994, an increase of 2.43%. The increase in net income of the Trust was
+         due primarily to an increase in interest income and fees in fiscal 1995
+         as compared to fiscal 1994 and in a decrease in  operating  expenses in
+         fiscal 1995 compared to fiscal 1994.
+
+         The net income of the Trust for each of the quarters during fiscal 1995
+         was as follows: first quarter-$623,903; second quarter- $637,656; third
+         quarter-$590,371; and fourth quarter-$492,096.
+
+         The  operational  expense of the Trust  decreased from $579,850  during
+         fiscal 1994 to $553,444 in fiscal 1995. The operational expenses of the
+         Trust were approximately  12.56% of its gross income for the year ended
+         March 31, 1995 as compared to 13.41% for the year ended March 31, 1994.
+         The   operational   expense   of  the  Trust   included   general   and
+         administrative  expenses  and  compensation  to members of the Board of
+         Trust Managers.
+
+         During  fiscal  1995,  the  Trust  made  36  loans  for   approximately
+         $18,000,000.  Most,  if not  all,  of such  loans  bear  interest  at a
+         variable  rate  equal to 2% per annum in  excess  of the prime  rate of
+         interest  published  by the Wall Street  Journal and known as the "Wall
+         Street Journal Prime."
+
+         During fiscal 1995, the Trust employed a total of 4 full time employees
+         and employed, as needed, one additional part-time employee.
+
+                                      -5-
+
+<PAGE>
+
+
+
+
+
+     Item 2:  DESCRIPTION OF PROPERTIES
+
+         The Trust  maintains as its only place of business its offices  located
+         at 5305 I-40 West,  in Amarillo,  Texas.  Such building is owned by the
+         Trust and is  occupied  solely by the  Trust.  There is no debt owed by
+         Trust in  regard to its real  property.  The  Trust  also owns  certain
+         vacant land adjacent to the trust property that is held for investment.
+
+         The real  properties of the Trust are not a significant  portion of the
+         Trust's assets, representing less than 1% of the Trust's total assets.
+
+         As previously mentioned,  the Trust's primary business is the making of
+         mortgage  loans to  churches  and other  nonprofit  organizations.  The
+         Declaration  of Trust  restricts the  investments of the Trust to loans
+         secured by a first mortgage, deed of trust, or other lien covering real
+         property  with the  amount  of such  loans not to exceed 66 2/3% of the
+         value of the real property securing such loan. The Declaration of Trust
+         may not be  amended  without  the vote of  two-thirds  (2/3 rds) of the
+         Certificates  of  Beneficial  Interest  entitled to vote.  The Board of
+         Trust Managers'  general policy is to limit  investment of Trust assets
+         in any  one  mortgage  loan  to not  more  than  $2,000,000.  All  such
+         investment in mortgage  loans is for the purpose of earning  income for
+         the Trust.
+
+
+     Item 3:  LEGAL PROCEEDINGS
+
+         None
+
+
+     Item 4:  SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS
+
+         None
+
+
+                                    PART II
+
+
+     Item 5:  MARKET FOR COMMON STOCK AND RELATED STOCKHOLDER MATTERS
+
+         (a)      Market Information
+
+         There  is no  established  public  trading  market  for the  shares  of
+         beneficial interest of the Trust. During fiscal 1995 a total of 171,610
+         shares were sold in the secondary  market at prices  ranging from $2.00
+         to $2.50 per share.  The last sale  during the fiscal year was at $2.25
+         per share.  During fiscal year 1994 a total of 222,319 shares were sold
+         in the secondary market at prices ranging
+
+                                      -6-
+
+<PAGE>
+
+
+
+         from $1.80 to $2.40 per share.
+
+         The range of high and low bid  information  for  shares  of  beneficial
+         interest of the Trust for each quarter within the last two fiscal years
+         is as follows:
+
+                  Quarter           Fiscal  1995  Fiscal 1994
+                                     High    Low   High   Low
+                                    -----   ----  ------ -----
+                  April-June .....   2.20   2.00   2.00   1.80
+
+                  July-September .   2.30   2.10   2.10   1.85
+
+                  October-December   2.30   2.20   2.10   2.00
+
+                  January-March ..   2.50   2.25   2.40   2.00
+
+
+         (b)      Holders
+
+         At March 31, 1995 there were 2,880 shareholders of the Trust.
+
+         (c)      Dividends
+
+         Cash dividends on all outstanding shares of beneficial  interest in the
+         Trust are declared twice annually,  for the 3 month period ending March
+         31, and the 9 month period ending December 31. In fiscal 1994 the Trust
+         paid a cash dividend of $.31 per share. In fiscal 1995 the Trust paid a
+         total cash dividend of $.34 per share.
+
+
+     Item 6:  MANAGEMENT'S DISCUSSION AND ANALYSIS OR PLAN OF OPERATION
+
+         Results of Operations--1995 compared to 1994
+
+         During the fiscal year ended March 31, 1995,  interest  income and fees
+         of the Trust  increased by $83,825  (1.94%)  over the  previous  fiscal
+         yeSuch increase was primarily attributable to an increase in the amount
+         of  interim  construction  loans  held by the  Trust.  Earning  interim
+         construction  loans  increased from  $7,035,506 as of March 31, 1994 to
+         $10,148,958 as of March 31, 1995.  However,  earning mortgage loans and
+         church  bonds  decreased  from  $28,079,612  as of  March  31,  1994 to
+         $25,676,746  as of March 31, 1995.  Such decrease is primarily a result
+         of the normal  payoff upon  maturity of loans held by the Trust as well
+         as the  payoff  prior to  maturity  of loans  held by the  Trust.  Such
+         increase  in  interest  income  and fees was  also  attributable  to an
+         increase in the average annual  interest rate on loans and church bonds
+         from 10.46% at March 31, 1994 to 10.94% at March 31, 1995.
+
+         In fiscal 1995, the average aggregate amount of total debt
+         outstanding was $91,365 more than in fiscal 1994.  Furthermore,
+
+                                      -7-
+
+<PAGE>
+
+
+
+         interest expense increased by $112,870. Such increase was primarily due
+         to an increase in the Trust's  cost of funds.  The increase in the debt
+         of the Trust was  primarily due to an increase in interim loans made by
+         the Trust.  The approximate  weighted average annual interest rate upon
+         the aggregate  outstanding debt increased from 6.61% during fiscal 1994
+         to 7.29% during fiscal 1995.
+
+         The net income of the Trust increased $55,684 (2.43%) from the previous
+         fiscal year. Such increase was primarily attributable to an increase in
+         interest  income and fees in fiscal 1995 as compared to fiscal 1994 and
+         in a decrease in operating  expenses in fiscal 1995  compared to fiscal
+         1994.
+
+         During fiscal 1995,  the prime  interest rate  increased  from 6.25% at
+         March 31,  1994 to 9.0% per annum at March 31,  1995.  Should the prime
+         interest rate decrease during fiscal 1996, the interest  expense of the
+         Trust will  generally  decrease and the net income of the Trust will in
+         turn generally increase. Should the prime interest rate increase during
+         fiscal 1996, the interest expense of the Trust will generally  increase
+         and the net income of the Trust will in turn generally decrease.
+
+         Principal payments received on the interim and permanent loan portfolio
+         and the  church  bonds  held by the Trust  decreased  from  $16,055,666
+         during  fiscal 1994, to  $15,623,167  during fiscal 1995, a decrease of
+         2.69%.  This  decrease was  primarily  attributable  to the decrease in
+         mortgage loans held by the Trust during these respective periods and to
+         an  increase in the amount of  non-performing  loans as compared to the
+         entire loan  portfolio of the Trust  during  fiscal 1995 as compared to
+         the previous  fiscal  year.  The  non-performing  loans of the Trust as
+         compared to the entire loan portfolio of the Trust increased from 4.15%
+         as of March 31, 1994 to 8.68% as of March 31,  1995.  This  increase is
+         primarily  attributable  to one interim  construction  loan which had a
+         principal  balance of  $1,520,977  at March 31,  1995.  The loan became
+         delinquent  during the latter part of 1994 and was placed on nonaccrual
+         status  and  all  accrued  interest  was   written-off.   The  loan  is
+         collateralized  by a church  building and management  believes that the
+         potential  loss,  if any, is  adequately  provided in the allowance for
+         possible  credit  losses at March 31, 1995.  Management  has  initiated
+         proceedings to foreclose the collateral securing such loan.
+
+
+         Results of Operations--1994 compared to 1993
+
+         During the fiscal year ended March 31, 1994,  interest  income and fees
+         of the Trust  decreased by $218,592  (4.81%)  over the previous  fiscal
+         yeSuch decrease was primarily  attributable to a decrease in the amount
+         of mortgage loans held by the Trust.  Earning mortgage loans and church
+         bonds decreased from $35,375,304
+
+                                      -8-
+
+<PAGE>
+
+
+
+         as of March 31, 1993 to $28,079,612 as of March 31, 1994. Such decrease
+         is primarily a result of the normal  payoff upon maturity of loans held
+         by the Trust as well as the payoff  prior to  maturity of loans held by
+         the  Trust.  Such  decrease  in  interest  income  and  fees  was  also
+         attributable  to a decrease  in the  average  annual  interest  rate on
+         mortgage loans and church bonds from 11.05% at March 31, 1993 to 10.46%
+         at March 31, 1994.
+
+         In fiscal 1994, the average  aggregate amount of total debt outstanding
+         was  $2,155,952  more than in fiscal 1993.  However,  interest  expense
+         actually  decreased by $225,551.  Such  decrease was primarily due to a
+         decrease in the Trust's cost of funds.  The increase in the debt of the
+         Trust was  primarily  due to an increase  in interim  loans made by the
+         Trust.  The approximate  weighted average annual interest rate upon the
+         aggregate  outstanding  debt decreased from 7.64% during fiscal 1993 to
+         6.61% during fiscal 1994.
+
+         The net income of the Trust increased $87,918 (4.00%) from the previous
+         fiscal year.  Such increase was primarily  attributable to the decrease
+         in interest expense in fiscal 1994 as compared to 1993, the decrease in
+         the  provision  for possible  credit  losses in fiscal 1994 compared to
+         fiscal  1993 and from the payoff  prior to  maturity  of several  loans
+         purchased by the Trust from the Resolution  Trust  Corporation  ("RTC")
+         and the  Federal  Deposit  Insurance  Corporation  ("FDIC") in previous
+         years  resulting in a realization  into income of the discount  between
+         the payoff of a particular  loan and the purchase price of a particular
+         loan.
+
+         During fiscal 1994,  the prime  interest rate  increased  from 6.00% at
+         March 31, 1993 to 6.25% per annum at March 31, 1994.
+
+         Principal payments received on the interim and permanent loan portfolio
+         and the  church  bonds  held by the Trust  decreased  from  $16,711,276
+         during  fiscal 1993, to  $16,055,666  during fiscal 1994, a decrease of
+         3.92%.  This  decrease was  primarily  attributable  to the decrease in
+         mortgage loans held by the Trust during these respective periods. There
+         was no  material  change  in the  amount  of  non-performing  loans  as
+         compared to the entire loan  portfolio of the Trust during  fiscal 1994
+         as compared to the previous fiscal year.
+
+
+         Liquidity and Capital Resources
+
+         The Trust is engaged in the  business of making  permanent  and interim
+         loans to churches and other non-profit organizations. The assets of the
+         Trust primarily  consist of its loan portfolio with the Trust owning no
+         real  property  other  than its office  building  and  facilities.  The
+         operational expense of the Trust is comprised of the maintenance of its
+         office  building,  the payment of the  salaries of its  management  and
+         clerical staff and the payment for
+
+                                      -9-
+
+<PAGE>
+
+
+
+         legal and accounting  services.  Substantially  all of the Trust assets
+         are invested in the permanent and interim loans made by the Trust.  The
+         only  potential  liquidity  problems  of the Trust are  related  to the
+         timely and proper  repayment by the Trust of the leveraged funds it has
+         borrowed  to  make  loans  in  excess  of  its  capital.   All  of  the
+         indebtedness of the Trust is generally  classified as short term having
+         maturities  ranging  from "on  demand"  to  maturities  repayable  over
+         various periods extending through 1998.
+
+         The  annual   maturities  upon  all  debt   obligations  of  the  Trust
+         outstanding  as of March 31, 1995 for the next three  fiscal years are:
+         1996--$14,322,712;  1997--$2,915,377;  and 1998-$1,285,000.  These debt
+         obligations  primarily consist of the Trust's bank line of credit, bank
+         term loans and Secured Savings Certificates ("Certificates") which have
+         been  previously  issued by the Trust.  Certificates  outstanding as of
+         March 31,  1995 that will  mature  during  the next  three  years  are:
+         1996--$3,833,354;  1997--$1,915,377; and 1998-$1,035,000. The principal
+         amount of the Trust's  bank term notes which will mature in each of the
+         next   three   years  are   1996--$1,416,667;   1997--$1,000,000;   and
+         1998-$250,000.
+
+         At March 31, 1995 loans to the Trust under Master Note Agreements which
+         are in effect demand notes total $3,472,690. In the past, the Trust has
+         utilized its bank line of credit,  principal paid to the Trust upon its
+         outstanding loan portfolio,  and the proceeds received from the sale of
+         Certificates in order to meet its maturing obligations.  Effective July
+         18, 1994, the Trust decided not to register  Certificates and therefore
+         the  Trust is  presently  unable  to sell and has been  unable  to sell
+         Certificates  since July 18,  1994.  However,  the Trust has decided to
+         register additional Certificates in the summer of 1995.
+
+         At March 31,  1995,  the  balance  which could be borrowed by the Trust
+         upon its bank line of credit was  $4,399,999.  The  principal  payments
+         scheduled to be received by the Trust upon its loan  portfolio  for the
+         years ending March 31, 1996, 1997 and 1998 are $16,618,243, $2,546,974,
+         and $2,376,248, respectively. Assuming all of these scheduled principal
+         payments  are  received,  these  payments,  together  with the  balance
+         available  to Church  Loans on its bank  line of  credit,  would  allow
+         Church Loans to have sufficient  funds to meet its maturing  obligation
+         without the  necessity  for Church Loans having to sell any  additional
+         Certificates or borrow funds from other sources.
+
+         During fiscal 1995,  1994 and 1993 the Trust sold  Certificates  in the
+         principal   amounts  of   $5,239,231,   $5,185,803,   and   $9,619,445,
+         respectively.  Due to the  cost of  registration  and of  sales of such
+         Certificates, the cost of these funds are normally higher than the cost
+         of borrowing  from bank sources or master  notes.  As mentioned  above,
+         effective   July  18,   1994,   the  Trust   decided  not  to  register
+         Certificates. Therefore, the Trust was unable to sell Certificates
+
+                                      -10-
+
+<PAGE>
+
+
+
+         since such date and is presently unable to sell Certificates.  However,
+         the Trust has decided to register  additional  Certificates  during the
+         summer  of  1995.   Based  upon  the  success  of  the  Trust  to  sell
+         Certificates  in the past,  the Trust is confident  that,  should it be
+         necessary,  it  will be able to  sell  Certificates  in the  future  in
+         sufficient amounts for the Trust to timely meet all of its obligations.
+         To the extent that  Certificates  sold by the Trust have maturity dates
+         of one year, or less, the financial condition of the Trust would not be
+         substantially  improved  since the proceeds  received by the Trust from
+         the  sale  of  Certificates  will,  of  necessity,  be  used to pay the
+         principal and interest upon Certificates maturing in this period.
+
+         Should  all the  scheduled  principal  payments  upon loans made by the
+         Trust  not be  received,  and  should  the  Trust  be  unable  to  sell
+         Certificates  with  maturity  dates and in amounts  described  above or
+         should the Trust be unable to borrow  against  its line of credit,  and
+         should loans from other  sources not be available it would be necessary
+         for the Trust to sell a portion of its mortgage loan portfolio in order
+         for it to meet all of its financial obligations. At March 31, 1995, the
+         principal  balance of the loan and church bond  portfolio  of the Trust
+         was $39,231,497. The weighted average interest rate on loans and church
+         bonds was  10.94% per annum.  In view of the  normal  marketability  of
+         conventional  loans,  the Trust would  probably be required to discount
+         the great  majority of these  loans in order for them to be  attractive
+         for  purchase.  The  principal  amount of these loans if  discounted to
+         yield a weighted  average  interest  rate of 12%,  14% and 16% would be
+         $35,766,050,  $30,656,614, and $26,824,538,  respectively.  There is no
+         assurance  that the Trust  would be able to sell all,  or a portion of,
+         its portfolio of loans,  in which event,  it would be necessary for the
+         Trust to secure a loan, or loans,  from a lender in order for the Trust
+         to meet its financial obligations. There is no assurance that the Trust
+         would be able to  secure a loan in such  instance.  The  Trust has sold
+         only one of the loans in its mortgage loan  portfolio and therefore has
+         limited experience in this area.
+
+         Principal  payments  scheduled  to be  received  by the Trust  upon its
+         permanent loan portfolio  during the years ending March 31, 1996,  1997
+         and 1998,  if not used to fund new loan  commitments,  would be used to
+         reduce the outstanding  indebtedness of the Trust. Should the Trust use
+         the  payments  of  principal  which  shall  be  received  upon its loan
+         portfolio to reduce its outstanding indebtedness,  the interest expense
+         of the Trust will decrease.  In such instance,  whether the decrease in
+         the interest  income will exceed,  or be less than, the decrease in the
+         interest  expense  will  largely  be  dependent  upon the prime rate of
+         interest  prevailing  at such time due to the fact that the interest to
+         be earned by the Trust upon its  mortgage  loan  portfolio is generally
+         based upon a fixed rate of interest or a variable rate of interest that
+         periodically reprices,  while the interest to be paid by the Trust upon
+         its  outstanding  debts is directly,  or indirectly,  tied to the prime
+         rate of
+
+                                      -11-
+
+<PAGE>
+
+
+
+         interest charged by major domestic banks.
+
+         As of March 31, 1995, a  substantial  portion of the  promissory  notes
+         evidencing  the loans made by the Trust have been pledged to secure its
+         outstanding  indebtedness.  At March 31, 1995  promissory  notes in the
+         principal amount of $9,676,303 had been pledged to secure  Certificates
+         which had been  previously sold by the Trust.  The required  collateral
+         for  these  Certificates  (based  on the  ratio  of 1.25 to 1 of  notes
+         pledged to the principal  balance of the  Certificates) was $8,479,664,
+         leaving an excess of  promissory  notes which have been  pledged by the
+         Trust  to  secure  said   Certificates  of  $1,196,639.   Additionally,
+         promissory  notes totalling  $14,452,698 were pledged against a line of
+         credit and notes payable to banks which had a total outstanding balance
+         of  $8,266,668.  The  required  collateral  for  these  bank  loans was
+         $9,360,001,  leaving  an excess of  promissory  notes  which  have been
+         pledged  to  secure  said  bank  notes  of  $5,092,697.   These  excess
+         promissory notes may be reassigned by the Indenture  Trustee or bank to
+         the  Trust to be sold in  order  for the  Trust  to meet its  financial
+         obligations.  Should it be necessary in order for the Trust to meet its
+         financial  obligations,  these excess notes amounting to $6,289,336 and
+         other  additional   promissory  notes  in  the  approximate  amount  of
+         $15,102,496  (for a total amount of $21,391,832)  would be available to
+         be sold by the  Trust to meet its  financial  obligations.  Should  the
+         excess promissory notes be assigned by the Indenture Trustee or bank to
+         the Trust as heretofore described, all outstanding Certificates sold by
+         the Trust, bank line of credit,  and bank term loans, would continue to
+         be  secured by the  required  ratio of notes  pledged to the  principal
+         balance  of these  Certificates,  bank  line of  credit,  and bank term
+         loans.  There is no assurance that the Trust would be able to sell all,
+         or any portion of these notes.
+
+         Cash flows from operating  activities consists primarily of net income.
+         The primary  components of net income are interest  income and expense.
+         Interest  income should continue to be the main source of cash provided
+         by operating activities; however, the availability of this cash flow is
+         dependent  upon the ability of the  borrowers to repay loans.  Although
+         there was an  increase  in the  amount of  non-performing  loans of the
+         Trust as of March 31, 1995 compared to March 31, 1994, this increase is
+         primarily  attributable to one interim construction loan and management
+         does  not  expect  material  increases  in such  loans  in the  future.
+         Accordingly,  cash  provided by  operating  activities  has been and is
+         expected to be a relatively stable source of cash flow.
+
+         Cash flows from investing  activities results primarily from investment
+         in and payments received on mortgage and interim construction loans and
+         church bonds.
+
+         Cash flows from financing  activities  relate  primarily to the sale of
+         and  payments on  Certificates  and  borrowings  and  payments on notes
+         payable and the line of credit. Certificates are sold and
+
+                                      -12-
+
+<PAGE>
+
+
+
+         borrowings  are made as funds are  needed to make  loans or as  current
+         obligations  become due.  Although the Trust has not sold  Certificates
+         since  July 18,  1994,  based upon the  Trust's  decision  to  register
+         Certificates  during the summer of 1995 and the success of the Trust to
+         sell  Certificates  and  obtain  borrowings  in the past,  the Trust is
+         confident  that  it  will be  able  to  sell  Certificates  and  obtain
+         borrowings in the future in sufficient amounts,  along with payments to
+         be received on loans, to timely meet its obligations.
+
+
+         Disclosure of Impact of Recently Issued Account Standards
+
+         See Note (3) to the Financial  Statements on pages 20 through 23 of the
+         1995  Annual  Report to  Shareholders  for  information  regarding  the
+         expected impact of recently issued accounting standards.
+
+
+         Inflation
+
+         At March 31, 1995, the weighted  average  interest rate on the mortgage
+         loan and church bond  portfolio of the Trust was 10.94% per annum while
+         the weighted average interest rate upon all borrowings of the Trust was
+         8.02% per annum. Although a majority of the loans constituting the loan
+         portfolio  of the Trust have been made at  variable  rates of  interest
+         that  generally  reprice  annually,  approximately  23.3% of the  loans
+         constituting  the Trust's loan  portfolio have been made at fixed rates
+         of  interest  and  therefore  are not  subject  to being  increased  or
+         decreased  during the term of the loan. All of the  indebtedness of the
+         Trust is  either  directly  or  indirectly  tied to the  prime  rate of
+         interest charged by major banking institutions and therefore is subject
+         to fluctuation. During periods of inflation, the prime rate of interest
+         charged by major banking institutions,  as well as the interest rate or
+         cost  of  borrowing  money  from  any  lender,   generally   increases.
+         Consequently, during an inflationary period the interest expense of the
+         Trust would increase.  Since the interest income of the Trust would not
+         increase as rapidly,  an increase in the interest  expense of the Trust
+         would decrease the net income of the Trust.  However,  interest  income
+         should subsequently increase as variable rate loans reprice. Should the
+         amount  of the loans and the  amount of the  indebtedness  of the Trust
+         remain constant, and should the weighted average interest rate upon the
+         indebtedness  increase to approximately  23.79% per annum, the interest
+         income and the  interest  expense of the Trust  would be  substantially
+         equal.
+
+
+     Item 7:  FINANCIAL STATEMENTS
+
+         Financial  Statements  at March 31, 1995,  and 1994 and for each of the
+         years in the three-year  period ended March 31, 1995, are  incorporated
+         by reference from Pages 14 through 27 of the 1995
+
+                                      -13-
+
+<PAGE>
+
+
+
+         Annual Report to Shareholders.
+
+         The  report of  independent  auditors  with  respect  to the  financial
+         statements at March 31, 1995, and 1994 and for each of the years in the
+         three-year  period  ended March 31, 1995 is  incorporated  by reference
+         from Page 13 of the 1995 Annual Report to Shareholders.
+
+
+     Item 8:  CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON
+              ACCOUNTING AND FINANCIAL DISCLOSURE
+
+         KPMG Peat Marwick LLP was previously the principal  accountants for the
+         Trust.  As of June 1, 1995,  KPMG Peat  Marwick LLP sold its  Amarillo,
+         Texas office to Clifton,  Gunderson & Co.  Therefore,  on June 14, 1995
+         the Trust  dismissed  KPMG Peat Marwick LLP as the Trust's  independent
+         auditors.  The decision to change accountants was approved by the Board
+         of Trust Managers.
+
+         The KPMG Peat Marwick LLP report on the  financial  statements  for the
+         past two fiscal years did not contain any adverse  opinion,  disclaimer
+         of opinion,  nor any  qualification  or modification as to uncertainty,
+         audit scope, or accounting principles.
+
+         Furthermore,  there were no disagreements with KPMG Peat Marwick LLP on
+         any matter of accounting  principles or practices,  financial statement
+         disclosure, or auditing scope or procedures, which disagreements if not
+         resolved to their satisfaction would have caused them to make reference
+         in  connection  with  their  opinion  to  the  subject  matter  of  the
+         disagreement  in regard to the audits of the fiscal  years  ended March
+         31, 1994 and March 31, 1995 and the  subsequent  interim period through
+         June 14,  1995.  A letter  from KPMG Peat  Marwick  LLP is  attached as
+         Exhibit "16".
+
+         The  Board  of  Trust  Managers  engaged  Clifton,   Gunderson  &  Co.,
+         independent  certified  public  accountants,  on June 14, 1995,  as the
+         auditors of the  financial  statements of the Trust for the fiscal year
+         ending March 31, 1996.
+
+
+
+
+                                      -14-
+
+<PAGE>
+
+
+
+                                    PART III
+
+     Item 9:  DIRECTORS AND EXECUTIVE OFFICERS, PROMOTERS AND CONTROL
+              PERSONS; COMPLIANCE WITH SECTION 16(a) OF THE EXCHANGE
+              ACT
+
+         (a)  Board of Trust Managers.  The following information is
+         furnished as to each individual who now serves as a member of the
+         Board of Trust Managers of the Trust:
+
+         B. R. McMorries, age 68, is a consulting engineer.  He has served
+         as a Trust Manager since 1963.  He serves as Chairman of the Board
+         of Trust Managers.
+
+         Foy W.  Shackelford,  age 80, is a retired dentist.  He has served as a
+         Trust Manager since 1963.  He serves as  Vice-Chairman  of the Board of
+         Trust Managers.
+
+         Everett B. Blanton, Jr., age 73, is a retired dentist. He has served as
+         a Trust Manager since 1963.
+
+         Larry Brown, age 52, is the President of Larry Brown Realtors, Inc.
+         and is a licensed realtor.  He has served as a Trust Manager since
+         1981.  He serves as Secretary of the Board of Trust Managers.
+
+         Jack R. Vincent, age 65, is engaged in farming and ranching operations.
+         He has served as a Trust Manager since 1989.
+
+         Robert E.  Martin,  age 45, is the  President/CEO  of Santa Fe  Federal
+         Credit Union. He has served as a Trust Manager since 1990.
+
+         Steve  Rogers,  age 47, is the  President  of Steve  Rogers Co., a real
+         estate appraisal firm. He has served as a Trust Manager since 1990.
+
+         (b)  Executive Officers.  The following information is furnished as
+         to each individual who now serves as an executive officer of the
+         Trust who is not mentioned under "Board of Trust Managers" above:
+
+         M. Kelly Archer, age 43, serves as Manager of Operations and Chief
+         Financial Officer of the Trust.  As such Mr. Archer functions as
+         the Executive Officer of the Trust.  Mr. Archer has held this
+         position for 13 years.
+
+
+     Item 10:  EXECUTIVE COMPENSATION
+
+         (a)  Executive Officers:
+
+         The   following   table  sets  forth  certain   information   regarding
+         compensation paid during each of the Trust's last three fiscal years to
+         the Trust's Manager of Operations (CEO). The Trust has no
+
+                                      -15-
+
+<PAGE>
+
+
+
+         other executive  officers whose salary,  bonuses and other compensation
+         earned during fiscal 1995  exceeded  $100,000 for services  rendered in
+         all capacities.
+
+                              Annual Compensation
+          ----------------------------------------------------------------------
+            Name and Principal Fiscal                    Other Annual
+                 Position       Year   Salary    Bonus   Compensation
+         ---------------------  -----  -------   -----   ------------
+         CEO-M. Kelly Archer     1995 $112,200       0         $6,050
+         Manager of              1994  105,800       0          5,516
+         Operations              1993   96,733       0          4,893
+
+
+         (b)  Trust Managers' Compensation:
+
+         The Board of Trust Managers of the Trust were paid $37,700 in cash as a
+         group during the last fiscal year for services as Trust  Managers.  The
+         Chairman of the Board of Trust Managers, B. R. McMorries,  is paid $400
+         per month for serving in such  capacity.  The remaining  members of the
+         Board of Trust Managers are paid $200 per month for serving as a member
+         of the board.  All Trust Mangers are paid an additional  $100 per board
+         or committee meeting attended.
+
+         The  members  of the  Board  of Trust  Managers  of the  Trust  are not
+         otherwise employed or compensated by the Trust.
+
+
+     Item 11:  SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND
+               MANAGEMENT
+
+
+         (a) The following table indicates the persons known by the Trust to own
+         beneficially  more than 5 percent of the shares of beneficial  interest
+         in the Trust:
+
+              Name and Address of       Amount of and Nature            Percent
+                Beneficial Owner       of Beneficial Ownership          of Class
+         -----------------------------------------------------------------------
+                B. R. McMorries                354,057                    5.053%
+
+
+                                      -16-
+
+<PAGE>
+
+
+
+         (b) The  following  table  indicates the number of shares of beneficial
+         ownership  interest in the Trust  owned by the Board of Trust  Managers
+         and Executive Officers, individually and as a group:
+
+              Name and Address of       Amount of and Nature            Percent
+                Beneficial Owner       of Beneficial Ownership          of Class
+         -----------------------------------------------------------------------
+                B. R. McMorries                354,057                    5.053%
+
+                Foy W. Shackelford              22,909                    0.327%
+
+                Everett B. Blanton, Jr.          2,602                    0.037%
+
+                Larry Brown                     27,254                    0.389%
+
+                Jack R. Vincent                  5,564                    0.079%
+
+                Robert E. Martin                 3,012                    0.043%
+
+                Steve Rogers                     1,300                    0.019%
+
+                M. Kelly Archer                 59,589                    0.850%
+                                               -------                    ------
+             All Trust Managers and
+               Executive Officers              476,287                    6.797%
+                  as a Group
+
+     Item 12:  CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS
+
+         The Trust issues a limited number of "Master Notes" which are unsecured
+         debt instruments of the Trust. The Trust pays the obligee of such notes
+         interest  at the rate of one percent per annum (1%) less than the prime
+         lending rate of Boatmen's First National Bank of Amarillo,  the Trust's
+         primary lender. As of March 31, 1995, the Trust had entered into Master
+         Note  Agreements with McMorries  Trust, a trust  established by and for
+         the  benefit  of B.  R.  McMorries,  Chairman  of the  Board  of  Trust
+         Managers,  in the  amount  of  $260,728  and with  Foy W.  Shackelford,
+         Vice-Chairman  of  the  Board  of  Trust  Managers,  in the  amount  of
+         $188,912.  Furthermore,  as of March 31, 1995, the Trust had issued and
+         outstanding Certificates issued to the following related parties and in
+         the following amounts: B. R. McMorries,  Chairman of the Board of Trust
+         Managers,  and related  persons,  in the amount of $500,000;  and Larry
+         Brown, Secretary of the Board of Trust Managers, and related persons in
+         the amount of $140,000. The terms of such Master Notes and Certificates
+         are the same as Master Notes and  Certificates  entered into with other
+         unrelated persons, except as to the amounts thereof.
+
+
+
+                                      -17-
+
+<PAGE>
+
+
+
+
+     Item 13:  EXHIBITS AND REPORTS ON FORM 8-K
+
+         (a)       Exhibits
+
+         The Exhibits listed on the accompanying  Index to Exhibits are filed as
+         a part of this Annual Report.
+
+         (b)       Reports on Form 8-K
+
+         None
+
+
+
+                                      -18-
+
+<PAGE>
+
+
+
+
+                                   SIGNATURES
+
+
+         In  accordance  with  Section  13 or 15(d)  of the  Exchange  Act,  the
+Registrant has caused this report to be signed on its behalf by the undersigned,
+thereunto duly authorized.
+
+                                  CHURCH LOANS & INVESTMENTS TRUST
+
+
+DATE:  June 26, 1995              By: /S/ B.R. McMorries
+                                      ------------------
+                                      B.R. McMorries,
+                                      Chairman of the Board of
+                                      Trust Managers
+
+    
+
+
+         In accordance  with the Exchange Act, this report has been signed below
+by the following  persons on behalf of the  Registrant and in the capacities and
+on the dates indicated.
+
+          Signature                 Capacity                  Date
+
+
+
+         /s/ B.R. McMorries     Chairman of the Board        6-26-95
+         ------------------      of Trust Managers
+         B.R. McMorries          (Principal executive           
+                                  officer)
+                                  
+
+         ------------------     Vice-Chairman of the
+         Foy W. Shackelford      Board of Trust Managers
+
+
+
+         /s/ Larry Brown        Secretary of the Board       6-26-95
+         ------------------      of Trust Managers
+         Larry Brown                   
+
+
+
+         /s/ M. Kelly Archer    Principal financial and      6-26-95
+         ------------------      accounting officer
+         M. Kelly Archer               
+
+
+
+         ------------------     Trust Manager
+         Everett B. Blanton, Jr.
+
+
+
+
+                                      -19-
+
+<PAGE>
+
+
+
+
+
+
+         /s/ Jack R. Vincent    Trust Manager                6-26-95
+         ------------------
+         Jack R. Vincent
+
+
+
+         /s/ Robert E. Martin   Trust Manager                6-26-95
+         ------------------
+         Robert E. Martin
+
+
+
+         /s/ Steve Rogers       Trust Manager                6-26-95
+         ------------------
+         Steve Rogers
+
+
+                                      -20-
+
+<PAGE>
+
+
+
+                        CHURCH LOANS & INVESTMENTS TRUST
+
+                               INDEX TO EXHIBITS
+
+                                   Item 13(a)
+
+
+         (3)  -   Declaration of Trust of Church Loans & Investments Trust,
+                  as amended, has been previously filed under File No. 2-
+                  51235 and is incorporated herein by reference.
+
+                  Bylaws  of  Church  Loans  &  Investments  Trust,  as
+                  amended,  has been  previously  filed  under File No.
+                  2-51235 and is incorporated herein by reference.
+
+         (4)  -   None other than those listed in (3) above.
+
+         (9)  -   None
+
+         (10) -   None
+
+         (11) -   Statement regarding computation of per share earnings  -
+                  omitted since information necessary to make the
+                  computation is included in the Financial Statements and
+                  Note 6 thereto.
+
+         (13) -   Pages 13 through 27 of the 1995 Annual Report to
+                  Shareholders
+
+         (16) -   Letter dated June 28, 1995 from KPMG Peat Marwick LLP
+
+         (18) -   None
+
+         (21) -   None
+
+         (22) -   None
+
+         (23) -   None
+
+         (24) -   None
+
+         (27) -   Financial Data Schedule
+
+         (28) -   None
+
+
+
+
+                                      -21-
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-13
+<SEQUENCE>2
+<DESCRIPTION>PAGES 13-27 OF 1995 ANNUAL REPORT
+<TEXT>
+
+
+                          Independent Auditors' Report
+                          ----------------------------
+
+
+The Board of Trust Managers and Shareholders
+Church Loans & Investments Trust:
+
+We have audited the  accompanying  balance  sheets of Church Loans & Investments
+Trust (a real estate  investment  trust) as of March 31, 1995 and 1994,  and the
+related statements of income,  shareholders'  equity, and cash flows for each of
+the years in the  three-year  period  ended  March  31,  1995.  These  financial
+statements   are  the   responsibility   of  the   Company's   management.   Our
+responsibility  is to express an opinion on these financial  statements based on
+our audits.
+
+We  conducted  our  audits  in  accordance  with  generally   accepted  auditing
+standards.  Those standards require that we plan and perform the audit to obtain
+reasonable assurance about whether the financial statements are free of material
+misstatement.  An audit includes examining, on a test basis, evidence supporting
+the amounts and disclosures in the financial statements.  An audit also includes
+assessing the  accounting  principles  used and  significant  estimates  made by
+management,  as well as evaluating the overall financial statement presentation.
+We believe that our audits provide a reasonable basis for our opinion.
+
+In our opinion,  the financial  statements  referred to above present fairly, in
+all material  respects,  the  financial  position of Church Loans &  Investments
+Trust as of March 31, 1995 and 1994,  and the results of its  operations and its
+cash flows for each of the years in the three-year  period ended March 31, 1995,
+in conformity with generally accepted accounting principles.
+
+/s/ KPMG Peat Marwick LLP
+    ---------------------
+    Amarillo, Texas
+    May 5, 1995
+
+                                      -13-
+<PAGE>
+                        CHURCH LOANS & INVESTMENTS TRUST
+                        (A Real Estate Investment Trust)
+                                 Balance Sheets
+                            March 31, 1995 and 1994
+
+                  Assets                                 1995             1994
+                  ------                                 ----             ----
+
+Cash and cash equivalents ......................   $    366,977         429,431
+Receivables (notes 3 and 4):
+    Mortgage loans and church bonds - earning ..     25,676,746      28,079,612
+    Interim construction loans - earning .......     10,148,958       7,035,506
+    Nonearning mortgage loans, church bonds
+      and interim construction loans ...........      3,405,793       1,519,340
+    Less: Allowance for possible credit losses .       (645,049)       (563,824)
+                                                   ------------    ------------
+                                                     38,586,448      36,070,634
+                                                   ------------    ------------
+    Accrued interest receivable ................        339,633         329,834
+    Notes receivable ...........................        481,878         550,778
+    Other receivables ..........................          2,576          17,942
+                                                   ------------    ------------
+                  Total receivables ............     39,410,535      36,969,188
+Property and equipment, net of accumulated
+    depreciation of $413,707 and $398,035 in
+    1995 and 1994, respectively ................        244,635         260,307
+Property held for investment ...................         83,714          83,714
+Unamortized debt expense, net and other assets .         65,400          56,042
+                                                   ------------    ------------
+                                                   $ 40,171,261      37,798,682
+                                                   ============    ============
+      Liabilities and Shareholders' Equity
+      ------------------------------------
+Liabilities:
+    Notes payable and line of credit (note 4):
+      Related party (note 8) .....................    $   706,577        364,155
+      Other ......................................     11,032,781      7,961,495
+                                                      -----------    -----------
+                                                       11,739,358      8,325,650
+    Secured savings certificates (note 4):
+      Related party (note 8) .....................        665,375        834,000
+      Other ......................................      6,118,356      7,115,559
+                                                      -----------    -----------
+                                                        6,783,731      7,949,559
+
+    Accrued interest payable .....................         94,423         66,156
+    Federal income taxes payable .................          5,010          5,799
+    Other ........................................        314,771        179,059
+                                                      -----------    -----------
+                                                       18,937,293     16,526,223
+                                                      -----------    -----------
+Shareholders' equity (note 7):
+    Shares of beneficial interest, no par value; authorized
+      shares unlimited, 7,007,402 shares issued
+      and outstanding ..............................    20,623,866    20,623,866
+    Undistributed net income .......................       610,102       648,593
+                                                       -----------   -----------
+                  Total shareholders' equity .......    21,233,968    21,272,459
+Commitments (note 3)
+                                                       $40,171,261    37,798,682
+                                                       ===========   ===========
+See accompanying notes to financial statements.
+
+                                      -14-
+<PAGE>
+                        CHURCH LOANS & INVESTMENTS TRUST
+                        (A Real Estate Investment Trust)
+
+                              Statements of Income
+
+                   Years ended March 31, 1995, 1994 and 1993
+
+                                                1995          1994         1993
+                                                ----          ----         ----
+Interest income and fees:
+   Interest and fees on mortgage loans, church
+     bonds and interim construction loans   $4,387,244    4,291,973    4,526,243
+   Interest on temporary investments ....       19,686       31,132       15,454
+                                            ----------   ----------   ----------
+
+           Total interest income and fees    4,406,930    4,323,105    4,541,697
+
+Debt expense:
+   Interest ................................ 1,345,054    1,232,184    1,457,735
+   Amortization of:
+     Registration costs ....................     9,250       62,332       83,229
+     Commissions paid to brokers (note 2) ..    64,783       64,004       69,823
+                                             ---------    ---------    ---------
+
+           Total debt expense .............. 1,419,087    1,358,520    1,610,787
+                                             ---------    ---------    ---------
+Other operating expenses:
+   General and administrative ..............   514,793      540,862      537,492
+   Board of Trust Managers' fees ...........    38,651       38,988       36,698
+                                             ---------    ---------    ---------
+
+           Total other operating expenses ..   553,444      579,850      574,190
+                                             ---------    ---------    ---------
+           Income before provision for
+            income taxes ................... 2,366,563    2,307,847    2,219,999
+
+Provision for income taxes (note 5) .....       22,537       19,505       19,575
+                                            ----------   ----------   ----------
+
+           Net income ...................   $2,344,026    2,288,342    2,200,424
+                                            ==========   ==========   ==========
+
+Net income per share (note 6) ...........   $      .33          .33          .31
+                                            ==========   ==========   ==========
+
+See accompanying notes to financial statements.
+
+                                      -15-
+<PAGE>
+                        CHURCH LOANS & INVESTMENTS TRUST
+                        (A Real Estate Investment Trust)
+
+                       Statements of Shareholders' Equity
+
+                   Years ended March 31, 1995, 1994 and 1993
+
+                                     Shares of beneficial interest
+                                     ----------------------------  Undistributed
+                                           Shares       Amount       net income
+                                        -----------   -----------   -----------
+Balance, March 31, 1992 .............     7,007,402   $20,623,866       434,342
+
+Cash dividends ($.30 per share) .....          --            --      (2,102,221)
+
+Net income ..........................          --            --       2,200,424
+                                        -----------   -----------   -----------
+
+Balance, March 31, 1993 .............     7,007,402    20,623,866       532,545
+
+Cash dividends ($.31 per share) .....          --            --      (2,172,294)
+
+Net income ..........................          --            --       2,288,342
+                                        -----------   -----------   -----------
+
+Balance, March 31, 1994 .............     7,007,402    20,623,866       648,593
+
+Cash dividends ($.34 per share) .....          --            --      (2,382,517)
+
+Net income ..........................          --            --       2,344,026
+                                        -----------   -----------   -----------
+
+Balance, March 31, 1995 .............     7,007,402   $20,623,866       610,102
+                                        ===========   ===========   ===========
+
+See accompanying notes to financial statements.
+
+                                      -16-
+<PAGE>
+
+
+                       CHURCH LOANS & INVESTMENTS TRUST
+                        (A Real Estate Investment Trust)
+
+                            Statements of Cash Flows
+
+                   Years ended March 31, 1995, 1994 and 1993
+
+                                              1995          1994          1993
+                                              ----          ----          ----
+Cash flows from operating activities:
+   Net income                    $        2,344,026     2,288,342     2,200,424
+   Adjustments to reconcile net income to net
+cash provided by operating activities:
+  Depreciation .......................       15,672        15,672        19,717
+  Amortization of debt expense .......       74,033       126,336       153,052
+  Amortization of loan discounts .....     (248,914)     (387,971)     (472,857)
+  Provision for possible loan losses .       80,000        90,000       157,500
+  Changes in:
+    Accrued interest receivable ......       (9,799)       50,043      (118,486)
+    Accrued interest payable .........       28,267       (21,936)       34,166
+    Federal income taxes payable .....         (789)           42        (1,343)
+    Other liabilities ................      135,712        63,165       (69,761)
+  Other, net .........................       20,520        12,649        74,948
+                                         ----------    ----------    ----------
+
+       Net cash provided by
+         operating activities ........    2,438,728     2,236,342     1,977,360
+                                         ----------    ----------    ----------
+
+Cash flows from investing activities:
+   Investment in mortgage and interim
+     constructionloans and church
+     bonds ...........................  (17,971,292)  (12,673,517)  (26,480,724)
+   Payments received on mortgage and
+     interim construction loans and 
+     church bonds ....................   15,623,167    16,055,666    16,711,276
+   Advances on notes receivable ......     (211,108)     (406,800)     (112,500)
+   Payments received on notes receivable    280,008       179,389        56,625
+                                            -------       -------        ------
+
+            Net cash provided (used) by
+              investing activities ...   (2,279,225)    3,154,738    (9,825,323)
+                                         ----------     ---------    -----------
+
+Cash flows from financing activities:
+   Sale of secured savings certificates .$ 5,239,231     5,185,803    9,619,445
+   Borrowings on notes payable and line
+     of credit .......................... 15,086,352     7,458,524   26,601,001
+   Principal payments on:
+     Secured savings certificates ....... (6,405,059)   (8,055,474)  (6,025,511)
+     Notes payable and line of credit ...(11,672,644)   (7,687,316) (19,911,263)
+   Registration costs of secured savings
+     certificates .......................     (8,290)      (19,714)    (102,105)
+   Commissions paid to brokers on issuance
+     of secured savings certificates ....    (79,030)      (46,346)    (100,435)
+   Cash dividends paid .................. (2,382,517)   (2,172,294)  (2,102,221)
+                                           ---------     ---------    --------- 
+
+            Net cash provided (used) by
+               financing activities .....   (221,957)   (5,336,817)   7,978,911
+                                           ---------     ---------    ---------
+
+            Increase (decrease) in cash and
+               cash equivalents .........    (62,454)       54,263      130,948
+
+Cash and cash equivalents at beginning 
+ of year ................................    429,431       375,168      244,220
+                                             -------       -------      -------
+
+Cash and cash equivalents at end of year.  $ 366,977       429,431      375,168
+                                             =======       =======      =======
+
+Supplemental disclosure of cash flow information:
+
+Cash paid during the year for interest     $1,316,787    1,254,120    1,423,569
+                                            =========    =========    =========
+
+Income taxes paid were not material in 1995, 1994 and 1993.
+
+See accompanying notes to financial statements.
+
+                                      -17-
+<PAGE>
+                        CHURCH LOANS & INVESTMENTS TRUST
+                        (A Real Estate Investment Trust)
+
+                         Notes to Financial Statements
+
+                   Years ended March 31, 1995, 1994 and 1993
+
+(1)      SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+
+         GENERAL
+
+         Church  Loans &  Investments  Trust  (Church  Loans)  is a real  estate
+         investment  trust that invests  primarily in mortgage loans to churches
+         across the United States,  particularly in the southern  portion of the
+         U.S.  During 1995,  Church Loans also began making certain interim real
+         estate construction loans to entities other than churches. Church Loans
+         requires that real estate  properties be pledged against mortgage loans
+         as  security  which  could be  foreclosed  by Church  Loans  should the
+         borrower default. Repayment of each borrower's obligations is generally
+         expected to be repaid from contributions from church members, or in the
+         case of interim  construction loans, by permanent financing provided by
+         others.
+
+         CURRENT OPERATING ENVIRONMENT
+
+         Church  Loans  has  historically  invested  in  long-term,   fixed-rate
+         mortgage  loans,  generally  funded by  relatively  short-term  secured
+         savings  certificates  (SSCs) and debt  obligations.  The volatility of
+         interest rates and increased  competition to attract  customers'  funds
+         have caused Church Loans' liability  structure to become short-term and
+         rate sensitive. Church Loans reflected an average interest yield on its
+         loan and church bond portfolio,  an average  interest rate on its total
+         indebtedness and a net interest rate margin at March 31, 1995, 1994 and
+         1993 as follows:
+                                       Loan and church     Total    Net interest
+                                        bond portfolio indebtedness rate margin
+                                       --------------- ------------ ------------
+         March 31, 1995 ...................  10.94         8.02          2.92
+         March 31, 1994 ...................  10.46         6.25          4.21
+         March 31, 1993 ...................  11.05         7.14          3.91
+
+         Church Loans finances  maturities of SSCs and debt obligations  through
+         its  available  lines of credit,  the  issuance  of SSCs and  principal
+         payments received on its mortgage loans.
+
+         CHURCH BONDS
+
+         Church bonds, secured by first mortgage liens on church facilities, are
+         stated  at  cost,  as there  is no  traded  market  for the  bonds  and
+         management intends to hold such securities until maturity.
+
+         ALLOWANCE FOR POSSIBLE CREDIT LOSSES
+
+         The  allowance  for possible  credit  losses is  established  through a
+         provision  for possible  credit  losses  charged to expense.  Loans and
+         church bonds are charged against the allowance when management believes
+         that the collectibility of the principal is unlikely.
+
+         Recoveries  of  amounts  previously  charged  off are  credited  to the
+         allowance. The charge to operations is based on management's evaluation
+         of the loan and church bond  portfolio,  including  such factors as the
+         security  collateralizing  the loans or church bonds,  past credit loss
+         experience and general economic conditions.
+
+                                      -18-
+<PAGE>
+         RECOGNITION OF INTEREST  INCOME,  ORIGINATION  AND COMMITMENT  FEES AND
+         LOAN DISCOUNTS
+
+         Interest  income on mortgage loans and church bonds is recognized  when
+         earned.  The accrual of interest  income is generally  discontinued  on
+         mortgage  loans  and  church  bonds  more than 90 days past due or when
+         there is sufficient doubt as to the collection of interest.
+
+         Loan  origination  fees are collected only on a few permanent loans and
+         generally  recognized as income when received and the  associated  loan
+         origination  costs  are  expensed  when  incurred.  The  effect  on the
+         accompanying  financial  statements is not  materially  different  from
+         generally accepted accounting  principles which require that loan fees,
+         net of  origination  costs,  be deferred and  amortized  into  interest
+         income over the life of the related loan.
+
+         Commitment fees received on interim  construction  loans are recognized
+         over the interim  commitment  period for loans that are not permanently
+         financed  by Church  Loans and over the life of the  mortgage  loan for
+         loans that are permanently  financed by Church Loans. Amounts are being
+         amortized  using  the  straight-line   method.   This  method  was  not
+         materially different from the method of deferring commitment fees until
+         the commitment is exercised and recognizing  such fees as an adjustment
+         to yield  by the  interest  method  over the  related  loans'  lives as
+         prescribed by generally accepted accounting  principles for each of the
+         years in the three-year period ended March 31, 1995.
+
+         Purchase discounts on loans are amortized based on the interest method.
+
+         PROPERTY AND EQUIPMENT
+
+         Property  and   equipment   are  stated  at  cost,   less   accumulated
+         depreciation. Depreciation is provided on the straight-line method over
+         the  estimated  useful  lives of the  assets,  which range from 3 to 18
+         years.
+
+         UNAMORTIZED DEBT EXPENSE
+
+         Commissions paid to brokers (see note 2) in connection with the sale of
+         SSCs  are  deferred  and  amortized  over  the  terms  of  the  related
+         certificates on the interest method.  Costs incurred in connection with
+         the   registration   of  SSCs  are  deferred   and   amortized  on  the
+         straight-line method over the period the related certificates are sold,
+         but no longer  than two years  from the date the  registration  becomes
+         effective.
+
+         INCOME TAXES
+
+         In February  1992,  the  Financial  Accounting  Standards  Board (FASB)
+         issued Statement of Financial  Accounting Standards No. 109, Accounting
+         for Income  Taxes.  Statement  109  requires a change from the deferred
+         method of  accounting  for income  taxes of APB Opinion 11 to the asset
+         and liability  method of accounting  for income taxes.  Under the asset
+         and  liability  method  of  Statement  109,  deferred  tax  assets  and
+         liabilities are recognized for the future tax consequences attributable
+         to  differences  between the financial  statement  carrying  amounts of
+         existing  assets  and  liabilities  and  their  respective  tax  bases.
+         Deferred  tax assets and  liabilities  are measured  using  enacted tax
+         rates  expected to apply to taxable  income in the years in which those
+         temporary  differences  are expected to be recovered or settled.  Under
+         Statement  109, the effect on deferred tax assets and  liabilities of a
+         change in tax rates is recognized in income in the period that includes
+         the enactment date.
+
+         Pursuant to the deferred method under APB Opinion 11, which was applied
+         in 1993 and prior  years,  deferred  income taxes were  recognized  for
+         income and  expense  items that were  reported in  different  years for
+         financial reporting purposes and income tax purposes using the tax rate
+         applicable for the year of the calculation.  Under the deferred method,
+         deferred taxes were not adjusted for  subsequent  changes in tax rates.
+         Statement  109 was  adopted  effective  April 1, 1993 on a  prospective
+         basis and the effect of adoption was not  significant  to Church Loans'
+         financial statements.
+
+                                      -19-
+<PAGE>
+         CASH FLOWS
+
+         For purposes of reporting cash flows, cash and cash equivalents include
+         cash-on-hand, investment in a money market mutual fund and certificates
+         of  deposit  with  maturities  of less  than  90  days  at the  time of
+         acquisition.
+
+(2)      BROKER FEES
+
+         Church Loans had an agreement with Great Nation Investment  Corporation
+         (Great Nation)  whereby Great Nation used its best efforts to sell SSCs
+         registered  by Church Loans.  The agreement  provided that Church Loans
+         would pay Great Nation a commission on the basis of an annualized  rate
+         equal to  three-fourths  of one percent per annum of the face amount of
+         each certificate sold by Great Nation.  Effective July 18, 1994, Church
+         Loans  decided  not  to  register  and  is  presently  unable  to  sell
+         additional SSCs (see note 4).
+
+(3)      MORTGAGE AND INTERIM CONSTRUCTION LOANS
+
+         Mortgage loans receivable  consist of conventional loans of $26,604,107
+         and $28,564,372 and interest-bearing  church bonds due principally from
+         congregations of Churches of Christ of $957,455 and $1,034,580 at March
+         31,  1995  and  1994,  respectively.   Interim  construction  loans  of
+         $11,669,935  and  $7,035,506 at March 31, 1995 and 1994,  respectively,
+         consist  primarily of loans to churches for the  construction of church
+         facilities. Mortgage loans, church bonds and interim construction loans
+         are generally secured by first liens on real estate comprised primarily
+         of church buildings,  ministers'  residences and other real estate. The
+         amount of a loan is generally limited to 66-2/3% of the appraised value
+         of the related  property.  Certain  loans are  guaranteed by individual
+         members of the  congregations  or other  individuals or  congregations,
+         depending on the circumstances. The individual endorsements are usually
+         for a  specific  amount  with the sum of all such  guarantees  being an
+         amount at least equal to the loan amount.
+
+         Church  Loans'  portfolio  included  mortgage  loans,  church bonds and
+         interim  construction  loans with interest  rates ranging from 7.00% to
+         15.75% at March 31, 1995. The weighted average annual interest rates of
+         Church Loans' loan and church bond  portfolio were 10.94% and 10.46% at
+         March 31, 1995 and 1994,  respectively.  The  weighted  average  annual
+         interest rates for the loan and church bond  portfolios  were 11.0% for
+         the year  ended  March 31,  1995 and 11.2% for each of the years  ended
+         March 31, 1994 and 1993.
+                                      -20-
+<PAGE>
+         The following  schedule is a summary of the combined  mortgage,  church
+         bonds and interim construction loan portfolios by size of loan at March
+         31, 1995 and 1994:
+
+                                          1995                      1994
+                                   -----------------         -------------------
+                                   No. of  Carrying          No. of     Carrying
+   Description                     loans    amount            loans      amount
+   -----------                     -----    ------            -----      ------
+Over $1,500,000 ........             6   $10,663,047             4   $ 8,716,029
+$1,300,000-1,499,999 ...             2     2,748,334            --        --   
+$1,000,000-1,299,999 ...             1     1,251,964             1     1,283,454
+$900,000-999,999 .......             1       942,152             3     2,806,059
+$800,000-899,999 .......             2     1,665,971             2     1,655,977
+$700,000-799,999 .......             2     1,561,730             2     1,478,995
+$600,000-699,999 .......             2     1,258,067             1       692,478
+$500,000-599,999 .......             5     2,691,005             4     2,162,176
+$400,000-499,999 .......             3     1,335,956             5     2,262,770
+$300,000-399,999 .......             8     2,851,470             7     2,515,406
+$200,000-299,999 .......            19     4,593,451            21     4,626,660
+$100,000-199,999 .......            34     4,887,705            27     3,863,283
+Under $100,000 .........           109     4,090,472           167     5,945,646
+                           -----------   -----------   -----------   -----------
+                                   194    40,541,324           244    38,008,933
+                                   ===                         ===
+Less: unamortized purchase discounts
+      on mortgage loans                    1,309,827                   1,374,475
+Less: allowance for possible
+      credit losses                          645,049                     563,824
+                                             -------                     -------
+                                    $     38,586,448           $      36,070,634
+                                          ==========                  ==========
+
+                                      -21-
+<PAGE>
+         The  mortgage and interim  construction  loan  portfolios  included the
+         following loans at March 31, 1995,  with individual  balances in excess
+         of 3% of the total carrying amount of the combined portfolios:
+
+Arlington Baptist Church, Baltimore, Maryland; interest at
+    11.25%; monthly payments of $24,265 to maturity on
+    September 1, 2017 ............................................    $2,379,883
+The Living Word Church, Middletown, Ohio; interest at 9.75%;
+    monthly payments of $40,256 to maturity on May 1, 2009 .......     1,803,168
+Great Plains Assisted  Living,  LLC, Olathe,  Kansas;  interest at
+    prime + 2% (11.00% at March 31, 1995); principal and
+    interest due at maturity on May 2, 1995 .......................    1,736,815
+First United Pentecostal Church of Arnold, Arnold, Maryland;
+    interest at 11.00%; monthly payments of $16,225 to
+    maturity on September 1, 2020 .................................    1,657,707
+New Jerusalem Church, Lansing, Michigan; interest at prime + 2%
+    (11.00% at March 31, 1995); monthly payments of $17,686 to
+    maturity on December 1, 1995 ..................................    1,564,496
+St. Stevens Church of God in Christ, San Diego, California; interest
+    at  prime + 2%  (11.0%  at  March  31,  1995);  principal  and
+    interest  due at maturity on October  25,  1994  (included  in
+    nonearning assets
+    at March 31, 1995) .............................................   1,520,977
+Sedona Assisted Living, LLC, San Antonio, Texas; interest at
+    prime + 2% (11.00% at March 31, 1995); principal and interest
+    due at maturity on June 1, 1995 ................................   1,382,710
+Duncanville Church of Christ, Duncanville, Texas; interest at 8.25%;
+    monthly payments of $27,000 to maturity on February 1, 1998 ....   1,365,624
+Sterling Partners, LLC, Ponca City, Oklahoma; interest at prime +
+    2% (11.00% at March 31, 1995); principal and interest due at
+    maturity on August 1, 1995 .....................................   1,251,964
+                                                                       ---------
+                                                                 $    14,663,344
+                                                                      ==========
+                                      -22-
+<PAGE>
+
+         In the normal  course of business,  Church Loans makes  commitments  to
+         extend  credit  which are not  reflected in the  financial  statements.
+         These commitments  involve elements of credit risk, interest rate risk,
+         liquidity  risk and market risk.  At March 31,  1995,  Church Loans had
+         outstanding  loan  commitments (by contract  amounts) of  approximately
+         $1,824,000.  Church  Loans  has no  other  financial  instruments  with
+         off-balance sheet risk.
+
+         Nonaccrual mortgage loans, church bonds and interim  construction loans
+         at March  31,  1995,  1994 and 1993  were  $3,405,793,  $1,519,340  and
+         $1,641,561,   respectively.  Interest  income  which  would  have  been
+         recorded under the original terms of nonaccrual  loans and church bonds
+         amounted to  $282,551,  $171,367 and $186,266 for the years ended March
+         31, 1995, 1994 and 1993, respectively.  No interest income was actually
+         recognized.
+
+         The  original  terms  of the  individual  loans  included  in the  loan
+         portfolio  generally  vary  from 1 to 30  years.  Scheduled  maturities
+         during the five years subsequent to March 31, 1995, are:
+
+              1996                                          $      16,618,243
+              1997                                                  2,546,974
+              1998                                                  2,376,248
+              1999                                                  2,160,259
+              2000                                                  1,516,973
+                                                                    =========
+
+         At March 31, 1995, mortgage loans were pledged to support  indebtedness
+         of Church Loans as follows:
+
+              Term notes  payable to banks and
+                  line of credit payable to bank             $      14,452,698
+              Secured savings certificates                           9,676,303
+                                                                     ---------
+                  Total mortgage loans pledged               $      24,129,001
+                                                                    ==========
+
+         A summary of  transactions  in the allowance for possible credit losses
+         for the years ended March 31, 1995, 1994 and 1993 follows:
+                                               1995         1994          1993
+                                               ----         ----          ----
+Balance at beginning of year ..........     $563,824      478,345       338,373
+Provisions charged to operating
+  expenses ............................       80,000       90,000       157,500
+Amounts recovered (charged off) .......        1,225       (4,521)      (17,528)
+                                            --------     --------      --------
+Balance at end of year ................     $645,049      563,824       478,345
+                                            ========     ========      ========
+
+         In  May  1993,  the  FASB  issued  Statement  of  Financial  Accounting
+         Standards No. 114,  Accounting  by Creditors for  Impairment of a Loan.
+         This Statement  amends FASB Nos. 5, Accounting for  Contingencies,  and
+         15,   Accounting   by  Debtors  and   Creditors   for   Troubled   Debt
+         Restructurings,  and  prescribes  the  recognition  criterion  for loan
+         impairment and the measurement  methods for certain  impaired loans and
+         loans whose terms are  modified in  troubled-debt  restructurings.  The
+         objective of  Statement  114 is to provide  consistent  guidance to all
+         creditors with loans included in the scope of the Statement.  Statement
+         114 is effective for financial  statements  for fiscal years  beginning
+         after December 15, 1994 and is required to be adopted prospectively. In
+         October  1994,  the  FASB  issued  Statement  No.  118,  Accounting  by
+         Creditors  for   Impairment  of  a  Loan  -  Income   Recognition   and
+         Disclosures.  Statement  No.  118 amends  Statement  No. 114 to allow a
+         creditor to use existing methods for recognizing  interest income on an
+         impaired loan and amends certain disclosure requirements.  The adoption
+         of  Statements  No.  114 and No.  118 on April  1,  1995 did not have a
+         material effect on Church Loans financial statements.
+
+                                      -23-
+<PAGE>
+
+(4)      DEBT OBLIGATIONS
+
+         Information relating to debt obligations follows:
+<TABLE>
+<CAPTION>
+                                                                    Weighted average    Maximum amount     Average  Weighted average
+                                                        Balance at    interest rate     outstanding at    month-end   interest rate
+                                                      end of period at end of period    any month-end      balance   for the period
+                                                      ------------- ----------------    --------------    --------- ----------------
+<S>                                                     <C>               <C>            <C>                 <C>             <C>  
+March 31, 1995
+- --------------
+Term notes payable
+  to banks ......................................       $ 2,666,667       10.00%         $ 5,333,333         4,000,000       8.81%
+Line of credit payable
+  to bank .......................................         5,600,001        9.00%*          5,600,001         3,383,463       8.03%
+Other demand notes
+  payable .......................................         3,472,690        8.00%           3,472,690         2,060,075       7.50%
+                                                        -----------       =====          ===========       ===========       ====
+                                                         11,739,358
+Secured savings
+  certificates ..................................         6,783,731        6.45%         $10,629,662         8,592,445       6.24%
+                                                        -----------       =====          ===========       ===========       ====
+       Total ....................................       $18,523,089        8.02%         $20,368,990        18,035,982       7.29%
+                                                        ===========       =====          ===========       ===========       ====
+
+March 31, 1994
+- --------------
+Term notes payable
+  to banks ......................................       $ 5,333,333        7.25%         $ 7,777,778         6,666,666       7.12%
+Line of credit payable
+  to bank .......................................         1,000,001        6.25%*          2,000,001           580,770       6.01%
+Other demand notes
+  payable .......................................         1,992,316        6.65%           2,134,147         1,715,084       5.10%
+                                                        -----------       =====          ===========       ===========       ====
+                                                          8,325,650
+Secured savings
+  certificates ..................................         7,949,559        5.82%         $10,697,992         8,982,097       6.58%
+                                                        -----------       =====          ===========       ===========       ====
+       Total ....................................       $16,275,209        6.25%         $22,609,918        17,944,617       6.61%
+                                                        ===========       =====          ===========       ===========       ====
+
+March 31, 1993
+- --------------
+Term notes payable
+  to banks ......................................       $ 8,000,000        7.00%         $10,000,000         4,500,000       7.20%
+Line of credit payable
+  to bank .......................................                 1        6.00%*          7,000,000         1,348,846       6.26%
+Other demand notes
+  payable .......................................           554,441        6.87%           1,864,703           754,004       5.40%
+                                                        -----------       =====          ===========       ===========       ====
+                                                          8,554,442
+Secured savings
+  certificates ..................................        10,819,230        7.35%         $11,146,361         9,185,816       8.15%
+                                                        -----------       =====          ===========       ===========       ====
+       Total ....................................       $19,373,672        7.14%         $30,011,064        15,788,666       7.64%
+                                                        ===========       =====          ===========       ===========       ====
+<FN>
+* Does not consider commitment fees.
+</FN>
+</TABLE>
+         Maturities of debt for each of the three years  subsequent to March 31,
+         1995, are:
+
+                               1996   $14,322,712
+                               1997     2,915,377
+                               1998     1,285,000
+                                      -----------
+                                      $18,523,089
+                                      ===========
+         Included  in  maturities  for the year ended  March 31,  1996 are other
+         demand notes payable of $3,472,690.
+
+         All debt  obligations,  except  for other  demand  notes  payable,  are
+         secured by the pledge of specific  mortgage notes  receivable
+         (see note 3).
+
+                                      -24-
+<PAGE>
+         Maturities of SSCs and debt obligations are financed through  principal
+         payments  received on mortgage  loans,  advances on other  demand notes
+         payable  and  advances  on the  $10,000,000  line of  credit  which  is
+         expected to be renewed on an annual basis.
+
+         Descriptions of the various categories of debt obligations follow:
+
+         SECURED SAVINGS CERTIFICATES
+
+         SSCs are issued in amounts of $1,000 or more and have  single  maturity
+         dates from 30 days to 10 years from date of issue.  With  respect to an
+         individual  certificate,  interest  rate and  frequency  of  payment of
+         interest  (either  monthly,  quarterly,  semiannually,  annually  or at
+         maturity)  are fixed at the time of  issuance  of the  certificate.  As
+         discussed in note 2, effective July 18, 1994,  Church Loans decided not
+         to register and is presently unable to sell additional  SSCs.  However,
+         during  April  1995,  the Board of Trust  Managers  decided to register
+         additional SSCs in the summer of 1995.
+
+         The  certificates  are  secured  under the terms of an  indenture  that
+         requires,  among other things,  the pledge of mortgage notes receivable
+         with total unpaid principal amounts not less than 125% of the aggregate
+         principal  amount of SSCs  outstanding.  Due to the fluctuations in the
+         amount of sales of  certificates  as well as in the  repayment of notes
+         pledged to secure the certificates, Church Loans has on occasion failed
+         to  maintain  the  required  ratio  of  pledged  notes  to  outstanding
+         certificates  for a short period of time until the deficiency  could be
+         corrected.  The  indenture  trustee  has been aware of these  temporary
+         technical  defaults  of Church  Loans and has waived  declaration  of a
+         default  under the  Indenture.  As of March 31,  1995 and 1994,  Church
+         Loans was in compliance with the requirement.
+
+         TERM NOTES PAYABLE TO BANKS
+
+         Church  Loans  has two term  notes  payable  to banks  that each had an
+         original  principal  sum of  $5,000,000.  One  note has a term of three
+         years and is payable in monthly  installments  of  $138,889.  The other
+         note has a term of five years and is payable in monthly installments of
+         $83,333.
+
+         Both term notes payable to banks bear interest at prime plus 1% (10% at
+         March 31, 1995) and are  collateralized  by mortgage  loans  receivable
+         with carrying values equal to at least 120% of the aggregate  principal
+         amount of the outstanding notes,  subject to certain  limitations.  All
+         collateral is cross-pledged against the Line of Credit Payable to Bank.
+
+         The term notes are subject to loan agreements that require, among other
+         things,  that Church Loans' net worth not be less than  $18,000,000 and
+         its total indebtedness shall not exceed 150% of its net worth. At March
+         31,  1995,   Church  Loans'  total   indebtedness   was   approximately
+         $13,400,000 less than the maximum amount permitted under the agreement.
+
+         LINE OF CREDIT PAYABLE TO BANK
+
+         Line of credit  payable to bank  consists  of  borrowings  under a loan
+         agreement  effective  through  September 1, 1995,  that  provides for a
+         $10,000,000  line of credit with a  commitment  fee of 1/4% to 3/8% per
+         annum on the unadvanced  portion.  The loan agreement  requires  Church
+         Loans to pledge  mortgage  loans  receivable  having  unpaid  principal
+         balances  with an aggregate  present  value,  discounted at 1% over the
+         prime  rate  (10% at March  31,  1995),  of not less  than  110% of all
+         indebtedness   owed  to  the  bank.   Such   pledged   loans  are  also
+         cross-pledged against the Term Notes Payable to Banks. Interest accrues
+         at the prime rate and is payable semiannually.
+
+         The loan  agreement  contains  restrictions  similar  to  those  limits
+         contained in the loan agreements  relating to the Term Notes Payable to
+         Banks and also limits demand notes payable to $4,000,000 ($2,000,000 in
+         1994).
+
+         DEMAND NOTES PAYABLE
+
+         The demand notes  payable bear  interest at 1% less than the prime rate
+         (payable monthly) and are unsecured (see note 8).
+
+                                      -25-
+<PAGE>
+
+(5)      INCOME TAX PROVISION
+
+         Church Loans has elected to be taxed as a real estate  investment trust
+         under the provisions of the Internal Revenue Code. To qualify as a real
+         estate  investment trust under the Code, Church Loans must, among other
+         things,   distribute  at  least  95%  of  its  taxable  income  to  its
+         shareholders  through  dividends.  Church  Loans  is  required  to  pay
+         dividends of at least 85% of its calendar year undistributed  income by
+         February 1 or be subject to a special  federal  excise tax of 4% on the
+         undistributed amount.
+
+         As discussed in note 1, Church Loans adopted  Statement 109 as of April
+         1, 1993. The cumulative  effect of this change in accounting for income
+         taxes and the related  deferred  taxes were not  significant  to Church
+         Loans' financial statements.
+
+        Total income tax expense for the years ended March 31,  1995,  1994 and
+         1993 is less  than the  amount  computed  by  applying  the  applicable
+         statutory federal income tax rate (35% for 1995 and 1994, respectively,
+         and 34% for  1993) to  income  before  provision  for  income  taxes as
+         follows:
+<TABLE>
+<CAPTION>
+                                                     1995         1994         1993
+                                                     ----         ----         ----
+<S>                                              <C>            <C>          <C>    
+Computed "expected" federal income tax expense   $ 828,297      807,746      754,800
+Increases (decreases) in taxes resulting from:
+   Dividends .................................    (809,355)    (784,829)    (738,570)
+   Graduated rate differential ...............     (12,478)     (12,750)     (11,750)
+   Difference in provision for loan losses for
+     financial and tax purposes ..............     (70,690)     (22,582)     (20,410)
+   Difference in accounting for interest
+     recognized for financial and tax purposes      86,763       31,920       35,505
+                                                 ---------    ---------    ---------
+Actual tax expense ...........................   $  22,537       19,505       19,575
+                                                 =========    =========    =========
+</TABLE>
+
+(6)      NET INCOME PER SHARE
+
+         Net income per share of  beneficial  interest is based on the  weighted
+         average number of shares  outstanding,  which was 7,007,402 for each of
+         the years  ended  March 31,  1995,  1994 and 1993.  There were no share
+         equivalents or other potentially dilutive securities outstanding during
+         any of the periods presented.
+
+(7)      DIVIDENDS
+
+         All  dividends  paid by Church Loans are taxable as ordinary  income to
+         the  recipient.  A schedule  of  dividends  paid during the years ended
+         March 31, 1995, 1994 and 1993 follows:
+                                                           Divdend amount
+                                                       -------------------------
+  Date of record                        Date paid      Per share         Total
+  --------------                        ---------      ---------      ----------
+March 31, 1992                         May 1992           $ .07          490,518
+December 31, 1992                      January 1993         .23        1,611,703
+March 31, 1993                         May 1993             .08          560,592
+December 31, 1993                      January 1994         .23        1,611,702
+March 31, 1994                         May 1994             .09          630,667
+December 31, 1994                      January 1995         .25        1,751,850
+
+         In April 1995, a dividend of $560,592 ($.08 per share) was declared for
+         stockholders of record on March 31, 1995.
+
+                                      -26-
+<PAGE>
+
+(8)      RELATED PARTY TRANSACTIONS
+
+         Other demand notes  payable at March 31, 1995 and 1994  included  notes
+         totaling   $706,577  and  $364,155,   respectively,   which   represent
+         borrowings  from related  parties.  The notes bear  interest at 1% less
+         than the prime rate and are  unsecured.  Interest  expense  incurred on
+         related party other demand notes payable was not  significant for 1995,
+         1994 or 1993 (see note 4).
+
+         Secured  savings  certificates  at March  31,  1995  and  1994  include
+         certificates  totaling  $665,375  and  $834,000,   respectively,  which
+         represent liabilities to related parties.  Interest expense incurred on
+         savings  certificates  of related parties was not significant for 1995,
+         1994 or 1993 (see note 4).
+
+(9)      QUARTERLY OPERATING RESULTS (UNAUDITED)
+
+         The following  quarterly  operating results are unaudited,  but, in the
+         opinion of management,  include all  adjustments  (consisting of normal
+         recurring  accruals) necessary for a fair presentation of Church Loans'
+         operating results for the periods indicated:
+                                                  Quarter Ended
+                                  June 30  September 30  December 31   March 31
+                                  -------  ------------  -----------   --------
+Year ended March 31, 1995
+ Interest income and fees ..   $1,092,240    1,132,631    1,089,328    1,092,731
+ Debt expense ..............      315,023      367,250      357,845      378,969
+ Net interest income .......      777,217      765,381      731,483      713,762
+ Net income ................      623,903      637,656      590,371      492,096
+ Net income per share ......          .09          .09          .08          .07
+
+
+                                                  Quarter Ended
+                                  June 30  September 30  December 31   March 31
+                                  -------  ------------  -----------   --------
+Year ended March 31, 1994
+ Interest income and fees ..   $1,228,979    1,024,269    1,021,687    1,048,170
+ Debt expense ..............      390,425      350,936      308,740      308,419
+ Net interest income .......      838,554      673,333      712,947      739,751
+ Net income ................      652,662      527,230      572,809      535,641
+ Net income per share ......          .09          .08          .08          .08
+
+                                      -27-
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-16
+<SEQUENCE>3
+<DESCRIPTION>LETTER JUNE 28, 1995 FROM KPMG PEAT MARWICK LLP
+<TEXT>
+
+June 28, 1995
+
+Office of the Chief Accountant
+SECPS Letter Files
+Securities and Exchange Commission
+Mail Stop 9-5
+450 Fifth Street, N.W.
+Washington, D.C.  20549
+
+Dear Ladies and Gentlemen:
+
+We were previously  principal  accountants for Church Loans & Investments  Trust
+and,  under the date of May 5, 1995, we reported on the financial  statements of
+Church Loans & Investments Trust as of March 31, 1995 and 1994 and for the three
+year period ended March 31, 1995. On June 14, 1995 our  appointment as principal
+accountants  was  terminated.  We have read  Church  Loans &  Investments  Trust
+statements  included  under  Item 4 of its Form  8-K  dated  June  14,  1995 and
+included  under Item 4 of its Form 8-K/A dated June 28, 1995,  and we agree with
+such statements,  except that we are not in a position to agree or disagree with
+Church Loans & Investments Trust's statement that the change was approved by the
+Board of Trust Managers.
+
+                                              Very truly yours,
+
+                                          /s/ KPMG Peat Marwick LLP
+
+                                              Fort Worth, Texas
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-27
+<SEQUENCE>4
+<DESCRIPTION>FINANCIAL DATA SCHEDULE FOR FORM 10-KSB405
+<TEXT>
+
+<TABLE> <S> <C>
+
+<ARTICLE>                     5
+<LEGEND>
+
+         This schedule contains summary financial information extracted from the
+         company's  financial  statements as of and for the year ended March 31,
+         1995 and is qualified  in its  entirety by reference to such  financial
+         statements.
+</LEGEND>
+<PERIOD-TYPE>                                  YEAR
+<FISCAL-YEAR-END>                              MAR-31-1995
+<PERIOD-START>                                 APR-01-1994
+<PERIOD-END>                                   MAR-31-1995
+
+<CASH>                                            366,977
+<SECURITIES>                                            0
+<RECEIVABLES>                                  40,055,584
+<ALLOWANCES>                                      595,049
+<INVENTORY>                                             0
+<CURRENT-ASSETS>                                        0
+<PP&E>                                            658,342
+<DEPRECIATION>                                    413,707
+<TOTAL-ASSETS>                                 40,221,261
+
+<CURRENT-LIABILITIES>                                   0
+<BONDS>                                                 0
+<COMMON>                                       20,623,866
+
+<PREFERRED-MANDATORY>                                   0
+<PREFERRED>                                             0
+<OTHER-SE>                                        610,102
+<TOTAL-LIABILITY-AND-EQUITY>                   40,221,261
+
+<SALES>                                         4,419,094
+<TOTAL-REVENUES>                                4,419,094
+<CGS>                                                   0
+<TOTAL-COSTS>                                           0
+<OTHER-EXPENSES>                                  627,477
+<LOSS-PROVISION>                                   80,000
+<INTEREST-EXPENSE>                              1,345,054
+<INCOME-PRETAX>                                 2,366,563
+<INCOME-TAX>                                       22,537
+<INCOME-CONTINUING>                                     0
+<DISCONTINUED>                                          0
+<EXTRAORDINARY>                                         0
+<CHANGES>                                               0
+<NET-INCOME>                                    2,344,026
+
+<EPS-PRIMARY>                                         .33
+<EPS-DILUTED>                                         .33
+
+
+</TABLE>
+</TEXT>
+</DOCUMENT>
+</IMS-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

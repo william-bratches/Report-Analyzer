@@ -1,0 +1,487 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ MxKtcVOoeB4CCNTEUjEHl9NsS7ixXYpVB36T0+uSS+2nnUm7WXgmDQJnRu049ZVB
+ Gjkm5nhMvMiBByzJFrs2Xg==
+
+<SEC-DOCUMENT>0000020819-98-000017.txt : 19980420
+<SEC-HEADER>0000020819-98-000017.hdr.sgml : 19980420
+ACCESSION NUMBER:		0000020819-98-000017
+CONFORMED SUBMISSION TYPE:	10KSB
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	19971231
+FILED AS OF DATE:		19980417
+SROS:			NONE
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			CLARY CORP
+		CENTRAL INDEX KEY:			0000020819
+		STANDARD INDUSTRIAL CLASSIFICATION:	ELECTRICAL INDUSTRIAL APPARATUS [3620]
+		IRS NUMBER:				950630196
+		STATE OF INCORPORATION:			CA
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10KSB
+		SEC ACT:		
+		SEC FILE NUMBER:	001-03489
+		FILM NUMBER:		98595885
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1960 S WALKER AVE
+		CITY:			MONROVIA
+		STATE:			CA
+		ZIP:			91016
+		BUSINESS PHONE:		8183594486
+
+	MAIL ADDRESS:	
+		STREET 1:		1960 S WALKER AVENUE
+		CITY:			MONROVIA
+		STATE:			CA
+		ZIP:			91016
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>10KSB
+<SEQUENCE>1
+<TEXT>
+ 
+ 
+  
+  
+                          UNITED STATES  
+  
+               SECURITIES AND EXCHANGE COMMISSION  
+  
+                     Washington, D.C. 20549  
+  
+                            FORM 10-KSB  
+  
+  
+Annual  Report Pursuant to Section 13 or 15(d) of the   
+Securities Exchange Act of 1934  
+  
+For the Fiscal Year Ended   December 31, 1997  
+  
+Commission file Number     1-3489  
+  
+                   CLARY CORPORATION                  
+(Exact name of Registrant as specified in its charter.)  
+  
+    CALIFORNIA, U.S.A.                    95-0630196     
+(State or other jurisdiction of        (I.R.S. Employer  
+incorporation or organization)        Identification No.)    
+  
+1960 S WALKER AVE. MONROVIA CA, U.S.A.        91016       
+(Address of Principal Executive Offices)   (Zip Code)         
+  
+Registrant's telephone number, including area code:  
+(626) 359-4486  
+
+Securities registered pursuant to Section 12 (g) of the Act:    
+                        NONE
+
+Indicate by check mark whether the Registrant (1) has filed
+all reports required to be filed by Section 13 or 15(d) of the 
+Securities Exchange Act of 1934 during the preceding 12 months 
+(or for such shorter period that the Registrant was required to 
+file such reports), and (2) has been subject to such filing 
+requirements for the past 90 days.  
+  
+  
+                         YES [X]        NO [ ]  
+  
+Check if there is no disclosure of delinquent filers in response to item 405
+of Regulation S-B is not contained in this form, and no disclosure will be 
+contained, to the best of Registrant's knowledge in definite proxy or informa
+tion statements incorporated by reference to part III of this Form 10-KSB or
+any amendment to this Form 10-KSB.   [X]   
+                                     
+Issuer's revenues for its most fiscal year were $4,657,000                    
+
+The aggregate market value of the voting stock held by non-affiliates of the
+Registrant as of March 16, 1998 amounted to $760,000.                          
+
+The Registrant had 1,807,319 shares of common stock outstanding as of March
+16, 1998.
+
+
+LISTING OF DOCUMENTS INCORPORATED BY REFERENCE:
+- ----------------------------------------------
+
+(1) Part II-Items 5, 6, 7 and 8 - Annual Report to Shareholders for fiscal year 
+    ended December 31, 1997.
+
+(2) Part III - Items 10-11, 12 and 13. Definitive proxy statement for the 1997
+    Annual Meeting of Shareholders to be filed pursuant to Regulation 14A
+    within 120 days after the close of the fiscal year ended December 31, 1997.
+
+
+
+Item 1:
+
+Business
+- ----------------
+The Registrant's operations are presently conducted through its Continuous Power
+Systems located in Monrovia, California. The product presently being produced
+consist of a line of uninterruptible power supplies (U.P.S.) ranging in size
+from 500VA to 37.5 kVA. The U.P.S is a power system that can both smooth out
+voltage fluctuations and maintain a power load under power blackout conditions. 
+U.P.S.'s are designed to provide fifteen minutes or more (depending on the
+number of batteries) of support power to computers, scientific products, commu
+nication systems, or similar equipment should the utility power fail, While the
+utility power is available, the U.P.S. provides isolation from voltage or fre-
+quency transients which may disturb the systems operation. 
+
+The Registrant markets the U.P.S line through trade publication, tradeshows and
+telemarketing. However, sales are generally made by the Registrant through
+distributors who sell the products to end-users. For the year ended 1997, Nova
+Power Systems, a major distributor through its direct and indirect sales  
+accounted for approximately thirty-eight percent of the Registrant's total sales
+
+The Registrant assembles finished components and other materials to produce its
+products. Relatively little fabrication or raw materials is done by the Regis-
+trant. The Registrant purchases raw materials and finished components used in
+production of the Registrant's products, some of which are imported. Thus, the
+Registrant is dependent upon ability of suppliers to meet performance speci-
+fication, quality standards and delivery schedules. The Registrant endeavors
+to assure availability of source of supplies and does not anticipate any 
+shortages which would adversely affect production schedules.
+
+Competition:
+- -----------
+The markets for the Registrant's products are highly competitive. The Registrant
+is aware of approximately thirty competitors for online UPS products. Many of
+these companies have far greater financial resources than the Registrant.
+The Registrant competes primarily on the basis of the quality, reliability and
+technical sophistication of its products, although price remains an important
+factor. The Registrant attempts to locate niche markets for UPS products where
+greater reliablity is required by customers.
+
+Substantially, all of the Registrant's products are the subject of on-going 
+modification and improvement and are subject to scientific and technological
+changes.
+
+
+Backlog
+- -------
+The following table sets forth the amounts representing orders believed by the
+Registrant to be firm. The backlog at December 31, 1997 represent orders which
+the Registrant expects to deliver during 1998. There are no seasonal effects
+on orders.
+
+<TABLE>
+                     FIRM BACKLOG AS OF DECEMBER 31,
+                     ------------------------------
+                     1997                      1996
+                    ------                    -------
+<S>                 <C>                        <C>
+Backlog            $232,667                   $78,860
+                   ========                   ========
+
+
+Other:
+- ------
+As of December 31, 1997, the Registrant employed 32 people, all of which are
+full-time employees.
+
+Other required information to the Registrant's description of business
+operations and its general development is incorporated herein by reference 
+to pages 1 through 3 in the Registrant's 1997 Annual Report to Shareholders
+and the Registrant's financial statements contained therein, each incorporated
+by reference in this report.
+
+<PAGE>
+
+</TABLE>
+<TABLE>
+
+Item 2.
+- -------
+     Properties                Sq. Feet Leased     Annual Rental    Term Date
+     ----------                ---------------     -------------    ---------
+<S>    <C>                        <C>                   <C>            <C>
+    Home Office and Continuous    26,000              $110,000       05/31/98
+    Power Systems Division        ========            =========      =========
+    Monrovia, California
+
+During fiscal year 1997 properties were utilized at approximately 60% of 
+capacity.
+
+The Registrant believes its properties are suitable for its needs and in late
+1997 began negotiations with its landlord for a minimum two year extension on
+its current lease with no increase in rental rates.
+
+<PAGE>
+
+Item 3: Legal Proceedings
+- -------------------------
+In 1990, the Company entered into a verbal distribution agreement granting a 
+distributor the non-exclusive right to distribute certain products of its former
+CAD Division. In 1991, the Company filed suit to recover the uncollected balance
+of its receivables due from the distributor. The distributor filed a countersuit
+alleging misrepresentation. On May 24, 1993, the jury awarded the distributor
+net damages of approximately $264,000 including double damages, legal costs and
+interest. In November 1993, the Company filed an appeal against this judgment
+and provided a supersedeas bond secured by $300,000 certificate of deposit.
+On November 8, 1994, the Court of Appeals issued on order reversing the trial
+courts judgment against the Company. On January 23, 1995, the distributor filed
+an Application for Writ of Error with the Supreme Court of Texas.
+On July 7,1995, the Supreme Court of Texas ordered the judgment of the Court of
+Appeals be reversed and the cause be remanded back to that court for further
+proceedings. On July 20, 1995, the Company filed a Motion for Rehearing with the
+Supreme Court. On May 6, 1996, The Supreme Court remanded the case to the Court
+of Appeals for consideration on the merits aside from the previous issues 
+submitted to them. On July 3, 1997, the Court of Appeals rendered a judgment on 
+Remand reversing, remanding, rendering and affirming, in part, the judgment of
+the original trial court. Essentially, the Court of Appeals reduced the net
+damages to approximately 20% of the original award. The distributor filed for a
+hearing the Supreme Court of Texas on the Appeal Court judgment. On February 13,
+1998. the Supreme Court of Texas denied the petition for review in this case
+leaving intact the decision by the Court of Appeals. At this time, it is unknown
+if the distributor will file for Motion for Rehearing. Management has estimated
+a range of amounts for the potential loss, including legal costs, relating to
+this matter and an amount considered by management to be the probable loss was
+provided for in the Statement of Operations for 1993 as loss from discontinued
+operations. After the Supreme Court ordered the judgment of the Court of Appeals
+be reversed, the company established additional reserves in 1996. An unfavorable
+resolution of this matter to the company could result in an additional lia-
+bility of approximately $150,000 which has not been reflected in financial
+statements.
+
+<PAGE>
+
+                                PART II
+                               ---------
+                                                                  ANNUAL REPORT
+                                                                     PAGES
+                                                                 --------------
+Item 4:
+- -------
+Submission Matters to a vote of Security Holders - NOT APPLICABLE
+
+
+Item 5:
+- -------
+Market for Registrant's Common Equity and Related Shareholder
+Matters.                                                                  10
+
+Item 6:
+- -------
+Selected Financial Data                                                   11 
+
+Item 7:
+- -------
+Management's Discussion and Analysis of Financial Conditions and
+Results of Operations.                                                     3
+
+Item 8:
+- -------
+Financial Statements and Supplemental Data                            4,5,6
+
+On above items 5 through 8 reference is made to the Registrant's
+Annual Report to Shareholders for the year ended December 31,1997
+incorporated by reference in this report.
+
+Item 9:
+- -------
+Disagreements on Accounting and Financial Disclosure - NONE
+
+<PAGE>
+
+                             PART III
+                             --------
+                                                                   PROXY PAGES
+                                                                   ------------
+
+Item 10:
+- --------
+Directors and Executive Officers of the Registrant                     3-4
+
+The Directors and Executive Officers are incorporated by reference
+to information contained in Registrant's Proxy Statement to be 
+filed wirh the commission pursuant to Regulation 14A.
+
+Item 11:
+- --------
+Management Remuneration and Transactions                                 5
+
+Item 12:
+- --------
+Security Ownership of Certain Beneficial Owners and Management           3
+
+Item 13:
+- --------
+Certain Relationships and Related Transactions                           4-5
+
+Items 10 through 13 are incorporated by reference to information
+in the Registrant's proxy statement to be filed with the Commission
+pursuant to regulation 14A.
+
+<PAGE>
+
+                             PART IV
+                             -------
+
+Item 14: Exhibits, Financial Statement Schedules and Reports on Form 8-K
+- -------
+
+(a)  (1) Financial Statements                                   Annual Report
+         --------------------                                       Pages
+                                                                -------------
+
+The following financial statements are included in the 
+Registrant's Annual Report to Shareholders for the year
+ended December 31, 1997 (incorporated by reference in 
+this report):
+
+
+REPORT OF INDEPENDENT CERTIFIED PUBLIC ACCOUNTANTS                  10
+
+STATEMENTS OF OPERATIONS FOR THE YEARS ENDED DECEMBER
+31, 1997, 1996 AND 1995                                              4
+
+BALANCE SHEETS FOR THE YEARS ENDED DECEMBER 31, 1997
+AND 1996                                                             5
+
+STATEMENTS OF STOCKHOLDERS' EQUITY FOR THE THREE YEARS
+ENDED DECEMBER 31, 1997                                              7
+
+STATEMENTS OF CASH FLOWS FOR THE YEARS ENDED DECEMBER
+31, 1997, 1996 AND 1995                                              6
+
+NOTES TO THE FINANCIAL STATEMENTS                                   7-10
+
+     (2) Report of Independent Certified Public Accountants on Schedules
+         ----------------------------------------------------------
+
+The following schedules are included in this report:
+
+   II- Valuation Accounts and Reserves - 1997 and 1996
+
+   Schedules other than those listed above are omitted as not applicable,
+   not required or the information is included in the financial statements
+   or notes thereto.
+
+    (3) Exhibits
+        --------
+        3.1) Articles of incorporation with all amendments to date
+             (incorporated by reference from Registrant's Annual 
+             Report with Form 10K for the year ended December 31,
+             1992).
+
+        3.2) Bylaws of the Registrant (incorporated by reference from
+             Registrant's Annual Report with Form 10K for the year ended
+             December 31, 1992).
+
+        4.1) 9.5% Convertible Subordinated Note Agreement (incorporated by
+             reference from Registrant's Annual Report with Form 10K for 
+             the year ended December 31, 1992).  See Exhibit 3.1.
+
+      10.1) Credit Agreement between Clary Corporation and First American 
+            Bank (incorporated with Form 10K for the year ended December
+            31, 1995)
+
+      10.3) 1984 Stock Option Plan (incorporated by reference form Registrant's
+            Annual Report with Form 10K for the year ended December 31, 1992)
+
+      10.4) 1996 Stock Option Plan (incorporated with Form 10KSB for the year 
+            ended December 31, 1996).
+
+      13.1) Annual Report to Shareholders for the year ended December 31, 1997
+            (incorporated by reference in this report).
+
+
+         
+(b) Reports on Form 8-K - NONE
+
+<PAGE> 
+
+</TABLE>
+<TABLE>
+                      CLARY CORPORATION
+            SCHEDULE II - VALUATION ACCOUNTS AND RESERVES
+                YEARS ENDED DECEMBER 31, 1997 AND 1996
+
+                      BALANCE AT     ADDITIONAL                    BALANCE
+                      BEGINNING      CHARGED TO                   AT END OF
+     DESCRIPTION      OF PERIOD     COST & EXPNS.    DEDUCTIONS     PERIOD
+     -----------      ----------    -------------    ----------  -----------
+<S>                    <C>                <C>            <C>             <C>
+
+Year ended 12/31/97
+
+Allowance for doubtful
+accounts and inventory
+reserves              $40,000         $30,000          $36,000      $34,000
+                      =======         =======          =======      =======
+
+Year ended 12/31/96
+
+Allowance for doubtful
+accounts and inventory
+reserves              $37,000          $37,000          $34,000      $40,000
+                      =======          =======          =======      =======
+
+  
+ 
+  
+<PAGE>  
+  
+  
+                        CLARY CORPORATION 
+  
+                           SIGNATURES  
+
+  
+Pursuant to the requirements of Section 13 or 15(d) of the Securities Exchange
+Act of 1934, the Registrant has duly caused this report to be signed on its 
+behalf by the undersigned, thereunto duly authorized.  
+  
+  
+  
+  
+                                   CLARY CORPORATION              
+                                  
+
+                                  By: D.G Ash
+                                      Treasurer 
+  
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, this report
+has been signed below by the following persons on behalf of the Registrant and
+in the capacities and on the dates indicated.
+
+  
+Date:  MARCH 18, 1998                                  
+                                   John G. Clary                  
+                                   President and Chief Executive Officer  
+  
+                    Directors:
+
+                         
+Date:  MARCH 18, 1998                               
+                                   Donald G. Ash                
+                                   Treasurer and Chief Financial Officer  
+  
+Date:  MARCH 18, 1998
+                                   John G. Clary
+
+Date:  MARCH 18, 1998
+                                   John P. Clary
+
+Date:  MARCH 18, 1998
+                                   John J.  Guerin
+            
+  
+
+</TABLE>
+</TEXT> 
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

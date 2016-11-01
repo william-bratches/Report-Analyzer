@@ -1,0 +1,3432 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ BUDGBrUJJoSs4IEDzL2yhU1htT3EE6ZTmADUYC1uBRHPuvifEBvvs5EwQoBPb9H+
+ w3u4hRQAl+x6jZHoL72wCw==
+
+<SEC-DOCUMENT>0000016590-07-000002.txt : 20070330
+<SEC-HEADER>0000016590-07-000002.hdr.sgml : 20070330
+<ACCEPTANCE-DATETIME>20070330141611
+ACCESSION NUMBER:		0000016590-07-000002
+CONFORMED SUBMISSION TYPE:	10KSB
+PUBLIC DOCUMENT COUNT:		5
+CONFORMED PERIOD OF REPORT:	20061231
+FILED AS OF DATE:		20070330
+DATE AS OF CHANGE:		20070330
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			CAMBEX CORP
+		CENTRAL INDEX KEY:			0000016590
+		STANDARD INDUSTRIAL CLASSIFICATION:	COMPUTER STORAGE DEVICES [3572]
+		IRS NUMBER:				042442959
+		STATE OF INCORPORATION:			MA
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10KSB
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-06933
+		FILM NUMBER:		07731658
+
+	BUSINESS ADDRESS:	
+		STREET 1:		115 FLANDERS ROAD
+		CITY:			WESTBOROUGH
+		STATE:			MA
+		ZIP:			01581
+		BUSINESS PHONE:		508-983-1200
+
+	MAIL ADDRESS:	
+		STREET 1:		115 FLANDERS ROAD
+		STREET 2:		.
+		CITY:			WESTBOROUGH
+		STATE:			MA
+		ZIP:			01581
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	CAMBRIDGE MEMORIES INC
+		DATE OF NAME CHANGE:	19801204
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>10KSB
+<SEQUENCE>1
+<FILENAME>doc10ksb.txt
+<TEXT>
+                    U.S. SECURITIES AND EXCHANGE COMMISSION
+                           Washington, D.C.  20549
+
+
+                                  FORM 10-KSB
+
+
+(Mark One)
+
+[  X  ]ANNUAL REPORT UNDER SECTION 13 OR 15(d) OF THE
+       SECURITIES EXCHANGE ACT OF 1934
+
+             For the fiscal year ended December 31, 2006
+
+OR
+
+[      ]TRANSITION  REPORT  UNDER SECTION  13  OR  15(d)  OF
+        THE SECURITIES EXCHANGE ACT OF 1934
+
+             For the transition period       to
+
+             Commission file number 0-6933
+
+                              CAMBEX CORPORATION
+             (Name of small business issuer in its charter)
+
+
+Massachusetts                                    04 244 2959
+(State or other                                  (I.R.S. Employer
+jurisdiction of                                  Identification No.)
+incorporation or
+organization)
+
+115 Flanders Road                                01581
+Westborough, Massachusetts                       (Zip Code)
+(Address of principal
+executive offices)
+
+Issuer's telephone number:  508-983-1200
+
+Securities registered under Section 12(b) of the Exchange Act:  None
+
+Securities registered under Section 12(g) of the Exchange Act:
+Common Stock, $.10 par value
+
+Check whether the issuer (1) filed all reports required to be filed by
+Section 13 or 15(d) of the Exchange Act during the past 12 months (or for
+such shorter period that the registrant was required to file such reports),
+and (2) has been subject to such filing requirements for the past 90 days.
+Yes  _X   No __
+
+Check if there is no disclosure of delinquent filers in response to Item 405
+of Regulation S-B contained in this form, and no disclosure will be
+contained, to the best of registrant's knowledge, in definitive proxy or
+information statements incorporated by reference in Part III of this Form 10-
+KSB or any amendment to this Form 10-KSB.   [ X   ]
+
+State issuer's revenues for its most recent fiscal year. $2,345,067
+
+An Exhibit Index setting forth the exhibits filed herewith or incorporated by
+reference herein is included herein at Page A-1.
+
+<PAGE>
+
+Indicate by check mark whether the registrant is a shell company (as defined
+in Rule 12b-2 of the Exchange Act).     Yes ___       No  _X
+
+The aggregate market value of the voting stock held by non-affiliates of
+Cambex Corporation as of March 22, 2007 was $2,625,038 based on the closing
+price of the common stock on that date.
+
+The number of shares of Cambex Corporation's preferred stock outstanding as
+of March 22, 2007:  84,701.
+
+The number of shares of Cambex Corporation's common stock outstanding as of
+March 22, 2007: 23,429,278.
+
+
+2
+<PAGE>
+
+
+                                    PART I
+
+                              Item 1.  Business.
+
+Overview
+
+A Massachusetts corporation, we are a designer and supplier of data storage
+products and solutions. Our products include memory for computing systems and
+fibre channel connectivity and storage products used to build storage area
+networks (SANs).
+
+We design, manufacture, and market memory products that enhance the
+performance and reliability of computing systems and networking devices.  We
+have been selling memory products to our customers since 1970.  A processor's
+memory is used to hold temporary instructions and data needed to execute
+tasks.  This enables the computer's CPU to access instructions and data
+quickly.  After upgrading a processor's memory, the computer will process
+data faster, because it will need to access its slower secondary storage
+(i.e., the disk drive) less frequently.  We provide memory upgrade solutions
+for all of the major servers and workstations manufactured by IBM, Sun and
+Hewlett-Packard.  Adding additional memory is both application transparent
+and the most cost-effective solution for eliminating many system performance
+bottlenecks.
+
+We began developing our current fibre channel SAN product business in 1997.
+SANs enhance and simplify the centralized management and sharing of data
+storage resources while providing improved availability, scalability,
+performance, and disaster recovery. SANs have been enabled by the emergence
+of fibre channel, a new generation of server to storage communications
+technology. We develop and offer fibre channel host bus adapters and hubs,
+high availability software, fibre channel disk storage arrays and management
+software for the deployment of SAN solutions.  By reselling fibre channel
+hardware and software products from leading manufacturers, together with our
+internally developed products, we are able to offer customers a complete
+interoperable SAN solution.
+
+Founded in 1968, we have more than 35 years experience in providing
+electronic data storage products and solutions.  For more than 30 years we
+were a supplier of IBM compatible mainframe computer memory having supplied
+memory and related products for seven generations of IBM mainframe computers.
+In 1997, in order to diversify our revenue stream as the mainframe memory
+market collapsed in the mid-1990s, we entered the fibre channel connectivity
+and disk array business.
+
+We sell our products domestically and internationally directly to end users
+and through OEM, systems integrator, and value added reseller (VAR) channels.
+We sell our memory products directly to end users and through VARs.  Our SAN
+products are sold through OEM, systems integrator and VAR channels and to a
+limited extent directly to end users.
+
+Our executive offices are located at 115 Flanders Road, Westborough,
+Massachusetts 01581.  Our telephone number is (508) 983-1200.  Our Web site
+is located at http://www.cambex.com.
+
+3
+<PAGE>
+
+                             Industry Background
+
+In today's information-based economy, a company's information and
+databases are central to the value of the enterprise. The volume of business-
+critical data generated, processed, and stored has grown dramatically over
+the last decade.  As a result, the ability to quickly access and manage large
+amounts of stored data is one of the most important challenges for
+organizations.
+
+Memory
+
+A computer typically accesses stored data from its own internal memory,
+internal hard disk drive, or external storage device such as a disk storage
+array or tape library.  Memory provides the best performance, but is also the
+most expensive per storage unit (megabyte).  Data retrieval from memory is
+more than 1000 times faster than retrieval from a disk drive.  As CPU
+processing power is doubling every 18 months, data retrieval from disk
+storage is increasingly becoming a performance bottleneck.  As a result,
+applications and users spend much of their time waiting for the retrieval of
+data resulting in lowered productivity.  Recognizing the performance
+limitations of disk-based storage, the major server vendors have
+rearchitected their systems and processors to allow more data to be stored
+and accessed directly from memory. High-end servers from the major vendors
+(IBM, Sun Microsystems, Hewlett-Packard) now support more than 512 gigabytes
+of internal main memory.  The need for fast data access, new servers with
+large memory capacities, and the decrease in memory prices is driving demand
+for memory upgrades.
+
+Memory upgrades for high volume computing systems and devices are typically
+packaged as memory modules which conform to standards defining dimensions,
+capacity, performance, interface and pin-out. We offer a broad range of
+standard memory upgrades, including single in-line memory modules ("SIMMs"),
+dual in-line memory modules ("DIMMs") and small outline DIMMs ("SO DIMMs").
+Memory modules are compact circuit board assemblies consisting of dynamic
+random access memory ("DRAM") chips, which constitute the main memory of a
+computer system.
+
+Unlike memory for high volume computing systems, memory upgrades for high-end
+servers and mainframes typically involve proprietary designs.  At the high-
+end, vendors focus on maximizing the performance, reliability, and diagnostic
+capabilities of the unique processor-to-memory architecture of their flagship
+products.  This often results in proprietary memory module designs
+incorporating custom logic to support very high-speed memory bus protocols,
+error detection and correction, and self-test capabilities.
+
+Memory upgrades for computing systems and networking devices are available
+from the original equipment manufacturer as well as from third party memory
+vendors. In addition to competing with each other, third party vendors
+primarily compete with the original equipment manufacturers by providing
+fully compatible memory at a much lower price.
+
+Storage Area Networks
+
+Large quantities of business critical data are typically stored on external
+disk storage arrays. These disk arrays are either directly attached to the
+computer server or are accessed through a network connection. Due to the
+significant volume of data being stored in today's business environment,
+traditional direct attached and network attached architectures often do not
+adequately support the requirements of data-intensive enterprises. In
+response to the demand for high-speed and high-reliability storage-to-server
+connectivity, the fibre channel interconnect protocol was developed in the
+early 1990s.
+
+4
+<PAGE>
+
+A storage area network is a network of servers and data storage devices
+interconnected via fibre channel at gigabit speeds. SANs provide an open,
+extensible platform for storage access in data intensive environments like
+those used for web hosting, online transaction processing and data
+warehousing. Equally important, SANs can be significantly less expensive to
+maintain and expand than traditional storage architectures because they
+enable shared, high-speed access to stored data as well as centralized
+management.
+
+SANs use several basic components to make up the network, including the
+following:
+
+	servers and workstations;
+	fibre channel host bus adapters;
+	fibre channel hubs and/or switches;
+	disk and/or tape storage devices;
+	copper or fiber optic cables; and
+	management software.
+
+All the components must work together to deliver a functional SAN
+environment.
+
+Each server connects to a SAN through host bus adapters, which are printed
+circuit cards that fit in standard sockets on computer motherboards and
+enable high-speed data transfer. A host bus adapter connects the server to
+other devices in a SAN via cables. The cables connect the host bus adapter
+either directly to a fibre channel disk array or tape library or to a hub or
+a switch. Because fibre channel host bus adapter functions are regulated by
+software, each host bus adapter must include software designed to work with
+the particular operating system being used by the server/storage solution.
+These systems typically include all types of UNIX as well as Linux and
+Windows based operating systems.
+
+Hubs and switches are devices that direct the flow of data from one computing
+device to another. When connecting multiple servers to one or more storage
+devices, a hub or switch is used to create a fibre channel network. Hubs and
+switches simplify cabling and allow the non-disruptive addition or removal of
+servers or storage devices from the storage area network.
+
+                               Our Products
+
+Memory Products
+
+We offer a wide range of memory for the add-in memory market. Our add-in
+memory is used to upgrade workstations, servers, mainframes, printers,
+routers, and other high volume computing and networking products. Our memory
+is packaged as memory modules which conform to standards defining dimensions,
+capacity, performance, interface and pin-out.  We offer a broad range of
+standard memory upgrades, including single in-line memory modules ("SIMMs"),
+dual in-line memory modules ("DIMMs") and small outline DIMMs ("SO DIMMs").
+Memory modules are compact circuit board assemblies consisting of dynamic
+random access memory ("DRAM") chips, which constitute the main memory of a
+computer system.
+
+We provide memory upgrade solutions for most of the major servers and
+workstations manufactured by IBM, Sun and Hewlett-Packard.  We also sell
+memory upgrades for laser printers and Cisco routers.  Our memory products
+are designed to the same exacting specifications as original system memory
+and in most cases are identical in fit, form and function.
+
+5
+<PAGE>
+
+Fibre Channel SAN Products
+
+We are a developer, manufacturer and reseller of fibre channel products that
+enable users to deploy SANs. We have developed a family of host bus adapters,
+hubs and software that provide increased bandwidth and availability when
+deploying mission-critical SANs. Our fibre channel disk arrays allow the
+storage of large amounts of online data in a high performance, high
+availability environment. By offering other SAN products, including disk
+arrays, tape drives and libraries, switches, routers, and software, from
+other leading manufacturers, we are able to deliver a complete, tested and
+interoperable SAN solution to our customers when required.
+
+Technology
+
+We possess multi-disciplinary technological expertise, which we utilize in
+designing our memory and SAN products.
+
+Our expertise in designing memories includes (1) high-availability memory
+architecture and design including chip and board level sparing; (2) ASIC
+design utilizing high-speed semiconductor technologies and high-density
+packaging; and (3) comprehensive manufacturing test procedures -
+incorporating functional, thermal, voltage, and mechanical stress.
+
+Our expertise in developing fibre channel SAN products includes software
+design and development, embedded hardware design, system design, and systems
+integration. We believe that our expertise in these technologies provides us
+with competitive advantages in time-to-market, price/performance,
+interoperability and product capabilities.
+
+At our principal offices in Westborough, Massachusetts, we have established
+a systems integration lab to provide comprehensive functional and system
+level integration/interoperability testing between our fibre channel host bus
+adapters, hubs, disk arrays, and software with various computer platforms and
+fibre channel systems. Integration testing at our lab combines our products
+with various fibre channel SAN components to simulate the most commonly used
+functional configurations defined by our customers.  The overall goal
+is to ensure enterprise class performance and interoperability in real world
+SAN deployments.
+
+                                  Customers
+
+We sell our products to OEMs, resellers and directly to end-users. In 2005
+and 2006, our largest customers included QLogic, Hewlett-Packard and Sun
+Microsystems.
+
+In the year ended December 31, 2006, our top five customers accounted for
+approximately 88% of our total net revenues, and, in the year ended December
+31, 2005, our top five customers accounted for approximately 62% of our total
+net revenues. During 2006 and 2005, two customers exceeded 10% of total
+revenues. There is no assurance that current customers will remain our
+customers in the future and the loss of a major customer could have a
+material effect on our business.
+
+                           Customer Service and Support
+
+We offer customer service and support programs that include telephone
+and on-site support 24 hours a day, seven days a week. In addition, we have
+designed our products to allow easy diagnostics and administration. We employ
+systems engineers for pre- and post-sales support and technical support
+engineers for field support.
+
+6
+<PAGE>
+
+                              Sales and Marketing
+
+We sell our memory products principally to Fortune 1000 corporations, mid-
+level businesses, government institutions and resellers. Our sales strategy
+is to employ a business-to-business sales model that provides factory direct
+orders to end users and resellers. We will continue to focus significant
+direct sales efforts on Fortune 1000 enterprises. This sets us apart from
+most of our major competitors in the memory upgrade business who sell through
+reseller channels. Our goal is to establish ourselves as the vendor of choice
+for filling the majority of the memory upgrade needs within large
+corporations. Our marketing strategy consists primarily of telemarketing.
+
+We sell our fibre channel SAN products domestically and internationally to
+OEMs, systems integrators, and VARs as well as directly to end users in the
+United States. We target OEMs, systems integrators, and VARs who resell
+complete SAN solutions to end-users. Our sales and marketing strategy will
+continue to focus on the development of these indirect channel relationships.
+
+Our marketing efforts are focused on increasing awareness of our fibre
+channel products, promoting SAN-based solutions, and advocating industry-wide
+standards and interoperability. We plan to participate in industry
+associations to promote and further enhance fibre channel technology and
+increase our visibility as industry experts. We also plan to participate in
+select trade show events and SAN conferences to promote our products and to
+continue our efforts to educate potential customers on the value of SANs.
+
+                       Manufacturing, Test and Assembly
+
+We outsource the majority of our manufacturing, and we conduct quality
+assurance, manufacturing, engineering, documentation control and certain
+finish assembly and test operations at our headquarter facility in
+Westborough, Massachusetts. This approach enables us to reduce fixed costs
+and to provide flexibility in meeting market demands.
+
+We select suppliers primarily on the basis of technology, manufacturing
+capacity, quality and cost. Our reliance on third-party suppliers and
+manufacturers involves risks, including possible limitations on availability
+of products due to market abnormalities, unavailability of, or delays in
+obtaining access to, certain product technologies and the absence of complete
+control over delivery schedules, manufacturing yields, and total production
+costs. The inability of our suppliers and third party manufacturers to
+deliver products of acceptable quality and in a timely manner or our
+inability to procure adequate supplies of our products could have a material
+adverse effect on our business, financial condition or operating results.
+
+                             Research and Development
+
+Our success will depend to a substantial degree upon our ability to
+develop and introduce in a timely fashion new products and enhancements to
+our existing products that meet changing customer requirements and emerging
+industry standards. We have made, and plan to continue to make, expenditures
+for research and development and to participate in the development of
+industry standards. However, because our net revenues declined in four of the
+five most recently completed fiscal years, our expenditures for research and
+development are significantly lower than the amount we expended for research
+and development five years ago. Over the last two fiscal years, our
+research and development expenses were approximately $871,000 in 2006,
+compared to $865,000 in 2005. Research and development expenses primarily
+consist of salaries and related costs of employees engaged in ongoing
+research, design and development activities and subcontracting costs.
+
+7
+<PAGE>
+
+                                   Competition
+
+The markets in which we compete are intensely competitive and are
+characterized by frequent new product introductions, changing customer
+preferences and evolving technology and industry standards. Our competitors
+continue to introduce products with improved price/performance
+characteristics, and we will have to do the same to remain competitive.
+Increased competition could result in significant price competition, reduced
+revenues, lower profit margins or loss of market share, any of which would
+have a material adverse effect on our business, operating results and
+financial condition.
+
+Our principal competitors in the memory upgrade business are the computer
+system original equipment manufacturers (OEMs) and third party memory
+vendors. The major system OEMs we compete against are International Business
+Machines Corporation, Sun Microsystems, Hewlett-Packard, and Dell.  The major
+third party memory vendors we compete against are Kingston Technology and
+Dataram.
+
+Our principal competitors in the fibre channel SAN market include Emulex
+Corporation, QLogic Corporation and International Business Machines
+Corporation.
+
+Some of our OEM and reseller customers could develop products internally that
+would replace our products. The loss of opportunities to sell our products to
+any such OEM and reseller customers, in addition to the increased competition
+presented by these customers, could have a material adverse effect on our
+business, operating results and financial condition.
+
+                               Intellectual Property
+
+The intellectual property rights we have in our technology, which generally
+consists of programmable hardware logic, software and know-how associated
+with our product portfolio, principally arise from our own internal
+development efforts. We attempt to protect our technology through a
+combination of unpatented trade secrets, trademarks and contractual
+obligations. Our software products are protected by copyright laws. We cannot
+assure that our intellectual property protection measures will be sufficient
+to prevent misappropriation of our technology or that our competitors will
+not independently develop technologies that are substantially equivalent or
+superior to our technology. In addition, the laws of many foreign countries
+do not protect our intellectual property rights to the same extent as the
+laws of the United States. Our failure to protect our proprietary information
+could have a material adverse effect on our business, financial condition or
+operating results.
+
+We may need to initiate litigation in the future to enforce our intellectual
+property rights, to protect trade secrets or to determine the validity and
+scope of the proprietary rights of others. Litigation could result in
+substantial costs and diversion of our resources and could materially harm
+our business. In the future, we may receive notice of infringement claims of
+other parties' proprietary rights. Infringement or other claims could be
+asserted or prosecuted against us in the future, and it is possible that such
+assertions or prosecutions could harm our business. Any such claims, with or
+without merit, could be time-consuming, result in costly litigation and
+diversion of technical and management personnel, cause delays in the
+development and release of our products, or require us to develop non-
+infringing technology or enter into royalty or licensing arrangements. Such
+royalty or licensing arrangements, if required, may not be available on terms
+acceptable to us, or at all. For these reasons, infringement claims could
+materially harm our business.
+
+8
+<PAGE>
+                                     Employees
+
+At March 22, 2007, we had 14 employees. None of our employees are represented
+by a labor union. We have not experienced any work stoppages and consider our
+relations with our employees to be good.
+
+
+
+                        Item 2.  Description of Property.
+
+We currently lease approximately 15,000 square feet in an office facility in
+Westborough, Massachusetts pursuant to a lease that expires on June 30, 2009.
+
+
+                          Item 3.  Legal Proceedings.
+
+There are no material legal proceedings pending against us. We are involved
+in certain legal proceedings arising in the ordinary course of business. We
+believe that the outcome of these proceedings will not have a material
+adverse effect on our financial condition.
+
+
+          Item 4.  Submission of Matters to a Vote of Security Holders.
+
+None.
+
+9
+<PAGE>
+
+                                   PART II
+
+
+     Item 5.  Market for Common Equity and Related Stockholder Matters.
+
+
+
+Our common stock is listed for quotation on the over the counter bulletin
+board, under the symbol "CBEX".  The approximate number of shareholders of
+record at March 22, 2007 was 489. The following table sets forth the range of
+the high and low closing bid prices for our common stock for each quarter
+during the years ended December 31, 2006 and December 31, 2005:
+
+
+
+                                      2006                     2005
+
+                               High        Low          High        Low
+
+       First Quarter           0.14        0.09         0.39        0.09
+       Second Quarter          0.20        0.10         0.28        0.12
+       Third Quarter           0.25        0.15         0.18        0.10
+       Fourth Quarter          0.21        0.14         0.18        0.09
+
+
+
+
+We have not paid any cash dividends to date, and have no intention of paying
+any cash dividends on our common stock in the foreseeable future. The
+declaration and payment of dividends is subject to the discretion of the
+board of directors and to certain limitations imposed by the Massachusetts
+Corporation Laws. The timing, amount and form of dividends, if any, will
+depend, among other things, on our results of operations, financial
+condition, cash requirements and other factors deemed relevant by our board
+of directors.
+
+The series 1 bridge note purchase agreement provides that we may not pay cash
+dividends as long as the series 1 bridge note remains outstanding.  With the
+consent of the holder of the series 1 bridge note and as long as we are not
+in default, we may pay dividends to preferred shareholders in accordance with
+our articles of organization and we may repurchase shares of our common stock
+issued upon the exercise of options granted under our stock option plans.
+
+Set forth in chronological order is information regarding securities
+convertible into or exercisable for shares of our common stock issued by
+Cambex within the past three years:
+
+     None.
+
+We had no repurchases of equity securities in the fourth quarter of 2006.
+
+10
+<PAGE>
+
+     Item 6.  Management's Discussion and Analysis or Plan of Operation.
+
+
+The following discussion and analysis of our financial condition and
+results of operations should be read in conjunction with our consolidated
+financial statements and related notes appearing elsewhere in this
+Form 10-KSB.  Please refer to "Special Note Regarding Forward-Looking
+Statements" for additional information.
+
+
+Comparison of fiscal years 2006 and 2005
+
+Our revenues were $2,345,000 and $2,272,000 for 2006 and 2005, respectively.
+Revenues for 2006 increased 3% compared to revenues for the prior year due to
+increased sales of our fibre channel connectivity products. The increase was
+due to a large sale of our fibre channel connectivity software to a customer.
+The revenues for 2005 include $240,000 of revenue which had been deferred
+until the obligations for trade-in memory were satisfied in this period.
+
+Gross profit rate was 85% of revenues in 2006, compared to 80% of revenues in
+2005. The increase was due to the product mix as there are higher gross
+margins on our fibre channel connectivity products and software than our
+memory products.
+
+Operating expenses in 2006 decreased by 1% in comparison to operating
+expenses in the prior year.  Research and development expenses for 2006
+increased 1% compared to the amount of these expenses in the prior year due
+to increases in personnel and additional product development costs. Selling
+expenses for 2006 decreased by 13% compared to the amount of these expenses
+in 2005 primarily due to decreases in personnel and related expenses.
+
+Other income (expense) in 2006 consists of other income of $666,000 relating
+to the reversal of accrued expenses and $65,000 of interest expense. Other
+income (expense) in 2005 consists of other income of $219,000 relating to the
+reversal of accrued expenses and $118,000 of interest expense.
+
+Net income for 2006 was $907,000 or $0.04 per share, as compared with net
+income of $230,000, or $0.01 per share, for 2005.
+
+
+Critical Accounting Policies
+
+Revenue Recognition
+
+We manufacture equipment for sale or lease.  We follow the guidance in Staff
+Accounting Bulletin ("SAB") 104 in applying generally accepted accounting
+principles to revenue recognition in consolidated financial statements. We
+include items in revenue when the following criteria are met: persuasive
+evidence of an arrangement exists, delivery has occurred or services have
+been rendered, our price to the buyer is fixed or determinable and
+collectibility is reasonably assured.
+
+Stock-Based Compensation
+
+In December 2004, the Financial Accounting Standards Board issued Statement
+of Financial Accounting Standards ("SFAS") No. 123(R), "Share-Based Payment."
+SFAS 123(R) replaces SFAS No. 123 and supersedes Accounting Principles Board
+Opinion No. 25 (APB 25), "Accounting for Stock Issued to Employees."  SFAS
+123(R) is effective as of the beginning of the first interim or annual
+reporting period that begins after December 15, 2005.  SFAS 123(R) requires
+
+11
+<PAGE>
+
+that the costs resulting from all share-based payment transactions be
+recognized in the financial statements.  SFAS 123(R) applies to all awards
+granted after the required effective date and shall not apply to awards
+granted in periods before the required effective date, except if prior awards
+are modified, repurchased, or cancelled after the effective date.  With the
+adoption of SFAS 123(R), the Company elected to amortize stock-based
+compensation for awards granted on or after the adoption of SFAS 123(R) on
+January 1, 2006, on a straight-line basis over the requisite service
+(vesting) period for the entire award.
+
+As permitted under SFAS 123, amended by SFAS 123(R), the Company elected to
+follow APB 25, and related interpretations in accounting for stock based
+awards to employees through December 31, 2005. Accordingly, compensation cost
+for stock options and nonvested stock grants was measured as the excess, if
+any, of the market price of the Company's stock at the date of grant over the
+amount an employee must pay to acquire the stock.
+
+Recent Accounting Pronouncements
+
+In December 2004, the Financial Accounting Standards Board issued
+SFAS No. 153, "Exchange of Nonmonetary Assets", which is an amendment to APB
+Opinion No. 29. The guidance in APB Opinion No. 29, "Accounting for
+Nonmonetary Transactions", is based on the principle that exchanges of
+nonmonetary assets should be measured based on the fair value of the assets
+exchanged. The guidance in that opinion, however, included certain exceptions
+to that principle. This statement amends APB Opinion No. 29 to eliminate the
+exception for nonmonetary exchanges of similar productive assets and replaces
+it with a general exception for exchanges of nonmonetary assets that do not
+have commercial substance. A nonmonetary exchange has commercial substance if
+the future cash flows of the entity are expected to change significantly as a
+result of the exchange. The adoption of SFAS No. 153 is not expected to have
+a material impact on our financial position or results of operations.
+
+In May 2005, the FASB issued SFAS No. 154, "Accounting Changes and Error
+Corrections." SFAS 154 is an amendment of APB Opinion 20 and FASB Statement
+No. 3.  This statement changes the requirements for the accounting for and
+reporting of a change in accounting principal.  This Statement applies to all
+voluntary changes in accounting principal and to changes required by an
+accounting pronouncement in unusual instances that the pronouncement does not
+include specific transition provisions. The Company does not expect the
+adoption of SFAS 154 to have an impact on its financial position or operating
+results.
+
+In February 2006, the FASB issued SFAS No. 155, "Accounting for Certain
+Hybrid Financial Instruments."  SFAS 155 is an amendment to SFAS 133 and 140.
+SFAS 155 improves financial reporting by eliminating the exception from
+applying SFAS 133 to interest in securitized financial assets so that similar
+instruments are accounted for similarly regardless of the form of the
+instruments.  SFAS 155 is effective for all financial instruments acquired or
+issued after the beginning of an entity's first fiscal year that begins after
+September 15, 2006.  The Company does not expect the adoption of SFAS 155 to
+have an impact on its financial position or results of operations.
+
+
+In March 2006, the FASB issued SFAS No. 156, "Accounting for Servicing of
+Financial Assets - an amendment of FASB Statement No. 140." SFAS 156 is an
+amendment to SFAS 140. SFAS 156 requires an entity to recognize a servicing
+asset or servicing liability each time it undertakes an obligation to service
+a financial asset by entering into a servicing contract; requires all
+separately recognized servicing assets and servicing liabilities to be
+initially measured at fair value, if practicable; permits an entity to choose
+
+12
+<PAGE>
+
+its subsequent measurement methods for each class of separately recognized
+servicing assets and servicing liabilities; at its initial adoption, permits
+a one-time reclassification of available-for-sale securities by entities with
+recognized servicing rights, without calling into question the treatment of
+other available-for-sale securities under Statement 115, provided that the
+available-for-sale securities are identified in some manner as offsetting the
+entity's exposure to changes in fair value of servicing assets or servicing
+liabilities that a servicer elects to subsequently measure at fair value; and
+requires separate presentation of servicing assets and servicing liabilities
+subsequently measured at fair value in the statement of financial position
+and additional disclosures for all separately recognized servicing assets and
+servicing liabilities. SFAS 156 is effective for all servicing assets and
+servicing liabilities transactions after the beginning of an entity's first
+fiscal year that begins after September 15, 2006.  The Company does not
+expect the adoption of SFAS 156 to have an impact on its financial position
+or results of operations.
+
+In July 2006, the FASB issued Interpretation No. 48, "Accounting for
+Uncertainty in Income Taxes." This Interpretation clarifies the accounting
+for uncertainty in income taxes recognized in an enterprise's financial
+statements in accordance with SFAS 109. This Interpretation prescribes a
+recognition threshold and measurement attribute for the financial statement
+recognition and measurement of a tax position taken or expected to be taken
+in a tax return. This Interpretation also provides guidance on derecognition,
+classification, interest and penalties, accounting in interim periods,
+disclosure, and transition. This Interpretation is effective for fiscal years
+beginning after December 15, 2006. The Company does not expect the adoption
+of Interpretation No. 48 to have an impact on its financial position or
+results of operations.
+
+In September 2006, the FASB issued SFAS No. 157, "Fair Value Measurements."
+SFAS 157 defines fair value, establishes a framework for measuring fair value
+in generally accepted accounting principles and expands disclosures about
+fair value measurements. SFAS 157 applies under other accounting
+pronouncements that require or permit fair value measurements. Accordingly,
+SFAS 157 does not require any new fair value measurements. SFAS 157 is
+effective for fiscal years beginning after November 15, 2007. The Company
+does not expect the adoption of SFAS 157 to have an impact on its financial
+position or results of operations.
+
+In September 2006, the FASB issued SFAS No. 158, "Employers' Accounting for
+Defined Benefit Pension and Other Postretirement Plans - an amendment of FASB
+Statements No. 87, 88, 106, and 132(R)." SFAS improves financial reporting by
+requiring an employer to recognize the overfunded or underfunded status of a
+defined benefit postretirement plan as an asset or liability in its statement
+of financial position and to recognize changes in that funded status in the
+year in which the changes occur through comprehensive income. SFAS 158 also
+improves financial reporting by requiring an employer to measure the funded
+status of a plan as of the date of its year-end statement of financial
+position. SFAS 158 is effective for fiscal years ending after December 15,
+2006. The adoption of SFAS 158 did not have an impact on the Company's
+financial position or results of operations.
+
+In February 2007, the FASB issued SFAS No. 159, "The Fair Value Option for
+Financial Assets and Financial Liabilities - Including an amendment of FASB
+Statement No. 115." SFAS 159 permits entities to choose to measure many
+financial instruments and certain other items at fair value. The objective is
+to improve financial reporting by providing entities with the opportunity to
+mitigate volatility in reported earnings caused by measuring related assets
+and liabilities differently without having to apply complex hedge accounting
+provisions. SFAS 159 is effective for fiscal years beginning after November
+
+13
+<PAGE>
+
+15, 2007. The Company does not expect the adoption of SFAS 159 to have an
+impact on its financial position or results of operations.
+
+
+Inflation
+
+We did not experience any material adverse effects in 2005 or 2006 due to
+general inflation.
+
+Liquidity and Capital Resources
+
+During 2006, net cash provided by operating activities was $676,307. Net cash
+used in financing activities was $777,219, relating primarily to repayments
+under the loan agreement.
+
+We have a loan and security agreement with B.A. Associates, Inc. which is a
+corporation owned by Bruce D. Rozelle, a son-in-law of Joseph F. Kruy, our
+Chairman, President and Chief Executive Officer under which we may borrow up
+to $1,100,000. The outstanding balance due to B.A. Associates, Inc. was
+$225,000 at December 31, 2006.  We also have notes payable of $429,643 at
+December 31, 2006 which include $275,000 of advances payable which are due on
+demand. The $275,000 of advances payable consists of borrowings from related
+parties. The notes payable balance of $154,643 includes $150,000 of the
+series 1 bridge financing note and $4,643 of accounts payable converted to
+notes payable.
+
+Our cash was $226,000 and $327,000 at December 31, 2006 and December 31,
+2005, respectively. Working capital was a deficit of $2,757,000 and
+$3,666,000 at December 31, 2006 and at December 31, 2005, respectively.
+During fiscal 2007, we expect to acquire less than $100,000 of capital
+equipment.
+
+Our profitability and liquidity depends upon being able to maintain adequate
+revenue and gross profit levels. Management has also been working to secure
+additional capital. There is no assurance that such capital will be raised.
+
+
+Forward-Looking Statements
+
+The statements contained in "Management Discussion and Analysis of Financial
+Condition and Results of Operations" and elsewhere throughout this Annual
+Report on Form 10-KSB that are not historical facts are "forward-looking
+statements" within the meaning of Section 27A of the Securities Act of 1933
+and Section 21E of the Securities Exchange Act of 1934. These forward-looking
+statements are subject to certain risks and uncertainties which could cause
+actual results to differ materially from those reflected in the forward-
+looking statements. These forward-looking statements reflect management's
+analysis, judgment, belief or expectation only as of the date hereof. We
+undertake no obligation to publicly revise these forward-looking statements
+to reflect events or circumstances that arise after the date hereof or to
+publicly release the results of any revisions to such forward-looking
+statements that may be made to reflect events or circumstances after the date
+hereof. In addition to the disclosure contained herein, readers should
+carefully review any disclosure of risks and uncertainties contained in other
+documents we file or have filed from time to time with the Securities and
+Exchange Commission pursuant to the Securities Exchange Act of 1934.
+
+
+            Item 7.  Financial Statements.
+
+See financial statements, beginning at page F-2, incorporated herein by
+reference.
+
+14
+<PAGE>
+
+            Item 8.   Changes in and Disagreements with Accountants on
+                     Accounting and Financial Disclosure.
+
+None.
+
+
+            Item 8A. Controls and Procedures.
+
+Disclosure controls and procedures are designed to ensure that information
+required to be disclosed in the reports filed or submitted under the
+Securities Exchange Act of 1934, as amended (the "Exchange Act") is recorded,
+processed, summarized and reported, within the time period specified in the
+SEC's rules and forms. Disclosure controls and procedures include, without
+limitation, controls and procedures designed to ensure that information
+required to be disclosed in the reports filed under the Exchange Act is
+accumulated and communicated to management, including the Chief Executive
+Officer and Chief Financial Officer, as appropriate, to allow timely
+decisions regarding required disclosure. As of the end of the period covered
+by this report, our principal executive officer and principal financial
+officer, Joseph F. Kruy, has evaluated the effectiveness of the design and
+operation of our disclosure controls and procedures, as defined in Rules 13a-
+15(e) and 15d-15(e) under the Exchange Act and concluded that our disclosure
+controls and procedures are effective so as to ensure that information
+required to be disclosed in our reports filed or submitted under the Exchange
+Act is recorded, processed, summarized and reported as and when required.
+There were no significant changes in our internal control over financial
+reporting or in other factors that could significantly affect our internal
+controls over financial reporting subsequent to the date of our most recent
+evaluation.
+
+
+            Item 8B. Other Information.
+
+None.
+
+15
+<PAGE>
+
+                                   PART III
+
+
+       Item 9. Directors, Executive Officers, Promoters, Control Persons
+               and Corporate Governance; Compliance with Section 16(a) of the
+               Exchange Act.
+
+The following table shows the name, age and position of each of our
+executive officers and directors.
+
+Name                             Age    Position
+
+Joseph F. Kruy (1)               75     President, Chief Executive Officer,
+                                        Treasurer and Chairman of the Board
+                                        and a Director
+C.V. Ramamoorthy, Ph.D. (1)(2)   80     Director
+Robert J. Spain, Ph.D. (1)(2)    69     Director
+Lois P. Lehberger                50     Clerk, Vice President and Controller
+___________________
+(1)	Member of the Compensation Committee.
+(2)	Member of the Audit Committee.
+
+
+
+Joseph F. Kruy has served as our President, Chief Executive Officer and a
+member of our board of directors since our inception in 1968.  Mr. Kruy has
+served as our Chairman of the Board since October 1975.  Mr. Kruy holds a
+B.S. and a Diploma Engineering degree in electrical engineering from the
+Technical University of Budapest.
+
+C.V. Ramamoorthy, Ph.D. has been a member of our board of directors since our
+inception in 1968.  Since prior to 1995, Dr. Ramamoorthy has been a Professor
+of Electrical Engineering and Computer Sciences at the University of
+California Berkeley.  Dr. Ramamoorthy holds a B.S. in physics from the
+University of Madras, India, a M.S. in mechanical engineering from the
+University of California Berkeley and a M.S. and a Ph.D. from Harvard
+University.
+
+Robert J. Spain, Ph.D. has been a member of our board of directors since
+1995.  Dr. Spain was also our Vice President of Research from 1969 to 1977.
+Since prior to 1995, Dr. Spain has been the President of CFC, Inc., an
+electronic component manufacturing company.  Dr. Spain holds a B.S.E.E. and a
+M.S.E.E. from the Massachusetts Institute of Technology and a Doctor of
+Science from Paris, Sorbonne.
+
+Lois P. Lehberger joined Cambex in June 1978 and has served as our controller
+since August 1998, and our Vice President since November 1999.  Mrs.
+Lehberger was appointed clerk in May 2001. Mrs. Lehberger is responsible for
+our accounting and financial control functions.  Mrs. Lehberger holds a B.A.
+in economics and accounting from the College of the Holy Cross.
+
+
+
+Section 16(a) Beneficial Ownership Reporting Compliance
+
+Section 16(a) of the Securities Exchange Act of 1934, as
+amended, requires the Company's officers and directors, and
+persons who own more than ten percent of
+
+16
+<PAGE>
+
+a registered class of the Company's equity securities, to file reports of
+ownership and changes in ownership of common stock (Forms 3, 4 and 5) with
+the Securities and Exchange Commission. Officers, directors and greater-than-
+ten-percent holders are required to furnish the Company with copies of all
+such forms, which they have filed.
+
+	Based solely upon a review of Forms 3 and Forms 4 furnished to the
+Company during the most recent fiscal year, and Forms 5 with respect to its
+most recent fiscal year, we believe that all such forms required to be filed
+pursuant to Section 16(a) of the Exchange Act were timely filed, as
+necessary, by the officers, directors and security holders required to file
+the same during the fiscal year ended December 31, 2006.
+
+
+
+                      Item 10.  Executive Compensation.
+
+The following table provides certain summary information concerning
+compensation awarded to, earned by, or paid to our Chief Executive Officer
+and each of our other executive officers for services rendered to Cambex in
+all capacities during the fiscal years ended December 31, 2006 and December
+31, 2005.
+
+Summary Compensation Table
+                                      Annual                 Long Term
+                                   Compensation(1)       Compensation Awards
+Name and Position            Year  Salary      Bonus         Options(#)
+
+Joseph F. Kruy               2006  $200,000(2) $39,031          -
+Chairman, President and CEO  2005  $200,000(2) $ 9,902          -
+
+Lois P. Lehberger            2006  $ 80,000    $ 9,758          -
+Vice President,              2005  $ 80,000      2,475          -
+Controller and Clerk
+
+(1)The columns for "Other Annual Compensation" and "All Other
+   Compensation" have been omitted because there is no such compensation
+   required to be reported.
+
+(2)Includes $100,000 for which payment has been deferred in 2006 and 2005.
+
+
+Stock Options
+
+The following table contains information concerning the grant of stock
+options under our Year 2000 Equity Incentive Plan to the executive officers
+named in the Summary Compensation Table. Each of the option grants listed
+below vests in five equal installments on the first through the fifth
+anniversaries of the date of grant.
+
+17
+<PAGE>
+
+Option Grants in Last Fiscal Year
+
+Individual Grants
+
+
+                  Number of     % of Total
+                  Securities      Options
+                  Underlying    Granted to     Exercise
+                   Options     Employees in      Price    Expiration
+Name                 (#)        Fiscal Year    ($/Share)     Date
+
+Joseph F. Kruy         -             -             -           -
+
+Lois P. Lehberger      -             -             -           -
+
+
+Aggregate Option Exercises in Last Fiscal Year and Fiscal Year End Option
+Value
+                                                                 Value of
+                                                                Unexercised
+                                            Number of           In-the-money
+                                            Options at           Options at
+                                         December 31,2006 December 31,2006(1)
+               Shares Acquired    Value     Exercisable/         Exercisable/
+Name           on Exercise(#)    Realized  Unexercisable       Unexercisable
+
+Joseph F. Kruy         -            -          -/-                  -/-
+
+Lois P. Lehberger      -            -    140,000/10,000             -/-
+
+(1) The closing price of our Common Stock on December 31, 2006 was
+    $0.16 per share.  The numbers shown reflect the value of options
+    accumulated over all years of employment.
+
+
+Employment Contracts and Termination Agreements
+
+We entered into an employment agreement with Joseph F. Kruy on November
+18, 1994.  An extension of the term of this employment agreement to December
+31, 2009 was approved by our board of directors in March 2007. Under his
+employment agreement, Mr. Kruy is engaged to serve as our Chairman of the
+Board, President and Chief Executive Officer.  Except for illness, reasonable
+vacations and other customary exceptions, during the term of the agreement,
+Mr. Kruy is to devote all of his working time and attention to the
+performance of his duties and responsibilities at Cambex.  Mr. Kruy is to be
+paid a minimum annual base salary of $200,000 per year.  Mr. Kruy is also
+entitled to participate in our Incentive Bonus Plan and is eligible to
+receive an annual bonus up to 4% of our pre-tax profit, as that term is
+defined in the Incentive Bonus Plan.  If Mr. Kruy voluntarily terminates his
+employment with us, he is entitled to receive his base annual compensation
+through the date of termination and any amount that he may be entitled to
+receive under the Incentive Bonus Plan in accordance with the terms of that
+Plan.  If, after Mr. Kruy voluntarily terminates his employment with us, he
+accepts employment during the remaining then current term of his agreement
+with an entity that directly competes with us, then we may cease paying Mr.
+Kruy any further amounts.  If we terminate Mr. Kruy's employment for reasons
+other than for cause or if we give another person either the title or the
+powers of the Chief Executive Officer, then Mr. Kruy is entitled to continue
+to receive his annual base salary through the end of the then current term of
+the agreement, and is entitled to receive any incentive bonus that would have
+
+18
+<PAGE>
+
+been earned under the Incentive Bonus Plan during the fiscal year in which
+his employment was terminated.  If, following termination of Mr. Kruy's
+employment with us, he accepts employment elsewhere before December 31, 2009,
+then we do not have to continue to pay Mr. Kruy for the year ending December
+31, 2009.  Moreover, if on the date of termination of Mr. Kruy's employment
+with us, our assets are in the hands of a receiver, an assignee for the
+benefit of creditors, trustee in bankruptcy, debtor-in-possession or other
+entity for the benefit of creditors or if our consolidated net worth is less
+than our consolidated net worth at December 31, 1999, then we have no
+obligation to pay Mr. Kruy any amount after termination of his employment.
+
+We compensate our non-employee directors with an annual fee of $10,000 and a
+fee of $1,000 for each meeting of the board of directors attended. In March
+2005, the board of directors authorized the non-employee director
+compensation to be converted from cash to shares of our common stock at a
+price of $0.15 per share. In 2005, 1,118,333 shares were issued to the non-
+employee directors as compensation for past services as a member of the board
+of directors.
+
+
+  Item 11.  Security Ownership of Certain Beneficial Owners and Management
+            and Related Stockholder Matters.
+
+The following table presents information regarding the beneficial ownership
+of Cambex's common stock as of March 22, 2007, by:
+
+      each person, or group of persons, known to us to be the beneficial
+      owner of more than five percent of our outstanding shares of common
+      stock;
+      each of our directors;
+      each of our executive officers; and
+      all current directors and officers of Cambex as a group.
+
+Unless otherwise noted in the table, the address for each person listed in
+the table is c/o Cambex Corporation, 115 Flanders Road, Westborough, MA
+01581.
+
+Name and Address         (#)Shares of Common
+of Beneficial Owner    Stock Beneficially Owned(1)    Percent of Class(2)
+
+Joseph F. Kruy (3)              5,522,739          		 23.2%
+
+Estate of Richard E. Calvert(4) 2,314,586           		  9.7
+ c/o Huntington National Bank
+ 1227 East Front Street
+ Traverse City, MI 49685
+
+Peter J. Kruy (5)               1,597,164            		  6.6
+
+H. Terry Snowday, Jr.(6)        1,575,302           		  6.7
+ 7784 East Shore Road
+ Traverse City, MI 49686
+
+Bruce D. Rozelle(7)             1,300,000            		  5.3
+ 9 Webster Circle
+ Sudbury, MA 01776
+
+C.V. Ramamoorthy (8)              616,656            		  2.6
+
+Robert J. Spain (9)               251,083            		  1.1
+
+Lois P. Lehberger (10)            140,000            		   *
+
+19
+<PAGE>
+
+All directors and executive
+officers as a group
+(4 persons) (11)                6,530,478           		 27.2
+
+_______________
+*		Represents beneficial ownership of less than 1%.
+
+(1) Beneficial ownership for purposes of the table is determined in
+accordance with the rules of the Securities and Exchange Commission and is
+not necessarily indicative of beneficial ownership for any other purpose.  In
+computing the number of shares beneficially owned by a person and the
+percentage ownership of that person, shares of common stock issuable upon the
+exercise of options and warrants held by that person that are currently
+exercisable or exercisable within 60 days following March 22, 2007 (May 21,
+2007) are deemed to be outstanding. These shares, however, are not considered
+outstanding for purposes of computing the percentage ownership of any other
+person.  Except as indicated in the footnotes, we believe that the persons
+and entities named in the table have sole voting and sole investment power
+with respect to all shares beneficially owned by them, subject to community
+property laws where applicable.
+
+(2) Percentage of ownership is based on 23,429,278 shares of common stock
+outstanding as of March 22, 2007.
+
+(3) Includes 100,000 shares of common stock issuable upon exercise of stock
+purchase warrants exercisable within 60 days following March 22, 2007 (or by
+May 21, 2007).  Includes 270,200 shares of common stock issuable upon
+conversion of Series A Preferred stock issued in 2002. This number also
+includes 56,250 shares held by the Kruy Family Trust, for which Mr. Kruy's
+wife and children are the beneficial owners.  Mr. Kruy disclaims beneficial
+ownership of these shares.  Of these shares of common stock, 979,239 are
+subject to the terms of a stock pledge agreement dated as of January 18, 2000
+(the "Kruy Pledge Agreement"), among Joseph F. Kruy, Cambex and SovCap Equity
+Partners, Ltd., Arab Commerce Bank Ltd., and Correllus International Ltd.
+Provided that Cambex is not in default under the series 1 bridge note
+purchase agreement dated as of January 18, 2000 (the "Bridge Note Purchase
+Agreement"), among Cambex and SovCap Equity Partners, Ltd., Arab Commerce
+Bank Ltd., and Correllus International Ltd., the series 1 bridge financing
+notes issued pursuant to the Bridge Note Purchase Agreement, or the Kruy
+Pledge Agreement, Mr. Kruy has the right to vote the pledged shares.
+
+(4) Includes 469,200 shares of common stock issuable upon conversion of
+Series A Preferred stock issued in 2002.
+
+(5) Includes 960,164 shares owned by CyberFin Corporation, a corporation
+wholly owned by Peter J. Kruy, 135,000 shares subject to currently
+exercisable options, and 500,000 shares issuable upon exercise of stock
+purchase warrants exercisable within 60 days following March 22, 2007 (or by
+May 21, 2007). Of these shares of common stock, 730,228 are subject to
+the terms of a stock pledge agreement dated as of January 18, 2000 (the
+"CyberFin Pledge Agreement"), among CyberFin, Cambex, and SovCap Equity
+Partners, Ltd., Arab Commerce Bank Ltd., and Correllus International Ltd.
+Provided that Cambex is not in default under the Bridge Note Purchase
+Agreement, the series 1 bridge financing notes, or the CyberFin
+Pledge Agreement, CyberFin has the right to vote the pledged shares.
+
+(6) Includes 107,610 shares of common stock issuable upon conversion of
+Series A Preferred stock issued in 2002.
+
+20
+<PAGE>
+
+(7) Consists of 1,300,000 shares issuable upon exercise of stock purchase
+warrants exercisable within 60 days following March 22, 2007 (or by May 21,
+2007) held by B.A. Associates. Bruce Rozelle, a son-in-law of Joseph F. Kruy,
+has both voting and investment control over B.A. Associates. Mr. Rozelle
+disclaims beneficial ownership of these shares.
+
+(8) Includes 67,500 shares of common stock issuable upon exercise of
+stock purchase warrants exercisable within 60 days following March 22, 2007
+(or by May 21, 2007).
+
+(9) Includes 32,750 shares of common stock issuable upon exercise of
+stock purchase warrants exercisable within 60 days following March 22, 2007
+(or by May 21, 2007).
+
+(10) Consists of 140,000 shares subject to options exercisable within 60 days
+following March 22, 2007 (or by May 21, 2007).
+
+(11) Includes 601,450 shares subject to options and warrants exercisable
+within 60 days following March 22, 2007 (or by May 21, 2007) and stock
+issuable upon conversion of Series A Preferred stock. See footnotes
+(3)through (10) above.
+
+Solely for the purpose of calculating the aggregate market value of voting
+stock held by non-affiliates of the Company as set forth on the Cover Page,
+it was assumed that only directors and executive officers on the calculation
+date together with spouses and dependent children of such persons constituted
+affiliates.
+
+
+          Item 12.  Certain Relationships and Related Transactions, and
+                    Director Independence.
+
+On November 9, 1998, we entered into a Loan and Security Agreement with
+B.A. Associates, Inc. (BAA), which is a corporation owned by Bruce Rozelle, a
+son-in-law of Joseph F. Kruy, our Chairman, President and Chief Executive
+Officer.  This Loan and Security Agreement, as amended by a First Amendment
+to Loan and Security Agreement dated March 15, 1999, and further amended
+through December 27, 2001 (as so amended, the "BAA Loan Agreement"), allows
+us to borrow up to $1,100,000, which is the maximum that may be outstanding
+at any one time. Under the BAA Loan Agreement, we granted BAA a first
+priority security interest in all of our accounts, instruments, documents,
+general intangibles, equipment, inventory, and proceeds of any of the
+foregoing.  We are obligated to pay all amounts that we receive from
+collections of our accounts receivable to BAA not less frequently than each
+week until the outstanding loan amount plus interest, which accrues at a 12%
+annual rate, is fully paid.  Under the terms of the BAA Loan Agreement,
+originally BAA received a warrant for the purchase of 1.3 million shares of
+common stock, at an exercise price of $0.22 per share.  In consideration for
+increasing the amount of available funds, the Company agreed to issue an
+additional warrant to BAA for the purchase of 400,000 shares of our common
+stock, at an exercise price of $1.25 per share.  We believe that the
+borrowing arrangements we made with BAA were on terms at least as favorable
+to us as we would have expected from lenders unrelated to us and relatives of
+Mr. Kruy.
+
+In June through August 2003, we borrowed $200,000 from Joseph F. Kruy.  We
+also entered into Loan and Security Agreements with Mr. Kruy. Our payment
+obligations under these Loan and Security Agreements (the "2003 Loan
+Agreements") are evidenced by 12% Notes due in June through August 2004.
+Under the 2003 Loan Agreements, we granted Mr. Kruy a first priority security
+interest in all of our accounts, instruments, documents, general intangibles,
+equipment, inventory, and proceeds of any of the foregoing. We believe that
+
+21
+<PAGE>
+
+the borrowing arrangements we made with Mr. Kruy were on terms at least as
+favorable to us as we would have expected from lenders unrelated to us.  As
+of December 31, 2006, the balance outstanding under the above and prior Loan
+and Security Agreements is $275,000 of which $225,000 is owed to Joseph F.
+Kruy and $50,000 is owed to the estate of Richard E. Calvert.
+
+
+                         Item 13.  Exhibits.
+
+The following documents are filed as part of this report:
+
+             (1)   The financial statements listed in the index to
+                   financial statements appearing at page F-1 of this
+                   report, which index is incorporated in this item by
+                   reference.
+
+             (2)   See the exhibit index following on page A-1.
+
+
+                Item 14. Principal Accountant Fees and Services.
+
+Audit Fees
+
+The aggregate fees we agreed to pay Sullivan Bille, P.C. for professional
+services rendered for the audit of the Company's annual financial statements
+on Form 10-KSB and the review of financial statements included in Form 10-QSB
+for the year ended December 31, 2006 is up to $57,300 and for the year ended
+December 31, 2005 was $50,950.
+
+Audit Related Fees
+
+There were no fees billed in 2006 and 2005 for assurance and related services
+provided by the Company's principal accountants.
+
+Tax Fees
+
+During 2006 and 2005, there were no fees billed for tax compliance, tax
+advice, and tax planning professional services rendered by the Company's
+principal accountants.
+
+All Other Fees
+
+There were no fees billed in 2006 and 2005 for products and other services
+provided by the Company's principal accountants.
+
+
+The Audit Committee approved 100% of the fees paid to the principal
+accountants for audit-related, tax and other fees. The Audit Committee pre-
+approves all non-audit services to be provided by the auditor in accordance
+with the Audit Committee Charter.
+
+There were no hours expended on the principal accountant's engagement to
+audit the Company's financial statements for 2006 that were attributed to
+work performed by persons other than the principal accountant's full time,
+permanent employees.
+
+22
+<PAGE>
+
+                                EXHIBIT INDEX
+
+The following exhibits are filed herewith or incorporated by reference
+herein.
+
+Exhibit
+
+3.1	Restated Articles of Organization of Cambex Corporation (included as
+Exhibit 3.1 to the Company's Registration Statement on Form SB-2,
+declared effective with the Commission on November 7, 2000, Reg. No.
+333-43294, and incorporated herein by reference).
+
+3.2	Restated By-laws of Cambex Corporation (included as Exhibit 3.2 to the
+Company's Registration Statement on Form SB-2, declared effective with
+the Commission on November 7, 2000, Reg. No. 333-43294, and
+incorporated herein by reference).
+
+3.3 Series A Preferred Stock Certificate of Designations (included as Exhibit
+10.37 to the Company's Quarterly Report on Form 10-QSB for the quarter ended
+June 30, 2002 and incorporated herein by reference).
+
+4.1	Specimen Stock Certificate (included as Exhibit 4.1 to the Company's
+Registration Statement on Form SB-2, declared effective with the
+Commission on November 7, 2000, Reg. No. 333-43294, and incorporated
+herein by reference).
+
+4.2	Registration Rights Agreement among the Company and the Purchasers
+identified therein (the "Sovereign Purchasers") dated as of January 18,
+2000 (included as Exhibit 4.1 to the Company's Amendment to Quarterly
+Report on Form 10-Q/A for the quarter ended April 1, 2000, and
+incorporated herein by reference).
+
+10.1	Employment Agreement between Joseph F. Kruy and the Company,
+dated as of November 18, 1994 (included as Exhibit 10.1 to the
+Company's Amendment to Quarterly Report on Form 10-Q/A for the quarter
+ended April 1, 2000, and incorporated herein by reference).
+
+10.2	Incentive Bonus Plan (included as Exhibit 10.2 to the Company's
+Registration Statement on Form SB-2, declared effective with the
+Commission on November 7, 2000, Reg. No. 333-43294, and incorporated
+herein by reference).
+
+10.3	1987 Combination Stock Option Plan (included as Exhibit 10.8 to
+the Company's Annual Report on Form 10-K for the fiscal year ended
+August 31, 1987, and incorporated herein by reference).
+
+10.4	2000 Equity Incentive Plan (included as Exhibit 10.12 to the
+Company's Annual Report on Form 10-K for the fiscal year ended December
+31, 1999, and incorporated herein by reference).
+
+
+
+                                       A-1
+23
+<PAGE>
+
+                           EXHIBIT INDEX(CONTINUED)
+
+10.5	Series 1 Bridge Note Purchase Agreement among the Company and the
+Sovereign Purchasers dated as of January 18, 2000 (included as Exhibit
+10.7 to the Company's Amendment to Quarterly Report on Form 10-Q/A for
+the quarter ended April 1, 2000, and incorporated herein by reference).
+
+10.6	Escrow Agreement among the Company, the Sovereign Purchasers and
+Suntrust Bank, Atlanta dated as of January 6, 2000 (included as Exhibit
+10.8 to the Company's Amendment to Quarterly Report on Form 10-Q/A for
+the quarter ended April 1, 2000, and incorporated herein by reference).
+
+10.7	Placement Agent Agreement between the Company and Sovereign
+Capital Advisors, LLC ("Sovereign Advisors") dated as of January 18, 2000
+(included as Exhibit 10.9 to the Company's Amendment to Quarterly
+Report on Form 10-Q/A for the quarter ended April 1, 2000, and
+incorporated herein by reference).
+
+10.8	Guaranty Agreement among Joseph F. Kruy, the Company and the
+Sovereign Purchasers dated as of January 18, 2000. (included as Exhibit 10.10
+to the Company's Amendment to Quarterly Report on Form 10-Q/A for the
+quarter ended April 1, 2000, and incorporated herein by reference).
+
+10.9	Guaranty Agreement among CyberFin Corporation, the Company and
+the Sovereign Purchasers dated as of January 18, 2000 (included as Exhibit
+10.11 to the Company's Amendment to Quarterly Report on Form 10-Q/A for
+the quarter ended April 1, 2000, and incorporated herein by reference).
+
+10.10	Stock Pledge Agreement by Joseph F. Kruy in favor of the
+Sovereign Purchasers dated as of January 18, 2000  (included as Exhibit
+10.12 to the Company's Amendment to the Quarterly Report on Form 10-Q/A
+for the quarter ended April 1, 2000, and incorporated herein by
+reference).
+
+10.11	Stock Pledge Agreement by CyberFin Corporation in favor of the
+Sovereign Purchasers dated as of January 18, 2000 (included as Exhibit
+10.13 to the Company's Amendment to the Quarterly Report on Form 10-Q/A
+for the quarter ended April 1, 2000, and incorporated herein by
+reference).
+
+10.12	Series 1 Bridge Financing Note in favor of Arab Commerce Bank
+Ltd. dated as of February 9, 2000 (included as Exhibit 10.22 to the
+Company's Amendment to the Quarterly Report on Form 10-Q/A for the
+quarter ended April 1, 2000, and incorporated herein by reference).
+
+10.13	Loan and Security Agreement, as amended, by and between the
+Company and BA Associates, Inc. (included as Exhibit 10.27 to the Company's
+Registration Statement on Form SB-2 filed with the Commission on November 29,
+2000, Reg. No. 333-50936, and incorporated herein by reference.)
+
+
+                                    A-2
+24
+<PAGE>
+
+                          EXHIBIT INDEX(CONTINUED)
+
+10.14 Fifth Amendment to Loan and Security Agreement, as amended, by and
+between the Company and B.A. Associates, Inc., dated as of December 27, 2000
+(included as Exhibit 10.28 to the Company's Annual Report on Form 10-K for
+the fiscal year ended December 31, 2000, and incorporated herein by
+reference).
+
+10.15 Form of Warrant Certificate between the Company and B.A. Associates,
+Inc. (included as Exhibit 10.29 to the Company's Annual Report on Form 10-K
+for the fiscal year ended December 31, 2000, and incorporated herein by
+reference).
+
+10.16 Sixth Amendment to Loan and Security Agreement, as amended, by and
+between the Company and B.A. Associates, Inc., dated as of December 27, 2001
+(included as Exhibit 10.30 to the Company's Annual Report on Form 10-KSB
+for the fiscal year ended December 31, 2001 and incorporated herein by
+reference).
+
+10.17 Lease by and between the Company and Bertech Flanders, LLC dated as of
+April 24, 2003 (included as Exhibit 10.33 to the Company's Quarterly Report
+on 10QSB for the quarter ended March 31, 2003, and incorporated herein by
+reference).
+
+
+21.1	List of subsidiaries of the Company.
+
+31.1 Certification as required by section 302 of the Sarbanes-Oxley Act of
+2002
+
+32.1 Certification as required by section 906 of the Sarbanes-Oxley Act of
+2002 (subsections (a) and (b) of section 1350, chapter 63 of title 18, United
+States Code).
+
+99.1 Risk Factors.
+
+
+                                  A-3
+25
+<PAGE>
+
+                     CAMBEX CORPORATION AND SUBSIDIARIES
+
+
+                 (Information required by Part II, Item 7 and
+                        Part III, Item 13 of Form 10-KSB)
+
+
+                             FINANCIAL STATEMENTS
+
+                                                                Page
+
+Report of Independent Public Accountants                        F - 2
+
+Consolidated Balance Sheets - December 31, 2006 and 2005        F - 3
+
+Consolidated Statements of Operations for the Years
+       Ended December 31, 2006 and December 31, 2005            F - 5
+
+Consolidated Statements of Stockholders' Investment
+       for the Years Ended December 31, 2006 and
+       December 31, 2005                                        F - 6
+
+Consolidated Statements of Cash Flows for the
+       Years Ended December 31, 2006 and December 31, 2005      F - 7
+
+Notes to Consolidated Financial Statements                      F - 8
+
+
+
+
+
+
+
+                               F-1
+26
+<PAGE>
+
+         REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM
+
+To the Stockholders of Cambex Corporation
+
+We have audited the accompanying consolidated balance sheet of Cambex
+Corporation (a Massachusetts corporation) and subsidiaries as of December 31,
+2006 and 2005, and the related consolidated statements of operations,
+stockholders' investment and cash flows for the years then ended.  These
+consolidated financial statements are the responsibility of the Company's
+management.  Our responsibility is to express an opinion on these
+consolidated financial statements based on our audits.
+
+We conducted our audits in accordance with the standards of the Public
+Company Accounting Oversight Board (United States).  Those standards require
+that we plan and perform the audit to obtain reasonable assurance about
+whether the consolidated financial statements are free of material
+misstatement. The Company is not required to have, nor were we engaged to
+perform, an audit of its internal control over financial reporting. Our audit
+included consideration of internal control over financial reporting as a
+basis for designing audit procedures that are appropriate in the
+circumstances, but not for the purpose of expressing an opinion on the
+effectiveness of the Company's internal control over financial reporting.
+Accordingly, we express no such opinion. An audit includes examining, on a
+test basis, evidence supporting the amounts and disclosures in the
+consolidated financial statements.  An audit also includes assessing the
+accounting principles used and significant estimates made by management, as
+well as evaluating the overall consolidated financial statement presentation.
+We believe that our audits provide a reasonable basis for our opinion.
+
+In our opinion, the consolidated financial statements referred to above
+present fairly, in all material respects, the financial position of Cambex
+Corporation and subsidiaries as of December 31, 2006 and 2005 and the results
+of their operations and their cash flows for the years then ended in
+conformity with accounting principles generally accepted in the United States
+of America.
+
+
+                                 SULLIVAN BILLE, P.C.
+                                 CERTIFIED PUBLIC ACCOUNTANTS
+
+Tewksbury, Massachusetts
+March 26, 2007
+
+
+
+
+
+                                      F-2
+27
+<PAGE>
+
+                       CAMBEX CORPORATION AND SUBSIDIARIES
+
+                           CONSOLIDATED BALANCE SHEETS
+                       DECEMBER 31, 2006 AND DECEMBER 31, 2005
+
+                                      ASSETS
+
+                                                DECEMBER 31,   DECEMBER 31,
+                                                     2006          2005
+
+
+CURRENT ASSETS:
+
+   CASH AND CASH EQUIVALENTS                    $   225,835   $   326,747
+
+   ACCOUNTS RECEIVABLE,
+   Less Reserves of $26,000 in 2006 and
+    $29,000 in 2005                                  43,233       175,141
+
+
+   INVENTORIES                                       51,845       154,121
+
+   PREPAID EXPENSES                                  16,141        57,648
+
+      TOTAL CURRENT ASSETS                      $   337,054   $   713,657
+
+PROPERTY AND EQUIPMENT, at cost:
+   MACHINERY AND EQUIPMENT                      $   422,468   $   422,468
+   FURNITURE AND FIXTURES                            14,186        14,186
+                                                $   436,654   $   436,654
+
+ LESS - ACCUMULATED DEPRECIATION                    433,654       431,654
+
+ NET PROPERTY AND EQUIPMENT                     $     3,000   $     5,000
+
+
+  TOTAL ASSETS                                  $   340,054   $   718,657
+
+The accompanying notes are an integral part of these consolidated financial
+statements.
+
+
+                                       F-3
+28
+<PAGE>
+
+                          CONSOLIDATED BALANCE SHEETS
+
+                     DECEMBER 31, 2006 AND DECEMBER 31, 2005
+
+                    LIABILITIES AND STOCKHOLDERS' INVESTMENT
+
+                                                DECEMBER 31,     DECEMBER 31,
+                                                    2006             2005
+
+CURRENT LIABILITIES:
+LOAN AGREEMENT                                $     225,000  $     967,219
+NOTES PAYABLE                                       429,643        464,643
+ACCOUNTS PAYABLE                                    156,240        154,918
+OTHER LIABILITIES                                   522,993      1,188,828
+ACCRUED EXPENSES                                  1,760,052      1,604,386
+
+ TOTAL CURRENT LIABILITIES                    $   3,093,928  $   4,379,994
+
+
+STOCKHOLDERS' INVESTMENT:
+PREFERRED STOCK, $ 1.00 PAR VALUE PER SHARE
+AUTHORIZED - 3,000,000 SHARES
+ SERIES A - ISSUED - 84,701 shares in 2006
+   and 98,223 shares in 2005                  $      84,701  $      98,223
+ SERIES B - ISSUED - 37,240 shares in 2005             -            37,240
+
+COMMON STOCK, $ .10 PAR VALUE PER SHARE
+AUTHORIZED - 25,000,000 SHARES
+ ISSUED - 23,429,278 shares in 2006 and
+  22,742,162 shares in 2005                       2,342,928      2,274,216
+CAPITAL IN EXCESS OF PAR VALUE                   19,846,252     19,864,202
+RETAINED EARNINGS (DEFICIT)                     (25,027,755)   (25,935,218)
+
+TOTAL STOCKHOLDERS' INVESTMENT                $  (2,753,874) $  (3,661,337)
+TOTAL LIABILITIES AND
+ STOCKHOLDERS' INVESTMENT                     $     340,054  $     718,657
+
+The accompanying notes are an integral part of these consolidated financial
+statements.
+
+                                   F-4
+29
+<PAGE>
+
+                      CAMBEX CORPORATION AND SUBSIDIARIES
+                     CONSOLIDATED STATEMENTS OF OPERATIONS
+            FOR THE YEARS ENDED DECEMBER 31, 2006 AND DECEMBER 31, 2005
+
+
+                                                Year Ended    Year Ended
+                                               December 31,  December 31,
+                                                    2006         2005
+
+
+REVENUES                                         $ 2,345,067 $ 2,272,191
+COST OF SALES                                        356,959     447,508
+
+Gross profit                                     $ 1,988,108 $ 1,824,683
+
+OPERATING EXPENSES:
+   Research and development                      $   870,881 $   865,252
+   Selling                                           319,881     366,839
+   General and administrative                        490,971     463,850
+   Total operating expenses                      $ 1,681,733 $ 1,695,941
+
+OPERATING INCOME                                 $   306,375 $   128,742
+
+OTHER INCOME (EXPENSE)                               601,088     101,476
+
+INCOME BEFORE INCOME TAXES                       $   907,463 $   230,218
+   Provision for income taxes                           -           -
+
+NET INCOME                                       $   907,463 $   230,218
+
+
+BASIC AND DILUTED INCOME PER COMMON SHARE        $      0.04 $      0.01
+
+Weighted Average Common Shares Outstanding        23,262,000  20,700,000
+Weighted Average Common and Common
+Equivalent Shares Outstanding                     23,262,000  20,700,000
+
+The accompanying notes are an integral part of these consolidated financial
+statements.
+
+                                    F-5
+30
+<PAGE>
+
+                     CAMBEX CORPORATION AND SUBSIDIARIES
+           CONSOLIDATED STATEMENTS OF STOCKHOLDERS' INVESTMENT (NOTE 7)
+        FOR THE YEARS ENDED DECEMBER 31, 2006 AND DECEMBER 31, 2005
+
+                            Common Stock  Capital in    Retained    Cost of
+                               $.10       Excess of     Earnings   Shares of
+                             Par Value    Par Value     (Deficit)Common Stock
+                                                                    Held in
+                                                                   Treasury
+
+BALANCE AT DECEMBER 31, 2004,
+ before reclassification        $1,986,561 $20,498,545
+$(26,165,436)$(888,971)
+Reclassification of common
+ stock held in treasury          ( 154,526) (  734,445)        -      888,971
+BALANCE, DECEMBER 31, 2004,
+ as reclassified                 1,832,035  19,764,100  (26,165,436)     -
+ADD:
+Net income                            -           -         230,218      -
+Conversion of Preferred
+ Stock to Common Stock             114,000      (4,000)        -         -
+Dividends                           39,992     (39,992)        -         -
+Conversion of Notes Payable
+ and interest to Common
+ Stock                             176,356      88,177         -         -
+Conversion of Accrued
+ Expenses to Common Stock          111,833      55,917         -         -
+
+BALANCE AT DECEMBER 31, 2005    $2,274,216 $19,864,202 $(25,935,218)$    -
+
+ADD:
+Net income                            -           -         907,463      -
+Conversion of Preferred
+ Stock to Common Stock              52,116      (1,354)        -         -
+Dividends                           16,596     (16,596)        -         -
+
+BALANCE AT DECEMBER 31, 2006    $2,342,928 $19,846,252 $(25,027,755)$    -
+
+
+                                  Series A             Series B
+                              Preferred Stock    Preferred Stock
+                              $1.00 Par Value    $1.00 Par Value
+
+BALANCE AT DECEMBER 31, 2004     $  98,223           $ 147,240
+
+ADD:
+Conversion of Preferred
+ Stock to Common Stock                -               (110,000)
+
+BALANCE AT DECEMBER 31, 2005      $ 98,223           $  37,240
+
+ADD:
+Conversion of Preferred
+ Stock to Common Stock            ( 13,522)           ( 37,240)
+
+BALANCE AT DECEMBER 31, 2006      $ 84,701           $    -
+
+
+The accompanying notes are an integral part of these consolidated financial
+statements.
+
+                                         F-6
+31
+<PAGE>
+
+                       CAMBEX CORPORATION AND SUBSIDIARIES
+                       CONSOLIDATED STATEMENTS OF CASH FLOW
+               FOR THE YEARS ENDED DECEMBER 31, 2006 AND DECEMBER 31, 2005
+
+	                                           Year Ended    Year Ended
+                                                 December 31,  December 31,
+                                                    2006           2005
+CASH FLOWS FROM OPERATING ACTIVITIES:
+Net income                                         $   907,463 $   230,218
+Adjustments to reconcile net income to net
+cash provided by(used in)operating activities:
+ Depreciation                                      $     2,000 $     1,000
+ Amortization of prepaid expenses                        8,147       6,800
+ Obligations for trade-in memory                          -     (  240,000)
+ Reversal of accrued expenses                        ( 665,835) (  219,216)
+Change in assets and liabilities:
+  Accounts receivable                                  131,908     122,564
+  Inventory                                            102,276  (    1,859)
+  Prepaid expenses                                      33,360      11,853
+  Accounts payable                                       1,322  (  120,345)
+  Accrued expenses                                     155,666      73,641
+  Other liabilities                                       -         39,025
+     Total adjustments                             $(  231,156)$(  326,537)
+Net cash provided by(used in) operating activities $   676,307 $(   96,319)
+
+CASH FLOWS USED IN INVESTING ACTIVITIES:
+ Purchases of equipment, net                       $      -    $(    6,000)
+ Net cash provided by(used in)investing activities $      -    $(    6,000)
+
+CASH FLOWS FROM FINANCING ACTIVITIES:
+ Increase(decrease) in notes payable               $(   35,000)$(   60,000)
+ Net borrowings(repayments) under loan agreement    (  742,219)    175,296
+ Net cash provided by
+ (used in) financing activities                    $(  777,219)$   115,296
+Net increase (decrease) in
+  cash and cash equivalents                        $(  100,912)$    12,977
+ Cash and cash equivalents at beginning of year        326,747     313,770
+ Cash and cash equivalents at end of year          $   225,835 $   326,747
+
+SUPPLEMENTAL DISCLOSURES OF CASH FLOW INFORMATION:
+Cash paid during the year for:
+  Interest                                         $      -    $        50
+  Income Taxes                                            -           -
+Non-cash financing and investing activities:
+ Conversion of note payable and interest
+  to Common Stock                                  $      -    $   264,533
+ Conversion of accrued expenses to Common Stock           -        167,750
+
+
+
+The accompanying notes are an integral part of these consolidated financial
+statements.
+                                     F-7
+32
+<PAGE>
+
+                     CAMBEX CORPORATION AND SUBSIDIARIES
+                  NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+                         December 31, 2006 and 2005
+
+(1)   Business Operations
+
+We are a designer and supplier of data storage products and solutions.  Our
+products include memory for computing systems and fibre channel connectivity
+and storage products used to build storage area networks (SANs).
+
+We sell our products to OEMs, resellers and directly to end-users. In 2005
+and 2006, our largest customers included QLogic, Hewlett-Packard and Sun
+Microsystems.
+
+In the year ended December 31, 2005, our top five customers accounted
+for approximately 62% of our total net revenues, and, in the year ended
+December 31, 2006, our top five customers accounted for approximately 88% of
+our total net revenues. During 2005 and 2006, two customers exceeded 10% of
+total revenues. There is no assurance that current customers will remain our
+customers in the future and the loss of a major customer could have a
+material effect on our business.
+
+
+(2)   Summary of Significant Accounting Policies
+
+Principles of Consolidation
+
+The accompanying consolidated financial statements include the accounts of
+Cambex Corporation and its wholly-owned subsidiaries. All subsidiaries are
+inactive. All material intercompany transactions and balances have been
+eliminated in consolidation.
+
+Revenue Recognition
+
+We manufacture equipment for sale or lease.  We follow the guidance in Staff
+Accounting Bulletin ("SAB") 104 in applying generally accepted accounting
+principles to revenue recognition in consolidated financial statements. We
+include items in revenue when the following criteria are met: persuasive
+evidence of an arrangement exists, delivery has occurred or services have
+been rendered, our price to the buyer is fixed or determinable and
+collectibility is reasonably assured.
+
+Inventories
+
+Inventories, which include materials, labor and manufacturing overhead, are
+stated at the lower of cost (first-in, first-out) or market and consist of
+the following:
+                                         December 31,       December 31,
+                                             2006               2005
+
+     Raw materials                     $    19,193        $   104,461
+     Work-in-process                         8,410             14,491
+     Finished goods                         24,242             35,169
+            Total                      $    51,845        $   154,121
+
+                                    F-8
+33
+<PAGE>
+
+                     CAMBEX CORPORATION AND SUBSIDIARIES
+                  NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+                         December 31, 2006 and 2005
+
+                                 (Continued)
+
+(2)   Summary of Significant Accounting Policies - Continued
+
+Property and Equipment
+
+We provide for depreciation and amortization on a straight- line basis to
+amortize the cost of property and equipment over their estimated useful lives
+as follows:
+
+             Machinery and equipment         3- 8 Years
+             Furniture and fixtures          3- 8 Years
+
+Maintenance and repair items are charged to expense when incurred; renewals
+or betterments are capitalized.
+
+If property is sold or otherwise disposed of, our policy is to remove the
+related cost and accumulated depreciation from the accounts and to include
+any resulting gain or loss in income.
+
+Depreciation expense of $2,000 and $1,000, was recorded for the periods ended
+December 31, 2006 and December 31, 2005, respectively.
+
+Net Income Per Common Share
+
+Basic income per share amounts are based on the weighted average number of
+common shares outstanding during each year. Diluted income per share amounts
+are based on the weighted average number of common shares and common share
+equivalents outstanding during each year to the extent such equivalents have
+a dilutive effect on the income per share.
+
+For the years ended December 31, 2006 and 2005, common share equivalents
+(options, warrants and convertible preferred stock) were not included in
+diluted income per share because the inclusion of the common stock
+equivalents would have had an antidilutive effect on the computation of
+diluted income per share.
+
+Cash and Cash Equivalents
+
+Cash and cash equivalents are recorded at cost which approximates market
+value and includes instruments purchased with maturities of less than three
+months.
+
+Disclosures about the Fair Value of Financial Instruments
+
+Our financial instruments consist mainly of cash, cash equivalents, accounts
+receivable, accounts payable, notes payable and a revolving credit agreement.
+The carrying amounts of these financial instruments approximate their fair
+value due to the short-term nature of these instruments.
+
+                                    F-9
+34
+<PAGE>
+
+                     CAMBEX CORPORATION AND SUBSIDIARIES
+                  NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+                    December 31, 2006 and 2005
+
+                                 (Continued)
+
+(2)   Summary of Significant Accounting Policies - Continued
+
+Use of Estimates
+
+The preparation of consolidated financial statements in conformity with
+generally accepted accounting principles requires management to make
+estimates and assumptions that affect the reported amounts of assets and
+liabilities and disclosures of contingent assets and liabilities as of the
+date of the consolidated financial statements, and the reported amounts of
+income and expenses during the reporting periods.  Actual results could
+differ from those estimates.
+
+Segment Reporting
+
+SFAS No. 131, "Disclosure about Segments of an Enterprise and Related
+Information," became effective for periods beginning after December 31, 1997.
+This statement requires the presentment of information about the identifiable
+components comprising an enterprise's business activities.
+
+We have determined that there are no separately reportable operating segments
+and, therefore, do not present separate reporting segments in the
+consolidated financial statements.
+
+Stock-Based Compensation
+
+In December 2004, the Financial Accounting Standards Board issued Statement
+of Financial Accounting Standards ("SFAS") No. 123(R), "Share-Based Payment."
+SFAS 123(R) replaces SFAS No. 123 and supersedes Accounting Principles Board
+Opinion No. 25 (APB 25), "Accounting for Stock Issued to Employees."  SFAS
+123(R) is effective as of the beginning of the first interim or annual
+reporting period that begins after December 15, 2005.  SFAS 123(R) requires
+that the costs resulting from all share-based payment transactions be
+recognized in the financial statements.  SFAS 123(R) applies to all awards
+granted after the required effective date and shall not apply to awards
+granted in periods before the required effective date, except if prior awards
+are modified, repurchased, or cancelled after the effective date.  With the
+adoption of SFAS 123(R), the Company elected to amortize stock-based
+compensation for awards granted on or after the adoption of SFAS 123(R) on
+January 1, 2006, on a straight-line basis over the requisite service
+(vesting) period for the entire award.
+
+As permitted under SFAS 123, amended by SFAS 123(R), the Company elected to
+follow APB 25, and related interpretations in accounting for stock based
+awards to employees through December 31, 2005. Accordingly, compensation cost
+for stock options and nonvested stock grants was measured as the excess, if
+any, of the market price of the Company's stock at the date of grant over the
+amount an employee must pay to acquire the stock.
+
+
+                                     F-10
+35
+<PAGE>
+
+                     CAMBEX CORPORATION AND SUBSIDIARIES
+                  NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+                    December 31, 2006 and 2005
+
+                                 (Continued)
+
+(2)   Summary of Significant Accounting Policies - Continued
+
+Recently Issued Accounting Pronouncements
+
+In December 2004, the Financial Accounting Standards Board issued
+SFAS No. 153, "Exchange of Nonmonetary Assets", which is an amendment to APB
+Opinion No. 29. The guidance in APB Opinion No. 29, "Accounting for
+Nonmonetary Transactions", is based on the principle that exchanges of
+nonmonetary assets should be measured based on the fair value of the assets
+exchanged. The guidance in that opinion, however, included certain exceptions
+to that principle. This statement amends APB Opinion No. 29 to eliminate the
+exception for nonmonetary exchanges of similar productive assets and replaces
+it with a general exception for exchanges of nonmonetary assets that do not
+have commercial substance. A nonmonetary exchange has commercial substance if
+the future cash flows of the entity are expected to change significantly as a
+result of the exchange. The adoption of SFAS No. 153 is not expected to have
+a material impact on our financial position or results of operations.
+
+In May 2005, the FASB issued SFAS No. 154, "Accounting Changes and Error
+Corrections." SFAS 154 is an amendment of APB Opinion 20 and FASB Statement
+No. 3.  This statement changes the requirements for the accounting for and
+reporting of a change in accounting principal.  This Statement applies to all
+voluntary changes in accounting principal and to changes required by an
+accounting pronouncement in unusual instances that the pronouncement does not
+include specific transition provisions. The Company does not expect the
+adoption of SFAS 154 to have an impact on its financial position or operating
+results.
+
+In February 2006, the FASB issued SFAS No. 155, "Accounting for Certain
+Hybrid Financial Instruments."  SFAS 155 is an amendment to SFAS 133 and 140.
+SFAS 155 improves financial reporting by eliminating the exception from
+applying SFAS 133 to interest in securitized financial assets so that similar
+instruments are accounted for similarly regardless of the form of the
+instruments.  SFAS 155 is effective for all financial instruments acquired or
+issued after the beginning of an entity's first fiscal year that begins after
+September 15, 2006.  The Company does not expect the adoption of SFAS 155 to
+have an impact on its financial position or results of operations.
+
+In March 2006, the FASB issued SFAS No. 156, "Accounting for Servicing of
+Financial Assets - an amendment of FASB Statement No. 140." SFAS 156 is an
+amendment to SFAS 140. SFAS 156 requires an entity to recognize a servicing
+asset or servicing liability each time it undertakes an obligation to service
+a financial asset by entering into a servicing contract; requires all
+separately recognized servicing assets and servicing liabilities to be
+initially measured at fair value, if practicable; permits an entity to choose
+its subsequent measurement methods for each class of separately recognized
+servicing assets and servicing liabilities; at its initial adoption, permits
+a one-time reclassification of available-for-sale securities by entities with
+recognized servicing rights, without calling into question the treatment of
+other available-for-sale securities under Statement 115, provided that the
+available-for-sale securities are identified in some manner as offsetting the
+
+
+                                     F-11
+36
+<PAGE>
+
+                     CAMBEX CORPORATION AND SUBSIDIARIES
+                  NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+                    December 31, 2006 and 2005
+
+                                 (Continued)
+
+(2)   Summary of Significant Accounting Policies - Continued
+
+entity's exposure to changes in fair value of servicing assets or servicing
+liabilities that a servicer elects to subsequently measure at fair value; and
+requires separate presentation of servicing assets and servicing liabilities
+subsequently measured at fair value in the statement of financial position
+and additional disclosures for all separately recognized servicing assets and
+servicing liabilities. SFAS 156 is effective for all servicing assets and
+servicing liabilities transactions after the beginning of an entity's first
+fiscal year that begins after September 15, 2006.  The Company does not
+expect the adoption of SFAS 156 to have an impact on its financial position
+or results of operations.
+
+In July 2006, the FASB issued Interpretation No. 48, "Accounting for
+Uncertainty in Income Taxes." This Interpretation clarifies the accounting
+for uncertainty in income taxes recognized in an enterprise's financial
+statements in accordance with SFAS 109. This Interpretation prescribes a
+recognition threshold and measurement attribute for the financial statement
+recognition and measurement of a tax position taken or expected to be taken
+in a tax return. This Interpretation also provides guidance on derecognition,
+classification, interest and penalties, accounting in interim periods,
+disclosure, and transition. This Interpretation is effective for fiscal years
+beginning after December 15, 2006. The Company does not expect the adoption
+of Interpretation No. 48 to have an impact on its financial position or
+results of operations.
+
+In September 2006, the FASB issued SFAS No. 157, "Fair Value Measurements."
+SFAS 157 defines fair value, establishes a framework for measuring fair value
+in generally accepted accounting principles and expands disclosures about
+fair value measurements. SFAS 157 applies under other accounting
+pronouncements that require or permit fair value measurements. Accordingly,
+SFAS 157 does not require any new fair value measurements. SFAS 157 is
+effective for fiscal years beginning after November 15, 2007. The Company
+does not expect the adoption of SFAS 157 to have an impact on its financial
+position or results of operations.
+
+In September 2006, the FASB issued SFAS No. 158, "Employers' Accounting for
+Defined Benefit Pension and Other Postretirement Plans - an amendment of FASB
+Statements No. 87, 88, 106, and 132(R)." SFAS improves financial reporting by
+requiring an employer to recognize the overfunded or underfunded status of a
+defined benefit postretirement plan as an asset or liability in its statement
+of financial position and to recognize changes in that funded status in the
+year in which the changes occur through comprehensive income. SFAS 158 also
+improves financial reporting by requiring an employer to measure the funded
+status of a plan as of the date of its year-end statement of financial
+position. SFAS 158 is effective for fiscal years ending after December 15,
+2006. The adoption of SFAS 158 did not have an impact on the Company's
+financial position or results of operations.
+
+In February 2007, the FASB issued SFAS No. 159, "The Fair Value Option for
+Financial Assets and Financial Liabilities - Including an amendment of FASB
+Statement No. 115." SFAS 159 permits entities to choose to measure many
+
+                                    F-12
+37
+<PAGE>
+
+                     CAMBEX CORPORATION AND SUBSIDIARIES
+                  NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+                    December 31, 2006 and 2005
+
+                                 (Continued)
+
+(2)   Summary of Significant Accounting Policies - Continued
+
+financial instruments and certain other items at fair value. The objective is
+to improve financial reporting by providing entities with the opportunity to
+mitigate volatility in reported earnings caused by measuring related assets
+and liabilities differently without having to apply complex hedge accounting
+provisions. SFAS 159 is effective for fiscal years beginning after November
+15, 2007. The Company does not expect the adoption of SFAS 159 to have an
+impact on its financial position or results of operations.
+
+(3)  Income Taxes
+
+In accordance with SFAS No. 109, "Accounting For Income Taxes", deferred tax
+assets and liabilities are determined based on the difference between the
+financial statement and tax basis of assets and liabilities using enacted tax
+rates in effect for the year in which the differences are expected to
+reverse.
+
+The following table presents a reconciliation between taxes provided at the
+statutory federal income tax rate and the actual tax provision recorded for
+the following periods:
+
+                              Year ended      Year ended
+                               December        December
+                                 2006            2005
+
+Provision (credit) at
+federal statutory rate        $  308,500      $   78,300
+
+State tax provision
+(credit), net of federal
+tax benefit                       57,200          14,600
+
+Change in valuation
+allowances                      (365,800)       ( 93,200)
+
+Other                                100             300
+                              $    -0-        $    -0-
+
+We have federal net operating loss carryovers totalling $24,800,000 which
+expire through the year ended December 31, 2023.
+
+
+                                    F-13
+38
+<PAGE>
+
+                     CAMBEX CORPORATION AND SUBSIDIARIES
+                  NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+                        December 31, 2006 and 2005
+
+                                 (Continued)
+
+
+(3)   Income Taxes - Continued
+
+
+The tax effects of the significant items which comprise the deferred tax
+liability and tax asset, as of fiscal 2006 and 2005 are as follows:
+
+                                     December       December
+                                       2006           2005
+
+Assets
+Reserves not currently deductible
+ for tax purposes                  $   371,000    $   620,000
+State tax net operating loss
+ carryforward                        2,421,000      2,448,000
+Federal net operating loss
+ carryforward                        7,635,000      7,720,000
+Employee benefits                       21,000         26,000
+
+Net deferred tax asset             $10,448,000    $10,814,000
+Valuation allowance                (10,448,000)   (10,814,000)
+Tax asset                                   0             0
+
+Tax refunds receivable                      0             0
+
+Total tax asset                             0             0
+
+Due to the uncertainty of the realizability of the deferred tax assets, we
+have established a valuation allowance for the net deferred tax assets.
+
+
+(4)   Short Term Borrowings
+
+We have a loan and security agreement with a related party referred to in
+Note 11. The outstanding balance due to the related party was $225,000 and
+$967,219 at December 31, 2006 and 2005, respectively.
+
+Notes payable of $429,643 at December 31, 2006 and $464,643 at December 31,
+2005 include $275,000 of advances payable from related parties, which are due
+on demand. These notes are further described in Note 11. The balances of
+$154,643 and $189,643 as of December 31, 2006 and December 31, 2005,
+respectively, include $4,643 and $ 39,643, respectively, of accounts payable
+converted to notes payable and include $150,000 of series 1 bridge financing
+notes issued in 2000.
+
+
+
+                                           F-14
+39
+<PAGE>
+
+                     CAMBEX CORPORATION AND SUBSIDIARIES
+                  NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+                         December 31, 2006 and 2005
+
+                                 (Continued)
+
+(4)   Short Term Borrowings - Continued
+
+The series 1 bridge financing notes bore interest at the rate of 8% per annum
+prior to maturity. Since maturity, interest is accruing on these notes at a
+rate of 12% per annum. These bridge notes are convertible into shares of our
+common stock at any time at a weighted average per share price of $4.08.
+Following conversion of the bridge notes, if Arab Commerce Bank Ltd. does not
+realize at least a 20% gain on shares of common stock that they choose to
+sell during the 90 days following conversion, then Arab Commerce Bank Ltd. is
+entitled to acquire additional shares of common stock at a price of $0.10 per
+share through the exercise of repricing warrants.  In addition to these
+bridge notes and the attached repricing warrants, we issued warrants to
+purchase 300,000 shares of common stock. These warrants have a weighted
+average exercise price of $4.54 per share. There is no value associated with
+these warrants recorded on our books.
+
+
+(5)   Earnings Per Share
+
+Earnings per share are computed by dividing net income by the average number
+of common shares and common stock equivalents outstanding during the year.
+The weighted average number of common shares outstanding during the years
+ended December 31, 2006 and 2005 were approximately 23,262,000 and
+20,700,000, respectively.
+
+Common stock equivalents include the net additional number of shares that
+would be issuable upon the exercise of the outstanding common stock options
+and warrants (see Note 9) and conversion of preferred stock, assuming that we
+reinvested the proceeds to purchase additional shares at market value. Common
+stock equivalents also include shares of common stock that would be issuable
+upon conversion of subordinated promissory convertible notes.
+
+Options and warrants to purchase 3,702,858 and 5,159,909 weighted average
+shares of common stock during the years ended December 31, 2006 and December
+31, 2005, respectively, were not included in the computation of diluted
+income per share because to do so would have had an antidilutive effect on
+the computation of income per share. Weighted average shares issuable from
+convertible notes of 24,630 were not included in the diluted earnings per
+share because to do so would have had an antidilutive effect on the
+computation of earnings per share.
+
+As more fully described in Note 9, options and warrants to purchase 3,213,750
+and 4,431,550 shares of common stock outstanding at December 31, 2006 and
+2005, respectively, and 24,630 shares of common stock issuable upon
+conversion of notes outstanding at December 31, 2006 and 2005 could
+potentially dilute basic income (loss) per share in the future.
+
+                                               F-15
+40
+<PAGE>
+
+                     CAMBEX CORPORATION AND SUBSIDIARIES
+                  NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+                     December 31, 2006 and 2005
+
+                                 (Continued)
+
+ (6) Preferred Stock
+
+We are authorized to issue up to 3,000,000 shares of preferred stock, $1.00
+par value per share, of which 84,701 and 135,463 shares are issued and
+outstanding as of December 31, 2006 and December 31, 2005, respectively. The
+84,701 shares outstanding as of December 31, 2006 are Series A Convertible
+Preferred shares. Of the 135,463 preferred shares outstanding, shares
+outstanding as of December 31, 2005, 98,223 shares are Series A Convertible
+Preferred shares and 37,240 are Series B Convertible Preferred shares. The
+Series A Convertible Preferred shares have a dividend rate of 12%, when and
+if declared by the Company's Board of Directors. Holders of shares of Series
+A Preferred stock are not entitled to any voting rights for any shares of
+Series A Preferred stock which they hold. The Series A Preferred Stock is
+convertible into shares of common stock, at any time at the holder's option.
+The holder's of the 84,701 shares of Series A Preferred Stock could convert
+their preferred shares into 847,010 shares of common stock. In 2005, 110,000
+shares of Series B Preferred Stock and dividends were converted into
+1,539,924 shares of common stock, including 399,924 shares relating to
+dividends. Upon an optional conversion, dividends accrued at the rate of 12%
+are payable in shares of common stock. In 2006, 13,522 shares of Series A
+Preferred stock was converted into 135,220 shares of common stock and the
+remaining 37,240 shares of Series B Preferred stock and dividends were
+converted into 551,896 shares of common stock, including 165,954 shares
+relating to dividends.
+
+(7) Stockholders' Investment
+
+Effective July 1, 2004, the Commonwealth of Massachusetts adopted a
+legislative act that resulted in a new Massachusetts corporation law. Under
+the Act, the general concept of treasury stock is no longer in place. As a
+result, any shares of stock that are purchased by the corporation are
+returned to unissued status. Because the new law was effective July 1, 2004,
+the reclassifications necessary have been reflected on the Consolidated
+Balance Sheets and in the Consolidated Statements of Stockholders'
+Investment.
+
+(8)   Commitments and Contingencies
+
+At December 31, 2006, we had minimum rental commitments under long-term,
+noncancelable operating leases for facilities and other equipment as follows:
+
+            Due during Fiscal Year
+
+
+
+                  2007                 177,371
+                  2008                 183,488
+                  2009                  91,744
+
+                  Total             $  452,603
+
+Total rental expense, including the cost of short-term equipment leases, real
+estate taxes and insurance paid to the landlord and charged to operations
+approximated $258,000 for the year ended December 31, 2006 and $248,000 for
+the year ended December 31, 2005.
+                                     F-16
+41
+<PAGE>
+
+                     CAMBEX CORPORATION AND SUBSIDIARIES
+                  NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+                   December 31, 2006 and 2005
+
+                                 (Continued)
+(8)   Commitments and Contingencies - Continued
+
+In the ordinary course of business, we are involved in legal proceedings.  We
+believe that the outcome of these proceedings will not have a material
+adverse effect on our financial condition or results of operations.
+
+(9)   Stock Options and Warrants
+
+On March 7, 1997, we established the 1997 Stock Option Plan. As of December
+31, 2006, there were 364,000 options to purchase shares of our common stock
+outstanding under the 1997 Plan. On November 12, 1999, the 1997 Plan was
+cancelled. On November 12, 1999, we established and on December 23, 1999,
+shareholders approved the Year 2000 Equity Incentive Plan. The Year 2000
+Equity Incentive Plan provides for the issuance of up to 1,500,000 shares of
+our common stock and 607,000 options to purchase shares of our common stock
+were outstanding as of December 31, 2006. The Year 2000 Equity Incentive Plan
+replaces the 1997 Plan for all future options. At December 31, 2006, we had
+three stock option plans for officers and certain employees under which
+1,864,000 shares were reserved and options for 893,000 shares were available
+for future grants.  Options are granted at not less than 85%, or in certain
+cases, not less than 100%, of the fair market value of the common stock on
+the date of grant.  Options outstanding have a term of ten years and become
+exercisable in installments as determined by the Board of Directors. The
+plans' options vest between one through six years and all expire between
+March 7, 2007 and March 25, 2015.
+
+Stock option activity for the two years ended December 31, 2006 was as
+follows:
+
+Option Shares                        Number of shares      Option Price
+                                     of common stock       per share
+                                     covered by options
+
+
+
+	Outstanding at December 31, 2004  1,113,800          $.06  -  $5.30
+
+      Granted                             215,000           .09  -    .16
+	Exercised, cancelled or
+	    Expired                        (140,000)          .09  -    .16
+	Outstanding at December 31, 2005  1,188,800          $.06  -  $5.30
+
+      Granted                                -
+	Exercised, cancelled or
+	    Expired                        (217,800)          .06  -    .26
+	Outstanding at December 31, 2006    971,000          $.09  -  $5.30
+
+
+As of December 31, 2006 and 2005, options for 933,000 and 1,008,800 shares
+were exercisable at aggregate option prices of $671,360 and $679,816,
+respectively.
+                                    F-17
+42
+<PAGE>
+
+                     CAMBEX CORPORATION AND SUBSIDIARIES
+                  NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+                   December 31, 2006 and 2005
+
+                                 (Continued)
+
+(9)   Stock Options and Warrants - Continued
+
+Effective January 1, 2006, the Company adopted the fair value method which is
+considered the preferable accounting method, of recording stock-based
+employee compensation as contained in SFAS No. 123 (R).  As prescribed in
+SFAS No. 148, "Accounting for Stock-Based Compensation-Transition and
+Disclosure", the Company elected to use the "prospective method."  The
+prospective method requires expense to be recognized for all awards granted,
+modified or settled beginning in the year of adoption.  Historically, the
+Company applied the intrinsic method as provided in Accounting Principles
+Board Opinion No. 25, "Accounting for Stock Issued to Employees" and related
+interpretations and accordingly, no compensation cost had been recognized for
+stock options in prior periods.  As a result of adopting the fair value
+method for stock compensation, all future awards will be expensed over the
+stock options' vesting period.
+
+Had compensation cost for these plans been determined consistent with SFAS
+No. 123 for the year ended December 31, 2005, our net income(loss) and
+income(loss) per share would have been changed to the following pro forma
+amounts:
+
+                                                    Year ended
+                                                   December 31,
+                                                       2005
+
+Net Income: As Reported (000's)                            230
+            Pro Forma                                      200
+
+Basic and Diluted EPS: As Reported                        0.01
+                       Pro Forma                          0.01
+
+
+The fair value of each option grant is estimated on the date of the grant
+using the Black-Scholes option pricing model with the following assumptions
+for grants in the periods presented.
+
+                                                   Year ended
+                                                   December 31,
+                                                       2005
+Assumptions:
+      Risk free interest rate                         4.17%
+      Expected dividend yield                            0%
+      Expected life in years                            10
+
+
+As of December 31, 2006 and 2005, warrants to purchase 2,242,750 and
+3,242,750 shares of common stock at weighted average prices of $0.32 and
+$0.36 per share were outstanding and an equal number of shares were reserved
+for issuance. Our shareholders have approved an increase from 25,000,000 to
+50,000,000 shares in the aggregate number of shares of common stock
+authorized to be issued by the Company.
+
+
+                                         F-18
+43
+<PAGE>
+
+                     CAMBEX CORPORATION AND SUBSIDIARIES
+                  NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+                   December 31, 2006 and 2005
+
+                                 (Continued)
+
+ (10)   Incentive Bonus Plan and 401(k) Profit Sharing Retirement Plan
+
+We have an incentive bonus plan under which certain key employees as a group
+are entitled to receive additional compensation up to a maximum of 15% of our
+pre-tax income, as defined.  There were provisions of $68,000 and $17,000 for
+additional compensation in 2006 and 2005, respectively.
+
+On September 1, 1988, we established the Cambex Corporation 401(k) Profit
+Sharing Retirement Plan (the Plan).  Under the Plan, employees are allowed to
+make pre-tax retirement contributions.  In addition, we may provide matching
+contributions based on pre-established rates. Each year the Board of
+Directors determines whether matching contributions will be made and in what
+amounts. There was no matching contribution in 2006 or 2005.
+
+We offer no post-retirement benefits other than those provided under the
+Plan.
+
+
+(11)  Related Party Transactions
+
+On November 9, 1998, we entered into a Loan and Security Agreement with
+B.A. Associates, Inc. (BAA), which is a corporation owned by Bruce D.
+Rozelle, a son-in-law  of Joseph F. Kruy, our Chairman, President and Chief
+Executive Officer.  This Loan and Security Agreement, as amended by a First
+Amendment to Loan and Security Agreement dated March 15, 1999, and further
+amended through December 27, 2001 (as so amended, the "BAA Loan Agreement"),
+allows us to borrow up to  $1,100,000, which is the maximum that may be
+outstanding at any one time. Under the BAA Loan Agreement, we granted BAA a
+first priority security interest in all of our accounts, instruments,
+documents, general intangibles, equipment, inventory, and proceeds of any of
+the foregoing.  We pay all amounts that we receive from collections of our
+accounts receivable to BAA not less frequently than each week until the
+outstanding loan amount plus interest, which accrues at a 12% annual rate, is
+fully paid.  Under the terms of the BAA Loan Agreement, originally BAA
+received a warrant for the purchase of 1.3 million shares of common stock, at
+an exercise price of $0.22 per share.  In consideration for increasing the
+amount of available funds, the Company agreed to issue an additional warrant
+to BAA for the purchase of 400,000 shares of our common stock, at an exercise
+price of $1.25 per share.  We believe that the borrowing arrangements we made
+with BAA were on terms at least as favorable to us as we would have expected
+from lenders unrelated to us and relatives of Mr. Kruy.
+
+
+
+                                   F-19
+44
+<PAGE>
+
+                     CAMBEX CORPORATION AND SUBSIDIARIES
+                  NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+                     December 31, 2006 and 2005
+
+                                 (Continued)
+
+(11)  Related Party Transactions - Continued
+
+In April through July 2002, we borrowed $125,000 from Joseph F. Kruy and
+$50,000 from Richard E. Calvert.  We also entered into separate Loan and
+Security Agreements with Messrs. Kruy and Calvert. Our payment obligations
+under these Loan and Security Agreements (the "2002 Loan Agreements") are
+evidenced by 12% Notes due in April through July 2003.  Under the 2002 Loan
+Agreements, we granted each of Messrs. Kruy and Calvert a first priority
+security interest in all of our accounts, instruments, documents, general
+intangibles, equipment, inventory, and proceeds of any of the foregoing.
+Under the terms of the 2002 Loan Agreements, Messrs. Kruy and Calvert
+received a warrant to purchase up to one share of common stock for each
+dollar loaned to us, at an exercise price of $0.25 per share. We believe that
+the borrowing arrangements we made with Mr. Kruy and others were on terms at
+least as favorable to us as we would have expected from lenders unrelated to
+us.
+
+In June through August 2003, we borrowed $200,000 from Joseph F. Kruy.  We
+also entered into Loan and Security Agreements with Mr. Kruy. Our payment
+obligations under these Loan and Security Agreements (the "2003 Loan
+Agreements") are evidenced by 12% Notes due in June through August 2004.
+Under the 2003 Loan Agreements, we granted Mr. Kruy a first priority security
+interest in all of our accounts, instruments, documents, general intangibles,
+equipment, inventory, and proceeds of any of the foregoing. We believe that
+the borrowing arrangements we made with Mr. Kruy were on terms at least as
+favorable to us as we would have expected from lenders unrelated to us.
+As of December 31, 2006, the balance outstanding under these Loan Agreements
+is $275,000 of which $225,000 is owed to Joseph F. Kruy and $50,000 is owed
+to Richard E. Calvert.
+
+
+
+
+
+
+                                      F-20
+45
+<PAGE>
+
+                                  SIGNATURES
+
+
+
+Pursuant to the requirements of Section 13 of the Securities Exchange Act of
+1934, the Company has duly caused this report to be signed on its behalf by
+the undersigned, thereunto duly authorized.
+
+
+CAMBEX CORPORATION
+
+
+By:   /s/Joseph F. Kruy
+         Joseph F. Kruy, President                        March 30, 2007
+
+
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, this
+report has been signed below by the following persons on behalf of the
+Company and in the capacities indicated as of March 30, 2007.
+
+
+By:   /s/   Joseph F. Kruy
+            Joseph F. Kruy, Chairman of the Board, President
+            (Principal Executive Officer)
+
+
+By:   /s/   Robert J. Spain
+            Robert J. Spain, Director
+
+
+By:   /s/   C. V. Ramamoorthy
+            C. V. Ramamoorthy, Director
+
+
+
+
+
+
+46
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-21.1
+<SEQUENCE>2
+<FILENAME>sublist.txt
+<TEXT>
+                          List of Subsidiaries
+
+Subsidiary                                       Jurisdiction
+
+
+Cambex Securities Corporation                    Massachusetts
+Cambex UK Ltd.                                   England
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-31.1
+<SEQUENCE>3
+<FILENAME>cert.txt
+<TEXT>
+Certifications:
+
+I, Joseph F. Kruy, certify that:
+
+1. I have reviewed this annual report on Form 10-KSB of Cambex Corporation;
+
+2. Based on my knowledge, this annual report does not contain any untrue
+statement of a material fact or omit to state a material fact necessary to
+make the statements made, in light of the circumstances under which such
+statements were made, not misleading with respect to the period covered by
+this annual report;
+
+3. Based on my knowledge, the financial statements, and other financial
+information included in this annual report, fairly present in all material
+respects the financial condition, results of operations and cash flows of the
+registrant as of, and for, the periods presented in this annual report;
+
+4. The registrant's other certifying officers and I are responsible for
+establishing and maintaining disclosure controls and procedures (as defined
+in Exchange Act Rules 13a-14 and 15d-14) for the registrant and have:
+
+a) designed such disclosure controls and procedures to ensure that material
+information relating to the registrant, including its consolidated
+subsidiaries, is made known to us by others within those entities,
+particularly during the period in which this annual report is being prepared;
+
+b) evaluated the effectiveness of the registrant's disclosure controls and
+procedures as of a date within 90 days prior to the filing date of this
+annual report (the "Evaluation Date"); and
+
+c) presented in this annual report our conclusions about the effectiveness of
+the disclosure controls and procedures based on our evaluation as of the
+Evaluation Date;
+
+5. The registrant's other certifying officers and I have disclosed, based on
+our most recent evaluation, to the registrant's auditors and the audit
+committee of registrant's board of directors (or persons performing the
+equivalent functions):
+
+a) all significant deficiencies in the design or operation of internal
+controls which could adversely affect the registrant's ability to record,
+process, summarize and report financial data and have identified for the
+registrant's auditors any material weaknesses in internal controls; and
+
+b) any fraud, whether or not material, that involves management or other
+employees who have a significant role in the registrant's internal controls;
+and
+
+6. The registrant's other certifying officers and I have indicated in this
+annual report whether there were significant changes in internal controls or
+in other factors that could significantly affect internal controls
+subsequent to the date of our most recent evaluation, including any
+corrective actions with regard to significant deficiencies and material
+weaknesses.
+
+Date: March 30, 2007
+
+/s/ Joseph F. Kruy
+Joseph F. Kruy
+President and Treasurer
+(principal executive officer and principal financial officer)
+
+
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-32.1
+<SEQUENCE>4
+<FILENAME>cert32.txt
+<TEXT>
+
+Exhibit 32.1
+
+       Form of Certification Pursuant to Section 1350 of Chapter 63
+                 of Title 18 of the United States Code
+
+
+I, Joseph F. Kruy, the chief executive officer and chief financial officer of
+Cambex Corporation, certify that
+
+(i) This annual report on Form 10KSB for the fiscal year ended December
+31, 2006 fully complies with the requirements of Section 13(a) or 15(d) of
+the Securities Exchange Act of 1934 and
+
+(ii) The information contained in this annual report on Form 10KSB fairly
+presents, in all material respects, the financial condition and results of
+operations of Cambex Corporation.
+
+
+Dated: March 30, 2007        /s/ Joseph F. Kruy
+                             Joseph F. Kruy
+                             President and Treasurer
+                             [principal executive officer and
+                              principal financial officer]
+
+
+This certification accompanies this annual report pursuant to section 906
+of the Sarbanes-Oxley Act of 2002 and shall not be deemed filed by the
+Company for purposes of Section 10 of the Securities Exchange Act of 1934, as
+amended.
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>5
+<FILENAME>riskfactors.txt
+<TEXT>
+                                 RISK FACTORS
+
+                         Risks Related to Our Business
+
+We have developed relationships with potential OEM, distribution channel and
+end user customers and a decision by any one of these potential customers not
+to purchase our products, or any cancellation or delay of orders that may be
+placed by any of these potential customers may have a significant and adverse
+affect on our net revenues
+
+    Historically, a limited number of OEMs, distribution channel and end user
+customers have accounted for a significant majority of our total net revenues
+in each fiscal period.  For example, sales to our top five customers
+accounted for approximately 88% and 62% percent of net revenues for the
+fiscal years ended December 31, 2006 and 2005, respectively.  We have
+established relationships with a small number of potential OEM, distribution
+channel and end user customers.  If any one of these potential customers
+decides not to purchase our products or decides to purchase our products in
+quantities that are below our expectations, then our net revenues will be
+adversely affected.  We have and expect to continue to experience substantial
+period-to-period fluctuations in future operating results because, among
+other factors, we depend to a significant extent upon revenues from a small
+number of customers.
+
+    Our sales cycle typically involves a lengthy qualification cycle during
+which there is a need to expend significant resources in addressing customer
+specifications.  Because of the length of the sales cycle, we may experience
+a delay between increasing expenses for research and development and sales
+and marketing efforts and the generation of higher revenues, if any, from
+such expenditures.  The purchase of our products or of solutions that
+incorporate our products typically involves significant internal procedures
+associated with the evaluation, testing, implementation and acceptance of new
+technologies.  This evaluation process frequently results in a lengthy sales
+process, typically ranging from three months to longer than a year, and
+subjects the sales cycle associated with the purchase of our products to a
+number of significant risks, including budgetary constraints and internal
+acceptance reviews. The length of our sales cycle also varies substantially
+from customer to customer.
+
+    Because we anticipate that none of our potential customers will be, and
+none of our current customers are, contractually obligated to purchase any
+fixed amount of products from us in the future, they may stop placing orders
+with us at any time, regardless of any forecast they may have previously
+provided.  If any of our significant customers stop or delay purchases, our
+revenues and operating results would be adversely affected, which could cause
+our stock price to decline.  We cannot be certain that we will retain our
+current OEM, distribution channel or end user customers or that we will be
+able to recruit additional or replacement customers.  As is common in an
+emerging technology industry, agreements with OEMs and distribution channel
+customers are typically non-exclusive and often may be terminated by either
+party without cause.  Moreover, many OEM and distribution channel customers
+carry competing product lines.  If we were to suddenly lose one or more
+important OEM, distribution channel or end user customers or potential
+customers to a competitor, our business, operating results or financial
+condition could be materially adversely affected.  Moreover, OEM customers
+could develop products internally that would replace our products.  The
+resulting reduction in sales of our products to any OEM customers, in
+
+1
+<PAGE>
+
+addition to the increased competition presented by these customers, could
+have a material adverse effect on our business, operating results or
+financial condition.
+
+
+The failure of OEM customers to keep pace with rapid technological change and
+to successfully develop and introduce new products could adversely affect our
+net revenues
+
+    Our ability to generate increased revenues depends significantly upon the
+ability and willingness of OEM customers to develop and promote products on a
+timely basis that incorporate our technology.  If OEM customers do not
+successfully develop and market the solutions that incorporate our products,
+then sales of our products to OEM customers will be adversely affected.  The
+ability and willingness of OEM customers to develop and promote such products
+is based upon a number of factors beyond our control.
+
+
+Delays in product development could adversely affect our market position or
+customer relationships
+
+    We have experienced delays in product development in the past and may
+experience similar delays in the future.  Given the short product life cycles
+in the markets for our products, any delay or unanticipated difficulty
+associated with new product introductions or product enhancements could cause
+us to lose customers and damage our competitive position.  Prior delays have
+resulted from numerous factors, such as:
+
+      changing product specifications;
+      difficulties in hiring and retaining necessary personnel;
+      difficulties in reallocating engineering resources and other
+      resource limitations;
+      lack of adequate capital to fund product development efforts;
+      difficulties with independent contractors;
+      changing market or competitive product requirements;
+      unanticipated engineering complexity;
+      undetected errors or failures in software and hardware; and
+      delays in the acceptance or shipment of products by customers.
+
+
+We expect the average selling prices and associated gross margins of our
+products to continue to decrease, which may reduce our revenues or gross
+profits
+
+    The markets for memory, fibre channel connectivity and disk storage
+products have experienced erosion of average selling prices and gross margins
+due to a number of factors, including competitive pricing pressures and rapid
+technological change. The gross margins for our memory products is lower than
+the gross margins for our fibre channel connectivity and disk storage
+products. We may experience substantial period-to-period fluctuations in
+future operating results due to the erosion of our average selling prices. We
+anticipate that the average selling prices of our products will decrease in
+the future in response to competitive pricing pressures, increased sales
+discounts, new product introductions by us or our competitors or other
+factors.  Therefore, to maintain our gross margins, we must develop and
+introduce on a timely basis, new products and product enhancements and
+continually reduce our product costs.  Our failure to do so would cause our
+
+2
+<PAGE>
+
+revenue and gross margins to decline, which could materially adversely affect
+our operating results and cause the price of our common stock to decline.
+
+
+If our business improves rapidly, our operations may be negatively impacted
+and we may be required to incur substantial costs to upgrade our
+infrastructure. We may need additional working capital financing and we may
+not be able to obtain such financing
+
+    If our business expands rapidly, then a significant strain may be
+placed on our resources.  Unless we manage such growth effectively, we may
+make mistakes in operating our business such as inaccurate sales forecasting,
+incorrect material planning or inaccurate financial reporting, which may
+result in unanticipated fluctuations in our operating results.  Our
+management team has had limited experience managing rapidly growing companies
+on a public or private basis.  We may not be able to install adequate control
+systems in an efficient and timely manner, and our current or planned
+personnel, systems, procedures and controls may not be adequate to support
+our future operations.
+
+
+The loss of or failure to attract and retain key technical, sales and
+marketing and managerial personnel could adversely affect our business
+
+    Our success depends to a significant degree upon the performance and
+continued service of engineers involved in the development of our memory and
+fibre channel technology and technical support of products and customers.
+Our success also depends to a significant degree upon the continued
+contributions of our key management, sales and marketing and manufacturing
+personnel.  Accordingly, our future success depends upon our ability to
+attract, train and retain such technical, sales and marketing and managerial
+personnel.  Except for an employment agreement with Joseph F. Kruy, our
+Chairman, President and Chief Executive Officer, we do not have employment
+agreements with any of these personnel.  We do not maintain key person life
+insurance on any of our personnel.  As we further develop our product line we
+will need to increase the number of sales and marketing personnel as well as
+technical staff members with experience in hardware and software development.
+We are currently seeking to hire additional skilled experienced sales
+personnel.  Competition for such highly skilled employees in our industry is
+intense, and we cannot be certain that we will be successful in recruiting or
+retaining such personnel.  Our employees may leave and subsequently compete
+against us.  The loss of key employees could have a material adverse effect
+on our business, operating results or financial condition. We also believe
+that our success depends to a significant extent on the ability of our key
+personnel to operate effectively, both individually and as a group.
+
+
+Insiders have and will continue to have substantial control over us and could
+delay or prevent a change in our corporate control, which may negatively
+affect your investment
+
+    Our officers and directors control the vote of approximately 25.3% of the
+outstanding shares of our common stock prior to the exercise of any
+outstanding warrants or options or the issuance of shares issuable upon the
+conversion of Series A Preferred stock held by them.  As a result, they may be
+able to significantly influence all matters requiring approval by our
+stockholders, including the election of directors.
+
+3
+<PAGE>
+
+Because we rely on a limited number of third party suppliers and
+manufacturers, and failures by any of these third parties to provide key
+components or to manufacture and assemble products of sufficient quality and
+quantity could cause us to delay product shipments, which could result in
+delay or lost revenues or customer dissatisfaction
+
+    Advanced Printed Circuit Technology fabricates our printed circuit
+boards, and various subcontractors, such as Circuit Technology, Inc., perform
+assembly of our memory and host bus adapters boards.  We have no long-term
+contracts with Advanced Printed Circuit Technology or Circuit Technology, Inc.
+Also, key components that we use in our products may, from time to time, only
+be available from single sources with which we do not have long-term contracts.
+In particular, QLogic Corporation is currently the sole supplier of certain
+components in certain of our host bus adapters.  The components we use for our
+products are based on an emerging technology and may not be available with the
+performance characteristics or in the quantities that we require.  Accordingly,
+our major suppliers are not obligated to supply products to us for any specific
+period, or in any specific quantity, except as may be provided in a particular
+purchase order. Moreover, any inability to supply products due to a lack of
+components or to redesign products to incorporate alternative components in a
+timely manner could materially adversely affect our business, operating results
+or financial condition.  If any of our third-party manufacturers experiences
+delays, disruptions, capacity constraints or quality control problems in its
+manufacturing operations, then product shipments to our customers could be
+delayed, which would negatively impact our net revenues, competitive position
+and reputation.
+
+    We have no long-term integrated circuit device supply contracts and are
+dependent on a small number of suppliers to supply integrated circuit
+devices, which represent approximately 90% of our component costs. Our
+dependence on a small number of suppliers and our limited number of long-term
+supply contracts expose us to several risks, including the inability to
+obtain an adequate supply of components, price increases, late deliveries and
+poor component quality.  Micron Semiconductor Electronics and Samsung
+Semiconductor currently supply a majority of the DRAM integrated circuit
+devices used in our DRAM memory products. A disruption in or termination of
+our supply relationship with any of these significant suppliers by natural
+disaster or otherwise, or our inability to develop relationships with new
+suppliers, if required, would cause delays, disruptions or reductions in
+product shipments or require product redesigns which could damage
+relationships with our customers, and would increase our costs and/or prices.
+
+
+
+Our business would be harmed if we fail to effectively manage the
+manufacture of our products.  Because we place orders with our suppliers and
+manufacturers based on our forecasts of expected demand for our products, if
+we inaccurately forecast demand, we may be unable to obtain adequate
+manufacturing capacity or adequate quantities of components to meet our
+customers' delivery requirements, or we may accumulate excess inventories.
+
+    We may in the future need to find new suppliers and contract
+manufacturers in order to increase our volumes or to reduce our costs.  We
+may not be able to find suppliers or contract manufacturers that meet our
+
+4
+<PAGE>
+
+needs, and even if we do, qualifying a new contract manufacturer and
+commencing volume production is expensive and time consuming.  If we
+are required or elect to change suppliers or contract manufacturers, we may
+lose revenues, and our customer relationships may suffer.
+
+
+We may be unable to maintain a steady supply of components
+
+	The electronics industry has experienced in the past, and may
+experience in the future, shortages in IC devices, including DRAM, and SRAM
+memory. We have experienced and may continue to experience delays in
+component deliveries and quality problems, which have caused and could in the
+future cause delays in product shipments. In addition, we have required and
+could in the future require the redesign of some of our products. In
+addition, industry capacity has, from time to time, become constrained such
+that some vendors, which supply components for our products have placed their
+customers, ourselves included, on allocation. This means that while we may
+have customer orders, we may not be able to obtain the materials that we need
+to fill those orders in a timely manner.
+
+
+Our products are complex and may contain undetected hardware, firmware or
+software errors or may fail to achieve interoperability standards that could
+lead to an increase in our costs, reduce our net revenues, or damage our
+reputation
+
+    In order to satisfy our customers, the solutions that we design require
+several different products to work together in a seamless fashion.  Our
+solutions may fail to achieve various interoperability standards necessary to
+satisfy our customers.  Moreover, products as complex as ours frequently
+contain undetected hardware, firmware or software errors when first
+introduced or as new versions are released.  We have from time to time found
+errors in existing products, and we may from time to time find errors in our
+existing, new or enhanced products.  Failure to achieve interoperability
+among products or the occurrence of hardware, firmware or software errors in
+various products could adversely affect sales of our products, cause us to
+incur significant warranty and repair costs, divert the attention of our
+engineering personnel from our product development efforts, cause significant
+customer relations problems and could result in product returns and loss of
+revenue.
+
+
+Steps taken to protect our intellectual property may not be adequate to
+protect our business, and if so, we may be unable to compete effectively
+
+    We primarily rely on unpatented trade secrets to protect our
+proprietary rights.  We seek to protect these secrets, in part, through
+confidentiality agreements with employees, consultants, and our customers and
+potential customers.  If these agreements are breached, or if our trade
+secrets become known to, or are independently developed by competitors, we
+may not have adequate remedies for such breach.  We cannot be certain that
+the steps we take to protect our intellectual property will adequately
+protect our proprietary rights, that others will not independently develop or
+otherwise acquire equivalent or superior technology or that we can maintain
+such technology as trade secrets.  In addition, the laws of some of the
+countries in which our products are or may be developed, manufactured or sold
+may not protect our products and intellectual property rights to the same
+
+5
+<PAGE>
+
+extent as the laws of the United States, or at all.  Our failure to protect
+our intellectual property rights could have a material adverse effect on our
+business, operating results or financial condition.
+
+
+We may become involved in costly and lengthy patent infringement or
+intellectual property litigation which could divert management attention,
+cause us to incur significant costs and prevent us from selling our products
+
+    We may receive communications from third parties alleging infringement of
+patents or other intellectual property rights, and there is the chance that
+third parties may assert infringement claims against us.  Any such claims,
+with or without merit, could result in costly and time-consuming litigation
+or cause product shipment delays that would adversely affect our business,
+financial condition or operating results.  It is possible that holders of
+patents or other intellectual property rights may assert rights that apply
+broadly to our industry, and that such patent or other intellectual property
+rights, if valid, may apply to our products or technology.  These or other
+claims may require us to stop using the challenged intellectual property or
+to enter into royalty or licensing agreements.  We cannot be certain that the
+necessary licenses will be available or that they can be obtained on
+commercially reasonable terms.  Our business, operating results or financial
+condition could be materially adversely affected if we were to fail to obtain
+such royalty or licensing agreements in a timely manner or on reasonable
+terms.
+
+
+Failure to comply with governmental regulations by our OEM customers or us
+could reduce our sales or require design modifications
+
+    Our products are subject to U.S. Department of Commerce and Federal
+Communications Commission regulations as well as various standards
+established by various state, local and foreign authorities.  Failure to
+comply with existing or evolving U.S. or foreign governmental regulation or
+to obtain timely domestic foreign regulatory approvals or certificates, could
+materially harm our business by reducing our sales or requiring design
+modifications to our products or the products of OEM customers.  U.S. export
+laws also prohibit the export of our products to a number of countries deemed
+by the United States to be hostile.  These restrictions may make foreign
+competitors facing less stringent controls on their products more competitive
+in the global market than we or our customers are.  The U.S. government may
+not approve future export license requests.  In addition, the list of
+products and countries for which export approval is required, and the
+regulatory policies with respect thereto, could be revised.
+
+
+Our quarterly operating results are volatile and may cause our stock price to
+fluctuate and the price of our common stock could fall if quarterly results
+are lower than investor expectations and you may lose all or part of your
+investment
+
+    Our revenues and operating results have varied on a quarterly basis in
+the past and are likely to vary significantly from quarter to quarter in the
+future.  The variations in our revenues and operating results are due to a
+number of factors, many of which are outside of our control, including among
+others:
+
+6
+<PAGE>
+
+      Changes in our operating expenses;
+      Our ability to develop and market new products;
+      The ability of our contract manufacturers and suppliers to
+      produce and supply our products in a timely manner;
+      The market acceptance of our new memory and fibre channel
+      products;
+      The timing of the introduction or enhancement of products by us,
+      OEM and distribution channel customers, and competitors;
+      The level of product and price competition;
+      Our ability to expand our relationship with OEMs, distribution
+      channel and end user customers;
+      Activities of and acquisitions by our competitors;
+      Changes in technology, industry standards or consumer preferences;
+      Changes in the mix of products sold, as our fibre channel
+      connectivity products typically have higher margins than our memory and
+	disk array products;
+      Personnel changes;
+      Changes in customer budgeting cycles and the timing of their purchase
+      decisions; and
+      General economic conditions.
+
+    Accordingly, you should not rely on quarter-to-quarter comparisons of
+our operating results as an indication of future performance.  It is possible
+that in some future periods our operating results will be below the
+expectations of investors.  In this event, the price of our common stock will
+likely decline.
+
+    We generally do not have a significant backlog of unfilled orders.  As
+a result, our revenues in a given quarter depend substantially on orders
+booked in that quarter.  A decrease in the number of orders we receive is
+likely to adversely and disproportionately affect our quarterly operating
+results.  Our expense levels are partially based on our expectations of
+future sales.  Therefore, our expenses may be disproportionately large as
+compared to sales in a quarter with reduced orders.  As a result, we may be
+unable to adjust spending in a timely manner to compensate for any unexpected
+revenue shortfall.  Any shortfall in sales in relation to our quarterly
+expectations or any delay of customer orders would likely have an immediate
+and adverse impact on our business, quarterly operating results and financial
+condition.
+
+
+                            Risks Related to Our Industry
+
+
+We are subject to the cyclical nature of the semiconductor industry and
+continued deterioration of the current cycle could adversely affect our
+business
+
+	The semiconductor industry, including the memory markets in which we
+compete, is highly cyclical and is characterized by constant and rapid
+technological change, rapid product obsolescence and price erosion, evolving
+standards, short product life cycles and wide fluctuations in product supply
+and demand. The industry has experienced significant downturns in the past
+and is currently experiencing a significant downturn that may get worse.
+Industry downturns are often connected with, or in anticipation of, maturing
+product cycles of both semiconductor companies' and their customers' products
+and declines in general economic conditions. These downturns have been
+
+7
+<PAGE>
+
+characterized by diminished product demand, production overcapacity, high
+inventory levels and accelerated erosion of average selling prices. The
+continuation or worsening of the current downturn in the industry and any
+future downturns could have a material adverse effect on our business and
+operating results. Furthermore, any upturn in the semiconductor industry
+could result in increased demand for, and possible shortages of, components
+we use to manufacture and assemble our integrated circuits. Such shortages
+could have a material adverse effect on our business and operating results.
+
+
+Our operating results may suffer because of increasing competition in the
+memory and fibre channel connectivity markets
+
+    The market in which we compete is intensely competitive.  As a result,
+we face a variety of significant challenges, including rapid technological
+advances, price erosion, changing customer preferences and evolving industry
+standards.  Our competitors continue to introduce products with improved
+price/performance characteristics, and we will have to do the same to remain
+competitive.  Increased competition could result in significant price
+competition, reduced revenues, lower profit margins or loss of market share,
+any of which would have a material adverse effect on our business, operating
+results and financial condition.  We cannot be certain that we will be able
+to compete successfully against either current or potential competitors in
+the future.
+
+    Many of our current and potential competitors have substantially
+greater financial, technical, marketing and distribution resources than we
+have.  We face the threat of potential competition from new entrants into the
+memory market, including large technology companies that may develop
+or acquire differentiating technology and then apply their resources,
+including established distribution channels and brand recognition, to obtain
+significant market share.  It is also possible that we will face increased
+competition due to mergers or consolidations of existing or potential
+competitors.  Emerging companies attempting to obtain a share of the existing
+market act as potential competition as well.
+
+
+We may not be able to maintain or improve our competitive position because of
+the intense competition in our industry
+
+    We conduct business in an industry characterized by intense competition,
+rapid technological change, evolving industry standards, declining average
+sales prices and rapid product obsolescence. Our competitors include many
+large domestic and international companies that have substantially greater
+financial, technical, marketing, distribution and other resources, broader
+product lines, lower cost structures, greater brand recognition and longer-
+standing relationships with customers and suppliers. As a result, our
+competitors are able to respond better to new or emerging technologies or
+standards and to changes in customer requirements. Our competitors are able
+to devote greater resources to the development, promotion and sale of
+products, and may be able to deliver competitive products at a lower price.
+
+    We expect to face competition from existing competitors and new and
+emerging companies that may enter our existing or future markets with similar
+or alternative products, which may be less costly or provide additional
+features. In addition, some of our significant suppliers are also our
+competitors, many of whom have the ability to manufacture competitive
+
+8
+<PAGE>
+
+products at lower costs as a result of their higher levels of integration. We
+also face competition from current and prospective customers that evaluate
+our capabilities against the merits of manufacturing products internally.
+Competition may arise due to the development of cooperative relationships
+among our current and potential competitors or third parties to increase the
+ability of their products to address the needs of our prospective customers.
+Accordingly, it is possible that new competitors or alliances among
+competitors may emerge and rapidly acquire significant market share.
+
+    We expect our competitors will continue to improve the performance of
+their current products, reduce their prices and introduce new products that
+may offer greater performance and improved pricing, any of which could cause
+a decline in sales or loss of market acceptance of our products. In addition,
+our competitors may develop enhancements to or future generations of
+competitive products that may render our technology or products obsolete or
+uncompetitive.
+
+
+In our industry, technology and other standards change rapidly, and we may be
+unable to keep pace with changes and could hinder our ability to compete
+effectively
+
+    The market for our products is characterized by rapidly changing
+technology, evolving industry standards and the frequent introduction of new
+products and enhancements.  If we do not keep pace with these changes, we may
+lose market share to our competitors and fail to meet our financial and
+operational objectives.  Because many of our products are designed to work
+with software produced by third parties, our operating results could be
+adversely affected if such third parties delay introduction of new versions
+of their software for which we have designed new products or if they make
+unanticipated modifications to such software.  Our future success depends in
+a large part on our ability to enhance our existing products and to introduce
+new products on a timely basis to meet changes in customer preferences and
+evolving industry standards.  We cannot be certain that we will be successful
+in designing, supplying and marketing new products or product enhancements
+that respond to such changes in a timely manner and achieve market
+acceptance.  We also cannot be certain that we will be able to develop the
+underlying core technologies necessary to create new products and
+enhancements, or that we will be able to license the core technologies from
+third parties.  Additionally, changes in technology and customer preferences
+could potentially render our current products uncompetitive or obsolete.  If
+we are unable, for technological or other reasons, to develop new products or
+enhance existing products in a timely manner in response to technological and
+market changes, our business, operating results and financial condition would
+be materially adversely affected.
+
+
+
+
+
+                  Risks Related to the Securities Markets
+
+The application of the "penny stock rules" could adversely affect the market
+price of our common stock
+
+    On March 22, 2007, the last sales price of our common stock was $0.15.
+Because the trading price of our common stock is less than $5.00 per share
+
+9
+<PAGE>
+
+and our common stock no longer trades on the Nasdaq National Market, our
+common stock comes within the definition of a "penny stock."  The "penny
+stock rules" impose additional sales practice requirements on broker-dealers
+who sell our securities to persons other than established customers and
+accredited investors (generally those with assets in excess of $1,000,000 or
+annual income exceeding $200,000 or $300,000 together with their spouse).
+For transactions covered by these rules, broker-dealers must satisfy certain
+additional administrative criteria in order to effectuate sales of our common
+stock, including disclosure of the broker-dealer's compensation received for
+such transaction, any compensation received by a person associated with the
+broker-dealer for this transaction and disclosing certain information to the
+investor in writing.  These additional burdens imposed on broker-dealers may
+restrict the ability of broker-dealers to sell our securities and may affect
+your ability to resell our common stock.  Among the requirements of
+transacting in penny stock is that broker-dealers effecting transactions in
+penny stock are required to deliver to the investors, a document containing
+specific information about penny stock, and to receive a manually signed and
+dated acknowledgement of receipt of such document from investors, prior to
+effecting such transactions.  Such requirements may have the effect of making
+your investment in our common stock less liquid because the rules will
+decrease the number of potential investors and thereby reducing demand for
+our stock.
+
+
+The issuance of shares to SovCap Equity Partners, Arab Commerce Bank, and
+others may cause significant dilution in the value of our common stock
+
+    The issuance of shares of our common stock to SovCap Equity Partners and
+Arab Commerce Bank will dilute the equity interest of existing stockholders
+and could have an adverse effect on the market price of our common stock.  As
+of December 31, 2006, we had 4,085,390 shares of common stock reserved for
+possible future issuances upon, among other things, the conversion of the
+series 1 bridge financing note held by Arab Commerce Bank, the conversion
+of Series A Preferred shares, and the exercise of outstanding options and
+warrants.
+
+    We may seek additional financing, which would result in the issuance of
+additional shares of our capital stock and/or rights to acquire additional
+shares of our capital stock.  Additional issuances of capital stock would
+result in a reduction of current shareholders' percentage interest in Cambex.
+If the exercise price of any outstanding options or warrants is lower than
+the price per share of common stock at the time of the exercise, then the
+price per share of common stock may decrease because the number of shares of
+common stock outstanding would increase without a corresponding increase in
+the dollar amount assigned to stockholders' equity.
+
+    The addition of a substantial number of shares of common stock into the
+market, including those issuable upon conversion of the Series A Preferred
+shares, or by the registration of any other of our securities under the
+Securities Act may significantly and negatively affect the prevailing market
+price for our common stock.  Furthermore, future sales of shares of common
+stock issuable upon the exercise of outstanding options and warrants may have
+a depressive effect on the market price of the common stock, as these
+warrants and options would be more likely to be exercised at a time when the
+price of the common stock is in excess of the applicable exercise price.
+
+10
+<PAGE>
+
+Our stock price is volatile and may drop unexpectedly, which could cause you
+to lose all or part of your investment
+
+    The stock market in general, and the stock prices of technology-based
+companies in particular, have experienced extreme volatility that often has
+been unrelated to the operating performance of any specific public company.
+
+
+Changes in general economic conditions or developments in the data storage,
+technology, and personal computer and workstation markets that affect
+investor confidence could have a dramatic impact on the market price of our
+common stock.  Also, changes in estimates of our earnings as well as any of
+the factors described in this "Risk Factors" section could have a significant
+impact on the market price of our common stock.  In the past, companies that
+have experienced volatility in the market price of their stock have been the
+subject of securities class action litigation.  We may be a target of such
+litigation in the future.  If we become the subject of securities class
+action litigation, it could result in substantial costs and a diversion of
+management's attention and resources and could seriously harm our business,
+financial condition and results of operations.
+
+
+We may engage in future acquisitions that dilute our stockholders' equity and
+cause us to incur debt or assume contingent liabilities
+
+    We may pursue acquisitions that could provide new technologies or
+products.  Future acquisitions may involve the use of significant amounts of
+cash, potentially dilutive issuances of equity or equity-linked securities,
+the incurrence of debt, or amortization expenses related to goodwill and
+other intangible assets.
+
+      In addition, acquisitions involve numerous risks, including:
+
+         difficulties in the assimilation of the operations, technologies,
+         products and personnel of the acquired company;
+         the diversion of management's attention from other business
+         concerns;
+         risks of entering markets in which we have no or limited prior
+         experience; and
+         the potential loss of key employees of the acquired company.
+
+    In the event that such an acquisition does occur and we are unable to
+successfully integrate businesses, products, technologies or personnel that
+we acquire, our business, operating results or financial condition could be
+materially adversely affected.
+
+
+If you invest in our common stock, you should not expect to receive a current
+return because we do not pay, and have no foreseeable plans to pay cash
+dividends on our common stock
+
+	We have never paid cash dividends on our common stock and do not
+anticipate paying any cash dividends in the foreseeable future.  We intend to
+retain future earnings, if any, to finance the growth and expansion of our
+business and for general corporate purposes.
+
+11
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

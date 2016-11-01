@@ -1,0 +1,2034 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ RqtV4ogPyC4ZsDwaapFrVEoDAbZf2Q3lJ0gdFjYfd89dDgTIlcomSqfw3mHxP7Jz
+ CzlIMQxHFVsP/3CXOzEnDA==
+
+<SEC-DOCUMENT>0000020199-99-000006.txt : 19990628
+<SEC-HEADER>0000020199-99-000006.hdr.sgml : 19990628
+ACCESSION NUMBER:		0000020199-99-000006
+CONFORMED SUBMISSION TYPE:	10KSB40
+PUBLIC DOCUMENT COUNT:		3
+CONFORMED PERIOD OF REPORT:	19990331
+FILED AS OF DATE:		19990625
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			CHURCH LOANS & INVESTMENTS TRUST
+		CENTRAL INDEX KEY:			0000020199
+		STANDARD INDUSTRIAL CLASSIFICATION:	REAL ESTATE INVESTMENT TRUSTS [6798]
+		IRS NUMBER:				756030254
+		STATE OF INCORPORATION:			TX
+		FISCAL YEAR END:			0331
+
+	FILING VALUES:
+		FORM TYPE:		10KSB40
+		SEC ACT:		
+		SEC FILE NUMBER:	000-08117
+		FILM NUMBER:		99652063
+
+	BUSINESS ADDRESS:	
+		STREET 1:		5305 I-40 W
+		CITY:			AMARILLO
+		STATE:			TX
+		ZIP:			79106
+		BUSINESS PHONE:		8063583666
+
+	MAIL ADDRESS:	
+		STREET 1:		P O BOX 8203
+		CITY:			AMARILLO
+		STATE:			TX
+		ZIP:			79106
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>10KSB40
+<SEQUENCE>1
+<DESCRIPTION>FORM 10-KSB405 FOR CHURCH LOANS & INVESTMENTS TST
+<TEXT>
+
+                ________________________________________________
+
+                                 FORM 10-KSB405
+
+                       SECURITIES AND EXCHANGE COMMISSION
+                              Washington, DC 20549
+                ________________________________________________
+
+               [ X ] ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d)
+                     OF THE SECURITIES EXCHANGE ACT OF 1934
+
+                    For the Fiscal Year Ended March 31, 1999
+
+               [___] TRANSITION REPORT UNDER SECTION 13 OR 15(d)
+                     OF THE SECURITIES EXCHANGE ACT OF 1934
+
+              For the transition period from _________to ________.
+
+                            Commission File No. 08117
+                ________________________________________________
+
+                        CHURCH LOANS & INVESTMENTS TRUST
+                 (Name of small business issuer in its charter)
+
+               Texas                                   75-6030254
+    _______________________________                ___________________
+    (State or other jurisdiction of                  (IRS Employer
+    incorporation or organization)                 Identification No.)
+
+         5305 I-40 West, Amarillo, Texas                  79106
+    ________________________________________            __________
+    (Address of principal executive offices)            (Zip Code)
+
+                                 (806) 358-3666
+                           ___________________________
+                           (Issuer's telephone number)
+
+Securities registered pursuant to Section 12(b) of the Exchange Act: None
+
+Securities  registered  pursuant to Section 12(g) of the Exchange Act: Shares of
+Beneficial Interest
+
+                ________________________________________________
+
+     Check whether the issuer (1) has filed all reports  required to be filed by
+Section 13 or 15(d) of the  Exchange  Act during the past 12 months (or for such
+shorter period that the  registrant was required to file such reports),  and (2)
+has been subject to such filing requirements for the past 90 days.
+
+                               Yes [ X ] No [___]
+
+     Check if there is no disclosure  of  delinquent  filers in response to Item
+405 of  Regulation  S-B  contained  in  this  form,  and no  disclosure  will be
+contained, to the best of registrant's
+<PAGE>
+
+
+
+knowledge,  in  definitive  proxy  or  information  statements  incorporated  by
+reference of part III of this Form 10-KSB or any  amendment to this Form 10-KSB.
+[ X ]
+
+     Issuer's revenues for its most recent fiscal year: $4,561,217.
+
+     The aggregate  market value of the voting stock held by  non-affiliates  of
+the registrant is $16,256,393 as of June 2, 1999.
+
+     The number of shares  outstanding of each of the issuer's classes of common
+stock, as of March 31, 1999 is 7,000,806 shares of beneficial interest.
+
+                      Documents Incorporated by Reference:
+
+     Portions of the Annual Report to Shareholders  for the year ended March 31,
+1999, are incorporated by reference into Parts II and III.
+
+     Exhibits  3(a) and 3(b)  included  in Form S-11 under File No.  2-51235 are
+incorporated by reference into Part III.
+
+                                       -2-
+<PAGE>
+                                TABLE OF CONTENTS
+                        FORM 10-KSB ANNUAL REPORT - 1999
+                        CHURCH LOANS & INVESTMENTS TRUST
+
+                                                                      Page
+                                                                      ____
+        PART I
+
+             Item 1:  Description of Business ................          4
+             Item 2:  Description of Properties ..............          6
+             Item 3:  Legal Proceedings ......................          6
+             Item 4:  Submission of Matters to a Vote of
+                       Security Holders ......................          6
+
+
+        PART II
+
+             Item 5:  Market for Common Equity
+                       and Related Stockholder Matters .......          7
+             Item 6:  Management's Discussion and Analysis or
+                       Plan of operation .....................          8
+             Item 7:  Financial Statements ...................         14
+             Item 8:  Changes in and Disagreements with
+                       Accountants on Accounting and
+                       Financial Disclosure ..................         14
+
+
+        PART III
+
+             Item 9:  Directors, Executive Officers, Promoters
+                       and Control Persons; Compliance with
+                       Section 16(a) of the Exchange Act .....         15
+             Item 10: Executive Compensation .................         16
+             Item 11: Security Ownership of Certain Beneficial
+                       Owners and Management .................         17
+             Item 12: Certain Relationships and Related
+                       Transactions ..........................         18
+             Item 13: Exhibits and Reports on Form 8-K .......         18
+
+                                      -3-
+<PAGE>
+                                     PART I
+
+Item 1: DESCRIPTION OF BUSINESS
+
+Church Loans & Investments Trust ("the Trust") is a real estate investment trust
+organized under the laws of the State of Texas in March 1963. Although the Trust
+has the  authority to engage in the  business of buying,  selling and leasing of
+real  estate,  the Trust  has  heretofore  restricted  its  business  activities
+primarily  to making  loans to churches and other  nonprofit  organizations  and
+assisted  living  centers  which are secured by a first  mortgage on real estate
+owned by such borrowers.
+
+The period of duration of the Trust, unless dissolved in accordance with law, or
+by the consent of the owners of shares of beneficial  interest in the Trust,  is
+perpetual.  The Trust may be dissolved by the affirmative  vote of not less than
+two-thirds of the owners of outstanding  shares of the Trust.  Owners of Secured
+Savings  Certificates,  a debt instrument  issued by the Trust,  have no vote in
+regard to any activities of the Trust, including dissolution.
+
+The control and management of the Trust properties,  and all powers necessary or
+appropriate  to  effect  any and all of the  purposes  for  which  the  Trust is
+organized, is vested in the Board of Trust Managers.
+
+The  number of shares of  beneficial  interest  in the Trust  which the Trust is
+authorized to issue is unlimited.
+
+The Trust is  qualified  as a "real  estate  investment  trust"  under  Sections
+856-858 of the Internal  Revenue Code of 1986 as amended (the "Internal  Revenue
+Code" or "Code").  It is the  intention of the Trust to continue to qualify as a
+real estate investment trust under the Code.
+
+The Trust  maintains  an office  located at 5305 I-40 West,  Amarillo,  TX 79106
+(telephone 806/358-3666).
+
+As mentioned  above,  the Trust is  primarily  engaged in the business of making
+mortgage loans to churches and other nonprofit organizations and assisted living
+centers.  The  Declaration  of Trust  restricts the  investments of the Trust to
+loans  secured by a first  mortgage,  deed of trust or other lien  covering real
+property with the amount of such loans not to exceed 66 2/3% of the value of the
+real  property  securing  such loan as  determined  by a  competent  independent
+appraiser.  Although  the Trust has been  primarily  in the  business  of making
+long-term  mortgage  loans,  during  the past  several  years  it has also  been
+
+                                       -4-
+<PAGE>
+
+actively involved in making short-term  interim or construction loans to finance
+the  construction  of church  buildings,  the  construction  of assisted  living
+centers,   the  purchase  of  real  estate,   or  the  refinancing  of  existing
+indebtedness.  Most of the interim loans  presently  being made by the Trust are
+associated with bond offerings of churches and other nonprofit organizations and
+assisted living centers. These interim loans are scheduled to be repaid from the
+proceeds of the bond offerings.
+
+The Trust is not limited to the location of the  property  securing any loans in
+which it may invest and seeks to spread its  investments  in areas of the United
+States where favorable yields prevail.
+
+As of March 31, 1999, the Trust has 121 permanent and interim mortgage loans and
+investments in church bonds having a principal balance of $37,657,511,  with the
+average principal amount thereof being $311,219.10.  The interest rates on these
+loans vary from 7.5% to 17% per annum with the weighted average interest rate of
+mortgage  loans and church bonds being  10.06% per annum at March 31, 1999.  The
+original  terms of these  loans  vary  from one year to thirty  years,  with the
+majority being for a term of twenty years.
+
+During the fiscal year of the Trust ending March 31, 1999, the net income of the
+Trust was  $2,505,826,  as compared to $2,226,533 in fiscal 1998, an increase of
+12.54%.  The  increase  in net income of the Trust was due to  several  factors,
+including (a)an increase in the investment in mortgage and interim loans made by
+the  Trust  thereby  increasing  the net  interest  income  of the trust and the
+commitment fees earned by the Trust; and (b) an increase in income realized from
+loan purchase discounts.
+
+The net income of the Trust for each of the quarters  during  fiscal 1999 was as
+follows:    first    quarter-$608,529;     second    quarter-$672,504;     third
+quarter-$597,839; and fourth quarter-$626,954.
+
+The operational  expense of the Trust decreased from $698,138 during fiscal 1998
+to  $684,706  in  fiscal  1999.  The  operational  expenses  of the  Trust  were
+approximately  15.01% of its gross  income for the year ended  March 31, 1999 as
+compared to 17.50% for the year ended March 31, 1998. The operational expense of
+the Trust  included  general and  administrative  expenses and  compensation  to
+members of the Board of Trust Managers.
+
+During  fiscal 1999,  the Trust  advanced  loan  proceeds of  $35,518,740  on 32
+different  loans.  Most,  if not all, of such loans bear  interest at a variable
+rate  varying  from 1.5% to 2% per annum in excess of the prime rate of interest
+published  by the Wall  Street  Journal  and known as the "Wall  Street  Journal
+Prime."
+
+During the first 10 months of fiscal 1999,  the Trust employed a total of 4 full
+time employees and employed,  as needed, one additional  part-time employee.  On
+February 1, 1999, the Trust added one full-time employee.
+
+                                       -5-
+<PAGE>
+The business  conditions in which the Trust operates has become more competitive
+in the past fiscal year as more and more banks are  re-entering  the business of
+making loans to churches,  especially  the more  desirable,  less risky,  church
+loans.  If this trend  continues,  the rates and fees which the trust can charge
+may decrease.  However,  loan demand  remains good as evidenced by the number of
+loan  requests  received  by the  Trust  and  the  number  of  loan  commitments
+outstanding as of March 31, 1999.
+
+Item 2: DESCRIPTION OF PROPERTY
+
+The Trust  maintains as its only place of business  its offices  located at 5305
+I-40  West,  in  Amarillo,  Texas.  Such  building  is owned by the Trust and is
+occupied  solely by the  Trust.  There is no debt owed by Trust in regard to its
+real property.
+
+The real properties of the Trust,  net of depreciation and excluding real estate
+acquired  through  foreclosure,  are not a  significant  portion of the  Trust's
+assets, representing less than 1% of the Trust's total assets.
+
+As previously mentioned,  the Trust's primary business is the making of mortgage
+loans to churches and other nonprofit organizations and assisted living centers.
+The Declaration of Trust restricts the investments of the Trust to loans secured
+by a first  mortgage,  deed of trust,  or other lien covering real property with
+the amount of such loans not to exceed 66 2/3% of the value of the real property
+securing  such loan.  The  Declaration  of Trust may not be amended  without the
+affirmative  vote of  two-thirds  (2/3 rds) of the  Certificates  of  Beneficial
+Interest  entitled to vote.  The Board of Trust  Managers'  general policy is to
+limit  investment  of Trust  assets  in any one  mortgage  loan to not more than
+$2,000,000.  All such investment in mortgage loans is for the purpose of earning
+income for the Trust.
+
+Due to several  foreclosures of nonperforming loans, the Trust holds title or an
+interest  in the title to two  properties  which are  presently  for sale by the
+Trust. These properties are located in San Antonio, Texas and Decatur, Georgia.
+
+Item 3: LEGAL PROCEEDINGS
+
+None
+
+Item 4: SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS
+
+None
+
+                                       -6-
+<PAGE>
+                                     PART II
+
+Item 5: MARKET FOR REGISTRANT'S COMMON EQUITY AND RELATED STOCKHOLDER MATTERS
+
+(a) Market Information
+
+There is no  established  public  trading  market for the  shares of  beneficial
+interest of the Trust.  During fiscal 1999 a total of 97,440 shares were sold in
+the secondary  market at prices ranging from $2.265 to $2.75 per share. The last
+sale  during the fiscal year was at $2.50 per share.  During  fiscal year 1998 a
+total of 147,328 shares were sold in the secondary market at prices ranging from
+$2.20 to $2.75 per share.
+
+The range of high and low bid information  for shares of beneficial  interest of
+the Trust for each quarter within the last two fiscal years is as follows:
+
+                  Quarter           Fiscal 1999    Fiscal  1998
+                  -------            High    Low    High    Low
+                                    ______  _____  ______  _____
+                  April-June .....   $2.35  $2.30  $2.30   $2.25
+                  July-September .    2.35   2.30   2.75    2.25
+                  October-December    2.44   2.265  2.40    2.25
+                  January-March ..    2.75   2.35   2.65    2.25
+
+The source of the above information is the Trust's own records. The Trust serves
+as the Transfer Agent for its own shares.
+
+(b) Holders
+
+At March 31, 1999 there were 2,462 shareholders of the Trust.
+
+(c) Dividends
+
+Cash dividends on all outstanding shares of beneficial interest in the Trust are
+declared twice annually, for the 3 month period ending March 31, and the 9 month
+period ending December 31. In fiscal 1998 the Trust paid a cash dividend of $.31
+per  share.  In fiscal  1999 the Trust paid a total  cash  dividend  of $.36 per
+share.
+
+                                       -7-
+<PAGE>
+(d) Sales of Unregistered Securities.
+
+None.
+
+Item 6: MANAGEMENT'S DISCUSSION AND ANALYSIS OR PLAN OF OPERATION
+
+Results of Operations--1999 compared to 1998
+
+During the fiscal year ended  March 31,  1999,  interest  income and fees of the
+Trust  increased  by $572,504  (14.35%)  over the  previous  fiscal  year.  Such
+increase  was  primarily  attributable  to  several  factors,  including  (a) an
+increase in the amount of  performing  loans made by the Trust  during the year;
+and (b) the  realization  of income from the early payoff of loans  purchased by
+the  Trust at a  discount.  Although,  there  was a  decrease  in the  amount of
+performing interim loans held by the Trust from $10,732,915 as of March 31, 1998
+to  $10,406,937  as of March 31,  1999,  there  was an  increase  in  performing
+mortgage  loans during the recent fiscal year from  $22,165,629  as of March 31,
+1998 to  $23,109,175  as of March 31,  1999.  Therefore,  the  total  performing
+mortgage loans,  church bonds and performing interim  construction loans held by
+the Trust  increased from  $32,898,544 as of March 31, 1998 to $33,516,112 as of
+March 31, 1999. More  significantly,  there was an increase in the investment in
+mortgage and interim loans made by the Trust during  fiscal 1998 of  $33,238,225
+as compared to $35,518,740  during fiscal 1999.  This  represents an increase of
+$2,280,515  or 6.86%.  The increase in the  investment  by the Trust in mortgage
+loans also  contributed  to an increase of $58,860 in commitment  fees earned by
+the Trust in fiscal 1999 as compared to fiscal 1998. Income from the realization
+of loan  discounts from loan purchases also increased from $236,512 for the year
+ended March 31, 1998 to $330,074 for the year ended March 31, 1999,  an increase
+of $93,562.
+
+These  increases  more that offset a decrease in the  average  interest  rate on
+loans and church  bonds held by the Trust  from  10.95% as of March 31,  1998 to
+10.06% as of March 31, 1999 and a decrease in interest on temporary  investments
+held by the Trust from  $62,705 as of March 31,  1998 to $34,996 as of March 31,
+1999.
+
+In fiscal  1999,  the average  aggregate  amount of total debt  outstanding  was
+$3,030,868 more than in fiscal 1998.  Accordingly,  the interest  expense of the
+Trust  increased  by  $218,088 as compared to fiscal  1998.  Such  increase  was
+primarily  due to an  increase  in the  debt of the  Trust.  Such  increase  was
+somewhat  offset by a decrease in the  Trust's  cost of funds.  The  approximate
+weighted  average  annual  interest  rate upon the  aggregate  outstanding  debt
+decreased from 7.44% during fiscal 1998 to 6.90% during fiscal 1999.
+
+The net income of the Trust for fiscal 1999 was $2,505,826 ($.36 per share),  an
+increase of $279,293  (12.54%) from the previous  fiscal year. Such increase was
+primarily  attributable  to an increase in net interest income in fiscal 1999 as
+compared to fiscal 1998 as  discussed  above.  Dividends  related to fiscal 1999
+were  $2,450,283 or $.35 per share.  Dividends are based on taxable income which
+varies from net income reported in the financial statements because of
+
+                                       -8-
+<PAGE>
+temporary  differences  (differences  between  the  tax  basis  of an  asset  or
+liability and its reported  amount in the financial  statements that will result
+in taxable or deductible amounts in future years).  Future dividends may be more
+or less  than  net  income  reported  in the  financial  statements  because  of
+variances in these temporary differences.
+
+During  fiscal 1999,  the prime  interest  rate  decreased  from 8.50% to 7.75%.
+Should the prime interest rate decrease during fiscal 2000, the interest expense
+of the Trust  will  generally  decrease  and the net income of the Trust will in
+turn generally  increase.  Should the prime interest rate increase during fiscal
+2000,  the  interest  expense of the Trust will  generally  increase and the net
+income of the Trust will in turn generally decrease.
+
+Payments  received on the interim and  permanent  loan  portfolio and the church
+bonds  held by the  Trust  increased  from  $31,194,006  during  fiscal  1998 to
+$35,610,274  during  fiscal  1999,  an increase  of 14.16%.  This  increase  was
+attributable  to: (a) an increase in interim  loans made by the Trust during the
+year ended  March 31,  1999 and (b) the  pay-off  prior to  maturity  of several
+mortgage loans.
+
+During fiscal 1998, the Trust foreclosed on three nonperforming loans with total
+principal   balances  of   approximately   $1,360,000.   One  loan   constituted
+approximately $976,000 of the total and was secured by an assisted living center
+located in Sedona,  Arizona. The Trust sold its interest in this property during
+fiscal 1999. However,  the Trust financed such purchase by the acceptance of the
+purchaser's  interim promissory note payable to the Trust.  Therefore,  the gain
+from this sale will be recognized by the Trust as such interim note is paid. The
+Trust sold another  property located in Colorado  Springs,  Colorado in exchange
+for part cash and the remainder of the purchase price is paid pursuant to a note
+executed by the purchaser of such property. Once again, the Trust will recognize
+the  balance  of the gain  from the sale of this  property  as the note is paid.
+Finally, the Trust has also sold a portion of a piece of property located in San
+Antonio,  Texas which it had received in a foreclosure conducted in fiscal 1998.
+Presently, the Trust is actively seeking disposition of the balance of this land
+located in San Antonio, Texas which is unimproved raw land.
+
+Liquidity and Capital Resources
+
+The Trust is engaged  primarily in the business of making  permanent and interim
+loans to churches and other  non-profit  organizations,  and to other borrowers,
+including  businesses  engaged in the building and operation of assisted  living
+centers. At March 31, 1999, the Trust had eight loans to two different borrowers
+which are  secured  by  assisted  living  centers  which  totaled  approximately
+$12,233,000.   Four  of  these  loans  were  to  affiliated  borrowers  totaling
+approximately  $9,001,000 and with the remaining four loans to another  borrower
+totaling  $3,232,000.   In  addition,   the  Trust  had  four  loan  commitments
+outstanding as of March 31, 1999 for the  construction and financing of assisted
+living centers in the total approximate amount of $3,825,000.
+
+                                       -9-
+<PAGE>
+The assets of the Trust  primarily  consist of its loan portfolio and its office
+building and facilities.  The  operational  expense of the Trust is comprised of
+the  maintenance  of its office  building,  the  payment of the  salaries of its
+management and clerical staff and the payment for legal and accounting services.
+Substantially  all of the Trust assets are invested in the permanent and interim
+loans made by the Trust. The only potential  liquidity problems of the Trust are
+related to the timely and proper  repayment by the Trust of the leveraged  funds
+it has  borrowed  to make loans in excess of its capital and the ability to fund
+loan  commitments  which  totaled  $11,452,000  at March  31,  1999.  All of the
+indebtedness  of  the  Trust  is  generally  classified  as  short  term  having
+maturities ranging from "on demand" to maturities repayable over various periods
+extending through 2001.
+
+The annual  maturities upon all debt obligations of the Trust  outstanding as of
+March  31,  1999 for the next  two  fiscal  years  are:  2000--$14,145,040;  and
+2001-$726,000. These debt obligations primarily consist of the Trust's bank line
+of  credit,   Master   Note   Agreements   and  Secured   Savings   Certificates
+("Certificates")  which have been previously  issued by the Trust.  Certificates
+outstanding  as of March 31,  1999 that will  mature  during the next two fiscal
+years are: 2000-$2,037,376; and 2001-$726,000.
+
+At March 31, 1999 loans to the Trust under Master Note  Agreements  which are in
+effect demand notes total  $8,257,664.  In the past,  the Trust has utilized its
+bank line of  credit,  principal  paid to the Trust  upon its  outstanding  loan
+portfolio,  and the proceeds  received from the sale of Certificates in order to
+meet its maturing obligations.
+
+At March 31,  1999,  the  balance  which could be borrowed by the Trust upon its
+bank line of credit was  $11,150,000.  The  principal  payments  scheduled to be
+received by the Trust upon its loan  portfolio  for the years  ending  March 31,
+2000 and 2001 are  $13,376,084,  and $1,616,852,  respectively.  Assuming all of
+these scheduled principal payments are received,  these payments,  together with
+the balance  available to Church  Loans on its bank line of credit,  would allow
+Church Loans to have sufficient funds to meet its maturing  obligations and fund
+loan  commitments  without the  necessity  for Church  Loans  having to sell any
+additional Certificates or borrow funds from other sources.
+
+During fiscal 1998 and 1997 the Trust sold Certificates in the principal amounts
+of $3,314,121 and $2,648,579,  respectively. Due to the cost of registration and
+the  other  costs of sales of such  Certificates,  the cost of these  funds  are
+normally  higher than the cost of borrowing  from bank sources or master  notes.
+Therefore,  the Trust  discontinued  the registration of Certificates and ceased
+the sales of  Certificates  as of July 16,  1997.  The Trust  also  obtained  an
+increase in its bank line of credit from  $10,000,000 to  $15,000,000  effective
+September 1, 1997.  Based upon the success of the Trust to obtain  borrowings in
+the past, the Trust is confident that,  should it be necessary,  it will be able
+to register and sell  Certificates  or obtain  additional  bank financing in the
+future  in  sufficient  amounts  for  the  Trust  to  timely  meet  all  of  its
+obligations.
+
+                                      -10-
+<PAGE>
+Should all the scheduled  principal payments upon loans made by the Trust not be
+received,  and should the Trust be unable to borrow  against its line of credit,
+and should  borrowings from other sources not be available it would be necessary
+for the Trust to sell a portion of its mortgage  loan  portfolio in order for it
+to meet all of its  financial  obligations.  At March 31,  1999,  the  principal
+balance of the loan and church bond portfolio of the Trust was $37,071,141.  The
+weighted  average  interest rate on loans and church bonds was 10.06% per annum.
+In view of the normal  marketability  of  conventional  loans,  the Trust  would
+probably be required to discount the great  majority of these loans in order for
+them to be  attractive  for  purchase.  The  principal  amount of these loans if
+discounted to yield a weighted  average  interest rate of 12%, 14% and 16% would
+be  $31,077,973,  $26,638,263,  and  $23,308,480,   respectively.  There  is  no
+assurance  that the  Trust  would be able to sell  all,  or a  portion  of,  its
+portfolio  of loans,  in which  event,  it would be  necessary  for the Trust to
+secure a loan,  or  loans,  from a lender  in  order  for the  Trust to meet its
+financial  obligations.  There is no  assurance  that the Trust would be able to
+secure a loan in such instance.  The Trust has sold only one of the loans in its
+mortgage loan portfolio and therefore has limited experience in this area.
+
+Principal payments scheduled to be received by the Trust upon its permanent loan
+portfolio  during the years ending March 31, 2000 and 2001,  if not used to fund
+new loan  commitments,  would be used to reduce the outstanding  indebtedness of
+the  Trust.  Should  the Trust use the  payments  of  principal  which  shall be
+received upon its loan  portfolio to reduce its  outstanding  indebtedness,  the
+interest  expense of the Trust will  decrease.  In such  instance,  whether  the
+decrease in the interest  income will exceed,  or be less than,  the decrease in
+the interest  expense will largely be dependent  upon the prime rate of interest
+prevailing  at such time due to the fact that the  interest  to be earned by the
+Trust upon its mortgage loan  portfolio is generally  based upon a fixed rate of
+interest or a variable rate of interest that  periodically  reprices,  while the
+interest  to be paid by the Trust upon its  outstanding  debts is  directly,  or
+indirectly, tied to the prime rate of interest charged by major domestic banks.
+
+As of March 31, 1999, a substantial  portion of the promissory  notes evidencing
+the  loans  made by the Trust  have  been  pledged  to  secure  its  outstanding
+indebtedness.  At March 31, 1999  promissory  notes in the  principal  amount of
+$5,406,722  had been pledged to secure  Certificates  which had been  previously
+sold by the Trust. The required  collateral for these Certificates (based on the
+ratio of 1 to 1 for Certificates in Series O) was $2,763,376,  leaving an excess
+of  promissory  notes  which  have been  pledged  by the  Trust to  secure  said
+Certificates of $2,643,346.  Additionally,  promissory notes totaling $9,304,931
+were  pledged  against  the bank  line of credit  which had a total  outstanding
+balance  of  $3,850,000.   The  required  collateral  for  this  bank  loan  was
+$4,235,000,  leaving an excess of  promissory  notes which have been  pledged to
+secure  said bank notes of  $5,069,931.  These  excess  promissory  notes may be
+reassigned by the Indenture Trustee or bank to the Trust to be sold in order for
+the Trust to meet its financial obligations. Should it be necessary in order for
+the Trust to meet its  financial  obligations,  these excess notes  amounting to
+$7,713,277 and other additional  promissory  notes in the approximate  amount of
+$22,359,488 (for a total amount of $30,072,765) would be available to be sold by
+the Trust to meet its financial obligations.  Should the excess promissory notes
+be  assigned  by the  Indenture  Trustee  or bank  to
+
+                                      -11-
+<PAGE>
+the Trust as heretofore  described,  all  outstanding  Certificates  sold by the
+Trust and the bank line of credit  would  continue to be secured by the required
+ratio of notes pledged to the principal  balance of these  Certificates  and the
+bank line of credit.  There is no assurance that the Trust would be able to sell
+all, or any portion of these notes.
+
+Cash flows from  operating  activities  consists  primarily  of net income.  The
+primary  components  of net income are  interest  income and  expense.  Interest
+income  should  continue  to be the main source of cash  provided  by  operating
+activities;  however,  the  availability of this cash flow is dependent upon the
+ability of the borrowers to repay loans.  Although  there was an increase in the
+amount of non-performing  loans as of March 31, 1999 compared to March 31, 1998,
+management  does not  expect  material  changes  in such loans in the near term.
+Accordingly,  cash provided by operating  activities has been and is expected to
+be a relatively stable source of cash flow.
+
+Cash flows from investing  activities  results  primarily from investment in and
+payments received on mortgage and interim construction loans and church bonds.
+
+Cash flows  from  financing  activities  relate  primarily  to the  payments  on
+Certificates  and  borrowings  and  payments  on notes  payable  and the line of
+credit.  Borrowings  are made as funds are  needed to make  loans or as  current
+obligations become due. Based upon the success of the Trust to obtain borrowings
+in the past, the Trust is confident that it will be able to obtain borrowings in
+the future in sufficient  amounts,  along with payments to be received on loans,
+to timely meet its obligations.  Furthermore,  the Trust is confident that if it
+decides to register additional  Certificates in the future it would have similar
+success in selling the Certificates as it has had in the past.
+
+Inflation
+
+At March 31, 1999, the weighted  average  interest rate on the mortgage loan and
+church  bond  portfolio  of the Trust was  10.06% per annum  while the  weighted
+average  interest  rate upon all  borrowings  of the Trust was 6.90% per  annum.
+Although a majority of the loans  constituting  the loan  portfolio of the Trust
+have been made at  variable  rates of interest  that  generally  reprice  either
+daily, annually, or otherwise periodically,  a portion of the loans constituting
+the  Trust's  loan  portfolio  have been  made at fixed  rates of  interest  and
+therefore are not subject to being increased or decreased during the term of the
+loan.  All  of  the   indebtedness  of  the  Trust,   other  than  the  existing
+Certificates,  is  either  directly  or  indirectly  tied to the  prime  rate of
+interest  charged by major  banking  institutions  and  therefore  is subject to
+fluctuation.  During periods of inflation, the prime rate of interest charged by
+major  banking  institutions,  as well as the interest rate or cost of borrowing
+money from any lender, generally increases. Consequently, during an inflationary
+period the  interest  expense of the Trust would  increase.  Since the  interest
+income of the Trust would not  increase as rapidly,  an increase in the interest
+expense  of the Trust  would  decrease  the net  income of the  Trust.  However,
+interest  income should  subsequently  increase as variable rate loans  reprice.
+Should the amount of the loans and the amount of the  indebtedness  of the Trust
+remain  constant,  and  should  the  weighted  average  interest  rate  upon the
+indebtedness increase to
+
+                                      -12-
+<PAGE>
+approximately  25.08% per annum, the interest income and the interest expense of
+the Trust would be substantially equal.
+
+Odd-Lot Tender Offer
+
+During  fiscal 1999,  the Trust  completed an odd-lot  tender  offer.  Effective
+September 1, 1998, the Trust extended a tender offer to all shareholders  owning
+less than 100 shares of  beneficial  interest to purchase  such shares for $2.50
+per share.  The offer  expired  November  30, 1998. A total of 6,596 shares were
+purchased as a result of such odd-lot tender offer,  thereby reducing the number
+of outstanding shares of beneficial interest in the Trust to 7,000,806.
+
+Year 2000 Issues
+
+The following  information  which appears in this section  constitutes Year 2000
+Readiness  Disclosure,  pursuant  to  the  Year  2000  ("Y2K")  Information  and
+Readiness  Disclosure Act. The Year 2000 issue is the result of computer systems
+using a two-digit  format,  as opposed to four digits, to indicate the year. Any
+of the Trust's computer programs or hardware that have  date-sensitive  software
+or embedded chips may not appropriately interpret dates beyond the year 1999.
+
+This could result in a system failure,  miscalculation  or other computer errors
+causing  disruptions  of  operations.  The  Trust's  plan to  address  the issue
+involves the following five phases: awareness, assessment,  remediation, testing
+and implementation.  The plan also involves  communicating with external service
+providers to ensure that they are taking  appropriate  action to remedy any Year
+2000 issues.  To date,  the Trust has completed  its  assessment of systems that
+could be affected by the Year 2000. As part of the  assessment  phase,  systems,
+which have the greatest impact, were designated as mission critical systems.
+
+Internal mission  critical  systems include the Trust's internal  accounting and
+information system. This system includes a small server-based local area network
+and a small peer-to-peer network that uses commercially  available operating and
+networking software. The vendors (primarily Microsoft,  Compaq and Gateway) have
+certified this hardware and software as Year 2000 compliant. The Trust's primary
+financing  application  programs  (including  general  ledger,   mortgage  loan,
+shareholder,  bond financing and Secured Savings Certificate accounting modules)
+are  customized.  During November 1998, an independent  consultant  performed an
+analysis to  determine  if programs  were Year 2000  compliant.  The cost of the
+testing was less than $1,000. The Trust has engaged the consultant to modify and
+test the  noncompliant  programs.  Remediation  began  about  December  1998 and
+through May 31, 1999 was 65%  complete.  The  consultant  has  committed  to the
+completion of remediation and testing no later than December 15, 1999,  however,
+it is  believed  that  remaining  modifications  and testing  will be  virtually
+complete by the end of the third calendar quarter. It is estimated that the cost
+to modify  the files will range  from  $6,000 to $7,500  (excluding  the cost to
+upgrade and replace systems used in the ordinary course of business). Such costs
+will be charged to expense as incurred.
+
+                                      -13-
+<PAGE>
+The Trust's  operations are relatively  simple.  As far as essential vendors are
+concerned,  the primary ones are considered to be the Trust's  primary bank (the
+same bank serves as  depositor  and  lender),  and the  electric  and  telephone
+utility.  The Trust has received  reports from these  providers  regarding their
+efforts to attain Y2K readiness. The negative impact of large loan customers who
+have not dealt with the  implications  of the Y2K  problem  on their  operations
+could be serious to the Trust. However, the Trust does not believe that the risk
+to its  typical  loan  customer  is as  great  as it is to a  normal  commercial
+operation.  This is due to the fact that the source of loan  payments  generally
+made by all churches is from individuals making  contributions via cash or check
+to the church.  Accordingly, it is believed that most churches should not suffer
+adversely  from  the Y2K  issue.  Nevertheless,  the  Trust  surveyed  its  loan
+customers  with  balances over $100,000 in the first quarter of calendar 1999 to
+determine their Y2K  compliance.  Most churches have responded that they will be
+in  compliance.  The Trust intends to follow up soon on those  churches who have
+not responded.
+
+The Trust believes that it has an effective program in place to resolve the Year
+2000 issue in a timely manner and that it is unlikely that Year 2000 issues will
+cause any  significant  problems  with  customer  service  or  otherwise  have a
+material  adverse  impact on the Trust's  operations  or financial  performance.
+However,  if appropriate  modifications are not completed in a timely manner for
+some unexpected reason, the Year 2000 issue could impact the Trust's operations.
+In  addition,  disruptions  in the economy  generally  resulting  from Year 2000
+issues could also  materially  impact the Trust.  There can be no guarantee that
+the systems of other companies on which the Trust is effected will be remediated
+in a timely  manner and not have any adverse  impact on the Trust's  operations.
+
+At this time, the Trust has not developed  Year 2000  contingency  plans,  other
+than the review and remedial actions  described above, and does not intend to do
+so unless  the Trust  believes  such  plans are  merited  by the  results of its
+continuing Year 2000 review. The Trust has not developed a "worst case" scenario
+with  respect to Year 2000  issues,  but instead has  focused its  resources  on
+identifying material,  remediable problems and reducing uncertainties  generally
+through the Year 2000 review described above.
+
+SIGNIFICANT SUBSEQUENT EVENT
+
+On June 17, 1999, the Trust received  $1,380,493.29 in full and final payment of
+a loan owing to the Trust from St. Stephens Church of God in Christ, Inc. of San
+Diego,  California.  Such  amount  paid  in full  the  principal,  interest  and
+attorney's fees owing to the Trust by such Borrower. Such loan was accounted for
+as a  non-performing  loan by the Trust and certain  interest  payments had been
+credited  to  principal.  Therefore,  such  payoff  resulted  in  an  additional
+recognition of interest income of  approximately  $611,088.60  during June 1999.
+The interest  income  recognized  as a result of this loan payoff is $0.0873 per
+share.
+
+Item 7: FINANCIAL STATEMENTS
+
+Financial  Statements  at March 31, 1999,  and 1998 and for each of the years in
+the two-year  period ended March 31, 1999,  are  incorporated  by reference from
+Pages 17 through 33 of the 1999 Annual Report to Shareholders.
+
+The report of independent  auditors with respect to the financial  statements at
+March 31, 1999, and 1998 and for each of the years in the two-year  period ended
+March 31,  1999 is  incorporated  by  reference  from Page 16 of the 1999 Annual
+Report to Shareholders.
+
+Item  8:  CHANGES  IN AND  DISAGREEMENTS  WITH  ACCOUNTANTS  ON  ACCOUNTING  AND
+          FINANCIAL DISCLOSURE
+
+None
+
+                                      -14-
+<PAGE>
+                                    PART III
+
+Item 9:  DIRECTORS  AND  EXECUTIVE  OFFICERS,  PROMOTERS  AND  CONTROL  PERSONS;
+         COMPLIANCE WITH SECTION 16(a) OF THE EXCHANGE ACT
+
+(a) Board of Trust Managers.  The following  information is furnished as to each
+individual  who now  serves as a member of the  Board of Trust  Managers  of the
+Trust:
+
+B. R.  McMorries,  age 72, is a  consulting  engineer.  He has served as a Trust
+Manager since 1963. He serves as Chairman of the Board of Trust Managers.
+
+Larry Brown,  age 56, is the  President of Larry Brown  Realtors,  Inc. and is a
+licensed  realtor.  He has served as a Trust  Manager  since 1981.  He serves as
+Vice-Chairman and Secretary of the Board of Trust Managers.
+
+Jack R. Vincent, age 69, is engaged in farming and ranching  operations.  He has
+served as a Trust Manager since 1989.
+
+Steve  Rogers,  age 51, is the  President  of Steve  Rogers  Co., a real  estate
+appraisal firm. He has served as a Trust Manager since 1990.
+
+Mike  Bahn,  age 55, is the  President  of  Amarillo  Blueprint  Co.,  an office
+equipment  and supply and  reproduction  services  business.  He has served as a
+Trust Manager since 1997.
+
+Terry  Hays,  age 48, is the  Information  Systems  Manager  for the law firm of
+Perdue,  Brandon,  Fielder,  Collins  and Mott.  Mr.  Hays has served as a Trust
+Manager since 1998.
+
+Alfred J. Smith, age 64, is in the independent oil and gas production  business.
+Pursuant to the By-Laws of the Trust, the Board of Trust Managers  appointed Mr.
+Smith to the board of Trust Managers at its January 1999 meeting.
+
+(b)  Executive  Officers.  The  following  information  is  furnished as to each
+individual  who now  serves  as an  executive  officer  of the  Trust who is not
+mentioned under "Board of Trust Managers" above:
+
+M. Kelly Archer,  age 47, serves as President,  Manager of Operations  and Chief
+Financial  Officer of the Trust. As such, Mr. Archer  functions as the Executive
+Officer of the Trust. Mr. Archer has served in this capacity for 17 years.
+
+Robert E. Martin,  age 49, serves as the Senior  Vice-President-Lending  for the
+Trust.  Mr. Martin has served in such capacity since February 1, 1999.  Prior to
+serving in such  capacity,  Mr. Martin served as the  President/CEO  of Santa Fe
+Federal  Credit Union.  Mr. Martin also
+
+                                      -15-
+<PAGE>
+served as a member of the Board of Trust Managers of the Trust prior to becoming
+an employee of the Trust.
+
+Robert E. Fowler,  age 46,  serves as the Senior  Vice-President-Accounting  and
+Information Systems for the Trust. Mr. Fowler has served in such capacity for 17
+years.
+
+Item 10: EXECUTIVE COMPENSATION
+
+(a) Executive Officers:
+
+The following table sets forth certain information  regarding  compensation paid
+during each of the Trust's  last three  fiscal  years to the Trust's  Manager of
+Operations  (CEO).  The  Trust has no other  executive  officers  whose  salary,
+bonuses and other  compensation  earned during fiscal 1999 exceeded $100,000 for
+services rendered in all capacities.
+
+                                         Annual Compensation
+                                _____________________________________
+         Name and Principal     Fiscal                   Other Annual
+              Position           Year  Salary    Bonus   Compensation
+         _____________________  _____  _______   _____   ____________
+
+         CEO-M. Kelly Archer     1999 $102,997     0        $6,613
+         Manager of              1998  107,133     0         6,036
+         Operations              1997  101,267     0         6,520
+
+(b) Trust Managers' Compensation:
+
+The Board of Trust  Managers  of the Trust were paid  $51,800 in cash as a group
+during the last fiscal year for services as Trust Managers.  The Chairman of the
+Board of Trust Managers, B. R. McMorries,  is paid $500 per month for serving in
+such  capacity.  The remaining  members of the Board of Trust  Managers are paid
+$300 per month for serving as a member of the board. All Trust Managers are paid
+an additional $100 per board or committee meeting attended. In addition, a Trust
+Manager  receives  $200.00 per day for their  services when out of town on trust
+business.
+
+The  members  of the Board of Trust  Managers  of the  Trust  are not  otherwise
+employed or compensated by the Trust.
+
+                                      -16-
+<PAGE>
+Item 11: SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT
+
+(a) The  following  table  indicates  the  persons  known  by the  Trust  to own
+beneficially  more than 5 percent of the shares of  beneficial  interest  in the
+Trust:
+
+              Name and Address of       Amount of and Nature            Percent
+                Beneficial Owner       of Beneficial Ownership*         of Class
+              ___________________      _______________________          ________
+
+                    None                       None                       None
+
+(b) The following table  indicates the number of shares of beneficial  ownership
+interest  in the  Trust  owned  by the  Board of Trust  Managers  and  Executive
+Officers, individually and as a group:
+
+              Name and Address of       Amount of and Nature            Percent
+                Beneficial Owner       of Beneficial Ownership          of Class
+         _______________________________________________________________________
+
+                B. R. McMorries                277,310                    3.961%
+
+                Larry Brown                     35,327                    0.505%
+
+                Jack R. Vincent                  9,576                    0.137%
+
+                Steve Rogers                     1,300                    0.019%
+
+                Mike Bahn                        1,650                    0.024%
+
+                Terry Hays                       2,246                    0.032%
+
+                Alfred J. Smith                    716                    0.010%
+
+                M. Kelly Archer                101,430                    1.449%
+
+                Robert E. Fowler                65,482                    0.935%
+
+                Robert E. Martin                 3,212                    0.046%
+                                               _______                    ______
+             All Trust Managers and
+               Executive Officers              498,249                    7.117%
+               as a Group
+
+*    The nature of  beneficial  ownership  of such shares is either  directly by
+     such named  person,  indirectly  through  such  person's  spouse or through
+     Individual Retirement Accounts directed by such person or their spouse.
+
+                                      -17-
+<PAGE>
+Item 12: CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS
+
+The Trust issues a limited  number of "Master  Notes" which are  unsecured  debt
+instruments  of the Trust.  The Trust pays the obligee of such notes interest at
+the rate of one  percent  per annum  (1%) less  than the prime  lending  rate of
+Amarillo  National Bank, the Trust's primary  lender.  As of March 31, 1999, the
+Trust had entered into Master Note Agreements with B. R. McMorries,  Chairman of
+the Board of Trust Managers,  and related persons,  in the amount of $1,207,565;
+with Larry Brown, Secretary of the Board of Trust Managers, and related persons,
+in the amount of $282,194;  and First State Bank, Happy, Texas, of which Jack R.
+Vincent,  member  of the  Board of Trust  Managers,  owns,  either  directly  or
+indirectly, 10% or more of the outstanding stock, in the amount of $706,202. The
+terms of such Master Notes are the same as Master Notes  entered into with other
+unrelated persons, except as to the amounts thereof.
+
+Item 13: EXHIBITS AND REPORTS ON FORM 8-K
+
+(a)      Exhibits
+
+The Exhibits listed on the accompanying Index to Exhibits are filed as a part of
+this Annual Report.
+
+(b)      Reports on Form 8-K
+
+None
+
+                                      -18-
+<PAGE>
+                                   SIGNATURES
+
+In accordance  with Section 13 or 15(d) of the Exchange Act, the  Registrant has
+caused this report to be signed on its behalf by the undersigned, thereunto duly
+authorized.
+
+                                  CHURCH LOANS & INVESTMENTS TRUST
+
+
+DATE:  June 25, 1999              By: /S/ B.R. McMorries
+                                      __________________
+                                      B.R. McMorries,
+                                      Chairman of the Board of
+                                      Trust Managers
+
+In  accordance  with the Exchange  Act, this report has been signed below by the
+following  persons on behalf of the  Registrant and in the capacities and on the
+dates indicated.
+
+          Signature                 Capacity                  Date
+         _____________________  _______________________      _______
+
+         /s/ B.R. McMorries     Chairman of the Board        6-25-99
+         __________________      of Trust Managers
+         B.R. McMorries
+
+         /s/ Larry Brown        Vice-Chairman and            6-25-99
+         __________________      Secretary of the Board
+         Larry Brown             of Trust Managers
+
+         /s/ M. Kelly Archer    President, Principal         6-25-99
+         __________________      Financial and Accounting officer
+         M. Kelly Archer
+
+         /s/ Jack R. Vincent    Trust Manager                6-25-99
+         __________________
+         Jack R. Vincent
+
+                                      -19-
+<PAGE>
+
+         /s/ Steve Rogers       Trust Manager                6-25-99
+         __________________
+         Steve Rogers
+
+         /s/ Mike Bahn          Trust Manager                6-25-99
+         __________________
+         Mike Bahn
+
+         /s/ Terry Hays         Trust Manager                6-25-99
+         __________________
+         Terry Hays
+
+         /s/ Alfred J. Smith    Trust Manager                6-25-99
+         __________________
+         Alfred J. Smith
+
+                                      -20-
+<PAGE>
+                        CHURCH LOANS & INVESTMENTS TRUST
+
+                               INDEX TO EXHIBITS
+
+                                   Item 13(a)
+
+         (2)      None
+
+         (3)  -   Declaration of Trust of Church Loans & Investments Trust,
+                  as amended, has been previously filed under File No. 2-
+                  51235 and is incorporated herein by reference.
+
+                  Bylaws  of  Church  Loans  &  Investments  Trust,  as
+                  amended,  has been  previously  filed  under File No.
+                  2-51235 and is incorporated herein by reference.
+
+         (4)  -   None other than those listed in (3) above.
+
+         (9)  -   None
+
+         (10) -   None
+
+         (11) -   Statement regarding computation of per share earnings  -
+                  omitted since information necessary to make the
+                  computation is included in the Financial Statements and
+                  Note 4 thereto.
+
+         (13) -   Pages 17 through 33 of the 1999 Annual Report to
+                  Shareholders
+
+         (16) -   None
+
+         (18) -   None
+
+         (21) -   None
+
+         (22) -   None
+
+         (23) -   None
+
+         (24) -   None
+
+         (27) -   Financial Data Schedule
+
+                                      -20-
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-13
+<SEQUENCE>2
+<DESCRIPTION>PAGES 16 - 33 OF 1999 ANNUAL REPORT
+<TEXT>
+
+                          Independent Auditors' Report
+
+The Board of Trust Managers and Shareholders
+Church Loans & Investments Trust
+Amarillo, Texas
+
+We have audited the  accompanying  balance  sheets of Church Loans & Investments
+Trust (a real estate  investment  trust) as of March 31, 1999 and 1998,  and the
+related statements of income, shareholders' equity, and cash flows for the years
+then ended.  These financial  statements are the responsibility of the Company's
+management.  Our  responsibility  is to express  an  opinion on these  financial
+statements based on our audits.
+
+We  conducted  our  audits  in  accordance  with  generally   accepted  auditing
+standards.  Those standards require that we plan and perform the audit to obtain
+reasonable assurance about whether the financial statements are free of material
+misstatement.  An audit includes examining, on a test basis, evidence supporting
+the amounts and disclosures in the financial statements.  An audit also includes
+assessing the  accounting  principles  used and  significant  estimates  made by
+management,  as well as evaluating the overall financial statement presentation.
+We believe that our audits provide a reasonable basis for our opinion.
+
+In our opinion,  the financial  statements  referred to above present fairly, in
+all material  respects,  the  financial  position of Church Loans &  Investments
+Trust as of March 31, 1999 and 1998,  and the results of its  operations and its
+cash  flows for the years  then  ended in  conformity  with  generally  accepted
+accounting principles.
+
+/s/ Clifton Gunderson P.L.L.C.
+
+Amarillo, Texas
+May 7, 1999
+
+                                      -16-
+<PAGE>
+                        CHURCH LOANS & INVESTMENTS TRUST
+                        (A Real Estate Investment Trust)
+                                 Balance Sheets
+                             March 31, 1999 and 1998
+
+                  ASSETS                                1999            1998
+                                                   ------------    -------------
+
+CASH AND CASH EQUIVALENTS ......................   $    181,068    $     32,403
+
+RECEIVABLES
+     Mortgage loans and church bonds - performing    23,109,175      22,165,629
+     Interim construction loans - performing ...     10,406,937      10,732,915
+     Nonperforming mortgage loans, church bonds
+         and interim construction loans ........      3,555,029       2,492,095
+     Less: Allowance for possible credit losses      (1,215,213)     (1,035,213)
+                                                   ------------    ------------
+                                                     35,855,928      34,355,426
+     Accrued interest receivable ...............        323,396         341,360
+     Notes receivable ..........................        407,111         405,860
+                                                   ------------    ------------
+                  Total receivables ............     36,586,435      35,102,646
+                                                   ------------    ------------
+Property and equipment, net of accumulated
+     depreciation of $476,395 and $460,721 in
+     1999 and 1998, respectively ...............        181,947         197,619
+REAL ESTATE ACQUIRED THROUGH FORECLOSURE .......        314,196       1,479,486
+Unamortized debt expense AND OTHER ASSETS ......         28,891          62,960
+                                                   ------------    ------------
+TOTAL ASSETS ...................................   $ 37,292,537    $ 36,875,114
+                                                   ============    ============
+                      LIABILITIES AND SHAREHOLDERS' EQUITY
+LIABILITIES
+     Notes payable and line of credit:
+         Related party .........................   $  1,921,680    $  1,969,938
+         Other .................................     10,185,984       5,740,773
+                                                   ------------    ------------
+                                                     12,107,664       7,710,711
+     Secured savings certificates:
+         Related party .........................           --           240,000
+         Other .................................      2,763,376       6,823,823
+                                                   ------------    ------------
+                                                      2,763,376       7,063,823
+     Accrued interest payable ..................        104,785          29,768
+     Other .....................................      1,059,035         781,455
+                                                   ------------    ------------
+                  Total liabilities ............     16,034,860      15,585,757
+                                                   ------------    ------------
+SHAREHOLDERS' EQUITY
+     Shares of beneficial interest, no par value;
+       authorized shares unlimited, 7,007,402
+       shares issued ............................    20,623,866      20,623,866
+     Undistributed net income ..................        650,301         665,491
+     Treasury shares, at cost (6,596 shares) ...        (16,490)           --
+                                                   ------------    ------------
+                  Total shareholders' equity ...     21,257,677      21,289,357
+                                                   ------------    ------------
+TOTAL LIABILITIES AND SHAREHOLDERS' EQUITY .....   $ 37,292,537    $ 36,875,114
+                                                   ============    ============
+        These financial statements should be read only in connection with
+         the accompanying summary of significant accounting policies and
+                         notes to financial statements.
+
+                                      -17-
+<PAGE>
+                        CHURCH LOANS & INVESTMENTS TRUST
+                        (A Real Estate Investment Trust)
+                              Statements of Income
+                       Years ended March 31, 1999 and 1998
+                                                            1999        1998
+                                                            ----        ----
+INTEREST INCOME AND FEES
+     Interest and fees on loans and notes receivable      $4,526,221  $3,926,008
+     Interest on temporary investments ..............         34,996      62,705
+                                                          ----------  ----------
+                  Total interest income and fees ....      4,561,217   3,988,713
+DEBT EXPENSE
+     Interest .......................................      1,139,875     921,787
+     Amortization of:
+         Registration costs .........................           --         4,984
+         Commissions paid to brokers ................         35,929      56,314
+                                                          ----------  ----------
+                  Total debt expense ................      1,175,804     983,085
+                                                          ----------  ----------
+                  Net interest income ...............      3,385,413   3,005,628
+PROVISION FOR POSSIBLE CREDIT LOSSES ................        180,000     180,000
+                                                          ----------  ----------
+                  Net interest income less provision
+                      for possible credit losses ....      3,205,413   2,825,628
+                                                          ----------  ----------
+OTHER INCOME ........................................         17,580     122,183
+OTHER OPERATING EXPENSES
+     General and administrative .....................        631,265     650,446
+     Board of Trust Managers' fees ..................         53,441      47,692
+                                                          ----------  ----------
+                  Total other operating expenses ....        684,706     698,138
+                                                          ----------  ----------
+                  Income before provision for
+                      income taxes ..................      2,538,287   2,249,673
+PROVISION FOR INCOME TAXES ..........................         32,461      23,140
+                                                          ----------  ----------
+NET INCOME ..........................................     $2,505,826  $2,226,533
+                                                          ==========  ==========
+NET INCOME PER SHARE                                           $ .36       $ .32
+                                                               =====       =====
+
+        These financial statements should be read only in connection with
+         the accompanying summary of significant accounting policies and
+                         notes to financial statements.
+
+                                      -18-
+<PAGE>
+                        CHURCH LOANS & INVESTMENTS TRUST
+                        (A Real Estate Investment Trust)
+                       Statements of Shareholders' Equity
+                       Years ended March 31, 1999 and 1998
+
+                SHARES OF BENEFICIAL INTEREST
+                 --------------------------- UNDISTRIBUTED TREASURY
+                       SHARES       AMOUNT    NET INCOME    SHARES    TOTAL
+                    -----------  -----------  ----------  --------- -----------
+Balance,
+     March 31, 1997   7,007,402  $20,623,866  $  611,253  $    -    $21,235,119
+
+    Cash dividends
+     ($.31 per share)     -            -      (2,172,295)      -     (2,172,295)
+
+    Net income            -            -       2,226,533       -      2,226,533
+                      ---------  -----------  ----------- ---------- -----------
+Balance,
+     March 31, 1998   7,007,402   20,623,866     665,491       -     21,289,357
+
+    Cash dividends
+      ($.36 per share)    -            -      (2,521,016)      -     (2,521,016)
+
+    Net income            -            -       2,505,826       -      2,505,826
+
+    Treasury shares
+      purchased           -            -           -       (16,490)     (16,490)
+                      ---------  -----------  ----------- ---------- -----------
+Balance,
+     March 31, 1999   7,007,402  $20,623,866  $   650,301 $(16,490)  $21,257,677
+                      =========  ===========  =========== =========  ===========
+
+        These financial statements should be read only in connection with
+         the accompanying summary of significant accounting policies and
+                         notes to financial statements.
+
+                                      -19-
+<PAGE>
+                        CHURCH LOANS & INVESTMENTS TRUST
+                        (A Real Estate Investment Trust)
+                            Statements of Cash Flows
+                       Years ended March 31, 1999 and 1998
+
+                                                        1999            1998
+                                                        ----            ----
+CASH FLOWS FROM OPERATING ACTIVITIES
+    Net income .................................   $  2,505,826    $  2,226,533
+    Adjustments to reconcile net income to net
+     cash provided by operating activities:
+        Depreciation ...........................         15,672          15,672
+        Amortization of debt expense ...........         35,929          61,298
+        Amortization of loan discounts .........       (330,074)       (236,512)
+        Provision for possible credit losses ...        180,000         180,000
+        Changes in:
+            Accrued interest receivable ........         17,964         (37,604)
+            Accrued interest payable ...........         75,017         (15,443)
+            Other liabilities ..................       (114,884)        225,881
+        Other, net .............................         (1,860)        (42,816)
+                                                   ------------    ------------
+                Net cash provided by
+                 operating activities ..........      2,383,590       2,377,009
+                                                   ------------    ------------
+CASH FLOWS FROM INVESTING ACTIVITIES
+    Investment in mortgage and interim
+     construction loans and church bonds .......    (35,518,740)    (33,238,225)
+    Payments received on mortgage and
+     interim construction loans and
+     church bonds ..............................     35,610,274      31,194,006
+    Advances on notes receivable ...............       (374,954)       (270,836)
+    Payments received on notes receivable ......        373,703         401,429
+    Proceeds from sale of other
+     real estate owned .........................        115,792            --
+                                                   ------------    ------------
+                  Net cash provided (used)
+                   by investing activities .....        206,075      (1,913,626)
+                                                   ------------    ------------
+CASH FLOWS FROM FINANCING ACTIVITIES
+    Sale of secured savings certificates .......           --         3,314,121
+    Borrowings on notes payable and line
+     of credit .................................     33,684,821       6,358,320
+    Principal payments on:
+       Secured savings certificates ............     (4,300,447)     (3,824,270)
+       Notes payable and line of credit ........    (29,287,868)     (4,693,485)
+    Cash dividends paid ........................     (2,521,016)     (2,172,295)
+    Treasury shares purchased ..................        (16,490)           --
+                                                   ------------    ------------
+                  Net cash used by
+                   financing activities ........     (2,441,000)     (1,017,609)
+                                                   ------------    ------------
+                  Increase (decrease) in
+                   cash and cash equivalents ...        148,665        (554,226)
+CASH AND CASH EQUIVALENTS, BEGINNING OF YEAR ...         32,403         586,629
+                                                   ------------    ------------
+CASH AND CASH EQUIVALENTS, END OF YEAR .........   $    181,068    $     32,403
+                                                   ============    ============
+       These financial statements should be read only in connection with
+         the accompanying summary of significant accounting policies and
+                         notes to financial statements.
+
+                                      -20-
+<PAGE>
+                        CHURCH LOANS & INVESTMENTS TRUST
+                        (A Real Estate Investment Trust)
+                   Summary of Significant Accounting Policies
+                             March 31, 1999 and 1998
+
+NATURE OF OPERATIONS
+
+Church Loans &  Investments  Trust  (Church  Loans) is a real estate  investment
+trust that  invests  primarily  in mortgage  and interim  construction  loans to
+churches and other borrowers (see note 1) across the United States, particularly
+in the  southern  portion of the U.S.  Church  Loans  requires  that real estate
+properties  be pledged  against  loans as security  which could be foreclosed by
+Church  Loans  should  the  borrower  default.   Repayment  of  each  borrower's
+obligations is generally  expected to be repaid from  contributions  from church
+members  or  from  operations  of  the  borrower,  or in  the  case  of  interim
+construction loans, by permanent financing provided by others.
+
+USE OF ESTIMATES
+
+The preparation of financial  statements in conformity  with generally  accepted
+accounting principles requires management to make estimates and assumptions that
+affect  the  reported  amounts  of assets  and  liabilities  and  disclosure  of
+contingent  assets and  liabilities at the date of the financial  statements and
+the reported amounts of revenues and expenses during the reporting period.
+
+Actual results could differ from those estimates.
+
+CURRENT OPERATING ENVIRONMENT
+
+Church Loans has historically invested in long-term,  fixed-rate mortgage loans,
+generally funded by relatively  short-term secured savings  certificates  (SSCs)
+and debt obligations. The volatility of interest rates and increased competition
+to attract  customers'  funds have caused Church Loans'  liability  structure to
+become short-term and rate sensitive. Church Loans reflected an average interest
+yield on its loan and church bond  portfolio,  an average  interest  rate on its
+total  indebtedness and a net interest rate margin at March 31, 1999 and 1998 as
+follows:
+
+                                   LOAN AND CHURCH      TOTAL       NET INTEREST
+                                   BOND PORTFOLIO    INDEBTEDNESS   RATE MARGIN
+                                   --------------    ------------   -----------
+March 31, 1999 ....................    10.06%            6.90%          3.16%
+March 31, 1998 ....................    10.95%            7.44%          3.51%
+
+Church  Loans  finances  maturities  of SSCs and debt  obligations  through  its
+available  lines of credit and principal  payments  received on its mortgage and
+interim construction loans.
+
+CHURCH BONDS
+
+Church bonds,  secured by first mortgage liens on church facilities,  are stated
+at cost,  as there is no traded market for the bonds and  management  intends to
+hold such securities until maturity.
+
+                                      -21-
+<PAGE>
+                        CHURCH LOANS & INVESTMENTS TRUST
+                        (A Real Estate Investment Trust)
+                   Summary of Significant Accounting Policies
+                             March 31, 1999 and 1998
+
+LOANS AND ALLOWANCE FOR POSSIBLE CREDIT LOSSES
+
+Loans are  stated at the  amount of unpaid  principal,  reduced  by  unamortized
+purchase discounts and the allowance for possible credit losses. Interest income
+is recognized when earned.
+
+Impaired loans are measured  based on the present value of expected  future cash
+flows  discounted at the loan's  effective  interest rate or the market price or
+the  fair  value of the  collateral  if the loan is  collateral  dependent.  The
+accrual of interest is  generally  discontinued  on loans and church  bonds more
+than 90 days past due or when there is sufficient  doubt as to the collection of
+interest. When interest accrual is discontinued,  all unpaid accrued interest is
+reversed.  Cash  interest  payments  received  are  applied  to  principal  when
+collection of principal is in doubt or are  recognized  as interest  income when
+recovery of principal is reasonably assured.
+
+The allowance for possible credit losses is established  through a provision for
+possible  credit losses  charged to expense.  Loans and church bonds are charged
+against  the  allowance  when  collectibility  of  the  principal  is  unlikely.
+Recoveries of amounts previously charged off are credited to the allowance.  The
+charge  to  operations  is based on  management's  and the  board of  directors'
+evaluation of the loan and church bond portfolio,  including such factors as the
+security  collateralizing the loans or church bonds, past credit loss experience
+and general economic  conditions.  The allowance is subjective in nature and may
+be  adjusted  in the near term  because of changes in the  borrower's  financial
+status or economic conditions.
+
+Commitment fees received on interim  construction  loans are recognized over the
+interim commitment period for loans that are not permanently  financed by Church
+Loans  and over the life of the  mortgage  loan for loans  that are  permanently
+financed by Church Loans.  Amounts are being amortized  using the  straight-line
+method.  This method was not  materially  different from the method of deferring
+commitment fees until the commitment is exercised and  recognizing  such fees as
+an adjustment to yield by the interest  method over the related  loans' lives as
+prescribed by generally accepted accounting principles for the years ended March
+31, 1999 and 1998.
+
+Purchase discounts on loans are amortized based on the interest method.
+
+PROPERTY AND EQUIPMENT
+
+Property  and  equipment  are  stated at cost,  less  accumulated  depreciation.
+Depreciation is provided on the  straight-line  method over the estimated useful
+lives of the assets, which range from 3 to 18 years.
+
+REAL ESTATE ACQUIRED THROUGH FORECLOSURE
+
+Real estate acquired through,  or in lieu of, loan foreclosure is to be sold and
+is  initially   recorded  at  estimated   fair  value  at  date  of  foreclosure
+establishing a new cost basis. Other real estate owned,  after  foreclosure,  is
+carried at the lower of carrying  amount or the property's  estimated fair value
+minus estimated costs to sell (fair value). Declines in the estimated fair value
+below cost are recognized as a valuation allowance.  If the estimated fair value
+subsequently  increases  above its carrying  value,  the valuation  allowance is
+reduced,  but not below zero.  Increases or decreases in the valuation allowance
+are charged or credited to operations.
+
+The  valuation  of other real estate  owned is  subjective  in nature and may be
+adjusted  in the near term  because of changes in economic  conditions  or other
+factors.
+
+                                      -22-
+<PAGE>
+                        CHURCH LOANS & INVESTMENTS TRUST
+                        (A Real Estate Investment Trust)
+                   Summary of Significant Accounting Policies
+                             March 31, 1999 and 1998
+
+UNAMORTIZED DEBT EXPENSE
+
+Commissions paid to brokers in connection with the sale of SSCs are deferred and
+amortized  over the terms of the related  certificates  on the interest  method.
+Costs  incurred in  connection  with the  registration  of SSCs are deferred and
+amortized on the straight-line  method over the period the related  certificates
+are sold,  but no longer than two years from the date the  registration  becomes
+effective.
+
+INCOME TAXES
+
+Income taxes are accounted for under  Statement No. 109,  Accounting  for Income
+Taxes.  Under the asset and  liability  method of  Statement  109,  deferred tax
+assets  and  liabilities   are  recognized  for  the  future  tax   consequences
+attributable to differences  between the financial statement carrying amounts of
+existing  assets and liabilities  and their  respective tax bases.  Deferred tax
+assets and liabilities are measured using enacted tax rates expected to apply to
+taxable income in the years in which those temporary differences are expected to
+be recovered or settled.  Under Statement 109, the effect on deferred tax assets
+and  liabilities  of a change in tax rates is recognized in income in the period
+that includes the enactment date.
+
+OFF-BALANCE-SHEET FINANCIAL INSTRUMENTS
+
+In  the   ordinary   course  of   business,   Church   loans  has  entered  into
+off-balance-sheet  financial  instruments  consisting of  commitments  to extend
+credit. Such financial instruments are recorded in the financial statements when
+they become payable.
+
+CASH FLOWS
+
+For  purposes  of  reporting  cash  flows,  cash  and cash  equivalents  include
+cash-on-hand  and investment in a money market mutual fund and  certificates  of
+deposit with maturities of less than 90 days at the time of acquisition.
+
+                  This information is an integral part of the
+                       accompanying financial statements.
+
+                                      -23-
+<PAGE>
+                        CHURCH LOANS & INVESTMENTS TRUST
+                        (A Real Estate Investment Trust)
+                          NOTES TO FINANCIAL STATEMENTS
+                             March 31, 1999 and 1998
+
+NOTE 1 - LOANS AND CHURCH BONDS
+
+Mortgage loans  receivable  consist of  conventional  loans of  $25,129,877  and
+$23,974,905  and church  bonds of  $401,172  and  $488,839 at March 31, 1999 and
+1998, respectively. Interim construction loans of $12,126,462 and $11,695,994 at
+March 31, 1999 and 1998,  respectively,  consist  primarily of loans to churches
+for the construction of church facilities and assisted living centers.  Mortgage
+loans,  church bonds and interim  construction  loans are  generally  secured by
+first liens on real estate  comprised  primarily of church  buildings  and other
+real  estate.  The  amount of a loan is  generally  limited  to  66-2/3%  of the
+appraised  value of the  related  property.  Certain  loans  are  guaranteed  by
+individual  members of the  congregations or other individuals or congregations,
+depending on the circumstances.
+
+Church  Loans'  portfolio  included  mortgage  loans,  church  bonds and interim
+construction  loans with  interest  rates ranging from 7.50% to 17% at March 31,
+1999.  The weighted  average  annual  interest  rates of Church  Loans' loan and
+church  bond  portfolio  were  10.06%  and  10.95% at March  31,  1999 and 1998,
+respectively.
+
+Generally accepted accounting principles require disclosure of information about
+certain current vulnerabilities due to certain concentrations.  In addition to a
+concentration  of loans to  churches,  Church Loans makes  certain  interim real
+estate  construction  loans and permanent loans to entities other than churches.
+At March 31,  1999,  Church  Loans had eight loans to two  borrowers  which were
+secured by assisted living centers and totaled approximately  $12,233,000.  Four
+of these loans were to the same borrower and totaled approximately $9,001,000 at
+March 31, 1999.  In addition,  Church Loans had four loan  commitments  to these
+same two  borrowers  at March 31, 1999 for interim  construction  and  permanent
+financing of assisted living centers which totaled approximately $3,825,000.
+
+                                      -24-
+<PAGE>
+                        CHURCH LOANS & INVESTMENTS TRUST
+                        (A Real Estate Investment Trust)
+                          NOTES TO FINANCIAL STATEMENTS
+                             March 31, 1999 and 1998
+
+The following schedule is a summary of the combined  mortgage,  church bonds and
+interim construction loan portfolios by size of loan at March 31, 1999 and 1998:
+
+                                          1999                      1998
+                                   -----------------         -------------------
+                                   No. of  Carrying          No. of     Carrying
+   Description                     loans    amount            loans      amount
+- ------------------------           -----    ------            -----      ------
+
+Over $1,500,000 ........             7   $15,656,676             6  $13,940,641
+$1,300,000-1,499,999 ...             1     1,490,000             2    2,655,842
+$1,000,000-1,299,999 ...             1     1,249,254             1    1,296,980
+$900,000-999,999 .......             1       900,000             2    1,840,381
+$800,000-899,999 .......             1       819,668             1      847,948
+$700,000-799,999 .......             2     1,502,314             3    2,203,579
+$600,000-699,999 .......             3     1,917,206             3    1,905,673
+$500,000-599,999 .......             -         -                 -         -
+$400,000-499,999 .......             7     2,963,901             3    1,339,271
+$300,000-399,999 .......             7     2,544,781             5    1,819,868
+$200,000-299,999 .......            17     4,138,814            12    3,083,597
+$100,000-199,999 .......            17     2,313,281            20    2,824,929
+Under $100,000 .........            57     2,161,616            71    2,401,029
+                                   ---   -----------           ---   ----------
+                                   121    37,657,511           129    6,159,738
+                                   ===                         ===
+Less:  unamortized purchase discounts
+        on mortgage loans ........          (586,370)                  (769,099)
+Less:  allowance for possible credit
+        losses ...................         1,215,213                 (1,035,213)
+                                         -----------                -----------
+TOTAL ............................       $35,855,928                $34,355,426
+                                         ===========                ===========
+
+                                      -25-
+<PAGE>
+                        CHURCH LOANS & INVESTMENTS TRUST
+                        (A Real Estate Investment Trust)
+                          NOTES TO FINANCIAL STATEMENTS
+                             March 31, 1999 and 1998
+
+The mortgage and interim  construction  loan  portfolios  included the following
+loans at March 31, 1999, with  individual  balances in excess of 3% of the total
+carrying amount of the combined portfolios:
+
+MeadeMinistries,  Lake City, Florida; interest at prime
+     plus 2%, with a floor of 9.75% (9.75% at March 31,
+     1999); monthly payments of $27,014 to maturity on
+     April 1, 2014 ................................................   $2,550,000
+
+Great Plains Assisted Living L.L.C., Lincoln,  Nebraska;
+    interest at prime plus 2%, with a floor of 10.50%
+    (10.50% at March 31, 1999); monthly payments of
+    $28,741 to maturity on January 1, 2013 .......................    2,506,557*
+
+Great Plains Assisted Living L.L.C., Omaha, Nebraska;
+    interest at prime plus 2%, with a floor of 10.50%
+    (10.50% at March 31, 1999); monthly payments of
+    $26,480 to maturity on May 1, 2013 ...........................    2,338,031*
+
+Great Plains Assisted Living L.L.C.,  Sioux City,  Iowa;
+    interest at prime plus 2%, with a floor of 10.50%
+    (10.50% at March 31, 1999); monthly payments of
+    $25,149 to maturity on December 10, 2012 .....................    2,182,645*
+
+Biltmore Group,  Sedona,  Arizona;  interest at prime
+    plus .5%,  with a floor of 8.75% (8.75% at March 31,
+    1999); principal and interest due at maturity on May
+    1, 1999 .......................................................    2,174,025
+
+Great Plains Assisted Living L.L.C., Urbandale, Iowa;
+    interest at prime plus 2%, with a floor of 10.50%
+    (10.50% at March 31, 1999); principal and interest
+    due at maturity on December 1, 1998 ...........................   1,973,603*
+
+Triumph Baptist Church, Philadelphia, Pennsylvania;
+    interest at 10.50%; monthly payments of $26,988 to
+    maturity on August 1, 2008 ....................................    1,931,815
+
+Living Word  Family  Church,  Raleigh,  North  Carolina;
+    interest at prime plus 1.50%, with a floor of 9.25%
+    (9.25% at March 31, 1999); principal and interest due
+    at maturity on September 8, 1999 ..............................    1,490,000
+
+Bethany Baptist Church, Melbourne, Florida; interest at
+    10.50%; monthly payments of $15,138 to maturity on
+    June 30, 2011 .................................................    1,249,254
+                                                                ----------------
+                                                                $     18,395,930
+                                                                ================
+*   Same borrower
+
+                                      -26-
+<PAGE>
+                        CHURCH LOANS & INVESTMENTS TRUST
+                        (A Real Estate Investment Trust)
+                          NOTES TO FINANCIAL STATEMENTS
+                             March 31, 1999 and 1998
+
+In the normal  course of  business,  Church  Loans makes  commitments  to extend
+credit which are not reflected in the financial  statements.  These  commitments
+involve elements of credit risk,  interest rate risk,  liquidity risk and market
+risk.  At March 31, 1999,  Church Loans had  outstanding  loan  commitments  (by
+contract  amounts) of approximately  $11,452,000  including  $3,825,000 for four
+loans to two  borrowers  to finance  the  construction  of four  assisted-living
+centers.  Church Loans has no other financial instruments with off-balance-sheet
+risk.
+
+Nonperforming  mortgage loans,  church bonds and interim  construction  loans at
+March 31, 1999 and 1998 were $3,555,029 and $2,492,095,  respectively.  Interest
+income which would have been recorded under the original terms of  nonperforming
+loans and church bonds amounted to  approximately  $288,000 and $339,000 for the
+years ended  March 31, 1999 and 1998,  respectively.  Interest  income  actually
+recognized  for the  years  ended  March  31,  1999 and  1998 was  approximately
+$145,000 and $111,000, respectively.
+
+The  original  terms of the  individual  loans  included  in the loan  portfolio
+generally vary from 1 to 30 years.  Scheduled  maturities  during the five years
+subsequent to March 31, 1999, are:
+
+                        2000 ...............     $13,376,084
+                        2001 ...............       1,616,852
+                        2002 ...............       1,580,016
+                        2003 ...............       1,604,578
+                        2004 ...............       1,690,149
+
+At March 31, 1999, mortgage loans were pledged to support indebtedness of Church
+Loans as follows:
+
+Line of credit payable to bank   ......................         $      9,304,931
+Secured savings certificates     ......................                5,406,722
+                                                                ----------------
+
+TOTAL MORTGAGE LOANS PLEDGED     ......................         $     14,711,653
+                                                                ================
+A summary of  transactions  in the allowance for possible  credit losses for the
+years ended March 31, 1999 and 1998 follows:
+
+                                                        1999              1998
+                                                        ----              ----
+BALANCE AT BEGINNING OF YEAR  ................  $    1,035,213   $       855,213
+Provisions charged to operating expenses  ....         180,000           180,000
+                                                --------------   ---------------
+BALANCE AT END OF YEAR                          $    1,215,213    $    1,035,213
+                                                ==============    ==============
+
+
+At March  31,  1999 and  1998,  the  recorded  investment  for  loans  for which
+impairment was recognized in accordance with Statement No. 114 was approximately
+$2,477,000 and $1,038,000, respectively. The related allowance for credit losses
+was $590,000 and $270,000, respectively, at March 31, 1999 and 1998.
+
+                                      -27-
+<PAGE>
+                        CHURCH LOANS & INVESTMENTS TRUST
+                        (A Real Estate Investment Trust)
+                          NOTES TO FINANCIAL STATEMENTS
+                             March 31, 1999 and 1998
+
+NOTE 2 - DEBT OBLIGATIONS
+
+Information relating to debt obligations follows:
+
+<TABLE>
+<CAPTION>
+                                                      WEIGHTED           MAXIMUM                        WEIGHTED
+                                                      AVERAGE            AMOUNT         AVERAGE         AVERAGE
+                                   BALANCE AT       INTEREST RATE     OUTSTANDING AT   MONTH-END     INTEREST RATE
+                                 END OF PERIOD     AT END OF PERIOD   ANY MONTH-END     BALANCE     FOR THE PERIOD
+                                 -------------     ----------------   --------------  -----------   --------------
+<S>                              <C>                     <C>           <C>            <C>                <C>
+Line of credit payable to bank   $  3,850,000            6.75%*        $  7,700,000   $  4,586,538       7.50%
+Other demand notes payable          8,257,664            6.75%            8,257,664      6,053,159       6.93%
+Secured savings certificates        2,763,376            7.58%            7,063,823      4,852,980       7.47%
+                                 ------------            -----         ------------   ------------       -----
+
+TOTAL                            $ 14,871,040            6.90%         $ 18,457,062   $ 15,492,677       7.27%
+                                 ============            =====         ============   ============       =====
+
+     March 31, 1998
+
+Line of credit payable to bank   $  2,800,000            7.50%*        $  2,800,000   $    505,078       7.81%
+Other demand notes payable          4,910,711            7.50%            4,910,711      4,503,880       7.56%
+Secured savings certificates        7,063,823            7.38%            7,863,480      7,452,851       7.29%
+                                 ------------           ------         ------------   ------------      ------
+
+TOTAL                            $ 14,774,534            7.44%         $ 14,774,534   $ 12,461,809       7.26%
+                                 ============           ======         ============   ============      ======
+ </TABLE>
+* Does not consider commitment fees.
+
+Maturities of debt for years subsequent to March 31, 1999, are:
+
+              2000  .......................  $     14,145,040
+              2001  .......................           726,000
+                                             ----------------
+                                             $     14,871,040
+                                             ================
+
+Included in maturities  for the year ended March 31, 2000 are other demand notes
+payable of $8,257,664.
+
+All debt obligations,  except for other demand notes payable, are secured by the
+pledge of specific mortgage notes receivable.
+
+Maturities of SSCs and debt obligations are financed through principal  payments
+received on loans,  advances on other demand  notes  payable and advances on the
+$15,000,000 line of credit which is expected to be renewed on an annual basis.
+
+                                      -28-
+<PAGE>
+                        CHURCH LOANS & INVESTMENTS TRUST
+                        (A Real Estate Investment Trust)
+                          NOTES TO FINANCIAL STATEMENTS
+                             March 31, 1999 and 1998
+
+NOTE 2 - DEBT OBLIGATIONS (CONTINUED)
+Descriptions of the various categories of debt obligations follow:
+
+SECURED SAVINGS CERTIFICATES
+
+SSCs were  issued in amounts of $1,000 or more and have  single  maturity  dates
+from 30 days to 10 years  from  date of issue.  With  respect  to an  individual
+certificate, interest rate and frequency of payment of interest (either monthly,
+quarterly,  semiannually,  annually  or at  maturity)  are  fixed at the time of
+issuance of the certificate.  Effective July 1997, Church Loans discontinued the
+sale of SSCs.
+
+The certificates are secured under the terms of certain indentures that require,
+among other things,  the pledge of mortgage notes  receivable  with total unpaid
+principal  amounts  not less  than  100% of the  aggregate  principal  amount of
+certain respective SSC registrations outstanding. As of March 31, 1999 and 1998,
+Church Loans was in compliance with the requirement.
+
+LINE OF CREDIT PAYABLE TO BANK
+
+The line of credit payable to bank consists of borrowings under a loan agreement
+effective  through  September 1, 1999,  that provides for a $15,000,000  line of
+credit with certain commitment fees. The loan agreement requires Church Loans to
+pledge  mortgage  loans  receivable  having  unpaid  principal  balances with an
+aggregate  present  value,  discounted at 2% over the prime rate (9.75% at March
+31, 1999), of not less than 110% of all indebtedness owed to the bank.  Interest
+accrued at the prime rate less one percent  from  September 1, 1997 to March 31,
+1999,  and at the prime rate less one quarter of one percent  from April 1, 1997
+to August 31, 1997. Interest is payable semiannually.
+
+Additionally,  the line of credit  requires  that Church  Loans' net worth be no
+less than  $18,000,000 and its total  indebtedness  shall not exceed 150% of its
+net worth. At March 31, 1999, Church Loans' total indebtedness was approximately
+$17,000,000 less than the maximum amount permitted under the agreement.
+
+DEMAND NOTES PAYABLE
+
+The demand notes  payable bear  interest at 1% less than the prime rate (payable
+monthly) and are unsecured (see note 6).
+
+NOTE 3 - INCOME TAX PROVISION
+
+Church Loans has elected to be taxed as a real estate investment trust under the
+provisions of the Internal Revenue Code. To qualify as a real estate  investment
+trust under the Code, Church Loans must, among other things, distribute at least
+95% of its taxable income to its shareholders through dividends. Church Loans is
+required to pay  dividends  of at least 85% of its calendar  year  undistributed
+income by February 1 or be subject to a special  federal excise tax of 4% on the
+undistributed amount.
+
+Deferred  taxes were not  significant  to Church Loans' 1999 and 1998  financial
+statements.
+                                      -29-
+<PAGE>
+                        CHURCH LOANS & INVESTMENTS TRUST
+                        (A Real Estate Investment Trust)
+                          NOTES TO FINANCIAL STATEMENTS
+                             March 31, 1999 and 1998
+
+Total  income tax  expense  for the years  ended March 31, 1999 and 1998 is less
+than the amount computed by applying the applicable statutory federal income tax
+rate (35%) to income before provision for income taxes as follows:
+
+                                                       1999              1998
+                                                       ----              ----
+Computed "expected" federal income tax expense   $    888,400     $     787,386
+Increases (decreases) in taxes resulting from:
+    Dividends                                        (857,599)         (784,829)
+    Graduated rate differential                       (11,702)          (12,669)
+    Difference in provision for loan losses for
+
+       financial and tax purposes                     (33,123)          (28,127)
+    Difference in accounting for interest
+       recognized for financial and tax purposes       46,485            58,102
+    Other                                                -                3,277
+                                                 ------------     -------------
+ACTUAL TAX EXPENSE                               $     32,461     $      23,140
+                                                 ============     =============
+
+NOTE 4 - NET INCOME PER SHARE
+
+Net income per share of  beneficial  interest is based on the  weighted  average
+number of shares  outstanding,  which was  7,004,337 and 7,007,402 for the years
+ended March 31, 1999 and 1998, respectively.  There were no share equivalents or
+other  potentially  dilutive  securities  outstanding  during any of the periods
+presented.
+
+NOTE 5 - DIVIDENDS
+
+All  dividends  paid by  Church  Loans are  taxable  as  ordinary  income to the
+recipient.  A schedule of  dividends  paid during the years ended March 31, 1999
+and 1998 follows:
+
+                                                        Divdend amount
+                                                    ---------------------
+          Date of record             Date paid      Per share     Total
+          ------------------------   ------------   ---------  ----------
+          March 31, 1997 .........   May 1997       $   .10    $  700,740
+          December 31, 1997 ......   January 1998       .21     1,471,555
+          March 31,1998 ..........   May 1998           .11       770,814
+          December 31, 1998 ......   January 1999       .25     1,750,202
+
+
+In April  1999,  a  dividend  of  $700,081  ($.10 per share)  was  declared  for
+stockholders of record on March 31, 1999.
+
+NOTE 6 - RELATED PARTY TRANSACTIONS
+
+Other demand notes  payable at March 31, 1999 and 1998 included  notes  totaling
+$1,921,680 and $1,969,938, respectively, which represent borrowings from related
+parties.  The  notes  bear  interest  at 1% less  than  the  prime  rate and are
+unsecured. Interest expense incurred on related party other demand notes payable
+was not significant for 1999 or 1998.
+
+                                      -30-
+<PAGE>
+                        CHURCH LOANS & INVESTMENTS TRUST
+                        (A Real Estate Investment Trust)
+                          NOTES TO FINANCIAL STATEMENTS
+                             March 31, 1999 and 1998
+
+Secured savings  certificates at March 31, 1998 included  certificates  totaling
+$240,000,  which  represented  liabilities to related parties.  Interest expense
+incurred on savings certificates of related parties was not significant for 1999
+or 1998.
+
+NOTE 7 -      CASH FLOW INFORMATION
+
+Supplemental information on cash flows and noncash transactions is as follows:
+
+                                                         1999           1998
+                                                         ----           ----
+Supplemental cash flow information:
+    Interest paid  .............................      $ 1,064,858   $    937,230
+                                                      ===========   ============
+
+Income taxes paid was not material in 1999 or 1998.
+
+                                                         1999           1998
+                                                         ----           ----
+
+Schedule of noncash investing and financing activity:
+    Real estate acquired through foreclosure .....    $     -        $ 1,359,536
+                                                      ============== ===========
+
+    Portion of sale of real estate acquired through
+      foreclosure financed by Church Loans   .....    $    1,441,963 $    -
+                                                      ============== ===========
+
+    Deferred gain on sale of real estate acquired through
+      foreclosure (included in other liabilities)..   $      392,465 $    -
+                                                      ============== ===========
+
+
+NOTE 8 - COMMITMENTS
+
+Church Loans is a party to financial instruments with  off-balance-sheet risk in
+the normal course of business.  Commitments  to extend credit are  agreements to
+lend to a customer as long as there is no violation of any condition established
+in the contract.  Commitments  generally  have variable  interest  rates,  fixed
+expiration  dates or other  termination  clauses and  require  payment of a fee.
+Since some of the  commitments  may expire  without being drawn upon,  the total
+commitment amounts do not necessarily represent future cash requirements. Church
+Loans  evaluates each  customer's  credit  worthiness on a  case-by-case  basis.
+Collateral  generally  includes real estate  properties.  The exposure to credit
+loss in the event of  nonperformance  by the other party to the  commitments  to
+extend  credit is  represented  by the  contractual  amount.  At March 31, 1999,
+Church  Loans  had  outstanding  loan  commitments  (by  contract   amounts)  of
+approximately  $11,452,000,  including $3,825,000 to finance the construction of
+or provide permanent financing for assisted living centers.  Management does not
+anticipate any losses as a result of these transactions.
+
+NOTE 9 - DISCLOSURE ABOUT THE FAIR VALUE OF FINANCIAL INSTRUMENTS
+
+The following  methods and  assumptions  were used to estimate the fair value of
+each class of financial  instruments,  the results of applying  such methods and
+assumptions to the financial  instruments and limitations inherent in fair value
+estimates:
+
+CASH AND CASH EQUIVALENTS
+
+The assets are considered  short-term  instruments for which the carrying amount
+is a reasonable estimate of fair value.
+
+                                      -31-
+<PAGE>
+                        CHURCH LOANS & INVESTMENTS TRUST
+                        (A Real Estate Investment Trust)
+                          NOTES TO FINANCIAL STATEMENTS
+                             March 31, 1999 and 1998
+
+NOTE 9 - DISCLOSURE ABOUT THE FAIR VALUE OF FINANCIAL INSTRUMENTS (CONTINUED)
+
+LOANS AND CHURCH BONDS
+
+Fair  values  are  estimated  for  portfolios  of loans with  similar  financial
+characteristics.  Loans are  segregated  by type,  such as mortgage  and interim
+construction  loans and church bonds.  Each loan  category is further  segmented
+into  fixed  and  adjustable  rate  interest  terms.  For  variable-rate  loans,
+primarily  interim  construction  loans,  that  reprice  frequently  and with no
+significant  change in credit risk,  fair values are based on carrying  amounts.
+The fair value of fixed-rate  mortgage loans and bonds is generally estimated by
+discounting  the future cash flows  through  the  estimated  maturity  using the
+current  rates at which  similar  loans would be made to borrowers  with similar
+credit  ratings.  The estimate of maturity is based on Church Loans'  historical
+experience with repayments for each loan classification,  modified, as required,
+by an estimate of the effect of current  economic  and lending  conditions.  The
+carrying  value of loans,  net of the allowance for loan losses was  $35,855,928
+and  $34,355,426 and the fair value of loans was  approximately  $36,800,000 and
+$34,800,000 at March 31, 1999 and 1998, respectively.
+
+NOTES PAYABLE AND LINE OF CREDIT
+
+The fair value of notes payable and the line of credit are equal to the carrying
+value as such liabilities are deemed to be short-term borrowings.
+
+SECURED SAVINGS CERTIFICATES
+
+The fair value of secured  savings  certificates  is  estimated  using the rates
+currently  offered for financial  instruments  of similar  characteristics.  The
+carrying value of secured savings certificates was $2,763,376 and $7,063,823 and
+the fair value of secured savings certificates was approximately  $2,811,000 and
+$7,200,000 at March 31, 1999 and 1998, respectively.
+
+COMMITMENTS TO EXTEND CREDIT
+
+Generally,  Church Loans enters into  commitments to extend credit at adjustable
+interest terms.  Accordingly,  the commitment amount is a reasonable estimate of
+fair value.
+
+LIMITATIONS
+
+Fair value  estimates  are made at a specific  point in time,  based on relevant
+market  information  and  information  about  the  financial  instrument.  These
+estimates do not reflect any premium or discount that could result from offering
+for sale at one time Church  Loans'  entire  holdings of a particular  financial
+instrument.  Because no market exists for a significant portion of Church Loans'
+financial  instruments,  fair value  estimates are based on judgments  regarding
+future   expected   loss   experience,   current   economic   conditions,   risk
+characteristics  of various  financial  instruments,  and other  factors.  These
+estimates  are  subjective  in nature and involve  uncertainties  and matters of
+significant  judgment  and,  therefore,  cannot be  determined  with  precision.
+Changes in assumptions could significantly affect the estimates.
+
+                                      -32-
+<PAGE>
+                        CHURCH LOANS & INVESTMENTS TRUST
+                        (A Real Estate Investment Trust)
+                          NOTES TO FINANCIAL STATEMENTS
+                             March 31, 1999 and 1998
+
+NOTE 10 - YEAR 2000
+
+Like most businesses,  Church Loans may be exposed to risks associated with Year
+2000 dating  problems.  This problem  affects  computer  software and  hardware;
+transactions  with  customers,   vendors,  and  other  entities;  and  equipment
+dependent on  microchips.  Church Loans has begun,  but not yet  completed,  the
+process of identifying and remediating  potential Year 2000 problems.  It is not
+possible  for any  business  to  guarantee  the  results of its own  remediation
+efforts or to  accurately  predict  the impact of Year 2000  dating  problems on
+third parties with which Church Loans conducts business.  If remediation efforts
+of Church Loans or third parties with which it does business are not successful,
+it is possible  the Year 2000 dating  problem  could  negatively  impact  Church
+Loans' financial position and results of operations.
+
+                      This information is an integral part
+                    of the accompanying financial statements.
+
+                                      -33-
+<PAGE>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-27
+<SEQUENCE>3
+<DESCRIPTION>FINANCIAL DATA SCHEDULE FOR FORM 10-KSB405
+<TEXT>
+
+<TABLE> <S> <C>
+
+<ARTICLE>               5
+<LEGEND>
+=======================================================================
+This schedule contains summary financial information extracted from the
+company's financial statements as of and for the year ended March 31,
+1999 and is  qualified  in its  entirety by  reference to such financial
+statements.
+=======================================================================
+</LEGEND>
+<PERIOD-TYPE>                                                          YEAR
+<FISCAL-YEAR-END>                                               Mar-31-1999
+<PERIOD-START>                                                  Apr-04-1998
+<PERIOD-END>                                                    Mar-31-1999
+
+<CASH>                                                              181,068
+<SECURITIES>                                                              0
+<RECEIVABLES>                                                    37,801,648
+<ALLOWANCES>                                                      1,215,213
+<INVENTORY>                                                               0
+<CURRENT-ASSETS>                                                          0
+<PP&E>                                                              658,342
+<DEPRECIATION>                                                      476,395
+<TOTAL-ASSETS>                                                   37,292,537
+
+<CURRENT-LIABILITIES>                                                     0
+<BONDS>                                                                   0
+<PREFERRED-MANDATORY>                                                     0
+<PREFERRED>                                                               0
+<COMMON>                                                         20,607,376
+
+<OTHER-SE>                                                          650,301
+<TOTAL-LIABILITY-AND-EQUITY>                                     37,292,537
+
+<SALES>                                                           4,578,797
+<TOTAL-REVENUES>                                                  4,578,797
+<CGS>                                                                     0
+<TOTAL-COSTS>                                                             0
+<OTHER-EXPENSES>                                                     89,370
+<LOSS-PROVISION>                                                    180,000
+<INTEREST-EXPENSE>                                                1,139,875
+<INCOME-PRETAX>                                                   2,538,287
+<INCOME-TAX>                                                         32,461
+<INCOME-CONTINUING>                                                       0
+<DISCONTINUED>                                                            0
+<EXTRAORDINARY>                                                           0
+<CHANGES>                                                                 0
+<NET-INCOME>                                                      2,505,826
+
+<EPS-BASIC>                                                           .36
+<EPS-DILUTED>                                                           .36
+
+
+</TABLE>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

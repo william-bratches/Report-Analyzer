@@ -1,0 +1,3391 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ HoIh/A7eFitkn9GTHGfaIVFyCYnM0t0PtI0PFoQfRTsWdZpi0GSY5sKqxiCmkAuq
+ xq/HMWngSJK5MubhkP8GIA==
+
+<SEC-DOCUMENT>0000019913-00-000002.txt : 20000331
+<SEC-HEADER>0000019913-00-000002.hdr.sgml : 20000331
+ACCESSION NUMBER:		0000019913-00-000002
+CONFORMED SUBMISSION TYPE:	10KSB
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	19991231
+FILED AS OF DATE:		20000330
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			CHIEF CONSOLIDATED MINING CO
+		CENTRAL INDEX KEY:			0000019913
+		STANDARD INDUSTRIAL CLASSIFICATION:	MINERAL ROYALTY TRADERS [6795]
+		IRS NUMBER:				870122295
+		STATE OF INCORPORATION:			AZ
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10KSB
+		SEC ACT:		
+		SEC FILE NUMBER:	001-01761
+		FILM NUMBER:		585283
+
+	BUSINESS ADDRESS:	
+		STREET 1:		500 FIFTH AVE
+		STREET 2:		STE 1021
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10110
+		BUSINESS PHONE:		2123544044
+
+	MAIL ADDRESS:	
+		STREET 1:		500 FIFTH AVE
+		STREET 2:		STE 1021
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10110
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>10KSB
+<SEQUENCE>1
+<TEXT>
+
+
+                             F-1
+           U.S. SECURITIES AND EXCHANGE COMMISSION
+                   WASHINGTON, D.C. 20549
+
+                         FORM 12b-25
+
+(Check One):
+|x|  FORM 10-K AND FORM 10-KSB
+|_|  FORM 20-F |_| FORM 11-K  |_| FORM 10-Q AND FORM 10-QSB
+|_|  FORM N-SAR
+
+For Period Ended:   December 31, 1999
+
+|_|  Transition Report on Form 10-K
+|_|  Transition Report on Form 20-F
+|_|  Transition Report on Form 11-K
+|_|  Transition Report on Form 10-Q
+|_|  Transition Report on Form N-SAR
+
+For the Transition Period Ended:
+
+READ ATTACHED INSTRUCTION SHEET BEFORE PREPARING FORM.
+PLEASE PRINT OR TYPE
+Nothing in this Form shall be construed to imply that the
+Commission has verified any information contained herein
+
+
+
+If the notification relates to a portion of the filing
+checked above, identify the Item(s) to which the
+notification relates:
+
+
+
+PART I - Registration Information
+
+Chief Consolidated Mining Company
+Full Name of Registrant
+
+Full Name of Registrant
+Former Name if Applicable
+
+500 5th Avenue, Suite 1021
+Address of Principal Executive Office (Street and Number)
+
+New York, NY 10110-1099
+City, State and Zip Code
+
+PART II RULES 12b-25 (b) and (c)
+
+
+If the subject report could not be filed without
+unreasonable effort or expense and the registrant seeks
+relief pursuant to Rule 12b-25(b), the following should be
+completed.
+(Check box if appropriate)
+
+|  |  (a)  The reasons described in reasonable detail in
+Part III of this form could not be eliminated without
+unreasonable effort or expense;
+
+|  |  (b)  The subject annual report, semi-annual report,
+transition report on Form 10-K, Form 10-KSB, Form 20-F, 11-K
+or Form N-SAR, or portion thereof will be filed on or before
+the fifteenth calendar following the prescribed due date; or
+the subject quarterly report or transition report on Form 10-
+Q, or portion thereof will be filed on or before the fifth
+calendar day following the prescribed due date; and
+
+|_| (c)  The accountant's statement or other exhibit
+required by Rule 12b-25(c) has been attached if applicable.
+
+PART III - NARRATIVE
+
+
+State below in reasonable detail the reasons why Form 10-K
+and Form 10-KSB, 20-F, 11-K, 10-Q and Form 10-QSB, N-SAR, or
+the transition report or portion thereof could not be filed
+within the prescribed period.
+
+PART IV - OTHER INFORMATION
+
+(1) Name and telephone number of person to contact in regard
+to this notification
+
+Leonard Weitz, President           212-354-4044
+Name                          Telephone Number
+
+(2)  Have all the other periodic reports required under 13
+or 15(d) of the Securities Exchange Act of 1934 or section
+30 of the Investment Company Act of 1940 during the
+preceding 12 months or for such shorter period that the
+registrant was required to file such report(s) been filed?
+If the answer is no, identify report(s)
+
+     |x| YES        |_| NO
+
+(3)  Is it anticipated that any significant change in
+results of operations from the corresponding period for the
+last fiscal year will be reflected by the earning statements
+to be included in the subject report or portion thereof?
+
+     |_| YES        |x| NO
+
+If so, attach an explanation of the anticipated change, both
+narratively, and quantitatively, and, if appropriate, state
+the reasons why a reasonable estimate of the results cannot
+be made.
+
+Chief Consolidated Mining Company
+(Name of registrant as Specified in Charter)
+
+has caused this notification to be signed on its behalf by
+the undersigned thereunto duly authorized.
+
+
+
+Date March 29, 2000           By /s/ Leonard Weitz
+                              Leonard Weitz, President
+
+           U.S. SECURITIES AND EXCHANGE COMMISSION
+                   WASHINGTON, D.C. 20549
+                         FORM 10-KSB
+(Mark One)
+   1
+   x    Annual report under Section 13 or 15(d) of the
+Securities Exchange Act of 1934           (Fee required)
+
+  For the fiscal year ended December 31, 1999
+
+     Transition report under Section 13 or 15(d) of the
+Securities Exchange Act of 1934      (No Fee required)
+  For the transition period from                to
+
+  Commission file number        1-1761
+
+              CHIEF CONSOLIDATED MINING COMPANY
+         (Name of Small Business Issuer in its Charter)
+
+       Arizona                           87-0122295
+    (State or Other Jurisdiction       (I.R.S.Employer
+     of Incorporation or Organization)  Identification No.)
+
+500 Fifth Avenue, New York, New York             10110-1099
+(Address of Principal Executive Offices)         (Zip Code)
+
+                      (212) 354-4044
+(Issuer's Telephone Number, Including Area Code)
+
+Securities registered under Section 12(b) of the Exchange Act:
+
+                           Name of Each Exchange
+  Title of Each Class          on which Registered
+
+  Common Stock, $0.50 par valuePacific Exchange, Inc
+
+
+Securities registered under Section 12(g) of the Exchange Act:
+
+Common Stock, $0.50 par value   The NASDAQ Stock Market
+
+
+
+Check whether the issuer:  (1) filed all reports required
+to be filed by Section 13 or 15(d) of the Exchange Act
+during the past 12 months (or for such shorter period that
+the registrant was required to file such reports), and (2)
+has been subject to such filing requirements for the past 90
+days.
+
+Yes            X                  No ________
+
+  Check if there is no disclosure of delinquent filers in
+response to Item 405 of Regulation S-B is not contained in
+this form, and no disclosure will be contained, to the best
+of registrant's knowledge in definitive proxy or information
+statements incorporated by reference in Part III of this
+Form 10-KSB or any amendments to this Form 10-KSB.
+
+     X
+
+  State issuer's revenues for its most recent fiscal year.
+$39,634
+
+  State the aggregate market value of the voting stock held
+by non-affiliates computed by reference to the price at
+which the stock was sold, or the average bid and asked
+prices of such stock, as of a specified date within the past
+60 days.  (See definition of affiliate in Rule 12b-2 of the
+Exchange Act.) $18,663,614 as of March 15, 2000.
+
+  Note:  If determining whether a person is an affiliate
+will involve an unreasonable effort and expense, the issuer
+may calculate the aggregate market value of the common
+equity held by non-affiliates on the basis of reasonable
+assumptions, if the assumptions are stated.
+
+      ISSUERS INVOLVED IN BANKRUPTCY PROCEEDINGS DURING
+                     THE PAST FIVE YEARS
+
+  Check whether the issuer has filed all documents and
+reports required to be filed by Section 12, 13 or 15(d) of
+the Exchange Act after the distribution of securities under
+a plan confirmed by a court.
+
+Yes    _____          No    _____
+
+          APPLICABLE ONLY TO CORPORATE REGISTRANTS
+
+  State the number of shares outstanding of each of the
+issuer's classes of common equity, as of the latest
+practicable date.
+
+Class                        Outstanding at March 15,2000
+
+Common Stock $0.50 par value               8,024,601
+
+Convertible Common Stock $0.50 par value   3,500,000
+
+
+             DOCUMENTS INCORPORATED BY REFERENCE
+  If the following documents are incorporated by reference;
+briefly describe them and identify the part of the Form 10-
+KSB (e.g., Part 1, Part II, etc.) into which the document is
+incorporated:  (1) any annual report to security holders;
+(2) any proxy or information statement;  and (3)  any
+prospectus filed pursuant to Rule 424(b) or (c) of the
+Securities Act of 1933 ("Securities Act").  The listed
+documents should be clearly described for identification
+purposes (e.g., annual report to security holders for the
+fiscal year ended December 24, 1990):
+
+  Registrant's Proxy Statement ("Proxy Statement") dated
+  November 30, 1999 for the Special Meeting In Lieu Of
+  Annual Meeting Of Shareholders held December 29, 1999 -
+  Proposals (2) and (3) described at pages 8 through 27 of
+  the Proxy Statement.
+
+
+Transitional Small Business Disclosure Format (check one):
+
+YES:                     NO:       X
+
+PART  I
+
+
+Item 1.  Description of Business.
+
+  General.
+
+  Registrant is a corporation formed under the laws of
+Arizona in 1909.  Registrant's mining office is located in
+Eureka, Juab County, Utah 84628.  Registrant's executive
+office is located at 500 Fifth Avenue, New York, NY 10110.
+See "Item 2. Description of Property-Ownership Interests In
+Acreage And Location." for information concerning mining and
+real estate properties owned by registrant and its
+subsidiaries, and the composition and use of said
+properties.  Registrant has three employees in New York and
+employs a mine manager in Utah.  Registrant's subsidiary,
+Tintic Utah Metals LLC, currently has 40 employees in Utah.
+
+  Tintic Utah Metals LLC
+
+  Formation And Ownership.  Registrant owns a 75% vested
+membership interest in Tintic Utah Metals LLC ("Tintic Utah
+Metals") formed under the Colorado Limited Liability Company
+Act.   For financial reporting purposes, Tintic Utah Metals
+is consolidated with registrant.  Tintic Utah Metals was
+formed on July 29, 1996 as the vehicle for a joint venture
+project for the development of certain properties that were
+contributed by registrant to Tintic Utah Metals.  KZ Utah,
+Inc. ("Korea Zinc"), a wholly owned U.S. subsidiary of Korea
+Zinc Co., Ltd. owns the remaining 25% vested membership
+interest in Tintic Utah Metals.  See "Operating Agreement",
+below.
+
+  Business Objectives.  The primary goal of Tintic Utah
+Metals is to bring the Burgin Mine that was contributed by
+registrant to Tintic Utah Metals into production.  See
+"Operating Agreement." and "Burgin Mine.", below; "Item 2.
+Description of Property.-Burgin Mine." and "Item 6.
+Management's Discussion And Analysis Or Plan Of Operation.-
+(a) PLAN OF OPERATION-Burgin Mine."
+
+  Tintic Utah Metals will also process ores produced from
+the Trixie Mine at Tintic Utah Metals' concentrating mill.
+Tintic Utah Metals will complete renovations at its mill
+during April  2000.  The Trixie Mine is located on property
+owned by registrant's 100% owned subsidiary, Chief Gold
+Mines, Inc. ("Chief Gold Mines"). See "Trixie Mine." and
+"Concentrating Mill.", below; "Item 2. Description of
+Property.-Trixie Mine" and "Item 6. Management's Discussion
+And Analysis Or Plan Of Operation.-(a) PLAN OF OPERATION-
+Trixie Mine."  Tintic Utah Metals will receive fees for
+processing the Trixie mine ores and material from the Trixie
+dump from Chief Gold Mines based upon the amount of ores and
+material processed.
+
+
+  Operating Agreement.
+
+  General.  An Operating Agreement ("Operating Agreement")
+between registrant and Korea Zinc dated July 17, 1996, as
+subsequently amended, governs the management and operations
+of the properties owned by Tintic Utah Metals and the rights
+and obligations of the members of Tintic Utah Metals to each
+other. Pursuant to the terms of the Operating Agreement,
+registrant transferred to Tintic Utah Metals the mining
+rights to approximately 8,500 acres of its patented mining
+property in the East Tintic Mining District of Utah,
+including the Burgin Mine, and approximately 200 acres of
+unpatented mining claims in the same vicinity.  The
+Operating Agreement provides that all the business and
+operations relating to the development and mining of Tintic
+Utah Metals' properties will be conducted by Tintic Utah
+Metals.  Korea Zinc has paid $3,000,000 to Tintic Utah
+Metals to become vested in its 25% membership interest,
+which funds were used by Tintic Utah Metals to produce
+information for a future feasibility study.  The purpose of
+such a feasibility study will be to assist the members in
+deciding whether to attempt to bring the Burgin Mine into
+production.  If a decision is made to proceed, the
+feasibility study would provide the basis for a development
+program, including mine rehabilitation and construction, and
+a production program.  If a production program is adopted,
+Tintic Utah Metals would then attempt to arrange financing
+for the production program; such financing may be secured by
+Tintic Utah Metals' interest in its properties and other
+assets.
+
+       Registrant's Option To Purchase Korea Zinc's 25%
+Interest.  Registrant holds an option ("Option") to purchase
+Korea Zinc's entire 25% membership interest in Tintic Utah
+Metals for $2,000,000. A fourth amendment to the Operating
+Agreement dated September 9, 1999 extended the time during
+which registrant has the right to exercise the Option
+("Option Period") through December 31, 2000.  The Option was
+first given by Korea Zinc to registrant under a third
+amendment to the Operating Agreement dated October 1, 1998
+that provided for an Option Period through October 15, 1999.
+The September 9, 1999 amendment extended the Option Period
+to December 31, 2000, but did not change any of the other
+provisions of the October 1, 1998 amendment.  During the
+Option Period, registrant will not require Korea Zinc to
+make advances to Tintic Utah Metals or to repay to
+registrant 25% of the advances made by registrant to Tintic
+Utah Metals during the Option Period.  Registrant has not
+exercised the Option and the Option to purchase Korea Zinc's
+25% membership interest in Tintic Utah Metals currently
+remains in effect.  The October 1, 1998 amendment to the
+Operating Agreement also provides that if registrant
+exercises the Option and any time thereafter sells all or a
+portion of the 25% membership interest in Tintic Utah Metals
+purchased from Korea Zinc to a third party at a net selling
+price in excess of $80,000 for each 1% membership interest
+sold, registrant shall pay to Korea Zinc one-half of such
+excess over $80,000 for each 1% out of the 25% membership
+interest sold.
+
+  During the Option Period that terminates December 31,
+2000, Korea Zinc shall have no vote upon the operations of
+Tintic Utah Metals or in establishing programs and budgets.
+Accordingly, registrant has had complete control over the
+day-to-day operations of Tintic Utah Metals since the
+October 1, 1998 starting date of the Option Period.  This
+factor, coupled with the receipt of proceeds from the sale
+by registrant of shares of its convertible common stock in
+December, 1999, has allowed the renovation work at Tintic
+Utah Metals' concentrating mill and other projects to be
+completed by Tintic Utah Metals without the need for
+registrant to first seek approvals from Korea Zinc during
+the progress of the work.  See "Item 2. Tintic Utah Metals'
+Use Of Advances Received From Registrant." and "Item 12.
+Certain Relationships and Related Transactions."
+
+       Advances Made By Registrant During Option Period.
+During the portion of the Option Period from October 1, 1998
+through December 31, 1999, registrant made advances to
+Tintic Utah Metals in the aggregate amount of $2,400,000.
+Registrant estimates that it will make additional $2,800,000
+of advances to Tintic Utah Metals during the remaining
+portion of the Option Period from January 1, 2000 to
+December 31, 2000.  Registrant believes it has sufficient
+funds to continue to make advances to Tintic Utah Metals
+needed during the year 2,000; $897,300 of such advances were
+made from January 1, 2000 to March 15, 2000.  If for some
+reason, registrant is unable to continue making advances to
+Tintic Utah Metals during the remainder of  2000, Tintic
+Utah Metals would stop further work on its projects until
+registrant is able to arrange an alternative means for
+raising funds.
+
+  Of the aforesaid amount of advances made by registrant to
+Tintic Utah Metals from October 1, 1998 to December 31,
+1999, $600,000 (representing 25% of the total) represents
+what would have been Korea Zinc's share of the advances if
+the terms of the Option were not in effect.  Although
+registrant does not have the right to seek reimbursement of
+the said 25% portion of advances directly from Korea Zinc,
+the entire amount of advances made by registrant to Tintic
+Utah Metals constitutes an obligation of Tintic Utah Metals
+to registrant.  Registrant does not anticipate repayment of
+such advances until such time as Tintic Utah Metals has
+sufficient revenues to begin repayment, a financing of
+Tintic Utah Metals' operations is obtained from a lender or
+registrant sells all or a portion of its membership interest
+in Tintic Utah Metals to a third party.  None of the
+foregoing are anticipated to occur in the near future.  See
+"Item 2. Description of Property.-Burgin Mine.-Tintic Utah
+Metals' Use Of Advances Received From Registrant."
+
+       Korea Zinc's Status If Option Expires.  If
+registrant does not exercise the Option to purchase Korea
+Zinc's 25% membership interest in Tintic Utah Metals by
+December 31, 2000, any additional cash contributions or
+advances subsequent to that date shall be made by registrant
+and Korea Zinc, as the members of Tintic Utah Metals, based
+upon their respective membership percentage interests in
+Tintic Utah Metals.  The amount of any such additional cash
+contributions and advances that would be required after
+December 31, 2000, if the Option is not exercised by
+registrant, would depend upon the then existing program and
+budgetary requirements of Tintic Utah Metals.
+
+  Another result of  registrant's not exercising the Option
+to purchase Korea Zinc's 25% membership interest in Tintic
+Utah Metals by December 31, 2000, is that the management of
+Tintic Utah Metals would thereafter be conducted by the two
+members, registrant and Korea Zinc, through a management
+committee, with each member having a voting representative
+on the committee.  Voting shall be in proportion to each
+member's respective membership percentage interest.  Unless
+the Operating Agreement provides for a unanimous vote, the
+affirmative vote of registrant, as the member holding a
+majority of the members' percentage interests, shall
+determine the decisions of the management committee.  A
+majority vote is needed to approve a program and budget, but
+the approval of a program and budget for major mining
+development requires the affirmative vote of both registrant
+and Korea Zinc.
+
+       Tax Status Of Tintic Utah Metals.  Tintic Utah
+Metals is treated for tax purposes as a partnership under
+the Internal revenue Code of 1986, as amended.  Accordingly,
+registrant will include its proportionate share of income or
+loss from Tintic Utah Metals in registrant's corporation
+income tax return.  A member's percentage interest in Tintic
+Utah Metals will determine the member's proportionate share
+of income or loss.  However, the Operating Agreement
+provides that each member will be allocated expense
+deductions emanating from the property such member has
+contributed to Tintic Utah Metals.  Thus, Korea Zinc will be
+allocated tax deductions that arise from its cash
+contribution of $3,000,000 and registrant will be allocated
+the tax deductions that arise from its contribution of
+mining properties and other assets, such as cost depletion,
+depreciation on equipment and development costs.
+
+       Distributions To Members.  A member is entitled to
+be repaid for cash advances made by it to Tintic Utah Metals
+that are in the nature of loans, rather than capital
+contributions.  After the repayment of cash advances to
+registrant, any additional distributions made by Tintic Utah
+Metals of cash or property will be made to the members on a
+pro-rata basis in proportion to their percentage interests
+on the date of distribution.  The Operating Agreement
+contains provisions that define the members rights to
+receive distributions.  See "Advances Made By Registrant
+During Option Period.", above.
+
+       Right Of First Refusal.  If registrant does not
+exercise its Option to purchase Korea Zinc's 25% membership
+interest in Tintic Utah Metals by December 31, 2000, and a
+member desires to sell its interest in Tintic Utah Metals to
+a third party subsequent to that date, the Operating
+Agreement provides the mechanics under which the other
+member has the prior right to purchase the selling member's
+interest on the same terms as offered by the third party.
+
+       Executive Director Of Tintic Utah Metals.  The
+Executive Director of Tintic Utah Metals, Paul Spor, is
+employed under a five year employment agreement with Tintic
+Utah Metals dated as of January 1, 2000 and expiring
+December 31, 2004.  He has the delegated power to manage,
+direct and control the operations of Tintic Utah Metals in
+accordance with approved programs and budgets.  The
+Executive Director is on the management committee, but does
+not have any vote.   Tintic Utah Metals may retain
+consultants and other mining specialists in connection with
+the various phases of its operations.
+
+Burgin Mine.
+
+  The principal mining property transferred by registrant
+to Tintic Utah Metals in 1996 under the terms of the
+Operating Agreement was the Burgin Mine.  See "Letter Of
+Intent With U.S. Filter Corporation Subsidiary.",
+"Registrant's Application For Appropriation Of Burgin Mine
+Water." and "Projected Costs And Time Involving The Burgin
+Mine.", below; "Item 2.  Description of Property.-Burgin
+Mine."; and "Item 6. Management's Discussion And Analysis Or
+Plan Of Operation.-(a) PLAN OF OPERATION-Burgin Mine." for
+further information concerning the history, current status
+and future plans of Tintic Utah Metals regarding the Burgin
+Mine.
+
+
+Concentrating Mill.
+
+  Included in the properties transferred by registrant to
+Tintic Utah Metals was the concentrating mill located in the
+Burgin Mine area.  Tintic Utah Metals will process ores
+produced from the Trixie Mine and material from the Trixie
+dump at Tintic Utah Metals' concentrating mill.  See "Tintic
+Utah Metals LLC-Business Objectives", above; "Trixie Mine",
+below; "Item 2.  Description of Property.-Burgin Mine.-
+Concentrating Mill.-Trixie Mine." and "Item 6. Management's
+Discussion And Analysis Or Plan Of Operation.-(a) PLAN OF
+OPERATION-Trixie Mine." for a description of the
+concentrating mill process, information concerning the
+mill's completed renovation and plans for shipping ores and
+dump material from the Trixie Mine to the concentrating mill
+for processing by Tintic Utah Metals and sale by Chief Gold
+Mines.
+
+Letter Of Intent With U.S. Filter Corporation Subsidiary.
+
+  On June 29, 1998, Tintic Utah Metals and registrant
+entered into a Letter of Intent ("Letter of Intent") with a
+subsidiary of U.S. Filter Corporation.  U.S. Filter
+Corporation is a global provider of industrial and municipal
+water and waste water treatment systems, products and
+services.  Under the terms of the Letter of Intent, U.S.
+Filter Operating Services ("U.S. Filter") will determine the
+feasibility of U.S. Filter designing, building, owning and
+operating a water treatment plant on the site of the Burgin
+Mine in the East Tintic Mining District of Utah, to treat
+and recycle water for beneficial use.  U.S. Filter would
+construct the water treatment plant.  Tintic Utah Metals
+would be responsible for the Burgin Mine dewatering system
+that would supply water to the U.S. Filter plant.  A
+projected dewatering rate up to 18,000 gallons a minute from
+the Burgin Mine would be treated at the U.S. Filter plant,
+which would result in dewatering the Burgin Mine to its
+lowest planned operating  levels in an environmentally sound
+manner.  Before any plans for the building of the water
+treatment plant can be finally evaluated by U.S. Filter and
+Tintic Utah Metals, registrant will be required to obtain
+the approval of the Utah State Engineer to the appropriation
+of water from the Burgin Mine for beneficial use.   See
+"Registrant's Application For Appropriation Of Burgin Mine
+Water", below, and "Item 6. Management's Discussion And
+Analysis Or Plan Of Operation.-(a) PLAN OF OPERATION-Burgin
+Mine."
+
+Registrant's Application For Appropriation Of Burgin Mine
+Water.
+
+  Registrant and Tintic Utah Metals are awaiting a decision
+of the Utah State Engineer on registrant's application for
+appropriation of Burgin Mine water that was filed in
+February 2000.  If the Utah State Engineer approves
+registrant's application, Registrant and Tintic Utah Metals
+will seek to enter into a written agreement with U.S. Filter
+pursuant to the Letter of Intent that would provide for U.S.
+Filter constructing a water treatment facility and the
+dewatering of the Burgin Mine.  See "Letter Of Intent With
+U.S. Filter Corporation Subsidiary.", above.  A first
+application for the appropriation of Burgin mine water was
+filed with the Utah State Engineer in September 1998 seeking
+appropriation of Burgin Mine water covering up to 29,000
+acre feet annually (equivalent to eight billion gallons
+annually).  A public hearing was held on the first
+application before two hearing examiners and registrant's
+first application was rejected in August 1999 by the Utah
+State Engineer.  The Utah State Engineer had apparently
+taken into consideration objections of several protesters to
+registrant's application, who had argued that an unspecified
+amount of Burgin highly saline water flows underground into
+Utah Lake, where water appropriation had previously been
+granted to parties other than registrant, and that the
+Burgin water was a tributary to Utah Lake.  The Utah State
+Engineer had not attended the public hearing, but relied
+upon information furnished to him by the two hearing
+examiners.
+
+  Notwithstanding the negative decision of the first
+application, registrant continued to advocate its position
+that there is no factual evidence to support a finding that
+the Burgin geothermal system and the Utah Lake geothermal
+system are connected, or that even if they were, there would
+be a reduction in Utah Lake water.  Registrant therefore
+renewed its efforts to seek the approval of the Utah State
+Engineer.  Registrant held informal discussions with the
+Utah State Engineer's office to determine the basis for the
+rejection of the first application; registrant also hired
+independent consultants who analyzed technical data and made
+recommendations for a re-filing.  After filing a request for
+reconsideration with the Utah State Engineer, the Utah State
+Engineer accepted a new application for appropriation of
+Burgin Mine water that was filed by registrant on February
+15, 2000.  The principal concern of the Utah State Engineer
+is that if the geothermal system creating the Burgin water
+is connected to the geothermal system feeding Utah Lake, the
+pumping of Burgin water might result in reduced flow of
+water into Utah Lake.  In order to address that concern,
+registrant's new application provides for a procedure that
+would be in place if the application is approved,  whereby
+registrant would monitor geothermal springs in and around
+Utah Lake and replace water that may diminish spring flow
+when pumping starts at the Burgin Mine.  See "Item 6.
+Management's Discussion And Analysis Or Plan Of Operation.-
+(a) PLAN OF OPERATION-Burgin Mine." for further information
+concerning registrant's application for appropriation of
+water.
+
+Projected Costs And Time Involving The Burgin Mine.
+
+  If the Utah State Engineer approves registrant's
+application for Burgin Mine water appropriation, Tintic Utah
+Metals will then initiate detailed negotiations with U.S.
+Filter for the building of a water treatment facility at the
+site of the Burgin Mine.  See "Registrant's Application For
+Appropriation Of Burgin Mine Water.", above.  When a
+contract has been negotiated with U.S. Filter, or another
+company in the water treatment business if the Letter of
+Intent with U.S. Filter is terminated, registrant would then
+start a final feasibility study.  The feasibility study
+would define the mining methods to be employed, including
+among other things, pre-engineering design for pumping,
+defining the structural steel and cement requirements,
+determining the locations where deep wells will be drilled
+and the overall evaluation of the Burgin Mine's main
+orebody.  Registrant estimates that the final feasibility
+study will cost between $1,500,000 and
+$2,000,000.  If registrant has exercised its Option by
+December 31, 2000 and purchased Korea Zinc's 25% membership
+interest in Tintic Utah Metals, Tintic Utah Metals would be
+100% owned by registrant and registrant would pay 100% of
+the feasibility study costs and have complete control over
+the project.  However, if the Option is not exercised and
+Korea Zinc retains its 25% membership interest in Tintic
+Utah Metals beyond December 31, 2000, a major production
+budget will need to be agreed upon between registrant and
+Korea Zinc.  Korea Zinc would then be required to contribute
+25% of the costs, with registrant to contribute 75% of the
+costs to Tintic Utah Metals.
+
+  The construction of a water treatment facility will take
+approximately two years, the cost of which will be borne by
+the builder, not registrant.  During the first six month
+period of the facility's construction, registrant would be
+completing a feasibility study for the purpose of obtaining
+financing to bring the Burgin Mine into production.
+Registrant estimates that $35,000,000 would be required by
+Tintic Utah Metals for the completion of all underground
+rehabilitation and construction work required for start-up
+of the Burgin Mine.  Registrant also estimates that the
+total time period required for both the building of the
+water treatment plant and the completion of all work
+necessary to begin mining operations would be approximately
+three years from the time the water appropriation
+application is approved.  In order for Tintic Utah Metals to
+be able to go into full production at the Burgin Mine, each
+of the following events and conditions must occur or be
+fulfilled: (i) the  approval of the water appropriation
+application by the Utah State Engineer; (ii)  the completion
+of the water treatment facility to dewater the Burgin Mine;
+(iii) Tintic Utah Metals' completing a positive feasibility
+study; (iv) obtaining long term financing from a banking or
+other lending institution to fund the mining project; and
+(v) completion of all underground rehabilitation and
+construction work required for start-up of the Burgin Mine.
+No assurance can be given by registrant that all of the
+foregoing events and conditions necessary in order for
+Tintic Utah Metals to begin mining from the Burgin Mine will
+take place or be fulfilled.  Registrant is currently unable
+to estimate the amount of ores that would be produced from
+the main Burgin Mine ore reserves if production were to
+begin from the Burgin Mine.  See "Item 2. Description of
+Property.-Burgin Mine.-Proven and Probable Ore Reserves at
+the Burgin Mine." and  "Item 6. Management's Discussion and
+Analysis Or Plan Of Operation.-(a) PLAN OF OPERATION-Burgin
+Mine."
+
+  Approval by the Utah State Engineer of registrant's water
+appropriation application is not required in order to begin
+limited production from Tintic Utah Metals' silver fissure
+area of the Apex Mine located above the Burgin Mine water
+table, where mining could begin if registrant determines
+that economic ore can be mined above the water table.
+
+Trixie Mine.
+
+  As the result of the merger in June 1996 of South
+Standard Mining Company into Chief Gold Mines, Inc. ("Chief
+Gold Mines"), 2,554 acres of patented mining properties,
+including the Trixie Mine properties, were received by Chief
+Gold Mines, registrant's wholly owned subsidiary.  The
+market value for the 372,515 shares of registrant's common
+stock issued to the South Standard shareholders as a result
+of the merger was approximately $3.4 million on June 21,
+1996, the date approval was given.
+
+  Registrant anticipates that processing of Trixie surface
+dump material at the Concentrating Mill will begin during
+the second quarter of 2000 and underground production of
+ores from the Trixie Mine will begin during the third
+quarter of 2000.  The initial target areas for production
+are the 750, 1,200 and 1,350 foot levels of the Trixie Mine.
+Ores mined from the Trixie Mine will be shipped to the
+Concentrating Mill located on Tintic Utah Metals' Burgin
+Mine property, where the Trixie ores will be processed by
+Tintic Utah Metals and sold by Chief Gold Mines. The Trixie
+Mine is located on property adjacent to Tintic Utah Metals'
+property and is one and a half miles from the Concentrating Mill.  See
+"Tintic Utah Metals LLC.-Business Objectives." and
+"Concentrating Mill", above; "Trixie Mine.", below; "Item 2.
+Description of Property-Trixie Mine."; and "Item 6.
+Management's Discussion And Analysis Or Plan Of Operation.-
+(a) PLAN OF OPERATION-Trixie Mine."
+
+Main Tintic District.
+
+  The area known as registrant's Main Tintic District
+consists of approximately 10,000 acres owned by registrant;
+this acreage is not a part of the property subject to the
+Tintic Utah Metals' Operating Agreement.  Registrant has
+filed an application with the Utah State Engineer for the
+appropriation of fresh water from its Main Tintic District
+Property, the water to be pumped from the Chief Number 2
+shaft, if the application is approved, for use in connection
+with the proposed development of registrant's surface real
+estate in the Main Tintic District for residential and
+commercial use.  In October 1996, registrant completed a
+refurbishing of the  shaft, which had been opened in 1979 by
+Asarco Inc. under a lease that expired in 1984.  This
+application for appropriation is pending and has no
+connection with registrant's application for appropriation
+of Burgin Mine water.  See "Registrant's Application For
+Appropriation Of Burgin Mine Water.", above, and "Item 6.
+Management's Discussion and Analysis or Plan of Operation.-
+(a) PLAN OF  OPERATION-Proposed Sale Of Real Estate For
+Development."
+
+Item 2.  Description of Property.
+
+Ownership And Interests in Acreage and Location.
+
+  General.  Registrant is the direct owner of, or has a
+membership or stock ownership interest in a total of
+approximately 19,300 acres of patented mining property in
+the Tintic and East Tintic Mining District, Juab and Utah
+Counties, and approximately 200 acres of unpatented mining
+claims in the same area.  Title to patented mining ground is
+vested in the owner of the land; unpatented mining claims
+are possessory rights to land owned by the U.S. Government
+and are subject to rental payments and other conditions as
+to validity.
+
+  Property Owned By Tintic Utah Metals.
+
+  Approximately 8,500 acres of patented ground and 200
+acres of unpatented mining claims located in the East Tintic
+Mining District of Utah are owned by Tintic Utah Metals.
+Pursuant to the terms of the Operating Agreement between
+registrant and Korea Zinc, registrant transferred ownership
+of approximately 11,000 acres of its patented ground and 200
+acres of its unpatented mining claims to Tintic Utah Metals.
+Under the terms of the Operating Agreement, ownership of
+approximately 2,500 acres that were not involved in Tintic
+Utah Metals' exploration and development programs reverted
+back to registrant, leaving Tintic Utah Metals with the
+8,500 acres.  Registrant owns a 75% membership interest in
+Tintic Utah Metals and Korea Zinc holds the remaining 25%
+membership interest. Registrant holds an option until
+December 31, 2000 to purchase Korea Zinc's entire 25%
+interest for $2 million.  See "Item 1.  Description of
+Business.-Tintic Utah Metals LLC-Formation And Ownership-
+Operating Agreement."  and "Burgin Mine.", below.
+
+  Property Owned By Chief Gold Mines, Inc.
+
+  Approximately 2,554 acres of patented mining properties
+located in the East Tintic Mining District of Utah are owned
+by registrant's wholly owned subsidiary, Chief Gold Mines,
+Inc. ("Chief Gold Mines").  Chief Gold Mines acquired the
+property as the result of a merger of South Standard Mining
+Company into Chief Gold Mines in June 1996.  The Trixie Mine
+is located on Chief Gold Mines' property.  See "Item 1.
+Description of Business.-Trixie Mine." and "Trixie Mine",
+below.
+
+  Property Owned By Registrant In The Main Tintic District.
+
+  Registrant owns approximately 6,000 acres in Eureka
+Valley near the City of Eureka, Utah in an area known as the
+Main Tintic District that registrant believes are suitable
+for residential and commercial building development.
+Registrant intends to sell portions of said acreage for
+development for residential and commercial use.  320 of
+those acres were incorporated into the City limits of
+Eureka, Utah during 1999, thus entitling that acreage to
+city services.  There are no current plans to use the 6,000
+acres for mining purposes.  See "Item 1.  Description of
+Business.-Main Tintic District." and "Item 6. Management's
+Discussion and Analysis or Plan of Operation.-(a) PLAN OF
+OPERATION-Proposed Sale Of Real Estate For Development."  If
+proposed plans for the construction of the Legacy Highway
+southward from Salt Lake City, Utah that include Utah State
+Highway 68 are implemented, the new highway would pass
+within eight miles of Eureka Valley and would reduce the
+time of traveling by car from Eureka to Salt Lake City to
+under one hour.
+
+  Central Standard Consolidated Mines.
+
+  Registrant owns approximately 23% of the outstanding
+capital stock of Central Standard Consolidated Mines
+("Central Standard").  Central Standard's mining property
+consist of 320 acres located in the north-central portion of
+the East Tintic Mining District.  This property is
+surrounded by property owned by Tintic Utah Metals.  The 320
+acres owned by Central Standard Consolidated Mines is
+located about 2 miles from the Burgin Mine and the geologic
+characteristics of the Central Standard property are not
+similar to those of the Burgin orebody.  See "Property Owned
+By Tintic Utah Metals.", above.
+
+Burgin Mine.
+
+  Brief History Of Burgin Mine. The Burgin Mine, located on
+the property of Tintic Utah Metals, had been transferred by
+registrant to Tintic Utah Metals in 1996 under the terms of
+the Operating Agreement.  The Burgin Mine had previously
+been leased by registrant as part of a Unit Lease, together
+with properties of other landowners, to Kennecott
+Corporation ("Kennecott").  After the Burgin Mine was
+removed from the Unit Lease in 1978, registrant leased the
+Burgin Mine to Sunshine Mining Company ("Sunshine") in 1980.
+Kennecott operated the Burgin Mine from 1966 to 1978.
+During that period, Kennecott mined 1,870,218 tons of ore
+from the Burgin Mine that produced 10,929,978 ounces of
+silver, 338,127,751 pounds of lead and 349,209,284
+pounds of zinc.  When Sunshine became lessee in 1980, it
+gained the use of the mining shafts and other capital
+improvements previously made by Kennecott on the properties,
+including underground access by means of the Apex Number 2
+Shaft.  The shaft, together with the connecting drifts and
+drill stations, had been rehabilitated by Sunshine at a cost
+of approximately $6 million. As a result of a lawsuit
+brought by registrant and South Standard against Sunshine
+relating to Sunshine's leases with registrant and South
+Standard, the Burgin Mine was returned to registrant in
+1992.
+
+  Proven And Probable Ore Reserves At The Burgin Mine.
+
+  During the period from 1966 to 1978 that Kennecott
+operated the Burgin Mine, it did not report Burgin Mine ore
+reserves to registrant; however, Kennecott did report
+annually to registrant that one additional ton of ore was
+developed to replace every ton mined.  When Sunshine leased
+the Burgin Mine in 1980, it conducted extensive surface and
+underground drilling programs and computed the property's
+proven and probable ore reserves.  After the Burgin Mine was
+returned to registrant in 1992, registrant continued to have
+access to the reserves through the Apex Number 2 Shaft.
+Registrant utilized the shaft in an underground drilling
+program started by registrant and completed by Tintic Utah
+Metals when the Burgin Mine was transferred by registrant to
+Tintic Utah Metals in 1996.  Tintic Utah Metals hired
+independent consultants to calculate the ore reserves based
+upon the results of the drilling program.  The consultants
+substantiated Sunshine's earlier estimates of 1,032,173 tons
+of proven and probable ore reserves, with essentially the
+same grades.  Tintic Utah Metal's consultants, as shown in
+the chart below, have currently estimated a total of
+1,075,000 tons of proven and probable ore reserves.  In
+addition, because of the extensive positive drilling results
+and the fact that over 1,800,000 tons of ore was produced
+from the Burgin Mine when Kennecott was operating under the
+Unit Lease, without Kennecott ever having drilled for
+reserves, there is a high degree of confidence by Tintic
+Utah Metals that inferred or possible resources currently
+estimated at 407,000 additional tons would probably be
+realized if the Burgin Mine became fully operational.
+
+  A key factor in registrant's classification of the Burgin
+ores as proven and probable reserves, is registrant's
+application for the appropriation of Burgin Mine water filed
+with the Utah State Engineer in February 2000.  If the
+application is approved and a water treatment facility is
+built, the dewatering of the Burgin Mine to its lowest
+planned operating level would be achieved, subject to the
+occurrence of the other events that must occur and the
+conditions to be fulfilled in order for the Burgin Mine to
+become fully operational.  See "Item 1. Description of
+Business-Letter Of Intent With U.S. Filter Corporation
+Subsidiary. - Projected Costs And Time Involving The Burgin
+Mine."
+
+  Proven and probable ore reserves, to date, of the Burgin
+orebody, as determined by Tintic Utah Metal's independent
+consultants, are estimated as follows:
+
+
+                              Contained  Contained  Contained  Contained
+                              Tons of    Ounces of  Pounds of  Pounds of
+                              Ore        Silver     Lead       Zinc
+
+Proven and Probable Reserves 1,075,000  17,726,750  452,360,000 143,405,000
+
+  Possible resources of the Burgin orebody, as estimated by
+  Tintic Utah Metals are:
+
+
+                       Contained      Contained       Contained     Contained
+                       Tons of        Ounces of       Pounds of     Pounds of
+                       Ore            Silver          Lead          Zinc
+Possible Resources (1) 407,000        6,146,576      130,177,148    42,521,269
+
+  (1) Possible resources tonnage exists where there is
+strong geologic evidence of the existence of additional ore
+reserves of a well known deposit, such as, in the case of
+the Burgin Mine, the past history of mining by Kennecott.
+See "Brief History Of Burgin Mine", above.
+
+  Tintic Utah Metals' Use Of Advances Received From
+Registrant.
+
+  Tintic Utah Metals used $2,400,000 in advances it
+received from registrant during the period October 1, 1998
+through December 31, 1999 for the following purposes:
+
+  Rehabilitation of the Apex No. 2 shaft, including: long
+hole drilling to define the "silver fissure" in the Burgin
+Mine; long hole drilling to intercept potential ores in the
+Eureka Standard fault between the historic Eureka Standard
+mine and the Apex No. 2 mine; and diamond drilling to
+intercept the down dip extension of ores mined up dip on the
+middle fault in the Apex No. 1 and 2 mines.
+
+  Rehabilitation of the Trixie Shaft, 750, 1050 and 1200
+level stations and the drifts going south on those levels,
+including long hole drilling to confirm mineralization
+encountered in a previous drilling program.
+
+  Rehabilitation of the Burgin Concentrator, converting it
+from a silver/lead/zinc concentrator to a precious metals
+(gold/silver) concentrator, including reconditioning of the
+primary and secondary crushing and grinding system; addition
+of a gravity recovery system; replacement of the floatation
+system; renovation of concentrator building and attached
+side buildings; and reconditioned thickener tanks and filter
+systems.
+
+  The rehabilitation work on the concentrator commenced in
+1999 and will be completed in 2000.  Tintic Utah Metals
+estimates that the expenditures for all of Tintic Utah
+Metals' currently planned projects during the calendar year
+2000 will be $2,800,000.  See" Item 1. Business of
+Registrant. Tintic Utah Metals LLC-Operating Agreement.-
+Advances Made By Registrant During Option Period."
+
+
+
+  Concentrating Mill.
+
+  The Concentrating Mill, located in the Burgin Mine area,
+was a part of the assets transferred by registrant to Tintic
+Utah Metals under the Operating Agreement.  In April 2000,
+Tintic Utah Metals will complete substantially all of the
+renovation work at the mill that is needed to retool the
+mill.  It will then be ready to process ores and dump
+material from the Trixie Mine that will be shipped to the
+Concentrating Mill for processing beginning in the second
+quarter of 2000.  The renovation work that took place over
+the past twelve months included rehabilitation of building
+structure, purchase and installation of large pieces of
+equipment, installation of new floatation system,
+recondition the primary and secondary crushing system,
+recondition the ball mill and installation of  precious
+metals circuit to process Trixie Mine ore.  The
+Concentrating Mill had been built by Kennecott to process up
+to 1,200 tons of lead and zinc ores per day, when it was
+lessee of the Burgin Mine property and was used by Kennecott
+to process ores it mined from the Burgin Mine under its
+lease. The Concentrating Mill is approximately 24,000 square
+feet in size.  Tintic Utah Metals' costs of renovating the
+Concentrating Mill, incurred from July 1999 to March 2000,
+and to be incurred in April 2000, will total approximately
+$1,200,000.  Registrant believes that the replacement cost
+of the Concentrating Mill would be in excess of $25,000,000.
+
+  When shipments of ore from the Trixie Mine begin, the ore
+will be treated in two main circuits in the Concentrating
+Mill.  A gravity circuit will take free gold out of the mill
+run material for further treatment in the Knelson
+Concentrator located within the mill, and after further
+processing, the gold concentrate will be put in a furnace
+and made into dores.  The dores will be sold to refineries.
+The portion of the ores rejected by the gravity concentrator
+will go to a ball mill for further grinding and then to a
+floatation system, where it is made into a floatation
+concentrate.  The floatation concentrate will be sold to
+smelters.  Material from the Trixie dump will also be
+shipped to the Concentrating Mill for processing.  This dump
+material is an accumulation of underground low grade
+material left from Kennecott's production from the property.
+It will be sold by Chief Gold Mines after processing at the
+Concentrating Mill.   See "Item 1. Description of Business-
+Concentrating Mill.-Trixie Mine." and "Item 6. Management's
+Discussion and Analysis or Plan of Operation.-(a) PLAN OF
+OPERATION-Trixie Mine."
+
+
+
+
+
+Trixie Mine.
+
+  Brief History Of Trixie Mine.
+
+   The Trixie Mine, is located on the 2,554 acres of
+property that was acquired by registrant's wholly owned
+subsidiary, Chief Gold Mines, in 1996 upon the merger of
+South Standard Mining.
+South Standard was one of the landowners who joined in a
+Unit Lease to lease various properties to Kennecott.  The
+Trixie Mine property was included in the land contributed by
+South Standard Mining to the Unit Lease.  Kennecott mined
+from the Trixie Mine for about ten years, producing gold and
+silver that were by-products from a flux material that
+Kennecott used in connection with refining its copper ores
+from Kennecott's Bingham Canyon mining operation in Utah.
+In 1983, Kennecott sold its interest in the Unit Lease to
+Sunshine, who operated the Trixie Mine for about nine years,
+producing similar ores for use as flux material.   The
+Trixie Mine was received back by South Standard Mines in
+1992 as a result of registrant's and South Standard's
+lawsuit against Sunshine.  See "Burgin Mine-Brief History Of
+Burgin Mine.", above.  South Standard continued shipping
+dump materials from the Trixie dump for several years after
+1992, but it did not mine the Trixie Mine.
+
+  Status of Trixie Mine
+
+  In January 2000, workers entered the Trixie Mine and
+began the last phases of renovation necessary for actual
+mining.  This renovation work has been substantially
+completed in anticipation of mining during the third quarter
+of 2000.  Indications are that the orebodies in the Trixie
+Mine that Kennecott and Sunshine had mined can be extended,
+and Chief Gold will initiate its production from those new
+areas. During the period 1969 to 1992, Kennecott had
+reported to South Standard that it had mined 713,478 tons of
+flux ore, producing 150,048 ounces of gold and 4,670,289
+ounces of silver.  See "Item 1. Description of Business-
+Trixie Mine." and "Item 6. Management's Discussion and
+Analysis or Plan of Operation.-(a) PLAN OF OPERATION-Trixie
+Mine."  See "Burgin Mine-Concentrating Mill", above, for
+description of how ores from the Trixie Mine will be treated
+at the Concentrating Mill.
+
+Item 3.  Legal Proceedings.
+
+
+None.
+
+
+Item 4.  Submission of Matters to a Vote of Security
+Holders.
+
+  A Special Meeting in Lieu of Annual Meeting of
+registrant's shareholders was held on December 29, 1999.
+The proposals voted upon at the meeting and the results of
+such voting were as follows:
+
+
+(1)    Election of directors to serve for the ensuing year
+and until their successors are duly elected and qualified.
+Management's slate of directors was elected at the meeting:
+
+Management's Slate
+of Directors Elected:       Votes Cast      Votes Withheld-
+Name of Director            For*            Individuals     Broker Non-Votes
+
+Christopher A. Arnold       4,010,733        5,005          3,318,091
+Thomas Bruderman            4,015,738          -            3,318,091
+William R. Dimeling         4,010,735        5,008          3,318,091
+Paul Hines                  4,015,738          -            3,318,091
+Robert E. Poll              4,015,738          -            3,318,091
+Richard R. Schreiber        4,010,735        5,008          3,318,091
+Leonard Weitz               3,936,350       79,383          3,318,091
+
+(*Cumulative voting for Directors)
+(2)  Proposal to amend and restate the Articles of
+Incorporation of registrant, if the shareholders approved at
+the meeting the proposal to sell shares of a new class of
+convertible common stock, as set forth at Proposal (3).
+Proposal (2) was approved by the common shareholders and the
+preferred shareholders voting as separate classes at the
+meeting.
+
+
+            Votes Cast     Votes    Abstentions    Broker
+            For           Against   Individuals   Non-Votes
+
+Common Stock 3,919,978    53,924        -          3,447,874
+Preferred Stock  6,080         8        -             -
+
+  Approval of Proposal (2) required that the votes cast in
+favor of Proposal (2) in each class exceed the votes cast in
+each class against Proposal (2).
+
+(3)  Proposal to approve the sale by registrant to Dimeling,
+Schreiber & Park of 3,500,000 shares of a new class of
+convertible common stock, together with the right to
+purchase an additional 5,000,000 shares, and approval of a
+stock purchase agreement, warrant agreement and registration
+rights agreement relating to the stock sale, if the
+shareholders approved at the meeting the proposal to amend
+and restate the Articles of Incorporation of registrant, as
+set forth at Proposal (2).  Proposal (3) was approved by the
+common shareholders and the preferred shareholders voting as
+separate classes at the meeting.
+
+           Votes Cast      Votes      Abstentions    Broker
+           For            Against     Individuals    Non-Votes
+
+Common Stock 3,923,145    54,164            -        3,447,874
+Preferred Stock  6,080         8            -            -
+
+  Approval of Proposal (3) required that the votes cast in
+favor of Proposal (3) in each class exceed the votes cast in
+each class against Proposal (3).
+
+(4)  Proposal to approve the selection of the firm of Arthur
+Andersen LLP as independent public accountants for
+registrant for the current fiscal year.  Proposal (4) was
+approved by shareholders at the meeting:
+
+       Votes Cast      Votes        Abstentions   Broker
+          For         Against       Individuals   Non-Votes
+
+       4,024,848       21,253            -        3,390,494
+
+  Approval of Proposal (4) required that the votes cast in
+favor of Proposal (4) exceed the votes cast against Proposal
+(4).
+
+
+
+                           PART II
+
+
+
+
+Item 5.   Market for Common Equity and Related Shareholder
+Matters.
+
+  The principal markets on which registrant's shares of
+common stock are traded are The NASDAQ Stock Market under
+the symbol CFCM and the Pacific Exchange, Inc. under the
+symbol CFC.
+
+
+  High and low sales prices of registrant's common stock on
+The NASDAQ Stock Market for each quarterly period during the
+past two years are as follows:
+
+
+1999 Market Price                         High      Low
+
+First Quarter.....................        3-1/8     1-15/16
+Second Quarter.....................       5-1/8     2
+Third Quarter......................       4-7/8     2-3/4
+Fourth Quarter.....................       4-1/8     1-3/4
+
+1998 Market Price                         High      Low
+
+First Quarter......................       5-5/8     3-5/8
+Second Quarter.....................       5-1/16    3-3/8
+Third Quarter.....................        3         1-7/16
+Fourth Quarter................... ..      3-3/4     1-9/16
+
+  Approximate number of holders of record of registrant's
+common stock as of March 15, 2000 - 2,000.
+
+  No cash dividends were declared during the years 1999 and
+1998.
+
+     Sales Of Securities During 1999.
+
+     Registrant sold shares of its capital stock to
+accredited investors during the year 1999 in private
+placements exempt from registration pursuant to Securities
+and Exchange Commission Regulation D under the Securities
+Act of 1933, as set forth below:
+
+
+Date                   Number Of     Price Per                    Proceeds
+of Sale Stock Sold     Shares Sold   Share    Name of Purchaser  From Sale
+3/16/99 Common            53,200     $1.75    Leon Atkind    $   93,000.00
+4/2/99  Common           100,000      1.75    Alfred Feldman    175,000.00
+5/12/99 Common           100,000      2.125   Leon Atkind       212,500.00
+4/2/99  Common           400,000      2.50    Robert R. Hermann1,000,000.00
+11/27/99 Preferred         6,000      2.00    Barbara H. Bruderman12,000.00
+         Subtotal                                            $1,492,500.00
+
+12/30/99 Convertible Common 3,500,000 2.00
+Dimeling, Schreiber & Park  $7,000,000.00
+
+     The per share selling prices set forth above were based
+upon the market price of the registrant's common stock on
+the date agreement was reached with each purchaser, reduced
+by a discount ranging up to approximately 25% given to
+reflect the fact that the shares were not freely
+transferrable and were subject to selling restrictions under
+Securities and Exchange Commission Rule 144 under the
+Securities Act of 1933.
+
+     See "Item 12.  Certain Relationships and Related
+Transactions." and pages 8 through 27 of registrant's "Proxy
+Statement ("Proxy Statement") dated November 30, 1999 for
+the Special Meeting In Lieu Of Annual Meeting Of
+Shareholders held December 29, 1999" for information
+concerning the sale of convertible common stock to Dimeling,
+Schreiber and Park, the voting and conversion rights of said
+shares, a warrant issued with the shares and registration
+rights granted by registrant to the holder of the shares.
+Said portion of the Proxy Statement  is hereby incorporated
+herein by reference.
+
+     The proceeds of $1,492,500 received by registrant from
+the sale of capital stock from March 16, 1999 to November
+27, 1999, as detailed above, were used by registrant during
+1999 primarily for the following purposes: to make advances
+to Tintic Utah Metals LLC, for rehabilitation of the Burgin
+Concentrator, for rehabilitation of the Apex No. 2 shaft and
+drilling programs; and for the rehabilitation of the Trixie
+Shaft.  See "Item 2.  Description of Property.-Burgin Mine.-
+Tintic Utah Metals' Use Of Advances Received From
+Registrant."  Also in 1999, a portion of the proceeds
+received from the sale of the convertible common stock to
+Dimeling, Schreiber and Park on December 30, 1999 were used
+to pay a portion of the expenses relating to the stock
+purchase transaction and for other corporate purposes.
+
+     During the first quarter of 2000, registrant used a
+portion of the proceeds received from the sale of the
+convertible common stock to Dimeling, Schreiber and Park to
+make advances to Tintic Utah Metals LLC, to pay the
+remaining expenses relating to the stock purchase
+transaction, including payment of the $150,000 cash portion
+of the finders fee to Clarence A. McGowan, and for other
+corporate purposes. See page 17 of  Proxy Statement-"Finders
+Fee."  See "Item 6. Management's Discussion and Analysis or
+Plan of Operation.-(a) PLAN OF OPERATION.-Cash Needs of
+Registrant." for description of anticipated use of remaining
+proceeds from the sale of convertible common stock to
+Dimeling, Schreiber and Park during the year 2000.
+
+Item 6.   Management's Discussion and Analysis or Plan of
+Operation.
+
+(a)   PLAN OF OPERATION.
+
+     Registrant had no revenues from mining operations
+during the year 1999 or during the period January 1, 2000 to
+March 15, 2000.  Registrant's consolidated revenues of
+$39,634 in 1999 consisted of $12,953 in revenues from real
+estate sales and miscellaneous sources and $26,681 in
+revenues from  interest.  Registrant's consolidated revenues
+of $73,711 in 1998 consisted of $37,660 in revenues from
+real estate sales and miscellaneous sources and $36,051 in
+revenues from interest.
+
+     Registrant's consolidated net loss for 1999 was
+$1,515,946 as compared to a consolidated net loss of
+$1,729,652 in 1998.  The decrease of $213,706 in the loss
+for 1999 as compared to the loss in 1998 resulted primarily
+from a decrease in exploration and operating costs at
+registrant's Trixie Mine.  Registrant's allocated full share
+of the loss for 1999 was in accordance with the Operating
+Agreement, due to certain advances made by registrant to
+Tintic Utah Metals during 1999.
+
+  Cash Needs of Registrant.
+
+  There are several factors to be determined during the
+remainder of year 2000 that will affect the future cash
+needs of registrant during and beyond the next twelve
+months. However, in terms of registrant's cash needs over
+the next twelve months, registrant presently anticipates
+that approximately $2,500,000 will be spent in connection
+with the ongoing projects at the Burgin Mine, Trixie Mine
+and other properties in which registrant has an interest.
+Registrant will also expend cash for its corporate overhead.
+Even if registrant does exercise its Option to purchase
+Korea Zinc's 25% membership interest in Tintic Utah for
+$2,000,000 by December 31, 2000, based upon the approximate
+$5,750,000 in cash and equivalents on hand at March 1, 2000,
+registrant expects to have sufficient cash to meet its cash
+needs over the next twelve months. See "Item 1. Description
+of Business.-Operating Agreement.-Registrant's Option To
+Purchase Korea Zinc's 25% Interest."
+
+  If the Utah State Engineer approves registrant's
+application for appropriation of Burgin Mine water,
+registrant will first negotiate a contract for the building
+of the water treatment plant, so that it is unlikely that
+registrant would start expending funds for a feasibility
+study on the Burgin Mine during the year 2000.  See "Item 1.
+Description of Business.-Tintic Utah Metals LLC.-Operating
+Agreement.-Registrant's Option To Purchase Korea Zinc's 25%
+Interest." and "Burgin Mine.", below.  See "Item 1.
+Description of Business.- Projected Costs And Time Involving
+The Burgin Mine." for information on future cash needs if
+the Utah State Engineer approves registrant's water
+appropriation application.
+
+  Trixie Mine:
+
+  Processing of Trixie surface dump material at the
+Concentrating Mill will begin during the second quarter of
+2000 and underground production of ores from the Trixie Mine
+will begin during the third quarter of 2000.  No estimate
+can be given at this time as to the amount of ores to be
+mined from the Trixie Mine during the year 2000 or the
+revenues that would be received by Chief Gold Mines from the
+sale of the ores after the ores are processed at the
+Concentrating Mill.  See "Item 1. Business of Registrant-
+Trixie Mine.-Concentrating Mill." and  "Item 2.  Description
+of Property-Trixie Mine."
+
+  Burgin Mine.
+
+  Registrant's application for the appropriation of Burgin
+Mine water is currently pending in the Office of the Utah
+State Engineer.  If the application is approved, it will,
+among other things, provide Tintic Utah Metals with an
+environmentally sound dewatering method, if: the water
+treatment facility is built by U.S. Filter, or another water
+treatment company if the Letter of Intent is terminated;
+Tintic Utah Metals' completes a positive feasibility study
+and obtains long term financing from a banking or other
+lending institution to fund the mining project; and
+underground rehabilitation and construction work required
+for start-up of the Burgin Mine is completed.  Registrant
+believes that the Utah State Engineer, after required public
+notice and hearing on the application, will render his
+decision on the application by the end of the Summer of
+2000.  Registrant does not believe that construction of the
+water treatment facility or registrant's work in connection
+with the feasibility study would begin during the year 2000,
+even if the Utah State Engineer approves the water
+application by the end of the Summer, since additional time
+will be required to negotiate the terms of a contract for
+the building of the facility and to plan for a final
+feasibility study.  See "Cash Needs of Registrant.", above,
+and "Item 1.  Description of Business.-Burgin Mine.-Letter
+Of Intent With U.S. Filter Corporation Subsidiary.-
+Registrant's Application For Appropriation Of Burgin Mine
+Water.-Projected Costs And Time Involving The Burgin Mine."
+
+  No assurance can be given that the water appropriation
+application will be approved. If registrant's application
+for appropriation of Burgin Mine water is approved  by the
+Utah State Engineer, no assurance can be given that a
+written agreement with U.S. Filter will be reached.  If no
+written agreement is reached with U.S. Filter and the Letter
+of Intent is terminated, Tintic Utah Metals will discuss the
+construction of a water treatment plant with other companies
+in the water treatment business.  If registrant's
+application for appropriation of Burgin Mine water is not
+approved by the Utah State Engineer, it is anticipated that
+the Letter of Intent would be terminated.  Registrant has
+already initiated the first step toward achieving an
+alternative means for dewatering the Burgin Mine if such
+latter event were to occur, by the filing of an application
+with the Utah Division of Water Quality relating to the
+underground disposal of water, which application will be
+pursued by registrant if it becomes necessary to do so.
+
+  Proposed Sale Of Real Estate For Development.
+
+  As indicated at "Item 2. Description of Property.-
+Property Owned By Registrant In The Main Tintic District.",
+registrant believes that approximately 6,000 acres of its
+Utah properties have the potential for residential and/or
+commercial development.  Registrant believes that the 320
+acres that were incorporated into the City limits of Eureka
+and are now subject to services provided by the City, will
+afford a means to registrant not only to receive revenues
+from the sales of that acreage, but to establish a market
+price for homes in the area on plots ranging in size from
+one-quarter acre to one acre.  No offers have been received
+from residential or commercial developers to date that
+contained terms acceptable to registrant.  Registrant is
+continuing to seek to interest real estate developers in
+developing buildable areas of its Juab County and Utah
+County properties and to seek buyers of individual lots on
+the property that is now within the city limits of Eureka.
+
+
+Item 7.  Financial Statements.
+
+The Financial Statements of registrant are filed pursuant to
+this item of the report.  See index to Financial Statements.
+
+
+Item 8.  Changes in and Disagreements with Accountants on
+Accounting and Financial Disclosure.
+
+  None
+                              PART III
+
+Item 9.   Directors, Executive Officers, Promoters and
+Control Persons; Compliance with Section 16(a) of the
+Exchange  Act.
+
+  The name and age of each of the registrant's directors
+and executive officers and the positions and offices with
+the registrant held by him are:
+
+Name of
+Registrant's
+Directors(1) and                 Offices with  Term During Which
+Executive Officers         Age   Registrant    Served in Office
+
+Christopher A. Arnold      29    Director      Director since
+                                               December 29, 1999.
+
+Thomas Bruderman           57    Director      Director since
+                                               December 29, 1999.
+
+William R. Dimeling        58    Director      Director since
+                                               December 29, 1999.
+
+Paul Hines                 62    Director      Director since 1994.
+
+
+Robert E. Poll             51    Director      Director since
+                                               December 29, 1999.
+
+Richard R. Schreiber       44    Director      Director since
+                                               December 29, 1999.
+
+Edward R. Schwartz         89   Secretary-Treasurer  Director from 1974 to 1999;
+                                                     Secretary-Treasurer since
+                                                     1979.
+
+Leonard Weitz             70    Director; President,  Chairman and Chief
+                                Chairman of the Board Executive Officer
+                                and Chief Executive   since 1971;
+                                Officer.              President 1971 to
+                                                      1993 and 1996 to
+                                                      present.
+
+  (1) Each of the seven directors was elected to serve as a
+director for the ensuing year and until his successor is
+duly elected and qualified at the meeting of shareholders
+held on December 29, 1999.
+
+The following is a brief account of the business experience
+during the past five years of each director and executive
+officer named above.
+
+Christopher A. Arnold   A principal of Dimeling,Schreiber & Park, a private
+                        investment partnership that makes private equity
+                        investments in a broad range of middle market
+                        companies, from September 1999 to present.  Various
+                        positions with General Electric Capital Corporation,
+                        a diversified financial services company from prior to
+                        1995 to September 1999.
+
+Thomas Bruderman        Corporate communications consulting, investment
+                        banking transactions and investment management
+                        conducted through Canterbury Companies Inc., as
+                        President, since prior to 1995.
+                        Corporate communications consultant for the Company
+                        from 1996 to November, 1999.
+
+
+William R. Dimeling     A principal of Dimeling, Schreiber & Park, a private
+                        investment partnership that makes private equity
+                        investments in a broad range of middle market
+                        companies, since prior to 1995.
+
+Paul Hines              Financial and management consultant,since priorto 1995.
+
+Robert E. Poll          Financial and management consulting through
+                        Poll Financial, LLC, as Managing Director,  since
+                        January 1998; Managing Director of Lazard Freres &
+                        Co. from July 1995 to December 1997 and General
+                        Partner of Lazard Freres & Co. from prior to
+                        January 1995 to June 1995- Manager of Public
+                        Finance and Municipal Bond Departments and
+                        other investment banking activities; Trustee of
+                        Citizens Budget Commission of New York since 1997.
+
+Richard R. Schreiber    A principal of Dimeling, Schreiber & Park, a private
+                        investment partnership that makes private equity
+                        investments in a broad range of middle market
+                        companies, since prior to 1995.
+
+Edward R. Schwartz      Secretary and Treasurer of registrant since 1979;
+                        independent consultant since prior to 1995.
+
+Leonard Weitz           Chairman and Chief Executive Officer of
+                        registrant since 1971; President from 1971 to
+                        1993 and 1996 to present.
+
+
+  Registrant is not aware of any person who, at any time
+during the year 1999 was a director, officer or beneficial
+owner of more than 10 percent of registrant's common stock
+who failed to file on a timely basis, reports required by
+Section 16(a) during 1999 or prior years.
+
+
+Item 10.  Executive Compensation.
+
+  The following information is presented concerning the
+compensation of Leonard Weitz, President, Chairman and Chief
+Executive Officer of registrant, for each of registrant's
+last three completed fiscal years.
+
+                 SUMMARY COMPENSATION TABLE
+
+Name and                 Annual          Long-Term
+Principal                Compensation    Compensation          All Other
+Position            Year Salary          Awards-Options      Compensation
+
+Leonard Weitz*      1999 $175,000(1)          -                   -
+                    1998 $175,000(1)          -                   -
+                    1997 $175,000(1)          -                   -
+
+(1)  During the years 1997, 1998 and 1999, Leonard Weitz
+received annual base salary of $175,000 under the terms of
+an employment agreement dated as of  September 1, 1996.
+Under the terms of that employment agreement, Leonard Weitz
+was employed as Chairman, President and Chief Executive
+Officer of registrant for a five year period ending August
+31, 2001 and would, in addition to the base salary, receive
+such bonuses as the Board of Directors of registrant
+determined.  No bonuses were awarded to Leonard Weitz during
+1997, 1998 or 1999.  On February 16, 2000, the Board of
+Directors approved a new employment agreement that
+superceded and canceled the September 1, 1996 employment
+agreement.  The new employment agreement between registrant
+and Leonard Weitz became effective as of January 1, 2000 and
+is for a five year term ending December 31, 2004.  Under the
+terms of the new employment agreement, Leonard  Weitz will
+continue to be employed as Chairman, President and Chief
+Executive Officer of registrant and he will receive an
+annual base salary of $225,000 and such bonuses as the Board
+of Directors of registrant may determine.
+
+
+     OPTION GRANTS DURING FISCAL YEAR ENDED DECEMBER 31,
+1999
+
+  No stock options were granted by registrant to Leonard
+Weitz during the fiscal year ended December 31, 1999.
+
+             OPTION EXERCISES DURING FISCAL YEAR
+          ENDED DECEMBER 31, 1999 AND OPTION VALUES
+                     ON DECEMBER 31, 1999
+
+  The following table contains, with respect to stock
+options held by Leonard Weitz, information as to options
+exercised during the year 1999, the aggregate dollar value
+realized upon exercise, the total number of unexercised
+options held on December 31, 1999 and the aggregate dollar
+value of the in-the-money, unexercised options held on
+December 31, 1999.
+
+            Shares                                         Value of Unexercised
+            Acquired or  Value     Number of Unexercised   in-the-money options
+Name        Exercised    Realized  Options at 12/31/99(1)  at 12/31/99 (4)
+
+Nonqualified:
+
+Leonard Weitz None       None      120,000 (2)(3)           None
+
+(1)  All options held are fully exercisable.
+(2) The exercise prices per share and expiration dates of
+the options are as follows: 30,000 exercisable at $3.50,
+expiring December 9, 2003; 30,000 exercisable at $3.50,
+expiring September 18, 2004; and 60,000 exercisable at $7,
+expiring August 7, 2006.
+(3)  Nonqualified stock options approved by shareholders.
+(4)  Values are calculated by subtracting the exercise price
+from the $2.688 per share closing price of the Company's
+common stock on The Nasdaq Stock Market on December 31,
+1999.
+
+Compensation of Directors
+
+  Leonard Weitz, Chairman of the Board and Chief Executive
+Officer of the Company, is employed through December 31,
+2004 under an employment agreement dated as of January 1,
+2000.  See footnote (1) to "Summary Compensation Table",
+above, for further details concerning Leonard Weitz's
+current employment agreement.
+
+  During 1999, each director who was not an officer of the
+Company received an annual fee of $5,000; no attendance fees
+were paid.  Edward R. Schwartz, the Secretary-Treasurer of
+the Company, who was a director until December 29, 1999, did
+not receive a salary in 1999; he received a $10,000 annual
+fee in lieu of salary.  Beginning January 2000, each
+director who is not an officer of registrant will receive an
+annual fee of $8,000.
+
+  No stock options were granted by the Company to any
+directors during the fiscal year ended December 31, 1999 and
+no director exercised in 1999 any stock options held by him.
+See footnotes to "Item 11. Security Ownership of Certain
+Beneficial Owners and Management." for information as to
+stock options held by directors.  Registrant has never
+issued any stock appreciation rights to its officers and
+directors.
+
+
+Item 11.  Security Ownership of Certain Beneficial Owners
+and Management.
+
+  (a) The following table shows as of March 15, 2000, stock
+  ownership of all persons known to management, to be
+  beneficial owners of more than 5% of the common stock of
+  the registrant.
+
+Name and Address of           Amount and Nature of        Percentage
+Beneficial Owners             Beneficial Ownership          of Class
+
+William E. Simon              564,600 shares (1)           7.04% (2)
+310 South Street
+Morristown, NJ 07962
+
+Robert R. Hermann             492,500 shares               6.14% (2)
+7701 Forsyth St.
+Clayton, MO 63105
+
+Dimeling, Schreiber & Park,as  3,500,000 shares (3)       30.37%
+General Partner of Dimeling,
+Schreiber & Park Reorganization
+Fund II, LP
+1629 Locust Street
+Philadelphia, PA 19103
+
+
+  (1)  314,600 shares owned directly by William E. Simon;
+250,000 shares owned by a corporation in which Mr. Simon has
+shared power to direct the vote and disposition of the
+Company's shares held by the corporation by virtue of his
+ownership of voting stock in said corporation.
+
+     (2)  Percentage based upon current number of
+registrant's outstanding shares of common stock, without
+regard to the conversion rights of the holder of
+registrant's convertible common stock described at footnote
+(3), below.  If such convertible common shares were
+converted into shares of common stock by the holder, the
+percentage would be reduced below 5%.
+
+  (3)  Dimeling, Schreiber & Park, in its capacity as
+General Partner of Dimeling, Schreiber & Park Reorganization
+Fund II, LP, a Delaware limited partnership, owns 3,500,000
+shares of registrant's $0.50 par value convertible common
+stock.  These shares are convertible into a like number of
+registrant's common stock at no additional cost.   The
+percentage shown is based upon the current number of
+registrant's outstanding shares of common stock together
+with the 3,500,000 shares of outstanding convertible common
+stock.  Dimeling, Schreiber & Park, in its capacity as
+General Partner, also has the right to purchase an
+additional 5,000,000 shares of convertible common stock from
+registrant, which right to purchase expires December 31,
+2002.  If the additional 5,000,000 shares are purchased, the
+percentage would be increased to 51.44%.  In addition,
+Dimeling, Schreiber & Park, in its capacity as General
+Partner, holds warrants to purchase additional shares of
+convertible common stock that expire December 31, 2004,
+however, it may not make purchases which would, assuming
+conversion of all convertible common stock, result in
+Dimeling, Schreiber & Park, in its capacity as General
+Partner, owning more than 68% of registrant's outstanding
+common stock.  The holder of the convertible common stock
+has voting rights identical to the voting rights of the
+holders of registrant's common stock.  See "Item 13. Certain
+Relationships and Related Transactions." for information
+concerning the acquisition of the convertible common stock
+and warrants by Dimeling, Schreiber & Park, in its capacity
+as General Partner of Dimeling, Schreiber & Park
+Reorganization Fund II, LP and directorships in registrant
+held by three principals of Dimeling, Schreiber & Park.
+
+  (b)  The equity securities of registrant beneficially
+owned by all directors  and officers, and by directors
+officers of registrant as a group, as of March 15, 2000,
+are:
+
+Title
+of          Name and Address    Amount and Nature of        Percentage
+Class       of Beneficial Owner of Beneficial Ownership*    of Class
+
+Common Stock
+$0.05 par value:
+
+          Christopher A. Arnold**          200                 0%
+          1629 Locust Street
+          Philadelphia, PA 19103
+
+          Thomas Bruderman              46,100 (1)           0.57%
+          1573 Bronson Road
+          Fairfield, CT 06430
+
+          William R. Dimeling**            200                  0%
+          1629 Locust Street
+          Philadelphia, PA 19103
+
+          Paul Hines                  130,000(2)             1.60%
+          17 Trachelle Lane
+          Charleston, SC  29407
+
+          Robert E. Poll              150,000                1.87%
+          225 West 86th Street
+          New York, NY 10024
+
+          Edward R. Schwartz          165,100(3)             2.03%
+          500 Fifth Avenue
+          New York, NY 10110
+
+
+          Richard R. Schreiber**          200                  0%
+          1629 Locust Street
+          Philadelphia, PA 19103
+
+          Leonard Weitz           189,010(4)(5)              2.32%
+          500 Fifth Avenue
+          New York, NY 10110
+
+          Owned by all directors   680,810(6)                8.12%
+          and officers as a group
+
+
+
+Preferred
+Stock, $0.50
+Par value:  None
+
+* Each director and officer has sole voting and investment
+power with respect to shares owned.
+
+** Principal of Dimeling Schreiber & Park.  See footnote (3)
+to part (a) of this "Item 11.  Security Ownership of Certain
+Beneficial Owners and Management." and "Item 12. Certain
+Relationships and Related Transactions." for information
+concerning the acquisition of the convertible common stock
+and warrants by Dimeling, Schreiber & Park, in its capacity
+as General Partner of Dimeling, Schreiber & Park
+Reorganization Fund II, LP.
+
+(1) Does not include 8,000 shares of common stock and 6,000
+shares of preferred stock owned by  Thomas Bruderman's wife,
+in which shares Thomas Bruderman disclaims any beneficial
+interest.
+
+(2) Includes nonqualified stock options previously approved
+by the shareholders to purchase 120,000 shares held by Paul
+Hines.  Also includes 10,000 shares held in IRA account.
+
+(3) Includes nonqualified stock options previously approved
+by the shareholders to purchase 120,000 shares held by
+Edward R. Schwartz.  Does not include 200 shares owned by
+Edward R. Schwartz's wife, in which shares Edward R.
+Schwartz disclaims any beneficial interest.
+
+(4) Includes nonqualified stock options previously approved
+by the shareholders to purchase 120,000 shares held by
+Leonard Weitz.  Also includes 8,000 shares held in IRA
+account and 40,000 shares owned jointly with Leonard Weitz's
+wife.
+
+(5)  Does not include 20,000 shares owned by Leonard Weitz's
+wife, in which shares Leonard  Weitz disclaims any
+beneficial interest.
+
+(6) Includes options to purchase an aggregate of 360,000
+shares as referred to at
+footnotes (2), (3) and (4), above.  All options may be
+exercised by the directors or officers  holding same within
+60 days.
+
+Item 12.  Certain Relationships and Related Transactions.
+
+  At the Special Meeting In Lieu Of Annual Meeting Of
+Shareholders of registrant held  December 29, 1999 ("the
+shareholders meeting") , the shareholders approved, among
+other things, a stock purchase agreement and a warrant.
+Dimeling, Schreiber & Park, in its capacity as General
+Partner of Dimeling, Schreiber & Park Reorganization Fund
+II, LP, pursuant to the terms of the Stock Purchase
+Agreement, purchased 3,500,000 shares of registrant's
+convertible common stock on December 30, 1999 and has the
+right to purchase an additional 5,000,000 shares on or
+before December 31, 2002.   The warrant approved by the
+shareholders gives  Dimeling, Schreiber & Park, in its
+capacity as General Partner, to purchase additional shares
+of the convertible common stock , provided that its stock
+ownership does not exceed 68% of registrant's outstanding
+shares of common stock (assuming conversion of the
+convertible common stock into shares of common stock).
+
+  The terms and conditions of the transaction with
+Dimeling, Schreiber & Park, including a description of the
+principal terms of the stock purchase agreement, the stock
+warrant agreement, a registration rights agreement and other
+aspects of the transaction are set forth at Proposals (2)
+and (3) described at pages 8 through 27 of registrant's
+Proxy Statement ("Proxy Statement") dated November 30, 1999
+for the Special Meeting In Lieu Of Annual Meeting Of
+Shareholders held December 29, 1999.  Registrant hereby
+incorporates by reference the aforesaid portion of the Proxy
+Statement relating to the transaction with Dimeling,
+Schreiber & Park.  See "Item 4.  Submission of Matters to a
+Vote of Security Holders" for information concerning the
+vote of the shareholders upon Proposals (2) and (3) at the
+shareholders meeting.
+
+  William R. Dimeling, Richard R. Schreiber and Christopher
+A. Arnold, directors of registrant, are general partners of
+Dimeling, Schreiber & Park.  Since Dimeling, Schreiber &
+Park is acting in the stock purchase transaction in its
+capacity as the General Partner of Dimeling, Schreiber &
+Park Reorganization Fund II, LP, each of the aforesaid three
+directors has a material interest in the transaction
+involving the sale of the convertible common stock by
+registrant, as described in the Proxy Statement.  As of
+March 15, 2000, Dimeling, Schreiber & Park Reorganization
+Fund II, LP was the beneficial owner of 30.37% of
+registrant's common stock (assuming conversion of the
+convertible common stock into shares of common stock).  See
+"Item 11. Security Ownership of Certain Beneficial Owners
+and Management."
+
+
+Item 13.  Exhibits and Reports on Form 8-K.
+
+  (a)   Description of Exhibits required to be filed by
+Item 601 of Regulation S-B.
+
+     (The numbers shown below next to each exhibit are keyed
+     to Exhibit Table of Item 601 of Regulation S-B.)
+
+     "2."  Not applicable.
+
+     "3." Articles of Incorporation and By-laws:
+
+       Registrant hereby incorporates by reference (i)
+       registrant's Restated Articles of Incorporation that
+       were annexed as Exhibit A to registrant's Proxy
+       Statement For The Special Meeting In Lieu Of Annual
+       Meeting Of Shareholders held December 29, 1999
+       (Restated Articles approved at meeting); and (ii)
+       registrant's By-laws previously filed with the
+       Securities and Exchange Commission.
+
+     "4." Not Applicable.
+
+     "9." Not Applicable.
+
+     "10." Material Contracts.
+
+       A.  Operating Agreement ("Operating Agreement") of
+       Tintic Utah Metals LLC dated as of July 17, 1996 by
+       and among registrant, Akiko Resources (Utah) Inc.
+       and KZ Utah, Inc., a copy of which was filed with
+       the Securities and Exchange Commission by registrant
+       as part of its 1996 Form 10-KSB report.
+
+       B.  First Amendment to Operating Agreement dated as
+       of March 11, 1997 by and among registrant, Akiko
+       Resources (Utah) Inc. and KZ Utah, Inc., a copy of
+       which was filed with the Securities and Exchange
+       Commission by registrant as part of its 1997 Form 10-
+       KSB report.
+
+       C.   Second Amendment to Operating Agreement dated
+       as of November 10, 1997 by and between registrant
+       and KZ Utah, Inc., a copy of which was filed with
+       the Securities and Exchange Commission by registrant
+       as part of its 1997 Form 10-KSB report.
+
+       D.   Third Amendment to Operating Agreement dated as
+       of October 1, 1998 by and between registrant and KZ
+       Utah, Inc., a copy of which was filed with the
+       Securities and Exchange Commission by registrant as
+       part of its 1998 Form 10-KSB report.
+
+       E.   Fourth Amendment to Operating Agreement dated
+       as of September 9, 1999 by and between registrant
+       and KZ Utah, Inc., a copy of which is filed with
+       this report and marked as Exhibit "A".
+
+       F.  Articles of Organization of Tintic Utah Metals
+       LLC, a copy of which was filed with the Securities
+       and Exchange Commission by registrant as part of its
+       1996 Form
+       10-KSB report.
+
+       G.  Stock Purchase Agreement ("Stock Purchase
+       Agreement") dated as of November 19, 1999 between
+       registrant and Dimeling, Schreiber & Park, a copy of
+       which was filed with the Securities and Exchange
+       Commission by registrant as part of its Form 8-K
+       report filed on December 1, 1999.
+
+       H.  Registration Rights Agreement dated as of
+       November 19, 1999 between registrant and Dimeling,
+       Schreiber & Park, constituting Exhibit A to the
+       Stock Purchase Agreement, a copy of which was filed
+       with the Securities and Exchange Commission by
+       registrant as part of its Form 8-K report filed on
+       December 1, 1999.
+
+       I.  Form of Warrant issued to Dimeling, Schreiber &
+       Park by registrant dated as of November 19, 1999,
+       constituting Exhibit B to the Stock Purchase
+       Agreement, a copy of which was filed with the
+       Securities and Exchange Commission by registrant as
+       part of its Form 8-K report filed on December 1,
+       1999.
+
+     "(11)" Not applicable.
+
+     "(13)" 1999 Annual Report To Shareholders not yet
+     furnished to shareholders as of the             filing
+     date of this report.
+
+     "(16)" Not applicable.
+
+     "(18)" Not applicable.
+
+     "(21)" A list of subsidiaries of registrant is filed
+     with this report and marked as Exhibit
+     "(B)".
+
+     "(22)" Not applicable.
+
+     "(23)" Not applicable.
+
+     "(24)" Not applicable.
+
+     "(27)" Not applicable.
+
+     "(99)" Not applicable.
+
+  (b)   Reports filed on Form 8-K.
+
+  Form 8-K report dated November 30, 1999 was filed by
+registrant with the Securities and Exchange Commission of
+December 31, 1999, reporting that registrant had entered
+into a Stock Purchase Agreement, Warrant Agreement and
+Registration Rights Agreement with Dimeling Schreiber & Park
+and that said agreements would be submitted to the
+shareholders of registrant for their approval at a meeting
+of shareholders to be held December 29, 1999.  See "Item 4.
+Submission of Matters to a Vote of Security Holders." and
+"Item 12.  Certain Relationships and Related Transactions."
+
+
+
+
+
+Safe Harbor Statement under the Private Securities
+Litigation Reform Act of 1995:
+
+This Form 10-KSB report contains statements which are not
+historical facts, such as anticipated production,
+exploration results and costs and therefore are "forward-
+looking statements" within the meaning of the Private
+Securities Litigation Reform Act of 1995, and involve a
+number of risks and uncertainties that could cause actual
+results to differ materially from those projected,
+anticipated, expected or implied.  These risks and
+uncertainties include, but are not limited to, the
+following: registrant's cash is not sufficient to complete
+the intended work and projects; even if the amount of cash
+available is sufficient to complete the work and projects,
+registrant is unable to initiate profitable mining
+activities at the Trixie Mine and/or mining from the
+Homansville area is not commercially feasible; registrant's
+application for appropriation of water from the Burgin Mine
+is rejected by the Utah State Engineer, necessitating
+registrant to seek alternative methods for dewatering the of
+the Burgin Mine; even if the water appropriation application
+is approved, if a water treatment facility is not built or
+if built, mining from the Burgin Mine is not commercially
+feasible; registrant is unable to obtain long term financing
+to fund the Burgin mining project if registrant's
+application for appropriation of water from the Burgin Mine
+is approved; Fund II does not exercise its right to purchase
+the additional 5,000,000 shares of convertible common stock
+by December 31, 2002 and, as a result, registrant is unable
+to continue any mining operations at the Trixie Mine or
+continue to seek development of the Burgin Mine and the
+Homansville area; registrant is unable to sell any of its
+real estate for residential or commercial use.  Refer to
+registrant's Forms 10-QSB and its Proxy Statement dated
+November 30, 1999 for the Special Meeting In Lieu of Annual
+Meeting of Shareholders of registrant filed with the
+Securities and Exchange Commission.
+
+
+                         SIGNATURES
+
+In accordance with Section 13 or 15(d) of the Exchange Act,
+the registrant caused this report to be signed on its behalf
+by the undersigned, thereunto duly authorized.
+
+
+        Chief Consolidated Mining Company
+                  (Registrant)
+
+
+
+By /s/ Leonard Weitz
+(Signature and Title)
+                      Leonard Weitz
+Chairman of the Board of Directors, President and Chief
+Executive Officer
+
+Date                  March 29, 2000
+
+  In accordance with the Exchange Act, this report has been
+signed below by the following persons on behalf of the
+Registrant and in the capacities and on the dates indicated.
+
+
+
+
+By /s/ Edward R. Schwartz
+                    (Signature and Title)
+                     Edward R. Schwartz
+   Secretary and Treasurer, Principal Financial Officer and
+                Principal Accounting Officer
+
+Date                  March 29, 2000
+
+
+
+
+By /s/ Christopher A. Arnold
+                    (Signature and Title)
+                    Christopher A, Arnold
+                          Director
+
+Date                  March 29, 2000
+
+
+By /s/ Thomas Bruderman
+                    (Signature and Title)
+                         Thomas Bruderman
+                                 Director
+
+Date                  March 29, 2000
+
+
+
+By /s/ William R. Dimeling
+                    (Signature and Title)
+                     William R. Dimeling
+                          Director
+
+Date                  March 29, 2000
+
+
+
+By /s/ Paul Hines
+                    (Signature and Title)
+                         Paul Hines
+                          Director
+
+Date                  March 29, 2000
+
+
+By /s/ Robert E. Poll
+                           (Signature and Title)
+                       Robert E. Poll
+                          Director
+
+Date                  March 29, 2000
+
+
+
+By /s/ Richard R. Schreiber
+                    (Signature and Title)
+                    Richard R. Schreiber
+                          Director
+
+Date                   March 29,2000
+
+
+
+
+
+CHIEF CONSOLIDATED MINING COMPANY
+AND SUBSIDIARIES
+
+CONSOLIDATED FINANCIAL STATEMENTS AS OF
+DECEMBER 31, 1999 AND FOR THE YEARS
+ENDED DECEMBER 31, 1999 AND 1998
+
+TOGETHER WITH REPORT OF
+INDEPENDENT PUBLIC ACCOUNTANTS
+
+
+
+
+
+
+
+
+                Index to Financial Statements
+
+              Chief Consolidated Mining Company
+
+                                               Page
+    Report of Independent Public                F-2
+    Accountants
+    Financial Statements:
+        Consolidated Balance Sheet              F-3
+        Consolidated Statements of              F-5
+    Operations
+        Consolidated Statements of              F-6
+    Shareholders' Equity
+        Consolidated Statements of Cash         F-7
+    Flows
+        Notes to Consolidated Financial         F-8
+    Statements
+
+
+    Schedules are omitted either because they are not
+    required or because the required information is
+    contained in the financial statements or notes
+    thereto.
+
+
+
+
+
+
+
+          REPORT OF INDEPENDENT PUBLIC ACCOUNTANTS
+
+
+
+To Chief Consolidated Mining Company:
+
+We have audited the accompanying consolidated balance sheet
+of Chief Consolidated Mining Company (an Arizona
+corporation) and subsidiaries as of December 31, 1999, and
+the related consolidated statements of operations,
+shareholders' equity and cash flows for the years ended
+December 31, 1999 and 1998.  These financial statements are
+the responsibility of the Company's management.  Our
+responsibility is to express an opinion on these financial
+statements based on our audits.
+
+We conducted our audits in accordance with auditing
+standards generally accepted in the United States.  Those
+standards require that we plan and perform the audit to
+obtain reasonable assurance about whether the financial
+statements are free of material misstatement.  An audit
+includes examining, on a test basis, evidence supporting the
+amounts and disclosures in the financial statements.  An
+audit also includes assessing the accounting principles used
+and significant estimates made by management, as well as
+evaluating the overall financial statement presentation.  We
+believe that our audits provide a reasonable basis for our
+opinion.
+
+As discussed in Note 1 to the accompanying financial
+statements, approximately $8,456,009 of the assets of the
+Company consist of investments in mining claims and
+properties for which significant additional development
+costs must be incurred to bring these mining properties
+controlled by the Company into operation.  The realization
+of these investments is dependent upon the ability of the
+Company and/or its joint venture partner to obtain the
+required capital to complete the development of these mining
+properties.
+
+In our opinion, the financial statements referred to above
+present fairly, in all material respects, the financial
+position of Chief Consolidated Mining Company and
+subsidiaries as of December 31, 1999 and the results of
+their operations and their cash flows for the years ended
+December 31, 1999 and 1998 in conformity with accounting
+principles generally accepted in the United States.
+
+
+
+
+
+ARTHUR ANDERSEN LLP
+
+March 7, 2000
+Salt Lake City, Utah
+
+
+     CHIEF CONSOLIDATED MINING COMPANY AND SUBSIDIARIES
+
+                 CONSOLIDATED BALANCE SHEET
+                 AS OF DECEMBER 31, 1999
+
+
+
+                           ASSETS
+
+
+CURRENT ASSETS:
+ Cash and cash equivalents                      $6,901,234
+ Other current assets                               20,833
+Total current assets                             6,922,067
+
+INVESTMENT IN CENTRAL STANDARD
+CONSOLIDATED MINES                                  78,954
+
+ADVANCES TO CENTRAL STANDARD
+CONSOLIDATED MINES                                  30,650
+
+MINING CLAIMS AND PROPERTIES, less accumulated
+depletion of $1,215,692                          8,456,009
+
+MACHINERY AND EQUIPMENT, less accumulated
+depreciation of $144,599                           909,018
+
+OTHER ASSETS                                       143,240
+
+Total assets                                   $16,539,938
+
+The accompanying notes to consolidated financial statements are
+an integral part this consolidated balance sheet.
+
+
+     CHIEF CONSOLIDATED MINING COMPANY AND SUBSIDIARIES
+
+           CONSOLIDATED BALANCE SHEET (Continued)
+           AS OF DECEMBER 31, 1999
+
+
+
+LIABILITIES AND SHAREHOLDERS' EQUITY
+
+
+CURRENT LIABILITIES:
+Accounts payable                             375,906
+ Accrued liabilities                         176,244
+Total current liabilities                    552,150
+
+ACCRUED RECLAMATION COSTS                    389,800
+
+MINORITY INTEREST                          2,502,361
+
+REDEEMABLE CONVERTIBLE COMMON STOCK,
+3,500,000 shares issued and outstanding    3,104,059
+
+COMMITMENTS AND CONTINGENCIES
+(Notes 1 and 7)
+
+SHAREHOLDERS' EQUITY:
+Preferred stock, $0.50 par value;
+1,500,000 shares authorized, 11,168
+shares outstanding with a liquidation
+value of $5,584                                5,584
+
+Common stock, $0.50 par value; 20,000,000
+shares authorized, 8,024,601 shares
+outstanding, 16,441 shares held in treasury  4,012,301
+with a zero cost
+
+Additional paid-in capital                  15,007,199
+
+Stock purchase rights                       3,321,747
+ Deferred compensation                       (12,900)
+ Notes receivable from shareholders          (79,470)
+ Accumulated deficit                      (12,262,893)
+Total shareholders' equity                  9,991,568
+Total liabilities and shareholders' equity $16,539,938
+
+
+The accompanying notes to consolidated financial statements are an integral
+part of this consolidated balance sheet.
+
+CHIEF CONSOLIDATED MINING COMPANY AND SUBSIDIARIES
+
+            CONSOLIDATED STATEMENTS OF OPERATIONS
+       FOR THE YEARS ENDED DECEMBER 31, 1999 AND 1998
+
+
+
+                                      1999        1998
+REVENUES:
+ Interest                          $ 26,681    $  36,051
+ Land sales and other                12,953      37,660
+        Total revenues               39,634      73,711
+EXPENSES:
+ General and administrative         934,225     807,131
+ Exploration                        447,681     729,952
+ Operating costs                    158,510     242,246
+ Reclamation                            -        89,800
+ Taxes other than income taxes       15,164      16,035
+        Total expenses             1,555,580   1,885,164
+
+NET LOSS BEFORE MINORITY INTEREST  (1,515,946)(1,811,453)
+
+MINORITY INTEREST                       -        81,801
+
+NET LOSS                          $(1,515,946)$(1,729,652)
+
+REDEEMABLE CONVERTIBLE COMMON STOCK
+DIVIDENDS:
+ Beneficial conversion feature     (2,625,000)      -
+ Eight percent stock dividend         (7,311)       -
+ Accretion to redemption value        (4,127)       -
+
+NET LOSS APPLICABLE TO COMMON
+SHAREHOLDERS                    $(4,152,384) $(1,729,652)
+
+NET LOSS PER COMMON SHARE
+ (Basic and Diluted)             $   (0.54)  $    (0.26)
+
+WEIGHTED AVERAGE NUMBER OF COMMON
+SHARES OUTSTANDING (Basic and    7,687,966   6,645,151
+Diluted)
+
+
+The accompanying notes to consolidated financial statements
+are an integral part of this consolidated financial statement.
+
+
+
+CHIEF CONSOLIDATED MINING COMPANY AND SUBSIDIARIES
+
+CONSOLIDATED STATEMENTS OF SHAREHOLDERS' EQUITY
+FOR THE YEARS ENDED DECEMBER 31, 1999 AND 1998
+
+
+
+                                   Preferred Stock        Common Stock
+                                 Shares     Amount       Shares    Amount
+
+Balance at 12\31\97              5,200      $2,600      6,054,209 $3,027,105
+Issuance of common stock
+through private
+placement at prices
+ranging from $1.50 to
+$3.25 per share, net               -          -         1,201,500    600,750
+Issuance of common stock
+consulting services for
+$2.00 per share                    -          -             6,000      3,000
+Amortization of deferred
+compensation                       -          -             -           -
+Payment on note receivable
+from shareholder                   -          -             -           -
+Deferred compensation
+related to extension of
+notes receivable from
+shareholders related to                                                       )
+a previous exercise of
+stock options                     -           -             -           -
+Conversion of preferred
+shares into common              (32)         (16)           32           16
+Net loss                         -             -             -          -
+
+Balance at 12\31\98             5,168        2,584       7,261,741  3,630,871
+                                                                              )
+Issuance of preferred
+stock through private
+placement for $2.00 per
+share                           6,000        3,000           -          -
+Issuance of common stock
+through private
+placement at prices
+ranging from $1.86
+to $2.50, net                    -             -           750,860    375,430
+Issuance of common stock
+as payment for consulting
+services for $2.00 per share     -             -             -           -
+Issuance of stock purchase
+rights for $2.00 per share       -             -             -           -
+Amortization of deferred
+compensation                     -             -             -           -
+Payment on note receivable
+from shareholder                 -             -             -           -
+Deferred compensation
+related to extension of
+notes receivable from
+shareholders related to                                                       )
+the previous exercise of
+stock options                   -              -             -           -
+Net loss                        -              -             -           -
+Balance at 12\31\99           11,168        $5,594      8,024,601  $4,012,301
+
+
+CHIEF CONSOLIDATED MINING COMPANY AND SUBSIDIARIES
+CONSOLIDATED STATEMENTS OF SHAREHOLDERS' EQUITY
+FOR THE YEARS ENDED DECEMBER 31, 1999 AND 1998 (CONTINUTED)
+
+                                     Additional      Stock
+                                     Paid-In         Purchase      Deferred
+                                     Capital         Rights      Compensation
+
+Balance at 12\31\97                 $11,720,607      $   -       $  (21,089)
+Issuance of common stock through
+private placement at prices
+ranging from $1.50 to $3.25
+per share, net                        1,908,950          -            -
+Issuance of common stock as
+payment for consulting
+services for $2.00 per share             15,750          -            -
+Amortization of deferred compensation     -              -           23,239
+Payment on note receivable from
+shareholder                               -              -            -
+Deferred compensation related to
+extension of notes receivable from
+shareholders related to a previous
+exercise of stock options               15,050           -          (15,050)
+Conversion of preferred shares
+into common                              -               -             -
+Net loss                                 -               -             -
+
+Balance at 12\31\98                   13,660,657         -          (12,900)
+
+Issuance of preferred stock through
+private placement for $2.00 per share      9,000         -             -
+Issuance of common stock through
+pricate placement at prices ranging
+from $1.86 to $2.50, net               1,288,820         -             -
+Issuance of common stock as payment
+for consulting services for $2.00
+per share                                 33,972         -             -
+Issuance of stock purchase rights
+for $2.00 per share                        -        3,321,747          -
+Amortization of deferred compensation      -             -            15,050
+Payment on note receivable from
+shareholder                                -             -             -
+Deferred compensation related to
+extension of notes receivable from
+shareholders related to the previous
+exercise of stock options                15,050          -           (15,050)
+Net Loss                                   -             -             -
+
+Balance at 12\31\99                 $ 15,007,199   $ 3,321,747     $ (12,900)
+
+
+CHIEF CONSOLIDATED MINING COMPANY AND SUBSIDIARIES
+CONSOLIDATED STATEMENTS OF SHAREHOLDERS' EQUITY
+FOR THE YEARS ENDED DECEMBER 31, 1999 AND 1998 (CONTINUED)
+
+                                            Notes
+                                           Receivable
+                                            From            Accumulated
+                                          Shareholders        Deficit
+Balance at 12\31\97                         $(87,500)          $(9,017,295)
+
+Issuance of common stock through private
+placement at prices ranging from $1.50 to
+$3.25 per share, net                             -              -
+Issuance of common stock as payment for
+consulting services for $2.00 per share          -              -
+Amortization of deferred compensation            -              -
+Payment on note receivable from shareholder    5,130            -
+Deferred compensation related to extension of
+notes receivable from shareholders related to
+a previous exercise of stock options             -              -
+Conversion of preferred shares into common       -              -
+
+Net Loss                                         -            (1,729,652)
+
+Balance at 12\31\98                         (82,370)         (10,746,947)
+
+Issuance of preferred stock through private
+placement for $2.00 per share                    -              -
+Issuance of common stock through private
+placement at prices ranging from $1.86 to
+$2.50, net                                       -              -
+Issuance of common stock as payment for
+consulting services for $2.00 per share          -              -
+Issuance of stock purchase rights for
+$2.00 per share                                  -              -
+Amortization of deferred compensation            -              -
+Payment on note receivable from shareholder   2,900             -
+Deferred compensation related to extension
+of notes receivable from shareholders
+related to the previous exercise of stock
+options                                          -              -
+
+Net Loss                                         -        (1,515.946)
+
+Balance at 12\31\99                        $(79,470)    $(12,262,893)
+
+The accompanying notes to consolidated financial statements
+are an integral part of this consolidated financial statement.
+
+
+
+
+
+     CHIEF CONSOLIDATED MINING COMPANY AND SUBSIDIARIES
+
+            CONSOLIDATED STATEMENTS OF CASH FLOWS
+       FOR THE YEARS ENDED DECEMBER 31, 1999 AND 1998
+
+
+                                          1999          1998
+CASH FLOWS FROM OPERATING ACTIVITIES:
+Net loss                                $(1,515,946)    (1,729,652)
+Adjustments to reconcile net loss to
+net cash used in operating activities:
+Noncash expense related to reclamation      -               89,800
+liability
+Amortization of deferred compensation        15,050         23,239
+Gain on sale of real estate                 (12,703)       (36,660)
+Issuance of common stock for services        39,972         18,750
+(Increase) decrease in accounts               4,486         (1,561)
+receivable
+Increase in other assets                    (20,833)       (95,739)
+Increase (decrease) in accounts             315,246        (14,296)
+payable
+Increase in accrued liabilities             144,801         15,843
+Net cash used in operating activities    (1,029,927)    (1,730,276)
+
+CASH FLOWS FROM INVESTING ACTIVITIES:
+Mining property development costs         (137,990)       (185,980)
+Purchase of property and equipment        (868,519)        (25,336)
+Payments on note receivable from             2,900           5,130
+shareholder
+Loss on investment in affiliate              1,007             -
+Advances to affiliate                       (4,000)         (1,500)
+Net cash used in provided by investing
+activities                              (1,006,602)       (207,686)
+
+CASH FLOWS FROM FINANCING
+ACTIVITIES:
+Net proceeds from sale of preferred         12,000            -
+stock
+Net proceeds from sale of common stock   1,664,250       2,509,700
+Net proceeds from sale of redeemable
+convertible common stock and stock       6,425,806            -
+purchase rights
+Change in minority interest                    254         (81,801)
+Net cash provided by financing           8,102,310       2,427,899
+activities
+
+NET INCREASE IN CASH AND CASH
+EQUIVALENTS                              6,065,781         489,937
+
+CASH AND CASH EQUIVALENTS AT BEGINNING
+OF YEAR                                    835,453         345,516
+
+CASH AND CASH EQUIVALENTS AT END OF
+YEAR                                    $6,901,234        $835,453
+
+
+
+The accompanying notes to consolidated financial statements are an
+integral part of this consolidated financial statement.
+
+
+CHIEF CONSOLIDATED MINING COMPANY AND SUBSIDIARIES
+
+         NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+
+
+          (1)  NATURE OF OPERATIONS AND INVESTMENTS
+Chief Consolidated Mining Company ("Chief") was incorporated
+ in the state of Arizona in 1909.  The Company currently is
+the owner of or has vested interests in approximately 19,000
+   acres of patented mining property in the Tintic Mining
+ Districts in Utah County and Juab County, Utah.  Chief and
+ its subsidiaries (collectively, the "Company") operate as a
+mineral resource company actively engaged in the exploration
+   and development of their mining claims and properties.
+
+                    Tintic Joint Venture
+  On July 17, 1996, the Company, Akiko Gold Resources Ltd.
+  ("Akiko") and KOREA Zinc Co., Ltd. ("Korea Zinc") formed
+ Tintic Utah Metals LLC ("Tintic").  The Company contributed
+$3,975,873 of its mining claims and properties and machinery
+    and equipment for an undivided 50 percent interest in
+    Tintic.  As a result of its failure to contribute the
+  required capital to Tintic, Akiko forfeited any rights of
+ ownership in Tintic.  Thus, in accordance with the amended
+   operating agreement, effective August 15, 1997, Akiko's
+ownership reverted to the Company resulting in the Company's
+     vested interest in Tintic increasing to 75 percent.
+
+     During October 1998, an additional amendment to the
+ operating agreement was signed which granted to the Company
+ an option to purchase Korea Zinc's 25 percent ownership for
+   $2,000,000.  This option expires on December 31, 2000.
+During the option period, Korea Zinc is not required to make
+any advances to Tintic or to repay to the Company 25 percent
+ of the advances made by the Company.  During the portion of
+the option period from October 1, 1998 to December 31, 1999,
+ Chief advanced a net amount of approximately $2,400,000 to
+  Tintic.  Should the Company exercise its option and then
+subsequently sell all or a portion of the acquired ownership
+to a third party at a net selling price in excess of $80,000
+ for each 1 percent membership interest sold, Korea Zinc is
+ entitled to 50 percent of the gain.  If the option expires
+ without exercise, all future transactions are covered under
+ previous terms of the operating agreement.  These previous
+ terms include a requirement that the Company and Korea Zinc
+   make additional capital contributions to fund approved
+   programs and budgets in proportion to their respective
+ percentages in Tintic.  The failure of a member to meet its
+  contribution requirement could result in the dilution of
+             that member's percentage interest.
+
+ The Company's contribution was made at the historical bases
+of the related mining properties and machinery and equipment
+  for financial reporting purposes.  No gain recognition or
+      step-up in basis was recorded in the accompanying
+    consolidated financial statements as a result of the
+                        transaction.
+
+             Central Standard Consolidated Mines
+The Company owns approximately 23 percent of the outstanding
+    capital stock of Central Standard Consolidated Mines.
+
+                         Operations
+   During the years ended December 31, 1999 and 1998, the
+   Company has not generated significant revenues and has
+  incurred net losses.  The Company's operating activities
+   used $1,029,927 and $1,730,276 of cash during the years
+ended December 31, 1999 and 1998, respectively.  Significant
+ additional development costs must be incurred to bring the
+       Company's Burgin ore body, with a book value of
+     approximately $6,857,000 at December 31, 1999, into
+ operation.  Also required will be the approval by the Utah
+       State Engineer of the Company's application for
+      appropriation of water from the Burgin Mine.  The
+   application is currently pending before the Utah State
+                   Engineer for approval.
+
+  The Company's unrecovered investment in mining claims and
+properties, net of applicable depletion, is $8,456,009 as of
+ December 31, 1999, representing approximately 51 percent of
+   total assets.  The realization of these investments is
+  dependent upon the ability of the Company to continue to
+ obtain the required capital to complete the development of
+                  these mining properties.
+
+ The extent to which the Company will be able to continue to
+     fund its activities on its own property and to make
+additional advances to Tintic will depend primarily upon the
+  Company's ability to raise necessary funding. At December
+   31, 1999, the Company had cash and cash equivalents of
+    $6,901,234.  At such time as funds are needed by the
+ Company, it will seek to provide necessary funding through
+ the sale of common stock in a private placement and/or the
+     sale of real estate for commercial and residential
+                        development.
+
+       (2)  SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+                 Principles of Consolidation
+ The accompanying consolidated financial statements include
+     the accounts of the Company and all majority owned
+    subsidiaries.  The Company's 23 percent investment in
+ Central Standard Consolidated Mines is accounted for using
+                     the equity method.
+
+                Mining Claims and Properties
+  Costs of developing mining properties (upon completion of
+    exploration) are capitalized.  Exploration costs are
+  expensed as incurred.  When a mining property reaches the
+   production stage, the related capitalized costs will be
+ amortized using the units of production method on the basis
+ of proven and probable ore reserves.  The Company's mining
+properties are periodically assessed for impairment of value
+   and any losses are charged to operations at the time of
+ impairment.  No mineral depletion provisions have been made
+    since 1978 as a result of suspension of mining on the
+                    Company's properties.
+
+  The following represents the Company's mineral claims and
+      properties and related accumulated depletion and
+            depreciation as of December 31, 1999:
+
+       Land and mining claims        $3,869,116
+       Buildings and equipment          123,335
+       Mine development               5,679,250
+       Accumulated depletion and     (1,215,692)
+       depreciation
+                                     $8,456,009
+
+                   Machinery and Equipment
+    Machinery and equipment are recorded at cost.  Major
+   additions and improvements are capitalized while minor
+ replacements, maintenance and repairs that do not increase
+  the useful lives of the assets are expensed as incurred.
+  Depreciation of machinery and equipment has been computed
+ using the straight-line method over estimated useful lives
+                 ranging from 3 to 20 years.
+
+                      Reclamation Costs
+  The Company provides for reclamation costs and penalties
+ when the responsibility for reclamation is probable and the
+  amount of associated costs is reasonably estimble.  Under
+ the Company's current operating environment, the timing of
+reclamation accruals typically coincides with the completion
+ of feasibility studies or commitments to a plan of action.
+  Reclamation liabilities are accrued based on estimates of
+                known environmental exposure.
+
+                        Income Taxes
+The Company follows the provisions of Statement of Financial
+   Accounting Standards ("SFAS") No. 109, "Accounting for
+  Income Taxes," which requires that income tax accounts be
+  computed using the liability method.  Deferred taxes are
+  determined based upon the estimated future tax effects of
+differences between the financial statement and tax bases of
+  assets and liabilities given the provisions of currently
+                      enacted tax laws.
+
+                  Cash and Cash Equivalents
+  For purposes of the statement of cash flows, the Company
+ considers all highly liquid debt instruments purchased with
+ maturities of three or fewer months to be cash equivalents.
+  Instruments with maturities in excess of three months are
+specifically identified on the balance sheet.  The Company's
+  investments at December 31, 1999 and 1998 consist of U.S.
+         Treasury Bills with short-term maturities.
+
+             Fair Value of Financial Instruments
+  The book value of all financial instruments approximates
+ fair value.  The estimated fair values have been determined
+     using appropriate market information and valuation
+                       methodologies.
+
+                  Net Loss Per Common Share
+   Basic net loss per common share ("Basic EPS") excludes
+    dilution and is computed by dividing net loss by the
+ weighted-average number of common shares outstanding during
+the year.  Diluted net loss per common share ("Diluted EPS")
+  reflects the potential dilution that could occur if stock
+ options were exercised or converted into common stock.  The
+   computation of Diluted EPS does not assume exercise or
+  conversion of securities that would have an antidilutive
+   effect on net loss per common share.  All common stock
+  equivalents were excluded from the calculation of Diluted
+ EPS for the years ended December 31, 1999 and 1998 because
+  they would have been antidilutive, thereby decreasing the
+                 net loss per common share.
+
+    At December 31, 1999 and 1998, there were outstanding
+  options to purchase 400,000 and 580,000 shares of common
+stock, respectively, that were excluded from the Diluted EPS
+                        calculation.
+
+                 Pervasiveness of Estimates
+ The preparation of financial statements in conformity with
+generally accepted accounting principles requires management
+ to make estimates and assumptions that affect the reported
+     amounts of assets and liabilities and disclosure of
+    contingent assets and liabilities at the date of the
+  financial statements and the reported amounts of revenues
+  and expenses during the reporting period.  Actual results
+             could differ from these estimates.
+
+              Recent Accounting Pronouncements
+   In June 1998, the Financial Accounting Standards Board
+ issued SFAS No. 133 "Accounting for Derivative Instruments
+   and Hedging Activities."  SFAS No. 133 establishes new
+ accounting and reporting standards for companies to report
+ information about derivative instruments, including certain
+     derivative instruments embedded in other contracts,
+  (collectively referred to as derivatives) and for hedging
+   activities.  This statement is effective for financial
+  statements issued for all fiscal quarters of fiscal years
+ beginning after June 15, 2000.  The Company will adopt SFAS
+ No. 133 during calendar 2001.  The Company does not expect
+  this statement to have a material impact on the Company's
+   results of operations, financial position or liquidity.
+
+                     (3)  CAPITALIZATION
+  On December 29, 1999, the Company's shareholders approved
+the sale and issuance of  3,500,000 shares of a new class of
+redeemable convertible common stock to Dimeling, Schreiber &
+ Park ("DS&P"), the general partner of Dimeling, Schreiber &
+    Park Reorganization Fund II, LP ("Fund II"), and the
+    granting to DS&P the right to purchase an additional
+    5,000,000 shares of non-redeemable common stock.  On
+December 30, 1999, the Company sold to DS&P 3,500,000 shares
+  of the Company's redeemable convertible common stock for
+  $7,000,000.  DS&P also received the right to purchase an
+  additional 5,000,000 shares of non-redeemable convertible
+  common shares.  The redeemable convertible common shares
+ carry a dividend rate of 8 percent which is payable in non-
+redeemable convertible common stock of the Company (based on
+the number of issued convertible common shares).  The shares
+  of redeemable convertible common stock have a liquidation
+    value preference equal to $2.00 per share on or after
+   December 1, 2003 if DS&P has not exercised its right to
+ purchase the 5,000,000 additional shares.  The liquidation
+ value preference of the redeemable convertible common stock
+ is subordinate to a prior $.50 per share liquidation value
+             of the Company's preferred shares.
+
+ In connection with the DS&P transaction, the Company agreed
+   to pay a finders fee comprised of $150,000 in cash and
+  70,000 shares of common stock with a fair market value of
+$192,500 as of December 30, 1999.  Additionally, the Company
+    paid $231,694 in other direct costs of the offering,
+   resulting in net proceeds of $6,425,806.  The net cash
+                  proceeds were $6,618,306.
+
+The net proceeds from the sale of the redeemable convertible
+   common stock has been allocated between the redeemable
+ convertible common stock and related stock purchase rights
+  based upon their relative fair values at the date of the
+  stock purchase agreement.  The Company has estimated the
+  value of the convertible redeemable common stock based on
+ the fair value of the common stock as of December 30, 1999.
+  The Company has estimated the value of the stock purchase
+ rights issued in connection with the sale of the redeemable
+ convertible common stock based upon a Black-Scholes option
+pricing model with the following assumptions: risk free rate
+   5.75 percent; expected dividend yield of zero percent;
+  expected life of 3 years, and expected volatility of 133
+                          percent.
+
+     On December 30, 1999, the quoted stock price of the
+ Company's common stock was $2.75 per share which is greater
+than the $2.00 per share price of the redeemable convertible
+ common shares issued, resulting in a beneficial conversion
+   feature.  The redeemable convertible common shares are
+  convertible into common shares immediately upon issuance.
+The intrinsic value of the beneficial conversion feature has
+  been recorded as a dividend to the redeemable convertible
+  common shareholders at the date of issuance.  Due to the
+Company's accumulated deficit, the dividend has been charged
+             against additional paid-in capital.
+
+The accretion of the redeemable convertible common shares is
+   being amortized on a straight-line basis utilizing the
+    difference between the carrying value at the date of
+ issuance and the redemption price of $7,000,000 at December
+ 30, 2003.  The straight-line basis is assumed to reasonably
+   approximate the effective interest method. The Board of
+ Directors of the Company authorized the issuance of common
+ stock in exchange for preferred stock on a share-for-share
+ basis if elected by the preferred stockholders.  Preferred
+ shares obtained by the Company in the exchange are retired.
+ During 1998, 32 preferred shares were exchanged for common
+                           shares.
+
+    The shares of preferred stock and common stock of the
+ Company have equal right to receive dividends, to vote, and
+   in all other respects except that upon liquidation the
+ preferred shares are entitled to a preferential payment of
+                      $0.50 per share.
+
+During 1999, the Company sold 6,000 shares of it's preferred
+            stock at a price of $2.00 per share.
+
+    During 1999 and 1998, the Company issued 750,860 and
+   1,201,500 shares of common stock respectively, through
+ private placement.  The stock was issued at prices ranging
+ from $1.86 to $2.50 in 1999 and $1.50 to $3.25 in 1998 net
+                of applicable finders' fees.
+
+  During 1999 and 1998, the Company issued 12,000 and 6,000
+    shares, respectively, of common stock to an entity as
+  payment for professional services rendered in connection
+   with providing consulting services to the Company.  The
+     shares were valued based on the market price of the
+    Company's common stock on the dates the services were
+                         completed.
+
+                     (4)  STOCK OPTIONS
+  The Company applies APB Opinion 25 ("APB 25") and related
+      interpretations in accounting for its stock-based
+     compensation plans as they relate to employees and
+   directors.  Accordingly, no compensation cost has been
+ recognized for stock options granted to officers, directors
+and other key employees because the exercise price was equal
+ to or greater than the market price of the Company's common
+ stock on the measurement date.  Had compensation cost been
+  determined based on the fair value at the grant date for
+ awards consistent with the method required by SFAS No. 123,
+ the Company's net loss and net loss per common share would
+   have been increased to the pro forma amounts indicated
+                           below:
+
+                                        1999        1998
+Net loss:             As reported    $(1,515,946)  (1,729,652)
+                      Pro forma       (1,190,946)  (1,797,252)
+
+Net loss per common   As reported    $    (.54)    $(0.26)
+   share:
+                      Pro forma           (.50)     (0.27)
+
+ Because the SFAS No. 123 method of accounting has not been
+  applied to options granted prior to January 1, 1995, the
+      resulting pro forma compensation cost may not be
+   representative of that to be expected in future years.
+
+                   Incentive Stock Options
+ During the year ended December 31, 1995, the Company loaned
+       an officer and an employee $50,000 and $37,500,
+ respectively, to facilitate their exercise of stock options
+  issued under a previously existing incentive stock option
+ plan.  The issuance of the loans to the employees created a
+ new measurement date for financial reporting purposes.  The
+   Company recorded deferred compensation of $75,000 (the
+    difference between the market value of the stock and
+   exercise price of the options on the date the loan was
+   issued) in the 1995 financial statements.  The deferred
+ compensation was amortized over the three-year life of the
+                      notes receivable.
+
+ During 1999 and 1998, the Company extended the term of the
+notes until December 31, 2000 and 1999, respectively.  These
+   extensions created new measurement dates for financial
+    reporting purposes and generated additional deferred
+ compensation for each year.  During each of the years ended
+  December 31, 1999 and 1998, $15,050 of expense related to
+the amortization of the deferred compensation was recognized
+        in the accompanying statements of operations.
+
+   No stock options remain outstanding under the incentive
+                     stock option plan.
+
+                 Nonqualified Stock Options
+    From time to time, the shareholders have approved the
+     issuance of nonqualified stock options to officers,
+    directors and a key employee.  The nonqualified stock
+ options are immediately vested and must be exercised within
+              ten years from the date of grant.
+
+During 1998, the Board of Directors approved the granting of
+nonqualified stock options for the purchase of 20,000 shares
+ of common stock to the Executive Director of a subsidiary.
+   These options have an exercise price of $4.63 per share
+(which was the market price on the date of grant) and expire
+    in March 2003.  No options were granted during 1999.
+
+A summary of the status of the nonqualified stock options at
+December 31, 1999 and 1998 and changes during the years then
+    ended is presented in the table and narrative below:
+
+                             1999                1998
+                                Weighted            Weighted
+                                Average             Average
+                       Shares   Exercise            Exercise
+                                 Prices    Shares    Prices
+Outstanding at
+beginning of year     570,000   $ 5.31    550,000   $ 5.33
+
+Granted                  -         -       20,000      -
+
+Forfeited            (170,000)    5.75       -        4.63
+
+Outstanding at end    400,000     5.12    570,000     5.31
+of year
+
+Exercisable at end    400,000             570,000     5.31
+of year
+
+Weighted average
+fair value of                     -                   3.38
+options granted
+
+    Of the 400,000 options outstanding and exercisable at
+ December 31, 1999, 200,000 have an exercise price of $3.50,
+ with a weighted average remaining contractual life of 4.43
+ years.  The remaining 200,000 options have exercise prices
+  ranging between $4.62 and $7.00, with a weighted average
+  exercise price of $6.74 and a weighted average remaining
+                contractual life of 6 years.
+
+                     Other Stock Options
+ In addition to the incentive and nonqualified stock options
+ previously discussed, the Company has granted stock options
+  to outside parties for consulting services.  During 1998,
+  the Company had 10,000 options outstanding at an exercise
+    price of $7.00.  During 1999, 10,000 options expired.
+
+                      (5)  INCOME TAXES
+ The income tax provisions for 1999 and 1998 differ from the
+  amounts computed by applying the statutory federal income
+  tax rate to the loss before provision for income taxes as
+                          follows:
+
+                                     1999       1998
+    Statutory federal income tax  (35.0)%    (35.0)%
+    rate
+   State income taxes, net of     (3.3)%     (3.3)%
+    federal benefit
+    Nondeductible expenses        -  %       -  %
+    Valuation allowance           38.3%      38.3%
+    Effective income tax rate     -  %       -  %
+
+  The tax effects of temporary differences and the related
+ valuation allowance against the deferred income tax assets
+          as of December 31, 1999 were as follows:
+
+   Deferred income tax assets:
+   Net operating loss carryforward          $3,407,514
+
+   Mine exploration costs capitalized for      578,440
+    tax purposes
+
+   Future deductible expenses related to
+    issuance of common stock options           219,845
+
+   Future deductible expenses related to       149,099
+    reclamation
+
+   Book over tax depreciation                   26,777
+   Other                                         1,835
+   Total deferred income tax assets          4,383,510
+   Valuation allowance                      (4,198,928)
+   Deferred income tax assets, net of
+    valuation allowance                        184,582
+   Deferred income tax liability:
+   Amortization of development costs          (184,582)
+   Net deferred income taxes                $     -
+
+  The Company has net operating loss carryforwards ("NOLs")
+     for federal tax reporting purposes of approximately
+          $8,900,000.  The NOLs expire as follows:
+
+               Year of Expiration       Amount
+
+                1999                     245,953
+                2000                     192,858
+                2001                     232,305
+                2002                     197,762
+                2003                     133,291
+                2004                     204,917
+                2005                     510,052
+                2006                     256,031
+                2007                     181,150
+                2008                     772,649
+                2009                     929,998
+                2010                   1,283,903
+                2011                   1,037,582
+                2012                     647,738
+                2018                     992,470
+                2019                   1,089,875
+
+             Total NOL's              $8,908,534
+
+
+The Internal Revenue Code contains provisions that reduce or
+limit the availability and utilization of net operating loss
+  carryforwards if certain changes in ownership have taken
+ place or will take place.  During 1998 and 1999, changes in
+      the ownership of the Company may have resulted in
+     limitations on all pre-existing net operating loss
+   carryforwards of the Company.  As a result, management
+   estimates that all of the Company's net operating loss
+  carryforwards may be limited to utilization of an annual
+  amount not to exceed the value of the Company on the date
+   the Company exceeded the specified levels of allowable
+changes in ownership multiplied by the Federal long-term tax-
+ exempt rate at that date.  If the annual limited amount is
+unutilized in any particular year, it remains available on a
+     cumulative basis through the expiration date of the
+        applicable net operating loss carryforwards.
+
+               (6)  RELATED-PARTY TRANSACTIONS
+  As discussed in Note 4, the Company loaned $50,000 to an
+officer and $37,500 to an employee who are also shareholders
+ of the Company.  The loan to the officer bears interest at
+    the prime rate (8.5 percent at December 31, 1999) and
+ interest is payable quarterly.  The loan to the employee is
+  noninterest bearing. At December 31, 1999, the remaining
+  principal balance is $79,670.  These notes receivable are
+ secured by certain shares of the Company's common stock and
+ are reflected as a component of shareholders' equity in the
+          accompanying consolidated balance sheet.
+
+           (7)       COMMITMENTS AND CONTINGENCIES
+                    Environmental Matters
+ Prior to 1993, the Company leased its mining properties to
+ other companies for operation, exploration and development.
+  Under the terms of the leases, these other companies were
+    obligated to comply with all federal, state and local
+   environmental laws and regulations affecting the mining
+      industry.  Management is not aware of any current
+  environmental contamination and clean-up costs related to
+     its mining properties for which the Company may be
+                     considered liable.
+
+   Tintic would become liable for environmental aspects of
+   future operations on the Tintic properties, subject to
+    applicable law. The Company is currently seeking the
+    approval by the Utah State Engineer of the Company's
+ application for appropriation of water from the Burgin Mine
+ as the Burgin ore body is located beneath the water table.
+ The application is currently pending before the Utah State
+                   Engineer for approval.
+
+  During 1998, Tintic assumed a reclamation obligation from
+   the previous operator of the Burgin ore body.  In prior
+  years, Tintic reimbursed the previous operator for their
+    costs of maintaining the reclamation bond in order to
+ facilitate Tintic's continued development of the mines.  As
+    management believed the transfer was probable, Tintic
+recorded an estimated liability of $300,000 in 1997, for the
+    existing liability on the Burgin property.  Upon the
+     completion of the transfer during 1998, management
+determined that the accrued liability should be increased to
+$350,000.  Management believes that this liability will only
+  become due when all mining efforts have been abandoned on
+                    the Burgin property.
+
+The Company also holds a small mining permit and reclamation
+  obligation in connection with its Chief Gold properties.
+ During 1998, the Company recorded an estimated liability of
+   $39,800 in connection with this obligation.  Management
+ believes that this liability will only become due when all
+    mining efforts have been abandoned on the Chief Gold
+                         properties.
+
+                      Operating Leases
+
+     In March 1997, the Company signed a long-term, non-
+   cancelable operating lease for its New York City office
+ space.  The lease expires on May 31, 2001.  Lease payments
+                    are $1,850 per month.
+
+ Future minimum lease payments under these leases are due as
+                          follows:
+
+           Year ending December 31,
+                 2000               $22,200
+
+                 2001                 9,250
+                                    $31,450
+
+
+                          EXHIBIT A
+
+
+         FOURTH AMENDMENT TO TINTIC UTAH METALS LLC
+                     OPERATING AGREEMENT
+
+     This Fourth Amendment to the Tintic Utah Metals LLC
+Operating Agreement (this "Amendment") is made and entered
+into as of the 9th day of September, 1999 by and between
+CHIEF CONSOLIDATED MINING COMPANY, an Arizona corporation
+("Chief") and KZ UTAH, INC., a Delaware corporation ("Korea
+Zinc").
+
+                          Recitals
+
+     A.  The parties hereto are the remaining parties to
+that certain Operating Agreement of Tintic Utah Metals LLC,
+dated as of July 17, 1996, as previously amended on March
+11, 1997,  November 10, 1997 and October 1, 1998 (the
+"Operating Agreement") and are all of the Members of Tintic
+Utah Metals LLC, a Colorado limited liability company
+("Tintic Utah").
+
+     B.  Chief is vested with a 75% Membership Interest in
+Tintic Utah; Korea Zinc is vested with a 25% Membership
+Interest in Tintic Utah.
+
+     C.  Chief and Korea Zinc desire to further amend the
+Operating Agreement so as to  extend the time period to
+December 31, 2000, within which time period Chief shall have
+the right to exercise the Option granted to it by Korea Zinc
+under the Third Amendment dated October 1, 1998 to the
+Operating Agreement, to purchase Korea Zinc's entire 25%
+Membership Interest in Tintic Utah.
+
+                          Amendment
+
+     NOW, THEREFORE, for and in consideration of the mutual
+covenants contained herein and the mutual benefits to be
+derived by the parties hereunder, the parties agree to amend
+the Operating Agreement as follows:
+
+
+     1.  General.  Unless otherwise defined in this
+Amendment, all terms used in this Amendment shall have the
+same meaning as set forth in the Operating Agreement as
+previously amended, including its Exhibits.
+
+
+     2.  Extension of Option.  The time period during which
+Chief shall have the right to exercise the Option to
+purchase from Korea Zinc the entire 25% Membership Interest
+owned by Korea Zinc in Tintic Utah under Section 18.21 of
+Article XVIII of the Operating Agreement, which Section
+18.21 was added to the Operating Agreement under the terms
+of the Third Amendment dated October 1, 1998 to the
+Operating Agreement, is hereby extended from October 15,
+1999 to December 31, 2000.  Accordingly, Section 18.21,
+which defined the Option Period as being from October 1,
+1998 to October 15, 1999, is hereby amended so as to change
+the Option Period to be from October 1, 1998 to December 31,
+2000.  Except with respect to said Option Period, as amended
+herein, all the other terms and provisions of said Section
+18.21 shall remain in full force and effect.
+
+     3.  Certain Provisions In Effect During Option Period.
+Section "3" of the Third Amendment dated October 1, 1998 to
+the Operating Agreement is hereby amended by deleting the
+date "October 15, 1999" and substituting the date "December
+31, 2000" in its place and stead, and by deleting the date
+"October 16, 1999" and substituting the date "January 1,
+2001" in its place and stead.  Except with respect to the
+aforesaid changes is dates, as amended herein, all the other
+terms and provisions of said Section "3" of the Third
+Amendment dated October 1, 1998 to the Operating Agreement
+shall remain in full force and effect.
+
+     4.  Operating Agreement, As Previously Amended, Remains
+In Effect.   Except as expressly set forth in this
+Amendment, the terms and conditions of the Operating
+Agreement, as previously amended, shall remain in full force
+and effect in accordance with their terms.  The headings in
+this Amendment are inserted for convenience only and are in
+no way intended to describe, interpret, define, or limit the
+scope, extent or intent of this Amendment or any provision
+hereof.
+
+     Executed to be effective as of the date first above
+written.
+
+TINTIC UTAH METALS LLC
+    MEMBERS:
+
+CHIEF CONSOLIDATED
+MINING COMPANY                                     KZ UTAH, INC.
+
+By: _____________________                   By: ______________________
+Leonard Weitz
+Chairman and President
+
+
+EXHIBIT B
+
+
+Subsidiaries of Chief Consolidated Mining Company
+
+
+
+                                       State of Incorporation
+          Name of Subsidiary*          or Organization
+Tintic Utah Metals LLC                 Colorado
+Chief Gold Mines, Inc.                 Delaware
+American Star Mining Company           Utah
+Eagle & Blue Bell Mining Company       Utah
+East Crown Point Consolidated Mining Co Utah
+Eureka Mines Company                   Utah
+
+
+
+_____________
+*Each subsidiary does business under the same name as shown
+above.
+
+
+                          EXHIBIT C
+              Chief Consolidated Mining Company
+                   Financial Data Schedule
+                      December 31, 1999
+
+
+                                                        1999
+5-02 (1)        Cash and cash items                 6,901,234
+5-02 (2)        Marketable securities                     -
+5-02 (3)(a)(1)  Notes and accounts                        -
+5-02 (4)        Allowances for doubtful accounts          -
+5-02 (6)        Inventory                                 -
+5-02 (9)        Total current assets                6,922,067
+5-02 (13)       Property, plant and equipment      10,725,318
+5-02 (14)       Accumulated depreciation            1,360,291
+5-02 (18)       Total assets                       16,539,938
+5-02 (21)       Total current liabilities             552,150
+5-02 (22)       Bonds, mortgages and similar debt        -
+5-02 (28)       Preferred stock - mandatory redemption   -
+5-02 (29)       Preferred stock - no mandatory redemption-
+5-02 (30)       Common stock                        4,012,301
+5-02 (31)       Other stockholders' equity          5,979,267
+5-02 (32)       Total liabilities and
+                stockholders' equity               16,539,938
+
+
+                                                      1999
+5-03(b)1(a)     Net sales of tangible products          -
+5-03 (b) 1      Total revenues                       39,634
+5-03 (b) 2      Cost of tangible goods sold             -
+5-03 (b) 2      Total costs and expenses
+                applicable to sales and
+                revenues                                250
+5-03 (b) 3      Other costs and expenses          1,555,580
+
+5-03 (b) 5      Provision for doubtful
+                accounts and notes                     -
+5-03 (b)(8)     Interest and amortization
+                of debt discount                       -
+5-03 (b)(10)    Income before taxes and
+                other items                        1,515,946
+5-03 (b)(11)    Income tax expense                     -
+5-03 (b)(14)    Income/loss continuing
+                operations                         1,515,946
+5-03 (b)(15)    Discontinued operations                -
+5-03 (b)(17)    Extraordinary items                    -
+5-03 (b)(18)    Cumulative effect-changes              -
+                in accounting principles
+5-03 (b)(19)    Net income or loss                 1,515,946
+5-03 (b)(20)    EPS - primary                           0.54
+5-03 (b)(20)    EPS - fully diluted                     0.54
+
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

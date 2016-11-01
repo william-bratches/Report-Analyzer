@@ -1,0 +1,2063 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ G9mYlvc7TeM45vZkhlz1KOt6fGPcR6LQNZFK0dmjgKBCVaKA9YaoRtg16axdN0jF
+ Xh9xeR+ghV+E5xB6csPo7A==
+
+<SEC-DOCUMENT>0000010254-96-000004.txt : 19960701
+<SEC-HEADER>0000010254-96-000004.hdr.sgml : 19960701
+ACCESSION NUMBER:		0000010254-96-000004
+CONFORMED SUBMISSION TYPE:	10KSB
+PUBLIC DOCUMENT COUNT:		3
+CONFORMED PERIOD OF REPORT:	19960331
+FILED AS OF DATE:		19960628
+SROS:			NASD
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			BASIC EARTH SCIENCE SYSTEMS INC
+		CENTRAL INDEX KEY:			0000010254
+		STANDARD INDUSTRIAL CLASSIFICATION:	CRUDE PETROLEUM & NATURAL GAS [1311]
+		IRS NUMBER:				840592823
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0331
+
+	FILING VALUES:
+		FORM TYPE:		10KSB
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-07914
+		FILM NUMBER:		96588497
+
+	BUSINESS ADDRESS:	
+		STREET 1:		633 17TH ST STE 1670
+		STREET 2:		P O BOX 3088
+		CITY:			DENVER
+		STATE:			CO
+		ZIP:			80202-3065
+		BUSINESS PHONE:		3032949525
+
+	MAIL ADDRESS:	
+		STREET 1:		633 SEVENTEENTH STREET
+		STREET 2:		SUITE 1670
+		CITY:			DENVER
+		STATE:			CO
+		ZIP:			80202
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>10KSB
+<SEQUENCE>1
+<TEXT>
+
+                                    UNITED STATES
+                         SECURITIES AND EXCHANGE COMMISSION
+                               Washington, D.C.  20549
+
+                                     FORM 10-KSB
+
+[ X ]     ANNUAL REPORT UNDER SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE
+ACT OF 1934 [Fee Required]
+
+                      For the fiscal year ended March 31, 1996
+
+[    ]    TRANSITION REPORT UNDER SECTION 13 OR 15(d) OF THE SECURITIES
+EXCHANGE ACT OF 1934 [No Fee Required]
+
+                           Commission file number: 0-7914
+
+                          BASIC EARTH SCIENCE SYSTEMS, INC.
+                         633 Seventeenth Street, Suite 1670
+                               Denver, Colorado  80202
+
+                              Telephone (303) 294-9525
+
+Incorporated in Delaware                                 IRS ID#84-0592823
+
+
+
+Securities registered under Section 12(b) of the Act:  NONE
+
+Securities registered under Section 12(g) of the Act:  Common Stock, $.10 par
+value at March 31, 1995 and $.001 par value at March 31, 1996
+
+Check whether the issuer (1) filed all reports required to be filed by Section
+13 or 15(d) of the Exchange Act during the past 12 months (or for such shorter
+period that the registrant was required to file such reports), and (2) has been
+subject to the filing requirements for the past 90 days.  Yes X      No      
+
+Check if disclosure of delinquent filers in response to Item 405 of Regulation
+S-B is not contained in this form, and no disclosure will be contained, to the
+best of registrant's knowledge, in definitive proxy or information statements
+incorporated by reference in Part III of this Form 10-KSB or any amendment to
+this Form 10-KSB. [   ]
+
+Issuer's revenues for its most recent fiscal year:  $2,826,000
+
+As of June 7, 1996, 16,580,487 shares of the registrant's common stock were
+outstanding and the aggregate market value of such common stock held by non-
+affiliates was approximately $350,000.
+
+The proxy statement for the 1996 annual meeting is incorporated by reference
+into Part III.
+
+<PAGE>
+                          Basic Earth Science Systems, Inc.
+                          Form 10-KSB Annual Report - 1996
+                                  Table of Contents
+
+Part I:                                                                    Page
+                                                                           ----
+     Item 1.   Description of Business                                     3
+          
+     Item 2.   Description of Property                                     8
+
+     Item 3.   Legal Proceedings                                           10
+
+     Item 4.   Submission of Matters to a Vote of Security Holders         10
+
+Part II:
+     Item 5.   Market for Common Equity and Related Stockholder Matters    11
+
+     Item 6.   Management's Discussion and Analysis or Plan of Operation   12
+
+     Item 7.   Financial Statements                                        17
+
+     Item 8.   Changes In and Disagreements With Accountants On
+               Accounting and Financial Disclosure                         36
+
+Part III:
+     Item 9.   Directors, Executive Officers, Promoters and Control Persons;
+               Compliance With Section 16(a) of the Exchange Act           36
+
+     Item 10.  Executive Compensation                                      36
+
+     Item 11.  Security Ownership of Certain Beneficial Owners and
+               Management                                                  36
+
+     Item 12.  Certain Relationships and Related Transactions              36
+
+Part IV:
+     Item 13.  Exhibits and Reports on Form 8-K                            37
+
+
+<PAGE>
+Part I
+
+                                       ITEM 1
+                               DESCRIPTION OF BUSINESS
+
+Basic Earth Science Systems, Inc. (Basic or the Company), was originally
+organized in July 1969 and became a public company in 1980.  The Company is
+principally engaged in the acquisition, exploitation, development, operation and
+production of crude oil and natural gas.  The Company's primary areas of
+operation are the Williston basin in North Dakota and Montana, south Texas and
+the D-J basin in Colorado.
+
+Business Development
+
+Since 1994, the Company's new management has undertaken a strategy which
+redirects the Company's existing capital into productive and economic oil and
+gas properties, focuses on increasing reserves through the acquisition and
+improvement of producing properties, and re-establishes banking relationships
+which may provide debt financing for these purposes.  Despite the fact that many
+companies are moving away from an acquisition strategy, management believes that
+opportunities still exist to increase reserves through the acquisition and
+improvement of producing properties.  In fact, given the Company's size, its
+shortage of external funding and its existing internal staff strengths, this may
+be one of the few strategies which the Company may be able to pursue
+successfully.  The Company's acquisition strategy is based largely on the exodus
+of major and large independent oil and gas companies from the United States to
+overseas areas.  Management believes this exodus or divestiture of producing
+properties is particularly intense in the Rocky Mountain region.
+
+In pursuing this plan, in its fiscal year ending March 31, 1995, the Company
+reported it successfully established a new banking relationship, the drilling
+and recompletion of four wells on its Antenna Federal Prospect, the sale of its
+office building and move of its offices from the suburbs to downtown Denver,
+Colorado, the sale of deep exploration rights in south Texas and the acquisition
+of approximately sixty properties in the Williston basin.  Management reported
+that these activities resulted in a 41% increase in the discounted present value
+of Basic's estimated proved reserves at year end from approximately $3.3 million
+to $4.7 million.
+
+As a result of these efforts, in the fiscal year ended March 31, 1996, oil and
+gas sales revenue increased 97% from approximately $1.4 million to approximately
+$2.8 million and Cash Flows from Operating Activities increased 484% from
+$134,000 to $782,000.  Production expense was higher than expected and net
+income was lower than expected due to the magnitude of unanticipated repair
+costs associated with equipment on recently acquired Williston basin properties.
+(See further discussion in Results of Operations, Expenses.)
+
+In October 1995, the Company reported it participated with an unrelated third
+party in the recompletion of the State #12-16, in Richland County, Montana.  The
+well was reported to have an initial potential of 147 barrels of oil, 16 barrels
+of water and 112 MCF of gas per day from the Bakken formation.  The well
+previously produced an average of 9 barrels of oil, 11 barrels of water and 4
+MCF of gas per day from the Madison formation.  Basic owns a fifty percent (50%)
+working interest in the well.  
+
+Following this success, the Company undertook one other recompletion attempt
+which was unsuccessful.  Further recompletion attempts were curtailed when the
+cash requirements created by these two efforts and the magnitude of
+unanticipated repair costs on Williston basin properties resulted in the
+Company's inability to satisfy the liquidity covenant in its Loan Agreement. 
+The Company reported this covenant violation to its bank and, upon request,
+received a waiver from the bank for this violation.  To rectify the situation,
+the Company drew on its line of credit to pay current liabilities as they became
+due.  As of December 31, 1995, the Company was able to attain a current ratio
+acceptable to its bank. 
+
+As a result of the inability to satisfy the liquidity covenant and with the
+onset of winter in the Williston basin, management curtailed recompletion
+activities and thereafter focused on equipment repairs, cash requirements and
+bank covenant compliance.  
+
+Contemplated Activities
+
+General  
+
+The Company has begun implementation of its strategy by virtue of the various
+activities described above.  Further implementation of its plan of operation is
+described herein.  However, the Company may alter or vary its plan of operation
+based upon changes in circumstances, unforeseen opportunities, inability to
+negotiate favorable acquisition or loan terms, lack of funding and other events
+which the Company is not able to anticipate.
+
+Repairs  
+
+In the fiscal year just ended, the Company has been adversely affected by the
+magnitude of unanticipated repair costs associated with equipment on recently
+acquired Williston basin properties.  Management expects these repair costs to
+continue, albeit in decreasing amounts.  Indeed, subsequent to year end, the
+Company has been required to replace the surface facilities associated with four
+wells in McCone County, Montana.  The Company cannot predict the magnitude of
+future repair activities nor the impact on future costs.  However, management
+has noted that where it has undertaken the repair and/or replacement of
+compromised equipment, operating and/or repair costs have been dramatically
+reduced.  As a result, it is management's belief that the effect of these
+repairs should, in the aggregate, become apparent in the current fiscal year.   
+However, there can be no assurances that other failures will occur in the future
+that would require significant repairs. 
+
+Development  
+
+The Company holds a number of properties that it believes may have the potential
+for increased cash flow and may have additional unproved reserves which could be
+exploited.  This exploitation may be realized by conventional and unconventional
+petroleum engineering techniques and field management practices.  Management
+expects to pursue these potential opportunities on a number of these properties
+in the upcoming fiscal year.  However, there can be no assurances that funds
+will be available to pursue such opportunities or that such efforts will be
+successful.
+
+Drilling  
+
+While drilling is no longer the major focus of the Company's strategy, Basic may
+participate in high quality development or exploratory prospects which
+management believes are capable of increasing reserves and cash flow with
+reasonable risk.
+
+In this regard, the Company has agreed to participate with unrelated third
+parties for a minority interest (10%) in the development of a small 3-D seismic
+prospect in south Texas.  The Company's initial commitment is expected to be
+$42,000.  Management believes the project provides exposure to "high tech"
+exploration techniques and, if successful, is capable of increasing reserves and
+cash flow with reasonable risk. 
+
+Divestitures
+
+The Company continues to hold a number of marginal, non-operated properties in
+several states.  Management intends to divest itself of a number of these
+properties in the current fiscal year.
+
+Segment Information and Major Customers
+
+Industry Segment  
+
+The Company is engaged in only one segment of the oil and gas industry: oil and
+gas exploration, production, operations and development.  The Company has no
+gathering, transportation, refining or marketing functions.
+
+Markets  
+
+The Company's oil and natural gas is sold to various purchasers in the
+geographic area of its properties.  Oil and natural gas liquids are hauled by
+truck from tanks at or near the wellhead, or collected by pipeline, for
+transportation to refineries.  Natural gas is collected by a gathering system
+and, after processing, is distributed through pipelines to end-users.   Basic is
+a small company and, as such, has no impact on the market for its goods and
+little control over the price received.  The market for, and the value of, oil
+and natural gas are dependent upon a number of factors including other sources
+of production, competitive fuels and proximity and capacity of pipelines or
+other means of transportation, all of which are beyond the control of Basic.  
+
+The Company believes that substantially all domestic oil which is produced can
+be readily sold at prevailing market prices.  The oil prices the Company
+receives are slightly lower than the benchmark U.S. crude spot price because of 
+adjustments for location and grade.  The price of domestic oil fluctuates due to
+supply and demand forces.  Since there is strong competition among purchasers,
+management does not believe it is dependent on any one purchaser or group of
+purchasers. 
+
+In the year ended March 31, 1996, Basic sold 71 percent of its oil and gas
+production to a total of three purchasers:  34 percent to Cenex, Inc., 19
+percent to Murphy Oil USA, Inc. and 18 percent to Norco Crude Gathering, Inc. 
+Sales to no other customer of Basic (or group of customers under common control)
+were equal to 10 percent or more of oil and gas sales.
+
+Substantially all of Basic's gas production is sold at prevailing wellhead gas
+prices, subject to additional charges customary to an area.  Basic does not own
+or operate any gas gathering or processing plant facilities nor does it possess
+sufficient volume on any pipeline to market its product to end-users.
+
+Competition
+
+The oil and gas industry is a highly competitive and speculative business.  The
+Company encounters strong competition from major and independent oil companies
+in all phases of its operations, particularly in the acquisition of economically
+desirable producing properties and drilling prospects. Competition is intense
+with respect to the acquisition of large producing properties, or large packages
+of producing properties. These multiple well packages are particularly
+competitive if they include partially developed properties or properties with
+natural gas attributes.  In this arena, the Company must compete with many
+companies having financial resources and technical staffs significantly larger
+than its own.  However, management believes that the competition for smaller
+properties, especially distressed properties, is less intense.  Because of the
+limited capital resources available to the Company, management has focused on
+these smaller and/or distressed properties in its acquisition efforts.
+
+Regulations
+
+General  
+
+The operations of the Company are affected in varying degrees by federal, state,
+regional and local laws and regulations, including, but not limited to, laws
+governing allowable rates of production, well spacing, air emissions, water
+discharges, reporting requirements, endangered species, marketing, prices, and
+taxes.  The Company is further affected by changes in such laws and by
+constantly changing administrative regulations. To the best of its knowledge,
+the Company is in compliance with all such regulations and is not aware of any
+claims which could have a material impact upon the Company's financial
+condition, results of operations, or cash flows. 
+
+Federal Taxation  
+
+During fiscal 1993, The Comprehensive National Energy Policy Act (Act) was
+signed into law.  The Act provides for various incentives and revenue-raising
+provisions.  Perhaps most significant to independent oil and gas companies are
+the provisions repealing certain intangible drilling cost and statutory
+depletion tax preferences for the purposes of calculating the alternative
+minimum tax.  While provisions are favorable to the oil and gas industry, Basic
+will not realize current benefits because of  its relatively high, non-cash
+depletion expense and a substantial net operating loss carryforward.
+
+Natural Gas Pricing  
+
+During fiscal 1992, the Federal Regulatory Commission (FERC) issued FERC Order
+636 and subsequent related orders (the Order) which are intended to ensure that
+pipelines provide transportation service that is equal in quality for all gas
+suppliers, whether the customer purchases gas from the pipeline or from a
+different supplier.  While the Company views this Order as favorable to natural
+gas producers, it is not suspected to have a material impact on Basic in that
+the vast majority of the Company's production is crude oil rather than natural
+gas.
+
+Environmental Matters  
+
+The Company is subject to various federal, state, regional and local laws and
+regulations relating to the discharge of materials into, and the protection of,
+the environment.  These laws and regulations, among other things, may impose
+liability on the owner or the lessee for the cost of pollution clean up
+resulting from operations, subject the owner or lessee to liability for
+pollution damages, require the suspension or cessation of operations in affected
+areas and impose restrictions on injection into subsurface aquifers that may
+contaminate ground water.  Although environmental requirements do have a
+substantial impact upon the energy industry, these requirements do not appear to
+affect Basic any differently than other companies in this industry who operate
+in a given geographic area. The Company is not aware of any environmental claims
+which could have a material impact upon the Company's financial condition,
+results of operations, or cash flows. 
+
+Such regulation has increased the resources required and costs associated with
+planning, designing, drilling, operating and both installing and abandoning oil
+and natural gas wells and facilities.  Indeed, within the fiscal year just
+ended, the Company has had to dedicate additional staff resources to the task of
+complying with developing, changing and expanding environmental regulations.  As
+yet, Basic has not had to hire any new employees to comply with these
+regulations. The Company will continue to make expenditures in its efforts to
+comply with these requirements, which are unavoidable business costs in the oil
+and gas industry.
+
+Although the Company is not fully insured against all environmental and other
+risks, it maintains insurance coverage which it believes is customary in the
+industry.
+
+Other
+
+In the year just ended, the Company was not involved in any research and
+development efforts, nor does management anticipate any such efforts in the
+coming fiscal year.  There are no significant patents, trademarks, licenses,
+franchises or concessions held by the Company.
+
+The oil and gas business is not generally seasonal in nature, although unusual
+weather extremes for extended periods may increase or decrease demand for oil
+and natural gas products temporarily.  Additionally, catastrophic events, such
+as hurricanes or other supply disruptions, may also temporarily increase the
+demand for oil and gas supplies.  Such events and their impacts may cause
+fluctuations in quarterly or even annual revenues and earnings.
+
+Basic's offices are located at 633 Seventeenth Street, Suite 1670, Denver,
+Colorado  80202 (telephone number 303-294-9525).  At the end of its fiscal year,
+the Company had ten employees: five at its main office in Denver, Colorado and
+five at its subsidiary's field office in Bruni, Texas, located forty-five miles
+east, southeast of Laredo, Texas.
+
+<PAGE>
+                                       ITEM 2
+                               DESCRIPTION OF PROPERTY
+
+Producing Properties: Locations and Impact 
+
+As of March 31, 1996, Basic owned an interest in 115 oil wells and 20 gas wells.
+Basic currently operates 82 wells in five states: North Dakota, Montana, 
+Colorado, Texas and Wyoming.  These operated wells contributed approximately
+75.7 percent of Basic's total liquid hydrocarbon sales and approximately 66.3
+percent of total gas sales in the year ended March 31, 1996.  The majority of
+Basic's operated liquid reserves are located in the Williston basin of North
+Dakota and Montana and in south Texas while the majority of Basic's operated gas
+reserves are located in Colorado's Denver-Julesburg basin.  Substantially all
+producing properties are encumbered and used to secure bank debt. 
+<TABLE>
+<CAPTION>
+                              Producing Property
+                              ------------------
+                    Gross Wells                   Net Wells
+                    -----------                   ---------
+                    Oil       Gas                 Oil       Gas
+                    ---       ---                 ---       ---
+<S>                 <C>       <C>                 <C>       <C>
+     Colorado       0         4                   0.00      2.40
+     Kansas         3         0                   0.53      0.00
+     Louisiana      4         9                   0.77      .38
+     Montana        18        0                   13.55     0.00
+     New Mexico     0         5                   0.00      0.98
+     North Dakota   50        0                   22.36     0.00
+     Oklahoma       2         1                   0.50      0.31
+     Texas          37        1                   28.99     0.23
+     Wyoming        1         0                   0.42      0.00
+                    -----     -----               -----     -----
+     Total          115       20                  67.12     4.30
+                    =====     =====               =====     =====
+</TABLE>
+Reserves 
+
+At March 31, 1996, the discounted present value of Basic's estimated proved
+reserves was approximately $4,725,000 reflecting a 41.2% increase over the
+previous year's reserves of $3,347,000.  This increase was primarily the result
+of an increase in the price of oil over the price at March 31, 1995 and the
+reserves added following the successful recompletion of the State #12-16 into
+the Bakken formation, in addition to the purchase of numerous small interests in
+various wells which Basic operates.  The analysis of Basic's oil and gas
+reserves and the financial analysis of the oil and gas properties are in Notes 1
+and 7 to the Consolidated Financial Statements.
+
+Leasehold Acreage 
+
+The Company leases the rights to explore for and produce oil and gas from
+mineral owners.  Leases (quantified in acres) expire after their primary term
+unless oil or gas production is established.  Prior to establishing production,
+leases are considered undeveloped.  After production is established, leases are
+considered developed or "held-by-production."  Basic's acreage is comprised of
+developed and undeveloped acreage.  Typically, undeveloped acreage is considered
+an indication of the Company's "raw material" and, therefore, its potential to
+replace reserves in the future.  Basic's strategy is the acquisition of
+producing properties.  Given this strategy, there is no need for Basic to amass
+undeveloped acreage blocks.  As a result, Basic has a minimal amount of
+undeveloped acreage relative to exploration companies.  Management believes this
+is a reflection of the Company's strategy rather than its ability to replace
+reserves.
+<TABLE>
+<CAPTION>
+                    Developed Acreage        Undeveloped Acreage
+                    -----------------        -------------------
+                    Gross     Net            Gross     Net
+                    -----     -----          -----     -----
+<S>                 <C>       <C>            <C>       <C>
+     Colorado       640       344            0         0
+     Kansas         800       130            0         0
+     Louisiana      3,349     417            9,478     280
+     Montana        2,720     2,029          2,600     826
+     New Mexico     800       156            0         0
+     North Dakota   8,812     4,579          5,037     2,413
+     Oklahoma       320       85             0         0
+     Texas          3,166     2,256          80        64
+     Wyoming        634       254            1,016     486
+                    -----     -----          -----     -----
+     Total          21,241    10,250         18,211    4,069
+                    ======    ======         ======    =====
+</TABLE>
+Office Building  
+
+During the fiscal year ended March 1995, Basic sold its 6,700 square foot office
+building which was its corporate headquarters.  Following this transaction,
+Basic subleased office space and moved its corporate headquarters to downtown
+Denver.  The building was encumbered by a mortgage.  (See Note 2 to the
+Consolidated Financial Statements.)
+
+Field Service Equipment  
+
+At March 31, 1996, the Company's subsidiary, Basic Petroleum Services, Inc.,
+owned a 60' trailer house/field office, a shallow pulling rig, a large winch
+truck, a skid-mounted cementing unit, four pickup trucks and six ancillary
+service vehicles.  None of the vehicles are encumbered.
+
+                                       ITEM 3
+                                  LEGAL PROCEEDINGS
+
+None.
+
+                                       ITEM 4
+                           SUBMISSION OF MATTERS TO A VOTE
+                                 OF SECURITY HOLDERS
+
+No matter was submitted to a vote of Basic's shareholders during the fiscal
+quarter ended March 31, 1996. 
+<PAGE>
+Part II
+                                       ITEM 5
+                              MARKET FOR COMMON EQUITY
+                           AND RELATED STOCKHOLDER MATTERS
+
+Basic's common stock is traded in the over-the-counter market.  The following
+table sets forth the range of high and low bid prices for each quarter of the
+last two fiscal years.  Prices are obtained from National Quotation Bureau, Inc.
+<TABLE>
+<CAPTION>
+                                   High      Low
+                                   -----     -----
+Year Ended March 31, 1995
+
+<S>                                <C>       <C>
+First Quarter                      $.0500    $.0200
+Second Quarter                     .0500     .0200
+Third Quarter                      .0300     .0200
+Fourth Quarter                     .0400     .0100
+
+Year Ended March 31, 1996
+
+First Quarter                      $.0938    $.0312
+Second Quarter                     .0800     .0312
+Third Quarter                      .0800     .0200
+Fourth Quarter                     .0312     .0200
+</TABLE>
+
+The bid price on June 17, 1996 was $0.03.  Transactions on the over-the-counter
+market reflect inter-dealer quotations, without adjustments for retail mark-ups,
+mark-downs or commissions to the broker-dealer and may not necessarily represent
+actual transactions.
+
+As of March 31, 1996, Basic had approximately 2,546 shareholders of record. 
+Management estimates there are over 5,000 beneficial owners.  Basic has never
+paid a cash dividend on its common stock.  Any future dividend on common stock
+will be at the discretion of the Board of Directors and will be dependent upon
+the Company's earnings, financial condition, and other factors.  The Company's
+Board of Directors presently has no plans to pay any dividends in the
+foreseeable future.
+
+                                       ITEM 6
+                        MANAGEMENT'S DISCUSSION AND ANALYSIS
+                                OR PLAN OF OPERATION
+
+Capital Structure and Liquidity
+
+Financing  
+
+The Company recognizes the importance of developing its capital resource base in
+order to pursue its objectives.  However, subsequent to its last public offering
+in 1980, debt financing has been the sole source of external funding.  
+
+Bank Debt
+
+On September 13, 1995, the Bank and the Company modified its previous loan
+agreement to create a "Declining Balance, Revolving Line of Credit" (DBRLOC) and
+increased the face amount of the promissory note to $2,500,000.  The Company is
+now able to draw on the DBRLOC up to $2,500,000 or the borrowing base, whichever
+is less.  At March 31, 1996 the Company's borrowing base was at $1,020,000, but
+declines monthly by the minimum required principal payment.  Under the DBRLOC
+and note, the Company is required to make monthly principal payments until May
+31, 1998.  Information concerning the Company's debt appears in Note 2 to the
+Consolidated Financial Statements.
+
+Hedging  
+
+Hedging techniques are traditionally used to limit exposure to price
+fluctuations.  Given the financial leverage created by its bank debt and the
+magnitude of the near-term principal payments, fluctuations in crude oil prices
+may have an impact on the Company's financial affairs.  Accordingly, during the
+past year the Company entered into futures and/or options contracts in order to
+hedge its exposure to any material fluctuations in crude oil prices.  The
+Company has not hedged any gas production.  Information concerning the Company's
+hedging activities appears in Note 1 to the Consolidated Financial Statements.
+
+Liquidity  
+
+The Company's current ratio increased from .7:1 at March 31, 1995 (1995) to
+0.9:1 at March 31, 1996 (1996).  A specific Bank covenant requires the
+maintenance of a current ratio of 1:1, after adjustment by the removal of the
+current portion of long-term debt.  At March 31, 1996, the Company was in
+compliance with all Bank covenants and the Company's current ratio was 1:1 as
+calculated per the provisions of the covenants. 
+
+During the fiscal year just ended, current assets decreased 4% from $720,000 at
+1995 to $717,000 at 1996 while current liabilities decreased 16% from $986,000
+at 1995 to $825,000 at 1996.  Cash increased $9,000 (11%) from $83,000 at 1995
+to $92,000 at 1996.  
+
+Liquidity Outlook  
+
+The Company's primary source of funding is the net cash flow from the sale of
+its oil and gas production.  The profitability and cash flow generated by the
+Company's operations in any particular accounting period will be directly
+related to: (a) the volume of oil and gas produced and then sold,  (b) the
+average realized prices for oil and gas sold, and (c) lifting costs.  Assuming
+that oil prices do not decline significantly from current levels, management
+believes the cash generated from operations will enable the Company to meet its
+existing obligations as they become due in fiscal year 1997.  If the Company is
+able to hedge future production, especially through March 1997, then even if oil
+prices decline significantly from current levels, management believes the cash
+generated from operations and hedging activities will enable the Company to meet
+its existing obligations as they become due in fiscal year 1997.
+
+Impact of Inflation  
+
+Inflation has not had a great impact on the Company in recent years because of
+the relatively low rates of inflation in the United States.
+
+Capital Resources; Requirements and Alternatives
+
+Overview  
+
+In addition to its routine and predictable production-related costs, its general
+and administrative expenses and its debt repayment requirements, the Company
+requires capital to fund the development and enhancement of recently acquired
+properties and the capital to fund the acquisition of additional properties. 
+The Company intends to fund its immediate needs for these efforts with the use
+of its internally-generated cash flow from operations, industry and/or
+investment partners, and new financing, all of which may or may not be generated
+or obtained.
+
+Other Commitments    
+
+As of June 17, 1996, the Company has no obligations to purchase or sell any of
+its oil and gas properties nor any other commitments beyond its hedging
+activities and the 3-D seismic shoot in which it has agreed to participate (See
+Item 1, Contemplated Activities, Drilling).
+
+New Debt/Equity Financing  
+
+The Company's balance sheet and borrowing base have little capacity for
+additional debt.  Unless the Company is successful in exploiting undeveloped
+potential from recently acquired properties, and thus add to the Company's
+borrowing base, management does not believe it can successfully secure
+additional bank debt without securing additional equity capital.
+
+Given Basic's size and the current price of the Company's stock, management
+believes additional equity would be difficult and expensive to obtain.  At the
+same time, management is acutely aware of the need for additional equity
+financing in order to fund future growth.  While addressing the care and
+concerns of existing shareholders, management is in the initial stages of
+exploring methods of developing a stronger capital base.  However, it must be
+stressed, there are no assurances that equity financing is available or can be
+attained by the Company.  Furthermore, pursuit of equity financing may alter or
+vary due to changes in circumstances, unforeseen costs or difficulties,
+unforeseen opportunities and other events which the Company is not able to
+anticipate.
+
+Results of Operations
+
+1996 Compared with 1995
+
+Overview  
+
+Operations in fiscal year ended March 31, 1996 (1996) resulted in $6,000 of net
+income compared to net income of $90,000 for fiscal year ended March 31, 1995
+(1995).
+
+Revenues  
+
+Oil and gas sales revenue increased $1,384,000 (97%) from 1995.  Of this amount,
+$1,319,000 (95%) was attributable to increases in oil production and $23,000
+(2%) was attributable to strengthening oil prices.  Furthermore, $68,000 (5%)
+was attributable to gas volume increases while -$26,000 (-2%) was attributable
+to weakening gas prices.
+
+Volumes and Prices  
+
+Total liquid production increased 117%, from 69,000 barrels in 1995 to 150,000
+barrels in 1996, while the average price per barrel increased slightly from
+$16.26 in 1995 to $16.43 in 1996.  Total gas production increased 22%, from
+175,000 MCF in 1995 to 214,000 MCF in 1996, while the price per MCF dropped 7%,
+from $1.75 in 1995 to $1.63 in 1996.  The increase in liquid production was due
+to the Williston basin acquisition completed near the end of fiscal 1995.  The
+increase in gas production was primarily due to development drilling and
+recompletion on the Company's Antenna Federal prospect in Weld County, Colorado.
+Both liquid and gas production increases were partially offset by normal
+production declines.
+
+Expenses  
+
+Oil and gas production expense and production taxes increased $1,164,000 (137%)
+in 1996 from 1995 primarily as a result of the Williston basin acquisition
+completed near the end of fiscal 1995.  The overall lifting cost per equivalent
+barrel increased 25% from $8.67 in 1995 to $10.85 in 1996.   This
+disproportionate increase in lifting cost is due to a higher percentage of oil
+versus gas production following the Williston basin acquisition and high initial
+decline rates associated with newly drilled and/or recompleted gas wells. 
+Compounding this problem are the previously disclosed, unanticipated repair
+costs associated with equipmnt on recently acquired Williston basin properties. 
+These repair costs have two components.  First, the costs due to the elevated
+level of recurring, but seemingly routine, equipment failures and associated
+attempts to repair (keep in service) compromised equipment (a cost which is
+expensed).  Second, once identified and determined to be economically justified,
+the costs to replace and/or refurbish surface and subsurface equipment (a cost
+which is capitalized).  The Company expects these repair costs to continue,
+albeit in decreasing amounts, as the Company discovers, repairs and replaces
+compromised equipment and/or abandons or sells wells where replacement of such
+equipment cannot be economically justified.  While the impact of these costs is
+evident on current oil and gas production expense, the Company cannot predict
+the magnitude of future repair activities nor the impact on future costs.
+
+Depreciation and depletion expense increased $193,000 (55%) in 1996 from 1995.
+This increase was primarily due to increases in produced volumes resulting from
+the Williston basin acquisition mentioned above.  The effect of the increase in
+produced volumes was partially offset by a decrease in the depletion expense per
+equivalent barrel.  In this regard, the depletion expense per equivalent barrel
+decreased 16% from $3.41 in 1995 to $2.87 in 1996, primarily because of the
+increase in reserve volumes.  However, the depletion rate, as a percent of the
+full cost pool, increased from 11% in 1995 to 17% in 1996.
+
+Net general and administrative expense decreased $88,000 (37%) in 1996 from
+1995.  This decrease is primarily attributable to an increase in the number of
+Company-operated properties, and associated administrative overhead fees
+following the Williston basin acquisition mentioned above.  Administrative
+overhead fees are charged to various properties which the Company operates and
+serve to reduce gross general and administrative expenses.  Such charges are
+made in recognition of the cost of office activities incurred in the
+administration of Company operated properties. Also contributing to the overall
+decrease in general and administrative expense were decreases in building
+expenses, bad debt expense and outside professional fees which were partially
+offset by increases in salaries and office expenses.  As a result of the overall
+decrease, and in conjunction with increased production volumes, general and
+administrative expense per equivalent barrel decreased from $2.43 in 1995 to
+$.81 in 1996.
+
+Other Income/Expense  
+
+Other Income/Expense decreased $198,000 (192%), from a positive $103,000 in 1995
+to a negative $95,000 in 1996.  This decrease was the result of certain
+transactions which occurred in 1995 which were not repeated in 1996.  They
+include sales proceeds being netted against receivables, writing-off dated and
+disputed payables and partially offsetting receivables, and proceeds from the
+sale of the Company's office building.  Additionally, interest expense on the
+Company's bank debt increased significantly in 1996 from 1995.  See Note 2 to
+the Consolidated Financial Statements for further discussion of bank debt.
+
+Liquids and Natural Gas Production, Sales Price and Production Costs
+
+Liquids and natural gas production, average sales prices and average production
+costs per equivalent barrel of production are shown in the following table for
+each of the three prior years in the period ended March 31.
+<TABLE>
+<CAPTION>
+                                   1996      1995      1994
+                                   -----     -----     -----
+<S>                                <C>       <C>       <C>
+     Production:
+          Oil (barrels)            150,000   69,000    67,000
+          Gas (mcf)                214,000   175,000   109,000
+     Revenue: (in thousands)
+          Oil                      $2,464    $1,122    $1,034
+          Gas                      349       307       207
+                                   ------    ------    ------
+          Total                    2,813     1,429     1,241
+     Total production expense
+          (in thousands)(1)        2,015     851       808
+                                   ------    ------    ------
+     Gross profit (in thousands)   798       578       433
+                                   ======    ======    ======
+     Average sales price:
+          Oil (per barrel)         $16.43    $16.26    $15.33
+          Gas (per mcf)            1.63      1.75      1.90
+     Average production expense(2) 10.85     8.67      9.51
+     Average gross profit(3)       4.30      5.89      5.08
+     --------------------------
+     (1)  Operating costs, including production tax
+     (2)  Operating costs, including production tax, per equivalent barrel (6
+          mcf of gas is equivalent to 1 barrel of oil)
+     (3)  Gross profit per equivalent barrel (6 mcf of gas is equivalent to 1
+          barrel of oil)
+</TABLE>
+<PAGE>
+                                       ITEM 7
+                                FINANCIAL STATEMENTS
+
+
+                      REPORT OF INDEPENDENT PUBLIC ACCOUNTANTS
+
+
+To Basic Earth Science Systems, Inc.:
+
+We have audited the accompanying consolidated balance sheets of BASIC EARTH
+SCIENCE SYSTEMS, INC. (a Delaware corporation) and subsidiaries, as of March 31,
+1996 and 1995, and the related consolidated statements of operations, changes in
+shareholders' equity and cash flows for each of the three years in the period
+ended March 31, 1996.
+
+These financial statements are the responsibility of the Company's management. 
+Our responsibility is to express an opinion on these financial statements based
+on our audits.
+
+We conducted our audits in accordance with generally accepted auditing
+standards.  Those standards require that we plan and perform the audit to obtain
+reasonable assurance about whether the financial statements are free of material
+misstatement.  An audit includes examining, on a test basis, evidence supporting
+the amounts and disclosures in the financial statements.  An audit also includes
+assessing the accounting principles used and significant estimates made by
+management, as well as evaluating the overall financial statement presentation. 
+We believe that our audit provides a reasonable basis for our opinion.
+
+In our opinion, the financial statements referred to above present fairly, in
+all material respects, the financial position of Basic Earth Science Systems,
+Inc., and subsidiaries as of March 31, 1996 and 1995, and the results of their
+operations and their cash flows for each of the three years in the period ended
+March 31, 1996, in conformity with generally accepted accounting principles.
+
+
+
+ARTHUR ANDERSEN LLP
+
+Denver, Colorado,
+  June 7, 1996.
+
+<PAGE>
+<TABLE>
+                          Basic Earth Science Systems, Inc.
+                             Consolidated Balance Sheets
+                                     Page 1 of 2
+
+<CAPTION>
+                                   Assets
+                                   ------
+                                                  March 31
+                                                  --------
+                                        1996                1995
+                                        --------            --------
+<S>                                     <C>                 <C>
+CURRENT ASSETS:
+Cash and cash equivalents               $92,000             $83,000
+Accounts receivable:
+     Oil and gas sales                  322,000             292,000
+     Joint interest and other, net      155,000             299,000
+Other current assets                    148,000             46,000
+                                        --------            --------
+     Total current assets               717,000             720,000
+                                        --------            --------
+PROPERTY AND EQUIPMENT:
+Oil and gas property (full cost method) 31,844,000          31,418,000
+Furniture, fixtures and equipment       432,000             435,000
+                                        ----------          ----------
+                                        32,276,000          31,853,000
+Accumulated depreciation                (356,000)           (358,000)
+Accumulated depletion - FCP 
+     (includes cumulative ceiling
+     limitation charges of $14,091,000
+     in 1996 and 1995)                  (29,295,000)        (28,763,000)
+                                        ------------        ------------
+Net property and equipment              2,625,000           2,732,000
+Other noncurrent assets                 77,000              56,000
+                                        ------------        ------------
+     Total noncurrent assets            2,702,000           2,788,000
+                                        ------------        ------------
+TOTAL ASSETS                            $3,419,000          $3,508,000
+                                        ============        ============
+</TABLE>
+                               See accompanying notes.
+<PAGE>
+<TABLE>
+                          Basic Earth Science Systems, Inc.
+                             Consolidated Balance Sheets
+                                     Page 2 of 2
+
+
+<CAPTION>
+                    Liabilities and Shareholders' Equity
+                    ------------------------------------
+                                                  March 31
+                                                  --------
+                                        1996                1995
+                                        ----------          ----------
+<S>                                     <C>                 <C>
+CURRENT LIABILITIES:
+Accounts payable & accrued liabilities  $699,000            $472,000
+Current portion of long-term debt       126,000             514,000
+                                        ----------          ----------
+     Total current liabilities          825,000             986,000
+                                        ----------          ----------
+LONG-TERM DEBT                          692,000             626,000
+                                        ----------          ----------
+SHAREHOLDERS' EQUITY:
+Preferred stock, $.10 par value
+     at March 31, 1995; $.001 par
+     value at March 31, 1996
+     Authorized - 3,000,000 shares
+     Issued - 0 shares                  ---                 ---
+Common stock, $.10 par value at
+     March 31, 1995; $.001 par
+     value at March 31, 1996
+     Authorized - 32,000,000 shares
+     Issued - 16,879,752 shares in
+     1996 and 1995                      17,000              1,688,000
+Additional paid-in capital              22,692,000          21,022,000 
+Employee Stock Ownership Plan 
+     contribution                       ---                 13,000
+Treasury stock (299,265 shares at
+     March 31, 1996; 572,739 shares
+     at March 31, 1995) at cost         (15,000)            (29,000)
+Accumulated deficit                     (20,792,000)        (20,798,000)
+                                        ------------        ------------
+TOTAL SHAREHOLDERS' EQUITY              1,902,000           1,896,000
+                                        ------------        ------------
+TOTAL LIABILITIES AND
+SHAREHOLDERS' EQUITY                    $3,419,000          $3,508,000
+                                        ============        ============
+</TABLE>
+                               See accompanying notes.
+
+<PAGE>
+<TABLE>
+                          Basic Earth Science Systems, Inc.
+                        Consolidated Statements of Operations
+<CAPTION>
+                                        Year Ended March 31
+                                        -------------------
+                              1996           1995           1994
+                              ----------     ----------     ----------
+<S>                           <C>            <C>            <C>
+REVENUE:
+Oil and gas sales             $2,813,000     $1,429,000     $1,241,000
+Well service revenue          13,000         7,000          ---
+                              ----------     ----------     ----------
+Total revenue                 2,826,000      1,436,000      1,241,000
+                              ----------     ----------     ----------
+EXPENSES:
+Oil and gas production        1,779,000      762,000        726,000
+Production tax                236,000        89,000         82,000
+Well servicing expenses       12,000         5,000          ---
+Depreciation, depletion and
+amortization                  547,000        354,000        297,000
+General and administrative    151,000        239,000        277,000
+                              ---------      ---------      ---------
+Total expenses                2,725,000      1,449,000      1,382,000
+                              ---------      ---------      ---------
+INCOME (LOSS) FROM OPERATIONS 101,000        (13,000)       (141,000)
+                              ---------      ---------      ---------
+OTHER INCOME (EXPENSE):
+Interest and other income     9,000          107,000        11,000
+Gain on sale of office 
+     building                 ---            38,000         ---
+Interest expense              (104,000)      (42,000)       (44,000)
+                              ---------      --------       --------
+Total other income (expense)  (95,000)       103,000        (33,000)
+                              ---------      --------       --------
+NET INCOME (LOSS)             $6,000         $90,000        $(174,000)
+                              =========      ========       ==========
+WEIGHTED AVERAGE NUMBER OF
+SHARES OUTSTANDING            16,478,869     16,593,614     16,739,777
+                              ==========     ==========     ==========
+NET INCOME (LOSS) PER SHARE   $---           $.005          $(.010)
+                              ==========     ==========     ==========
+</TABLE>
+                               See accompanying notes.
+<PAGE>
+<TABLE>
+                          Basic Earth Science Systems, Inc.
+                        Consolidated Statements of Cash Flows
+<CAPTION>
+                                        Year Ended March 31
+                                        -------------------
+                              1996           1995           1994
+                              ----------     ----------     ----------
+<S>                           <C>            <C>            <C>
+CASH FLOWS FROM OPERATING
+ACTIVITIES:
+Net income (loss)             $6,000         $90,000        $(174,000)
+Adjustments to reconcile
+     net income (loss) to
+     net cash provided by
+     operating activities:
+     Depreciation, depletion
+          and amortization    547,000        354,000        297,000
+     Bad debt expense         ---            ---            60,000
+     Employee Stock Ownership
+          Plan contribution   ---            7,000          6,000
+     Change in current assets
+     and current liabilities:
+     Accounts receivable, net 114,000        (376,000)      27,000
+     Other current assets     (102,000)      (2,000)        (5,000)
+     Accounts payable and
+     accrued liabilities      227,000        142,000        (10,000)
+     Changes in other assets  (21,000)       (56,000)       ---
+     Changes in other
+     liabilities              (3,000)        ---            ---
+     (Gain)/loss on sale of
+     assets                   1,000          (38,000)       ---
+     Other                    13,000         13,000         6,000
+                              ----------     ----------     ----------
+     Net cash provided by
+     operating activities     782,000        134,000        207,000
+                              ----------     ----------     ----------
+CASH FLOWS FROM INVESTING
+ACTIVITIES:
+Capital expenditures:
+     Oil and gas property     (455,000)      (1,708,000)    (76,000)
+     Support equipment        (28,000)       (44,000)       (18,000)
+Proceeds from sale of oil
+     and gas property         29,000         186,000        ---
+Proceeds from sale of
+     building                 ---            382,000        ---
+                              ----------     ----------     ----------
+     Net cash used in
+     investing activities     (454,000)      (1,184,000)    (94,000)
+                              ----------     ----------     ----------
+CASH FLOWS FROM FINANCING
+ACTIVITIES:
+Long-term debt payments       (564,000)      (419,000)      (7,000)
+Proceeds from borrowing       245,000        1,190,000      ---
+Purchase of treasury stock    ---            (16,000)       (48,000)
+                              ----------     ----------     ----------
+     Net cash provided by
+     (used in) financing
+     activities               (319,000)      755,000        (55,000)
+                              ----------     ----------     ----------
+CASH AND CASH EQUIVALENTS:
+Increase (decrease) in cash
+     and cash equivalents     9,000          (295,000)      58,000
+Balance at beginning of year  83,000         378,000        320,000
+                              ----------     ----------     ----------
+Balance at end of year        $92,000        $83,000        $378,000
+                              ----------     ----------     ----------
+SUPPLEMENTAL DISCLOSURE OF
+CASH FLOW INFORMATION:
+Cash paid for interest        $104,000       $42,000        $44,000
+</TABLE>
+                               See accompanying notes.
+<PAGE>
+<TABLE>
+                          Basic Earth Science Systems, Inc.
+             Consolidated Statements of Changes in Shareholders' Equity
+                      Years ended March 31, 1996, 1995 and 1994
+<CAPTION>
+                                   Common stock             Additional
+                                   ------------             paid-in
+                              Shares         Par value      capital
+                              ------         ---------      -------
+<S>                           <C>            <C>            <C>
+Balance, April 1, 1993        16,879,752     $1,688,000     $21,025,000
+Purchase of treasury stock    ---            ---            ---
+Issuance of treasury stock for
+     Employee Stock Ownership
+     Plan contribution        ---            ---            (3,000)
+Employee Stock Ownership
+     Plan contribution
+     (132,534 shares)         ---            ---            ---
+Net Loss                      ---            ---            ---
+                              ----------     ----------     ----------
+Balance, March 31, 1994       16,879,752     1,688,000      21,022,000
+Purchase of treasury stock    ---            ---            ---
+Employee Stock Ownership
+     Plan contribution
+     (140,940 shares)         ---            ---            ---
+Net Income                    ---            ---            ---
+                              ----------     ----------     ----------
+Balance, March 31, 1995       16,879,752     1,688,000      21,022,000
+Issuance of treasury stock for
+     Employee Stock Ownership
+     Plan contribution        ---            ---            (1,000)
+Change in par value           ---            (1,671,000)    1,671,000
+Net Income                    ---            ---            ---
+                              ----------     ----------     ----------
+Balance, March 31, 1996       16,879,752     $17,000        $22,692,000
+                              ==========     ==========     ==========
+<CAPTION>
+                         Employee Stock      Treasury stock
+                         Ownership Plan      --------------      Accumulated
+                         contribution        Shares    Amount    deficit
+                         --------------      ------    ------    -----------
+<S>                      <C>                 <C>       <C>       <C>
+Balance, April 1, 1993   $32,000             ---       ---       $(20,714,000)
+Purchase of treasury
+     stock               ---                 (468,004) $(48,000) ---
+Issuance of treasury stock
+     for Employee Stock
+     Ownership Plan
+     contribution        (32,000)            324,757   35,000    ---
+Employee Stock Ownership
+     Plan contribution
+     (132,534 shares)    6,000               ---       ---       ---
+Net Loss                 ---                 ---       ---       (174,000)
+                         ----------          --------  --------  ----------
+Balance, March 31, 1994  6,000               (143,247) (13,000)  (20,888,000)
+Purchase of treasury
+     stock               ---                 (429,492) (16,000)  ---
+Employee Stock Ownership
+     Plan constribution
+     (140,940 shares)    7,000               ---       ---       ---
+Net Income               ---                 ---       ---       90,000
+                         ----------          --------  --------  ----------
+Balance, March 31, 1995  13,000              (572,739) (29,000)  (20,798,000)
+Issuance of treasury stock
+     for Employee Stock
+     Ownership Plan
+     contribution        (13,000)            273,374   14,000    ---
+Change in par value      ---                 ---       ---       ---
+Net Income               ---                 ---       ---       6,000
+                         ----------          --------  --------  ----------
+Balance, March 31, 1996  $0                  (299,265) $(15,000) $(20,792,000)
+                         ==========          ========  ========  ==========
+</TABLE>
+                               See accompanying notes.
+<PAGE>
+
+                        Basic Earth Science Systems, Inc.
+                                Table of Contents
+                    Notes to Consolidated Financial Statements
+
+                                  March 31, 1996
+
+                                                                      Page No.
+                                                                      --------
+
+1.   Summary of Significant Accounting Policies                            24
+
+2.   Debt                                                                  27
+
+3.   Shareholders' Equity                                                  29
+
+4.   Major Customers                                                       29
+
+5.   Income Tax                                                            30
+
+6.   Related Party Transactions                                            31
+
+7.   Unaudited Oil and Gas Reserve Information                             31
+
+<PAGE>
+                        Basic Earth Science Systems, Inc.
+                    Notes to Consolidated Financial Statements
+
+1.   Summary of Significant Accounting Policies
+
+Principles of Consolidation   
+
+The consolidated financial statements include the accounts of Basic Earth
+Science Systems, Inc. (Basic or the Company) and its wholly-owned subsidiaries. 
+All significant intercompany accounts and transactions have been eliminated. 
+
+Oil and Gas Producing Activity   
+
+Basic follows the full cost method of accounting for its oil and gas activity. 
+Accordingly, all costs associated with the acquisition, exploration and
+development of oil and gas property are capitalized.  Should net oil and gas
+property cost exceed an amount equal to the present value (using a 10% discount
+factor) of estimated future net revenue from proved reserves, considering
+related income tax  effects, as prescribed by the Securities and Exchange
+Commission's ceiling limitation, the excess is charged to expense during the
+period in which the excess occurs.  Basic did not incur a ceiling limitation
+charge during the years ended March 31, 1996, 1995 or 1994. 
+
+If a significant portion of Basic's oil and gas reserves are sold, a gain or
+loss would be recognized; otherwise, proceeds from sales are credited to oil and
+gas property cost.  In the years ended March 31, 1996, 1995 and 1994, Basic 
+credited oil and gas property cost for $29,000, $186,000 and $1,000,
+respectively, as a result of the sale of its interest in certain oil and gas
+property.
+
+All of Basic's property is located in the United States.
+
+All capitalized cost is depleted on a composite units-of-production method based
+on estimated proved reserves attributable to the oil and gas property owned by
+Basic.  Depletion per equivalent barrel of production was $2.87, $3.41 and $3.08
+for the years ended March 31, 1996, 1995 and 1994, respectively.
+
+Use of Estimates  
+
+The preparation of financial statements in conformity with generally accepted
+accounting principles requires management to make estimates and assumptions that
+affect the reported amounts of assets and liabilities at the date of the
+financial statements and the reported amounts of revenues and expenses during
+the reporting period.  Actual results could differ from those estimates.  There
+are many factors, including global events, that may influence the production,
+processing, marketing, and valuation of crude oil and natural gas.  A reduction
+in the valuation of oil and gas properties resulting from declining prices or
+production could adversely impact depletion rates and ceiling test limitations.
+
+Support Equipment and Other   
+
+When property and equipment other than oil and gas property is retired,
+abandoned or sold, the related cost and accumulated depreciation are removed
+from the accounts and any gain or loss is reflected in operations.  Depreciation
+of support equipment and other property is computed using various methods over
+periods ranging from three to thirty years.
+
+Earnings (Loss) Per Share   
+
+Earnings (loss) per share is calculated based on the weighted average number of
+shares outstanding for each period. The effect of the assumed exercise of any
+outstanding stock options was anti-dilutive and, therefore, was excluded from
+the computations.  The weighted average number of shares for the years ended
+March 31, 1996, 1995 and 1994 was 16,478,869, 16,593,614 and 16,739,777,
+respectively.
+
+Reclassifications  
+
+Certain prior year amounts have been reclassified to conform to current year
+presentation.  
+
+Cash and Cash Equivalents   
+
+For purposes of the Consolidated Balance Sheets and Statements of Cash Flows,
+Basic considers all highly liquid investments with a maturity of ninety days or
+less when purchased to be cash equivalents.  The carrying amount of cash
+equivalents approximates fair value because of the short maturity of those
+instruments.
+
+Hedging  
+
+Hedging techniques are traditionally used to limit exposure to price
+fluctuations.  Given the financial leverage created by its bank debt and the
+magnitude of the near-term principal payments, fluctuations in crude oil prices
+may have an impact on the Company's financial affairs.  Accordingly, during the
+past year the Company entered into futures and/or options contracts in order to
+hedge its exposure to any material fluctuations in crude oil prices.  The
+Company has not hedged any gas production.  Gains or losses attributable to such
+contracts that hedge specific future deliveries are deferred and recognized in
+income when the corresponding physical sale is recorded.
+
+Under futures contracts, the Company receives or makes payments to the New York
+Mercantile Exchange (NYMEX) via a trading account based on the differential
+between the price at which any given contract was sold and the price at which it
+was bought back (the closing price).  Under put option contracts, the Company
+would receive payments from NYMEX if the closing price is greater than the floor
+price at which the put option was purchased.  When a put option contract is
+combined with the sale of a call option contract, a "collar" or a floor price
+and a ceiling price is created.  In this situation the Company would receive
+payments from NYMEX if the closing price is greater than the floor price at
+which the put option was purchased or would make payments to NYMEX if the
+closing price is greater than the ceiling price at which the call option was
+sold.  If the closing price was between the floor and the ceiling both options
+would expire unexercised and the Company would benefit by the amount the closing
+price exceeded the floor price, less the cost of the option.  When a futures
+contract is combined with the purchase of a call option contract, a "synthetic
+put" is created.  In this situation, the futures contract would cause the
+Company to receive or make payments to NYMEX as described above.  However, any
+payment would be offset by, and to the extent, the closing price is greater than
+the price at which the call option was purchased.  
+
+At March 31, 1996, the Company had forty-two open futures and/or options
+contracts to hedge future deliveries with maturities ranging from May 1996
+through January 1997 at prices ranging from $18.08 to $21.47 per barrel.
+
+Cash flows from hedging activities are classified as operating activities in the
+Statement of Cash Flows.  The Company realized a $38,350 loss on its hedging
+activities in 1996.  These losses were offset by receiving higher prices for
+physical crude oil sales in 1996.  No hedging activities were undertaken in
+1995.  The fair market value of the open futures and options contracts at March
+31, 1996, using commodity prices in effect at March 31, 1996, would, if such
+prices were to remain constant in the future, create an approximate loss of
+$45,930.  If such a loss, or a portion thereof, were to occur, such loss
+theoretically would be offset by receiving higher prices for physical crude oil
+sales. 
+
+For each futures contract and each call option contract that is sold, the
+Company is required to furnish an initial cash margin.  In addition, to the
+extent that the price of oil moves above the price each futures or call option
+contract was sold, the Company is required to furnish an additional cash margin,
+an event known as a margin call.  The purchase of put or call options does not
+require a cash margin to be maintained.  If a margin call is not funded, NYMEX
+will close the contracts and any unrealized loss would become a realized loss. 
+The Company has executed a tri-party agreement to fund the initial margin
+requirement and any margin calls up to $900,000 (See further information under
+Debt).  Because of the volatility of oil prices, it is possible for this credit
+limit to be exceeded.  One example of how this credit limit could be exceeded
+would occur if the Company were to execute one hundred (100) contracts and the
+price of oil were to increase nine dollars per barrel ($9/ Bbl) in each future
+month in which the Company had a contract (other variations of this example
+could result in credit limit exposure).  By loan covenant and Board of Director
+direction, the Company is precluded from exceeding 75% of the average monthly
+production demonstrated over the three preceding months.  At March 31, 1996,
+approximately $150,000 of the $900,000 credit limit was being utilized.  During
+the past year, the maximum credit utilization never exceeded $150,000.
+
+The Company is not exposed to credit risk in the event of nonperformance by a
+counterparty in that such risk is borne by NYMEX.  Since each trader in each
+future contract and put or call option sold is required to furnish an initial
+cash margin and is subject to margin calls, nonperformance by NYMEX is
+considered unlikely.
+
+Continuation of hedging activities, at this level of coverage or at higher or
+lower levels of coverage, may vary or change, due to change of circumstances,
+unforeseen opportunities, inability to fund margin requirements, lending
+institution requirements and other events which the Company is not able to
+anticipate.
+
+2.   Debt
+
+Outstanding debt of Basic as of March 31, 1996 and 1995 is as follows:
+<TABLE>
+<CAPTION>
+                                        March 31
+                                   -----------------------
+                                   1996           1995
+                                   --------       --------
+<S>                                <C>            <C>
+     Bank note under loan
+          agreement (see below)    $801,000       $1,120,000
+     Other long-term liabilities   17,000         20,000
+                                   --------       ----------
+                                   818,000        1,140,000
+     Less current portion          126,000        514,000
+                                   --------       ----------
+     Total long-term debt          $692,000       $626,000
+                                   ========       ==========
+</TABLE>
+
+Bank Debt  
+
+On August 1, 1994, the Company entered into a loan agreement with Norwest Bank
+Colorado N.A. (the Bank) whereby the Company borrowed $500,000 and executed a
+$500,000 promissory note payable to the Bank.
+
+On March 30, 1995, the Bank and the Company modified this loan agreement to
+provide the Company with an additional $690,000 and increased the face amount of
+the promissory note to $1,120,000.  The loan was modified to accommodate the
+acquisition of approximately sixty properties in the Williston basin of North
+Dakota and Montana.
+
+On September 13, 1995, the Bank and the Company modified its previous loan
+agreement to create a "Declining Balance, Revolving Line of Credit" (DBRLOC) and
+increased the face amount of the promissory note to $2,500,000.  The Company is
+now able to draw on the DBRLOC up to $2,500,000 or the borrowing base, whichever
+is less.  At March 31, 1996 the Company's borrowing base was at $1,020,000, but
+declines monthly by the minimum required principal payment.  Under the DBRLOC
+and note, the Company is required to make monthly principal payments until May
+31, 1998 in the following minimum amounts:
+
+     April 30, 1996 through December 31, 1996     $30,000 per month
+     January 31, 1997 through December 31, 1997   $25,000 per month
+     January 31, 1998 through April 30, 1998      $20,000 per month
+     May 31, 1998                                 Balance of remaining
+                                                  principal
+
+The Company's borrowing base will be reviewed biannually and may be adjusted up
+or down due to reevaluation of previously collateralized properties, addition of
+newly acquired properties, increased reserves created by enhancements or
+exploitation and rising or declining oil or gas prices.  At May 31, 1998, unless
+the DBRLOC is again modified or the borrowing base is adjusted, the outstanding
+principal balance potentially could be as high as $151,000.
+
+In addition to the above described principal payments, monthly interest payments
+are due on the unpaid principal balance at the Bank's fluctuating prime lending
+rate plus two percent (2%).  In addition, quarterly, the Company is required to
+pay a 1/2% commitment fee on the unused portion of the adjusted and declined
+borrowing base.  As of March 31, 1996, the Company's effective annual interest
+rate was 10.25%.
+
+As a result of the foregoing loan modification, the Company now has the ability
+to draw additional funds from the DBRLOC up to the then effective borrowing
+base.  In addition, the Company may reduce the loan balance ahead of schedule
+and be able to re-borrow up to the declined and/or adjusted borrowing base. 
+Because of this flexibility, the current portion of long term debt has been
+reduced by the difference between the borrowing base ($1,020,000) and the
+outstanding debt ($801,000) or $219,000.   Had this adjustment not been made,
+the current portion of long term debt would be $345,000. 
+
+In addition to the above described DBRLOC, on September 13, 1995, the Bank and
+the Company executed the collateral documents necessary to create a second
+Revolving Line of Credit (RLOC) and make an additional $900,000 available for
+the Company's hedging activities.  The terms of the RLOC were finalized in
+December 1995 and funds under this second facility were made available.  In
+addition to other requirements and restrictions, the funds from the RLOC can
+only be used to fund margin requirements associated with the Company's hedging
+activities.  At March 31, 1996 the Company had drawn approximately $150,000 from
+this facility to fund the margin requirements associated with the hedging
+activities described above under Note 1. 
+
+Under the modified loan agreement, the Company must maintain certain covenants
+with regard to various financial ratios, net worth, liens and other criteria. 
+Failure to maintain any covenant, after a curative period, creates a default
+under the loan agreement and requires the repayment of the then-existing
+principal balance.  In addition to the foregoing, a specific event of default
+occurs with the death, resignation or replacement of greater than fifty percent
+(50%) of the current board of directors.  At March 31, 1996, the Company was in
+compliance with all Bank covenants, including those regarding financial ratios,
+net worth, liens, encumbrances and other criteria.
+
+The DBRLOC and RLOC are collateralized and secured by mortgages on substantially
+all of the Company's producing oil and gas properties and the Company's
+hedging/margin account associated with the Company's hedging activities.
+
+Statements of Financial Accounting Standards No. 107 and 119 require a
+disclosure comparing the fair value of long-term debt relative to the carrying
+value.  The Company's lines of credit require interest payments to be adjusted
+by fluctuations in the Bank's prime lending rate.  Based on this, management
+believes the fair value of long-term debt approximates the carrying value.
+
+Mortgage Debt   
+
+On September 1, 1994, the Company closed on the sale of its office building to
+an unrelated third party for $382,000.  The transaction generated approximately
+$38,000 in net sales proceeds after extinguishing the mortgage debt and paying
+all penalties, commissions and fees. 
+
+3.   Shareholders' Equity
+
+Employee Stock Ownership Plan   
+
+Basic's Employee Stock Ownership Plan covers substantially all employees who
+have worked for Basic for at least six months and are employed at the end of the
+Company's fiscal year.  The annual contribution is determined by the board of
+directors based upon eligible employees' base salaries.  For the years ended
+March 31, 1994 and 1995, the annual contribution was made using treasury stock. 
+There was no contribution made for the year ended March 31, 1996.  
+
+As previously disclosed, subsequent to the year ended March 31, 1995, the
+Company filed an application with the Internal Revenue Service to terminate the
+Employee Stock Ownership Plan (the Plan) effective April 1, 1995.  This
+application was made because of the high administrative costs associated with
+maintenance of the Plan, the low percentage of proceeds which are received by
+employees relative to total Plan costs, and the belief that alternative methods
+of compensation will more effectively benefit the Company's employees.  The
+application was approved by the Internal Revenue Service and the process for
+final termination is under way.  The Company is reviewing several alternatives
+in deciding how to replace the Plan.
+
+4.   Major Customers 
+
+Significant purchasers of 10% or more of Basic's oil and gas production are as
+follows:
+<TABLE>
+<CAPTION>
+                                   1996      1995      1994
+                                   ------    ------    ------
+<S>                                <C>       <C>       <C>
+     Cenex, Inc.                   34%       ---       ---
+     Norco Crude Gathering, Inc.   18%       30%       ---
+     Murphy Oil USA, Inc.          19%       28%       22%
+     Associated Natural Gas, Inc.  ---       13%       ---
+     Conoco, Inc.                  ---       10%       12%
+     Mobil Oil Corporation         ---       ---       34%
+</TABLE>
+
+It is not expected that the loss of any of these customers would cause a
+material adverse impact on operations since alternative markets for the
+Company's products are available.
+
+
+5.   Income Tax   
+
+Basic and its subsidiaries file a consolidated income tax return.
+
+As of March 31, 1996, Basic had available, to reduce future taxable income, tax
+net operating loss carryforwards of approximately $15,083,000 which approximates
+alternative minimum tax net operating loss carryforwards, and which expire in
+1997 through 2011.  The net operating loss carryforward for tax purposes is
+different from the net operating loss carryforward for financial reporting
+purposes primarily because of the expensing of intangible drilling and
+development costs for tax purposes and the ceiling limitation charges for
+financial reporting purposes.  For income tax purposes, investment tax credit
+and excess statutory depletion carryforwards as of March 31, 1996 are
+approximately $146,000 and $3,534,000, respectively. Investment tax credits are
+accounted for using the flow-through method and expire in the year ended March
+31, 2001.
+
+In the first quarter of fiscal 1994, Basic implemented Statement of Financial
+Accounting Standards No. 109 ("SFAS 109"), "Accounting for Income Taxes,"
+effective as of April 1, 1993.  SFAS 109 requires recognition of deferred income
+tax assets and liabilities based on enacted tax laws for all temporary
+differences between financial reporting and tax bases of assets, liabilities and
+carryforwards under SFAS 109.  Deferred tax assets are then reduced, if deemed
+necessary (i.e., more likely than not), by a valuation allowance for the amount
+of any tax benefits which, based on current circumstances, are not expected to
+be realized.  The Company's adoption of SFAS 109 had no cumulative effect on
+operations for the year ended March 31, 1996 since the net deferred tax asset of
+$5,994,000 was offset by a valuation allowance of an equal amount.
+
+The Company's deferred tax liabilities and assets are comprised of the following
+components at March 31, 1996 and 1995:
+<TABLE>
+<CAPTION>
+                                             1996           1995
+                                             -----          -----
+<S>                                          <C>            <C>
+     Deferred tax liabilities
+          Depreciation and depletion         $(522,000)     $(377,000)
+
+     Deferred tax assets
+          Net operating loss carryforwards   5,279,000      5,716,000
+          Statutory depletion carryforward   1,237,000      1,186,000
+
+     Valuation allowance                     (5,994,000)    (6,525,000)
+                                             -----------    -----------
+     Net deferred tax asset                  $0             $0
+                                             ===========    ===========
+</TABLE>
+Basic has established a valuation allowance due to the uncertainty that the full
+amount of the operating loss carryforwards will be utilized due to expiration
+and other factors.  Although management expects improvement in the future
+results of operations, it emphasizes past performance rather than income
+projections when determining the valuation allowance.  Any subsequent
+adjustments to the valuation allowance, if deemed appropriate due to changed
+circumstances, will be recognized as a separate component of the provision for
+income taxes.
+
+6.   Related Party Transactions
+
+It is the policy of Basic that officers or directors may assign to or receive
+assignments from Basic in oil and gas prospects only on the same terms and
+conditions as accepted by independent third parties.  It is also the policy of
+Basic that officers or directors and Basic may participate together in oil and
+gas prospects generated by independent third parties only on the same terms and
+conditions as accepted by each other.
+
+In the years ended March 31, 1996, 1995 and 1994, there were no significant
+related party transactions.
+
+7.   Unaudited Oil and Gas Reserve Information 
+
+Approximately ninety-six percent (96%) of the reserve estimates presented
+herein, for the year ended March 31, 1996, were derived from reports prepared by
+the independent petroleum engineering firm, Heinle & Associates, Inc (Heinle). 
+The remaining four percent (4%) were prepared by Basic and were not audited by
+Heinle. For the year ended March 31, 1995, approximately ninety-four percent
+(94%) of the reserve estimates presented herein were derived from reports
+prepared by Heinle.  The remaining six percent (6%) were prepared by Basic and
+were not audited by Heinle.  For the year ended March 31, 1994, approximately
+ninety percent (90%) of the reserve estimates presented herein were derived from
+reports prepared by Heinle.  The remaining ten percent (10%) were prepared by
+Basic and were not audited by Heinle.  The Company cautions that there are many
+inherent uncertainties in estimating proved reserve quantities and in projecting
+future production rates and the timing of development expenditures. 
+Accordingly, these estimates are likely to change as future information becomes
+available. 
+
+Proved oil and gas reserves are the estimated quantities of crude oil,
+condensate, natural gas and natural gas liquids which geological and engineering
+data demonstrate with reasonable certainty to be recoverable in future years
+from known reservoirs under existing economic and operating conditions.
+
+Proved developed reserves are those reserves expected to be recovered through
+existing wells with existing equipment and operating methods.
+
+Analysis of Changes in Proved Reserves   
+
+Estimated quantities of proved reserves (all of which are located within the
+United States), as well as the changes in proved reserves during the periods
+indicated, are presented in the following two tables: 
+<TABLE>
+                    Proved Developed and Undeveloped Reserves
+<CAPTION>
+                                                       Natural
+                                        Oil            gas
+                                        (bbl)          (mcf)
+                                        -----------    -------
+<S>                                     <C>            <C>
+     Proved developed and undeveloped
+     reserves at March 31, 1993         539,000        976,000
+
+     Revisions of previous estimates    (226,000)      (106,000)
+     Extensions and discoveries         14,000         392,000
+     Improved recovery                  8,000          49,000
+     Production                         (67,000)       (109,000)
+     Purchase of reserves               8,000          ---
+     Sale of reserves                   ---            ---
+                                        ----------     ----------
+     Proved developed and undeveloped
+     reserves at March 31, 1994         276,000        1,202,000
+
+     Revisions of previous estimates    87,000         (801,000)
+     Extensions and discoveries         29,000         862,000
+     Improved recovery                  25,000         3,000
+     Production                         (69,000)       (175,000)
+     Purchase of reserves               262,000        ---
+     Sale of reserves                   ---            ---
+                                        ----------     ----------
+     Proved developed and undeveloped
+     reserves at March 31, 1995         610,000        1,091,000
+
+     Revisions of previous estimates    108,000        228,000
+     Extensions and discoveries         68,000         ---
+     Improved recovery                  70,000         ---
+     Production                         (150,000)      (214,000)
+     Purchase of reserves               15,000         2,000
+     Sale of reserves                   ---            ---
+                                        ----------     ----------
+     Proved developed and undeveloped
+     reserves at March 31, 1996         721,000        1,107,000
+                                        ==========     ==========
+</TABLE>
+<TABLE>
+                                        Proved Developed Reserves
+                                        -------------------------
+<CAPTION>
+                                                       Natural
+                                        Oil            gas
+                                        (bbl)          (mcf)
+                                        ----------     ---------
+<S>                                     <C>            <C>
+     March 31, 1996                     721,000        1,107,000
+     March 31, 1995                     610,000        1,091,000
+     March 31, 1994                     258,000        790,000
+</TABLE>
+<TABLE>
+                         Aggregate Capitalized Oil and Gas Property Cost
+                         -----------------------------------------------
+<CAPTION>
+                                             March 31
+                                             --------
+                                   1996                1995
+                                   -----------         -----------
+<S>                                <C>                 <C>
+     Capitalized cost
+          Proved property          $31,823,000         $31,397,000 
+          Unproved property        21,000              21,000
+                                   -----------         -----------
+                                   31,844,000          31,418,000 
+     Accumulated depreciation and
+          depletion                (15,204,000)        (14,672,000)
+     Oil and gas property cost
+          in excess of ceiling
+          limitation (cumulative)  (14,091,000)        (14,091,000)
+                                   ------------        ------------
+     Net capitalized cost          $2,549,000          $2,655,000
+                                   ============        ============
+</TABLE>
+<TABLE>
+                                        Costs Incurred
+                                        --------------
+<CAPTION>
+                                        Year Ended March 31
+                                        -------------------
+                              1996           1995           1994
+                              ----------     ----------     ----------
+<S>                           <C>            <C>            <C>
+     Property acquisition
+          Proved property     $215,000       $1,063,000     $36,000
+          Unproved property   (15,000)       (186,000)      ---
+     Exploration              11,000         ---            ---
+     Development              276,000        589,000        ---
+</TABLE>
+In the year ended March 31, 1996, Basic received approximately $29,000 from an
+unrelated third party for undeveloped acreage in Stark County, North Dakota. 
+This $29,000 payment is reflected as a credit to unproved property acquisition
+cost in the table above.
+
+In the year ended March 31, 1995, Basic received approximately $186,000 from an
+unrelated third party for an assignment of deep rights underlying its West Cole
+Unit in Webb County, Texas.  This $186,000 payment is reflected as a credit to
+unproved property acquisition cost in the table above.
+
+The following table sets forth a standardized measure of the estimated
+discounted future net cash flows attributable to Basic's proved oil and gas
+reserves.  Estimated future cash inflows were computed by applying year end
+prices of oil and gas (with consideration of price changes only to the extent
+provided by contractual arrangements) to the estimated future production of
+proved oil and gas reserves at March 31, 1996, 1995 and 1994.  The future
+production and development cost represents the estimated future expenditures to
+be incurred in developing and producing the proved reserves, assuming
+continuation of existing economic conditions.  Future income tax expense was
+computed by applying statutory income tax rates to the difference between
+pre-tax net cash flows relating to Basic's proved oil and gas reserves and the
+tax basis of proved oil and gas properties and available operating loss and
+excess statutory depletion carryovers, reduced by investment tax credits in
+accordance with the Tax Reform Act of 1986.  Discounting the annual net cash
+flows at 10% illustrates the impact of timing on these future cash flows.
+<TABLE>
+     Standardized Measure of Estimated Discounted Future Net Cash Flows
+     ------------------------------------------------------------------
+<CAPTION>
+                                             March 31
+                                             --------
+                              1996           1995           1994
+                              -----------    -----------    -----------
+<S>                           <C>            <C>            <C>
+     Future cash inflows      $16,392,000    $12,195,000    $5,824,000
+
+     Future cash outflows
+          Production cost     (9,532,000)    (7,414,000)    (2,837,000)
+          Development cost    (45,000)       (45,000)       (489,000)
+                              -----------    -----------    -----------
+     Future net cash flows
+     before future income tax 6,815,000      4,736,000      2,498,000
+
+     Future income tax        ---            ---            ---
+                              -----------    -----------    -----------
+     Future net cash flows    6,815,000      4,736,000      2,498,000
+
+     Adjustment to discount
+          future annual net
+          cash flows at 10%   (2,090,000)    (1,299,000)    (891,000)
+                              -----------    -----------    -----------
+     Standardized measure of
+          discounted future
+          net cash flows      $4,725,000     $3,347,000     $1,607,000
+                              ===========    ===========    ===========
+</TABLE>
+The following table summarizes the principal factors comprising the changes in
+the standardized measure of estimated discounted net cash flows for the years
+ended March 31, 1996, 1995 and 1994.
+<TABLE>
+     Changes in Standardized Measure of Estimated Discounted Net Cash Flows
+     ----------------------------------------------------------------------
+<CAPTION>
+                                   Year Ended March 31
+                                   -------------------
+                              1996           1995           1994
+                              -----------    -----------    -----------
+<S>                           <C>            <C>            <C>
+Standardized measure,
+beginning of period           $3,437,000     $1,607,000     $2,273,000
+
+Sales of oil and gas, net
+of production cost            (835,000)      (527,000)      (406,000)
+
+Net change in sales prices,
+net of production cost        498,000        (338,000)      126,000
+
+Discoveries, extensions and
+improved recoveries, net
+of future development cost    840,000        1,240,000      225,000
+
+Sale of reserves              ---            ---            ---
+
+Purchase of reserves          71,000         1,022,000      14,000
+
+Development costs incurred
+that reduced future
+development cost              ---            489,000        18,000
+
+Changes in estimated future
+development cost              ---            (43,000)       (82,000)
+
+Revisions of quantity 
+estimates                     792,000        (155,000)      (860,000)
+
+Accretion of discount         344,000        161,000        227,000
+
+Net change in income tax      ---            ---            ---
+
+Changes in rates of
+production and other          (422,000)      (19,000)       72,000
+                              -----------    -----------    -----------
+Standardized measure,
+end of period                 $4,725,000     $3,437,000     $1,607,000
+                              ===========    ===========    ===========
+</TABLE>
+In the year ended March 31, 1996, Basic realized an increase from the prior year
+in the standardized measure of estimated discounted net cash flows.  This
+increase in the standardized measure was primarily the result of (1) the
+reserves added following the successful recompletion of the State #12-16 into
+the Bakken formation, (2) the purchase of numerous small interests in various
+wells which Basic operates, and (3) higher oil prices.
+
+                                      ITEM 8
+                  CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS
+                      ON ACCOUNTING AND FINANCIAL DISCLOSURE
+
+None.
+
+Part III
+
+                                      ITEM 9
+               DIRECTORS, EXECUTIVE OFFICERS, PROMOTERS AND CONTROL
+                      PERSONS; COMPLIANCE WITH SECTION 16(a)
+                               OF THE EXCHANGE ACT
+
+Information concerning this item will be in Basic's 1996 Proxy Statement, which
+is incorporated herein by reference.
+
+                                     ITEM 10
+                              EXECUTIVE COMPENSATION
+
+Information concerning this item will be in Basic's 1996 Proxy Statement, which
+is incorporated herein by reference.
+
+                                     ITEM 11
+                 SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS
+                                  AND MANAGEMENT
+
+Information concerning this item will be in Basic's 1996 Proxy Statement, which
+is incorporated herein by reference.
+
+                                     ITEM 12
+                  CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS
+
+Information concerning this item will be in Basic's 1996 Proxy Statement, which
+is incorporated herein by reference.
+
+Part IV
+                                     ITEM 13
+                         EXHIBITS AND REPORTS ON FORM 8-K
+(a) Exhibits
+
+Exhibit
+No.       Document
+- --------  --------------------
+3i        Restated Certificate of Incorporation included in Basic's Form 10-K
+          for the year ended March 31, 1981 (1)
+
+3i        By-laws included in Basic's Form S-1 filed October 24, 1980 (1)
+
+3i        Certificate of Amendment to Basic's Restated Certificate of          
+          Incorporation dated March 31, 1996 (*)
+
+10(i)a    Division Orders with NORCO, Inc. for oil produced from the West Cole 
+          and West Cole North Units, Webb County, Texas (1)
+
+10(i)a    Commercial Contract pertaining to the sale of Company-owned office
+          building, dated April 15, 1994 (1)
+
+10(i)a    Office Lease, dated August 17, 1994 (1)
+
+10(i)a    Loan Agreement between Norwest Bank Denver, N.A. and Basic, dated
+          August 1, 1994 (1)
+
+10(i)a    Sales Agreement between Basic and TransTexas, dated March 3, 1995,
+          pertaining to the sale of deep exploration rights (1)
+
+10(i)a    Purchase & Sale Agreement between Basic and MCM, dated March 6, 1995,
+          pertaining to Williston basin acquisition (1)
+
+10(i)a    Amended Loan Agreement between Norwest Bank Denver, N.A. and Basic,
+          dated March 30, 1995 (1)
+
+10(i)a    Amended Loan Agreement between Norwest Bank Denver, N.A. and Basic,
+          dated September 13, 1995 (1)
+
+10(ii)    Oil and Gas Incentive Compensation Plan included in Basic's Form 10-K 
+          for the year ended March 31, 1985 (1)
+
+22        Subsidiaries of Basic included in Basic's Form 10-K for the year ended
+          March 31, 1987 (1)
+- ---------------------------
+(1)  Previously filed and incorporated herein by reference
+(*)  Filed herein   
+
+Other exhibits and schedules are omitted because they are not applicable, not
+required or the information is included in the financial statements or notes
+thereto. 
+
+(b) Reports on Form 8-K
+
+No reports on Form 8-K were filed during the quarter ended March 31, 1996.
+
+<PAGE>
+                                    Signatures
+
+In accordance with Section 13 or 15(d) of the Exchange Act, the registrant
+caused this report to be signed on its behalf by the undersigned, thereunto duly
+authorized.
+
+BASIC EARTH SCIENCE SYSTEMS, INC.
+
+
+/s/Ray Singleton                   /s/Karen E. Morris
+- ------------------------           ------------------------
+Ray Singleton, President           Karen Morris, Controller
+                                   Principal Accounting Officer
+
+June 27, 1996                      June 27, 1996
+- ------------------------           ------------------------
+Date:                              Date:
+
+In accordance with the Exchange Act, this report has been signed below by the
+following persons on behalf of the registrant and in the capacities and on the
+dates indicated.
+
+Name and Capacity:                 Date:
+- --------------------               ---------
+
+
+- ------------------------------     --------------------
+G. W. Breuer, Director   
+
+
+/s/David J. Flake                  June 27, 1996
+- ------------------------------     --------------------
+David J. Flake, Director
+
+
+/s/Edgar J. Huffman                June 27, 1996
+- ------------------------------     --------------------
+Edgar J. Huffman, Director
+
+
+/s/Ray Singleton                   June 27, 1996
+- ------------------------------     --------------------
+Ray Singleton, Director
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-27
+<SEQUENCE>2
+<TEXT>
+
+<TABLE> <S> <C>
+
+<ARTICLE> 5
+<LEGEND>
+This schedule contains summary financial information extracted from the
+consolidated balance sheets, statements of operations, statements of cash flows,
+and statements of changes in shareholders' equity on pages 18, 19, 20, 21 and 22
+of the Company's Form 10-KSB for the fiscal year ended March 31, 1996 and is
+qualified in its entirety by reference to such financial statements.
+</LEGEND>
+<MULTIPLIER> 1000
+       
+<S>                             <C>
+<PERIOD-TYPE>                   YEAR
+<FISCAL-YEAR-END>                          MAR-31-1996
+<PERIOD-END>                               MAR-31-1996
+<CASH>                                              92
+<SECURITIES>                                         0
+<RECEIVABLES>                                      512
+<ALLOWANCES>                                      (35)
+<INVENTORY>                                          0
+<CURRENT-ASSETS>                                   717
+<PP&E>                                          32,276
+<DEPRECIATION>                                (29,651)
+<TOTAL-ASSETS>                                   3,419
+<CURRENT-LIABILITIES>                              825
+<BONDS>                                              0
+<COMMON>                                            17
+<PREFERRED-MANDATORY>                                0
+<PREFERRED>                                          0
+<OTHER-SE>                                          17
+<TOTAL-LIABILITY-AND-EQUITY>                     3,419
+<SALES>                                          2,813
+<TOTAL-REVENUES>                                 2,826
+<CGS>                                            2,725
+<TOTAL-COSTS>                                    2,725
+<OTHER-EXPENSES>                                     0
+<LOSS-PROVISION>                                    15
+<INTEREST-EXPENSE>                                 104
+<INCOME-PRETAX>                                      6
+<INCOME-TAX>                                         0
+<INCOME-CONTINUING>                                  6
+<DISCONTINUED>                                       0
+<EXTRAORDINARY>                                      0
+<CHANGES>                                            0
+<NET-INCOME>                                         6
+<EPS-PRIMARY>                                        0
+<EPS-DILUTED>                                        0
+        
+
+</TABLE>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99
+<SEQUENCE>3
+<TEXT>
+
+                              CERTIFICATE OF AMENDMENT
+                                       TO THE
+
+                        RESTATED CERTIFICATE OF INCORPORATION
+
+                                         OF
+
+                          BASIC EARTH SCIENCE SYSTEMS, INC.
+
+
+PURSUANT TO the General Corporation Law of the State of Delaware the undersigned
+corporation adopts the following Certificate of Amendment to the Restated
+Certificate of Incorporation:
+
+ARTICLE I
+- ----------
+Name
+- -----
+The name of the corporation is BASIC EARTH SCIENCE SYSTEMS, INC. (the "Corpora-
+tion").
+
+ARTICLE II
+- -----------
+Amendment Adopted
+- ------------------
+Pursuant to approval of the holders of the majority of the Corporation's out-
+standing stock obtained at a meeting of the shareholders of the Corporation held
+on October 6, 1995, the Fourth Article of the Restated Certificate of Incorpora-
+tion of the Corporation was amended and restated in its entirety as follows:
+
+                              "FOURTH
+
+     The total number of shares of stock which the corporation is authorized to
+     issue is Thirty-five Million Shares (35,000,000) of a par value of $0.001
+     each, consisting of Three Million Shares (3,000,000) of preferred stock and
+     Thirty-two Million Shares (32,000,000) of common stock and the Board of
+     Directors is authorized to issue such shares without further authorization
+     from the shareholders and, as to the preferred shares, the Board of
+     Directors is granted the authority to provide for the issuance of preferred
+     shares in series, the designation, voting powers, full, limited or no
+     voting powers, and such designations, preferences, conversion rights, re-
+     demption rights, dividend rights, preemptive rights, participating rights,
+     optional rights, or other special rights, qualifications, limitations, or
+     restrictions."
+
+ARTICLE III
+- ------------
+Stated Capital
+- ---------------
+
+As a result of the change in par value of the Corporation's capital, the stated
+capital of the Corporation shall be reduced by the re-allocation of capital from
+the stated capital account to the capital surplus account.
+
+
+                                     CERTIFICATE
+
+Pursuant to the General Corporation Law of the State of Delaware, the under-
+signed corporation does hereby certify that this Certificate of Amendment to the
+Restated Certificate of Incorporation of Basic Earth Science Systems, Inc. has
+been duly adopted pursuant to the approval and vote of the holders of the
+majority of said corporation's outstanding stock in accordance with Section 242
+of the General Corporation Law of the State of Delaware.
+
+Dated:  March 31, 1996
+
+
+                         BASIC EARTH SCIENCE SYSTEMS, INC.
+
+
+
+                         By   /s/Ray Singleton
+                              ------------------------
+                              Ray Singleton, President
+
+ATTEST:
+
+
+
+By   /s/David J. Flake
+     -------------------------
+     David J. Flake, Secretary
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

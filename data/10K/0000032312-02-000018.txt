@@ -1,0 +1,2763 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ Knj1ieP0V59r5ITcnD0OB5CecFOdqZMMb4pc+glN4YWfxGYNzdlG8QM1SlktlO4x
+ k/hg43Cz2QngsPchOftC0g==
+
+<SEC-DOCUMENT>0000032312-02-000018.txt : 20020628
+<SEC-HEADER>0000032312-02-000018.hdr.sgml : 20020628
+<ACCEPTANCE-DATETIME>20020628145411
+ACCESSION NUMBER:		0000032312-02-000018
+CONFORMED SUBMISSION TYPE:	10KSB
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20020331
+FILED AS OF DATE:		20020628
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			EMCEE BROADCAST PRODUCTS INC
+		CENTRAL INDEX KEY:			0000032312
+		STANDARD INDUSTRIAL CLASSIFICATION:	RADIO & TV BROADCASTING & COMMUNICATIONS EQUIPMENT [3663]
+		IRS NUMBER:				131926296
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0331
+
+	FILING VALUES:
+		FORM TYPE:		10KSB
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-06299
+		FILM NUMBER:		02691231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		PO BOX 68
+		STREET 2:		SUSQUEHANNA ST. EXTENSION WEST
+		CITY:			WHITE HAVEN
+		STATE:			PA
+		ZIP:			18661-0068
+		BUSINESS PHONE:		570-443-9575
+
+	MAIL ADDRESS:	
+		STREET 1:		PO BOX 68
+		CITY:			WHITE HAVEN
+		STATE:			PA
+		ZIP:			18661-0068
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	ELECTRONICS MISSILES & COMMUNICATIONS INC
+		DATE OF NAME CHANGE:	19920703
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>10KSB
+<SEQUENCE>1
+<FILENAME>ksb.txt
+<TEXT>
+            U.S. SECURITIES AND EXCHANGE COMMISSION
+                    WASHINGTON, D.C.  20549
+
+                             FORM 10-KSB
+
+(Mark One)
+
+               ANNUAL REPORT UNDER SECTION 13 OR 15(d) OF THE
+    X               SECURITIES EXCHANGE ACT OF 1934 [Fee Required]
+
+               For the fiscal year ended March 31, 2002
+
+               TRANSITION REPORT UNDER SECTION 13 OR 15(d) OF
+                    THE SECURITIES EXCHANGE ACT OF 1934 [No Fee Required]
+
+                         For the transition period from
+                         _________________ to __________.
+
+
+Commission file number 1-6299
+
+
+EMCEE BROADCAST PRODUCTS, INC.
+(Name of small business issuer in its charter)
+
+             DELAWARE                                  13-1926296
+(State or other jurisdiction of              (I.R.S. Employer Identification
+ incorporation or organization)              Number)
+
+ SUSQUEHANNA STREET EXTENSION, PO BOX 68, WHITE HAVEN, PA    18661-0068
+(Address of principal executive offices)                     (Zip Code)
+
+
+Issuer's telephone number: (570) 443-9575
+
+                              ////
+
+Securities registered under Section 12(b) of the Exchange Act:
+
+Title of each class:                 Name of each exchange on which
+                                     registered:
+
+        Common                     NONE; Traded on the NASDAQ Small
+                                   Capitalization Market
+
+Securities registered under Section 12(g) of the Exchange Act:
+
+                               None
+                         (TITLE OF CLASS)
+
+
+<PAGE>
+Check whether the issuer (1) filed all reports required to be filed by Section
+13 or 15(d) of the Exchange Act during the past twelve (12) months (or for
+such shorter period that the registrant was required to file such reports),
+and (2) has been subject to such filing requirements for the past ninety (90)
+days.
+                                        Yes   X    No
+
+Check if there is no disclosure of delinquent filers in response to Item 405
+of Regulation S-B is met contained in this form, and no disclosure will be
+contained, to the best of registrant's knowledge, in definitive proxy or
+information statements incorporated by reference in Part III of this Form
+10-KSB or any amendment to this Form 10-KSB.
+
+State issuer's revenues for its most recent fiscal year, $6,342,773.
+
+The aggregate market value of the voting stock held by non-affiliates of the
+Registrant is $2,146,888 computed by reference to the closing bid price of the
+stock at June 26, 2002. This computation is based on the number of issued and
+outstanding shares held by persons other than directors and officers of the
+Registrant.
+
+State the number of shares outstanding of each of the issuer's classes of
+common equity, as of the latest practicable date:
+
+                CLASS                        OUTSTANDING AT JUNE 26, 2002
+                -----                        ----------------------------
+Common stock, par value $.01-2/3                  4,873,283
+ per share
+
+     DOCUMENTS INCORPORATED BY REFERENCE
+
+     Items 9, 10, 11 and 12 in Part III of this report are incorporated by
+reference from the Proxy Statement expected to be filed within one hundred
+twenty (120) days of the close of the Registrant's fiscal year ended March 31,
+2002.
+
+Transitional Small Business Disclosure Format (Check One)
+
+                                        Yes      ;  No X  .
+
+
+<PAGE>
+EMCEE BROADCAST PRODUCTS, INC.
+FORM 10-KSB
+FISCAL YEAR ENDED MARCH 31, 2002
+
+TABLE OF CONTENTS
+
+SAFE HARBOR STATEMENT UNDER THE PRIVATE SECURITIES
+LITIGATION REFORM ACT OF 1995                                         1
+
+     PART I.
+
+ITEM 1.   DESCRIPTION OF BUSINESS                                     1
+
+ITEM 2.   DESCRIPTION OF PROPERTY                                     7
+
+ITEM 3.   LEGAL PROCEEDINGS                                           8
+
+ITEM 4.   SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS         8
+
+
+     PART II.
+
+ITEM 5.   MARKET FOR COMMON EQUITY AND RELATED STOCKHOLDER MATTERS    8
+
+ITEM 6.   MANAGEMENT'S DISCUSSION AND ANALYSIS OR PLAN OF OPERATION   12
+
+ITEM 7.   FINANCIAL STATEMENTS                                        21
+
+ITEM 8.   CHANGE IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING
+               AND FINANCIAL DISCLOSURES                              22
+
+
+     PART III.
+
+ITEM 9.   DIRECTORS, EXECUTIVE OFFICERS, PROMOTERS AND CONTROL PERSONS;
+          COMPLIANCE WITH SECTION 16(a) OF THE EXCHANGE ACT            22
+
+ITEM 10.  EXECUTIVE COMPENSATION                                       22
+
+ITEM 11.  SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS
+         AND MANAGEMENT                                                22
+
+ITEM 12.  CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS               22
+
+ITEM 13.  EXHIBITS AND REPORTS ON FORM 8-K                             23
+
+          SIGNATURES                                                   25
+
+<PAGE>
+SAFE HARBOR STATEMENT UNDER THE PRIVATE SECURITIES LITIGATION
+REFORM ACT OF 1995:
+          Any statements contained in this annual report on Form 10-KSB
+which are not historical facts are forward-looking statements. Many important
+factors could cause actual results to differ materially from those in the
+forward looking statements.  Such factors include, but are not limited to,
+changes (legislative, regulatory and otherwise) in the Multichannel Multipoint
+Distribution Service (MMDS), Low Power Television (LPTV) industries or medium
+to high definition television (HDTV) products, demand for the Company's
+products both domestically and internationally, the development of competitive
+products, competitive pricing, the timing of foreign shipments, market
+acceptance of new product introductions (including, but not limited to, the
+Company's digital and Internet products), technological changes, economic
+conditions(both foreign and domestic), litigation and other factors, risks and
+uncertainties identified in the Company's Securities and Exchange Commission
+filings.
+
+               PART I
+
+ITEM 1.  DESCRIPTION OF BUSINESS
+
+          EMCEE Broadcast Products, Inc. was incorporated under the laws of
+the State of Delaware in 1960. As used in this report, the terms "EMCEE",
+"Company" and "Registrant" refer to EMCEE Broadcast Products, Inc., unless the
+context indicates otherwise.
+
+          EMCEE manufactures and sells Multichannel Multipoint Distribution
+Service ("MMDS"), low power television ("LPTV"), and medium to high power
+transmitters and related equipment. The Company's MMDS products are sold to
+the wireless cable industry, and the LPTV and medium to high-power products
+are sold to the television broadcast industry. The medium to high-power
+products are sold by the Company but are manufactured by the Company's
+Kentucky based subsidiary, Advanced Broadcast Systems, Inc.("ABS"), which the
+Company acquired in April, 2000.
+
+          The Company also provides all services related to the design,
+procurement, and installation of television broadcast  systems, with the
+exception of licensing submissions.
+
+          The Company sells its products in both domestic and international
+markets. Sales in the United States are usually made directly to the customer.
+Independent sales representatives, agents and distributors are typically
+utilized in foreign countries. They, in turn, sell directly to the foreign
+customer.
+
+          Most of EMCEE's sales occur in the commercial, educational,
+private television system, and data (Internet) systems markets.
+
+          Until fiscal year 2001, most of EMCEE's sales were derived from
+the MMDS market. However, in fiscal year 2001, while MMDS sales continued to
+slow, sales of medium to high-power equipment increased. This resulted in
+medium to high-power equipment sales representing approximately  20% of the
+Company's total sales volume in fiscal year 2001. In fiscal year 2002, medium
+to high-power equipment sales made up approximately 40% of the Company's total
+sales. This shift has occurred primarily because of(1) the television
+broadcast industry's move to digital or high definition television ("HDTV")
+products which utilize medium to high power transmitters, (2) the continuing
+lag in development and growth in the domestic MMDS industry, and (3) the
+growing contribution ABS is making to the Company's sales volume.
+
+          However, the Company still considers itself to be a small supplier
+in the television broadcast industry. While it will endeavor to grow this part
+of the business, it anticipates that most of its initial sales of HDTV
+products will come from LPTV customers. Additionally, the Company will
+continue to pursue sales in the MMDS market (primarily by supplying resellers
+in the overseas MMDS market), which is the market in which it is competitively
+the strongest.
+
+          EMCEE, through a subsidiary, R.F. Internet Systems, Inc., is also
+involved in a joint venture formed to sell high speed wireless Internet access
+in the Northwestern United States. Presently, however, growth in this industry
+is slow due primarily to the high cost of subscriber equipment and
+installation. Although the Company will continue to manufacture and sell
+transmitters and related equipment to this industry, it has no plans to
+participate as an operator beyond the joint venture in which it is currently
+involved. In fact, in fiscal year 2002, the Company sold its interest in
+another joint venture that was formed to conduct the same such business.
+
+          At March 31, 2002, the Company employed 41 people on a full-time
+basis.
+
+          There are a number of vendors from which the Company may purchase
+materials used to manufacture its products. However, substantial periods of
+lead time for delivery are sometimes experienced, making it necessary to
+inventory varied quantities of materials. The Company's principal vendors,
+including ABS's principal vendors, are Andrew Corporation, Microwave Filter
+Company, Inc., Marconi, Dielectronic Communications, NWL Transformers,
+Microcommunications, Vyyo, and Zenith Electronics Corporation.
+
+          Significant portions of EMCEE's revenues come from contracts with
+customers who generally do not place orders on a regular basis. In addition,
+the timing of these contracts relate to economic conditions and regulatory
+developments over which EMCEE has little or no control.
+
+          Most of the Company's domestic products must receive FCC approval
+prior to being marketed and sold. As of the date of this report, all of the
+Company's products requiring FCC approval have received it.
+
+          FCC regulations can have an effect on the demand for the Company's
+domestic products. The FCC had mandated that all of the more than 1,300
+commercial television broadcasters begin transmitting with a digital signal no
+later than May, 2002. That deadline was extended to November, 2002 for more
+than 550 stations that were able to justify legitimate delays. Public
+broadcasters must begin transmitting with a digital signal no later than May,
+2003. Although the Company anticipates that this FCC regulation will impact
+favorably on the demand for medium to high-power equipment over the next
+several years, the Company believes it will remain a secondary supplier in
+this industry and, therefore, must be careful to respond only to those sales
+opportunities where it is able to be competitive and recognizes a reasonable
+profit. Moreover, the FCC has extended the deadline for digital signal
+transmission in the past, and there is no guarantee that additional extensions
+will not be granted in the future.
+
+          The amount of money spent on the Company's research and
+development activities in fiscal years 2001 and 2002 was, respectively,
+$454,592 and $288,826. The 2001 R&D expenditures are net of approximately
+$4,500, which was received from one customer for specific research and
+development projects. The substantial decrease in R&D for fiscal 2002 was due
+primarily to necessary cost cutting measures instituted by management and the
+closure of a specific R&D project started in fiscal year 2001.
+
+
+          In fiscal year 2002, the Company designed and manufactured a
+compact, "worldwide-agile" UHF TV transmitter, nicknamed the "Freedom
+Transmitter", for the United States Army Special Operations Command. The
+initial shipment was made in the first quarter of fiscal year 2003. What makes
+this unit so unique is its instantaneous front-panel tuning. This means that
+with the flip of a thumbwheel switch, an operator can change the broadcast
+standard, which varies from country to country. A second thumbwheel changes
+frequencies from Channel 14 through Channel 69. EMCEE will also produce a
+commercial version of this unit in National Television Standards for Colors
+(NTSC) format at 500 watts and 1000 watts that will be available for emergency
+backup use during emergency situations, such as equipment outages.
+
+          In the MMDS industry, the Company occupies a strong position among
+its competitors. In the medium to high-power market, the Company considers
+itself to be a "second tier" supplier, with Harris and Thomcast being the
+market leaders.
+
+          The primary methods of competition in the Company's industry are
+product pricing, the timely availability of quality products to accommodate
+demand, offering quality service of products after sale, and maintaining a
+reputation for having a high degree of technical knowledge.
+
+          There has been no material effect on EMCEE as a result of
+compliance with federal, state or local environmental laws.
+
+          EMCEE's principal corporate logos, "EMCEE" and "EMCEE Broadcast
+Products", are registered in the United States Patent and Trademark Office and
+are used by EMCEE pursuant to a license with its wholly owned subsidiary
+corporation, EMCEE Cellular Inc., which owns the marks. In the same manner,
+EMCEE also uses the trademark, "Site Lock", which is a mark associated with a
+product sold by the Registrant that enhances analog picture quality for MMDS
+systems in close proximity to systems operating on the same frequency. EMCEE
+also utilizes a patent for a solid state S-band transmitter.
+
+ITEM 2.  DESCRIPTION OF PROPERTY
+
+          The Registrant conducts operations at its facility located on
+approximately 19 acres, which the Registrant owns, in White Haven,
+Pennsylvania.
+
+          The building was constructed specifically for the Registrant in
+1968 and consists of approximately 27,000 square feet, with the majority of
+the area devoted to manufacturing. The front portion of the building,
+consisting of two floors, houses administrative, engineering and sales
+offices. The land, building and improvements are well maintained and in good
+condition.
+
+          The Registrant's land, building and improvements are subject to
+encumbrances held by the Registrant's primary lending institution, First
+Federal Bank. These encumbrances secure the Registrant's mortgage loan and
+term loan with the lender. As of  March 31, 2002, the aggregate principal
+balance of these encumbrances is $1,903,282.
+
+          The Registrant also leases a warehouse in White Haven,
+Pennsylvania, in which it stores equipment and archival documents, and office
+space in Burlington, Kentucky, for ABS employees.
+
+ITEM 3.  LEGAL PROCEEDINGS
+
+          The Company filed a collection lawsuit in the Court of Common
+Pleas of Luzerne County, Pennsylvania, on April 3, 2001, against Korea
+Multinet, Inc. and John and Jungon Jung (No. 2233-C of 2001). The suit relates
+primarily to outstanding indebtedness which Korea Multinet, Inc. owes the
+Company for the purchase of the Company's MMDS products. The Jungs are parties
+to the suit because they are sureties (guarantors) of this indebtedness. The
+Company is seeking damages in the amount of $1,440,758.03 plus interest and
+costs of suit. The parties entered into a Settlement Agreement in fiscal year
+2002, but the defendants breached that Agreement after having made only one
+payment of $50,000. The Company is considering its options in this litigation
+at the present time.
+
+ITEM 4.  SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS
+
+          No matter was submitted to a vote of security holders during the
+fourth quarter of fiscal year 2002.
+
+               PART II
+
+ITEM 5.  MARKET FOR COMMON EQUITY AND RELATED STOCKHOLDER MATTERS
+
+          The NASDAQ Small Capitalization Market is the principal market on
+which the Registrant's common stock is traded.
+
+MARKET INFORMATION
+STOCK PRICE
+
+          The table below presents the high and low bid prices of the
+Registrant's common equity for the two most recent fiscal years:
+
+FISCAL YEAR 2002
+- ----------------
+
+QTR ENDED:             JUNE 30   SEPT 30     DEC 31    MAR 31
+- ---------              -------   -------     ------    ------
+(BID) HIGH               $1.92     $1.60     $.99      $.74
+(BID) LOW                $.438     $.65      $.39      $.26
+
+FISCAL YEAR 2001
+- ----------------
+
+QTR ENDED:               JUNE 30   SEPT 30    DEC 31    MAR 31
+- ----------               -------   -------    ------    ------
+(BID) HIGH               $6.50     $6.938    $3.406    $2.00
+(BID) LOW                $2.313    $2.875    $.813     $.719
+
+          The above high/low bid information was obtained from the NASDAQ
+Stock Market, Inc.
+
+HOLDERS
+
+          At March 31, 2002, there were 1,285 holders of the Registrant's
+common stock.
+
+DIVIDENDS
+
+          No dividends were declared during fiscal year 2001 or fiscal year
+2002. The Registrant's loan documents with its primary lending institution
+contain certain financial covenants with which the Registrant must comply in
+order to declare and pay dividends on its common stock.
+
+
+
+
+     [REMAINDER OF THIS PAGE INTENTIONALLY LEFT BLANK]
+
+<PAGE>
+EQUITY COMPENSATION PLAN INFORMATION
+
+Plan        Number of securities   Weighted-average         Number of
+Category    to be issued upon      exercise price of        securities
+            exercise of            outstanding              remaining
+            outstanding options,   options, warrants        available
+            warrants and rights    and rights               for future
+                                                            issuance
+                                                            under equity
+                                                            compensation
+                                                            plans
+                                                            (excluding
+                                                            securities
+                                                            reflected
+                                                            in column (a))
+                    (a)                  (b)                (c)
+- ----------    ------------------   -------------            ----------
+
+Equity           0 (2)                    N/A               100,000 shares
+compensation                                                of common stock
+plans approved
+by security
+holders
+(1)
+
+Equity              N/A                 N/A                 N/A
+compensation
+plans not
+approved by
+security holders
+(3)
+
+Total               0                   N/A                 100,000
+
+(1)  1996 Stock Option Plan.
+(2)  All unexercised options have expired.
+(3)  The Company has no equity compensation plan which has not been approved
+     by security holders.
+
+RECENT SALES OF UNREGISTERED SECURITIES
+
+          On June 15, 2001, the Company sold 600,000 shares of its
+unregistered common stock to CopperGlass Optical Solutions, Inc. and 200,000
+shares of its common stock to Quaker Capital Partners I, L.P., at the purchase
+price of $.75 per share and pursuant to certain other terms and conditions set
+forth in Stock Option Agreements. These shares were issued initially as exempt
+private placements under Section 4(2) of the Securities Act of 1933, to
+sophisticated offerees which were given complete access to the kind of
+information that would be available in a registered offering. Following their
+issuance, these securities were registered with the Securities and Exchange
+Commission on Form SB-2. The registration went effective on September 12,
+2001.
+          In fiscal years 2001 and 2002, the Company gave each eligible
+member of the Board of Directors the option of accepting shares of the
+Company's unregistered common stock equal in value to, and in lieu of, the
+cash compensation he/she was otherwise entitled to receive for Board of
+Directors' meetings. The NASDAQ Stock Market close price of the securities on
+the day of each such meeting was used to determine the number of shares the
+Directors would receive. The table below provides information concerning the
+names of those Directors opting for such securities, the amount of
+unregistered securities they received, the per share value of such securities,
+and the issue dates.
+
+<TABLE>
+
+Director Name       Number of Shares     Per Share Value    Issue Dates
+- -------------       ----------------     ---------------         --------
+<C>                      <S>                <S>              <S>
+Robert Hostetler       1,428            $ 1.75              03/05/01
+                         200            $ 1.25              03/21/01
+                         271            $  .92              05/10/01
+                       2,450            $ 1.02              06/18/01
+                       1,944            $  .90              09/10/01
+                         312            $  .80              10/12/01
+                         333            $  .75              10/19/01
+                         333            $  .75              10/22/01
+                         333            $  .75              10/24/01
+                       1,944            $  .90              11/19/01
+                       4,487            $  .39              03/11/02
+
+Michael J. Leib        1,428            $ 1.75              03/05/01
+                         200            $ 1.25              03/21/01
+                         271            $  .92              05/10/01
+                       2,450            $ 1.02              06/18/01
+                       1,944            $  .90              09/10/01
+                         312            $  .80              10/12/01
+                         333            $  .75              10/19/01
+                         333            $  .75              10/22/01
+                         333            $  .75              10/24/01
+                       1,944            $  .90              11/19/01
+                       4,487            $  .39              03/11/02
+
+Richard J. Nardone     1,944            $  .90              09/10/01
+                         312            $  .80              10/12/01
+                         333            $  .75              10/19/01
+                         333            $  .75              10/22/01
+                         333            $  .75              10/24/01
+
+Randall P. Marx        1,944            $  .90              09/10/01
+                         312            $  .80              10/12/01
+                         333            $  .75              10/19/01
+                         333            $  .75              10/22/01
+                         333            $  .75              10/24/01
+                       1,944            $  .90              11/19/01
+                       4,487            $  .39              03/11/02
+
+Timothy P. Hulick,
+ Ph.D                  1,944            $  .90              09/10/01
+                         312            $  .80              10/12/01
+                         333            $  .75              10/19/01
+                         333            $  .75              10/22/01
+                         333            $  .75              10/24/01
+                       1,944            $  .90              11/19/01
+
+Evagelia Rogiokos      1,428            $ 1.75              03/05/01
+                         200            $ 1.25              03/21/01
+                         271            $  .92              05/10/01
+
+</TABLE>
+          The Company has relied on Section 4(2) of the Securities Act of
+1933 for each issuance of its unregistered securities described in the table
+above. In each case, the issuances were small in number and amount and were
+made to sophisticated offerees having access to the kind of information that
+would be available in a registered offering.
+
+ITEM 6:   MANAGEMENT'S DISCUSSION AND ANALYSIS OR PLAN OF OPERATION
+
+Results of Operations
+
+          Net sales for fiscal year ended March 31, 2002 totaled $6,343,000,
+compared to $6,109,000 for fiscal 2001.  Advanced Broadcast Systems,
+Inc.(ABS), a subsidiary which manufactures high power television transmitters,
+contributed net sales of $2,599,000 for fiscal 2002 and $1,189,000 for 2001.
+
+          Foreign shipments for fiscal year 2002 totaled $1,107,000 compared
+to $3,513,000 in fiscal 2001. No customer had sales volume of ten or more
+percent in 2002.  One customer in Korea accounted for $1,221,000 (20%) of
+sales in 2001.  Customer deposit setoffs as well as a reversal of accrued
+expenses relating to commissions reduced this account by $602,000.
+Approximately $718,000 of this customer's receivable remains past due at March
+31, 2002.
+
+          For fiscal year 2001, foreign sales were more than half of total
+sales for the Company.  However, between 2001 and 2002, foreign sales declined
+due primarily to international economic conditions and the credit worthiness
+of our historical customer base. The composition of these shipments to the
+following geographic areas is as follows:
+
+<TABLE>
+                                2002          2001             2000
+                              -------        ---------       --------
+                              <S>             <S>            <S>
+<C>
+Asia/Pacific Rim              $  127,000     $1,705,000     $1,516,000
+South America                    360,000        614,000        698,000
+Caribbean                        229,000        167,000        104,000
+Middle East                                       8,000        393,000
+North America                     97,000        130,000         47,000
+Europe                           191,000        495,000         83,000
+Central America                   48,000        309,000         26,000
+Africa                            55,000         20,000
+Other                                            65,000         95,000
+                               ---------      ---------      ---------
+                              $1,107,000     $3,513,000     $2,962,000
+                               =========     =========       =========
+</TABLE>
+          Management hopes to offset the negative impact of the factors
+described above and increase foreign sales as a result of increased marketing,
+devaluation of the dollar to some extent and Emcee's decision to develop a 3.5
+GHz frequency product line which has become the standard in many foreign
+countries.
+
+          The Company is attempting to increase sales in both the MMDS and
+high power markets.  Although the MMDS market is generally depressed,
+management believes there are significant opportunities available both
+domestically and internationally.  With the recent addition of a seasoned MMDS
+sales executive having twenty plus years of technical expertise and a new 3.5
+GHz product line, management believes the Company can significantly improve
+MMDS revenue and margin.
+
+          The high power business has been adversely affected by the FCC's
+decision to delay the digital conversion deadline (from May 2002 to November
+2002)for commercial broadcasters.  With the November 2002 deadline, management
+anticipates orders to commence in July from broadcasters who have yet to
+commit to a supplier.  This could contribute significantly to the Company's
+revenue stream.  In addition, the Company has had some success with and
+continues to pursue "partnering arrangements" with consulting engineers,
+operators and integrators who have an opportunity to specify the Company's
+products in system designs prepared for end users.
+
+          Gross profit equaled $666,000 or 10.5% of sales for fiscal 2002
+compared to $401,000 or 6.6% of sales for fiscal 2001. The increase in the
+gross profit margin is due partly to the change in sales mix between ABS and
+EMCEE product lines and a significant reorganization effort over the last six
+months within the Company.  This margin also reflects an approximate $140,000
+increase in the reserve for obsolete inventory during the fiscal year ended
+March 31, 2002.
+
+          Total operating expenses of $3,519,000 increased $198,000 over the
+last fiscal year.
+
+          General and Administrative expense totaled $2,299,000 compared to
+$1,736,000 in fiscal 2001.  These expenses include Bad Debt expense of
+$895,000 in 2002 and $324,000 in 2001.  The reserve was increased due to
+management's concern over the collection of the receivable balance of the
+Korean customer previously mentioned and of the Brazilian customer mentioned
+below. Net of the impact of the increase to the allowance for doubtful
+accounts, G&A expenses decreased by $8,000.
+
+          Selling expenses decreased by $200,000 from fiscal 2001. This
+decrease is the result of personnel reductions and other cost cutting measures
+taken during fiscal year 2002.
+
+          Research and development was $289,000 for the year ended March 31,
+2002, approximately $166,000 less than the prior year.  During the 2001 fiscal
+year, significant research and development costs were incurred for the
+development of a new product completed early in fiscal 2002.  The closure of
+this project and general cost reductions contributed to the decrease in
+research and development costs.
+
+          Improvements in gross margin and cost cutting efforts offset by
+the increase in the reserve for doubtful accounts resulted in a loss from
+operations of $2,852,000, which is an improvement of $67,000 over 2001.
+
+          Interest expense increased from $126,000 in fiscal 2001 to
+$165,000 in fiscal 2002 as a result of increased indebtedness. Interest income
+decreased from $111,000 in fiscal 2001 to $25,000 in 2002.  This decrease is
+due to investments in U.S. Treasury bills and cash equivalent balances being
+depleted during fiscal 2001 and 2002 to meet operating needs. Other income in
+2002 was primarily from the sale of non-operating assets compared to other
+expenses in 2001 being a loss of approximately $170,000 from equity
+investments in joint ventures formed to sell high speed wireless Internet
+access.
+
+          Net loss before income tax (expense)benefits totaled $2,916,000
+and $3,104,000 for the fiscal years 2002 and 2001, respectively.  In fiscal
+year 2002, the Company recorded a valuation allowance for deferred income
+taxes, which resulted in $777,000 being recorded as income tax expense.  In
+fiscal 2001, a $1,099,000 income tax benefit had been recorded.  The impact of
+these tax calculations resulted in increasing the net loss for 2002 to
+$3,693,000, or $.79 per outstanding share, and reducing the net loss for 2001
+to $2,005,000 or $.50 per outstanding share for fiscal 2001.
+
+         Selected financial data by quarter for the years ended March 31, 2002
+and March 31, 2001 is as follows:
+
+<TABLE>
+<CAPTION>
+             1st Quarter     2nd Quarter      3rd Quarter     4th Quarter
+            2002    2001     2002    2001     2002    2001    2002    2001
+                     (Thousands of Dollars, except per share amounts)
+            -------------  --------------- --------------- ---------------
+             <S>    <S>      <S>     <S>      <S>     <S>      <S>     <S>
+<C>
+Net Sales  $1,836  $1,680  $ 1,248 $1,771 $1,260  $1,780  $1,999  $   878
+Gross profit
+ (loss)    $  365  $  340  $(   92)$  401 $(   9) $  265  $  402  $(  605)
+Net loss   $(188)  $ (274) $(2,436)$ (276)$( 692) $ (303) $( 377) $(1,152)
+Per Share:
+Basic      $(.05)  $(.07)  $ (.51) $(.07) $( .14) $(.07)  $(.09)  $ (.29)
+</TABLE>
+
+Liquidity and Capital Resources
+
+          The Company's cash requirements were satisfied in fiscal 2002 from
+borrowings, equity transactions, customer deposits and the sale of  certain
+non-operating assets.  Cash increased from $69,000 as of March 31, 2001 to
+$354,000 as of March 31, 2002.  This increase is composed of a customer
+deposit received in March, 2002 and delays in payments to vendors.
+
+          Current accounts receivable decreased from $1,628,000 to $603,000
+at March 31, 2001 and 2002, respectively, a $1,025,000 decrease. This decrease
+is principally due to an $895,000 increase in the allowance for doubtful
+accounts and the previously mentioned settlement agreement with the Korean
+customer.  The increased allowance for doubtful accounts was to reserve
+against two foreign customers. The Korean customer mentioned previously is in
+default of a settlement agreement.  In 2002, the Company also established a
+specific reserve for a Brazilian customer.  This reserve is based on the
+customer's inability to adhere to the payment terms as defined in the payment
+restructuring agreement and its financial statement condition.  Although the
+Registrant is considering its options to recover monies due, these accounts
+have been fully reserved.
+
+         Revenues from long-term contracts are recorded on the basis of the
+estimated percentage of completion of individual contracts determined under
+the cost-to-cost method.  This method is used because management considers the
+cost-to-cost method to be the best available measure of progress on these
+contracts. At March 31, 2002, the Company had 5 contracts which were accounted
+for using the percentage of completion method.  Due to the accounting for
+these contracts, the company recorded an asset of $253,000 for cost and
+estimated earnings in excess of billing and a liability of $150,000 for
+billing in excess of costs and estimated earnings.
+
+          Inventories decreased from $4,100,000 to $3,113,000 at March 31,
+2001 and 2002, respectively, a $987,000 decrease. In 2001, the Company
+purchased additional inventory due to expected shortages of critical parts and
+expected increase in Multichannel Multipoint Distribution Service (MMDS)
+sales.  The MMDS sales did not materialize as expected. The Company has been
+able to reduce this inventory by utilizing it in new products and in new
+product lines, and retrofitting it into existing products whenever possible.
+The reserve for obsolete inventory was increased by $140,000 increasing this
+reserve to 18% of the current inventory up from 11% in 2001.
+
+          Prepaid expenses increased from $160,000 to $231,000 at March 31,
+2001 and 2002, respectively. A deposit with a vendor for an OEM part accounted
+for $68,000 of this change.  Income tax refundable of $570,000 at March 31,
+2002, is due to a recently enacted change in the Internal Revenue Code
+regarding the net loss carryback period.
+
+          Property, plant and equipment, net, decreased $189,000 due to the
+sale of a parcel of land and depreciation expense of $154,000 for the year
+ended March 31, 2002.
+
+          Other assets decreased from $2,398,000 at March 31, 2001 to
+$585,000 at March 31, 2002.   The decrease is primarily due to a deferred tax
+valuation allowance, reclassification of a Brazilian customer's receivable of
+$356,000 to current assets and the sales of the Company's 50% interest in
+Grand Forks Wireless at the exercise of the other partner's purchase option.
+In 2002, other assets also include a $100,000 restricted Certificate of
+Deposit required by the Company's primary lending institution.
+
+          As previously mentioned, the Company established a valuation
+allowance for deferred income tax in 2002.  The realization of the deferred
+income tax asset is dependent on generating sufficient taxable income prior to
+the expiration of the loss carryforwards, which begin to expire in 2020.  The
+ability to generate future taxable income levels significant enough to realize
+the benefit of this tax asset has become questionable.
+
+          The backlog of unsold orders equaled $2,097,000 as of March 31,
+2002, compared to $2,047,000 at March 31, 2001.  Emcee's backlog is
+$1,181,000, and ABS' is $916,000 as of March 31, 2002. 2002.
+
+          The Company had 41 full time employees at its facilities in
+Pennsylvania and Kentucky, as of March 31, 2002.
+
+          Treasury stock decreased by 43,225 shares and a value of $200,166
+at March 31, 2002.  These unregistered shares were issued to certain eligible
+Directors in lieu of cash compensation for payment of director's fees.
+
+          On June 7, 2001, the Company entered into a loan agreement with
+First Federal Bank in the aggregate amount of $2,000,000, 80% of which is
+guaranteed by the United States Department of Agriculture Rural Development
+Division.  These loans consist of a $500,000 term loan and a $1,500,000
+mortgage loan.  Of the aggregate $2,000,000, approximately $1,115,000 was used
+to satisfy outstanding debt to the Company's former lender.  The remainder was
+used as working capital.  The mortgage loan matures in 2016 and requires
+monthly payments of $15,214.  The term loan matures in 2006 and requires
+monthly payments of $10,379.  These loans are collateralized by all assets of
+the Company and contain certain financial and other covenants.  At March 31,
+2002, the Company was in violation of one of these financial covenants, but
+has received a written waiver of this violation from the bank which will
+expire at the end of fiscal year 2003.
+
+          Accounts payable increased $218,000 from $756,000 to $974,000 as
+of March 31, 2001 and 2002, respectively.  The majority of the increase is due
+to delays in payments to vendors because of limited liquidity.
+
+          Other accrued expenses decreased from $608,000 as of March 31,
+2001 to $203,000 at March 31, 2002.  The settlement agreement with the Korean
+customer allowed for the reversal of a $464,000 commission payable on the
+Korean sale.
+
+          Deposits from customers decreased from $915,000 in fiscal 2001 to
+$421,000 as of March 31, 2002. The Korean customer's deposit of $138,000 was
+reversed.  The balance of the change is the result of the timing of orders and
+shipments.
+
+          On June 13, 2001, the Company, in two separate transactions,
+entered into stock option agreements which provided, in the aggregate, for the
+issuance of 800,000 shares of common stock at $0.75 per share.  The options
+were exercised and provided $600,000 in equity for the Company. The net
+amount, after transaction expenses, was used for working capital.
+
+          The Registrant continues to have limited ability to secure
+additional funds from debt or equity transactions.  This, along with depressed
+market conditions, has created a level of doubt concerning the Company's
+ability to continue as a going concern.  Despite the financial, operational
+and market conditions, management continues to implement a plan to stabilize
+finances and position the Company for future profitability.
+
+ITEM 7.   FINANCIAL STATEMENTS
+
+          See pages 26 to 45 of this report for the financial statements
+required by this Item.
+
+ITEM 8.   CHANGE IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND
+FINANCIAL DISCLOSURES
+
+          There is no information relevant to the Registrant which must be
+disclosed under this Item 8.
+
+               PART III
+
+ITEM 9.   DIRECTORS, EXECUTIVE OFFICERS, PROMOTERS AND CONTROL PERSONS;
+COMPLIANCE WITH SECTION 16(a) OF THE EXCHANGE ACT
+
+          The information required by this Item 9 is incorporated herein
+from the Proxy Statement expected to be filed within one hundred twenty (120)
+days of the close of the Registrant's fiscal year.
+
+ITEM 10.  EXECUTIVE COMPENSATION
+
+          The information required by this Item 10 is incorporated herein
+from the Proxy Statement expected to be filed within one hundred twenty (120)
+days of the close of the Registrant's fiscal year.
+
+ITEM 11.  SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT
+
+          The information required by this Item 11 is incorporated herein
+from the Proxy Statement expected to be filed within one hundred twenty (120)
+days of the close of the Registrant's fiscal year.
+
+ITEM 12.  CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS
+
+          The information required by this Item 12 is incorporated herein
+from the Proxy Statement expected to be filed within one hundred twenty (120)
+days of the close of the Registrant's fiscal year.
+
+ITEM 13.  EXHIBITS AND REPORTS ON FORM 8-K
+
+          (a) Exhibits. The following is an Exhibit Index of the applicable
+Exhibits to this report:
+
+DESCRIPTION OF EXHIBIT              EXHIBIT NUMBER          PAGE NUMBER
+
+  Articles of Incorporation
+  and Bylaws
+
+      Restated Certificate
+      of Incorporation                  3 i                      46
+      Bylaws                            3 ii                     (1)
+
+  Material Contracts
+
+       1996 Stock Option Plan           10                       55
+       Agreement (Change in Control
+       Agreements for certain
+       Executive Officers)              10                       (2)
+       Extension Agreement (extending
+       the terms of certain Change in
+       Control Agreements)              10                       (2)
+       Settlement and Release
+       Agreement                        10                       66
+
+  Subsidiaries                          21                       75
+
+     (1) Incorporated by reference from the Form 10-KSB filed by the
+Registrant with the U.S. Securities and Exchange Commission for fiscal year
+ended 1998.
+
+     (2) Incorporated by reference from the Form 10-KSB filed with the U.S.
+Securities and Exchange Commission for fiscal year ended 2001.
+
+          (b) Reports on Form 8-K. The Registrant filed one report on Form
+8-K during the last quarter of the period covered by this report. That report,
+which was filed on January 7, 2002, announced that Joan H. Pecora had been
+hired as controller of the Company.
+
+     [REMAINDER OF THIS PAGE INTENTIONALLY LEFT BLANK]
+
+<PAGE>
+          In accordance with Section 13 or 15(d) of the Exchange Act, the
+Registrant caused this report to be signed on its behalf by the undersigned,
+thereunto duly authorized.
+
+
+                              EMCEE BROADCAST PRODUCTS, INC.
+
+                              /s/ RICHARD J. NARDONE
+                              Richard J. Nardone, President/CEO
+                              Date: June 28, 2002
+
+                              /s/ JOAN H. PECORA
+                              Joan H. Pecora, Controller
+                              Date: June 28, 2002
+
+          In accordance with the Exchange Act, this report has been signed
+below by the following persons on behalf of the Registrant and in the
+capacities and on the dates indicated.
+
+
+/s/ ROBERT HOSTETLER                    Date: June 28, 2002
+Robert Hostetler, Director
+
+/s/ TIMOTHY P. HULICK, Ph.D             Date: June 28, 2002
+Timothy P. Hulick, Ph.D,
+ Director
+
+/s/ MICHAEL J. LEIB                     Date: June 28, 2002
+Michael J. Leib, Director
+
+/s/ RANDALL P. MARX                     Date: June 28, 2002
+Randall P. Marx, Director
+
+/s/ RICHARD J. NARDONE                  Date: June 28, 2002
+Richard J. Nardone, Director
+
+
+<PAGE>
+                   Independent Auditors' Report
+
+
+Board of Directors
+EMCEE Broadcast Products, Inc.
+White Haven, Pennsylvania
+
+We have audited the consolidated balance sheets of EMCEE Broadcast Products,
+Inc. and subsidiaries as of March 31, 2002 and 2001 and the related consoli-
+dated statements of loss, shareholders' equity and cash flows for the years
+then ended.  These financial statements are the responsibility of the Com-
+pany's management.  Our responsibility is to express an opinion on these
+financial statements based on our audits.
+
+We conducted our audits in accordance with auditing standards generally
+accepted in the United States of America.  Those standards require that we
+plan and perform the audit to obtain reasonable assurance about whether the
+financial statements are free of material misstatement.  An audit includes
+examining, on a test basis, evidence supporting the amounts and disclosures in
+the financial statements.  An audit also includes assessing the accounting
+principles used and significant estimates made by management, as well as
+evaluating the overall financial statement presentation.  We believe that our
+audits provide a reasonable basis for our opinion.
+
+In our opinion, the consolidated financial statements referred to above
+present fairly, in all material respects, the financial position of EMCEE
+Broadcast Products, Inc. and subsidiaries as of March 31, 2002 and 2001, and
+the results of their operations and their cash flows for the years then ended,
+in conformity with accounting principles generally accepted in the United
+States of America.
+
+The accompanying financial statements have been prepared assuming that the
+Company will continue as a going concern.  As discussed in Note 13 to the
+financial statements, the Company's significant net losses and operating cash
+flow deficiencies raise substantial doubt about its ability to continue as a
+going concern.  Management's plans in regard to these matters are also
+described in Note 13.  The financial statements do not include any adjustments
+that might result from the outcome of this uncertainty.
+
+
+/S/ KRONICK KALADA BERDY & CO., P.C.
+Kingston, Pennsylvania
+June 6, 2002
+
+<PAGE>
+<TABLE>
+<CAPTION>
+EMCEE BROADCAST PRODUCTS, INC. AND SUBSIDIARIES
+CONSOLIDATED BALANCE SHEETS - MARCH 31, 2002 AND 2001
+
+ASSETS
+                                                     2002          2001
+                                                    --------     ---------
+                                                      <S>          <S>
+<C>
+Current assets:
+    Cash                                        $    353,655    $  69,210
+    Accounts receivable, net of allowance for
+      doubtful accounts (2002, $1,281,000;
+      2001,$388,000)                                 603,045    1,628,454
+    Costs and estimated earnings in excess of
+      billing on uncompleted contracts               252,511
+    Inventories                                    3,113,284    4,099,919
+    Prepaid expenses                                 230,994      160,043
+    Income taxes refundable                          569,581
+
+                                                   ---------   ----------
+          Total current assets                     5,123,070    5,957,626
+                                                   ---------   ----------
+
+Property, plant and equipment:
+    Land and land improvements                       235,142      246,841
+    Building                                         617,475      617,475
+    Machinery                                      2,180,262    2,203,134
+                                                    ---------  ----------
+                                                   3,032,879    3,067,450
+    Less accumulated depreciation                  2,595,866    2,441,773
+                                                    ---------  ----------
+                                                     437,013      625,677
+                                                    ---------  ----------
+Other assets                                         584,650    2,398,011
+                                                   ---------   ----------
+Note receivable, sale of license                     555,000      540,000
+Less deferred portion                            (   555,000) (   540,000)
+                                                    ---------   ----------
+                                                           0            0
+                                                    ---------   ----------
+
+          Total assets                           $ 6,144,733  $ 8,981,314
+                                                    ========   ==========
+
+<FN>
+See notes to consolidated financial statements
+</FN>
+</TABLE>
+<PAGE>
+<TABLE>
+<CAPTION>
+
+LIABILITIES AND SHAREHOLDERS' EQUITY
+                                                   2002           2001
+                                                 ---------      --------
+                                                     <S>         <S>
+<C>
+Current liabilities:
+  Current portion of long-term debt            $    149,000 $    108,000
+  Accounts payable                                  973,951      756,430
+  Accrued expenses:
+    Payroll and related expenses                    232,679      233,766
+    Other                                           203,721      608,113
+  Billings in excess of costs and estimated
+   earnings on uncompleted contracts                150,383
+  Deposits from customers                           420,906      914,796
+                                                  ---------    ---------
+          Total current liabilities               2,130,640    2,621,105
+                                                  ---------    ---------
+
+Long-term debt, net of current portion            1,771,465    1,028,488
+                                                  ---------    ---------
+Shareholders' equity:
+  Common stock, $.01 - 2/3 par;
+   authorized 9,000,000 shares; issued
+   5,206,361 shares and 4,406,361 shares
+   for 2002 and 2001, respectively                   86,783       73,450
+  Additional paid-in capital                      3,974,385    3,583,484
+  Retained earnings (deficit)                   (   180,698)   3,512,795
+                                                  ---------    ---------
+                                                  3,880,470    7,169,729
+  Less shares held in treasury, at cost
+   (353,655 shares and 396,880 shares
+    for 2002 and 2001, respectively)              1,637,842    1,838,008
+                                                  ---------    ---------
+
+                                                  2,242,628    5,331,721
+                                                  ---------    ---------
+          Total liabilities and equity          $ 6,144,733  $ 8,981,314
+                                                  =========    =========
+</TABLE>
+<PAGE>
+
+<TABLE>
+<CAPTION>
+EMCEE BROADCAST PRODUCTS, INC. AND SUBSIDIARIES
+
+CONSOLIDATED STATEMENTS OF LOSS - YEARS ENDED MARCH 31, 2002 AND 2001
+
+                                                     2002          2001
+                                                 ----------     ----------
+                                                   <S>          <S>
+<C>
+Net sales                                        $ 6,342,773  $ 6,108,770
+Costs of products sold                             5,676,651    5,707,502
+                                                   ---------    ---------
+Gross profit                                         666,122      401,268
+                                                   ---------    ---------
+Operating expenses:
+    Selling                                          930,224    1,129,767
+    General and administrative                     2,299,467    1,736,329
+    Research and development                         288,826      454,592
+                                                   ---------    ---------
+                                                   3,518,517    3,320,688
+                                                   ---------    ---------
+Loss from operations                              (2,852,395)  (2,919,420)
+                                                   ---------    ---------
+Other income (expense), net:
+    Interest expense                             (   165,355) (   126,234)
+    Interest income                                   24,706      111,146
+    Other                                             76,551  (   169,938)
+                                                     -------      -------
+                                                 (    64,098) (   185,026)
+                                                     -------      -------
+Loss before income taxes                         ( 2,916,493) ( 3,104,446)
+
+Income tax (expense) benefit                     (   777,000)   1,099,000
+                                                   ---------    ---------
+
+Net loss                                         $(3,693,493) $(2,005,446)
+                                                   =========    =========
+
+Basic loss per share                                   $(.79)       $(.50)
+                                                         ===          ===
+Weighted average shares of common
+ stock outstanding                                 4,664,970    4,004,624
+                                                   =========    =========
+
+<FN>
+See notes to consolidated financial statements
+</FN>
+</TABLE>
+<PAGE>
+
+<TABLE>
+<CAPTION>
+EMCEE BROADCAST PRODUCTS, INC. AND SUBSIDIARIES
+
+CONSOLIDATED STATEMENTS OF SHAREHOLDERS' EQUITY - YEARS ENDED MARCH 31, 2002
+AND 2001
+
+                           Common Stock          Additional     Retained
+                                                 Paid-in        Earnings
+                           Shares     Amount     Capital        (Deficit)
+                           --------   -------   -----------   -----------
+                            <S>        <S>       <S>           <S>
+<C>
+Balance, March 31, 2000    4,406,361  $73,450   $3,583,484     $5,518,241
+
+Treasury stock issued
+
+Net loss for the year                                          (2,005,446)
+                           ---------   ------    ---------      ---------
+Balance, March 31, 2001    4,406,361   73,450    3,583,484      3,512,795
+
+Common stock issued          800,000   13,333      564,567
+
+Treasury stock issued                           (  173,666)
+
+Net loss for the year                                          (3,693,493)
+                           ---------   -------   ---------      ---------
+Balance, March 31, 2002    5,206,361   $86,783  $3,974,385    $(  180,698)
+                           =========   =======   =========      ==========
+
+</TABLE>
+<PAGE>
+
+<TABLE>
+<CAPTION>
+
+EMCEE BROADCAST PRODUCTS, INC. AND SUBSIDIARIES
+
+CONSOLIDATED STATEMENTS OF SHAREHOLDERS' EQUITY - YEARS ENDED MARCH 31, 2002
+AND 2001
+
+                             Treasury Stock
+                           Shares      Amount       Total
+                           -------   ----------   ----------
+                             <S>       <S>          <S>
+<C>
+Balance, March 31, 2000   401,764   $(1,860,651)   $7,314,524
+
+Treasury stock issued     ( 4,884)       22,643        22,643
+
+Net loss for the year                              (2,005,446)
+                          -------     ---------     ---------
+Balance, March 31, 2001   396,880    (1,838,008)    5,331,721
+
+Common stock issued                                   577,900
+
+Treasury stock issued     (43,225)      200,166        26,500
+
+Net loss for the year                             ( 3,693,493)
+                          -------    ----------     ---------
+Balance, March 31, 2002   353,655   $(1,637,842)  $ 2,242,628
+                          =======     =========     =========
+
+<FN>
+See notes to consolidated financial statements
+</FN>
+</TABLE>
+<PAGE>
+
+<TABLE>
+<CAPTION>
+EMCEE BROADCAST PRODUCTS, INC. AND SUBSIDIARIES
+
+CONSOLIDATED STATEMENTS OF CASH FLOWS - YEARS ENDED MARCH 31, 2002 AND 2001
+
+                                                    2002           2001
+                                                  ----------    ----------
+                                                   <S>          <S>
+<C>
+Cash flows from operating activities:
+  Net loss                                       $(3,693,493) $(2,005,446)
+  Adjustments:
+    Depreciation                                     177,000      203,730
+    Amortization                                      37,000       18,467
+    Gain on sale of assets, net                   (   61,681)
+    Provision for doubtful accounts                  895,000      324,000
+    Treasury stock issued for directors fees          26,500       22,643
+    Loss on equity investments                        33,106      171,040
+    Change in assets and liabilities:
+      (Increase) decrease in:
+        Accounts receivable                      (   116,387) (   409,580)
+        Costs and estimated earnings in excess of
+         billings on uncompleted contracts       (   252,511)
+        Inventory                                    986,635  (   814,038)
+        Prepaid expenses                         (    70,951) (    79,930)
+        Income taxes refundable                  (   569,581)     373,000
+        Deferred income taxes                      1,347,000  (1 ,098,000)
+        Other assets                                          (   111,888)
+       Increase (decrease) in:
+        Accounts payable                             217,521      343,230
+        Accrued expenses                              57,913      169,588
+        Billings in excess of costs and estimated
+         earnings on uncompleted contracts           150,383
+        Deposits from customers                  (   354,912)     850,549
+                                                    --------      -------
+
+           Net cash used in operating activities ( 1,191,458)  (2,042,635)
+                                                   ---------    ---------
+Cash flows from investing activities:
+    Purchases of:
+        Property, plant and equipment                         (    71,516)
+        U.S. Treasury Bills                                   (   809,101)
+        Advanced Broadcast Systems                            (   500,000)
+    Proceeds from:
+        Maturities of U.S. Treasury Bills                       2,582,701
+        Sale of assets                               300,000      250,000
+    Other assets                                              (    35,677)
+    Restricted cash                              (   100,000)
+                                                   ---------    ---------
+          Net cash provided by investing activities  200,000    1,416,407
+                                                    --------    ---------
+</TABLE>
+<PAGE>
+
+<TABLE>
+EMCEE BROADCAST PRODUCTS, INC. AND SUBSIDIARIES
+
+CONSOLIDATED STATEMENTS OF CASH FLOWS (CONTINUED)- YEARS ENDED MARCH 31, 2002
+AND 2001
+
+                                                    2002           2001
+                                                   ---------    ---------
+                                                   <S>          <S>
+<C>
+Cash flows from financing activities:
+  Proceeds from issuance of:
+    Long-term debt                                 2,000,000    1,115,527
+    Common stock, net                                577,900
+  Payments on long-term debt                      (1,216,023)  (  681,393)
+  Loan origination fee                            (   85,974)
+                                                   ---------     --------
+        Net cash provided by financing activities  1,275,903      434,134
+                                                   ---------     --------
+Net increase (decrease) in cash                      284,445   (  192,094)
+
+Cash, beginning                                       69,210      261,304
+                                                     -------      -------
+Cash, ending                                    $    353,655  $    69,210
+                                                     =======    =========
+
+Supplemental disclosures of cash flow information:
+
+Cash paid (refunded) during the year for:
+    Interest                                    $    165,000  $   134,000
+    Income taxes                                              $(  373,000)
+
+Fair value of assets acquired and liabilities assumed or settled
+for purchase of Advanced Broadcast Systems, Inc.:
+    Equipment                                                 $   245,000
+    Inventory                                                     178,568
+    Accounts receivable                                            90,595
+    Goodwill                                                      200,505
+    Accounts payable                                          (    44,529)
+    Accrued liabilities                                       (    20,139)
+    Inter-company payables                                    (   150,000)
+                                                                  -------
+    Cash paid                                                 $   500,000
+                                                                  =======
+Non-cash items, decreases in:
+    Accounts receivable                         $(   602,370)
+    Accrued expenses, other                          463,392
+    Customer deposits                                138,978
+                                                     -------
+                                                $          0
+                                                     =======
+<FN>
+See notes to consolidated financial statements
+</FN>
+</TABLE>
+
+<PAGE>
+
+EMCEE BROADCAST PRODUCTS, INC. AND SUBSIDIARIES
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS - YEARS ENDED MARCH 31, 2002 AND
+2001
+
+1. Summary of significant accounting policies and significant
+   estimates:
+
+   Principles of consolidation:
+   The consolidated financial statements include the accounts of EMCEE
+Broadcast Products, Inc. and Its subsidiaries, all of which are wholly-owned
+(together, the Company).  All significant intercompany accounts and
+transactions have been eliminated.
+
+   Acquisition:
+   During the fiscal year ended March 31, 2001, the Company completed its
+acquisition of Advanced Broadcast Systems, Inc. (ABS) for approximately
+$500,000 in cash.  ABS is a manufacturer of commercial high and medium power
+analog and digital television transmitters for UHF broadcast markets. This
+acquisition was completed using the purchase method of accounting.  In
+connection with this purchase, the Company recorded Goodwill in the amount of
+$272,000.
+
+   Revenue recognition:
+   Revenue from product sales of equipment is recognized at the time of
+delivery and after consideration of all the terms and conditions of the
+customers' contract (purchase order).  Revenues from long-term contracts are
+recorded on the basis of the estimated percentage of completion of individual
+contracts determined under the cost-to-cost method.  This method is used be-
+cause management considers the cost-to-cost method to be the best available
+measure of progress on these contracts.  Contract costs include all direct
+costs and those indirect costs related to contract performance.  General and
+administrative costs are charged to expense as incurred.  Provisions for
+estimated losses on uncompleted contracts are made in the period in which such
+losses are determined.  Changes in job performance, job conditions, and
+estimated profit ability, including those arising from contract penalty
+provisions, and final contract settlements may result in revisions to costs
+and income and are recognized in the period in which the revisions are
+determined.
+
+   The asset, "Costs and estimated earnings in excess of billings on
+uncompleted contracts", represents revenues recognized in excess of amounts
+billed.  The liability, "Billings in excess of costs and estimated earnings
+on uncompleted contracts", represents billings in excess of revenues
+recognized.
+
+<PAGE>
+
+EMCEE BROADCAST PRODUCTS, INC. AND SUBSIDIARIES
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)- YEARS ENDED MARCH 31,
+2002 AND 2001
+
+1. Summary of significant accounting policies and significant estimates
+(continued):
+
+   During 1992, a rural cellular license was sold for $3,100,000.  The initial
+payment was $845,000, net of closing costs of $155,000.  The $2,100,000
+balance, which bore interest at 7% payable at maturity, was due in December
+1996.  None of the deferred payment and the related interest income was
+recognized prior to 1997 because of their extended collection period and
+because there was not a reasonable basis to evaluate the likelihood of
+collection.  On April 3, 1997, the Company collected $2,500,000 and received
+an unsecured $500,000 note receivable as settlement of the original note.
+
+   The $555,000 note receivable is due and payable upon the occurrence of any
+one or more of certain specified events involving the debtor including, but
+not limited to, acquisition, merger, bankruptcy, and insolvency.  None of the
+specified events relate to the debtor's normal operations.  The $555,000
+includes accrued interest calculated at 3%. The note receivable is fully
+reserved because it has no definite collection period and because there is
+not a reasonable basis to evaluate the likelihood of collection.
+
+     Restricted cash:
+   At March 31, 2002, restricted cash consists of $100,000 invested in a
+Certificate of Deposit as required by the debt agreement.
+
+   Inventories:
+   Inventories are stated at the lower of standard cost which approximates
+current actual cost (on a first-in, first-out basis) or market (net realizable
+value).
+
+   Property, plant and equipment and depreciation:
+   Property, plant and equipment are stated at cost. Depreciation is provided
+on the straight-line method over the estimated useful lives of the assets.
+
+   Investments:
+   Investments are accounted for under the equity method if the Company has
+ownership of between 20% and 50%.
+
+<PAGE>
+
+EMCEE BROADCAST PRODUCTS, INC. AND SUBSIDIARIES
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)- YEARS ENDED MARCH 31,
+2002 AND 2001
+
+1. Summary of significant accounting policies and significant
+   estimates (continued):
+
+   Use of estimates:
+   The preparation of financial statements in conformity with generally
+accepted accounting principles requires management to make estimates and
+assumptions that affect the reported amounts of assets and liabilities and
+disclosure of contingent assets and liabilities at the date of the financial
+statements and the reported amounts of revenues and expenses during the
+reporting period.  Actual results could differ from these estimates.
+
+   At March 31, 2002 and 2001, a significant portion of the inventory of one
+of the Company's products is in excess of the Company's current requirements
+based on the recent level of sales.  Management has developed a program to
+reduce this inventory to desired levels over the near term and believes no
+loss will be incurred on its disposition.  No estimate can be made of a
+range of amounts of loss that are reasonably possible should the program
+not be successful.
+
+2.     Cash concentration:
+
+   The Company maintains its cash balances at financial institutions.  The
+balances are insured by the Federal Deposit Insurance Corporation up to
+$100,000.  Uninsured cash at March 31, 2002 was $437,000.
+
+3.   Loss per share:
+
+   Basic loss per share is computed by dividing loss applicable to common
+shareholders by the weighted average number of common shares outstanding.
+Diluted loss per share is similar to basic loss per share except that the
+weighted average common shares outstanding is increased to include the number
+of additional common shares that would have been outstanding if the dilutive
+potential common shares had been issued.  There were no dilutive potential
+common shares in 2002 or 2001 because the assumed exercise of the options
+would be anti-dilutive.
+
+<PAGE>
+
+EMCEE BROADCAST PRODUCTS, INC. AND SUBSIDIARIES
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)- YEARS ENDED MARCH 31,
+2002 AND 2001
+
+4. Segment information:
+
+   The Company has two operating segments, EMCEE and ABS, which manufacture
+and sell a variety of products.  EMCEE manufactures principally multichannel
+multipoint distribution service (MMDS) transmitters.  ABS manufactures
+medium to high power transmitters.  The following is a summary of certain
+financial information relating to the two segments:
+
+                                                    2002           2001
+                                                  ---------     ---------
+Total revenue by segment:
+         EMCEE                                  $ 3,743,000   $ 4,920,000
+         ABS                                      2,599,000     1,189,000
+                                                  ---------     ---------
+                                                $ 6,342,000   $ 6,109,000
+                                                  =========     =========
+       Operating loss by segment:
+         EMCEE                                  $(2,752,000)  $(2,762,000)
+         ABS                                     (  100,000)   (  157,000)
+                                                  ----------    ---------
+                                                $(2,852,000)  $(2,919,000)
+                                                  =========     =========
+       Identifiable assets by segment:
+         EMCEE                                  $ 5,300,000   $ 7,462,000
+         ABS                                        445,000       880,000
+                                                  ---------     ---------
+         Total identifiable assets                5,745,000     8,342,000
+
+         Corporate                                  400,000       639,000
+                                                  ---------     ---------
+         Total assets                           $ 6,145,000   $ 8,981,000
+                                                  =========     =========
+
+       Depreciation and amortization by segment:
+         EMCEE                                 $     99,000   $   132,000
+         ABS                                         78,000        39,000
+         Corporate                                   37,000        51,000
+                                                   --------       -------
+                                               $    214,000   $   222,000
+                                                   ========       =======
+       Capital expenditures by segment:
+         EMCEE                                 $          0   $    27,000
+         ABS                                              0        18,000
+            Corporate                                     0        27,000
+                                                   --------        ------
+                                               $          0   $    72,000
+                                                   ========        ======
+
+   The Company evaluates segment performance based on profit or loss from
+operations before interest, other income/expense and taxes.
+
+<PAGE>
+EMCEE BROADCAST PRODUCTS, INC. AND SUBSIDIARIES
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)- YEARS ENDED MARCH 31,
+2002 AND 2001
+
+4. Segment information (continued):
+
+   Major customers are those that individually account for more than 10% of
+the Company's consolidated revenues.  For the year ended March 31, 2002, no
+customer qualified as a major customer.  For the year ended March 31, 2001,
+one customer with sales of $1,221,000 qualified as a major customer.  At March
+31, 2002 and 2001, the major customer accounted for 0% and 67%, respectively,
+of the Company's consolidated current accounts receivable.  The Company has
+reserved $1,274,000 at March 31, 2002 for 2001's major customer and another
+foreign sales customer.  As of March 31, 2001, the Company reserved $384,000
+for the major customer.  The impaired receivables amounted to $1,280,000 and
+$1,371,000 at March 31, 2002 and 2001, respectively.  Due to a settlement
+agreement reached in 2002 with the 2001 major customer, approximately $602,000
+of accrued expenses and customer deposits were offset against the 2002
+receivable.  The Company continues to pursue collection of the amounts
+outstanding from these customers.  These amounts are not supported by
+letters of credit.
+
+   The Company performs ongoing credit evaluations of its customers and, when
+deemed necessary and when possible, requires deposits and a letter of credit
+or sight drafts on foreign sales and deposits on domestic sales.
+
+   Foreign sales amounted to $1,107,000 and $3,513,000 for 2002 and 2001,
+respectively.  Sales by foreign geographic regions are as follows:
+
+                                         2002                 2001
+                                       ---------          ------------
+    South America                   $    360,000         $    614,000
+    Caribbean                            229,000              167,000
+    Europe                               191,000              495,000
+    Asia/Pacific Rim                     127,000            1,705,000
+    North America                         97,000              130,000
+    Africa                                55,000               20,000
+    Central America                       48,000              309,000
+    Other                                                      73,000
+                                       ---------            ---------
+                                      $1,107,000          $ 3,513,000
+                                       =========            =========
+
+   Revenues are attributed to regions based on location of customers.  All
+long-lived assets and, at March 31, 2001, deferred tax assets are attributable
+to the United States.  All foreign sales are contracted in United States
+currency; therefore, there is no impact from foreign currency rates.
+
+<PAGE>
+EMCEE BROADCAST PRODUCTS, INC. AND SUBSIDIARIES
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)- YEARS ENDED MARCH 31,
+2002 AND 2001
+
+5. Costs, estimated earnings and billings on uncompleted contract:
+
+                                                          2002
+                                                       ---------
+    Costs incurred on uncompleted contract           $ 1,521,197
+    Estimated earnings                                   347,287
+                                                        --------
+                                                       1,868,484
+    Less billings to date                              1,766,356
+                                                       ---------
+    Net                                              $   102,128
+                                                       =========
+
+  This amount is included in the accompanying balance sheet under the
+following captions:
+
+
+                                                           2002
+                                                        ---------
+    Costs and estimated earnings in excess of
+     billings on uncompleted contracts               $    252,511
+    Billings in excess of costs and estimated
+     earnings on uncompleted contracts                   (150,383)
+                                                          -------
+    Net                                              $    102,128
+                                                          =======
+
+6. Inventories:
+                                                   2002          2001
+                                                ---------    ---------
+   Finished goods                            $    404,000  $   433,000
+   Work-in-process                                627,000      731,000
+   Raw materials                                  624,000    1,225,000
+   Manufactured components                      1,458,284    1,710,919
+                                                ---------    ----------
+                                              $ 3,113,284  $ 4,099,919
+                                                =========   ==========
+
+7. Long-term debt:
+                                                   2002          2001
+                                                ---------   ----------
+    Term loan, bank                           $ 1,464,000
+    Equipment loan, bank                          439,000
+    Other loans                                    17,465  $ 1,136,488
+                                                ---------    ---------
+                                                1,920,465    1,136,488
+    Less current portion                          149,000      108,000
+                                                ---------    ---------
+                                              $ 1,771,465  $ 1,028,488
+                                                =========   ==========
+
+<PAGE>
+
+EMCEE BROADCAST PRODUCTS, INC. AND SUBSIDIARIES
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)- YEARS ENDED MARCH 31,
+2002 AND 2001
+
+7. Long-term debt (continued):
+
+   The term loan, bank at March 31, 2002 matures in 2016 and requires monthly
+payments of $15,214.  Interest is calculated at 9% and adjusts every three
+years to 2% above the national prime rate. The equipment loan matures in 2006,
+requires monthly payments of $10,379 and interest is calculated at 9%. These
+loans are collateralized by principally all assets of the Company and
+contain certain financial and other covenants and are 80% guaranteed
+by the United States Department of Agriculture.  At March 31, 2002, the
+Company was in violation of one of these financial covenants.  The bank waived
+the covenant violation. In addition, both loans contain prepayment penalties.
+The proceeds of these loans were used to refinance approximately $1,115,000 of
+the 2001 other loans.
+
+   Principal repayment of the long-term debt, based on current interests, are
+as follows:
+
+                    2003                              $  149,000
+                    2004                                 158,000
+                    2005                                 181,000
+                    2006                                 198,000
+                    2007                                 115,000
+                    Thereafter                         1,119,465
+                                                       ---------
+                                                      $1,920,465
+                                                       =========
+8. Other assets:
+
+                                                     2002        2001
+                                                 ----------   ----------
+   Investments, equity method                   $   184,895  $   444,656
+   Loan origination fees                             71,894
+   Accounts receivable                                           355,574
+        Goodwill                                    227,861      250,781
+        Deferred income taxes                                  1,347,000
+        Restricted cash                             100,000
+                                                    -------    ---------
+                                                $   584,650   $2,398,011
+                                                    ====================
+
+   The investments are in companies who own and/or operate businesses that
+provide rapid access to the internet, wireless cable television, and other
+types of telecommunication service.  One of these companies was sold in 2002.
+
+<PAGE>
+EMCEE BROADCAST PRODUCTS, INC. AND SUBSIDIARIES
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)- YEARS ENDED MARCH 31,
+2002 AND 2001
+
+9. Common stock:
+
+   A nonqualified stock option plan provides for the grant of options to
+purchase up to 100,000 shares.  Upon the termination or expiration of any
+stock options granted, the shares covered by such terminated or expired stock
+options will be available for further grant; 100,000 options were available
+for grant at March 31, 2002.  The Board of Directors, at the date of grant of
+an option, determines the number of shares subject to the grant and the terms
+of such option.  All outstanding options granted expire after 5 years and vest
+over two years.
+
+   Changes in outstanding common stock options granted are summarized below:
+<TABLE>
+<CAPTION>
+
+                                     2002                      2001
+                               Number      Average       Number     Average
+                               of          exercise      of         exercise
+                               shares      price         shares     price
+                              --------   ---------      --------    -------
+                                <S>         <S>         <S>          <S>
+<C>
+Balance at beginning of year    99 400      $6.16       126,675      $5.81
+Options forfeited               99,400       6.16        27,275       4.52
+                                ------       ----       -------       ----
+Balance at end of year               0          0        99,400      $6.16
+                                ======       ====       =======       ====
+
+Options exercisable at year-end                          99,400      $6.16
+</TABLE>
+
+   During 1997, warrants to purchase 200,000 shares of common stock at $9.76 a
+share were issued and remained outstanding at March 31, 2001. These warrants
+expired in May 2001.
+
+   The Company in accordance with an election under generally accepted
+accounting principles for stock options has recorded no compensation cost.
+
+   In June 2001, the Company entered into two stock option agreements which
+were exercised and provided for the issuance of 800,000 shares of common stock
+at $.75 per share.  These options were issued outside the option plan
+discussed previously.
+
+<PAGE>
+
+EMCEE BROADCAST PRODUCTS, INC. AND SUBSIDIARIES
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)- YEARS ENDED MARCH 31,
+2002 AND 2001
+
+10. Income taxes:
+
+   The following table sets forth the current and deferred amounts of the
+provisions for income tax (expense)benefit for the years ended March 31, 2002
+and 2001:
+
+                                                   2002          2001
+                                                -----------   ---------
+
+    Current                                    $    570,000
+    Deferred                                     (1,347,000) $ 1,099,000
+                                                  ---------    ---------
+                                               $(   777,000) $ 1,099,000
+                                                 ==========   ==========
+
+  Due to a change in the Internal Revenue Code regarding the net operating
+loss carryback period, $570,000 was reclassified from deferred to current in
+2002.
+
+   The provisions for income taxes at the Company's effective rate differed
+from the provision for income taxes at the statutory Federal rate of 34%
+for the years ended March 31, 2002 and 2001 as follows:
+
+                                                  2002            2001
+                                               ---------      ----------
+    Federal income tax benefit at the
+     statutory rate                       $      991,000      $1,055,000
+    Federal income tax credit                     22,000          21,000
+    Other                                                         23,000
+    Valuation allowance                       (1,790,000)
+                                               ---------       ---------
+   (Expense) benefit for income taxes       $(   777,000)     $1,099,000
+                                              ===========      =========
+
+   The tax effects of net operating loss carryforwards and temporary
+differences that give rise to deferred income taxes at March 31, 2002 and 2001
+are presented in the table below:
+                                                2002              2001
+                                             ---------         ---------
+    Deferred tax assets:
+     Net operating loss carryforwards     $    982,000       $   879,000
+     Accounts receivable                       435,000           131,000
+     Inventory                                 247,000           212,000
+     Employee benefits                          54,000            59,000
+     Investments                                34,000            34,000
+     Property and equipment                     34,000            28,000
+     Other differences                           4,000             4,000
+     Less valuation allowance               (1,790,000)
+                                             ---------         ---------
+      Total deferred tax assets            $         0        $1,347,000
+                                             ==========       ==========
+
+<PAGE>
+
+EMCEE BROADCAST PRODUCTS, INC. AND SUBSIDIARIES
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)- YEARS ENDED MARCH 31,
+2002 AND 2001
+
+10. Income taxes (continued):
+
+   A valuation allowance is required when it is more likely than not that some
+portion of the deferred tax asset will not be realized.  Realization is
+dependent on generating sufficient future taxable income.
+
+   The net operating loss carryforwards reflect the federal income tax benefit
+of $2,888,000 in loss carryforwards, which begin to expire in 2020.
+
+11. Fair value of financial instruments:
+
+   Many of the Company's financial instruments lack an available trading
+market as characterized by a willing buyer and a willing seller engaging in
+an exchange transaction.  The Company's fair value estimates for those
+instruments are based upon subjective assumptions and involve significant
+uncertainties resulting in estimates that vary with changes in assumptions.
+Any changes in assumptions or estimation methodologies may have a material
+effect on the estimated fair values disclosed.
+
+   A summary at March 31, 2002 and 2001 is as follows:
+<TABLE>
+<CAPTION>
+
+                                       2002                   2001
+                               Carrying     Fair     Carrying       Fair
+                               value        value     value         value
+                              ---------   --------   ----------     --------
+                             <S>          <S>         <S>           <S>
+<C>
+    Short-term assets       $1,526,281   $1,526,281  $1,697,664    $1,697,664
+    Other long-term assets     100,000      100,000     355,574       355,574
+    Short-term liabilities   1,410,351    1,410,351   1,598,309     1,598,309
+    Debt                     1,920,465    1,920,465   1,136,488     1,136,488
+
+</TABLE>
+   Short-term asset and liabilities (exclusive of bank debt):
+   The fair values of cash, accounts receivable, refundable income taxes,
+accounts payable and other short-term financial liabilities approximate their
+carrying values due to the short-term nature of these financial instruments.
+
+   Other long-term assets:
+   Fair value of restricted cash and long-term accounts receivable is
+estimated to approximate carrying value.
+
+<PAGE>
+
+EMCEE BROADCAST PRODUCTS, INC. AND SUBSIDIARIES
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)- YEARS ENDED MARCH 31,
+2002 AND 2001
+
+11. Fair value of financial instruments (continued):
+
+   Debt:
+   The fair value of debt that is variable rate debt that is partially
+guaranteed and reprices regularly or was refinanced subsequent to year end
+at principal amounts using comparable interest rate methodology approximates
+the carrying amounts.  The fair value of partially guaranteed fixed rate
+debt whose interest rate approximates the current rate also approximates
+carrying value.
+
+12. Fourth quarter adjustments (unaudited):
+
+   Year end adjustments, which affected the results of operations for the
+fourth quarter of 2002 and related principally to accounts receivable,
+resulted in fourth quarter losses of $77,000, which is $.02 per share.  Had
+the adjustments been reported in prior quarters, results of operations for the
+fourth quarter would have been a net loss of $300,000 ($.06 per share).
+
+13. Going concern:
+
+   The Company's financial statements have been presented on the basis that it
+is a going concern, which contemplates the realization of assets and the
+satisfaction of liabilities in the normal course of business.
+
+   As shown on the accompanying financial statements, the Company incurred
+losses of $3,693,493 and $2,005,446 during the years ended March 31, 2002 and
+2001, respectively, and had operating cash flow deficiencies in those years.
+The Company's working capital requirements have been funded by proceeds
+from refinanced long-term debt and the issuance of 800,000 shares of common
+stock and sale of assets for year ended March 31,2002, and proceeds from the
+sale of U.S. Treasury Bills for the year ended March 31, 2001.
+
+   The Company has developed and is currently implementing a plan to increase
+revenue and gross margins.  The plan includes reorganization and
+restructuring, addition of a seasoned sales executive, a new product line in
+the 3.5 GHz frequence and pursuing partnering arrangements with consulting
+engineers, operators and integrators.
+
+   The ability of the Company to continue as a going concern is dependent on
+the success of this plan.  The financial statements do not include any
+adjustments relating to the recoverability of recorded assets or the amount of
+liabilities that might be necessary should the Company be unable to continue
+as a going concern.
+
+<PAGE>
+             RESTATED CERTIFICATE OF INCORPORATION
+                               OF
+                 EMCEE BROADCAST PRODUCTS, INC.
+
+     EMCEE Broadcast Products, Inc., a corporation organized and existing
+under the laws of the State of Delaware, hereby certifies as follows:
+
+     1.   The name of the corporation is EMCEE Broadcast Products, Inc., and
+the name under which the corporation was originally incorporated is
+Electronics, Missiles & Communications, Inc.
+
+          The date of filing of its original Certificate of Incorporation with
+the Secretary of State was May 23, 1960.
+
+     2.   This Restated Certificate of Incorporation only restates and
+integrates and does not further amend the provisions of the Certificate of
+Incorporation of this corporation as heretofore amended or supplemented, and
+there is no discrepancy between those provisions and the provisions of this
+Restated Certificate of Incorporation.
+
+     3.   The text of the Certificate of Incorporation as amended or
+supplemented heretofore is hereby restated without further amendments or
+changes to read as herein set forth in full:
+
+          FIRST.    The name of the corporation is EMCEE BROADCAST PRODUCTS,
+     INC.
+
+          SECOND.   Its principal office in the State of Delaware is located
+     at No. 100 West Tenth Street, in the City of Delaware, County of New
+     Castle. The name and address of its resident agent is The Corporation
+     Trust Company, No. 100 West Tenth Street, Wilmington 99, Delaware.
+
+          THIRD.    The nature of the business, or objects or purposes to be
+     transacted, promoted or carried on are:
+
+               To manufacture, produce, assemble, fabricate, import, lease,
+     purchase or otherwise acquire; to invest in, use, hold, own, license the
+     use of, install, handle, maintain, service or repair, to sell, pledge,
+     mortgage, exchange, export, import, distribute, lease, assign, and
+     otherwise dispose of, and generally trade in and deal in, to carry on
+     research, development, engineering, design,  technical studies,
+     consulting, invention, and  revision of, electronic systems,
+     equipment and components, and electrical, and electromechanical
+     apparatus and equipment of all kinds and descriptions, electronics,
+     telecommunications, communications and similar equipment of all
+     descriptions, including but not limited to high frequency, very high
+     frequency, ultra high frequency, microwave, infra-red, relays and
+     repeaters, electronic test equipment, equipment and systems for relaying
+     broadcasting, transmitting and receiving signals,  equipment and systems
+     for computing measurements and control of signals, radio, sonar, radar,
+     television and related and similar devices and equipment, cables,
+     motors, dynamos, generating plants, meters, supplies, parts, equipment,
+     apparatus, machinery, improvements, appliances, tools and goods, wares,
+     merchandise, commodities, articles of commerce and property of every
+     kind and description, services of every kind and description dealing
+     with communications, reception and transmission of sound and light
+     waves, and all and any products, machinery, equipment and supplies used
+     or useful in connection with the foregoing.
+
+               To manufacture, purchase or otherwise acquire, invest in, own,
+     mortgage, pledge, sell, assign and transfer or otherwise dispose of,
+     trade, deal in and deal with goods, wares and merchandise and personal
+     property of every class and description.
+
+               To acquire, and pay for in cash, stock or bonds of this
+     corporation or otherwise, the good will, rights, assets and property,
+     and to undertake or assume the whole or any part of the obligations or
+     liabilities of any person, firm, association or corporation.
+
+               To acquire, hold, use, sell, assign, lease, grant licenses in
+     respect of, mortgage or otherwise dispose of letters patent of the
+     United States or any foreign country, patent rights, licenses and
+     privileges, inventions, improvements and processes, copyrights,
+     trade-marks and trade names, relating to or useful in connection with
+     any business of this corporation.
+
+               To acquire by purchase, subscription or otherwise, and to
+     receive, hold, own, guarantee, sell, assign, exchange, transfer,
+     mortgage, pledge or otherwise dispose of or deal in and with any of the
+     shares of the capital stock, or any voting trust certificates in respect
+     of the shares of capital stock,  scrip, warrants, rights, bonds,
+     debentures, notes, trust receipts, and other securities, obligations,
+     choses in action and evidences of indebtedness or interest issued or
+     created by any corporations, joint stock companies, syndicates,
+     associations, firms, trusts or persons, public or private, or by the
+     government of the United States of America, or by any foreign
+     government, or by any state, territory, province, municipality or other
+     political subdivision or by any governmental agency, and as owner
+     thereof to possess and exercise all the rights, powers and privileges of
+     ownership, including the right to execute consents and vote thereon, and
+     to do any and all acts and things necessary or advisable for the
+     preservation, protection, improvement and enhancement in value thereof.
+
+               To enter into, make and perform contracts of every kind and
+     description with any person, firm, association, corporation,
+     municipality, county, state, body politic or government or colony or
+     dependency thereof.
+
+               To borrow or raise moneys for any of the purposes of the
+     corporation and, from time to time without limit as to amount, to draw,
+     make, accept, endorse, execute and issue promissory notes, drafts,
+     bills of exchange, warrants, bonds, debentures and other negotiable or
+     non-negotiable instruments and evidences of indebtedness, and to secure
+     the payment of any thereof and of the interest thereon by mortgage
+     upon or pledge, conveyance or assignment in trust of the whole or any
+     part of the property of the corporation, whether at the time owned or
+     thereafter acquired, and to sell, pledge or otherwise dispose of such
+     bonds or other obligations of the corporation for its corporate
+     purposes.
+
+               To loan to any person, firm or corporation any of its surplus
+     funds, either with or without security.
+
+               To purchase, hold, sell and transfer the shares of its own
+     capital stock; provided it shall not use its funds or property for the
+     purchase of its own shares of capital stock when such use would cause
+     any impairment of its capital except as otherwise permitted by law, and
+     provided further that shares of its own capital stock belonging to it
+     shall not be voted upon directly or indirectly.
+
+               To have one or more offices, to carry on all or any of its
+     operations and business and without restriction or limit as to amount to
+     purchase or otherwise acquire, hold, own, mortgage, sell, convey or
+     otherwise dispose of, real and personal property of every class and
+     description in any of the states, districts, territories or colonies of
+     the United States, and in any and all foreign countries, subject
+     to the laws of such state, district, territory, colony or country.
+
+               In general, to carry on any other business in connection with
+     the foregoing, and to have and exercise all the powers conferred by the
+     laws of Delaware upon corporations formed under the General Corporation
+     Law of the State of Delaware, and to do any or all of the things
+     hereinbefore set forth to the same extent as natural persons might or
+     could do.
+
+                  The objects and purposes specified in the foregoing clauses
+     shall, except where otherwise expressed, be in nowise limited or
+     restricted by reference to, or inference from, the terms of any other
+     clause in this certificate of incorporation, but the objects and
+     purposes specified in each of the foregoing clauses of this article
+     shall be regarded as independent objects and purposes.
+
+          FOURTH.   The total number of shares which the company shall be
+     authorized to issue is nine million (9,000,000) shares of the Par Value
+     of One and Two-Thirds Cents ($.01667) per share.
+
+          No stockholder of this corporation shall by reason of his holding
+     shares of any class have any preemptive or preferential right to
+     purchase or subscribe to any shares of any class of this corporation,
+     now or hereafter to be authorized, or any notes, debentures, bonds, or
+     other securities convertible into or carrying options or warrants to
+     purchase shares of any class, now or hereafter to be authorized, whether
+     or not the issuance of any such shares, or such notes, debentures,
+     bonds or other securities, would adversely affect the dividend or voting
+     rights of such stockholder, other than such rights, if any, as the board
+     of directors, in its discretion from time to time may grant and at such
+     price as the board of directors in its discretion may fix; and the board
+     of directors may issue shares of any class of this corporation, or any
+     notes, debentures, bonds, or other securities convertible into or
+     carrying options or warrants to purchase shares of any class, without
+     offering any such shares of any class, either in whole or in part, to
+     the existing stockholders of any class.
+
+          FIFTH.    The minimum amount of capital with which the corporation
+     will commence business is One Thousand Dollars ($1,000.00).
+
+          SIXTH.    The names and places of residence of the incorporators are
+     as follows:
+
+          NAMES                    RESIDENCES
+          R. F. Westover           Wilmington, Delaware
+          L. A. Schoonmaker        Wilmington, Delaware
+          S. E. Manuel             Wilmington, Delaware
+
+          SEVENTH.  The corporation is to have perpetual existence.
+
+          EIGHTH.   The private property of the stockholders shall not be
+     subject to the payment of corporate debts to any extent whatever.
+
+          NINTH.    In furtherance and not in limitation of the powers
+     conferred by statute, the board of directors is expressly authorized:
+
+          To make, alter or repeal the by-laws of the corporation.
+
+          To authorize and cause to be executed mortgages and liens upon the
+     real and personal property of the corporation. To set apart out of any of
+     the funds of the corporation available for dividends a reserve or
+     reserves for any proper purpose and to abolish any such reserve in the
+     manner in which it was created.
+
+          By resolution passed by a majority of the whole board, to designate
+     one or more committees, each committee to consist of two or more of
+     the directors of the corporation, which, to the extent provided in the
+     resolution or in the by-laws of the corporation, shall have and may
+     exercise the powers of the board of directors in the management of the
+     business and affairs of the corporation, and may authorize the seal of
+     the corporation to be affixed to all papers which may require it. Such
+     committee or committees shall have such name or names as may be stated in
+     the by-laws of the corporation or as may be determined from time to time
+     by resolution adopted by the board of directors. When and as authorized
+     by the affirmative vote of the holders of a majority of the stock issued
+     and outstanding having voting power given at a stockholders' meeting duly
+     called for that purpose, or when authorized by the written consent of the
+     holders of a majority of the voting stock issued and outstanding, to
+     sell, lease or exchange all of the property and assets of the
+     corporation, including its good will and its corporate franchises, upon
+     such terms and conditions and for such consideration, which may be in
+     whole or in part shares of stock in, and/or other securities of, any
+     other corporation or corporations, as its board of directors shall
+     deem expedient and for the best interests of the corporation.
+
+          TENTH.    Meetings of stockholders may be held outside the State of
+     Delaware, if the by-laws so provide. The books of the corporation may be
+     kept (subject to any provision contained in the statutes)outside the
+     State of Delaware at such place or places as may be designated from time
+     to time by the board of directors or in the by-laws of the corporation.
+     Elections of directors need not be by ballot unless the by-laws of the
+     corporation shall so provide.
+
+          ELEVENTH. The corporation reserves the right to amend, alter, change
+     or repeal any provision contained in this certificate of incorporation,
+     in the manner now or hereafter prescribed by statute, and all rights
+     conferred upon stockholders herein are granted subject to this
+     reservation.
+
+          TWELFTH.  The personal liability of a director of this corporation
+     to the corporation or to its stockholders for monetary damages for
+     breach of fiduciary duty as a director is eliminated, provided that such
+     elimination shall not eliminate or limit the liability of a director (i)
+     for any breach of the director's duty of loyalty to the corporation or
+     its stockholders, (ii) for acts or omissions not in good faith or which
+     involve intentional misconduct or a knowing violation of law, (iii)
+     under the provisions of Section 174 of the Delaware Corporation Law, or
+     (iv) for any transaction from which the director derived an improper
+     personal benefit. Such elimination shall eliminate the liability of the
+     director for any act or omission occurring at or after the date when
+     this Article has been filed with and approved by the Secretary of the
+     State of Delaware.
+
+     4.   This Restated Certificate of Incorporation was duly adopted by the
+Board of Directors in accordance with Section 245 of the General Corporation
+Law of the State of Delaware.
+
+     IN WITNESS WHEREOF, said EMCEE Broadcast Products, Inc. has caused this
+Certificate to be signed by James L. DeStefano, its President/CEO, this 19th
+day of November, 1996.
+
+                              EMCEE BROADCAST PRODUCTS, INC.
+
+                              BY: /s/ James L. DeStefano
+                              TITLE: President/CEO
+<PAGE>
+
+                 EMCEE BROADCAST PRODUCTS, INC.
+                 NONSTATUTORY STOCK OPTION PLAN
+
+     THIS NONSTATUTORY STOCK OPTION PLAN (the "PLAN"), approved by the
+affirmative vote of a majority of the stockholders of EMCEE Broadcast
+Products, Inc. (the "COMPANY"), a Delaware corporation, present in person or
+represented by proxy, at the 1996 Annual Meeting of Stockholders on August 26,
+1996 (the "EFFECTIVE DATE"), in accordance with the applicable laws of the
+State of Delaware.
+                     ARTICLE I - DEFINITIONS
+     1.1  The following is a list which sets forth the meaning of certain
+terms used in this Plan which are not elsewhere defined herein:
+
+          1.1.1     "Administering Body" shall mean the Board or the
+Committee.
+
+          1.1.2     "Board" shall mean the Board of Directors of the Company.
+
+          1.1.3     "Code" shall mean the Internal Revenue Code of 1986, as
+amended.
+
+          1.1.4     "Committee" shall mean the Stock Option Committee of the
+Board or such other committee of the Board, duly established and constituted
+by the Board from time to time by resolution.
+
+          1.1.5     "Company Stock" shall mean the common stock of the
+Company.
+
+          1.1.6     "Date of Grant" shall mean the date on which the
+Administering Body, by resolution, grants an Option to an Optionee.
+
+          1.1.7     "Disinterested Person" shall have the meaning ascribed to
+it in Rule 16b-3 under the 1934 Act.
+
+          1.1.8     "Fair Market Value" shall mean the average of the highest
+and lowest prices per share of Company Stock on the NASDAQ National Market or
+on such other market or exchange on which the Company Stock is then traded, as
+reported in the Wall Street Journal; in the absence of such a report on the
+Date of Grant in question, the first preceding day on which there was such a
+report shall be used.
+
+          1.1.9     "1934 Act" shall mean the Securities Exchange Act of 1934.
+
+          1.1.10 "Option" shall mean an option to purchase Company Stock
+pursuant to the provisions of this Plan.
+
+          1.1.11 "Optionee" shall mean any director (unless he is a member of
+the Administering Body), officer or other key management employee of the
+Company or any Subsidiary to whom an Option, which has not expired or been
+terminated, has been granted under the provisions of this Plan.
+
+          1.1.12 "Stock Option Agreement" shall mean a written instrument
+approved by the Administering Body from time to time, setting forth the terms
+and conditions under which an Optionee has been granted an Option.
+
+          1.1.13 "Subsidiary" shall mean a subsidiary corporation of the
+Company as defined in Section 424 of the Code.
+
+          1.1.14 "Termination Date" shall mean August 25, 2006, at 5:00 P.M.
+
+                   ARTICLE II - PLAN FORMATION
+     2.1  This Plan shall be known as the "1996 EMCEE Broadcast Products Stock
+Option Plan".
+
+     2.2  The purpose of this Plan is to advance the interests of the Company
+and its shareholders by affording eligible directors, officers and key
+management employees of the Company and its Subsidiaries the opportunity to
+become owners, or to increase their ownership of, Company Stock, and to
+motivate and retain such individuals, upon whose judgment, initiative,
+leadership and continued efforts the success of the Company in large measure
+depends, as well as to attract highly competent individuals to such positions.
+
+     2.3  The Options are not "incentive stock options" within the meaning of
+Section 422 of the Code.
+
+     2.4  This Plan is intended to be a plan, the transactions of which, as to
+directors and officers, shall  be  exempt  from Section 16 (b) of the 1934
+Act, pursuant to Rule 16b-3 under the 1934 Act.
+
+     2.5  This Plan shall begin and take effect on the Effective Date and
+shall end and terminate on and as of the Termination Date.
+
+                ARTICLE III - PLAN ADMINISTRATION
+     3.1  This Plan shall be administered by the Administering Body. If the
+Administering Body is the Committee, it shall report all action taken by it to
+the Board. All members of the Administering Body must be Disinterested
+Persons.
+
+     3.2  Subject to the provisions of this Plan, the Administering Body shall
+have full and final authority, in its discretion, to take any and all actions
+and to make any and all determinations deemed necessary or advisable for the
+proper administration of this Plan, for which all such actions and
+determinations shall be conclusively binding for all purposes and upon all
+persons and entities, including, but not limited to:
+
+          3.2.1     determining and choosing Optionees;
+
+          3.2.2     determining the time or times at which Options shall be
+granted;
+
+          3.2.3     determining the number of shares of Company Stock which
+shall be subject to each Option;
+
+          3.2.4     construing and interpreting this Plan; and
+
+          3.2.5     determining the terms and conditions of Stock Option
+Agreements, which need not be identical, including, but not limited to, terms
+covering the payment of the "Option Price" (defined hereinafter).
+
+     3.3  In determining the eligibility of, and in choosing an Optionee, as
+well as the number of shares of Company Stock covered by an Option granted to
+each such Optionee, the Administering Body shall consider such individual's
+position and responsibilities, the nature and value to the Company or its
+Subsidiary of such individual's services, such individual's present and/or
+potential contribution to the success of the Company or a Subsidiary and such
+other performance and contribution factors applicable to such individual as
+the Administering Body may deem relevant.
+
+          ARTICLE IV - COMPANY STOCK SUBJECT TO OPTIONS;
+                    OPTION PRICE; ANTIDILUTION
+     4.1  Subject to Section 4.5 hereof, the aggregate number of shares of
+Company Stock available for Options granted pursuant to this Plan shall not
+exceed one hundred thousand (100,000).
+
+     4.2  In the event of a forfeiture or rejection of an Option, or in the
+event any Stock Option Agreement or Option shall terminate or expire for any
+reason or be surrendered without having been fully exercised, then, in any
+such event, the shares of Company Stock subject thereto which were not
+purchased by the Optionee shall again become available for Options to be
+granted subsequently under this Plan.
+
+     4.3  The Company Stock to be issued pursuant to the exercise of any
+Option shall be registered under applicable federal and state securities laws
+prior to the date on which the Option may be exercised by the Optionee, and
+may come from authorized but unissued shares or treasury stock.
+
+     4.4  The price per share of Company Stock for which Options may be
+granted hereunder (the "OPTION PRICE") shall be the Fair Market Value thereof
+on the Date of Grant. If the Company Stock is at any time traded on more than
+one market or exchange, the Administering Body shall exercise its discretion
+in determining which such market or exchange shall be used in determining Fair
+Market Value.
+
+     4.5  Subject to the provisions of Article VI hereof, in order to prevent
+the enlargement or dilution of rights, in the event that the outstanding
+shares of Company Stock are hereafter changed into or exchanged for a
+different number or kind of shares or other securities of the Company or of
+another corporation, whether by reason of merger, consolidation, other
+reorganization, recapitalization, reclassification, combination of shares,
+stock split, stock dividend, subdivision, reverse split or otherwise, the
+Administering Body shall, on the basis of a determination made by the
+Company's independent auditors, which determination shall be binding on the
+Company, its Subsidiaries and all Optionees, proportionately adjust the
+aggregate number and kind of shares available hereunder for Options and the
+rights under outstanding Options granted hereunder, both as to the number of
+shares and the Option Price.
+
+       ARTICLE V - GENERAL TERMS AND CONDITIONS OF OPTIONS
+     5.1  Each Option granted under this Plan shall be evidenced by a Stock
+Option Agreement, which will incorporate by reference all of the provisions of
+this Plan, and which must be duly executed by the Company and the Optionee.
+The date of each Stock Option Agreement shall be the Date of Grant of the
+Option therefor, irrespective of the date of execution thereof. The
+Administering Body shall have the discretion to cause a forfeiture of the
+grant of any Option if the Optionee has not executed and delivered the Stock
+Option Agreement by a date certain specified by the Administering Body, which
+shall in no event be less than seven (7) calendar days from the date the
+Stock Option Agreement is delivered to the Optionee for execution.
+
+     5.2  The Expiration Date of each Option shall be fixed by the
+Administering Body, but such expiration date shall not exceed ten (10) years
+from the Date of Grant. Provided that the Date of Grant of an Option shall
+precede the Termination Date, the expiration date thereof, subject to the
+immediately preceding sentence in this Section 5.2, may be subsequent to the
+Termination Date.
+
+     5.3  Notwithstanding any possible contrary interpretation of any
+provision set forth in any Stock Option Agreement or this Plan, neither this
+Plan nor any Stock Option Agreement shall entitle an Optionee to any of the
+rights of a stockholder of the Company. No Optionee shall have any such rights
+unless and until duly authorized certificates evidencing the shares of Company
+Stock purchased are delivered to the Optionee.
+
+     5.4  An Option may be exercised all at one time or in part from time to
+time, at the discretion of the Optionee, during the term thereof; provided,
+however, that each Stock Option Agreement shall provide that no Optionee may
+exercise an Option, in whole or in part, until at least two (2) years have
+expired from the Date of Grant; and provided further that no partial exercise
+of an Option may be for less than one hundred (100) shares or, if less, the
+number of shares remaining available thereunder.
+
+     5.5  Subject to the expiration date thereof and the provisions of this
+Plan, each Option shall be exercisable during the Optionee's lifetime only by
+the Optionee. No Option shall be transferable or assignable by an Optionee
+other than by will or the laws of descent and distribution or pursuant to a
+"qualified domestic relations order" as defined by the Code  or Title I of
+the Employee Retirement Income Security Act ("ERISA"), or the rules
+thereunder. Except as expressly permitted herein, an Option shall terminate
+and become null and void if it or the Stock Option Agreement therefor is
+transferred, assigned, pledged or hypothecated in any way or becomes subject
+to any security interest, lien or other encumbrance, or to levy, execution,
+attachment or similar process.
+
+     5.6  Upon termination of an Optionee's employment with the Company or its
+Subsidiary, or the date on which he ceases to be a director, as the case may
+be, the Optionee's rights and privileges with respect to an Option granted to
+him pursuant to this Plan shall be limited in the manner set forth in his
+Stock Option Agreement or, if not specified therein, to the shares of
+Company Stock subject to an Option or Options which were exercisable by him on
+the date of such termination or cessation, with such Option rights and
+privileges to expire and the Stock Option Agreement(s) therefor to terminate
+in thirty (30) calendar days from such date.
+
+     5.7  If an Optionee shall die while all or any part of an Option granted
+to him under this Plan remains outstanding, then, notwithstanding Section 5.5
+hereof, such Optionee's personal representative shall have one hundred eight
+(180) calendar days from the date of the Optionee's death to exercise such
+Option, to the extent it is exercisable during such time, after which such
+Option shall expire and the Stock Option Agreement therefor shall terminate.
+
+                 ARTICLE VI - FUNDAMENTAL CHANGES
+     6.1  Notwithstanding any other provision contained in this Plan or in any
+Stock Option Agreement, in the event the Company resolves to (1) consolidate
+or merge with or into another corporation, (2) accept an offer to purchase
+thirty (30%) percent or more of the then issued and outstanding Company Stock,
+(3) sell all or substantially all of its assets, or (4) voluntarily or
+involuntarily dissolve or liquidate, then, in any such event, the
+Administering Body may terminate all Options then outstanding in whole or in
+part and the Stock Option Agreements therefor after having given thirty (30)
+days advance written notice to each Optionee, during which time each such
+Optionee shall have the right to exercise, to the extent then exercisable, his
+Option or Options in accordance with this Plan and his Stock Option
+Agreement(s).
+
+               ARTICLE VII - TERMINATION; AMENDMENT
+     7.1  The Board may at any time, upon recommendation of the Committee, if
+the Committee is then the Administering Body, but otherwise in its sole
+discretion, terminate and in any respect amend this Plan; provided, however,
+that no such action without approval of the majority of the stockholders of
+the Company may:
+
+          7.1.1     Materially increase the benefits accruing to Optionees
+under this Plan;
+
+          7.1.2     Materially increase the number of shares of Company Stock
+which may be issued under this Plan; or
+
+          7.1.3     Materially modify the requirements as to eligibility for
+participation in this Plan;
+
+     Provided further, however, that no termination, except as provided in
+Article VI hereof, or amendment of this Plan shall in any manner affect any
+Option granted under this Plan which is then outstanding, without the consent
+of the Optionee.
+
+     7.2  Notwithstanding Section 7.1 hereof, in no event shall this Plan be
+amended more than once every six months, other than to comport with changes in
+the Code or ERISA, or the rules thereunder, with respect to any provision
+hereof which may now or hereafter cover "formula awards" as described in Rule
+16b-3 under the 1934 Act.
+
+                   ARTICLE VIII - MISCELLANEOUS
+     8.1  Nothing in this Plan or in any Stock Option Agreement shall confer
+upon any Optionee the right to continue in the Company's or any Subsidiary's
+employ, or to continue to be engaged as a director thereof, as the case may
+be.
+
+     8.2  The adoption of this Plan shall not affect any other stock option,
+incentive or other compensation plan of the Company or any Subsidiary, nor
+shall this Plan preclude the Company or any Subsidiary from establishing any
+such plan for its directors, officers or employees in the future.
+
+     8.3  This Plan shall be binding upon the Company and its successors and
+assigns and, subject to the restrictions and limitations contained in Section
+5.5 -- 5.7 hereof, inclusive, each Optionee and his heirs, personal
+representatives and assigns. The Company shall provide each Optionee with a
+copy of this Plan at the time the Optionee's Stock Option Agreement is
+delivered to him for execution, and each such Optionee shall be deemed to have
+accepted and agreed to each of the provisions of this Plan by virtue of his
+execution of such Stock Option Agreement.
+
+     8.4  Any conflicts or inconsistencies between this Plan and any Stock
+Option Agreement shall be resolved in favor of this Plan.
+
+     8.5  Whenever used herein nouns in the singular shall include the plural,
+and the masculine pronoun shall include the feminine gender.
+
+     8.6  The Article titles set forth in this Plan are inserted for
+convenience and reference only and shall not be considered to constitute a
+part of this Plan or limit, expand or change any of the provisions of this
+Plan.
+
+
+<PAGE>
+
+                SETTLEMENT AND RELEASE AGREEMENT
+
+     THIS SETTLEMENT AND RELEASE AGREEMENT ("AGREEMENT") is made and entered
+into this 27th day of March, 1997, by and among EMCEE Broadcast Products, Inc.
+("EMCEE"), a Delaware corporation, AND EMCEE Cellular Inc. ("CELLULAR"), a
+Delaware corporation, AND AmeriCell PA -- 3 Limited Partnership ("AMERICELL"),
+a Pennsylvania limited partnership, AND Rigas Communications, Inc. (the
+"GENERAL PARTNER"), a Florida corporation, AND Constantine J. Rigas ("RIGAS"),
+an adult individual.
+
+                           BACKGROUND:
+     A.   AmeriCell and EMCEE entered into a Purchase and Sale Agreement dated
+the 21st day of August, 1991 (the "PURCHASE AND SALE AGREEMENT"), with respect
+to, among other things, the sale by EMCEE to AmeriCell of a certain
+construction permit issued by the Federal Communications Commission for a
+nonwireline Domestic Public Cellular Radiotelephone System more specifically
+described therein. Pursuant to the Purchase and Sale Agreement, AmeriCell
+executed and delivered to EMCEE a certain Promissory Note dated December 16,
+1991, in the principal sum of Two Million One Hundred Thousand ($2,100,000.00)
+Dollars (the "NOTE"), which Note was guaranteed by Rigas pursuant to a certain
+Personal Guaranty dated December 16, 1991 (the "GUARANTY").
+
+     B.   As a result of AmeriCell's and Rigas's failure and refusal to pay
+the sums due and owing under the Note and the Guaranty, respectively, EMCEE
+filed a certain lawsuit in the Court of Common Pleas of Luzerne County,
+Pennsylvania, at No. 274-C of 1997, against AmeriCell, the General Partner,
+which is the sole general partner of AmeriCell, and Rigas entitled, "EMCEE
+Broadcast Products, Inc. vs. AmeriCell PA -- 3 Limited Partnership, Rigas
+Communications, Inc. and Constantine J. Rigas" (the "LAWSUIT").
+
+     C.   In order to avoid the time, expense and inherent uncertainties of
+litigation, the parties desire to resolve their disputes and differences by
+and through this Agreement.
+
+     D.   Cellular is a part of this Agreement in that EMCEE has assigned to
+it the  right to receive certain sums identified herein, contingent upon this
+Agreement being fully executed and performed by the parties.
+
+     NOW, THEREFORE, the parties hereto, each intending to be legally bound
+hereby, covenant, agree and represent as follows:
+
+     1.   Subject to the full and complete performance of each and every term
+and condition of this Agreement, and in full settlement of all sums due and
+owing under the Note and all liabilities under or with respect to the Lawsuit,
+AmeriCell, the General Partner and Rigas hereby jointly and severally covenant
+and agree to pay to Cellular, as assignee of EMCEE, the sum of Three Million
+($3,000,000.00) Dollars in accordance with the provisions of Section 2 hereof.
+In addition, AmeriCell, the General Partner and Rigas jointly and severally
+covenant and agree to pay to EMCEE the sum of Ten Thousand Nine Hundred Fifty-
+eight Dollars and Forty-six ($10,958.46) Cents, representing all of EMCEE's
+attorney's fees incurred since December 16, 1996 in connection with the
+attempted collection of the Note and Guaranty and the prosecution of the
+Lawsuit. Said attorney's fees shall also be paid in accordance with the
+provisions of Section 2 hereof.
+
+     2.   All of EMCEE's attorney's fees described in Section 1 hereof, as
+well as Two Million Five Hundred Thousand ($2,500,000.00) Dollars of the Three
+Million ($3,000,000.00) Dollars owing to Cellular pursuant to Section 1
+hereof, must be paid to and received by EMCEE and Cellular, respectively, on
+April 2, 1997, via wire transfer (at the payor parties' expense) in accordance
+with the following wiring instructions: transfer to Wilmington Trust Company,
+Wilmington, DE, ABA 031100092. Credit EMCEE Cellular Inc. Account Number
+2524-7426.
+
+          The remaining Five Hundred Thousand ($500,000.00)Dollars to be paid
+to Cellular pursuant to Section 1 hereof shall become immediately due and
+payable upon the occurrence of any one or more of the following events: (a)
+the sale or other transfer, whether or not voluntary, not in the ordinary
+course of business of all or substantially all of AmeriCell's assets or any
+sale or other transfer of the nonwireline Domestic Public Cellular
+Radiotelephone System described in the Purchase and Sale Agreement, whether or
+not in the ordinary course of business; (b) the merger, consolidation,
+division or dissolution (judicial or nonjudicial) of AmeriCell; (c) the filing
+by or against AmeriCell of a Petition in Bankruptcy which is not dismissed
+within thirty (30) days of the date of filing; (d) the making of an assignment
+for the benefit of AmeriCell's creditors; (e) AmeriCell's insolvency or an
+admission by AmeriCell of the inability to pay its debts when due; (f) if at
+any time the General Partner shall for any reason no longer be AmeriCell's
+general partner; or (g) if AmeriCell shall ever be in default under the "Loan
+and Security Agreement" (as defined in the Subordination Agreement referenced
+in the legend above) and such default is continuing after the expiration of
+any applicable cure periods. AmeriCell, the General Partner and Rigas shall
+notify EMCEE and Cellular immediately upon the occurrence of any one or more
+of the foregoing events.
+
+     3.   It is understood and agreed that all sums payable to EMCEE or
+Cellular hereunder shall not be subject to deduction by reason of set off,
+defense, counterclaim, recoupment or other defalcation. It is further
+understood and agreed that no interest shall accrue on any sum payable to
+EMCEE or Cellular hereunder; provided, however, that if the remaining Five
+Hundred Thousand ($500,000.00) Dollar balance owing to Cellular pursuant to
+the second paragraph of Section 2 hereof is not paid within thirty (30) days
+from the date it becomes due and owing, interest shall accrue and be payable
+on such amount immediately following such 30-day period and until fully paid
+at the lower of eighteen (18%) percent per annum or the highest rate of
+interest per annum permitted to be charged under applicable law.
+
+     4.   Upon execution of this Agreement, EMCEE shall authorize its legal
+counsel, Robert S. Sensky, Esquire, to prepare and execute a Praecipe for
+Discontinuance of the Lawsuit with prejudice, in form and content as shown and
+set forth on Exhibit "A" attached hereto and made a part hereof (the
+"PRAECIPE"). Upon Emcee's and Cellular's receipt of the sums described in the
+first paragraph of Section 2 hereof, EMCEE shall authorize and direct its
+legal counsel to deliver the Praecipe to AmeriCell's legal counsel, Susan
+Kercher, Esquire, for filing in the Office of the Prothonotary of Luzerne
+County, Pennsylvania, at AmeriCell's expense.
+
+     5.   Notwithstanding any possible contrary interpretation of any
+provision contained herein, in the event all of the sums described in the
+first paragraph of Section 2 hereof have not been received by EMCEE and
+Cellular in strict accordance with the provisions of this Agreement by April
+2, 1997, this Agreement shall automatically become null and void and of no
+force or effect; whereupon, EMCEE may direct its legal counsel to destroy
+the Praecipe, and EMCEE shall be free to continue to proceed with the Lawsuit
+as if this Agreement never existed.
+
+     6.   In consideration of EMCEE's and Cellular's covenants and agreements
+set forth herein, and subject to EMCEE's legal counsel's delivery of the
+Praecipe in accordance with the provisions of this Agreement, AmeriCell, the
+General Partner and Rigas hereby release EMCEE and Cellular, and all of their
+affiliated corporate entities, and their respective directors, officers,
+employees, agents, successors and assigns, from all actions, causes of action,
+suits, proceedings, rights, remedies, debts, claims, demands, obligations and
+liabilities whatsoever (collectively, "CLAIMS"), at law or in equity, known or
+unknown, liquidated or unliquidated, direct or contingent, which they (or
+any one or more of them) ever had, now have or may hereafter have against all
+or any one or more of such released parties, by reason of any matter, cause or
+thing whatsoever, including, but not limited to, the Purchase and Sale
+Agreement, Note, Guaranty and/or the Lawsuit, occurring at any time from the
+beginning of time through and including the date of this Agreement.
+
+     7.   In consideration of AmeriCell's, the General Partner's and Rigas's
+covenants and agreements set forth herein, except for the joint and several
+obligations and liabilities of AmeriCell, the General Partner and Rigas
+pursuant to Sections 1 and 2 hereof, EMCEE and Cellular hereby release
+AmeriCell, the General Partner and Rigas, and all of their affiliated
+corporate entities, and their partners, directors, officers, employees,
+agents, successors and assigns, from all Claims, at law or in equity, known or
+unknown, liquidated or unliquidated, direct or contingent, which they (or any
+one of them) ever had, now have or may hereafter have against all or any one
+or more of such released parties, by reason of any matter, cause or thing
+whatsoever, including, but not limited to, the Purchase and Sale Agreement,
+Note, Guaranty and/or Lawsuit, occurring at any time from the beginning of
+time through and including the date of this Agreement.
+
+     8.   Except with respect to the aforementioned contingent assignment from
+EMCEE to Cellular, each party hereto represents to the other parties hereto
+that it/he has not sold or assigned any of the Claims which have been released
+pursuant to Sections 6 and 7 hereof. It is also understood and agreed that if
+any party hereto shall ever bring an action or proceeding against any other
+party hereto in violation of Section 6 or Section 7 of this Agreement, such
+other party shall be entitled to recover from the violating party all of
+its/his reasonable attorney's fees incurred as a result thereof.
+
+     9.   AmeriCell, the General Partner and Rigas agree that while all or any
+part of the Five Hundred Thousand ($500,000.00) Dollars described in the
+second paragraph of Section 2 hereof remains outstanding, they shall provide
+EMCEE and Cellular with current annual financial statements of AmeriCell
+(prepared by a reputable independent certified public accounting firm) within
+one hundred fifty (150) days from the end of each of AmeriCell's fiscal years,
+and in form as required by AmeriCell's lender, NTFC Capital Corporation, but
+in all events at least on a review basis. Failure to provide such financial
+statements within such time shall cause the aforementioned Five Hundred
+Thousand ($500,000.00) Dollar sum to become immediately due and payable by
+AmeriCell, the General Partner and Rigas (jointly and severally)to Cellular,
+notwithstanding any other provision contained herein.
+
+     10.  All disputes arising under or related in any way to this Agreement
+shall be settled by arbitration in Wilkes-Barre, Pennsylvania, pursuant to the
+Commercial Arbitration Rules of the American Arbitration Association, in which
+there shall be one arbitrator whose decision shall be final and binding on the
+parties hereto, and the judgment upon any award rendered may be entered in the
+court of competent jurisdiction. The prevailing party in any such arbitration
+shall also be entitled to an award of all of its reasonable attorney's fees
+actually incurred as a result thereof, but the cost of the arbitration
+proceeding shall be borne equally by the parties. If for any reason the
+foregoing arbitration provisions are declared or determined to be illegal,
+invalid or otherwise inapplicable with respect to any dispute arising
+hereunder or related hereto, the parties hereto hereby agree that such dispute
+shall be litigated and resolved only in the Court of Common Pleas of Luzerne
+County, Pennsylvania, and the parties hereto irrevocably consent to the
+exclusive jurisdiction and venue of said court for such purposes. The
+prevailing party in any such litigation shall be entitled to recover all of
+its reasonable attorney's fees incurred as a result thereof.
+
+     11.  It is understood and agreed that this Agreement and any acts
+undertaken hereby shall not be construed as an admission of liability, fault
+or wrongdoing under any law, regulation or ordinance on the part of any party
+hereto.
+
+     12.  This Agreement shall inure to the benefit of and be binding on the
+parties hereto and their respective successors and assigns.
+
+     13.  Should any provision of this Agreement be declared or determined to
+be illegal or invalid, the legality and validity of the remaining provisions
+shall not be affected thereby, and said illegal or invalid provision shall be
+deemed not to be a part of this Agreement.
+
+     14.  This Agreement shall be governed by and construed in accordance with
+the laws of the Commonwealth of Pennsylvania, without regard to conflicts of
+law rules or principles.
+
+     15.  Section 22 of the Subordination Agreement described in the legend
+above is incorporated herein by reference and made a part hereof as if fully
+set forth at length herein.
+
+     16.  This Agreement may be executed in as many counterparts as the
+parties deem necessary or convenient, and by the different parties hereto on
+separate counterparts, each of which, when so executed, shall be deemed an
+original, but all such counterparts shall constitute but one and the same
+instrument.
+
+     17.  Except for the provisions of Sections 6 and 7 hereof,no third party
+beneficiary rights are intended or created hereby.
+
+     18.  No provision of this Agreement is to be interpreted for or against
+any party because that party's legal counsel drafted such provision.
+
+     19.  This Agreement constitutes the entire, complete and final agreement
+of the parties hereto with respect to the subject matter hereof, supersedes
+any and all prior agreements, understandings or discussions (verbal or in
+writing), and may be amended, modified or supplemented subsequent to the date
+hereof only by a written instrument signed by the party or parties to be
+bound thereby.
+
+     IN WITNESS WHEREOF, the parties hereto have executed this Agreement on
+the date first set forth above.
+
+ATTEST:                            EMCEE BROADCAST PRODUCTS, INC.
+
+/s/ Sharon L. Barry                By: /s/ James L. DeStefano
+    Asst. Corporate Sec'y          Title: President/CEO
+          (SEAL)
+
+
+ATTEST:                            EMCEE CELLULAR INC.
+
+/s/  Robert S. Sensky              By: /s/ John Saul
+     Corporate Secretary           Title: President
+          (SEAL)
+
+WITNESS:                           AMERICELL PA -- 3 LIMITED
+                                   PARTNERSHIP
+                                   By: Rigas Communications, Inc.,
+                                   General Partner
+/s/ John W. Steer, IV              By: /s/ John Rigas
+                                   Title: Vice President
+
+
+ATTEST:                            RIGAS COMMUNICATIONS, INC.
+
+/s/  Diane Rein                    By: /s/ John Rigas
+     Corporate Secretary           Title: Vice President
+          (SEAL)
+
+WITNESS:                           CONSTANTINE J. RIGAS
+
+/s/ Rheba Rigas                    By: /s/ Constantine J. Rigas
+                                   Signature
+
+
+<PAGE>
+EMCEE BROADCAST PRODUCTS,       :  IN THE COURT OF COMMON PLEAS
+INC.,                              OF LUZERNE COUNTY
+               Plaintiff        :  PENNSYLVANIA
+     vs.
+                                :
+AMERICELL PA -- 3 LIMITED           CIVIL ACTION -- LAW
+PARTNERSHIP, RIGAS              :
+COMMUNICATIONS, INC. and
+CONSTANTINE J. RIGAS,           :
+
+               Defendants       :  NO.    274-C OF 1997
+
+                   PRAECIPE FOR DISCONTINUANCE
+
+TO THE PROTHONOTARY OF LUZERNE COUNTY:
+
+          Please mark the above-captioned matter as settled, discontinued, and
+ended with prejudice.
+                              LAPUTKA, BAYLESS, ECKER & COHN, P.C.
+                              Attorneys for Plaintiff, EMCEE
+                              Broadcast Products, Inc.
+
+                              BY:
+                              Robert S. Sensky, Esquire
+                              Atty. I.D.#47287
+                              2 East Broad Street, 6th Floor
+                              Hazleton, PA  18201
+                              (717) 455-4731
+Date:
+
+                          DISCONTINUANCE
+          AND NOW, this    day of          , 1997, upon Praecipe of counsel
+for the Plaintiff, the above-captioned matter is hereby settled, discontinued,
+and ended with prejudice.
+
+                              PROTHONOTARY:
+
+Date:                         BY:
+
+
+
+
+<PAGE>
+
+                          EXHIBIT "A"
+         SUBSIDIARIES OF EMCEE BROADCAST PRODUCTS, INC.
+
+     The following constitute all of the Registrant's subsidiary
+corporations:
+
+     1.   EMCEE Cellular Inc., a Delaware corporation;
+
+     2.   R.F. Systems, Inc., a Delaware corporation (this corporation is a
+wholly owned subsidiary of EMCEE Cellular Inc.);
+
+     3.   R.F. Internet Systems, Inc., a Nevada corporation (this
+corporation is a wholly owned subsidiary of EMCEE Cellular Inc.);
+
+     4.   Universal Rapid Access, LLC (this limited liability company is a
+partially owned subsidiary of R.F. Internet Systems, Inc., which owns 16.14%
+of the outstanding equity of the limited liability company);
+
+     5.   EMCEE Broadcast Products (Chengdu) Company, Ltd. (the Registrant
+owns 25% of the issued and outstanding capital stock of this corporation); and
+
+     6.   Advanced Broadcast Systems, Inc., a Delaware corporation (this
+corporation is a wholly owned subsidiary of EMCEE Cellular Inc.).
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

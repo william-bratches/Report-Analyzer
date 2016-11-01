@@ -1,0 +1,1047 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ K+dG8oHxW1Siw6ptEIowBygKVAEGGElYmWTPJSrF7bfcJXWfnIpS22yO8jKkdf13
+ NWVqOjXTNmlwcFn+Z3ErBg==
+
+<SEC-DOCUMENT>0000030985-99-000016.txt : 19990726
+<SEC-HEADER>0000030985-99-000016.hdr.sgml : 19990726
+ACCESSION NUMBER:		0000030985-99-000016
+CONFORMED SUBMISSION TYPE:	10KSB/A
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	19981231
+FILED AS OF DATE:		19990723
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			EARTH SCIENCES INC
+		CENTRAL INDEX KEY:			0000030985
+		STANDARD INDUSTRIAL CLASSIFICATION:	MINERAL ROYALTY TRADERS [6795]
+		IRS NUMBER:				840503749
+		STATE OF INCORPORATION:			CO
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10KSB/A
+		SEC ACT:		
+		SEC FILE NUMBER:	000-06088
+		FILM NUMBER:		99669197
+
+	BUSINESS ADDRESS:	
+		STREET 1:		910 12TH ST
+		CITY:			GOLDEN
+		STATE:			CO
+		ZIP:			80401
+		BUSINESS PHONE:		3032797641
+
+	MAIL ADDRESS:	
+		STREET 1:		910 12TH STREET
+		CITY:			GOLDEN
+		STATE:			CO
+		ZIP:			80401
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	COLORADO CENTRAL MINES INC
+		DATE OF NAME CHANGE:	19731128
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>10KSB/A
+<SEQUENCE>1
+<TEXT>
+
+
+
+                 U.S. SECURITIES AND EXCHANGE COMMISSION
+                       Washington, D.C. 20549
+
+                              FORM 10-KSB/A
+                   Amendment #1 to Items 1, 6 and 12
+
+               ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d)
+                  OF THE SECURITIES EXCHANGE ACT OF 1934
+
+              For the fiscal year ended  December 31, 1998
+
+                 Commission File Number:   0-6088
+
+                          Earth Sciences, Inc.
+            (Name of small business issuer in its charter)
+
+        Colorado              	         			84-0503749
+(State of incorporation)      	 (IRS Employer Identification No.)
+
+            910 12th Street, Golden, Colorado        80401
+     (Address of principal executive offices, including Zip Code)
+
+(Registrant's telephone number, including area code):   (303) 279-7641
+
+Securities registered under Section 12(g) of the Exchange Act:
+               				Common Stock, one cent par value
+                           Title of class
+
+Check whether the issuer (1) has filed all reports required to be filed by
+Section 13 or 15(d) of the Exchange Act during the past 12 months (or for such
+shorter period that the registrant was required to file such reports), and (2)
+has been subject to such filing requirements for the past 90 days. [X] Yes [ ]
+No
+
+Check if there is no disclosure of delinquent filers in response to Item 405 of
+Regulation S-B contained in this form, and no disclosure will be contained, to
+the best of registrant's knowledge, in definitive proxy or information
+statements incorporated by reference in Part III of this Form 10-KSB or any
+amendment to this Form 10-KSB.  [ X ]
+
+State issuer's revenues for its most recent fiscal year.  $ 4,893,000
+
+State the aggregate market value of the voting stock held by nonaffiliates
+computed by reference to the price at which the stock was sold, or the average
+bid and asked prices of such stock, as of a specified date within the past 60
+days. As of March 12, 1999 was $18,490,000.
+
+
+Number of shares outstanding of registrant's Common Stock, one cent par value
+as of March 12, 1999 - 23,554,362.
+
+
+DOCUMENTS INCORPORATED BY REFERENCE :
+None
+
+
+Transitional Small Business Disclosure Format:  Yes __ No  X
+
+<PAGE>
+
+                                       PART I
+
+Item 1.  Description of Business
+This Annual Report may contain forward-looking statements within the meaning of
+Section 27A of the Securities Act of 1933.  In particular, such forward-looking
+statements may be found in this section under "Description of Business" and
+below in Item 6. under "Management's Discussion and Analysis of Financial
+Condition and Results of Operations."  Actual events or results could differ
+materially from those discussed in the forward-looking statements as a result
+of various factors including those set forth below or under the heading
+"Management's Discussion and Analysis of Financial Condition and Results of
+Operations." .
+
+ 	(a) Business Development.
+Earth Sciences, Inc. ("ESI" or "Registrant", which term includes its wholly-
+owned subsidiaries unless otherwise indicated)
+is chemical processing, air pollution control and mineral exploration company.
+Production of purified phosphate products in Calgary commenced in June 1997.
+ESI was incorporated under the name of Colorado Central Mines, Inc. in Colorado
+in 1957. The major activities of the Company include the operation of its
+solvent extraction facility in Calgary, Alberta for production of purified
+phosphate products; flue gas conditioning technology for coal-fired boilers and
+other applications provided through ADA Environmental Solutions LLC ("ADA"), a
+wholly-owned subsidiary; and continued exploration activities for diamond and
+gold resources in Venezuela.
+
+During 1998, ESI (1) acquired the remaining equity interest in ADA and through
+ADA (a) received 2 patents for its flue-gas conditioning technology, (b)
+developed new products to resolve treated ash use in cement, (c) was awarded
+several contracts to demonstrate various technologies, and (d) successfully
+completed the warranty period for its installation in Wisconsin; (2) continued
+and improved production of purified phosphate products at its solvent
+extraction facility in Calgary, Alberta, Canada; (3) applied for 15 mineral
+concessions in Venezuela covering over 30,000 acres and continued exploration
+activities for diamond and gold resources in Venezuela; (4) issued $3,081,000
+in convertible debentures to fund its activities; and (5) maintained its
+position in several mineral resources and prospects in the Western US.
+
+Thus far in 1999, ESI has (a) signed a letter of intent with Chemical
+Interchange Company ("CIC") to sell 6,000-8,000 tons per year of purified
+phosphoric acid ("PPA") for distribution in the US primarily east of the Rocky
+Mountains; (b) been awarded a third patent for advanced flue-gas conditioning
+technology; and (c) won additional commitments for demonstration of several
+technologies related to air pollution control. These activities and those in
+the preceding paragraph are described in the succeeding paragraphs of this Item
+1(a) and below in Item 1(b).
+
+In May 1998, ESI acquired the remaining 49% interest in ADA through the
+issuance of approximately 1,716,000 of its common shares. ESI's initial 51%
+interest was purchased in 1997 by payments to ADA totaling $2,500,000.  At that
+time ESI obtained the option to acquire the remaining 49%. In December 1997,
+ADA delivered its first three commercial units; one to Alliant Power Company
+("APC") and two to Mississippi Power Co. ("MPC"), in accordance with contract
+terms. Initial injection of chemical was suspended earlier in the year after
+concerns arose from the results of co-injection of other chemicals.  ADA-34, a
+new chemical blend, was developed during the summer of 1998 in response to
+those concerns. Injection of ADA-34, commenced in September 1998 at the APC
+installation.   The APC unit has been operating successfully since that time
+and has completed its three-month warranty period in December 1998.  One unit
+at MPC commenced injection in the first half of March 1998, while the second
+unit commenced operation in May after completion by MPC of necessary electrical
+and piping connections. Injection at both these units was suspended when the
+treated fly ash collected lengthened the set time in cement where it was being
+recycled as a filler.  ADA-34 addresses that concern and has proven acceptable
+in tests of the treated fly ash generated at the APC unit. MPC has elected a
+major capital conversion for both of its systems and other modifications that
+will alleviate the current need for ADA's flue-gas conditioning technology.
+Although ADA-34 continues to perform well at the installations where it is in
+use, the parameters and mechanisms that determine its effectiveness are complex
+and dependent on several factors outside the control of ADA.  There can be no
+assurances that any of the units will continue to perform as anticipated.
+During 1998, ADA also installed a flue gas conditioning system at Portland Gas
+and Electric's ("PGE") Boardman, Oregon plant.  ADA was awarded the contract in
+a competitive bidding process and completed the installation in the fall of
+1998.  The Oregon unit successfully passed its warranty test in February of
+1999.
+
+ESI's solvent extraction facility in Calgary, Alberta, recovered uranium from
+phosphoric acid during the period from 1983 through 1987.  Uranium oxide
+production was suspended in the fall of 1987 when the adjacent fertilizer plant
+from which the facility received its feed stock suspended operations.  The
+contract under which the uranium was sold was modified in 1990 to allow
+unrestricted alternative use of the facility. Revamp of the facility to allow
+production of purified phosphate products was completed in 1997. The Calgary
+facility is routinely producing technical grade phosphoric acid and evaluations
+are in process to select equipment for production of food grade product
+targeted for completion in 1999. Production and sales of products have been
+increasing monthly as ESI establishes and expands its market position. ESI also
+intends to pursue the recovery of other valuable elements in the feed stock
+once sufficient levels of routine production and cash flow are achieved.
+Initial investigation of such production recovery potential and the equipment
+required to produce food grade material are estimated at a combined cost
+between $200,000-$500,000.  Such amounts are expected to be funded from
+equipment leasing opportunities and internally generated cash flow. There can
+be no assurances that Registrant will be able to achieve its anticipated goals.
+
+During 1998, through ESI's Venezuelan company, VENESI, ESI continued gold
+exploration and development activities in Venezuela. ESI also owns 83% of
+another company, Minera Antabari C.A. ("Antabari"), which received a contract
+on a 1200 acre site on the Guyana Shield in March 1992. VENESI is discussing
+further exploration work at this contract area with third parties.  Three other
+contracts were filed for in 1994 and refiled in 1995 with the Venezuelan
+Ministry of Energy and Mines ("MEM").  VENESI is awaiting response from MEM on
+these filings. Several other sites with existing MEM concessions are being
+evaluated, and VENESI is negotiating with the current concession holders to
+obtain rights to further explore these areas.  In 1998 VENESI filed for 15
+concessions covering approximately 30,000 acres with prospective interests for
+diamonds and gold.  In 1999 VENESI expects to conduct surface exploration on
+the concessions, currently filed for, when they are granted, and file
+applications in other areas of interest.
+
+In January and February 1998, ESI issued $3,080,845 of 4% convertible
+debentures (the "1998 Debentures") for which ESI received net proceeds of
+approximately $2,830,000.  Interest was payable quarterly. The 1998 Debentures
+were convertible at any time following 45 days after the issuance thereof and
+mature on January 31, 1999.  The Debentures were convertible into shares of
+common stock based on a 25% discount from the market price of the common stock
+at the time of conversion, but not in excess of $2.00 per share.  All such
+debentures were converted to a total of 3,497,981 shares of common stock during
+1998.
+
+In February 1999, ESI sold 1,260,623 shares of common stock and received net
+proceeds of $1,137,000. Such shares are restricted from sale until after a
+registration statement becomes effective covering their subsequent sale or 90
+days after the sale which ever occurs later.  ESI has committed to file such a
+registration statement no later then April 11, 1999 and has an obligation to
+issue additional shares in the event the market price at the time of sale is
+less than 125% of the purchase price.  Such additional shares are limited to
+two and one half times the number of shares originally issued.
+
+	(b) Business of Issuer.
+Registrant is a chemical processing, air pollution control and mineral
+exploration company.  Registrant owns a processing facility in Calgary,
+Alberta, Canada which recovered uranium oxide from phosphoric acid and for
+which the production of purified phosphate products commenced in June 1997; a
+100% interest in ADA which provides air pollution control technologies and
+services; alunite properties which contain alumina, sulfur and potash; other
+domestic properties containing gold, vanadium and phosphate; and controls
+prospects containing copper, molybdenum, silver, lead and zinc.
+
+Registrant, through its  100% ownership of Recursos Minerales VENESI C.A.
+("VENESI"), 83% ownership in Minera Antabari C.A. ("Antabari") and its 67%
+ownership in Recursos Minerales ESIGEO C.A. ("ESIGEO") is exploring,
+evaluating, acquiring and plans to develop diamond and gold resources in
+Venezuela.
+
+                  Calgary Solvent Extraction Facility
+
+In 1997, ESI commenced production of purified phosphate products at the
+facility.  The facility currently produces purified phosphoric acid ("PPA") and
+by-products.  Earth Sciences Extraction Company ("ESEC"), a wholly-owned
+Canadian limited partnership of ESI, operates the solvent extraction facility
+in Calgary, Alberta.
+
+ESEC's Facility
+The phosphoric acid treatment facility was maintained on a standby basis since
+its uranium recovery operations were suspended in 1987 when the adjacent
+fertilizer plant, which had supplied feedstock, suspended operations.  Certain
+contractual restraints and lower uranium prices have made the stand-alone
+recovery of uranium from other feedstock sources uneconomic.  ESEC modified the
+facility to purify superphosphoric acid ("SPA") to produce a technical grade
+PPA and by-products. The growth and profitability of operations at the Calgary
+plant is dependent upon, among other things, the availability of sufficient raw
+materials at reasonable prices. Purchases of SPA are made from three US
+suppliers. ESEC generally receives a discount from listed market price from two
+of those suppliers, while we have been purchasing at an annual fixed price from
+the third. ESEC has been able to acquire sufficient quantities to supply our
+estimated requirements of SPA, but it has no long-term contracts for supply and
+other suppliers of SPA may not be available. There can be no assurances that we
+will be able to obtain sufficient quantities of SPA at reasonable prices in the
+future. In the future it is anticipated that phosphate rock from an open pit
+mineral resource owned by ESI in Idaho may be processed  to provide feedstock
+for the Calgary plant. (See Item 2(a) below).
+
+Market for Purified Phosphoric Acid
+Phosphorus in the form of purified phosphoric acid, H3PO4 (PPA), is a basic
+commercial chemical essential to a broad variety of industrial and consumer
+applications. PPA is an important inorganic acid used in foods, cola beverages,
+cleaning solutions, fertilizers, fire retardants and metal treatments, among
+other uses. ESEC competes with four North American PPA producers in the
+estimated 1.3 million tons PPA industrial market where an estimated 370,000
+tons of direct consumption PPA is sold.  ESEC is the sole producer in Canada
+and  the only producer in western North America.  ESEC's targeted market
+segments include those where growth is 10% or more per year, where the
+predominate users are in ESEC's freight advantage area, and the large
+Minneapolis/Chicago area market. ESEC is marketing PPA by attempting to match
+other producers' quality but with lower prices and improved service.  In 1998
+ESEC recognized 29% of its revenues from sales to HCI Holchem Inc., 15% to Ag
+Chem Companies and 13% to Chemical Interchange Co.
+
+If and when routine levels of production are achieved, it is anticipated that
+cost advantages will be realized from the use of less expensive purification
+through solvent extraction and lower freight costs.  By-products are being sold
+in local fertilizer markets.  All of the facility's production is being
+marketed through an agreement dated January 1, 1997 with Twin-Kem
+International, Inc., a Colorado corporation ("TKI") whose principals have over
+60 years of combined experience in the marketing and distribution of industrial
+and agricultural chemicals. The agreement is for an automatically renewing one-
+year term where TKI receives a commission of between $2.00-$5.00 per ton of
+product sold.  A prepayment of $100,000 toward such commission was made in
+1997, consisting of 50% cash and 50% stock.  As additional compensation, the
+Company issued 50,000 shares and 80,000 shares of common stock to TKI in 1998
+and 1999, respectively. There can be no assurances that actual sales recognized
+by ESEC will equal the anticipated volumes.
+
+The growth and profitability of operations at the ESEC facility in Calgary are
+dependent upon, among other things, the sale of purified phosphate products to
+chemical distributors and customers. ESEC signed a letter of intent with
+Chemical Interchange Company ("CIC") to sell 6,000-8,000 tons per year of PPA
+for distribution in the US primarily east of the Rocky Mountains and is
+presently negotiating a similar contract with another group.  However,
+Registrant has limited experience in marketing industrial chemicals and is
+relying on consultants and others to initiate and maintain other sales
+contacts.  PPA is not typically sold under long-term contracts, and Registrant
+does not have any other significant long-term commitments to purchase its
+products.  There can be no assurances that Registrant will be successful in its
+future sales efforts.
+
+Solvent Extraction Process
+The facility produces PPA using an environmentally clean solvent extraction
+process employing tributyl phosphate.  The basic process is well established in
+the industry and believed by ESEC to be free of patent conflicts.  The ESEC
+process was verified for several feedstocks by numerous laboratory bench tests
+and continuous recycle pilot plant runs.  The studies show that a competitive
+PPA can be produced from most fertilizer grade phosphoric acid feedstock with
+extraction efficiencies of  70 to 90%. The remaining material is sold in local
+markets for its contained phosphate values.  ESEC believes that no significant
+waste will be generated at the ESEC facility.  However, the ESEC process has
+not been proven on a continuing, long-term commercial basis at the Calgary
+plant.  Although ESI has performed numerous bench-scale and pilot plant test of
+the process, and has operated the facility on a continuing basis since June of
+1997, there can be no assurances that the process will yield satisfactory
+results when employed on a long-term continuous commercial scale.
+
+Geographic Expansion
+The growth and profitability of operations at the solvent extraction facility
+in Calgary will be dependent upon, among other things, the ability to become
+the predominate supplier of PPA in the geographic region surrounding Calgary
+and on the US West Coast, and to sell on an increasing basis to the
+Minneapolis/Chicago area.  Although the contract with CIC will move products
+into the Midwest, there can be no assurance that ESEC's efforts to expand sales
+can be accomplished on a profitable basis.
+
+Competition
+ESEC's purified phosphate products will be sold in markets that are highly
+competitive.  The principal competitive factors include product quality, price
+and distribution capabilities.  There can be no assurances that ESEC will be
+able to compete successfully against current and future competitors based on
+these factors.  ESEC is in competition with several domestic and international
+producers, many of whom have substantially greater financial, production,
+distribution and marketing resources than ESEC.  As ESEC increases its market
+share, further competition could result in price reductions, reduced margins
+and loss of market share, all of which could have a material adverse affect on
+the ESEC business, financial condition and results of operations.
+
+If there is no demand, or the demand is less than projected, for ADA's services
+for flue gas conditioning agents using phosphoric acid, Registrant will not
+recognize the synergies expected from its acquisition, because ADA will not be
+able to utilize Registrant's purified phosphate products.
+
+                      ADA Environmental Solutions
+
+In 1997, ESI acquired a majority equity position in ADA Environmental Solutions
+LLC ("ADA") through a combination of stock and cash. The acquisition agreement,
+signed April 30, 1997 provided for (i) an immediate cash payment of $400,000
+for a 4.8% equity interest, (ii) a combination of $500,000 in cash and $1.6
+million in notes to be paid at the scheduled closing, for the acquisition of an
+additional 46.2% interest in ADA, and (iii) an option to acquire the remaining
+equity interests (49%) in ADA.  In May 1998 ESI exercised such option,
+acquiring a 100% interest in ADA, by issuance of  1,716,000 shares of stock.
+
+The acquisition was prompted by synergism involving products produced by the
+solvent extraction facility in Calgary.  ADA utilizes product from the Calgary
+facility and other sources in a new proprietary technology designed to reduce
+particulate emissions from plants burning low-sulfur coal.
+
+ADA's Technology and Services
+ADA has developed a technology for conditioning flue gas streams from
+combustion sources that allows existing air pollution control devices to
+operate more efficiently.  ADA, through various suppliers and contractors,
+manufactures  engineered skids for each individual application.  The skids mix,
+pump and monitor the feed of a proprietary chemical blend.  The chemical blend
+is applied to the flue gas stream by a pressurized system of specially designed
+lances and nozzles.  Such treatment of the flue gas stream alters the physical
+properties of the fly ash particles contained therein by decreasing particle
+resistivity and increasing particle cohesion.  These alterations allow the
+existing electrostatic precipitator (ESP) or baghouse to more effectively
+collect such fly ash particles that would otherwise escape into the atmosphere.
+ADA also offers consulting services to assist utilities in planning and
+implementing strategies to meet new government emission standards requiring
+reductions in both sulfur dioxide and nitrogen dioxide. ADA's technology also
+has application in the cement and petroleum industries where particulate
+emissions are being or need to be controlled.
+
+Market for ADA Services
+It is expected that the 1990 Clean Air Act Amendments will result in as many as
+600 coal-fired utility boilers switching to low-sulfur coal by the year 2000 to
+meet the more stringent sulfur dioxide emission standards.   Utilities that
+switch to low-sulfur coals will generally require flue gas conditioning to meet
+the federal standards unless they make costly equipment changes. The market for
+ADA's services was determined based on the evaluation of several commercially
+available data bases, in particular Fieldston Publications "Guide to Phase I
+and Phase II Units."  ADA has entered this market with its proprietary non-
+toxic chemical conditioner that offers both technical and economic advantages
+over the hazardous chemicals currently being used.  In 1998 ADA recognized 30%
+of its revenue from MPC, 30% from APC and 21% from PGE. ADA's own sales staff
+markets its technology through trade shows, mailings and direct contact with
+potential customers.
+
+ADA Competition
+ADA's primary competition is the conventional flue gas conditioning technology
+using either sulfur trioxide or a combination of sulfur trioxide and ammonia.
+This technology has been available commercially since the 1970's and can be
+obtained from a variety of suppliers and in a variety of forms.  Conditioning
+of fly ash by injecting small amounts of sulfur trioxide into the flue gas is a
+well proven technique for improving performance of the ESP.  Such sulfur
+trioxide conditioning loses its effectiveness in application with temperatures
+over 350 degrees F. The capital cost of conventional flue gas conditioning
+technology can range between $4 -13 million. A typical ADA system can cost
+between $300,000-600,000. The competitive advantages of ADA's conditioning
+technology include an effective temperature range of 375 degrees F to 900
+degrees F; a simple injection system; a non-toxic conditioner that will not
+become a secondary pollutant; and chemicals that are safer and easier to handle
+on site.
+
+ADA Patents
+ADA has received three patents related to different aspects of its technology.
+Although important to protect its continuing business, ADA does not consider
+any  of such patents to be critical to the ongoing conduct of its business.
+(See also the discussion below under the heading Patents, Licenses and
+Franchises.)
+
+                         Venezuelan Gold Activities
+
+ESI commenced initial exploration activities in Venezuela in the fall of 1988.
+No proven commercially viable reserves have been discovered on the properties
+discussed.
+
+The decree which empowered the Corporacion Venezolana de Guyana ("CVG") to
+issue land contracts in the Guyana Shield has been determined to be illegal by
+the Venezuelan courts.  The Ministry of Energy and Mines ("MEM") is expected to
+issue concessions to replace the over 450 existing CVG contracts after a study
+commissioned to evaluate the existing contracts' status is complete and final
+legislative action annuls the rights granted CVG.  The SAMI land contract is
+included in this category and it is anticipated that its terms will improve as
+the new concession terms will be more favorable.  The three applications for
+new land contracts discussed below are included with some 300 other unacted-
+upon requests that have accumulated with CVG since March 1994, when CVG stopped
+signing contracts.  New applications to MEM have been made for these three
+areas and assurances have been obtained that they will receive priority when
+they are ultimately considered. Due to political complexities of coordinating
+land use between MEM and designated regions and states, it is uncertain when
+these new applications will be acted upon.  In 1998, an additional 15
+applications were made to MEM covering approximately 30,000 acres in
+southeastern Venezuelan, chiefly of interest for their diamond and gold
+potential.  These applications were filed for areas where previous concessions
+had been granted but had lapsed. ESI expects MEM to give consideration to
+these applications on a more timely basis since the areas requested underwent a
+level of scrutiny in the past. The pending nature of the MEM approval process
+has delayed, indefinitely, further exploration activities on those areas where
+applications have been filed, but has not, and is not expected to delay any
+planned activities on the SAMI contract area.
+
+SAMI Area Contract
+Antabari was formed in 1991, a Venezuelan company of which ESI owns 83%.  In
+November 1991, Antabari filed for a contract with CVG for 488 hectares to be
+explored and exploited for gold.  The area, called SAMI for San Miguel, is
+located southeast of the town of Upata, Bolivar state, Venezuela in the open
+country of the savannas, and is readily accessible from established roads.  The
+contract, which was issued in March 1992, provides a two year period for
+exploration work and to prepare a plan for exploitation.  An extension has been
+granted to complete further exploration work.  The contract requires certain
+financial guarantees with regard to exploration and reclamation, and requires
+that the area be reduced by one-half at the end of the exploration period.
+
+Antabari has performed geologic mapping, geochemistry of drainages, soils and
+old workings, and trenching of several mineralized zones.  One such zone has a
+continuity of over 600 feet with a width of 40 feet and has yielded values of
+up to 1.6 ounces per ton of gold.  Additional sampling and analysis from
+extensive pitting show a large (8 acre) anomalous gold area, clearly open to
+the north and east.  Drilling and further sampling will be necessary to
+determine the potential of the area.  ESI is evaluating this next phase and/or
+a sale to third parties at this time.
+
+Pending Applications
+In 1994, formal applications were made to CVG, which in 1995 have been renewed
+in applications to MEM, to acquire exclusive mineral exploration rights on
+three new land areas located in the Bolivar state in southeastern Venezuela.
+ESI has been advised that the filings establish priority for the areas sought.
+The Company is very optimistic about the potential these areas hold for further
+gold exploration and exploitation.  The areas were first identified as
+potential targets through regional geochemistry  that defined anomalous
+occurrences of gold and associated minerals, and legends of past production by
+primitive methods which have historically been key to exploration in remote
+areas.  Queries of natives and sampling of stream sediments has allowed
+selection of the best targets from a 130 square km area that was investigated.
+
+Each of the three application areas cover 500 hectares (approx. 1200 acres).
+The first concession area is known as Apicharai, located about 165 km from the
+town of La Paragua on a small tributary to the Antabari river with a history of
+panning and small scale hydraulic mining. The second concession area, known as
+Man-cai, is located in a remote area near the Brazilian border accessible by
+boat from the La Paragua river.  The third concession area, known as Manaima,
+is located 50 km from the town of La Paragua.  Although specific work programs
+have been formalized for initial detailed exploration of the above mentioned
+areas, such programs are on hold until the Venezuelan government grants the
+applied for concessions.
+
+From May through December 1998, VENESI filed for 15 concessions ranging in size
+from 200 to 4,228 hectares (approx. 480 to 10,150  acres) all located in the
+Bolivar state in southeastern Venezuela.  The location of the filings primarly
+centers in two areas, one near the Brazil border and the other south of the
+town of La Paragua.  Both of these areas have historical diamond production
+from alluvial materials. ESI believes that there is growing body of geologic
+evidence to support the existence of kimberlitic sources for such diamonds in
+Venezuela and is targeting its exploration effort to acquire concessions with a
+likelihood for such sources.  Thus far VENESI has not confirmed the existence
+of any kimberlites in Venezuela and there can be no assurances that its
+exploration efforts will be successful in the future.
+
+The primary objectives of the 1999 plans are to determine as quickly as
+possible the nature and extent of diamond and gold mineralization on the
+anticipated new land concessions, if and when they are granted, and to continue
+to define those additional areas where future filings will be made.  Activities
+may include pitting, surface geochemistry, geologic mapping and trenching.
+
+                Mineral Properties and Other Business Matters
+During 1998 Registrant maintained its ownership position in the several mineral
+interests it holds.  The mineral interests maintained by Registrant include
+significant resource interests in alumina, gold, vanadium, potash and sulfur,
+and prospects for copper/molybdenum and silver (see Item 2 below).
+
+Raw Materials.  Raw materials, as the term is generally used, are not essential
+to Registrant's mineral acquisition and development activities performed for
+its own account.  However, Registrant's commercialization of its properties is
+dependent upon securing adequate supplies of energy and water.  Continued
+production of PPA at the Calgary facility will require adequate supplies of SPA
+feedstock.  Adequate supplies of this material are currently available in the
+required quantities and at reasonable prices.  There can be no assurance that
+such availability will continue in the future.
+
+Patents, Licenses and Franchises (See also the discussion above under the
+heading "ADA Patents.") Registrant holds no patents, licenses, franchises or
+land contract which it considers material in light of its other assets.
+However, Registrant holds for itself, and in association with others, Federal
+Potassium Prospecting Permits, State Potash and Alunite Leases, Federal
+Potassium Preference Right Leases and Applications, Federal Phosphate
+Prospecting Permits, Federal Phosphate Leases, State Phosphate Leases, fee
+mineral rights and other exploration and mineral interests which are the basis
+for Registrant to explore and develop the properties subject thereto. In
+certain instances such mineral interests give preferential leasing rights to
+Registrant upon location and demonstration to the US Geological Survey
+Conservation Division that the deposit is a "valuable, workable deposit in
+commercial quantities".
+
+Competition and Scarcity of Mineral Lands.  Many companies and individuals are
+engaged in mineral exploration and development, including large, established
+mining companies with substantial capabilities and long earnings records.
+There is a limited amount of desirable mineral lands available for claim
+staking, lease or other acquisition in the United States ("US"), Venezuela and
+other areas where ESI contemplates conducting exploration activities.  ESI may
+be at a competitive disadvantage in acquiring mineral properties since it must
+compete with these individuals and companies, many of which have greater
+financial resources and larger technical staffs than ESI.  From time to time,
+specific properties or areas which would otherwise be attractive to ESI for
+exploration or acquisition are unavailable due to their previous acquisition by
+other companies.
+
+Fluctuation in the Price of Minerals.  The market price of minerals is
+extremely volatile and beyond the control of ESI.  Gold prices are generally
+influenced by basic supply/demand fundamentals.  The market dynamics of
+supply/demand can be heavily influenced by economic policy, i.e., central banks
+sales/purchases, political unrest, conflicts between nations, and general
+perceptions about inflation.  Fluctuating metal prices may have a significant
+impact on ESI's results of operations and operating cash flow.  Furthermore, if
+the price of a mineral should drop dramatically, the value of ESI's properties
+which are being explored or developed for that mineral could also drop
+dramatically, and ESI might not be able to recover its investment in those
+properties.  The decision to put a mine into production, and the commitment of
+the funds necessary for that purpose, must be made long before the first
+revenues from production will be received.  During the last five years, the
+average annual market price of gold has fluctuated between $285 per ounce and
+$384 per ounce.  Price fluctuations between the time that such a decision is
+made and the commencement of production can change completely the economics of
+the mine.  Although it is possible to protect against price fluctuations by
+hedging in certain circumstances, the volatility of mineral prices represents a
+substantial risk in the mining industry generally which no amount of planning
+or technical expertise can eliminate.  ESI is not involved in, nor does it
+expect to enter into any hedging activities
+
+Environmental Controls.  Compliance with environmental quality requirements and
+reclamation laws imposed by federal, state, provincial, and local governmental
+authorities may necessitate significant capital outlays, may materially affect
+the economics of a given property, or may cause material changes or delays in
+ESI's intended activities.  The Secretary of the Interior has directed the BLM
+to propose amendments to surface management regulations that impose more
+stringent reclamation and environmental protection requirements on mining
+operations.  The extent of the changes, if any, which may be made by the BLM is
+not presently known, and the potential impact on ESI as a result of future
+regulatory action is difficult to predict.  New or different environmental
+standards imposed by any governmental authority in the future may adversely
+affect the ESI's activities.
+
+United States Federal and state environmental laws and regulations potentially
+applicable to mining exploration, development and operations of Registrant
+include: (a) the assessment of environmental impacts pursuant to the National
+Environmental Policy Act and its state counterparts; (b) the Endangered Species
+Act and any comparable state laws; (c) water quality laws and regulations which
+address impacts on waters of the United States or a state; (d) solid, and
+possibly hazardous, waste laws and regulations to the extent that waste is
+generated as a result of activities on the property; (e) air quality laws and
+regulations if air emissions result from site operations; and (f) mined land
+operational and reclamation requirements.  In addition to the imposition of
+requirements which may impact operations, a number of these environmental laws
+and regulations impose permitting requirements related both to the initiation
+of certain mining activities as well as to the ongoing operation once mining
+commences.  Local regulations in the US typically are land use related rather
+than environmental.  Although environmental regulatory costs to date and those
+expected in 1999 are not significant, they may become substantial in the
+future.  Such costs are considered a part of the ordinary costs of Registrant's
+business.
+
+Uncertainty of Title.  Several of the ESI's mining properties which are in the
+United States are unpatented mining claims to which ESI, or those under which
+ESI holds its rights, has only possessory title.  Because title to unpatented
+mining claims is subject to inherent uncertainties, it is difficult to
+determine conclusively ownership of such claims.  Since a substantial portion
+of all mineral exploration, development and mining in the United States now
+occurs on unpatented mining claims, this uncertainty is inherent in the mining
+industry.  In addition, in order to retain title to an unpatented mining claim,
+a claim holder must have met annual assessment work requirements ($100 per
+claim) through September 1, 1992 and must have complied with stringent state
+and federal regulations pertaining to the filing of assessment work affidavits.
+Moreover, after September 1, 1992, the right to locate or maintain a claim
+generally is conditional upon payment to the United States of a rental fee of
+$100 per claim per year for each assessment year instead of performing
+assessment work.  State law may, in some instances, still require performance
+of assessment work.
+
+The present status of the ESI's properties as unpatented mining claims located
+on public lands of the U.S. allows the claimant the exclusive right to mine and
+remove valuable minerals, such as precious and base metals and industrial
+minerals, found therein, and also to use the surface of the land solely for
+purposes related to mining and processing the mineral-bearing ores.  However,
+legal ownership of the land remains with the U.S.  Accordingly, with an
+unpatented claim, the U.S. retains many of the incidents of ownership of land,
+the U.S. regulates use of the surface, and ESI remains at risk that the claims
+may be forfeited either to the U.S. or to rival private claimants due to
+failure to comply with statutory requirements as to locations and maintenance
+of the claims.  If there exists a valuable deposit of locatable minerals (which
+is the requirement for the unpatented claim to be valid in the first place),
+and provided certain levels of work and improvements have been performed on an
+unpatented mining claim, the Mining Law of 1872 authorizes claimants to then
+seek to purchase the full title to the claim, thereby causing the claim to
+become the private property of the claimant.  Such full ownership expands the
+claimant's permissible uses of the property (to any use authorized for private
+property) and eliminates the need to comply with maintenance and reporting
+requirements necessary to protect rights in an unpatented claim.  At present
+there is a statutory moratorium in effect prohibiting the Department of
+Interior from accepting and processing new applications for purchase of fee
+title to mining claims.  The moratorium is likely to continue indefinitely but
+does not affect the ability to hold and develop valuable deposits by means of
+unpatented mining claims.
+
+Proposed Legislation Affecting the Mining Industry.  For the last several
+Congressional sessions, bills have been repeatedly introduced in the U.S.
+Congress which would supplant or radically alter the provisions of the Mining
+Law of 1872.  As of December 31, 1998, no such bills have passed, although a
+number of differing and sometimes conflicting bills are now pending.  If
+enacted, such legislation could substantially increase the cost of holding
+unpatented mining claims and could impair the ability of companies to develop
+mineral resources on unpatented mining claims.  Under the terms of certain
+proposed legislation, the ability of companies to obtain a patent on unpatented
+mining claims would be nullified or substantially impaired.  Moreover, certain
+forms of such proposed legislation contain provisions for the payment of
+royalties to the federal government in respect of production from unpatented
+mining claims, which could adversely affect the potential for development of
+such claims and the economics of operating existing mines on federal unpatented
+mining claims.  ESI's financial performance could therefore be affected
+adversely by passage of such legislation.  It is impossible to predict at this
+point what any legislated royalties might be, but a potential three to four
+percent gross royalty, assuming a gold price of $300 per ounce, would have an
+approximated $9 to $12 per ounce impact on ESI's costs of any production from
+unpatented mining claims.
+
+Uncertainty of Funding for Exploration.  ESI has funded much of its exploration
+and acquisition activities through joint venture arrangements, which minimize
+the cost of such activities to ESI and allow it to explore and acquire a
+greater number of properties than it would otherwise be able to explore or
+acquire on its own.  ESI has also funded a portion of its exploration
+activities without joint venture participation, resulting in increased costs to
+ESI.  ESI has been successful in raising such funds for its exploration
+activities.  Additional funding from existing partners or third parties,
+however, may be necessary to conduct detailed and thorough evaluations of, and
+to develop certain properties.  ESI's ability to obtain this financing will
+depend upon, among other things, the price of gold and the industry's
+perception of its future price.  Therefore, availability of funding is
+dependent largely upon factors outside of ESI's control, and cannot be
+accurately predicted.  ESI does not know from what sources it will derive any
+required funding.  If ESI is not able to raise additional funds (as to which
+there can be no assurance), it will not be able to fund certain exploration
+activities on its own.
+
+Uncertainty of Development and Operating Property Economics and Ore Grades at
+Development Properties.  Decisions as to whether any of the mineral development
+properties which ESI now holds or which it may acquire in the future contain
+commercially minable deposits, and whether such properties should therefore be
+sold or brought into production, depend upon the results of exploration
+programs and/or feasibility analyses and the recommendations of duly qualified
+engineers or geologists.  Such decisions involve consideration and evaluation
+of several significant factors, including, but not limited to, the (a) costs of
+bringing a property into production, including exploration and development
+work, preparation of production feasibility studies and construction of
+production facilities, (b) availability and costs of financing, (c) ongoing
+costs of production, (d) market prices for the mineral to be produced, and (e)
+the amount and grades of reserves or mineralized material.  There can be no
+assurance that any of the development properties now held by ESI, or which may
+be acquired by ESI, contains a commercially minable mineral deposit, and
+therefore no assurance that ESI will ever generate a positive cash flow from
+the sale of or production operations on such properties. In addition, once a
+property is sold with a retained royalty or placed into production, risks still
+exist that the amount and grade of its reserves will not actually be as
+predicted.  To the extent that lower amounts and/or grades of reserves are
+experienced, costs per unit produced and profitability can be adversely
+affected.  Depending upon the extent of such an effect in any of ESI's
+properties, ESI could incur a writedown on its investment in any such property.
+
+Seasonality of Activities.  The activities of Registrant performed for its own
+account are not seasonal, although winter weather may limit certain activities.
+
+Dependence on Major Customers.  (See also the discussions above under the
+headings "Market for Purified Phosphoric Acid" and "Market for ADA Services"
+and Note 14 to the Consolidated Financial Statement submitted in response to
+Item 7 below.) Registrant's mineral exploration and property acquisition
+activities are not dependent upon one or a few major customers.  The search for
+and commercialization of economic mineral deposits is highly competitive.
+Large companies having greater financial resources than Registrant and many
+small mining companies are active in acquiring, evaluating and developing
+mineral resource prospects in the western United States and Venezuela.
+
+Research and Development Activities. Registrant spent approximately $19,000 and
+$98,000 on research and development activities related to the Calgary
+extraction facility during 1998 and 1997, respectively.  ADA spent
+approximately $62,000 and $127,000 on research and development activities
+related to further development of its technology during 1998 and 1997,
+respectively.
+
+Employees. As of December 31, 1998 Registrant employed 5 personnel at its
+Golden, Colorado, offices and 25 full-time at the Calgary facility.  ADA
+employs 12 people at its offices in Littleton, Colorado and 2 others at
+locations in Alabama and New Hampshire.  In addition, other personnel were
+employed on a contract basis for specific project tasks.
+
+
+Item 6.  Management's Discussion and Analysis of Financial Condition and
+Results of Operations.
+This Annual Report may contain forward-looking statements within the meaning of
+Section 27A of the Securities Act of 1933.  In particular such forward-looking
+statements may be found in this section and under the heading "Description of
+Business."  Actual events or results could differ materially from those
+discussed in the forward-looking statements as a result of various factors
+including those set forth below or under the heading "Description of Business."
+
+                       Liquidity and Capital Resources
+
+Management believes that existing working capital, a recently approved credit
+facility and recent private placements of common stock are sufficient to fund
+the planned growth in operations until positive cash flow is achieved in
+Calgary and at ADA, which are both anticipated during 1999.  Registrant had a
+working capital deficit of $762,000 at year end. This deficit has been
+significantly reduced with proceeds from the recent private placements.
+Management expects to further reduce the remaining deficit through
+renegotiation of due dates on short-term indebtedness and improving cash flow,
+although there can be no assurances that such negotiations will be successful
+or that positive cash flow will be achieved. The achievement of such positive
+cash flow is dependent upon several factors including continued production of
+technical grade quality product, success in marketing phosphate products and
+meeting competition in the market place, the failure in any of which could
+delay or frustrate such achievement.  For ADA, the achievement of positive cash
+flow is dependent upon the successful ongoing operation of the units currently
+operating at APC and in Oregon, and the sale of at least two other units to any
+of a number of utilities where proposals have been issued.   Significant delay
+in signing new contracts or unsatisfactory operations at the units operating
+could delay or frustrate such achievement.  Planned capital expenditures to
+sustain and improve ongoing operations for 1999 are estimated at $400,000.
+Registrant expects to fund these requirements out of existing working capital.
+However, additional funds may be required to fund capital improvements,
+expanded exploration activities in Venezuela (see Item 1(b) above) and purchase
+equipment to produce food-grade product in Calgary. Private placements of
+common stock, convertible debentures and bank borrowings may be evaluated to
+fund such requirements.  Registrant received a net of  $1.1 million from the
+sale of common stock in the first quarter of 1999 (see Item 1(a) above) and has
+received approval, subject to definitive documentation, a revolving credit
+facility from the Bank  of Hongkong.
+
+The credit facility from the Bank of Hongkong is a demand revolving loan
+limited to the lesser of 85% of qualified receivables or $400,000, is secured
+by accounts receivable of ESEC, and carries interest at the Bank's US base rate
+(currently 8.5%) plus 1%.  Interest is due monthly in arrears and the loan is
+guaranteed by ESI.
+
+Based on current estimates, the Calgary facility may require as much as U.S.
+$500,000 to initiate and finalize modification for the production of food grade
+phosphoric acid.  Registrant expects to finance those requirements from bank
+borrowings, equipment leasing and/or existing working capital.
+
+Registrant is funding the majority of cash costs of the Venezuelan gold
+exploration activities.  Activities planned on the existing SAMI contract and
+on those concessions expected to be granted in the future can be met through
+existing working capital. Registrant may raise the additional capital, if and
+when needed, through further private placements of stock, convertible
+debentures and/or joint venture arrangements, if appropriate.
+
+Cash flow used in operations totaled $2,688,000 for 1998 versus $3,178,000 for
+1997 and resulted primarily from the operating losses less non-cash charges for
+interest related to convertible debentures.  Cash flow from investing
+activities for 1998 includes proceeds from sale of building of $337,000 and
+capital expenditures of $729,000.  Cash flow from financing activities in 1998
+consisted of payments on notes payable and long-term debt of $500,000, proceeds
+from the issuance of stock of $167,000 and proceeds from the issuance of
+convertible debentures and notes payable, net of $3,203,000. Cash flow from
+investing activities for 1997 included funding and collections on notes
+receivable of $50,000, and capital expenditures of $3,154,000 and the purchase
+of investment in ADA of $417,000.  Cash flow from financing activities in 1997
+consisted of payments on restructuring of extraction plant liability of
+$1,250,000, payments on notes payable and long-term debt of $886,000, proceeds
+from the issuance of stock of $42,000 and proceeds from the issuance of
+convertible debentures and notes payable, net of $8,586,000.
+
+                           Results of Operations
+
+Revenues from sales totaled $4,686,000 in 1998 versus $1,468,000 in 1997. In
+1998 $2,818,000 of that amount was generated by  ADA and $1,868,000 from
+Calgary phosphate sales. Revenues from ADA increased from $945,000 in 1997 due
+to the sale of three flue gas conditioning units in 1998 vs. one in 1997 and
+increasing chemical sales to a greater number of units operating in 1998.
+Phosphates sales from Calgary increased from $514,000 in 1997 due to expanding
+markets and improving product quality. ADA's revenues were less than
+anticipated due to (1) delays in the installation of units at Wisconsin and
+Mississippi, (2) cessation of chemical injection at MPC when the treated fly-
+ash prolonged the set time of cement into which it was being recycled, and (3)
+less than expected additional sales due to market concern over the recycled
+fly-ash issue.  Chemical sales to MPC in 1998 totaled approximately $281,000
+which will not be received in future periods due to MPC no longer purchasing
+chemicals from us as a result of a capital conversion of their units.
+
+In the summer of 1998, ADA developed a new chemical blend that has alleviated
+the cement set time problem and has improved overall performance in the several
+units where it has been utilized. (See discussion of ADA's Technology and
+Services above in Item 1.b.)  Sales of phosphate products were also less than
+targeted because (1) ADA's demand was less than expected as described above,
+and (2) product quality problems reduced margins and market acceptance,
+restricting sales. Additional filtering and other process changes instituted in
+the fourth quarter of 1998 have thus far solved the product quality issue, and
+the facility has been routinely been producing acceptable technical grade
+material since that time. Rental income included in other income decreased
+slightly in 1998 due to the sale of ESI office building in September 1998. Also
+included in other income for 1998 is gain on the sale of that building of
+$158,000.  Other income in 1997 includes interest income earned from investment
+of funds on hand and a legal settlement in the amount of $30,000.
+
+Operating expenses increased significantly in 1998 in response to increased
+sales and revenues related to both Calgary phosphate production ($1,663,000 of
+the increase) and ADA ($1,157,000 of the increase). The Company experienced
+negative gross margins at its Calgary operations in 1997 and 1998 primarily due
+to the start up nature of the phosphate production and the product quality
+problem mentioned above.  The Company expects such margins to improve in 1999
+with expected increased sales.  ADA experienced positive gross margins in 1998,
+but these were less than expected from routine operations and resulted from ADA
+establishing its market acceptance and market share for its technology.  The
+Company's ultimate success will be dependent upon generating greatly improved
+gross margins, which in turn are dependent upon increased sales and market
+penetration.  Consolidated research and development decreased in 1998 to
+$81,000 from $225,000 in 1997. Future consolidated research and development
+expenses are expected to be approximately $100,000 per year for the next
+several years. General and administrative expenses decreased by a net of
+approximately $500,000 in 1998 as a result of increases in Calgary related to
+increased production (an increase of $254,000),  ADA's increased activities (an
+increase of $686,000), decreased investor relations expenses (a decrease of
+$1,227,000), and adoption of a sabbatical leave policy during 1997 not
+incurred in 1998 ($200,000 of the decrease). Future investor relations expenses
+are expected to run between $100,000 and $150,000 for the next several years.
+In 1997 ESI's Board of Directors adopted a sabbatical leave policy and $200,000
+was accrued in that year for the estimated prior service costs associated with
+the policy.  Approximately $65,000 of that accrued liability was reduced in
+1998 as a result of one employee taking a sabbatical leave.  The ongoing annual
+costs of the policy are estimated at approximately $15,000.
+
+Registrant's interest expense totaled approximately $1,264,000 for 1998 and
+$3,062,000 for 1997. Interest expense includes approximately $84,000 and
+$20,000 in 1998 and 1997, respectively, from the consolidation of the Canadian
+subsidiary's and ADA's  results.  Included in interest expense for 1998 and
+1997 is $1,027,000 and $2,595,000, respectively of non-cash charges
+representing the 25% discount from market related to the convertible debentures
+issued and convertible in those years.
+
+Extraordinary gain from debt restructuring recognized in 1997 represents the
+difference between the recorded liabilities at the time of settlement with
+Yankee Companies of  $9,382,000 and the settlement payments totaling $1,250,000
+plus the remaining recorded liability of $4,850,000, net of income taxes of
+$985,000.
+
+Impact of Year 2000 Issue
+The Year 2000 Issue is the result of computer programs being written and
+imbedded chips using two digits rather than four digits to define years.  Any
+of Registrant's computer programs that have date-sensitive software may
+recognize a date using "00" as the year 1900 rather than the year 2000.  This
+could result in a system failure or miscalculations causing disruptions of
+operations, including, among other things, a temporary inability to process
+transactions, send invoices, or engage in similar normal business activities.
+
+Based on recent and ongoing assessments, Registrant has determined that it will
+not be necessary to modify or replace any significant portions of its equipment
+or software so that its computer systems will properly utilize dates beyond
+December 31, 1999.  The Year 2000 Issue is not expected to have a material
+impact on the operations of Registrant.  Registrant does not expect to incur
+any material expenses or costs related to the Year 2000 Issue.
+
+Based on a review of the nature and quantity of transactions with significant
+suppliers and large customers to determine the extent to which Registrant is
+vulnerable to those third parties' failure to remediate their own Year 2000
+Issue, Registrant has concluded that it does not materially rely on third
+parties' systems for the continuance of its operations except that Registrant
+does rely on utilities supplied by municipalities and power companies, the
+disruption of which will cause Registrant to shut down its affected operations
+until such service is restored.  Extended disruption of utility services will
+have a material adverse effect on Registrant.  With regard to other third party
+systems, there can be no guarantee that a failure to convert by another
+company, or a conversion that is incompatible with Registrant's systems, would
+not have a material adverse effect on Registrant.  Registrant has determined
+that it has no material exposure to contingencies related to the Year 2000
+Issue for products or services it has sold.
+
+
+Item 12.  Certain Relationships and Related Transactions.
+(a) During 1997, Dr. Bisque borrowed a total of $50,000 from Registrant at an
+interest rate of 8%.  The loan was paid back to Registrant prior to year end.
+The amount borrowed was collateralized by amounts owing to Dr. Bisque by
+Registrant and was made available from funds that would have otherwise only
+earned Registrant approximately 5%.
+
+In 1991, the Registrant converted a total of $366,000 of deferred salaries
+payable to Mssrs. Bisque, Bloom and McKinnies to notes payable bearing interest
+at 9%, payable on demand, and granted them rights to convert such notes payable
+to shares of common stock at the then current market price of $.54 per share.
+The notes were collateralized by a mining property.  As of December 31, 1997,
+$70,000 was outstanding under such notes.  All of that amount was converted to
+common stock during the year ended December 31, 1998.
+
+In 1997, Registrant issued a convertible debenture in the amount of $1,000,000
+(the "Debenture") to Tectonic Construction Co. ("TCC") and borrowed $500,000
+from TCC under a short-term note (the "1997 Note"). Mr. Lowdermilk, a director
+of Registrant, is the president and majority shareholder of TCC.  These amounts
+were collateralized by a mining property, and buildings, equipment, receivables
+and inventory in Calgary.  The Debenture and the 1997 Note bear interest at the
+greater of prime plus two points or 10% which interest is payable quarterly.
+The Debenture, if not converted, is due March 31, 2000.  The Debenture is
+convertible at any time after November 30, 1997 into shares of common stock at
+a weighted  average rate of $3.12.  The 1997 Note was repaid in full in
+February, 1998. In May 1998 Registrant borrowed $250,000 from TCC under a
+short-term note (the "1998 Note") due March 31, 1999. The 1998 Note is
+collateralized by receivables and inventory in Calgary. The 1998 Note bears
+interest at the greater of prime plus two points or 10% which interest is
+payable quarterly.
+
+In the fall of 1998, Registrant sold an office building in Golden , Colorado to
+a son of an officer and director.  The sales price of $350,000 was based on an
+independent appraisal of the property.  Registrant continues to rent a portion
+of the building on a month-to-month basis.
+
+During February 1999, Registrant sold a total of 267,245 shares of its common
+stock to a son and two sons-in-law of its officers and directors. The shares
+were sold at the then current market prices ranging from $.81 to $.91 per share
+and on the same terms and conditions as to unaffiliated third parties who also
+purchased shares at that time.  Further details of the sales are included above
+in Items 1(b) and 5(d) and in Note 9 to the Consolidated Financial Statements
+submitted in response to Item 7.
+
+SIGNATURES
+In accordance with Section 13 or 15(d) of the Exchange Act, the Registrant has
+duly caused this report to be signed on its behalf by the undersigned,
+thereunto duly authorized.
+
+Earth Sciences, Inc.
+- --------------------
+ (Registrant)
+
+By /s/ Mark H. McKinnies          				/s/ Duane N. Bloom
+   ---------------------              ------------------
+  Mark H. McKinnies, President		     	Duane N.  Bloom,  Member of
+  and Principal Financial Officer   		Executive Committee
+
+Date: July 9, 1999                				July 9, 1999
+     -------------                    -------------
+In accordance with the Exchange Act, this report has been signed below by the
+following persons on behalf of the Registrant and in the capacities and on the
+dates indicated.
+
+/s/ Ramon E. Bisque              				 /s/ Robert H. Lowdermilk
+- -------------------                   ------------------------
+Ramon E.  Bisque                    			Robert H. Lowdermilk
+Chairman of The Board of Directors    	Director
+
+July 9, 1999                      					July 9, 1999
+- ------------                           ------------
+    Date                    					          Date
+
+/s/Duane N. Bloom                 				/s/ Michael D. Durham
+- ------------------                    ---------------------
+Duane N.  Bloom, Director          			Michael D. Durham, Director
+
+July 9, 1999		                     			July 9, 1999
+- ------------                          ------------
+   Date			                     		          Date
+
+/s/ Mark H. McKinnies
+- ---------------------
+Mark H. McKinnies, Director
+
+July 9, 1999
+- ------------
+   Date
+
+
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

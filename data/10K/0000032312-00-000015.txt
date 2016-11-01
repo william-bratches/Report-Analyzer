@@ -1,0 +1,4214 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ NYllSbpD9E+7bQc3jZvF2ZYfPSJYVj68Cljcr00yxW2+nRjxgxjsZ1vChk46PyJt
+ v5hmfMOJNyXqLAga5nJ+Wg==
+
+<SEC-DOCUMENT>/in/edgar/work/20000627/0000032312-00-000015/0000032312-00-000015.txt : 20000920
+<SEC-HEADER>0000032312-00-000015.hdr.sgml : 20000920
+ACCESSION NUMBER:		0000032312-00-000015
+CONFORMED SUBMISSION TYPE:	10KSB
+PUBLIC DOCUMENT COUNT:		5
+CONFORMED PERIOD OF REPORT:	20000331
+FILED AS OF DATE:		20000627
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			EMCEE BROADCAST PRODUCTS INC
+		CENTRAL INDEX KEY:			0000032312
+		STANDARD INDUSTRIAL CLASSIFICATION:	 [3663
+]		IRS NUMBER:				131926296
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0331
+</COMPANY-DATA>
+
+		FILING VALUES:
+			FORM TYPE:		10KSB
+			SEC ACT:		
+			SEC FILE NUMBER:	001-06299
+			FILM NUMBER:		661395
+</FILING-VALUES>
+
+			BUSINESS ADDRESS:	
+				STREET 1:		P O BOX 68
+				STREET 2:		SUSQUEHANNA STREET EXTENSION WEST
+				CITY:			WHITE HAVEN
+				STATE:			PA
+				ZIP:			18661-0068
+				BUSINESS PHONE:		7174439575
+</BUSINESS-ADDRESS>
+
+				MAIL ADDRESS:	
+					STREET 1:		P O BOX 68
+					STREET 2:		SUSQUEHANNA STREET EXTENSION
+					CITY:			WHITE HAVEN
+					STATE:			PA
+					ZIP:			18661
+</MAIL-ADDRESS>
+
+					FORMER COMPANY:	
+						FORMER CONFORMED NAME:	ELECTRONICS MISSILES & COMMUNICATIONS INC
+						DATE OF NAME CHANGE:	19920703
+</FORMER-COMPANY>
+</FILER>
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>10KSB
+<SEQUENCE>1
+<FILENAME>0001.txt
+<TEXT>
+
+                  U.S. SECURITIES AND EXCHANGE COMMISSION
+                        WASHINGTON, D.C.  20549
+
+                                 FORM 10-KSB
+
+
+(Mark One)
+
+                   ANNUAL REPORT UNDER SECTION 13 OR 15(d) OF THE
+   X               SECURITIES EXCHANGE ACT OF 1934 [Fee Required]
+
+                         For the fiscal year ended March 31, 2000
+
+                   TRANSITION REPORT UNDER SECTION 13 OR 15(d) OF
+   __              THE SECURITIES EXCHANGE ACT OF 1934 [No Fee
+                   Required]
+
+                         For the transition period from _________
+                         _________________ to ___________________
+
+                  Commission file number 1-6299
+
+
+                  EMCEE BROADCAST PRODUCTS, INC.
+          (Name of small business issuer in its charter)
+
+             DELAWARE                       13-1926296
+(State or other jurisdiction of   (I.R.S. Employer Identification
+ incorporation or organization)    Number)
+
+ SUSQUEHANNA STREET EXTENSION, PO BOX 68, WHITE HAVEN, PA  18661-0068
+
+(Address of principal executive                              (Zip Code)
+ offices)
+
+Issuer's telephone number: (570) 443-9575
+
+                               ////
+
+Securities registered under Section 12(b) of the Exchange Act:
+
+Title of each class:                 Name of each exchange on which
+                                               registered:
+
+        Common                     NASDAQ National Market
+
+Securities registered under Section 12(g) of the Exchange Act:
+
+                               None
+                         (TITLE OF CLASS)
+
+Check whether the issuer (1) filed all reports required to be filed by Section
+13 or 15(d) of the Exchange Act during the past twelve (12) months (or for
+such shorter period that the registrant was required to file such reports),
+and (2) has been subject to such filing requirements for the past ninety (90)
+days.
+
+                                        Yes   X    No
+
+
+
+
+<PAGE>
+Check if there is no disclosure of delinquent filers in response to Item 405
+of Regulation S-B is met contained in this form, and no disclosure will be
+contained, to the best of registrant's knowledge, in definitive proxy or
+information statements incorporated by reference in Part III of this Form
+10-KSB or any amendment to this Form 10-KSB. __
+
+State issuer's revenues for its most recent fiscal year, $4,738,493.
+
+The aggregate market value of the voting stock held by non-affiliates of the
+Registrant is $3,855,763 computed by reference to the closing bid price of the
+stock at June 23, 2000. This computation is based on the number of issued and
+outstanding shares held by persons other than directors and officers of the
+Registrant.
+
+State the number of shares outstanding of each of the issuer's classes of
+common equity, as of the latest practicable date:
+
+                CLASS                  OUTSTANDING AT JUNE 23, 2000
+Common stock, par value $.01-2/3              4,041,709
+ per share
+
+               DOCUMENTS INCORPORATED BY REFERENCE
+
+Items 9, 10, 11 and 12 in Part III of this report are incorporated by
+reference from the Proxy Statement expected to be filed within one hundred
+twenty (120) days of the close of the Registrant's fiscal year ended March 31,
+2000.
+Transitional Small Business Disclosure Format (Check One)
+                                        Yes      ;  No   X  .
+
+                  EMCEE BROADCAST PRODUCTS, INC.
+                           FORM 10-KSB
+                 FISCAL YEAR ENDED MARCH 31, 2000
+
+              TABLE OF CONTENTS        PAGE NUMBER
+PART I.
+
+ITEM 1.   DESCRIPTION OF BUSINESS         1
+
+ITEM 2.   DESCRIPTION OF PROPERTY         5
+
+ITEM 3.   LEGAL PROCEEDINGS               6
+
+ITEM 4.   SUBMISSION OF MATTERS TO A
+          VOTE OF SECURITY HOLDERS        6
+PART II.
+
+ITEM 5.   MARKET FOR COMMON EQUITY AND
+          RELATED STOCKHOLDER MATTERS     6
+
+ITEM 6.   MANAGEMENT'S DISCUSSION AND
+          ANALYSIS OR PLAN OF OPERATIONS  7
+
+ITEM 7.   FINANCIAL STATEMENTS           14
+
+ITEM 8.   CHANGE IN AND DISAGREEMENTS
+          WITH ACCOUNTANTS ON ACCOUNTING
+          AND FINANCIAL DISCLOSURES      14
+<PAGE>
+PART III.
+ITEM 9.   DIRECTORS, EXECUTIVE OFFICERS,
+          PROMOTERS AND CONTROL PERSONS;
+          COMPLIANCE WITH SECTION 16(a)
+          OF THE EXCHANGE ACT            14
+
+ITEM 10.  EXECUTIVE COMPENSATION         14
+
+ITEM 11.  SECURITY OWNERSHIP OF CERTAIN
+          BENEFICIAL OWNERS AND
+          MANAGEMENT                     14
+
+ITEM 12.  CERTAIN RELATIONSHIPS AND
+          RELATED TRANSACTIONS           15
+
+ITEM 13.  EXHIBITS AND REPORTS ON
+          FORM 8-K                       15
+
+          SIGNATURES                     17
+                              PART I
+ITEM 1.  DESCRIPTION OF BUSINESS
+The Registrant (sometimes alternatively referred to in this report as the
+"Company" or "EMCEE") is a corporation, organized and existing under the laws
+of the State of Delaware. The Company was incorporated in 1960.
+The Company is engaged principally in the manufacture and sale of Multichannel
+Multipoint Distribution Service ("MMDS") microwave transmitters and related
+equipment for the wireless cable industry. The Company also manufactures and
+sells low power television ("LPTV") transmitters and related equipment for the
+television broadcast industry.
+In addition, the Company provides all services relative to the design,
+procurement and installation of television broadcast stations, with the
+exception of licensing submissions.
+With the April, 2000, asset acquisition of Kentucky based Advanced Broadcast
+Systems, Inc., the Company plans to compete in the business of manufacturing
+and selling medium and high powered television transmitters, which includes
+transmitters used for high definition television ("HDTV").
+Through its subsidiary, R.F. Internet Systems, Inc., the Company is involved
+in two joint ventures, the purpose of which is  to sell wireless high speed
+Internet access. Presently, only one of these businesses is operational with
+42 subscribers. The Company believes that the success of these businesses
+will, in large measure, be dependent on Federal Communication Commission
+("FCC") approval of 2-way high speed service (the ability to send information
+10 to 100 times faster than traditional telco Internet access). The Company's
+operating joint venture currently works off of an FCC approved application for
+"experimental" 2-way high speed service. Although the Company will continue to
+manufacture and sell transmitters and related equipment to this industry, it
+has no plans to participate as an operator beyond the two joint ventures in
+which it is currently involved.
+The Company's products are sold and distributed primarily through the
+Company's sales staff and independent sales representatives. Most sales occur
+in the commercial, educational and private television system markets.
+For more than the past three years, most of the Company's sales volume has
+come from the wireless cable industry. While the Company plans to continue to
+market and sell products to the LPTV market and develop the medium and high
+power television business, it anticipates that MMDS sales will continue to
+dominate in both foreign and domestic markets, with foreign sales of all
+products to dominate total sales into the foreseeable future.
+At March 31, 2000, the Registrant employed 51 people on a full-time basis.
+The Company has a variety of raw material sources available to conduct its
+present business. However, substantial periods of lead time for delivery are
+sometimes experienced by the Company, making it necessary to inventory varied
+
+<PAGE>
+quantities of materials. Beginning in the fourth quarter of fiscal year 2000,
+the Company experienced unusual difficulty securing transistor
+and other parts for its digital MMDS products due to product shortages of
+certain vendors. The problem continues but should be resolved sometime in the
+second quarter of fiscal year 2001, which is when the Company believes
+production will catch up with demand and raw material shortages will end, and
+when the Company anticipates completing the re-design of amplifiers that
+utilize another vendor's transistors.
+Significant portions of the Registrant's revenues come from contracts with
+customers who generally do not place orders on a regular basis. In addition,
+the timing of these contracts relate to economic and regulatory developments
+over which the Registrant has little or no control.
+In fiscal year 2000, purchases by one overseas customer constituted $1.1
+million or 24% of the Company's net sales. Although these purchases were
+significant in both amount and as a percentage of sales, the Company is not
+dependent on this customer for future sales.
+The Registrant's principal suppliers are Andrew Corporation, Fujitsu
+Corporation and Microwave Filter Company, Inc.
+Substantially all of the Registrant's domestic products must receive FCC
+approval prior to being marketed and sold. As of the date of this report, all
+of the Registrant's products requiring FCC approval have received it.
+While FCC regulations can have an effect on the demand for the Registrant's
+domestic products, the Registrant neither knows of nor anticipates any
+government regulation which would have a material effect on its business.
+The amount of money spent on the Registrant's research and development
+activities in fiscal years 1999 and 2000 was, respectively,$422,426 and
+$430,678. An additional $9,000 of research and development costs was funded by
+customers in fiscal year 1999.
+In the MMDS industry, the Registrant occupies a strong position among its
+competitors. However, the Company continues to  experience significant pricing
+pressures in the MMDS industry, primarily as a result of a reduction in demand
+for MMDS products, both domestically and internationally.
+The primary methods of competition in the Registrant's industry are product
+pricing, the ready availability of quality products to accommodate demand,
+offering quality service of products after sale, and maintaining a reputation
+for having a high degree of technical knowledge.
+There has been no material effect on the Registrant as a result of compliance
+with federal, state or local environmental laws.
+The Registrant's principal corporate logos, "EMCEE" and "EMCEE Broadcast
+Products", are registered in the United States Patent and Trademark Office and
+are used by the Registrant pursuant to a license with its wholly owned
+subsidiary corporation, EMCEE Cellular Inc., which owns the marks. In the same
+manner, the Registrant also uses the trademark, "Site Lock", which is a mark
+associated with a product sold by the Registrant that enhances analog picture
+quality for MMDS systems in close proximity to systems operating on the same
+frequency, and utilizes a patent for a solid state S-band transmitter.
+ITEM 2.  DESCRIPTION OF PROPERTY
+The Registrant conducts operations at its facility located on 25 acres, which
+the Registrant owns, in White Haven, Pennsylvania.
+The building was constructed specifically for the Registrant in 1968 and
+consists of approximately 27,000 square feet, with the majority of the area
+devoted to manufacturing. The front portion of the building, consisting of two
+floors, houses administrative, engineering and sales offices. The land,
+building and improvements are well maintained and in good condition.
+The Registrant's land, building and improvements are subject to encumbrances
+held by the Registrant's primary lending institution, First Union National
+Bank. These encumbrances secure the Registrant's working line of credit,
+mortgage loan and two term loans with the lender. As of the date of this
+
+
+<PAGE>
+report, the aggregate principal balance of these encumbrances is $684,234.
+The Registrant also leases a warehouse in White Haven, Pennsylvania, in which
+it stores equipment and archival documents.
+
+ITEM 3.  LEGAL PROCEEDINGS
+There is no information relevant to the Registrant which must be disclosed
+under this Item 3.
+ITEM 4.  SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS
+No matter was submitted to a vote of security holders during the fourth
+quarter of fiscal year 2000.
+                             PART II
+ITEM 5.  MARKET FOR COMMON EQUITY AND RELATED STOCKHOLDER MATTERS
+The NASDAQ National Market is the principal market on which the Registrant's
+common stock is traded.
+
+MARKET INFORMATION
+STOCK PRICE
+The table below presents the high and low bid prices of the Registrant's
+common equity for the two most recent fiscal years:
+                   FISCAL YEAR 2000                    FISCAL YEAR 1999
+
+     QTR ENDED: JUNE 30 SEPT 30 DEC 31 MAR 31   JUNE 30 SEPT 30 DEC 31 MAR 31
+
+     (BID) HIGH $4.00   $6.50   $14.00  $13.00  $3.25    $3.125 $2.38   $4.75
+
+     (BID) LOW  $1.719  $1.25   $ 1.75  $5.375  $2.50    $1.25 $1.125  $1.031
+
+The above high/low bid information was obtained from the NASDAQ Stock Market,
+Inc.
+
+HOLDERS
+At March 31, 2000, the number of holders of the Registrant's common stock was
+1,307.
+
+DIVIDENDS
+No dividends were declared during fiscal year 1999 or fiscal year 2000. The
+Registrant's loan documents with its primary lending institution contain
+certain financial covenants with which the Registrant must comply in order to
+declare and pay dividends on its common stock.
+
+<PAGE>
+ITEM 6.  MANAGEMENT'S DISCUSSION AND ANALYSIS OR PLAN OF OPERATION
+
+SAFE HARBOR STATEMENT UNDER THE PRIVATE  SECURITIES LITIGATION
+REFORM ACT OF 1995:
+
+Any statements contained in this report which are not historical facts are
+forward looking statements; and, therefore, many important factors could cause
+actual results to differ materially from those in the forward looking
+statements.  Such factors include, but are not limited to, changes
+(legislative, regulatory and otherwise) in the Multichannel Multipoint
+Distribution Service (MMDS) or Low Power Television (LPTV) industries or
+medium to high definition television (HDTV) products, demand for the Company's
+products both domestically and internationally, the development of competitive
+products, competitive pricing, the timing of foreign shipments, market
+acceptance of new product introductions (including, but not limited to, the
+Company's digital and Internet  products), technological changes, economic
+conditions(both foreign and domestic), litigation and other factors, risks and
+uncertainties identified in the Company's Securities and Exchange Commission
+filings.
+
+RESULTS OF OPERATIONS
+
+Net sales for fiscal year 2000 (ended March 31, 2000) totaled $4,738,000
+compared to $5,896,000 for fiscal year 1999.  This downward trend in sales
+began in fiscal year 1995 and is due to the lack of operators of MMDS
+television service in the domestic market and the currency and other economic
+problems in the foreign
+markets.
+
+Foreign shipments for fiscal year 2000 totaled $2,962,000, compared to
+$2,992,000 for fiscal year 1999.  The downward trend in foreign sales appears
+to have abated, as foreign shipments for the fourth quarter of fiscal 2000
+totaled $1,434,000 and orders for the first quarter of fiscal 2001 are strong.
+
+Foreign sales have been historically more than half of total sales and
+comprised 63%, 51% and 61% for fiscal years 2000, 1999 and 1998.  The
+composition of these shipments to the following geographic regions is as
+follows:
+<TABLE>
+<CAPTION>
+Region              2000*   1999*   1998*
+- -------------------------------------------
+ <C>                 <S>     <S>     <S>
+Asia/Pacific Rim   $1,516  $1,015  $2,118
+Middle East          $393    $372    $479
+South America        $698    $140    $893
+North America         $47    $368    $573
+Central America       $26    $102    $427
+Caribbean            $104    $423     $11
+Europe                $83    $365    $249
+Africa                 --     $52    $206
+Other                 $95    $155    $607
+                   -----------------------
+                   $2,962  $2,992  $5,563
+                   =======================
+<FN>
+*Based on customers having $10,000 or more of sales; amounts in thousands
+</FN>
+</TABLE>
+<PAGE>
+Gross profit equaled $1,000,000 for fiscal 2000 compared to $1,352,000 for
+fiscal 1999.  Export shipments, which historically carry higher margins than
+domestic sales, contributed $805,000 or 81% of gross profit compared to 57%
+for fiscal 1999 and 67% for fiscal 1998.
+
+The largest single customer for fiscal 2000 accounted for $1,122,000 (24% of
+net sales) of wireless television and high speed digital Internet systems in
+Korea.  The orders, which totaled $2.3 million as of March 31, 2000, are
+expected to be completed by September 30, 2000.   By comparison, the largest
+customers for fiscal 1999 consisted of several divisions of a federal
+government contract totaling $718,000 or 12% of net shipments.
+
+The Company has continued cost controls resulting in a decrease in total
+operating expenses from $2,572,000 for fiscal year ended March 31, 1999 to
+$2,402,000 for the fiscal year ended March 31, 2000;  the exception being an
+increase in research and development expenses from $422,000 for fiscal 1999 to
+$431,000 for fiscal 2000.
+
+Selling expense totaled $900,000 for fiscal 2000, a decrease of 10% compared
+to fiscal 1999.
+
+Travel expense increased from $24,000 for fiscal 1999 to $42,000 as additional
+international travel was incurred including a trip to China in fiscal 2000.
+Substantially the same amount was offset by a decrease in shows and
+conventions expense for the same periods.  The major reduction in fiscal 2000
+compared to the previous year was the reduction of commissions due primarily
+to the decrease in sales volume.
+
+General and administrative expense totaled $1,072,000 for fiscal 2000, a
+decrease of $81,000 (7%) from fiscal 1999.  While most categories within this
+department did not have significant changes, legal and related fees decreased
+from $171,000 for fiscal 1999 to $90,000.  Included in the amount for fiscal
+1999 was approximately $80,000 for expenditures to evaluate a merger initiated
+by a third party.  A determination was made by management that the offer was
+inadequate.
+
+Bad debt provision increased from $31,000 for fiscal 1999 to $42,000 for
+fiscal 2000.  The Registrant increased the reserve to $70,000 as of March 31,
+2000 in recognition of additional exposure as extended payment terms are being
+offered to certain foreign customers.
+
+Research and development expense was $431,000 for the year ended March 31,
+2000 or approximately $8,000 more than the prior year as the Company continues
+to develop and improve products for high definition television (HDTV) and MMDS
+(including high speed Internet)  products.
+
+Due primarily to the decrease in sales for fiscal year 2000, a loss from
+operations of $1,403,000 was incurred compared to a loss from operations of
+$1,220,000 for fiscal year 1999.
+
+Interest expense decreased from $72,000 for fiscal 1999 to $58,000 as $66,000
+(net of borrowings) of long term debt was retired.  Interest income decreased
+from $227,000 for fiscal 1999 to $169,000 for fiscal 2000 as the reduction of
+cash and cash equivalents decreased the amount available for investment.
+
+Other income for fiscal 1999 totaled $48,000 and consisted primarily of fees
+for cancellation of orders and equipment rentals.  In fiscal 2000, equipment
+rentals totaled $18,000 and cancellation fees were $6,000.  Offsetting this
+was recognition of an operating loss of a Limited Liability Company(LLC), of
+
+
+<PAGE>
+which the Registrant has an investment totaling $34,000.  The net result was
+net other income of $102,000 for fiscal 2000 compared to $204,000 for fiscal
+1999.
+
+Net loss before income tax benefits totaled $1,301,000 and $1,015,000 for
+fiscal years 2000 and 1999, respectively.  Income tax benefits reduced the net
+loss to $827,000 or $(.21) cents per common share outstanding for fiscal 2000
+compared to a net loss of $583,000 or $(.15) cents per common share
+outstanding for fiscal 1999.
+
+There is no state tax liability for periods under review as all profitable
+companies in the consolidated reporting group are domiciled in jurisdictions
+that do not impose income taxes.
+
+Selected financial data by quarter for the year ended March 31, 2000 and 1999
+is as follows:
+
+<TABLE>
+<CAPTION>
+                     1st Quarter   2nd Quarter     3rd Quarter   4th Quarter
+                    2000     1999   2000   1999   2000   1999   2000    1999
+                    --------------------------------------------------------
+                       (Thousands of Dollars, except per share amounts)
+ <C>                 <S>     <S>     <S>     <S>   <S>   <S>    <S>     <S>
+Net Sales           $812   $2,199   $975  $2,166 $1,147 $807  $1,804   $724
+Gross profit(loss)  $107     $656   $182    $713   $213  $64    $498   ($81)
+Net income(loss)   ($300)     $16  ($288)    $40  ($211)$377)   ($28) ($262)
+Per Share:
+Basic              $(.08)     Nil  $(.07)   $.01  $(.05) $(.09)$(.01)  $.07
+Diluted            $(.08)     Nil  $(.07)   $.01  $(.05) $(.09)$(.01)  Net
+Income (loss)      ($300)     $16  ($288)    $40  ($211) ($377) ($28)($262)
+
+</TABLE>
+
+Foreign currency valuations decreased foreign sales commencing in the third
+quarter of fiscal 1999 and continued until the fourth quarter of fiscal 2000.
+Low domestic sales volume will continue to affect sales for all quarters until
+demand increases for new applications for high speed Internet service and
+HDTV.
+
+IMPACT OF YEAR 2000
+
+The Registrant commenced fiscal year 2000 as of April 1, 1999 and has fully
+implemented software applications with only minor changes need.
+
+Liquidity and Capital Resources
+
+Management believes that demand for its core product of MMDS television
+transmitters for the domestic market has been non-existent for the last year
+and for the future.  There is however, a strong demand for these products in
+the international market coupled with high speed Internet service trend
+initiated in fiscal 1995.
+
+The domestic market is in a transition mode waiting for the direction that
+will be taken by large companies such as Sprint and WorldCom for communication
+equipment utilizing the MMDS spectrum.  The Registrant has developed equipment
+that it believes will be an integral component of the developing systems for
+television, telephone and Internet service.
+
+<PAGE>
+
+On April 17, 2000, the Company acquired the assets of Advanced Broadcast
+Systems, Inc. for approximately $400,000 in cash, 37,112 shares of the
+Company's common stock valued at the acquisition date at $2.78 per share and
+the assumption of liabilities aggregating approximately $200,000 and other
+consideration.  The acquired company manufactures commercial high and medium
+power analog and digital television transmitters for VHF broadcast markets.
+
+Management believes that the acquisition will enhance the Company's present
+product line of low power broadcast products and will enable the Company to
+expand in the new market for digital HDTV service.  This service has been
+mandated by the Federal Communications Commission in which all television
+stations are required to provide digital HDTV transmission by 2003.  The
+acquisition may also open additional foreign markets for the Company's
+product.
+
+The Registrant has also increased its investment in the domestic high speed
+Internet service market.  Management believes that this service using digital
+MMDS equipment will have a positive return in fiscal 2001.
+
+The Company's cash requirements were satisfied in fiscal 2000 from cash
+on-hand and customer deposits.  These funds were sufficient to meet the
+Company's working capital requirements and debt payments.  The Registrant, at
+March 31, 2000, had mortgage and equipment loans from its primary lending
+institution of $684,000. In addition, there is an available line of credit of
+$2,000,000 from the same lending institution.  The line of credit was not used
+in fiscal 2000;  however, borrowings were utilized in the first quarter of
+2001 and there is $1,100,000 outstanding as of the date of this report.
+
+The Registrant was in violation of two loan covenants with its primary lending
+institution as of March 31, 2000.  One covenant requires the Registrant to
+maintain a cash flow to debt service coverage ratio of 3.00 to 1.00.  The debt
+service coverage ratio as of March 31, 2000 was (5.5).  In addition, the loan
+agreement requires the Company to obtain the institution's written consent
+prior to investing in or making payments to third parties other than in the
+normal course of business.  During fiscal year 2000, the Registrant made
+advances to two affiliated third parties for a total of $350,000.  The
+Registrant received notice of waiver of all loan covenant violations that
+occurred in fiscal 2000.
+
+Cash and cash equivalents decreased $1,311,000 as of March 31, 2000 compared
+to March 31, 1999, principally due to the loss for fiscal 2000 and funds
+invested in high speed Internet companies.  Investment in Treasury Bills
+totaled $1,774,000 as of March 31, 2000, almost the same as the amount of
+$1,776,000 as of March 31, 1999.
+
+Accounts receivables increased from $603,000 as of March 31, 1999 to
+$1,452,000 as of March 31, 2000 primarily due to the result of increased sales
+in the last month of fiscal year 2000.  These shipments include the sales for
+a Korean order and although export orders historically have been paid in
+advance and/or by letters of credit, the Company has, in fiscal 2000, extended
+terms on some orders to remain competitive.  The Registrant has increased its
+allowance for doubtful accounts from $35,000 as of March 31, 2000 to $70,000
+to reflect the additional exposure.
+
+Inventories were reduced from $3,523,000 as of March 31, 1999 to $3,080,000 as
+of March 31, 2000 as a result of controls on purchasing enacted in fiscal
+1999.
+
+
+<PAGE>
+Prepaid expense which totaled $80,000 as of March 31, 2000 compared to $92,000
+as of March 31, 1999.  The latter amount included prepaid convention expense
+of $42,000, prepaid insurance of $21,000 and prepaid software maintenance of
+$6,000.  The balances of these prepaids as of March 31, 1999 were $26,000,
+$20,000 and $26,000
+
+Income taxes refundable decreased form $569,000 to $402,000 at march 31, 2000
+due to estimated tax payments made in fiscal year 1999 that were not required
+in fiscal year 2000.
+
+Deferred income taxes totaled $220,000 as of March 31, 2000 versus $132,000 as
+of March 31, 1999.  The difference is due to temporary timing differences.
+
+Property, plant and equipment net after accumulated depreciation equaled
+$540,000 as of March 31, 2000.  Purchases of $52,000 was more than offset by
+depreciation for the year of $243,000 resulting in a net decrease of asset
+value of $191,000 compared to the year ended March 31, 1999.
+
+Other assets totaled $1,292,000 as of March 31, 2000 compared to $492,000 as
+of March 31, 1999.  The Company increased its investment by $100,000 in a LLC
+formed to operate a high speed Internet system increasing ownership from 10%
+to 16.14%.  The Company invested $250,000 (approximately 6% of the entity) in
+a venture capital company that will acquire spectrum, build and promote
+operations in high speed Internet systems.
+
+The Registrant maintains its original investment of $250,000 for a 50%
+interest of another LLC in which operations are not expected to begin until
+late calendar year 2000.  The investment decreased approximately $21,000 due
+primarily to a loss for calendar 1999.
+
+Included in other asset balance for both periods under discussion is a note
+receivable of $100,000 plus interest due from a principal of one of the
+members in the LLC investments which was due June 12, 2000.  As of June 12,
+2000 this note, which is collateralized, has not been retired.  This
+receivable is in the process of collection as of the time of this report.
+
+The remaining amount of other assets of $289,000 represents accounts
+receivable with due dates more than a year from March 31, 2000.
+
+Long term debt, including current portion equaled $702,000 as of March 31,
+2000 compared to $768,000 as scheduled repayments of $86,000 were made while a
+new borrowing of $20,000 (vehicle) was initiated.
+
+Accounts payable increased from $288,000 as of March 31, 1999 to $369,000 as
+of March 31, 2000 as inventories were purchased in March 2000 in connection
+with a Korean order.
+
+Accrued payroll and related expenses increased from $183,000 as of March 31,
+1999 to $214,000 as of March 31, 2000 as employees have been added due to the
+increase in orders, from 45 persons at March 31, 1999 to a total of 53 persons
+as of March 31, 2000.
+
+Other accrued expenses totaled $438,000 as of March 31, 2000 compared to
+$115,000 as of March 31, 1999.  The majority of this increase is due to
+commissions to outside interests accrued but not paid as of March 31, 2000.
+
+Common stock value of $73,084 and additional paid in capital of $3,502,000
+increased over fiscal year 1999 to $73,450 and $3,583,000, respectively, as
+
+
+<PAGE>
+22,200 shares of registered common stock was issued upon exercise of options
+under the Company's stock option plans.  Retained earnings decreased by
+$827,000 from March 31, 1999 to March 31, 2000 due to the net loss for fiscal
+2000.
+
+Inflation has not had a significant impact on cost or price in the past two
+fiscal years under review; however, beginning in fiscal 2001 up to the time of
+this report, the Company has had a significant amount of shortages for a
+number of important parts that are part of certain final manufactured
+products.  Although it appears that this is a temporary problem, it will have
+an impact on sales and earnings for the first quarter ending June 30, 2000.
+
+The backlog of unsold orders totaled $1,367,000 as of March 31, 2000 compared
+to $239,000 as of March 31, 1999.  Over 90% of the backlog as of March 31,
+2000 is for foreign orders.
+
+ITEM 7.   FINANCIAL STATEMENTS
+See pages 19 to 35 of this report for the financial statements required by
+this Item.
+ITEM 8.   CHANGE IN AND DISAGREEMENTS WITH ACCOUNTANTS ON
+ACCOUNTING AND FINANCIAL DISCLOSURES
+There is no information relevant to the Registrant which must be disclosed
+under this Item 8.
+                             PART III
+ITEM 9.   DIRECTORS, EXECUTIVE OFFICERS, PROMOTERS AND CONTROL
+PERSONS; COMPLIANCE WITH SECTION 16(a) OF THE EXCHANGE ACT
+The information required by this Item 9 is incorporated herein from the Proxy
+Statement expected to be filed within one hundred twenty (120) days of the
+close of the Registrant's fiscal year.
+
+ITEM 10.  EXECUTIVE COMPENSATION
+The information required by this Item 10 is incorporated herein from
+the Proxy Statement expected to be filed within one hundred twenty (120) days
+of the close of the Registrant's fiscal year.
+
+ITEM 11.  SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND
+MANAGEMENT
+
+The information required by this Item 11 is incorporated herein from the Proxy
+Statement expected to be filed within one hundred twenty (120) days of the
+close of the Registrant's fiscal year.
+
+ITEM 12.  CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS
+The information required by this Item 12 is incorporated herein from the Proxy
+Statement expected to be filed within one hundred twenty (120) days of the
+close of the Registrant's fiscal year.
+
+ITEM 13.  EXHIBITS AND REPORTS ON FORM 8-K
+(a) The following is an Exhibit Index of the applicable Exhibits to this
+report:
+
+DESCRIPTION OF EXHIBIT       EXHIBIT NUMBER   PAGE NUMBER
+
+Articles of Incorporation
+  and Bylaws
+
+Restated Certificate
+      of Incorporation             3 i           (1)
+
+
+<PAGE>
+Bylaws                              3 ii          (2)
+
+Material Contracts
+
+1996 Stock Option Plan              10            (1)
+Officers Incentive Compensation
+ Plan                               10            (1)
+Agreement (Change in Control
+ Agreements for certain Executive
+  Officers)                         10            (3)
+Non-Negotiable, Non-Transferable
+Stock Warrant                       10            (3)
+Settlement and Release Agreement    10            (1)
+Asset Purchase Agreement between
+ Advanced Broadcast Systems, Inc.
+ (now known as Alpha Holding, Inc.)
+  and EMCEE Holding Corp. (now known
+  as Advanced Broadcast Systems,
+  Inc.)                             10             36
+
+Winbeam Incorporated Subscribtion
+  Agreement                         10             80
+
+Subsidiaries                        21             81
+
+Financial Data Schedule             27             (4)
+
+(1) Incorporated by reference from the Form 10-KSB filed by the Registrant
+with the U.S. Securities and Exchange Commission for fiscal year ended 1997.
+(2) Incorporated by reference from the Form 10-KSB filed with the U.S.
+Securities and Exchange Commission for fiscal year 1998.
+(3) Incorporated by reference from the Form 10-KSB filed with the U.S.
+Securities and Exchange Commission for fiscal year ended 1996.
+(4) This Exhibit was filed electronically, but is not included in the paper
+copy of this report.
+(b) Form 8-K filings: The Registrant filed one report on Form 8-K during the
+last quarter of the period covered by this report. That report announced that
+the Registrant entered into a letter of intent to acquire substantially all of
+the assets of Advanced Broadcast Systems, Inc.
+
+In accordance with Section 13 or 15(d) of the Exchange Act, the Registrant
+caused this report to be signed on its behalf by the undersigned, thereunto
+duly authorized.
+
+EMCEE BROADCAST PRODUCTS, INC.
+/s/ JAMES L. DESTEFANO
+James L. DeStefano, President/CEO
+Date: June 26, 2000
+
+/s/ ALLAN J. HARDING
+Allan J. Harding, Vice President-Finance
+Date: June 26, 2000
+
+In accordance with the Exchange Act, this report has been signed below by the
+following persons on behalf of the Registrant and in the capacities and on the
+dates indicated.
+
+
+/s/ JAMES L. DESTEFANO         Date: June 26, 2000
+James L. DeStefano, Director
+
+/s/ JOE B. HASSOUN             Date: June 26, 2000
+Joe B. Hassoun, Director
+
+
+
+<PAGE>
+
+/s/ MICHAEL J. LEIB            Date: June 26, 2000
+Michael J. Leib, Director
+
+/s/ RICHARD J. NARDONE         Date: June 26, 2000
+Richard J. Nardone, Director
+
+/s/ EVAGELIA ROGIOKOS          Date: June 26, 2000
+Evagelia Rogiokos, Director
+
+/s/ ROBERT HOSTETLER           Date: June 26, 2000
+Robert Hostetler, Director
+
+                      Independent Auditors' Report
+
+
+Board of Directors
+EMCEE Broadcast Products, Inc.
+White Haven, Pennsylvania
+
+We have audited the consolidated balance sheets of EMCEE Broadcast Products,
+Inc. and subsidiaries as of March 31, 2000 and 1999 and the related
+consolidated statements of loss, shareholders' equity and cash flows for the
+years then ended.  These financial statements are the responsibility of the
+Company's management.  Our responsibility is to express an opinion on these
+financial statements based on our audits.
+
+We conducted our audits in accordance with generally accepted auditing
+standards. Those standards require that we plan and perform the audit to
+obtain reasonable assurance about whether the financial statements are free of
+material misstatement.  An audit includes examining, on a test basis, evidence
+supporting the amounts and disclosures in the financial statements.  An audit
+also includes assessing the accounting principles used and significant
+estimates made by management, as well as evaluating the overall financial
+statement presentation. We believe that our audits provide a reasonable basis
+for our opinion.
+
+In our opinion, the consolidated financial statements referred to above
+present fairly, in all material respects, the financial position of EMCEE
+Broadcast Products, Inc. and subsidiaries as of March 31, 2000 and 1999, and
+the results of their operations and their cash flows for the years then ended,
+in conformity with generally accepted accounting principles.
+
+
+
+Kronick, Kalada, Berdy & Company
+Kingston, Pennsylvania
+May 17, 2000
+
+<PAGE>
+
+
+
+
+<PAGE>
+<TABLE>
+<CAPTION>
+
+             EMCEE BROADCAST PRODUCTS, INC. AND SUBSIDIARIES
+         CONSOLIDATED BALANCE SHEETS - MARCH 31, 2000 AND 1999
+                                 ASSETS
+
+                                      2000                  1999
+                                  -------------------------------------
+    <C>                                 <S>                    <S>
+
+Current assets:
+  Cash and equivalents            $   261,304              $ 1,572,423
+  U.S. Treasury Bills               1,773,600                1,775,933
+  Accounts receivable, net
+     of allowance for doubtful
+     accounts (2000, $70,000; 1999,
+     $35,000)                      1,452,279                  603,248
+  Inventories                      3,080,313                3,522,579
+  Prepaid expenses                    80,113                   91,842
+  Income taxes refundable            402,000                  569,000
+  Deferred income taxes              220,000                  132,000
+                                  ------------------------------------
+         Total current assets      7,269,609                8,267,025
+                                  ------------------------------------
+Property, plant and equipment:
+  Land and land improvements         246,841                  246,841
+  Building                           617,475                  617,670
+  Machinery                        1,925,042               2,017,084
+                                   -----------------------------------
+                                   2,789,358               2,881,595
+  Less accumulated depreciation    2,249,467               2,150,315
+                                   -----------------------------------
+                                     539,891                 731,280
+                                   -----------------------------------
+Other assets                       1,292,448                 492,149
+                                  ------------------------------------
+Note receivable, sale of license     525,000                 510,000
+Less deferred portion             (  525,000)             (  510,000)
+                                  -------------------------------------
+                                           0                       0
+                                  -------------------------------------
+Total assets                      $ 9,101,948            $ 9,490,454
+                                  =====================================
+
+<FN>
+See notes to consolidated financial statement.
+</FN>
+</TABLE>
+<PAGE>
+
+
+
+
+
+
+
+
+
+
+
+<TABLE>
+<CAPTION>
+              LIABILITIES AND SHAREHOLDERS' EQUITY
+
+                                            2000          1999
+                                       --------------------------
+
+     <C>                                      <S>          <S>
+Current liabilities:
+ Current portion of long-term debt      $    106,000 $   119,000
+ Accounts payable                            368,671     288,029
+ Accrued expenses:
+ Payroll and related expenses                 214,316     183,254
+ Other                                        437,836     114,500
+ Deposits from customers                       64,247      76,745
+                                       ---------------------------
+  Total current liabilities                 1,191,070    781,528
+                                       ---------------------------
+Long-term debt, net of current portion        596,354     649,287
+                                       ---------------------------
+Shareholders' equity:
+ Common stock, $.01 - 2/3 par;
+ authorized 9,000,000 shares; issued
+ 4,406,361 shares and 4,384,161 shares
+ for 2000 and 1999, respectively               73,450      73,084
+Additional paid-in capital                  3,583,484   3,502,092
+Retained earnings                           5,518,241   6,345,114
+                                       ---------------------------
+                                            9,175,175   9,920,290
+Less shares held in treasury, at cost
+(2000 and 1999, 401,764)                    1,860,651   1,860,651
+                                       ---------------------------
+                                            7,314,524   8,059,639
+                                       ---------------------------
+Total liabilities and equity               $ 9,101,948 $9,490,454
+                                       ============================
+</TABLE>
+<PAGE>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<TABLE>
+<CAPTION>         EMCEE BROADCAST PRODUCTS, INC. AND SUBSIDIARIES
+                          CONSOLIDATED STATEMENTS OF LOSS
+                       YEARS ENDED MARCH 31, 2000 AND 1999
+
+
+                                       2000           1999
+                                  -----------------------------
+ <C>                                  <S>              <S>
+Net sales                         $ 4,738,493     $ 5,895,567
+Costs of products sold              3,738,735       4,543,418
+                                 ----------------------------
+      Gross profit                    999,758       1,352,149
+                                  ---------------------------
+Operating expenses:
+  Selling                             900,028         997,115
+  General and administrative        1,071,668       1,152,195
+  Research and development            430,678         422,426
+                                  ----------------------------
+                                    2,402,374       2,571,736
+                                  ----------------------------
+       Loss from operations        (1,402,616)     (1,219,587)
+                                  --------------------------
+
+Other income (expense), net:
+  Interest expense                 (   57,724)     (   71,641)
+  Interest income                     168,772         227,337
+  Other                            (    9,305)         48,418
+                                  ---------------------------
+                                      101,743         204,114
+                                  ---------------------------
+Loss before income taxes           (1,300,873)     (1,015,473)
+
+Income taxes benefit                  474,000         432,600
+                                  ---------------------------
+Net loss                          $(  826,873)    $(  582,873)
+                                  ===========================
+
+Basic loss per share                    $(.21)         $(.15)
+                                   ===========================
+Diluted loss per share                  $(.21)         $(.15)
+                                   ===========================
+
+<FN>
+See notes to consolidated financial statements
+<FN>
+</TABLE>
+<PAGE>
+
+<TABLE>
+<CAPTION>
+         EMCEE BROADCAST PRODUCTS, INC. AND SUBSIDIARIES
+         CONSOLIDATED STATEMENTS OF SHAREHOLDERS' EQUITY
+               YEARS ENDED MARCH 31, 2000 AND 1999
+
+
+                                  Common stock      Additional
+                                                    paid-in
+                               Shares     Amount     capital
+                               ----------------------------------
+ <C>                           <S>           <S>         <S>
+Balance,
+March 31, 1998               4,384,161   $ 73,084    $ 3,502,092
+
+Treasury stock purchased
+
+Net loss for the year
+                             -----------------------------------
+Balance, March 31, 1999      4,384,161     73,084      3,502,092
+
+Common stock issued             22,200        366         81,392
+
+Net loss for the year
+                             ------------------------------------
+Balance, March 31, 2000      4,406,361    $ 73,450    $ 3,583,484
+                             ======================================
+<FN>
+See notes to consolidated financial statements.
+</FN>
+</TABLE>
+<TABLE>
+<CAPTION>
+               Treasury stock
+ Retained
+ earnings       Shares       Amount        Total
+- ---------------------------------------------------
+   <S>              <S>         <S>          <S>
+$ 6,927,987      319,000   $(1,649,173) $ 8,853,990
+
+                  82,764   (  211,478)   (  211,478)
+
+ (  582,873)                             (  582,873)
+- ------------------------------------------------------
+ 6,345,114       401,764   (1,860,651)     8,059,639
+
+                                              81,758
+
+ (  826,873)                              (  826,873)
+- -------------------------------------------------------
+$ 5,518,241       401,764 $(1,860,651)    $ 7,314,524
+=======================================================
+</TABLE>
+<PAGE>
+<TABLE>
+<CAPTION>     EMCEE BROADCAST PRODUCTS, INC. AND SUBSIDIARIES
+                  CONSOLIDATED STATEMENTS OF CASH FLOWS
+                YEARS ENDED MARCH 31, 2000 AND 1999
+                                         2000         1999
+                                      ----------------------
+ <C>                                      <S>          <S>
+Cash flows from operating activities:
+ Net loss                            $(  826,873)$(  582,873)
+  Adjustments:
+    Depreciation                          243,577     274,359
+    Provision for doubtful accounts        42,000      31,000
+    Loss on equity investment              33,800
+    (Increase) decrease in:
+      Accounts receivable              (  891,031)    580,403
+      Inventory                           442,266  (  169,450)
+      Prepaid expenses                     11,729  (   10,407)
+      Income taxes refundable             167,000  (  535,143)
+      Deferred income taxes            (   88,000) (   52,000)
+      Other assets                      (  288,470)       724
+    Increase (decrease) in:
+      Accounts payable                      80,642 (   23,395)
+      Accrued expenses                     354,398 (   97,697)
+      Deposits from customers           (   12,498)(  183,303)
+                                      -------------------------
+Net cash used in operating activities   (  731,460) (  767,782)
+                                      -------------------------
+Cash flows from investing activities:
+  Purchases of:
+    Property, plant and equipment       (   52,188)(   94,503)
+    U.S. Treasury Bills                 (3,197,667)(3,506,384)
+  Proceeds from maturities of U.S.
+   Treasury Bills                        3,200,000  4,000,000
+  Other assets                          (  545,629)(  281,423)
+                                      ------------------------
+Net cash provided by(used in)
+             investing activities       (  595,484)    117,690
+                                      ------------------------
+Cash flows from financing activities:
+  Acquisition of treasury stock                     (  211,478)
+  Proceeds from issuance of:
+    Long-term debt                           20,141
+    Common stock                             81,758
+  Repayment of long-term debt            (   86,074)(   95,601)
+                                      --------------------------
+Net cash provided by (used in)
+        financing activities                 15,825 (  307,079)
+                                      --------------------------
+
+Net decrease in cash and equivalents     (1,311,119)(  957,171)
+
+Cash and equivalents, beginning            1,572,423 2,529,594
+                                      ---------------------------
+
+Cash and equivalents, ending             $   261,304 1,572,423
+                                      ===========================
+
+
+
+
+<PAGE>
+Supplemental disclosures of cash flow information:
+Cash paid (refunded) during the year for:
+   Interest                            $    61,000     $    72,000
+   Income taxes                        $(  530,000)    $   160,000
+Non-cash items:
+   Transfer of inventory to fixed assets               $    85,470
+<FN>
+See notes to consolidated financial statements
+</FN>
+</TABLE>
+
+                EMCEE BROADCAST PRODUCTS, INC. AND SUBSIDIARIES
+            NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+               YEARS ENDED MARCH 31, 2000 AND 1999
+
+1.  Summary of significant accounting policies:
+
+Principles of consolidation:
+
+The consolidated financial statements include the accounts of
+EMCEE Broadcast Products, Inc. and its subsidiaries, all of which are wholly-
+owned (together, the Company).  All significant inter-company accounts and
+transactions have been eliminated.
+
+Revenue recognition:
+Revenue from product sales of equipment is recognized at the time of delivery
+and after consideration of all the terms and conditions of the customers'
+contract (purchase order).  None of the customers' contracts are considered
+long-term contracts.
+
+During 1992, a rural cellular license was sold for $3,100,000.  The initial
+payment was $845,000, net of closing costs of $155,000.  The $2,100,000
+balance, which bore interest at 7% payable at maturity, was due in December
+1996.  None of the deferred payment and the related interest income was
+recognized prior to 1997 because of their extended collection period and
+because there was not a reasonable basis to evaluate the likelihood of
+collection.  On April 3, 1997 the Company collected $2,500,000 and received an
+unsecured $500,000 note receivable as settlement of the original note.
+
+The $525,000 note receivable is due and payable upon the occurrence of any one
+or more of certain specified events involving the debtor including, but not
+limited to, acquisition, merger, bankruptcy, and insolvency.  None of the
+specified events relate to the debtor's normal operations.  The $525,000
+includes accrued interest calculated at 3%.  The note receivable is fully
+reserved because it has no definite collection period and because there is not
+a reasonable basis to evaluate the likelihood of collection.
+
+Cash, equivalents and U.S. Treasury Bills:
+The Company considers cash equivalents to be all highly liquid investments
+purchased with an original maturity of three months or less.  U.S. Treasury
+Bills with an original maturity of more than three months are considered to be
+investments.  All U.S. Treasury Bills are stated at cost which approximates
+market and are considered as available for sale.  All U.S. Treasury Bills  not
+included as cash equivalents had contracted maturities of at least six months.
+
+
+
+
+
+
+<PAGE>
+         EMCEE BROADCAST PRODUCTS, INC. AND SUBSIDIARIES
+            NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+               YEARS ENDED MARCH 31, 2000 AND 1999
+
+1.  Summary of significant accounting policies (continued):
+
+Inventories:
+Inventories are stated at the lower of standard cost which approximates
+current actual cost (on a first-in, first-out basis) or market (net realizable
+value).
+
+Property, plant and equipment and depreciation:
+Property, plant and equipment are stated at cost.  Depreciation is provided on
+the straight-line method over the estimated useful lives of the assets.
+
+Investments:
+Investments are accounted for under the equity method if the Company has
+ownership of between 20% and 50%.  Investments where the Company's ownership
+is less than 20% are accounted for under the cost method.
+
+Advertising:
+These expenses are recorded when incurred.  They amounted to $21,000 and
+$52,000 for 2000 and 1999, respectively.
+
+Use of estimates:
+Management uses estimates and assumptions in preparing financial statements.
+Those estimates and assumptions affect the reported amounts of assets and
+liabilities, the disclosure of contingent assets and liabilities and the
+reported revenues and expenses.
+
+Reclassifications:
+Certain amounts reported in the 1999 financial statements have been
+reclassified to conform with the 2000 presentation.
+
+2.Loss per share:
+
+Basic loss per share is computed by dividing loss applicable to common
+shareholders by the weighted average number of common shares outstanding.
+Diluted loss per share is similar to basic loss per share except that the
+weighted average of common shares outstanding is increased to include the
+number of additional common shares that would have been outstanding if the
+dilutive potential common shares had been issued.  There were no dilutive
+potential common shares in 1999 because the assumed exercise of the options
+would be anti-dilutive.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<PAGE>
+              EMCEE BROADCAST PRODUCTS, INC. AND SUBSIDIARIES
+           NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+                   YEARS ENDED MARCH 31, 2000 AND 1999
+
+2.Loss per share (continued):
+
+The following table presents the basic and diluted EPS computations:
+<TABLE>
+<CAPTION>
+
+                                          2000
+                           ------------------------------------
+                                                     Per share
+                            Net loss      Shares      amount
+                           ------------------------------------
+ <C>                           <S>          <S>         <S>
+
+Basic EPS
+Net loss which relates
+ to common stockholders    $(826,873)    3,983,147     $(.21)
+
+Effect of dilutive
+   securities, stock options                10,613
+                           -------------------------------------
+    Diluted EPS
+Net loss which relates
+     to common stockholders $(826,873)    3,993,760     $(.21)
+                           =====================================
+
+                                          1999
+                           -------------------------------------
+                                                     Per-share
+                            Net loss      Shares       amount
+
+Basic and diluted EPS
+Net loss which relates
+ to common stockholders    $(582,873)    4,007,305     $(.15)
+</TABLE>
+
+3.Cash and equivalents:
+
+At March 31, 2000, cash held at a brokerage corporation in the amount of
+$146,000 is not insured.
+
+               EMCEE BROADCAST PRODUCTS, INC. AND SUBSIDIARIES
+                NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+                      YEARS ENDED MARCH 31, 2000 AND 1999
+4.Industry, sales and accounts receivable concentration information:
+
+The Company's primary activity is in one segment which consists of the
+assembly and sale of equipment for the domestic and foreign television
+broadcasting industry.  To determine segments to be reported, management has
+considered products and services. Management believes that the Company's
+business requires similar technology and marketing strategies. Major customers
+are those that individually account for more than 10% of the Company's
+consolidated revenues.
+
+
+
+
+<PAGE>
+For the years ended March 31, 2000 and 1999, one customer with total sales of
+$1,122,000 and a different  customer, consisting of four divisions of a
+Federal government agency, with total sales of $718,000, respectively,
+qualified as major customers. At March 31, 2000, the major customer accounted
+for 72% of the Company's consolidated current accounts receivable.  There were
+no significant receivable concentrations at March 31, 1999.  The Company
+performs ongoing credit evaluations of its customers and, when deemed
+necessary, requires deposits and a letter of credit on foreign sales and
+deposits on domestic sales. Historically, the Company's uncollectible accounts
+receivable have been immaterial.
+
+Foreign sales amounted to $2,962,000 and $2,992,000 for 2000 and 1999,
+respectively.  Sales by foreign geographic regions are as follows:
+
+                                        2000          1999
+                                   ============================
+
+Asia/Pacific Rim                   $ 1,516,000   $ 1,015,000
+South America                          698,000       140,000
+Caribbean                              104,000       423,000
+Middle East                            393,000       372,000
+North America                           47,000       368,000
+Europe                                  83,000       365,000
+Central America                         26,000       102,000
+Africa                                                52,000
+Other                                   95,000       155,000
+                                   -----------------------------
+                                   $ 2,962,000   $ 2,992,000
+                                    =============================
+
+Revenues are attributed to regions based on location of customers.
+All long-lived assets and deferred tax assets are attributable to the United
+States.  All foreign sales are contracted in United States currency; therefore
+there is no impact from foreign currency rates.
+
+                 EMCEE BROADCAST PRODUCTS, INC. AND SUBSIDIARIES
+             NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+                      YEARS ENDED MARCH 31, 2000 AND 1999
+
+5.Inventories:
+<TABLE>
+<CAPTION>
+                                     2000          1999
+                                 -------------------------
+   <C>                                 <S>         <S>
+Finished goods                   $   440,000$   266,000
+Work-in-process                      468,000    686,000
+Raw materials                        728,000  1,008,000
+Manufactured components            1,444,313  1,562,579
+                                 -------------------------
+
+                                 $ 3,080,313 $ 3,522,579
+                                 ========================
+</TABLE>
+
+
+
+
+
+
+<PAGE>
+6.Other assets:
+<TABLE>
+<CAPTION>
+                                   2000          1999
+                                 -------------------------
+ <C>                                  <S>          <S>
+Investments, equity method      $   233,265  $   254,000
+Investments, cost method            480,639      131,173
+Note receivables                    266,115      106,976
+Accounts receivable                 289,243
+Other                                23,186
+                                 -------------------------
+                                $ 1,292,448  $   492,149
+                                ==========================
+</TABLE>
+
+The investments are in companies who own and/or operate a business that
+provides rapid access to the Internet, wireless cable television, and any
+other type of telecommunication service.
+
+7.  Line of credit:
+
+The Company has a line of credit agreement with a bank aggregating $2,000,000
+collateralized by inventories, accounts receivable and all property, plant and
+equipment.  The line of credit agreement requires monthly interest payments at
+2.00% above LIBOR  which was 6.13% at March 31, 2000.  There were no principal
+borrowings during the years ended March 31, 2000 and 1999.
+
+The loan agreement contains restrictive covenants when amounts are outstanding
+which, among other things, require the Company to maintain a maximum total
+liabilities to net worth ratio, a minimum current ratio and a debt coverage
+ratio.  The Company did not meet the debt coverage ratio as of March 31, 2000.
+In addition, the loan agreement requires the Company to obtain the bank's
+written consent prior to investing in or making payments to third parties
+other than in the usual and ordinary course of business.  The Company did not
+obtain the bank's written consent for its investments in three third parties.
+The bank waived both covenant violations.  The Company is allowed to pay
+dividends on its common stock when amounts are borrowed if it is in compliance
+with the financial covenants and ratios.
+
+               EMCEE BROADCAST PRODUCTS, INC. AND SUBSIDIARIES
+            NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+                      YEARS ENDED MARCH 31, 2000 AND 1999
+
+8.Long-term debt:
+                                 2000          1999
+                               ------------------------
+
+Term loan, bank                 $ 601,000   $ 637,000
+Equipment loans, bank             101,354     131,287
+                               ------------------------
+                                  702,354    768,287
+Less current portion              106,000    119,000
+                               ------------------------
+                                $ 596,354  $ 649,287
+                               ========================
+
+
+
+
+<PAGE>
+The term loan, bank at March 31, 2000 matures in 2002 and requires monthly
+principal payments of $4,083, plus interest.  Interest is calculated at 2.25%
+above LIBOR which was 6.13% at March 31, 2000.  The term and equipment loans
+are cross-collateralized with and have the same restrictive covenants as the
+line of credit (see Note 7).
+
+Principal payments on long-term debt, based on current interest rates, are as
+follows:
+
+             2001      $ 106,000
+             2002        592,000
+             2003          4,354
+                       -----------
+                       $ 702,354
+                       ===========
+
+9. Common stock:
+
+Non-qualified stock option plans provide for the grant of options to purchase
+up to 300,000 shares.  Upon the termination or expiration of any stock options
+granted, the shares covered by such terminated or expired stock options will
+be available for further grant; 173,325 options were available for grant at
+March 31, 2000.  The Board of Directors, at the date of grant of an option,
+determines the number of shares subject to the grant and the terms of such
+option.  All outstanding options granted expire after 5 years and vest over
+two years.
+
+               EMCEE BROADCAST PRODUCTS, INC. AND SUBSIDIARIES
+              NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+                  YEARS ENDED MARCH 31, 2000 AND 1999
+
+9.Common stock (continued):
+
+Changes in outstanding common stock options granted are summarized below:
+<TABLE>
+<CAPTION>
+                              2000                 1999
+                      -------------------------------------------
+                      Number   Average     Number   Average
+                        of     exercise      of     exercise
+                       shares    price      shares    price
+                      --------------------------------------------
+   <C>                   <S>      <S>      <S>        <S>
+Balance at beginning
+  of year              151,875  $ 5.50    151,875   $ 5.50
+Options exercised       22,200    3.68
+Options forfeited        3,000   6.16
+                        ------           -------
+Balance at end of
+  year                 126,675  $ 5.81    151,875   $ 5.50
+                      =======================================
+Options exercisable
+  at year-end          126,675  $ 5.81      151,875   $ 5.50
+</TABLE>
+
+
+
+
+
+
+<PAGE>
+
+At March 31, 2000, 110,200 and 16,475 options had an exercise price of $6.16
+and $3.44, respectively.  Such options had remaining contractual lives of 1.67
+years and .5 years, respectively.
+
+The Company in accordance with an election under generally accepted accounting
+principles for stock options has recorded no compensation cost for its stock
+options in the accompanying consolidated financial statements.
+
+Had compensation cost for stock options been determined based on the fair
+value at the grant dates for awards under the plans, the Company's net loss
+and per share amounts would have been changed to the proforma amounts
+disclosed below:
+
+                    1999
+                   --------
+Net loss:
+ As reported    $(582,873)
+ Proforma        (615,735)
+
+Basic loss per share:
+ As reported    $(    .15)
+ Proforma        (    .15)
+
+Diluted loss per share:
+ As reported    $(    .15)
+ Proforma        (    .15)
+
+Proforma amounts are not reported for 2000 because all options vested in 1999
+and all related proforma compensation expense was reported prior to 2000.
+
+
+                EMCEE BROADCAST PRODUCTS, INC. AND SUBSIDIARIES
+          NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+                  YEARS ENDED MARCH 31, 2000 AND 1999
+
+9.Common stock (continued):
+
+The fair values were determined using the Black-Scholes option pricing model
+with the following weighted average assumptions:
+
+                              1999
+                          ------------
+Dividend yield                .0 %
+Risk free interest rate    5.84%
+Expected life              5 Years
+Volatility                 104.83%
+
+During 1997, warrants to purchase 200,000 shares of common stock at $9.76 a
+share were issued and remain outstanding at March 31, 2000.  These warrants
+expire in May 2001.
+
+10.Income taxes:
+
+The following table sets forth the current and deferred amounts of the
+provisions for income tax benefit for the years ended March 31, 2000 and 1999:
+
+
+
+
+<PAGE>
+                  2000            1999
+               -----------------------------
+Current          $ 386,000     $ 380,600
+Deferred            88,000        52,000
+               ----------------------------
+                 $ 474,000     $ 432,600
+               =============================
+
+The provisions for income taxes at the Company's effective rate differed from
+the provision for income taxes at the statutory Federal rate of 34% for the
+years ended March 31, 2000 and 1999 as follows:
+
+                                      2000        1999
+                                 ----------------------
+Federal income tax benefit at
+the statutory rate                $ 441,000  $ 345,000
+Foreign sales corporation benefit    13,000     69,000
+Federal income tax credit            18,000     16,000
+Other                                 2,000      2,600
+                                 ----------------------
+Benefit for income taxes          $ 474,000  $ 432,600
+                                =======================
+
+                EMCEE BROADCAST PRODUCTS, INC. AND SUBSIDIARIES
+               NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+                     YEARS ENDED MARCH 31, 2000 AND 1999
+
+10. Income taxes (continued):
+
+The tax effects of temporary differences that give rise to deferred income
+taxes at March 31, 2000 and 1999 are presented in the table below:
+
+<TABLE>
+<CAPTION>
+                          2000        1999
+                       --------------------------
+
+ <C>                       <S>          <S>
+Deferred tax assets:
+ Inventory             $ 121,000   $  74,000
+ Employee benefits        47,000      46,000
+ Property and equipment   26,000
+ Other differences        26,000      14,000
+                       ------------------------
+Total gross deferred
+  tax assets             220,000     134,000
+
+Deferred tax liability,
+  property and equipment            (  2,000)
+                       ------------------------
+Net deferred tax asset $ 220,000   $ 132,000
+                       ========================
+</TABLE>
+
+11.Fair value of financial instruments:
+
+Many of the Company's financial instruments lack an available trading market
+as characterized by a willing buyer and a willing seller engaging in an
+
+
+<PAGE>
+exchange transaction.  The Company's fair value estimates for those
+instruments are based upon subjective assumptions and involve significant
+uncertainties resulting in estimates that vary with changes in assumptions.
+Any changes in assumptions or estimation methodologies may have a material
+effect on the estimated fair values disclosed.
+
+A summary at March 31, 2000 and 1999 is as follows:
+<TABLE>
+<CAPTION>
+                                 2000                 1999
+                        ------------------------------------------
+                        Carrying      Fair      Carrying     Fair
+                         value       value        value     value
+                        ------------------------------------------
+ <C>                      <S>          <S>         <S>        <S>
+Short-term assets      $3,889,183 $3,889,183  $4,520,604  $4,520,604
+Notes receivables         266,115    266,115     106,976     106,976
+Other long-term assets  1,026,333  1,413,065     385,173     750,448
+Short-term liabilities  1,085,070  1,085,070     662,528     662,528
+Long-term debt            702,354    702,354     768,287     768,287
+
+</TABLE>
+
+               EMCEE BROADCAST PRODUCTS, INC. AND SUBSIDIARIES
+         NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+               YEARS ENDED MARCH 31, 2000 AND 1999
+
+11. Fair value of financial instruments (continued):
+
+Short-term asset and liabilities (exclusive of bank debt):
+The fair values of cash and equivalents, U.S. Treasury Bills, accounts and tax
+refund receivables, accounts payable and other short-term financial
+liabilities approximate their carrying values due to the short-term nature of
+these financial instruments.
+
+Other long-term assets:
+The fair values of investments is based upon industry formulas that take into
+account the number of available subscribers and/or spectrum availability in
+the coverage area.  Fair value of other long-term assets is estimated to
+approximate carrying value.
+
+Notes receivables:
+The carrying value of notes receivable included in other assets is estimated
+to approximate fair values.  Although there are no quoted market prices
+available for these instruments, the fair value estimates were based on the
+change in interest rate and risk related interest rate spreads since the notes
+origination date.  It was not practicable to estimate the fair value of the
+$525,000 note receivable, sale of license, because the Company was unable to
+estimate the timing and form of the ultimate settlement of the amount due to
+it.  The Company has fully provided for any potential loss resulting from the
+non-payment of this receivable.
+
+Long-term debt:
+The fair value of long-term debt that is variable rate debt that reprices
+regularly approximates the carrying amounts.
+
+
+
+
+
+<PAGE>
+12. Litigation:
+
+In the normal course of business, there are various outstanding  legal
+proceedings.  In the opinion of management, after consultation with legal
+counsel, the consolidated financial statements of the Company will not be
+materially affected by the outcome of such legal proceedings.
+
+13.Subsequent event:
+
+On April 17, 2000, the Company completed its acquisition of Advanced Broadcast
+Systems (ABS) for approximately $400,000 in cash, 37,112 shares of the
+Company's common stock valued as of the acquisition date at $2.78 per share
+and the assumption of liabilities aggregating approximately $200,000.
+Additional amounts may be paid based on the initial year revenues and earnings
+of the acquired company.  ABS is a manufacturer of commercial high and medium
+power analog and digital television transmitters for UHF broadcast markets.
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-10
+<SEQUENCE>2
+<FILENAME>0002.txt
+<TEXT>
+
+                            ASSET PURCHASE AGREEMENT
+
+  This Asset Purchase Agreement is entered into this 17th day of April,
+  2000, by and between EMCEE Holding Corp., a Delaware corporation
+  ("Purchaser"), and Advanced Broadcast Systems, Inc., a Kentucky
+  corporation ("Seller").
+
+                          RECITALS:
+
+  This Agreement sets forth the terms and conditions upon which Purchaser
+  is purchasing the assets (other than Excluded  Assets, as hereinafter
+  defined) owned and/or used by Seller in the conduct of its business, and
+  Seller is selling to Purchaser such assets (other than Excluded Assets).
+
+  In consideration of the mutual agreements, covenants, representations and
+  warranties contained herein, and in reliance thereon, Purchaser and
+  Seller hereby agree as follows:
+                              ARTICLE I
+                          CERTAIN DEFINITIONS
+
+  As used herein, the following terms shall have the following meanings:
+
+  1.1"Accounts Receivable" shall mean as of any date any trade accounts
+  receivable, notes receivable, bid or performance deposits, employee
+  advances and other miscellaneous receivables associated with the Business
+  as of such date.
+
+  1.2"Accrued Expenses" shall mean as of any date accrued payroll and
+  benefits and other accrued expenses as would appear on a balance sheet of
+  the Business as of such date prepared in accordance with GAAP
+  consistently applied.
+
+  1.3"Affiliate" shall mean any company or other entity which controls, is
+  controlled by or is under common control with the designated Party. For
+  the purposes of the foregoing, ownership, directly or indirectly, of
+  twenty (20%) percent or more of the voting stock or other equity interest
+  shall be deemed to constitute control.
+
+  1.4"Agreement" shall mean this Asset Purchase Agreement.
+
+  1.5"Ancillary Agreements" shall mean, collectively, the documents,
+  instruments, statements, certificates and agreements described in Section
+  5.2.
+
+  1.6"Assumed Liabilities" shall have the meaning given to it in Section
+  4.2.
+
+  1.7"Balance Sheet" shall mean the balance sheet of the Business as of
+  November 30,  1999, referred to in Section 6.4.
+
+  1.8"Balance Sheet Date" shall mean November 30, 1999.
+
+  1.9"Books and Records" shall have the meaning given to it in Section
+  6.15.
+
+  1.10"Business" shall mean the business and operations of Seller as
+  presently conducted by Seller.
+
+  <PAGE>
+  1.11"Closing" shall mean the taking of the actions described in Article V
+  of this Agreement.
+
+  1.12"Closing Date" shall mean April 317, 2000, or such other date as the
+  Parties shall mutually agree.
+
+  1.13"Closing Inventory" shall mean all Inventory relating to the Business
+  on the Closing Date.
+
+
+
+
+  1.14"Code" shall mean the Internal Revenue Code of 1986, as it may be
+  amended from time to time, and any successor thereto. Any reference
+  herein to a specific section or sections of the Code shall be deemed to
+  include a reference to any corresponding provision of future law.
+
+  1.15"Confidential Information" shall have the meaning given to such term
+  in Section 12.1.
+
+  1.16"EMCEE" shall have the meaning given to such term in Section 3.1.2.
+
+  1.17"Employee" shall mean any individual employed by  Seller in the
+  conduct of the Business as listed on Schedule 1.17 (such Schedule being
+  subject to change between the date hereof and the Closing Date as a
+  result of employee changes in the ordinary course of business consistent
+  with past practices).
+
+  1.18"Employment Agreement" shall have the meaning given to such term in
+  Section 4.3.
+
+  1.19"Encumbrance" shall mean any right to, or interest in, property,
+  which subsists in a third-party and which constitutes a claim, lien,
+  charge or liability attached to and binding upon the property, including,
+  but not limited to, a mortgage, judgment lien, mechanic's lien, lease,
+  security interest, easement and right-of-way.
+
+  1.20"Environmental Law" shall mean any federal  (including but not
+  limited to the Federal Water Pollution Control Act, 33 U.S.C. Sections
+  1251 et seq., the Toxic Substances Control Act, 15 U.S.C. Sections 2601
+  et seq., the Clean Air Act, 42 U.S.C Sections 7401 et seq., the
+  Comprehensive Environmental Response, Compensation and Liability Act, 42
+  U.S.C. Sections 9601 et seq., the Resource Conservation and Recovery Act,
+  42 U.S.C.  Section 6901 et seq., the Hazardous Materials Transportation
+  Act,  49 U.S.C. Sections 1801 et seq., and the Federal
+  Insecticide Fungicide and Rodenticide Act, 7 U.S.C. Sections 136 et
+  seq.), state or local statute, ordinance, rule or regulation, any
+  judicial or administrative order or judgment (whether or not by consent),
+  any common law doctrine and any provision or condition of any permit,
+  license or other operating authorization relating to (i) the protection
+  of the environment or the public welfare from actual or potential
+  exposure (or the effects of exposure) to any actual or
+  potential release, discharge, disposal or emission (whether past or
+  present) of any Regulated Substance or (ii) the manufacture, processing,
+  distribution, use, treatment, storage, disposal, transport or handling of
+  any Regulated Substance.
+
+  <PAGE>
+  1.21"ERISA" shall mean the Employee Retirement Income Security Act of
+  1974, as amended.
+
+  l.22"ERISA Plans" shall mean defined benefit pension plans and defined
+  contribution pension plans qualified under Section 401(a) of the Code.
+
+  1.23"Escrow Agreement" shall have the meaning given to such term in
+  Section 3.2.
+
+  1.24"Excluded Assets" shall mean those assets that are not included in
+  the sale contemplated hereby and as are further defined in Section 2.2.
+
+  1.25"GAAP" shall mean generally accepted accounting principles in the
+  United States of America.
+
+  1.26"Indemnified Liabilities" shall mean, collectively, Seller's
+  Indemnified
+  Liabilities and Purchaser's Indemnified Liabilities.
+
+  1.27"Indemnified Party" shall mean either a Seller Indemnified Party or a
+  Purchaser Indemnified Party, as the context so requires.
+
+  1.28"Inventory" shall mean the inventory of the Business, including raw
+  materials, supplies, work-in-process and finished goods.
+
+  1.29"Lease Agreement" shall have the meaning given to such term in
+  Section 4.2 (iv).
+
+  1.30"Losses" shall mean all losses, liabilities,  costs, claims, fines,
+  penalties, damages, diminution in value, and expenses, including interest
+  and court costs, costs of  investigation and reasonable fees and
+  disbursements of counsel and consultants.
+
+  1.31"Memorandum of Understanding" shall have the meaning given to such
+  term in Section 12.10.1(i).
+
+  1.32"Party" shall mean either Seller or Purchaser, individually, as the
+  context so requires, and the term "Parties" shall mean Seller and
+  Purchaser together.
+
+  1.33"Payables" as of any date shall mean any of the accounts payable
+  associated with the Business as of such date in accordance with GAAP
+  consistently applied.
+
+  1.34"Payroll Practice/Employee Arrangement" shall have the meaning given
+  to such term in Section 6.18.
+
+  1.35"Permits" shall have the meaning given to such term in Section 6. 11.
+
+  1.36"Person" shall mean any individual, corporation, company, limited or
+  general
+  partnership, trust or estate, joint venture, association or other entity.
+
+  1.37"Prepaid Expenses" as of any date shall mean payments made by Seller
+  with respect to the Business, which constitute prepaid expenses of the
+
+
+  <PAGE>
+  Business in accordance with GAAP consistently applied.
+
+  1.38"Proprietary Rights" shall have the meaning given to such term in
+  Section 6.9.1.
+
+  1.39"Purchase Price" shall have the meaning given to such term in Section
+  3.1.1.
+
+  1.40"Purchased Assets" shall have the meaning given to such term in
+  Section 2.1.
+
+  1.41"Purchaser" shall have the meaning given to such term in the preamble
+  of this
+  Agreement.
+
+  1.42"Purchaser Indemnified Party" shall have the meaning given to such
+  term in Section 14.2.
+
+  1.43"Real Property" shall mean the Real Property Leased.
+
+  1.44"Real Property Leased" shall mean the real property leased by Seller
+  in connection with the Business as more fully described in Schedule 1.44
+  hereto.
+
+  1.45"Regulated Substance" shall mean petroleum, petroleum hydrocarbons or
+  petroleum products and any other  chemical, material, substance or waste
+  that is identified (by listing or characteristic) and regulated (or the
+  clean-up of which can be required) by any federal, state or local
+  statute, ordinance, rule or regulation intended to protect the
+  environment or the public health or welfare, including but not limited to
+  the statutes, ordinances, rules or regulations relating to clean air,
+  clean water, hazardous and solid waste disposal, safe
+  drinking water, endangered species, occupational safety and health, oil
+  spill prevention, groundwater protection, and toxic substances control.
+
+  1.46"Restricted Stock" shall have the meaning given to such term in
+  Section 3.1.2. Such Restricted Stock is stock which is not registered
+  under the Securities Act of 1933 or any state securities laws and is
+  subject to, among other applicable laws, rules and regulations, Rule 144
+  of the Securities and Exchange Commission.
+
+  1.47"Seller" shall have the meaning given to such term in the preamble of
+  this Agreement.
+
+  1.48"Seller General Liabilities" shall have the meaning given to such
+  term in Section 14.2.
+
+  1.49"Seller Indemnified Party" shall have the meaning given to such term
+  in Section 14.3.
+
+  1.50"Seller's Note" shall have the meaning given to such term in Section
+  4.2 (iii).
+
+  1.51"Taxes" shall mean all taxes, dues, charges, fees, levies or other
+  assessment imposed by any taxing authority, including, without
+  limitation, income, gross receipts, value added, excise, withholding,
+
+  <PAGE>
+  personal property, real estate, sale, use, ad valorem, license, lease,
+  service, severance, stamp, transfer, payroll, employment, customs,
+  duties, alternative, add-on minimum, estimated and franchise
+  taxes (including any interest, penalties or additions attributable to or
+  imposed on or with respect to any such assessment).
+
+                              ARTICLE II
+                  TRANSFER OF ASSETS AND PROPERTIES
+
+  2.lPurchased Assets. Subject to the terms and conditions of this
+  Agreement, Seller shall sell and convey to Purchaser, free and clear of
+  all Encumbrances whatsoever, and Purchaser shall purchase from Seller,
+  the Business as a going concern and all of Seller's right, title and
+  interest in and to the assets, properties and rights of every kind and
+  description, real, personal and mixed, tangible and intangible, wherever
+  situated constituting or used in the Business
+  (the "Purchased Assets") as the same shall exist on the Closing Date
+  (other than the Excluded Assets), including, without limitation, the
+  following:
+
+  2.1.1Real Property Leased. All of Seller's interest, as lessee, in the
+  Real Property Leased and all of Seller's right, title, claim and interest
+  in and to the Lease Agreement;
+
+  2.1.2Equipment, Machinery and Other Tangible Personal Property. All
+  machinery, equipment, leasehold improvements, trucks, automobiles,
+  supplies, office furniture and office equipment, computing and
+  telecommunications equipment and
+  other items of personal property that are owned by Seller in connection
+  with the Business, including those described in Schedule 2.1.2 hereto;
+
+  2.1.3Inventory. All Closing Inventory;
+
+  2.1.4Cash and Cash Equivalents. All right, title and interest of Seller
+  in and to all cash and cash equivalents on hand, in bank accounts or
+  being held by any other Person (including, without limitation, the
+  security deposit described in the Lease Agreement) on the Closing Date;
+
+  2.1.5Contracts Relating to the Business. All of the interest of Seller in
+  all contracts, leases of machinery, equipment and other personal
+  property, sale orders, purchase orders, guarantees, commitments,
+  instruments and all other agreements relating to the acquisition or
+  ownership by Seller of any of the Purchased Assets or the operation of
+  the Business, including those listed in Schedule 2.1.5 hereto (except the
+  Employment Contracts shown thereon which are Excluded Assets) and those
+  not required to be listed on Schedule 2.1.5 by reason
+  of the nature thereof and the amount of the commitment thereunder or
+  value thereof;
+
+  2.1.6Customer Lists, Sales and Marketing Materials. All customer lists,
+  sales data, catalogs, brochures, suppliers' names, mailing lists, art
+  work, photographs and advertising material that relate in any way to the
+  Business, whether in electronic form or otherwise;
+
+  2.1.7Permits, Licenses. All of Seller's interest in governmental permits,
+
+
+  <PAGE>
+  licenses, registrations, orders and approvals relating to the Business,
+  including those listed in Schedule 2.1.7 hereto, to the extent such
+  permits, licenses, registrations, orders and approvals are transferable
+  to Purchaser;
+
+  2.1.8Trade Secrets. All trade secrets, secret processes and procedures,
+  engineering, production, assembly, design, installation, other technical
+  drawings and specifications, working notes and memos, market studies,
+  consultants reports, technical and laboratory data, competitive samples,
+  engineering prototypes, and all similar property of any nature, tangible
+  or intangible, of Seller relating to the Business;
+
+  2.1.9Intellectual Property. All right, title and interest of Seller in
+  the patents, trademarks, trademark registrations, trade names, service
+  marks, copyrights and copyright registrations described in Schedule
+  2.1.9;
+
+  2.1.10 Property, Personnel and Accounting  Records. All other records of
+  Seller relating to the Business, including property records and copies of
+  personnel records of Employees who become employees of Purchaser;
+
+  2.1.11 Goodwill. All right, title and interest of Seller in and to the
+  goodwill incident to the Business;
+
+  2.1.12 Name; Telephone and Facsimile Numbers; E-Mail Addresses. All
+  right, title and interest of Seller in and to Seller's name, telephone
+  and facsimile numbers of the Business, and Seller's E-mail addresses  for
+  the Business;
+
+  2.1.13 Accounts Receivable.  All Accounts Receivable existing at the
+  Closing Date;
+
+  2.1.14 Prepaid Expenses. All Prepaid  Expenses of, or for the benefit of,
+  the Business at the Closing Date including those described in Schedule
+  2.1.14, to the extent the benefits thereof are transferable to Purchaser.
+
+  2.1.15 Computer Software. All computer applications software, owned or
+  licensed, whether for general business usage (e.g., accounting, word
+  processing, graphics, spreadsheet analysis, etc.) or specific,
+  unique-to-the-business usage (e.g., order processing, process control,
+  shipping, etc.) and all computer operating, security or programming
+  software, owned or licensed by Seller; and 2.1.16 Other Intangible
+  Assets. All other assets (including all causes of action,
+  rights of action, contract rights and warranty and product liability
+  claims against third parties) relating to the Purchased Assets or the
+  Business.
+
+  2.2Excluded Assets. Notwithstanding Section 2.1, the following assets
+  (collectively, the "Excluded Assets") shall be excluded from this
+  Agreement, and shall not be assigned or transferred to Purchaser:
+
+  2.2.1Any insurance policies maintained by Seller with respect to the
+  Business;
+
+
+
+
+  <PAGE>
+
+  2.2.2The consideration paid to Seller pursuant to this Agreement;
+
+  2.2.3Assets constituting any pension or other funds for the benefit of
+  Employees;
+
+  2.2.4Seller's corporate minute books and stock books;
+
+  2.2.5Any contracts, agreements, commitments or undertakings of the Seller
+  with or for the benefit of any Employee or former employee of the Seller;
+
+  2.2.6The tangible personal property of certain stockholders and vendors
+  of the Seller set forth and identified on Schedule 2.2.6;
+
+  2.2.7Any claims and rights against third parties (including, without
+  limitation, insurance carriers), to the extent they relate to liabilities
+  or obligations that are not assumed by Purchaser hereunder (except to the
+  extent Purchaser shall have incurred costs and expenses with respect to
+  such claims and rights); and
+
+  2.2.8Claims for refunds of Taxes and other governmental charges to the
+  extent such refunds relate to periods ending on or prior to the Closing.
+
+                             ARTICLE III
+                            CONSIDERATION
+
+  3.1Consideration for Purchased Assets.
+
+  3.1.1The aggregate monetary consideration to be paid by Purchaser to
+  Seller for the Purchased Assets (the "Purchase Price") shall be Six
+  Hundred Thousand ($600,000.00), Four Hundred Thousand Dollars
+  ($400,000.00) Dollars of which shall be in cash; and
+
+  3.1.2Two Hundred Thousand ($200,000.00) Dollars of which shall consist of
+  thirty-seven thousand one hundred twelve (37,112) shares of fully paid
+  and non-assessable restricted common stock (the "Restricted Stock") of
+  Purchaser's Affiliate, EMCEE Broadcast Products, Inc. ("EMCEE"), based on
+  the agreed upon per share value thereof of $5.389.
+
+  3.1.3As additional consideration, Purchaser also shall assume the Assumed
+  Liabilities.
+
+  3.2Payment of Consideration. Subject to the terms and conditions of this
+  Agreement, at the Closing, Purchaser shall deliver to Seller Four Hundred
+  Thousand ($400,000.00) Dollars in immediately available funds. The
+  Restricted Stock shall be delivered, free and clear of all Encumbrances,
+  to the Seller on April 3, 2001; provided, however, that if the value of
+  the Restricted Stock on April 3, 2001 is less than One Hundred Thousand
+  ($100,000.00) Dollars, Seller shall have the right, exercisable only in
+  writing to Purchaser, to accept the sum of One Hundred Thousand
+  ($100,000.00) Dollars in lieu of the Restricted Stock.
+  For purposes of the immediately preceding sentence, the value of the
+  Restricted Stock on April 3, 2001 shall be determined by calculating the
+  average of the median price of such stock at the close of each of the
+  five (5) trading days immediately preceding April 3, 2001, as quoted on
+
+
+  <PAGE>
+  the NASDAQ National Market. The
+  Restricted Stock and the One Hundred Thousand ($100,000.00) Dollars
+  aforementioned, together with a Stock Power executed in blank by the
+  Seller in favor of EMCEE in the event such One Hundred Thousand
+  ($100,000.00) Dollars is accepted by the Seller in lieu of the Restricted
+  Stock, shall be held and kept pursuant to the terms and conditions of the
+  Escrow Agreement set forth on Exhibit 3.2 hereto (the "Escrow Agreement")
+  or such other escrow agreement as shall be acceptable to the escrow agent
+  named therein.
+
+  3.3Allocation of Purchase Price. The Parties agree that the Purchase
+  Price shall be allocated among the Purchased Assets as set forth on
+  Exhibit 3.3 hereto. Each Party agrees not to assert, in connection with
+  any tax return, tax audit or similar proceeding, any allocation of the
+  Purchase Price that differs from that set forth on Exhibit 3.3.
+
+  3.4Certain Taxes. Seller shall bear and be responsible for payment of, or
+  reimbursement to Purchaser for, all Taxes that are or may be imposed by
+  any government or political subdivision thereof and that are payable or
+  arise as a result of this Agreement, or any transfer pursuant to this
+  Agreement or any Ancillary Agreement, notwithstanding the Party upon
+  which such Taxes are actually imposed.
+                             ARTICLE IV
+            ASSUMPTION OF LIABILITIES; EMPLOYEE MATTERS
+
+  4.1General Limitation on Assumption of Liabilities. Except as otherwise
+  provided in Sections 4.2 and 4.3 below, Seller shall transfer the
+  Purchased Assets to Purchaser free and clear of all Encumbrances, and
+  without any assumption of liabilities and obligations, and Purchaser
+  shall not, by virtue of its purchase of the Purchased Assets, assume or
+  become responsible for any liabilities or obligations of Seller or any
+  other Person. For purposes of this Article IV the phrase "liabilities and
+  obligations" shall include, without limitation, any direct or indirect
+  indebtedness, guaranty, endorsement, claim, loss, damage,
+  deficiency, cost, expense, obligation or responsibility, fixed or
+  unfixed, known or unknown, asserted or unasserted, choate or inchoate,
+  liquidated or unliquidated, secured or unsecured.
+
+  4.2Assumed Liabilities and Obligations. On the Closing Date, Purchaser
+  shall acquire the Purchased Assets subject only to, and shall undertake,
+  assume, perform and otherwise pay, satisfy and discharge, and hold Seller
+  harmless from the following liabilities and obligations, excluding any
+  liabilities and obligations to Affiliates of Seller (collectively, the
+  "Assumed Liabilities"):
+
+  (i)all obligations of Seller accruing subsequent to the Closing Date
+  under the contracts, leases, agreements, orders, guarantees and
+  commitments contemplated by Section 2.1.5, including, without limitation,
+  those set forth in Schedule 2.1.5, provided that the rights thereunder
+  have been duly and effectively assigned to Purchaser;
+
+  (ii)all obligations of Seller accruing after the Closing Date under the
+  permits and licenses described in Section 2.1.7, provided that the rights
+  thereunder have been duly and effectively assigned to Purchaser;
+
+
+
+  <PAGE>
+  (iii)the Payables and Accrued Expenses reflected on the books of seller
+  at the Closing Date; provided, however, that in no event shall Purchaser
+  assume Payables and Accrued Expenses exceeding, in the aggregate, Two
+  Hundred Thousand ($200,000.00) Dollars, exclusive of the amounts then
+  owing under a certain Promissory Note from Seller to Purchaser dated
+  February 14, 2000 in the original principal sum not to exceed Two Hundred
+  Thousand ($200,000.00) Dollars ("Seller's Note"); and
+
+  (iv)All obligations of Seller accruing after the Closing Date under the
+  Lease Agreement for the Real Property Leased, dated the first day of
+  December, 1998, between the Seller, as tenant, and William Urban
+  Hillenbrand and Connie S. Hillenbrand, as partners of Hillenbrand Bros.
+  Farm (a general partnership), as landlords (the "Lease Agreement").
+
+  4.3Offer of Employment. Purchaser shall offer employment on and as of the
+  Closing Date, on an at-will basis, to all Employees actively at work in
+  substantially similar jobs, at substantially the same base salaries or
+  wages and benefits as were paid or provided by Seller immediately prior
+  to the Closing Date. Notwithstanding the foregoing, as a condition
+  precedent to such employment for Donald Adams, Wayne McMahon and Carl
+  Jacobson, and as a condition precedent to the Purchaser's obligations to
+  consummate the transactions contemplated hereby,
+  each such individual must execute an Employment Agreement in form and
+  content as set forth on Exhibit 4.3 hereto (the "Employment Agreement").
+
+  4.4Vacation Liability. Purchaser shall assume liability for the vacation
+  entitlement that each Employee who becomes an employee of Purchaser has
+  accrued as of the Closing Date. Purchaser shall pay each such Employee's
+  wages or salary during his or her vacation entitlement from Purchaser,
+  when taken.
+
+  4.5Other Employee Benefits. Seller agrees that, with respect to claims
+  for workers' compensation and all claims under Seller's employee benefit
+  programs by persons working for the Business arising out of events
+  occurring prior to the Closing, whether reported or unreported as of the
+  Closing and whether insured or uninsured (including, but not limited to,
+  workers' compensation, life insurance, medical and disability programs),
+  Seller shall, at its own expense, honor or cause its insurance carriers
+  to honor such claims in accordance with the terms
+  and conditions of such programs or applicable workers' compensation
+  statutes. Without limiting the scope of the preceding sentence, Seller
+  shall be responsible for any and all claims and liabilities arising out
+  of or relating to (i) its employment of the Employees, (ii) the
+  termination by Seller of such the employment of any such Employee and
+  (iii) the provision of any employee benefits to such Employees (and their
+  beneficiaries and eligible dependents) attributable to their employment
+  with, or their participation in any plans or programs maintained or
+  contributed to by, Seller or any of its Affiliates.
+
+  4.6WARN Act. Not applicable.
+
+
+
+
+
+
+
+  <PAGE>
+                              ARTICLE V
+                               CLOSING
+
+  5.1Time; Location. Subject to the conditions contained herein, the
+  Closing shall
+  be held on the Closing Date at 9:30 o'clock A.M., local time, at the
+  offices of
+  George G. Gardner, Esquire, 7415 Burlington Pike, Suite B, Florence,
+  Kentucky
+  41042, or such other time or place as the Parties shall mutually agree in
+  writing.
+
+  5.2Documents. At the Closing, Seller shall execute and deliver the
+  following
+  instruments of transfer and assignment:
+
+  5.2.1Duly executed Assignment of Lease Agreement substantially in the
+  form of
+  Exhibit 5.2.1 hereto, assigning and transferring the Lease Agreement and
+  good and
+  marketable leasehold title to the Real Property Leased, and a Memorandum
+  of
+  Lease, in recordable form and in form and content reasonably acceptable
+  to the
+  Purchaser, to provide constructive notice of Purchaser's rights under the
+  Lease
+  Agreement on and after the Closing Date;
+
+  5.2.2A Bill of Sale and an Assignment and Assumption Agreement, both
+  substantially in the form of Exhibit 5.2.2 hereto, transferring to
+  Purchaser good
+  and indefeasible title to all of the tangible personal property included
+  in the
+  Purchased Assets, subject only to the Assumed Liabilities, and assigning
+  to
+  Purchaser all of Seller's right, title and interest in each of the
+  contracts,
+  licenses and other agreements included in the Purchased Assets, together
+  with all
+  consents of third parties that Seller must obtain in order to make each
+  such
+  assignment effective as to such third parties;
+
+  5.2.3An Assignment of Rights in Business Name and Business Telephone
+  Number,
+  Business Facsimile Numbers and E-Mail Address  substantially in the form
+  of
+  Exhibit 5.2.3 hereto, transferring to Purchaser good and indefeasible
+  title to
+  Seller's name and the Business telephone and facsimile numbers and E-mail
+  addresses;
+
+
+
+
+
+
+  <PAGE>
+  5.2.4Certificates of title to all vehicles included in the Purchased
+  Assets with
+  assignments to Purchaser; and
+
+  5.2.5Such additional instruments of conveyance and transfer as Purchaser
+  may
+  reasonably require in order to more effectively vest in it, and put it in
+  possession of, the Purchased Assets.
+
+  5.3Reasonable Steps. Prior to the Closing Date, Seller shall take such
+  reasonable
+  steps as may be necessary or appropriate so that on the Closing Date,
+  Purchaser
+  shall be placed in actual possession and control of all of the Purchased
+  Assets.
+                              ARTICLE VI
+               REPRESENTATIONS AND WARRANTIES OF SELLER
+
+  Seller represents and warrants to Purchaser as follows:
+
+  6.1Organization, Good Standing and Power. Seller is a corporation duly
+  organized,
+  validly existing an in good standing under the laws of Kentucky, is duly
+  authorized to conduct business in all foreign jurisdictions in which it
+  currently
+  conducts business, and has all requisite corporate power and authority to
+  execute
+  and deliver this Agreement and the Ancillary Agreements, to consummate
+  the
+  transactions contemplated hereby and thereby and to perform all the terms
+  and
+  conditions hereof and thereof to be performed by it.
+
+  6.2Authorization of Agreement and Enforceability. Seller has taken all
+  necessary
+  corporate action to authorize the execution and delivery of this
+  Agreement and
+  the Ancillary Agreements, the performance by it of all terms and
+  conditions
+  hereof and thereof to be performed by it and the consummation of the
+  transactions
+  contemplated hereby and thereby. This Agreement constitutes, and the
+  Ancillary
+  Agreements to which Seller is a party, upon Seller's execution and
+  delivery
+  thereof, will constitute, the legal, valid and binding obligations of
+  Seller,
+  enforceable in accordance with their terms except to the extent that
+  enforceability may be limited by bankruptcy, insolvency, moratorium or
+  other
+  similar laws presently or hereafter in effect relating to or affecting
+  the
+  enforcement of creditors' rights generally and by general principles of
+  equity
+  (regardless of whether enforcement is considered in a proceeding in
+
+
+  <PAGE>
+  equity or at law).
+
+  6.3No Violation; Consents. The execution, delivery and performance by
+  Seller of this Agreement and the Ancillary Agreements, and the
+  consummation of the
+  transactions contemplated hereby and thereby will not (with or without
+  the giving
+  of notice or the lapse of time, or both) (i) violate any provision of the
+  Articles of Incorporation or bylaws of Seller, (ii) violate, or, except
+  as required by the Permits referred to in Section 6.11 hereof (as
+  disclosed on Schedule 2.1.7), require any consent, authorization or
+  approval of, or exemption by, or filing under any provision of any law,
+  statute, rule or regulation to which Seller, the Business or the
+  Purchased Assets are subject, (iii) violate any judgment, order, writ or
+  decree of any court applicable to Seller, the Business or the Purchased
+  Assets, (iv) except for such consents or approvals as are required by the
+  contracts referred to in Section 6.10 hereof, conflict with,
+  result in a breach of, constitute a default under, or accelerate or
+  permit the acceleration of the performance required by, or require any
+  consent, authorization or approval under any agreement, contract,
+  commitment, lease or other instrument, document or undertaking to which
+  Seller is a party or any of the Purchased Assets is bound or (v) result
+  in the creation or imposition of any Encumbrance upon the Purchased
+  Assets.
+
+  6.4Financial Statements. Seller has delivered to Purchaser true and
+  complete copies of the Seller prepared balance sheet of the Business at
+  November 30, 1999, and true and complete copies of the balance sheets of
+  the Business at December 31, 1998, 1997 and 1996 and the related
+  statements of income and cash flows,
+  reviewed by Morris & Dressler, independent public accountants. The
+  foregoing
+  financial statements have been prepared from the books and records of
+  Seller in
+  accordance with GAAP consistently applied throughout the periods involved
+  except
+  as may be noted therein. Such financial statements, including the related
+  notes,
+  are true and correct and fairly present the financial position of the
+  Business
+  at the dates indicated and the results of operations and cash flows of
+  the
+  Business for the periods then ended in accordance with GAAP. References
+  in this
+  Agreement to the "Balance Sheet" shall mean the balance sheet of the
+  Business as
+  of November 30, 1999 referred to above, and references in this Agreement
+  to the
+  "Balance Sheet Date" shall be deemed to refer to November 30, 1999.
+
+  6.5Accounts Receivable. All Accounts Receivable as set forth on the
+  Balance Sheet
+  (i) have or will have arisen only in the ordinary course of business
+  consistent
+  with past practice for goods actually sold and delivered or services
+
+
+  <PAGE> actually performed and (ii) are or will be collectible in full at
+  the recorded amounts thereof (subject to no defenses, set offs or
+  counterclaims) in the ordinary course of business (without resort to
+  litigation or assignment to a collection agency) no later than thirty
+  (30) days after the Closing Date, net of any
+  allowance for bad debts reflected on the Balance Sheet.
+
+  6.6Inventory. The Inventory as set forth on the Balance Sheet was, and
+  the Closing Inventory will be, acquired and maintained in accordance with
+  regular business practices of the Business, consists(and, as to the
+  Closing Inventory, will consist) of new and unused items of a quality and
+  quantity useable or saleable in the ordinary course of business
+  consistent with past practice, and
+  is (and, as to the Closing Inventory, will be) valued in accordance with
+  GAAP
+  consistently applied and with respect to Inventory intended for sale, was
+  (and,
+  as to the Closing Inventory, will be) saleable at prices at least equal
+  to the
+  value thereof on the books of Seller.
+
+  6.7Absence of Certain Changes or Events. Except as set forth in Schedule
+  6.7 hereto, since November 30, 1999, in connection with the Business,
+  Seller has not:
+
+  6.7.1Amended in any respect or terminated the Lease Agreement or any
+  contract or other document described in Section 2.1.5, other than in the
+  ordinary course of business consistent with past practice;
+
+  6.7.2Suffered the occurrence of any events that, individually or in the
+  aggregate, have had, or could reasonably be expected to have, a material
+  adverse effect on the Purchased Assets or the financial position or
+  results of operations of the Business;
+
+  6.7.3Incurred any damage or destruction having a material adverse effect
+  on the Purchased Assets or the results of operations of the Business by
+  fire, storm, or similar casualty, whether or not covered by insurance;
+
+  6.7.4Sold, transferred, replaced or leased any of the Purchased Assets or
+  provided any Inventory or services at a discount, except for transactions
+  in the ordinary course of business consistent with past practice;
+
+  6.7.5Waived or released any material rights with respect to the Purchased
+  Assets or the Business;
+
+  6.7.6Transferred or granted any rights to any Proprietary Rights;
+
+  6.7.7Entered into any transaction or made any commitments (for capital
+  expenditures or otherwise) other than in the ordinary course of business
+  consistent with past practice;
+
+  6.7.8Changed its methods of accounting;
+
+  6.7.9Increased the compensation or benefits of Employees; or
+
+  6.7.10 Materially altered its conduct in its relations with suppliers or
+  customers.
+
+  <PAGE>
+  6.8Title to Properties; Absence of Liens and Encumbrances. Seller owns
+  and will transfer to Purchaser at the Closing good, marketable and
+  indefeasible title to
+  all of the Purchased Assets, including without limitation the properties
+  and assets reflected on the Balance Sheet (except as disclosed in
+  Schedule 6.8 or except as sold or otherwise disposed of by Seller after
+  the Balance Sheet Date in the ordinary course of business consistent with
+  past practice), free and clear of all Encumbrances. The Lease Agreement
+  covering the Real Property Leased is in full force and effect and
+  constitutes the legal, valid and binding obligation of
+  the lessor thereunder, enforceable in accordance with its terms, except
+  to the extent that enforcement may be limited by bankruptcy, insolvency,
+  moratorium or other similar laws presently or hereinafter in effect
+  relating to or affecting the enforcement of creditors' rights generally
+  and by general principles of equity (regardless of whether enforcement is
+  considered in a proceeding in equity or at law). All buildings,
+  structures, improvements and fixtures located on the
+  Real Property are located wholly within the boundaries thereof and do not
+  encroach upon the property of any other Person.
+
+  6.9Proprietary Rights.
+
+  6.9.1Schedule 2.1.9 hereto sets forth a correct and complete list of all
+  patents, logos, trademarks, trade names, service marks, copyrights and
+  applications or registrations therefor used in and material to the
+  Business, and Schedule 6.9 sets forth a correct list of all inventions,
+  intellectual property and trade secret assets used in and material to the
+  Business (collectively, the "Proprietary Rights").
+
+  6.9.2Except as disclosed in Schedule 6.9: (i) Seller owns or possesses
+  adequate licenses or other valid right to use (without the making of any
+  payment to others or the obligation or grant rights to others in
+  exchange) all the Proprietary Rights; (ii) the Proprietary Rights
+  included in the Purchased Assets constitute
+  all such rights necessary to conduct the Business in accordance with past
+  practice and are being conveyed to Purchaser together with the other
+  Purchased Assets; (iii) the validity of the Proprietary Rights and the
+  rights therein of Seller have not been questioned in any litigation to
+  which Seller is a party, nor, to Seller's knowledge, is any such
+  litigation threatened; and (iv) the conduct of the Business does not
+  conflict with patent rights, licenses, trademark
+  rights, trade name rights, copyrights or other intellectual property
+  rights of others.
+
+  6.9.3Except as disclosed in Schedule 6.9 hereto, Seller does not have
+  knowledge that any material use of any Proprietary Rights owned by Seller
+  has heretofore been, or is now being, made by any Person other than
+  Seller, and Seller has no knowledge of any infringement of any
+  Proprietary Rights owned or licensed by Seller. No present or former
+  director, officer, employee or consultant of Seller or any Affiliate of
+  Seller has any interest in any of the Proprietary Rights.
+
+  6.10Contracts and Commitments. Except as listed and described on Schedule
+  2.1.5 hereto, Seller is not with respect to the Purchased Assets or the
+  Business a party to any written or oral:
+
+
+  <PAGE>
+  (i)agreement, contract or commitment for the future purchase of, or
+  payment for,
+  supplies or products, or for the performance of services by another
+  party,
+  involving in any one case $2,500 or more;
+
+  (ii)agreement, contract or commitment to sell or  supply products or to
+  perform
+  services, involving in any one case $2,500 or more;
+
+  (iii)agreement, contract or commitment continuing over a period of more
+  than six
+  months from the date hereof or exceeding $2,500 in value;
+
+  (iv)representative, sales agency, dealer or distributor agreement,
+  contract or
+  commitment;
+
+  (v)lease under which Seller is either lessor or lessee other than the
+  Lease Agreement;
+
+  (vi)note, debenture, bond, conditional sale agreement, equipment trust
+  agreement, letter of credit agreement, loan agreement or other contract
+  or commitment for
+  the borrowing or lending of money (including without limitation loans to
+  or from employees) or guarantee, pledge or undertaking of the
+  indebtedness of any other Person;
+
+  (vii)agreement, contract or commitment for any charitable or political
+  contribution;
+
+  (viii)agreement, contract or commitment providing or relating in any way
+  to a product warranty (limited or full);
+
+  (ix)agreement, contract or commitment limiting or restraining Seller or
+  any successor or assign from engaging or competing in any lines of
+  business with any
+  Person;
+
+  (x)license, franchise, distributorship or other agreement, including
+  those that relate in whole or in part to any patent, trademark, trade
+  name, service mark or copyright or to any ideas, technical assistance or
+  other know-how of or used by the Business; or
+
+  (xi)any other material agreement, contract or commitment not made in the
+  ordinary course of business consistent with past practice.
+
+  Except as may be disclosed on Schedule 2.1.5 hereto, (i) each of the
+  agreements, contracts, commitments, leases and other instruments,
+  documents and undertakings listed on Schedule 2.1.5 is valid and
+  enforceable in accordance with its terms,
+  the parties thereto are in compliance with the provisions thereof, no
+  party is in default in the performance, observance or fulfillment of any
+  material obligation, covenant or condition contained therein, and no
+
+
+
+  <PAGE>
+  event has occurred that with or without the giving of notice or lapse of
+  time, or both, would constitute a default thereunder; (ii) no such
+  agreement, contract, commitment, lease or other instrument, document or
+  undertaking, in the reasonable opinion of Seller, contains any
+  contractual requirement with which there is a reasonable
+  likelihood Seller or any other party thereto will be unable to comply;
+  (iii) no advance payments have been received by Seller by or on behalf of
+  any party to any of the agreements, contracts, commitments, leases and
+  other instruments listed on Schedule 2.1.5 for services to be rendered or
+  products to be delivered to such
+  party after the Closing Date; and (iv) no consent or approval of any
+  party to any agreement, contract, commitment, lease or other instrument,
+  document
+  or undertaking listed on Schedule 2.1.5 is required for the execution of
+  this
+  Agreement or the consummation of the transactions contemplated hereby.
+
+   6.11Permits, Licenses. Seller has all permits, licenses, registrations,
+  orders and approvals of federal, state or local government or regulatory
+  bodies that are required to operate the Business (including without
+  limitation those required under any Environmental Law) (collectively, the
+  "Permits") and, except as described in Schedule 6.11, Seller is in
+  compliance with the terms and conditions of the
+  Permits. Schedule 2.1.7 hereto sets forth a correct and complete list of
+  all Permits, each one of which is in full force and effect. To Seller's,
+  knowledge, no suspension or cancellation of any of the Permits is
+  threatened and no cause exists for such suspension or cancellation. Any
+  Permits that cannot be transferred or require consent or approval for the
+  transfer thereof are specifically identified on Schedule 2.1.7 hereto as
+  nontransferable or requiring such consent or approval.
+
+  6.12Compliance with Laws. Except as described in Schedule 6.12 hereto,
+  Seller has
+  at all times conducted, and is presently conducting, the Business so as
+  to comply
+  with all laws, statutes, ordinances, rules and regulations applicable to
+  the
+  conduct or operation of the Business or the ownership or use of the
+  Purchased
+  Assets.
+
+  6.13Legal Proceedings. Except as described in Schedule 6.13 hereto, there
+  is no
+  claim, action, suit, proceeding, investigation or inquiry pending before
+  any
+  federal, state or other court or governmental or administrative agency
+  or, to
+
+  <PAGE>
+  Seller's knowledge, threatened against Seller with respect to the
+  Business or any
+  of the Purchased Assets, or relating to the transactions contemplated by
+  this Agreement, nor does Seller know of any basis for any such claim,
+  action, suit, proceeding, investigation, or inquiry. Except as set forth
+  on Schedule 6.13 hereto, none of the matters set forth thereon will have
+  a material adverse effect on the Business. Except as set forth on
+
+  <PAGE>
+  Schedule 6.13 hereto, Seller is not a party to or subject to the
+  provisions of any judgment, order, writ, injunction,
+  decree or award of any court, arbitrator or governmental, regulatory or
+  administrative official, body or authority that relates to the Purchased
+  Assets or the Business or that might affect the transactions contemplated
+  by this Agreement.
+
+  6.14Absence of Undisclosed Liabilities. Except as set forth in Schedule
+  6.14, Seller has no liabilities or obligations (as defined in Section
+  4.1) relating to the Business except (i) those liabilities and
+  obligations set forth on the Balance Sheet and not heretofore paid or
+  discharged; (ii) those  liabilities and
+  obligations arising in the ordinary course of business consistent with
+  past practice under any agreement, contract or commitment specifically
+  disclosed on Schedule 2.1.5 hereto or not required to be disclosed
+  because of the term or amount involved; and (iii) those liabilities and
+  obligations incurred in the ordinary course of business consistent with
+  past practice since the Balance Sheet
+  Date.
+
+  6.15Books and Records. All books of account and other financial records
+  of Seller directly relating to the Business (the "Books and Records") are
+  complete and correct and have been made available to Purchaser. All of
+  the Books and Records have been prepared and maintained in accordance
+  with good business practices and, where applicable, in conformity with
+  GAAP (except as otherwise stated therein)
+  and in compliance in all material respects with applicable laws,
+  regulations and other requirements.
+
+  6.16Employees. Schedule 1.17 sets forth a true and correct list of all
+  individuals employed by Seller in the conduct of the Business and their
+  present position and rate of compensation and service credited for
+  purposes of vesting and eligibility under each Payroll Practice/Employee
+  Arrangement.
+
+  6.17Labor Disputes. Except as described in Schedule 6.17 hereto, from the
+  Seller's inception, there have been no discrimination complaints nor any
+  other kind of employment or labor related disputes against Seller in
+  connection with the Business pending before or, to Seller's knowledge,
+  threatened before any federal, state or local court or agency, and, to
+  Seller's knowledge, no material dispute respecting minimum wage or
+  overtime claims or other conditions or terms of employment exists. The
+  Business has not experienced any material labor
+  disputes or any material work stoppage due to labor disagreements. With
+  respect to the Business and except to the extent set forth in Schedule
+  6.17: there is no
+  unfair labor practice charge or complaint against Seller pending or, to
+  Seller's
+  knowledge, threatened, before the National Labor Relations Board; (ii)
+  there is
+  no labor strike, slowdown or stoppage pending or, to Seller's knowledge,
+  threatened against or affecting Seller; and (iii) no question concerning
+  representation has been raised or, to Seller's knowledge, is threatened
+  respecting the Employees.
+
+
+
+  <PAGE>
+
+  6.18Payroll Practice/Employee Arrangements.
+
+  6.18.1 Schedule 6.18 contains a complete list of each employee benefit
+  plan
+  subject to ERISA, and/or holiday, vacation or other bonus practice or any
+  other
+  employee pay practice, arrangement, agreement or commitment (the "Payroll
+  Practice/Employee Arrangement") and maintained by or with respect to
+  which Seller
+  has any liability or obligation, whether actual or contingent, with
+  respect to
+  Employees or their respective beneficiaries.
+
+  6.18.2 Seller has not taken any action that may result in Purchaser, or
+  subsidiary, being a party to, or bound by, any ERISA Plan, and Purchaser
+  shall  have no liability under, or be subject to any liability on account
+  of, any ERISA Plan or Payroll Practice/Employee Arrangement following the
+  consummation of the transactions contemplated hereby.
+
+  6.18.3 No ERISA Plan or other employee arrangement has provided for the
+  payment of retiree benefits by Purchaser.
+
+  6.19No Finder. Seller has not taken any action that would give to any
+  Person a
+  right to a finder's fee or any type of brokerage commission in relation
+  to, or
+  in connection with, the transactions contemplated by this Agreement.
+
+  6.20Interest in Business. Seller has not granted, and there is not
+  outstanding,
+  any option, right, agreement or other obligation pursuant to which any
+  Person
+  could claim a right to acquire in any way all or any part of, or interest
+  in, the
+  Business.
+
+  6.21Condition of Assets. All buildings, structures, improvements,
+  equipment that
+  are part of the Purchased Assets are structurally sound and, together
+  with all
+  other tangible personal property constituting the Purchased Assets, are
+  in good
+  operating condition and repair and are usable in the conduct of the
+  Business
+  consistent with past practice and conform to all applicable laws and
+  regulations
+  relating to their construction, use and operation.
+
+  6.22Affiliate Transactions. Schedule 6.22 hereto sets forth a summary of
+  all
+  purchases of goods or services by Affiliates of Seller for the three
+  years ended
+  December 31, 1999. Except as set forth in Schedule 6.22 hereto, Seller
+  and its Affiliates provide no services or products to the Business.
+
+
+  <PAGE>
+  6.23Environmental Matters.
+
+  6.23.1 Except as set forth in Schedule 6.23 hereto, Seller has not
+  received any
+  notice relating to the Business or the Real Property alleging any
+  violation of
+  any Environmental Law or any written request for information from any
+  governmental agency or other Person pursuant to any Environmental Law,
+  and Seller
+  is, with respect to the Business and the Real Property, in compliance
+  with all
+  applicable Environmental Laws;
+
+  6.23.2 Except as set forth in Schedule 6.23 hereto, there are no
+  Regulated
+  Substances released by Seller or, to Seller's knowledge, any other Person
+  on or
+  beneath the Real Property in quantities or concentrations that could give
+  rise
+  to obligations, responsibilities or liabilities of Seller or Purchaser
+  under any
+  Environmental Law;
+
+  6.23.3 Except as set forth in Schedule 6.23 hereto, Seller has not
+  received any
+  notice or order from any governmental agency or private or public entity
+  in
+  connection with the Business advising it that Seller is responsible for
+  or
+  potentially responsible for remediation or paying for the cost of
+  investigation
+  or remediation of any Regulated Substance, and Seller has not entered
+  into any
+  agreements pertaining thereto;
+
+  6.23.4 Except as set forth in Schedule 6.23 hereto, to Seller's
+  knowledge, the
+  Real Property does not contain any: (i) underground storage tanks; (ii)
+  underground injection wells; (iii) septic tanks in which process
+  wastewater or
+  any Regulated Substances have been disposed; (iv) asbestos; (v) equipment
+  using
+  PCBs; or (vi) drums buried in the ground; and
+
+  6.23.5 Schedule 6.23 hereto identifies all environmental studies,
+  analyses or
+  reports in the possession of Seller or its Affiliates relating to the
+  Real
+  Property, and true and complete copies thereof have been delivered to
+  Purchaser.
+
+  6.24Insurance. Schedule 6.24 sets forth a complete list of all insurance
+  policies maintained by Seller or its Affiliates with respect to the
+  Business for the past five years. Schedule 6.24 also sets forth a true
+  and correct summary of the loss
+
+
+  <PAGE>
+  experience for the past five years under each such policy.
+
+  6.25No Significant Items Excluded. Except for Excluded Assets, there are
+  no assets or properties of Seller or agreements, contract or commitments
+  to which Seller is a party not disclosed herein that relate to the
+  Business or the operations thereof.
+
+   6.26Completeness and Accuracy. All information set forth on any Schedule
+  hereto
+  is, and all information furnished by Seller pursuant to Section 8.1.9
+  hereof will
+  be, true, correct and complete. No representation or warranty of Seller
+  contained
+  in this Agreement contains or will contain any untrue statement of
+  material fact,
+  or omits or will omit to state any material fact necessary to make the
+  statements
+  made therein, in light of the circumstances under which they were made,
+  not
+  misleading. All contracts, permits and other documents and instruments
+  furnished
+  or made available to Purchaser by Seller are or will be true, complete
+  and
+  accurate originals or copies of originals and include all amendments,
+  supplements, waivers and modifications thereto. There is no fact,
+  development or
+  threatened development (excluding general economic factors affecting
+  business in
+  general) that Seller has not disclosed to Purchaser in this Agreement or
+  the
+  Schedules hereto that materially adversely affects or, so far as Seller
+  can now
+  foresee, may materially adversely affect, the Business, the Purchased
+  Assets, or
+  the prospects or condition (financial or otherwise) of the Business.
+
+                             ARTICLE VII
+             REPRESENTATIONS AND WARRANTIES OF PURCHASER
+
+  Purchaser hereby represents and warrants to Seller as follows:
+
+  7.1Organization, Good Standing, Power. Purchaser is a corporation duly
+  organized,
+  validly existing and in good standing under the laws of Delaware, is duly
+  authorized to conduct business in all foreign jurisdictions in which it
+  currently
+  conducts business, and has all requisite corporate power and authority to
+  own and
+  lease the Purchased Assets and to carry on the Business and to execute
+  and
+  deliver this Agreement and the Ancillary Agreements to which Purchaser is
+  a
+  party, to consummate the transactions contemplated hereby and thereby and
+  to perform all the terms and conditions hereof and thereof to be
+  performed by it.
+
+  <PAGE>
+
+  7.2Authorization of Agreement and Enforceability. Purchaser has taken all
+  necessary corporate action to authorize the execution and delivery of
+  this
+  Agreement and the Ancillary Agreements to which Purchaser is a party, the
+  performance by it of all terms and conditions hereof and thereof to be
+  performed
+  by it and the consummation of the transactions contemplated hereby and
+  thereby.
+  This Agreement constitutes, and the Ancillary Agreements, upon
+  Purchaser's
+  execution and delivery thereof, will constitute, the legal, valid and
+  binding
+  obligations of Purchaser, enforceable in accordance with their terms
+  except to
+  the extent that enforceability may be limited by bankruptcy, insolvency,
+  moratorium or other similar laws presently or hereafter in effect
+  relating to
+  affecting the enforcement of creditors' rights generally and by general
+  principles of equity (regardless of whether enforcement is considered in
+  a
+  proceeding in equity or at law).
+
+  7.3No Violations; Consents. The execution, delivery and performance by
+  Purchaser of this Agreement and the Ancillary Agreements to which
+  Purchaser is a party and the consummation of the transactions
+  contemplated hereby and thereby will not
+  (with or without the giving of notice or the lapse of time, or both) (i)
+  violate any provision of the charter or bylaws of Purchaser, (ii) violate
+  or require any consent, authorization or approval of, or exemption by, or
+  filing under any provision of any law, statute, rule or regulation to
+  which Purchaser is subject,(iii) violate any judgment, order, writ or
+  decree of any court applicable to
+  Purchaser, (iv) conflict with, result in a breach of, constitute a
+  default under, or accelerate or permit the acceleration of the
+  performance required by, or require any consent, authorization or
+  approval under any agreement, contract, commitment, lease or other
+  instrument, document or undertaking to which Purchaser is a party or any
+  of its assets is bound or (v) result in the creation or
+  imposition of any Encumbrance upon its assets.
+
+  7.4Legal Proceedings. There is no claim, action, suit, proceeding,
+  investigation or inquiry pending before any federal, state or other court
+  or governmental or administrative agency or, to Purchaser's knowledge,
+  threatened against Purchaser or any of Purchaser's properties, assets,
+  operations or businesses that might prevent or delay the consummation of
+  the transactions contemplated hereby.
+
+
+  7.5No Finder. Purchaser has not taken any action which would give to any
+  Person a right to a finder's fee or any type of brokerage commission in
+  relation to, or in connection with, the transactions contemplated by this
+  Agreement.
+
+
+
+
+  <PAGE>
+                             ARTICLE VIII
+              COVENANTS OF SELLER PRIOR TO CLOSING DATE
+
+  8.1Required Actions. Between the date of this Agreement and the Closing
+  Date, Seller covenants that it will, in its conduct of the Business,
+  except as otherwise agreed by Purchaser in writing.
+
+
+  8.1.1Access to Information. Give to Purchaser and its counsel,
+  accountants, consultants and other representatives, at their sole expense
+  and risk, reasonable access, during normal business hours, to such of the
+  properties, books, accounts, contracts and records of Seller as are
+  relevant to the Purchased Assets and the Business, and furnish or
+  otherwise make available to Purchaser all such information concerning the
+  Purchased Assets and the Business as Purchaser may
+  reasonably request, provided that the confidentiality of any data or
+  information so acquired shall be maintained as confidential by Purchaser
+  and its representatives in accordance with Section 9.1.1;
+
+  8.1.2Conduct of Business. Operate the Business only in the usual, regular
+  and ordinary manner as such Business was conducted prior to the date
+  hereof and, to the extent consistent with such operation, use its best
+  efforts until the Closing Date to (i) preserve and keep intact the
+  Business, (ii) keep available the services of the Employees and (iii)
+  preserve its relationships with customers,
+  suppliers and others having business dealings with Seller in connection
+  with the Business;
+
+  8.1.3Maintenance of Properties. Maintain the Purchased Assets, whether
+  owned or leased, in good repair, order and condition in accordance with
+  manufacturers' instructions and Seller's past practices, reasonable wear
+  and tear excepted;
+
+  8.1.4Maintenance of Books and Records. Maintain the Books and Records in
+  the usual, regular and ordinary manner, on a basis consistent with past
+  practice;
+
+  8.1.5Compliance with Applicable Law. Comply with all laws applicable to
+  the Purchased Assets and to the conduct of the Business;
+
+  8.1.6Performance of Obligations. Perform all the material obligations of
+  Seller relating to the Purchased Assets and the Business in accordance
+  with the past practices of Seller;
+
+  8.1.7Notice of Material Damage. Give to Purchaser prompt written notice
+  of any material damage by fire or other casualty upon the Purchased
+  Assets or  the
+  Business;
+
+  8.1.8Advise of Changes. Advise Purchaser promptly in writing of any fact
+  that, if known at the Closing Date, would have been required to be set
+  forth or disclosed in or pursuant to this Agreement, or which would
+  result in the breach in any material respect by Seller of any of its
+  representations, warranties, covenants or agreements hereunder;
+
+
+
+  <PAGE>
+  8.1.9Update Schedules. Promptly disclose to Purchaser any information
+  contained in the representations and warranties of Seller contained in
+  Article VI or in the Schedules to this Agreement which is no longer
+  complete or correct (including furnishing updated financial statements);
+  provided that no such disclosure shall be deemed to modify, amend or
+  supplement Seller's representations and warranties;
+
+  8.1.10 Pay Employees to Closing Date. Pay all wages, salaries and other
+  sums due Employees through the close of business on the day prior to the
+  Closing Date;
+
+  8.1.11 Termination. Terminate the employment of all Employees as of the
+  Closing Date; and
+
+  8.1.12 Compliance with Agreement. Not undertake any course of action
+  inconsistent with satisfaction of the conditions applicable to it set
+  forth in this Agreement, and use all reasonable efforts to do all such
+  acts and take all such measures as may be reasonably necessary to comply
+  with the representations, agreements, conditions and other  provisions of
+  this Agreement.
+
+  8.2Prohibited Actions. Between the date of this Agreement and the Closing
+  Date, in its conduct of the Business, Seller shall not, except as
+  otherwise agreed by Purchaser in writing:
+
+  8.2.1Sale of Purchased Assets. Sell, transfer, assign, lease, encumber or
+  otherwise dispose of any of the Purchased Assets other than in the
+  ordinary course of business consistent with past practices;
+
+  8.2.2Business Changes. Change in any material respect the character of
+  the Business;
+
+  8.2.3Incurrence of Material Obligations. Incur any material fixed or
+  contingent obligation or enter into any material agreement, commitment or
+  other transaction or arrangement that is not in the ordinary course of
+  business consistent with past practices;
+
+  8.2.4Incurrence of Liens. Subject any of the Purchased Assets to any
+  lien, security interest or other Encumbrance;
+
+   8.2.5Change in Employee Compensation and Benefits. Increase the rate of
+  compensation paid, or pay any bonus, to anyone connected with the
+  Business, except for those increase or bonuses planned, in the ordinary
+  course of business
+  consistent with past practices, or establish or adopt any new pension or
+  profit-sharing plan, deferred compensation agreement or employee benefit
+  arrangement of any kind whatsoever covering or affecting Employees;
+
+  8.2.6Publicity; Advertisement. Except as required by law, publicize,
+  advertise
+  or announce to any third party, except as required pursuant to this
+  Agreement to obtain the consent of such third party, the entering into of
+  this Agreement, the terms of this Agreement or the transactions
+  contemplated hereby;
+
+
+
+  <PAGE>
+
+  8.2.7No Release. Except in the ordinary course of business consistent
+  with past practices, cancel, release or relinquish any material debts of
+  or claims against others held by Seller with respect to the Business or
+  waive any material rights relating to the Business; and
+
+   8.2.8No Termination or Modification. Terminate or materially modify any
+  material lease, contract, governmental license, permit or other
+  authorization or agreement
+  affecting the Business or the Purchased Assets or the operation thereof.
+
+                             ARTICLE IX
+             COVENANTS OF PURCHASER PRIOR TO CLOSING DATE
+
+  9.1Required Actions. Between the date of this Agreement and the Closing
+  Date,
+  Purchaser shall, except as otherwise agreed by Seller in writing:
+
+  9.1.1Confidentiality. Not publish or disclose and not authorize or permit
+  any of
+  its officers, employees, directors, agents or representatives or any
+  third party
+  to publish or disclose any trade secrets or other Confidential
+  Information or any
+  data or business or financial books, records or other information of or
+  pertaining to Seller, which have been furnished to Purchaser by Seller or
+  to
+  which Purchaser, or any of its officers, employees, directors, agents,
+  attorneys
+  or accountants, or any financial institution have had access during any
+  investigation made in connection with this Agreement and which is not
+  otherwise
+  available to Purchaser, except as required by law;
+
+  9.1.2Advise of Changes. Advise Seller promptly in writing of any fact
+  that, if
+  known at the Closing Date, would have been required to be set forth or
+  disclosed
+  in or pursuant to this Agreement, or which would result in the breach by
+  Purchaser of any of its representations, warranties, covenants or
+  agreements
+  hereunder;
+
+  9.1.3Compliance with Agreement. Not undertake any course of action
+  inconsistent
+  with satisfaction of the conditions applicable to it set forth in this
+  Agreement,
+  and Purchaser shall use its best efforts to do all such acts and take all
+  such
+  measures as may be reasonably necessary to comply with the
+  representations,
+  agreements, conditions and other provisions of this Agreement; and
+
+  9.1.4Publicity; Advertisement. Except as required by law, including, but
+  not limited to, the laws, rules and regulations of the Securities and
+
+
+  <PAGE>
+  Exchange Commission, not publicize, advertise or announce to any third
+  party the entering
+  into of this Agreement, the terms of this Agreement or the transactions
+  contemplated hereby.
+
+  9.2Investigation. Prior to the Closing, Purchaser shall use reasonable
+  efforts
+  to conduct its investigation of the Business in such a manner as to
+  prevent
+  disruption of relations with the employees, customers and suppliers of
+  Seller.
+
+                              ARTICLE X
+           CONDITIONS PRECEDENT TO OBLIGATIONS OF PURCHASER
+
+  The obligations of Purchaser hereunder are subject to the fulfillment at
+  or prior
+  to the Closing of each of the following conditions:
+
+  10.1Accuracy of Representations and Warranties. The representations and
+  warranties of Seller contained in this Agreement shall have been true in
+  all
+  material respects on the date hereof and shall be true in all material
+  respects
+  on and as of the Closing Date with the same force and effect as though
+  made on
+  and as of the Closing Date.
+
+  10.2Performance of Agreement. Seller shall have performed in all material
+  respects all obligations and agreements and complied in all material
+  respects
+  with all covenants and conditions contained in this Agreement to be
+  performed or
+  complied with by it at or prior to the Closing Date.
+
+  10.3Seller's Certificate. Purchaser shall have received a certificate
+  from
+  Seller, dated as of the Closing Date, reasonably satisfactory in form and
+  substance to Purchaser and its counsel, certifying as to the matters
+  specified
+  in Section 10.1 and Section 10.2 hereof. The matters set forth in such
+  certificate shall constitute representations and warranties of Seller
+  hereunder.
+
+  10.4Secretary's Certificate. Purchaser shall have received a certificate,
+  dated
+  the Closing Date, of the Secretary or any Assistant Secretary of Seller
+  with
+  respect to the incumbency and specimen signature of each officer or
+  representative of Seller executing this Agreement, the certificate
+  referred to
+  in Section 10.3 and the Ancillary Agreements to which Seller is a party.
+
+  10.5Injunction. On the Closing Date, there shall be no injunction, writ,
+  preliminary restraining order or any order of any nature in effect issued
+  by a court of competent jurisdiction directing that the transactions
+
+  <PAGE>
+  provided for herein, or any of them, not be consummated as herein
+  provided and no suit, action, investigation, inquiry or other legal or
+  administrative proceeding by any governmental body or other Person shall
+  have been instituted or threatened which the questions of validity or
+  legality of the transactions contemplated hereby or
+  which if successfully asserted might otherwise have a material adverse
+  effect on the conduct of the Business or impose any additional material
+  financial obligation on, or require the surrender of any material right
+  by, Purchaser.
+
+  10.6Actions and Proceedings. All corporate actions, proceedings,
+  instruments and
+  documents required to carry out the transactions contemplated by this
+  Agreement
+  or incidental thereto and all other related legal matters shall be
+  reasonably
+  satisfactory to counsel for Purchaser, and such counsel shall have been
+  furnished
+  with such certified copies of such corporate actions and proceedings and
+  such
+  other instruments and documents as it shall have reasonably requested.
+
+  10.7Consents. Any third-party and governmental consents, approvals or
+  authorizations necessary for the conveyance of the Purchased Assets or
+  valid
+  consummation of the transactions contemplated hereby shall have been
+  obtained.
+
+  10.8Arrangements with Employees. Substantially all of the Employees shall
+  have
+  accepted employment with Purchaser effective on the Closing Date. In
+  addition,
+  Purchaser shall have received evidence from Seller, which is acceptable
+  in all
+  respects to Purchaser's legal counsel, that all contracts, agreements,
+  commitments and undertakings of the Seller with or for the benefit of any
+  Employee or former employee of the Seller have expired or have otherwise
+  been
+  terminated without, in either case, any liability to the Purchaser.
+
+  10.9Opinion of Counsel. Purchaser shall have received the favorable
+  opinion of
+  George G. Gardner, Esquire, counsel for Seller, satisfactory to Purchaser
+  and its counsel as to the matters set forth in Sections 6.1, 6.2 and 6.3
+  hereof and to such other matters reasonably required by the Purchaser,
+  including, but not limited to, that Seller has complied with any and all
+  laws relating to bulk transfers in connection with the transactions
+  contemplated hereby (or that such bulk transfer laws are inapplicable to
+  the transactions contemplated hereby) and that the Seller's use and the
+  Purchaser's contemplated use of the Real Property
+  is and shall be in compliance with all applicable zoning, subdivision and
+  land use laws and ordinances.
+
+  10.10Title Insurance. Purchaser shall have received a title insurance
+  policy issued by a reputable title insurance company selected by
+
+
+  <PAGE>
+  Purchaser at regular rates insuring its leasehold title to the Real
+  Property as good and marketable and free of all Encumbrances.
+
+  10.11 Environmental Site Assessment. Purchaser shall have received the
+  results of an environmental site assessment which confirms in all
+  respects the Seller's representations and warranties herein with respect
+  to environmental matters.
+
+  10.12Employment Agreements. Each of the Employees specified in Section
+  4.3 hereof shall have executed and delivered their respective Employment
+  Agreement to the Purchaser.
+
+  10.13Escrow Agreement. The Escrow Agreement shall have been duly executed
+  by all parties thereto and the money, certificates and other documents
+  described therein shall have been duly deposited as required therein.
+
+  10.14Ancillary Documents. All of the Ancillary Documents shall have been
+  duly executed and delivered by the parties thereto.
+
+  10.15Compliance with Bulk Transfer Laws. Evidence satisfactory to
+  Purchaser's  counsel that Seller has complied with any and all laws
+  relating to bulk transfers in connection with the transactions
+  contemplated hereby.
+
+  10.16Removal of Section 2.2.6 Excluded Assets. Seller shall have removed
+  from the
+  Real Property and returned all of the tangible personal property
+  described in
+  Section 2.2.6 to the owners thereof and evidence to Purchaser's legal
+  counsel
+  that Purchaser has no liability therefor.
+
+  10.17Name Change. Seller shall have changed its name to a name which, in
+  the
+  reasonable opinion of Purchaser, is not the same as or similar to
+  Seller's
+  present name, and Purchaser shall have determined that it is able to
+  change its
+  name to Seller's current name in Delaware and Kentucky.
+
+  10.18Susan Jacobson. Seller shall provide Purchaser's legal counsel with
+  evidence
+  satisfactory to such legal counsel in all respects that Seller has
+  appropriately
+  terminated Susan Jacobson from its medical benefits plan and that
+  Purchaser has
+  no liability therefor.
+
+                              ARTICLE XI
+          CONDITIONS PRECEDENT TO THE OBLIGATIONS OF SELLER
+
+  The obligations of Seller are subject to the fulfillment at or prior to
+  the Closing of each of the following conditions:
+
+
+
+  <PAGE>
+  11.1Accuracy of Representations and Warranties. The representations and
+  warranties of Purchaser contained in this agreement shall have been true
+  in all material respects on the date hereof and shall be true in all
+  material respects on and as of the Closing Date with the same force and
+  effect as though made on and as of the Closing Date.
+
+  11.2Performance of Agreement. Purchaser shall have performed in all
+  material respects all obligations and agreements and complied in all
+  material respects with all covenants and conditions contained in this
+  Agreement to be performed or complied with by it at or prior to the
+  Closing Date.
+
+  11.3Purchaser's Certificate. Seller shall have received a certificate
+  from Purchaser, dated as of the Date, reasonably satisfactory in form and
+  substance to Seller and its counsel, certifying as to the fulfillment of
+  all matters specified in Section 11.1 and Section 11.2 hereof. The
+  matters set forth in such certificate shall constitute representations
+  and warranties of Purchaser hereunder.
+
+  11.4Secretary's Certificate. Seller shall have received a certificate,
+  dated the Closing Date, of the Secretary or any Assistant Secretary of
+  Purchaser with respect to the incumbency and specimen signature each
+  officer or representative of Purchaser executing this Agreement, the
+  certificate referred to in Section 11.3 and the Ancillary Agreements to
+  which Purchaser is a party.
+
+  11.5Injunction. On the Closing Date, there shall be no injunction, writ,
+  preliminary restraining order or any order of any nature in effect issued
+  by a court of competent jurisdiction directing that the transactions
+  provided for herein, or any of them, not be consummated as herein
+  provided.
+
+   11.6Actions or Proceedings. All corporate actions, proceedings,
+  instruments and documents required to carry out the transactions
+  contemplated by this Agreement or incidental thereto and all other
+  related legal matters shall be reasonably satisfactory to counsel for
+  Seller, and such counsel shall have been furnished
+  with such certified copies of such corporate actions and proceedings and
+  such other instruments and documents as it shall have reasonably
+  requested.
+
+  11.7Consents. Any third-party and governmental consents, approvals or
+  authorizations necessary for the conveyance of the Purchased Assets or
+  the valid consummation of the transactions contemplated hereby shall have
+  been obtained.
+
+  11.8Opinion of Counsel. Seller shall have received the favorable opinion
+  of Laputka, Bayless, Ecker & Cohn, P.C., counsel for Purchaser,
+  satisfactory to  Seller and its counsel as to the matters set forth in
+  Sections 7.1, 7.2 and 7.3 hereof and to such other matters reasonably
+  required by Seller.
+
+  11.9Escrow Agreement. The Escrow Agreement shall have been duly executed
+  by all parties thereto and the money, certificates and other documents
+  described therein shall have been duly deposited as required therein.
+
+
+  <PAGE>
+  11.10Ancillary Documents. All of the Ancillary Documents shall have been
+  duly executed and delivered by the parties thereto.
+
+                             ARTICLE XII
+                  OBLIGATIONS AFTER THE CLOSING DATE
+
+  12.1Confidentiality. Seller hereby covenants and agrees that, except as
+  may be required by law, rule or regulation or court order, unless this
+  Agreement is terminated, it will not at any time reveal, divulge or make
+  known to any Person (other than Purchaser or its agents or Affiliates)
+  any information that relates to this Agreement, the transactions
+  contemplated hereby or the Business (whether
+  now possessed by Seller or furnished by Purchaser after the Closing
+  Date), including, but not limited to, customer lists or other customer
+  information, trade secrets or formulae, marketing plans or proposals,
+  financial information or any data, written material, records or documents
+  used by or relating to the Business that are of a confidential nature
+  (collectively, the "Confidential Information").
+
+  12.2Covenant Not to Interfere. Seller covenants and agrees that for a
+  period of five years after the Closing Date, Seller will not solicit for
+  employment by Seller or any Affiliate any Person tho is an employee of
+  the Business as of the Closing Date.
+
+  12.3Noncompetition. For a period of three years following the Closing
+  Date, Seller will not, directly or indirectly, unless acting in
+  accordance with Purchaser's written consent, own, manage, operate,
+  finance or participate in the ownership, management, operation or
+  financing of or permit its name to be used by or in connection with any
+  business or enterprise engaged in the providing or sale of the services
+  and/or products provided or sold by the Seller in connection
+  with the Business in the United States of America. Seller acknowledges
+  that the provisions of this Section are reasonable and necessary to
+  protect the interests of Purchaser, that any violation of this Section
+  will result in an irreparable injury to Purchaser and that damages at law
+  would not be reasonable or adequate compensation to Purchaser for
+  violation of this Section and that in addition to any other available
+  remedies, Purchaser shall be entitled to have the provisions of this
+  Section specifically  enforced by preliminary and permanent injunctive
+  relief without the necessity of proving actual damages or posting a bond
+  or other security and to an equitable accounting of all earnings, profits
+  and other benefits arising out of any violation of this Section. In the
+  event that the provisions of this Section shall ever be deemed to exceed
+  the time, geographic, product or other limitations permitted by
+  applicable law, then the provisions shall be deemed reformed to the
+  maximum extent permitted by applicable law.
+
+  12.4Transition of Employees. From and after the Closing Date, Purchaser
+  and Seller shall cooperate to ensure an orderly transition of the
+  Employees who accept employment with Purchaser.
+
+  12.5Administrative Assistance by Seller. Except as otherwise agreed,
+  without cost to Purchaser Seller shall provide such accounting, data
+  processing and other support services to Purchaser as are reasonably
+  required in connection with the transfer of the Business to Purchaser for
+  a period of not more than sixty (60) days following the Closing Date and
+
+  <PAGE>
+  thereafter for an additional period of up to one hundred twenty (120)
+  days at a reasonable cost to be negotiated. Seller shall
+  cooperate with Purchaser's auditors in connection with the preparation of
+  any report or filing required in connection with the transactions
+  contemplated hereby, such cooperation to be provided by Seller at no cost
+  to Purchaser.
+
+  12.6Further Assurances of Seller. From and after the Closing Date, Seller
+  shall, at the request of Purchaser, execute, acknowledge and deliver to
+  Purchaser, without further consideration, all such further assignments,
+  conveyances, endorsements, deeds, special powers of attorney, consents
+  and other documents,and take such other action, as Purchaser may
+  reasonably request (i) to transfer
+  to and vest in Purchaser, and protect is rights, title and interest in,
+  all the Purchased Assets and (ii) otherwise to consummate the
+  transactions contemplated by this Agreement. In addition, from and after
+  the Closing Date, Seller shall afford Purchaser and its attorneys,
+  accountants and other representatives access,
+  during normal business hours, to any books and records relating to the
+  Business that Seller may retain as may reasonably be required in
+  connection with the preparation of financial information or tax returns
+  of Purchaser.
+
+  12.7Further Assurances of Purchaser. For a period of seven (7) years from
+  and after the Closing Date, Purchaser shall afford to Seller and its
+  attorneys, accountants and other representatives access, during normal
+  business hours, to such books and records relating to the Business as may
+  reasonably be required in connection with the preparation of financial
+  information for periods concluding on or prior to the Closing Date.
+  Purchaser shall cooperate in all reasonable respects with Seller with
+  respect to its former interest in the Business and in
+  connection with financial account closing and reporting and claims and
+  litigation asserted by or against third parties, including, but not
+  limited to, making employees available at reasonable times to assist
+  with, or provide information in connection with financial account closing
+  and reporting and claims and litigation, provided, that Seller reimburses
+  Purchaser for its reasonable out-of-pocket expenses (including costs of
+  employees so assisting) in connection therewith.
+
+  12.8Retention of and Access to Records: Cooperation. For a period of not
+  less than seven (7) years after the Closing Date, Purchaser shall
+  preserve and retain the corporate, accounting, legal, auditing and other
+  books and records of the Business (including but not limited to, any
+  governmental or non-governmental actions, suits, proceedings or
+  investigations arising out of the conduct of the
+  business and operations of the Business prior to the Closing Date);
+  provided, however, that such 7-year period shall be extended in the event
+  that any action, suit, proceedings or investigation has been commenced or
+  is pending or threatened
+  at the termination of such 7-year period and such extension shall
+  continue until any such action, suit, proceeding or investigation has
+  been settled through
+  judgement or otherwise or is no longer pending or threatened.
+  Notwithstanding the foregoing, Purchaser may discard or destroy any of
+  such books and records prior to the end of such 7-year period or period
+  of extension, if applicable, if it has given Seller sixty (60) days'
+
+  <PAGE>
+  prior written notice of its intent to do so and
+  Seller has not taken possession of such books and records, at its
+  expense, within such 60-day period. Notwithstanding anything to the
+  contrary in this Section 12.8, Seller shall retain all tax records of the
+  Business prepared prior to the Closing Date. Purchaser shall provide
+  reasonable access to Seller to review any records that Purchaser retains
+  and to make copies thereof and shall cooperate fully with Seller
+  (including, without limitation, making available employees to assist
+  Seller at reasonable rates to be agreed by the Parties) in preparation
+  and documentation of all necessary financial statements, tax returns and
+  reports or the resolution of any tax audits, claims, litigation or
+  disputes concerning Seller's tax liabilities or the Assumed Liabilities.
+
+  12.9Accounts Receivable Payment. In the event that either Party hereto at
+  any time receives any funds from any third party that are properly
+  payable to the other Party hereto, the Party receiving such funds shall
+  promptly remit such funds to the Party entitled to such funds.
+
+  12.10Contingent Additional Consideration.
+  12.10.1 As contingent additional consideration for the Purchased Assets,
+  for the Purchaser's fiscal year 2001 (April 1, 2000 through March 31,
+  2001), and during that time only, the Purchaser shall establish, and the
+  Employees specifically named in Section 4.3 hereof (Donald Adams, Wayne
+  McMahon and Carl Jacobson) shall
+  have the right to participate in a sales and profit incentive plan in
+  accordance
+  with the following:
+
+  (i)If, at the end of the Purchaser's fiscal year 2001, the Purchaser's
+  gross sales, as determined in accordance with GAAP, equal Two Million
+  ($2,000,000.00)Dollars, each such Employee will receive his proportionate
+  share (Donald Adams: 40%, Wayne McMahon: 30%, Carl Jacobson: 30%) of the
+  $100,000.00 sales incentive award described in the Memorandum of
+  Understanding between the Parties first
+  dated January 26, 2000 (the "MEMORANDUM OF UNDERSTANDING"), sixty (60%)
+  percent of which shall be payable in cash and the remaining forty (40%)
+  percent paid in EMCEE Restricted Stock, based on the fair market value
+  thereof determined by calculating the average of the median price of such
+  stock at the close of each of the five (5) trading days immediately
+  preceding March 31, 2001. If the
+  Purchaser's gross sales are less than Two Million ($2,000,000.00) Dollars
+  but more than One Million ($1,000,000.00) Dollars during such time, the
+  aforementioned sales incentive award shall be reduced prorata. Such
+  Employees shall be entitled to no sales incentive award if the
+  Purchaser's gross sales for fiscal year 2001 do not exceed One Million
+  ($1,000,000.00) Dollars. If the Purchaser's gross sales in fy 2001 exceed
+  Two Million ($2,000,000.00) Dollars, the aforementioned sales incentive
+  award shall increase prorata (calculated based
+  on a 50% increase in the sales incentive award per each $1,000,000.00 in
+  gross sales which exceed the $2,000,000.00 fy 2001 target gross sales
+  figure), provided that the Purchaser's pre-tax profit in fy 2001
+  (determined in accordance with (GAAP) equals or exceeds seven and
+  one-half (7.5%) percent of gross sales.
+
+  (ii)In addition to the foregoing, if, at the end of the Purchaser's fy
+  2001, the Purchaser's pre-tax profit, as determined in accordance with
+
+  <PAGE>
+  GAAP, equals or exceeds Two Hundred Thousand ($200,000.00) Dollars, each
+  such Employee will receive his proportionate share (Donald Adams: 40%,
+  Wayne McMahon: 30%, Carl
+  Jacobson: 30%) of the $100,000.00 profit incentive award described in the
+  Memorandum of Understanding, sixty (60%) percent of which shall be
+  payable in
+  cash and the remaining forty (40%) percent which shall be paid in EMCEE
+  Restricted Stock, based on the fair market value thereof determined by
+  calculating the average of the median price of such stock at the close of
+  each
+  of the five (5) trading days immediately preceding March 31, 2001. If the
+  Purchaser's pre-tax profit in fy 2001 is less than Two Hundred Thousand
+  ($200,000.00) Dollars but greater than Fifty Thousand ($50,000.00)
+  Dollars, the
+  aforementioned profit incentive award shall be reduced prorata. Such
+  Employees
+  shall be entitled to no profit incentive award if the Purchaser's pre-tax
+  profit
+  in fy 2001 is Fifty Thousand ($50,000.00) Dollars or less.
+
+  12.10.2 The Purchaser shall determine the amount, if any, of the sales
+  incentive
+  award and/or profit incentive award due the Employees named above in
+  accordance
+  with this Section 12.10. The Purchaser's determination of such amounts
+  shall be
+  deemed conclusive and correct for all purposes absent manifest error.
+
+  12.10.3  If an Employee's employment with the Purchaser shall end for any
+  reason
+  prior to March 31, 2001, he shall forfeit a portion of his proportionate
+  share
+  of any sales incentive or profit incentive award otherwise payable, which
+  forfeited portion shall be determined by dividing the number of days of
+  the
+  Purchaser's fy 2001 during which the Employee was not employed by the
+  Purchaser
+  by 365, and then multiplying the quotient of that equation (expressed as
+  a
+  percentage) by the Employee's proportionate share of the award. Such
+  forfeited
+  portion shall be forfeited for all purposes and shall not be available or
+  subject
+  to distribution among any of the other Employees named above.
+
+  12.10.4 Sales and profit incentive plan award payments due hereunder, if
+  any,
+  will be made within one hundred twenty (120) days after the end of the
+  Purchaser's fy 2001.
+
+
+
+
+
+
+
+
+  <PAGE>
+                          ARTICLE XIII
+                          TERMINATION
+
+  13.1Termination of Agreement. This Agreement may be terminated:
+
+  (i)by the mutual consent of Seller and Purchaser;
+
+  (ii)by Seller or Purchaser if the Closing has not taken place on or
+  before April
+  17, 2000; provided, however, that no Party then in breach of any of its
+  obligations hereunder shall have the right to terminate;
+
+  (iii)by Purchaser upon notice to Seller if any of the conditions set
+  forth in
+  Article X hereof have not been satisfied by on or before the Closing
+  Date; and
+
+  (iv)by Seller upon notice to Purchaser if any or the conditions set forth
+  in
+  Article XI hereof have not been satisfied by on or before the Closing
+  Date.
+
+  13.2Return of Documents. If this Agreement is terminated for any reason
+  pursuant
+  to this Article XIII, each Party shall return to the other Party all
+  documents
+  and copies thereof which shall have been furnished to it by such other
+  Party or,
+  with the agreement of the other Party, shall destroy all such documents
+  and
+  copies thereof and certify in writing to the other Party any such
+  destruction.
+  The obligations of Purchaser under Section 9.1.1 hereof shall survive
+  termination
+  of this Agreement.
+
+  13.3Remedies. If this Agreement is terminated by Seller or Purchaser as
+  permitted
+  under Section 13.1 and not as a result of a breach of a representation or
+  warranty or the failure of any Party to perform its obligations
+  hereunder, such
+  termination shall be without liability of any Party. If a Party
+  terminates this
+  Agreement as a result of a breach of a representation or warranty by the
+  other
+  Party or the failure of the other Party to perform its obligations
+  hereunder, the
+  non-breaching Party, in addition to any other legal remedies that may be
+  available, shall be entitled to reimbursement from the breaching Party
+  for all
+  expenses incurred by the non-breaching Party in connection with this
+  Agreement
+  and the transactions contemplated hereby, including, without limitation,
+  attorneys' fees and accountants' fees.
+
+
+
+  <PAGE>
+                             ARTICLE XIV
+                     SURVIVAL OF REPRESENTATIONS
+                   AND WARRANTIES; INDEMNIFICATION
+
+  14.1Survival of Representations and Warranties. All representations,
+  warranties,
+  covenants, agreements, undertakings, and indemnities set forth in this
+  Agreement
+  shall survive the Closing Date. Any Party's right to indemnification or
+  other
+  remedies based upon the representations and warranties, covenants,
+  agreements and
+  undertakings of the other Party will not be affected by any
+  investigation,
+  knowledge or waiver of any condition by such Party. Any investigation by
+  such
+  Party shall be for its own protection only and shall not affect or impair
+  any
+  right or remedy hereunder.
+
+   14.2Indemnification by Seller. "Seller General Liabilities" shall mean
+  all
+  Losses resulting from, arising out of, or incurred by Purchaser or any of
+  its
+  Affiliates, or any of their respective successors or assigns and their
+  respective
+  directors, officers and employees (each a "Purchaser Indemnified Party")
+  after
+  the Closing Date in connection with (i) any breach of any of the
+  representations
+  or warranties made by Seller in this Agreement, (ii) any default by
+  Seller in
+  respect of performance of any of the covenants or agreements of Seller in
+  this
+  Agreement or (iii) any attempt (whether or not successful) by any Person
+  to cause
+  or require Purchaser to pay any liability of, or claim against, Seller of
+  any
+  kind in respect of the operation of the Business prior to the Closing
+  Date, to
+  the extent not specifically assumed or subject to an indemnity by
+  Purchaser under
+  the terms of this Agreement. Subject to the further provisions of this
+  Article
+  XIV, Seller covenants and agrees with Purchaser that Seller shall pay and
+  shall indemnify all Purchaser Indemnified Parties and hold them harmless
+  from, against
+  and in respect of, any and all Seller General Liabilities.
+
+  14.3Indemnification by Purchaser. "Purchaser General Liabilities" shall
+  mean all
+  Losses resulting from, arising out of, or incurred by any of Seller or
+  its Affiliates, or any of their respective successors or assigns and
+  their respective directors, officers and employees (each a "Seller
+  Indemnified Party") after the Closing Date in connection with (i) any
+  breach of any of the representations or warranties made by Purchaser in
+
+  <PAGE>
+   this Agreement, (ii) any default by Purchaser in
+  respect of any of the covenants or agreements of Purchaser in this
+  Agreement,
+  (iii) any attempt (whether or not successful) by any Person to cause or
+  require
+  Seller to pay or discharge any Assumed Liability or any liability of, or
+  claim
+  against, Purchaser of any kind in respect of the operation of the
+  Business on or
+  after the Closing Date to the extent not specifically subject to an
+  indemnity by
+  Seller under the terms of this Agreement. Purchaser covenants and agrees
+  with
+  Seller that Purchaser shall pay and shall indemnify all Seller
+  Indemnified
+  Parties and hold them harmless from, against and in respect of, any and
+  all
+  Purchaser General Liabilities.
+
+  14.4Procedures for Indemnification.
+
+  14.4.1 Each Indemnified Party shall promptly give notice hereunder to the
+  indemnifying Party after becoming aware of any claim as to which recovery
+  may be
+  sought against the indemnifying Party because of the  indemnity in this
+  Article
+  XIV, and, if such indemnity shall arise from the claim of a third party,
+  shall
+  permit the indemnifying Party to assume the defense of any such claim and
+  any
+  litigation or other proceeding resulting from such claim; provided, that
+  any
+  Indemnified Party may, in any event, at its own expense, monitor and
+  participate
+  in, but not control, the defense of any such claim or litigation.
+  Notwithstanding
+  the foregoing, the right to indemnification hereunder shall not be
+  affected by
+  any failure of an Indemnified Party to give such notice (or by delay by
+  an
+  Indemnified Party in giving such notice) unless, and then only to the
+  extent
+  that, the rights and remedies of the indemnifying Party shall have been
+  prejudiced as a result of the failure to give, or delay in giving, such
+  notice.
+  The notice required hereunder shall specify the basis for the claim for
+  indemnification to the extent ascertainable at the time of the notice.
+  Failure
+  by an indemnifying Party to notify an Indemnified Party of its election
+  to defend
+  any such claim or action by a third party within thirty (30) days after
+  notice
+  thereof shall have been given to the indemnifying Party shall be deemed a
+  waiver
+  by the indemnifying Party of its right to defend such claim or action.
+  Nothing
+
+  <PAGE>
+  herein shall be deemed to prevent an Indemnified Party from making a
+  contingent
+  claim for indemnification hereunder, provided the Indemnified Party has
+  reasonable grounds to believe that the claim or demand for
+  indemnification will
+  be made and sets forth the estimated amount of such claim to the extent
+  then
+  ascertainable.
+
+  14.4.2 The indemnifying Party shall not, in the defense of such claim or
+  any
+  litigation resulting therefrom, consent to entry of any judgment (other
+  than a
+  judgment of dismissal on the merits without costs) or enter into any
+  settlement,
+  except with the written consent, which consent shall not be unreasonably
+  withheld, of the Indemnified Party, which does not include as an
+  unconditional
+  term thereof the giving by the claimant or the plaintiff to the
+  Indemnified Party
+  a release from all liability in respect of such claim or litigation.
+
+  14.4.3 If the indemnifying Party shall not assume the defense of any such
+  claim
+  by a third party, or litigation resulting therefrom, after receipt of
+  notice from
+  the Indemnified Party, the Indemnified Party may defend against such
+  claim or
+  litigation in such manner as it deems appropriate.
+
+  14.4.4 If an indemnifying Party shall not, within thirty (30) days after
+  its
+  receipt of the notice required by Section 14.4.1 hereof, advise the
+  Indemnified
+  Party that the indemnifying Party denies the right of the Indemnified
+  Party  to
+  indemnity in respect of the claim, then the amount of such claim shall be
+  deemed to be finally determined between the Parties hereto. If the
+  indemnifying Party
+  shall notify the Indemnified Party that it disputes any claim made by the
+  Indemnified Party, then the Parties hereto shall endeavor to settle and
+  compromise such claim, and if unable to agree on any settlement or
+  compromise,
+  such claim for indemnification shall be settled by appropriate
+  litigation, and
+  any liability established by reason of such settlement, compromise or
+  litigation
+  shall be deemed to be finally determined. Any claim that is finally
+  determined
+  in the manner set forth above shall be paid promptly by the indemnifying
+  Party
+  in cash.
+
+  14.5Payment of Indemnification Obligations. Each Party shall pay promptly
+  to any Indemnified Party the amount of all damages, losses, deficiencies,
+  liabilities, costs, expenses, claims and other obligations to which the
+
+  <PAGE> foregoing indemnity relates.
+
+  14.6Interest on Unpaid Obligations. If all or part of any indemnification
+  obligation under this Agreement is not paid when due, the indemnifying
+  Party shall pay the Indemnified Party interest on the unpaid amount of
+  such obligation for each day from the date the amount became due until it
+  is paid in full, payable on demand, at the rate equal to the lower of (i)
+  the maximum rate permitted by law or (ii) five percent (5%) per annum
+  plus the "Prime Rate" as announced from time to time by First Union Bank,
+  N.A., (or in the absence of such
+  announced "Prime Rate", the "Prime Rate" as published from time to time
+  in The Wall Street Journal).
+
+  14.7Other Remedies. The indemnification rights of any Indemnified Party
+  under this Article XIV are independent of and in addition to such rights
+  and remedies as such Indemnified Party may have at law, in equity or
+  otherwise for any misrepresentation, breach of warranty or failure to
+  fulfill any covenant or agreement under or in connection with this
+  Agreement on the part of any Party, none of which rights or remedies
+  shall be affected or diminished hereby.
+
+                              ARTICLE XV
+                               GENERAL
+
+  15.1Expenses. Except as otherwise provided in this Agreement, and whether
+  or not
+  the transactions herein contemplated shall be consummated, Purchaser and
+  Seller
+  shall pay their own fees, expenses and disbursements, including the fees
+  and
+  expenses of their respective counsel, accountants and other experts, in
+  connection with the subject matter of this Agreement and all other costs
+  and
+  expenses incurred in performing and complying with all conditions to be
+  performed
+  under this Agreement.
+
+  15.2Publicity. All notices to third parties and all other publicity
+  concerning
+  the transactions contemplated by this Agreement shall be jointly planned
+  and
+  coordinated by and between Purchaser and Seller, except any such notices
+  which
+  Purchaser is required to give under any of the rules or regulations of
+  the
+  Securities and Exchange Commission. Except as may be required by law, no
+  Party
+  shall act unilaterally in this regard without the prior written approval
+  of the
+  other Party, such approval not to be unreasonably withheld.
+
+  15.3Waivers. The waiver by either Party hereto of a breach of any
+  provision of this Agreement shall not operate or be construed as a waiver
+  of any subsequent breach.
+
+
+
+
+  <PAGE>
+  15.4Binding Effect; Benefits. This Agreement shall inure to the benefit
+  of the
+  Parties hereto, and shall be binding upon the Parties hereto and their
+  respective
+  successors and assigns. Nothing in this Agreement, express or implied, is
+  intended to confer on any Person other than the Parties hereto, or their
+  respective successors and assigns, any rights, remedies, obligations or
+  liabilities under or by reason of this Agreement.
+
+  15.5Bulk Transfers Laws. Seller hereby covenants and agrees to comply
+  with any and all laws relating to bulk transfers with respect to the
+  transactions contemplated hereby, and Purchaser will, upon request,
+  provide Seller with its reasonable cooperation in connection therewith.
+
+  15.6Notices. All notices, requests, demands, elections and other
+  communications
+  which either Party to this Agreement may desire or be required to give
+  hereunder
+  shall be in writing and shall be deemed to have been duly given if
+  delivered
+  personally, by a reputable commercial courier service (such as FedEx or
+  U.P.S.),
+  by mailing the same by registered or certified first class mail, postage
+  prepaid,
+  return receipt requested, or by telecopying with receipt confirmation
+  (followed
+  by a first class mailing of the same) to the Party to whom the same is so
+  given
+  or made. Such notice, request, demand, waiver, election or other
+  communication
+  will be deemed to have been given as of the date so delivered or
+  electronically
+  transmitted or seven (7) days after mailing thereof.
+
+  15.6.1 If to Seller, to:
+
+  Advanced Broadcast Systems, Inc.
+  5825 Bullitsville Road
+  Burlington, KY 41005
+
+  With a copy to:
+
+  George G. Gardner, Esquire
+  7415 Burlington Pike, Suite B
+  Florence, KY 41042
+
+  15.6.2 If to Purchaser, to:
+
+  EMCEE Holding Corp.
+  c/o EMCEE Broadcast Products, Inc.
+  P.O. Box 68
+  White Haven, PA  18661-0068
+
+
+
+
+
+  <PAGE>
+  With a copy to:
+
+  Robert S. Sensky, Esquire and Martin D. Cohn, Esquire
+  LAPUTKA, BAYLESS, ECKER & COHN, P.C.
+  2 East Broad Street, 6th Floor
+  Hazleton, PA 18201
+
+
+                 or to such other address as such Party
+                 shall have specified by notice to the other
+                 Party hereto.
+
+  15.7Entire Agreement. This Agreement (including the Exhibits and
+  Schedules
+  hereto) and the documents delivered pursuant hereto constitute the entire
+  agreement and understanding between the Parties hereto as to the matters
+  set
+  forth herein and supersede and revoke all prior agreements and
+  understandings,
+  oral and written, between the Parties hereto or otherwise with respect to
+  the
+  subject matter hereof. No change, amendment, termination or attempted
+  waiver of
+  any of the provisions hereof shall be binding upon any Party unless set
+  forth in
+  an instrument in writing signed by the Party to be bound or their
+  respective
+  successors in interest.
+
+  15.8Counterparts. This Agreement may be executed simultaneously in two or
+  more counterparts, each of which shall be deemed an original and all of
+  which together shall constitute but one and the same instrument.
+
+  15.9Headings. The article, section and other headings contained in this
+  Agreement are for reference purposes only and shall not be deemed to be a
+  part of this Agreement or to affect the meaning or interpretation of this
+  Agreement.
+  15.10Construction. Within this Agreement, the singular shall include the
+  plural
+  and the plural shall include the singular, and any gender shall include
+  all other
+  genders, all as the meaning and the context of this Agreement shall
+  require.
+
+  15.11Governing Law and Choice of Forum. The validity and interpretation
+  of this Agreement shall be construed in accordance with, and governed by
+  the internal laws of the Commonwealth of Pennsylvania. All claims,
+  disputes or causes of  action relating to or arising out of this
+  Agreement shall be brought, heard and resolved solely and exclusively by
+  and in a federal or state court situated in Luzerne County, Pennsylvania.
+  Each of the parties hereto agrees to submit to the
+  jurisdiction of such courts and that such jurisdiction shall be proper
+  for all purposes of this Agreement.
+
+
+
+
+  <PAGE>
+  15.12Cooperation. The Parties hereto shall cooperate fully at their own
+  expense, except as otherwise provided in this Agreement, with each other
+  and their respective counsel and accountants in connection with all steps
+  to be taken as part of their obligations under this Agreement.
+
+  15.13Severability. If any term, covenant, condition or provision of this
+  Agreement or the application thereof to any circumstance shall be invalid
+  or unenforceable to any extent, the remaining terms, covenants,
+  conditions and provisions of this Agreement shall not be affected thereby
+  and each remaining term, covenant, condition and provision of this
+  Agreement shall be valid and
+  shall be enforceable to the fullest extent permitted by law. If any
+  provision of this Agreement is so broad as to be unenforceable, such
+  provision shall be interpreted to be only as broad as is enforceable.
+
+  15.14Attorneys Fees. If a dispute arises among the Parties as a result of
+  which an action is commenced to interpret or enforce any of the terms of
+  this Agreement, the losing Party shall pay to the prevailing Party
+  reasonable out-of-pocket attorneys' fees, costs and expenses incurred in
+  connection with the
+  prosecution or defense of such action.
+
+  15.15Successors and Assigns. The covenants, agreements and conditions
+  contained
+  herein or granted hereby shall be binding upon and shall inure to the
+  benefit of
+  Purchaser and Seller, and each of their respective successors and
+  permitted
+  assigns. Neither Seller nor Purchaser shall assign, or otherwise transfer
+  any
+  interest in this Agreement to any other Person except for a Person which
+  is an
+  Affiliate of Purchaser or a purchaser of the Purchased Assets from
+  Purchaser.
+
+  IN WITNESS WHEREOF, the Parties have caused this Agreement to be signed
+  in their
+  respective names by an officer thereof duly authorized as of the date
+  first above
+  written.
+
+  ATTEST:                          EMCEE HOLDING CORP.
+  /s/ Robert S. Sensky             BY: /s/ Allan J. Harding
+  Corporate Secretary              NAME: Allan J. Harding
+       (SEAL)                      TITLE: President
+
+  ATTEST:                             ADVANCED BROADCAST SYSTEMS, INC.
+
+  /s/ Hilda A. Adams               BY: /s/Donald Adams
+  Corporate Secretary              NAME: Donald Adams
+       (SEAL)                      TITLE: President
+  <PAGE>                     ENDORSEMENT
+
+  THE UNDERSIGNED, for value received, and intending to be legally bound
+  hereby, unconditionally and irrevocably guarantee and agree, jointly and
+  severally, to act as surety for the performance by Advanced Broadcast
+  Systems, Inc. ("ABS") of all of its covenants, agreements, undertakings,
+  obligations to satisfy conditions, and indemnities set forth in an Asset
+  Purchase Agreement of even date herewith (the "Asset Purchase Agreement")
+  between ABS and EMCEE Holding Corp. ("EMCEE"). Any claim, suit, action,
+  proceeding, right or remedy founded upon or made under or with respect to
+  this instrument may be pursued against any or all of the undersigned
+  without EMCEE having previously pursued or exhausted any or all of its
+  claims, suits, actions, proceedings, rights or remedies against ABS or
+  any other person, and any extension by EMCEE of the time for payment or
+  performance of any obligation or liability of ABS hereby guaranteed by
+  the undersigned shall not release the undersigned from his guaranty
+  thereof, nor shall it impair any claim, suit, action, proceeding, right
+  or remedy for the enforcement thereof by EMCEE, its successors and
+  assigns.
+  The monetary liability of the undersigned under this instrument is
+  unlimited. This instrument shall remain in full force and effect for a
+  period of five years from the date hereof. After such 5-year period, this
+  instrument shall
+  automatically expire; provided, however, that such expiration shall not
+  release or discharge the undersigned from any liability or otherwise
+  limit or alter the undersigned's liability with respect to any claim
+  arising or made by EMCEE hereunder prior to such expiration.
+
+  IN WITNESS WHEREOF, this instrument, which is intended by the undersigned
+  to be a contract of suretyship and which shall continue in full force and
+  effect until revoked by EMCEE in writing, has been duly executed and
+  delivered on this 17th day of April, 2000.
+
+  WITNESS:                         DONALD ADAMS
+
+  _________________________         /s/ Donald Adams
+
+  WITNESS:                         HILDA ADAMS
+  _________________________         /s/ Hilda Adams
+
+  WITNESS:                         WAYNE MCMAHON
+
+  _________________________         /s/ Wayne McMahon
+
+  WITNESS:                           CARL JACOBSON
+
+  _________________________           /s Carl Jacobson
+
+                 EXHIBITS AND SCHEDULES NOT INCLUDED
+                      BUT AVAILABLE UPON REQUEST
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-10
+<SEQUENCE>3
+<FILENAME>0003.txt
+<TEXT>
+
+
+                          R.F. INTERNET SYSTEMS, INC.
+
+                   Susquehanna Street Extension
+                      White Haven, PA 18661
+                          (570) 443-9575
+                       Fax: (570) 443-9237
+
+                       WINBEAM INCORPORATED
+
+                      SUBSCRIPTION AGREEMENT
+
+The undersigned, R.F. Internet Systems, Inc. an affiliate of EMCEE Broadcast
+Products, Inc. does hereby subscribe for and agree to take a total of Fifty
+Thousand (50,000) shares of the common stock of WinBeam Incorporated, a
+Pennsylvania corporation in consideration of Five Dollars ($5.00) per share, the
+total purchase price of such stock being $250,000, payment of which shall be
+made in good and certified funds.
+
+Dated as of March 24, 2000
+
+                            /s/ Allan J. Harding
+                            Allan J. Harding
+                            Vice President
+
+The foregoing subscription is
+acceptance as ofthe   31st   day
+of    March  , 2000, on behalf
+of WinBeam, Incorporated
+
+/s/ Terrance B. Michael
+Terrance B. Michael President
+
+
+
+
+
+
+
+
+
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-21
+<SEQUENCE>4
+<FILENAME>0004.txt
+<TEXT>
+
+
+                  EMCEE BROADCAST PRODUCTS, INC.
+                         AND SUBSIDIARIES
+
+SUBSIDIARIES OF EMCEE BROADCAST PRODUCTS, INC.
+
+
+The following constitute all of the Registrant's subsidiary corporations:
+
+1. EMCEE Cellular Inc., a Delaware corporation;
+
+2. EMCEE Export Sales Company, Inc., a Delaware corporation (this corporation is
+a wholly owned subsidiary of EMCEE Cellular Inc.);
+
+3.R.F. Systems, Inc., a Delaware corporation (this corporation is a wholly owned
+subsidiary of EMCEE Cellular Inc.);
+
+4.R.F. Internet Systems, Inc., a Nevada corporation (this corporation is a
+wholly owned subsidiary of EMCEE Cellular Inc.);
+
+5.Universal Rapid Access, LLC (this limited liability company is a partially
+owned subsidiary of R.F. Internet Systems, Inc., which owns 16.14% of the
+outstanding equity of the limited liability
+company);
+
+6. EMCEE Broadcast Products (Chengdu) Company, Ltd. (the Registrant owns 25% of
+the issued and outstanding capital stock of this corporation);
+
+7. Grand Forks Wireless, L.L.C. (this limited liability company is a partially
+owned subsidiary of R.F. Internet Systems, Inc., which owns 50% of the
+outstanding equity of the limited liability company); and
+
+8. Advanced Broadcast Systems, Inc., a Delaware corporation (this corporation is
+a wholly owned subsidiary of EMCEE Cellular Inc.).
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-27
+<SEQUENCE>5
+<FILENAME>0005.txt
+<TEXT>
+
+<TABLE> <S> <C>
+
+<ARTICLE> 5
+<CIK> 0000032312
+<NAME> EMCEE BROADCAST PRODUCTS, INC.
+
+<S>                             <C>
+<PERIOD-TYPE>                   12-MOS
+<FISCAL-YEAR-END>                          MAR-31-2000
+<PERIOD-END>                               MAR-31-2000
+<CASH>                                         261,304
+<SECURITIES>                                 1,773,600
+<RECEIVABLES>                                1,522,279
+<ALLOWANCES>                                    70,000
+<INVENTORY>                                  3,080,313
+<CURRENT-ASSETS>                             7,269,609
+<PP&E>                                       2,789,358
+<DEPRECIATION>                               2,249,467
+<TOTAL-ASSETS>                               9,101,948
+<CURRENT-LIABILITIES>                        1,191,070
+<BONDS>                                              0
+<COMMON>                                        73,450
+<PREFERRED-MANDATORY>                                0
+<PREFERRED>                                          0
+<OTHER-SE>                                   7,241,074
+<TOTAL-LIABILITY-AND-EQUITY>                 9,101,948
+<SALES>                                      4,738,493
+<TOTAL-REVENUES>                             4,738,493
+<CGS>                                        3,738,735
+<TOTAL-COSTS>                                6,141,109
+<OTHER-EXPENSES>                              (48,419)
+<LOSS-PROVISION>                                41,901
+<INTEREST-EXPENSE>                              57,724
+<INCOME-PRETAX>                            (1,300,873)
+<INCOME-TAX>                                 (474,000)
+<INCOME-CONTINUING>                          (826,873)
+<DISCONTINUED>                                       0
+<EXTRAORDINARY>                                      0
+<CHANGES>                                            0
+<NET-INCOME>                                 (826,873)
+<EPS-BASIC>                                    (.21)
+<EPS-DILUTED>                                    (.21)
+
+
+</TABLE>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

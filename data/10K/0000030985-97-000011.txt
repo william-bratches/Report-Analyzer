@@ -1,0 +1,1069 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ U/pzX9h8umvwKHayygLaWQRENLVybO5PtwMgnTvcbm/6ErXfb5RewWzBTAs3j1m3
+ oB/iHMy0cllbKMlqxKtSkQ==
+
+<SEC-DOCUMENT>0000030985-97-000011.txt : 19970708
+<SEC-HEADER>0000030985-97-000011.hdr.sgml : 19970708
+ACCESSION NUMBER:		0000030985-97-000011
+CONFORMED SUBMISSION TYPE:	10KSB/A
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	19961231
+FILED AS OF DATE:		19970707
+SROS:			NASD
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			EARTH SCIENCES INC
+		CENTRAL INDEX KEY:			0000030985
+		STANDARD INDUSTRIAL CLASSIFICATION:	MINERAL ROYALTY TRADERS [6795]
+		IRS NUMBER:				840503749
+		STATE OF INCORPORATION:			CO
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10KSB/A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-06088
+		FILM NUMBER:		97636979
+
+	BUSINESS ADDRESS:	
+		STREET 1:		910 12TH ST
+		CITY:			GOLDEN
+		STATE:			CO
+		ZIP:			80401
+		BUSINESS PHONE:		3032797641
+
+	MAIL ADDRESS:	
+		STREET 1:		910 12TH STREET
+		CITY:			GOLDEN
+		STATE:			CO
+		ZIP:			80401
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	COLORADO CENTRAL MINES INC
+		DATE OF NAME CHANGE:	19731128
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>10KSB/A
+<SEQUENCE>1
+<TEXT>
+
+
+                     U.S. SECURITIES AND EXCHANGE COMMISSION
+                             Washington, D.C. 20549
+                                        
+                                  FORM 10-KSB/A
+                        Amendment #2 to Items 1, 2 and 13
+                                        
+                                        
+                  ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d)
+                     OF THE SECURITIES EXCHANGE ACT OF 1934
+                                        
+                  For the fiscal year ended  December 31, 1996
+                                        
+                        Commission File Number:   0-6088
+                                        
+                              Earth Sciences, Inc.
+                  (Name of small business issuer in its charter)
+                                        
+                    Colorado                      84-0503749
+       (State of incorporation)                   (IRS Employer Identification
+                                      No.)
+                                        
+                 910 12th Street, Golden, Colorado        80401
+           (Address of principal executive offices, including Zip Code)
+                                        
+     (Registrant's telephone number, including area code):   (303) 279-7641
+                                        
+         Securities registered under Section 12(g) of the Exchange Act:
+                                  Common Stock, one cent par value
+                                 Title of class
+
+Check whether the issuer (1) has filed all reports required to be filed by
+Section 13 or 15(d) of the Exchange Act during the past 12 months (or for such
+shorter period that the registrant was required to file such reports), and (2)
+has been subject to such filing requirements for the past 90 days.
+ [X] Yes  [ ] No
+
+Check if there is no disclosure of delinquent filers in response to Item 405
+of Regulation S-B contained in this form, and no disclosure will be contained,
+to the best of registrant's knowledge, in definitive proxy or information
+statements incorporated by reference in Part III of this Form 10-KSB or any
+amendment to this Form 10-KSB.  [X]
+
+State issuer's revenues for its most recent fiscal year.  $ 798,000
+
+State the aggregate market value of the voting stock held by nonaffiliates
+computed by reference to the price at which the stock was sold, or the average
+bid and asked prices of such stock, as of a specified date within the past 60
+days. As of March 21, 1997 was $21,125,000.
+
+Number of shares outstanding of registrant's Common Stock, one cent par value
+as of March 7, 1997 - 8,577,951.
+
+DOCUMENTS INCORPORATED BY REFERENCE
+The following documents are incorporated by reference into PART I, Item 2 of
+this Form 10-KSB:
+1974 through 1979, 1981, 1986 and 1988 Forms 10-K of Registrant
+
+Transitional Small Business Disclosure Format:  Yes __ No  X
+
+<PAGE>
+                                     PART I
+                                        
+Item 1.  Description of Business
+     (a) Business Development.
+Earth  Sciences, Inc. ("ESI" or "Registrant", which term includes  its  wholly
+owned  subsidiaries  unless  otherwise indicated)  is  a  diversified  mineral
+exploration  and  development  company with  planned  production  of  purified
+phosphate  products  in  Calgary.   ESI was incorporated  under  the  name  of
+Colorado  Central  Mines,  Inc. in Colorado in 1957.   During  1996,  ESI  (1)
+continued with activities leading to production of purified phosphate products
+at  its  solvent extraction facility in Calgary, Alberta, Canada; (2)  settled
+certain indebtedness with Alberta Treasury and negotiated an option to  settle
+the  $9.4 million deferred revenue liability both associated with the  Calgary
+facility; (3) continued exploration activities for gold resources in Venezuela
+including its land contract covering approximately 1200 acres; (4) aquired  an
+interest  and  commenced  exploration work  on  the  Cerro  Gordo  gold/silver
+property  in  Inyo  County,  California, and (5) maintained  its  position  in
+several  mining deposits and prospects in the Western US including its royalty
+position in the San Luis gold mine which completed mining in October 1997  and
+produced  approximately 52,000 ounces of gold in 1996.  Thus far in 1997,  ESI
+has  signed  a letter of intent to acquire a majority equity interest  in  ADA
+Environmental Solutions LLC.  These activities are described in the succeeding
+paragraphs of this Item 1(a) and below in Item 1(b).
+
+ESI's solvent extraction facility in Calgary, Alberta, recovered uranium  from
+phosphoric  acid  during  the period from 1983 through  1987.   Uranium  oxide
+production  was  suspended in the fall of 1987 when  the  adjacent  fertilizer
+plant  from  which the facility received its feed stock suspended  operations.
+The  contract under which the uranium was sold was modified in 1990  to  allow
+unrestricted alternative use of the facility.  An in-house feasibility  study,
+completed  in  1995,  confirmed  the technical and  financial  feasibility  of
+conversion of the facility for the production of purified phosphate  products.
+Revamp of the facility to allow such production is currently underway.  Start-
+up  activities are expected to commence in March 1997 with product expected to
+be  available  for  sale  in May 1997.  There can be no  assurances  that  the
+Company will be able to maintain the expected schedule.
+                                        
+In November 1996, ESI reached agreements in principal with Yankee Atomic
+Electric Company and Vermont Yankee Nuclear Power Corporation (the "Yankee
+Companies") to purchase a 270 day option for $100,000 to terminate their
+deferred revenue position in the Calgary facility.  As of  December 31, 1996,
+the consolidated financial statements of ESI reported Deferred Revenues of
+$9,382,000 which represents prepayments by the Yankee Companies for uranium.
+Under the terms of the option, if exercised, ESI would pay the Yankee
+Companies $1,150,000 and grant them a 10 year non-cost bearing net profits
+royalty on activities at the Calgary facility.  Payments to the Yankee
+Companies would be capped at a total of $6 million, excluding the $100,000
+option payment, and ESI could purchase the royalty interest for $3 million
+plus $50,000 per year after the exercise date to a total of not more than
+$3,250,000.  The definitive document for this agreement was signed in January
+1997.
+                                        
+In December 1996, ESI reached a final settlement with the Alberta Treasury
+("AT") concerning certain indebtedness related to the Calgary facility.  As of
+November 30, 1996, ESI had recorded principal and accrued interest totaling
+$600,000 payable to AT.  ESI obtained a complete release from the indebtedness
+and all claims against the Calgary facility by payment to AT of $76,000.
+
+In  July  1996,  ESI  entered into an agreement with Martin  Trost  Associates
+("MTA"),  a  Colorado joint venture which will allow it to earn up  to  an  80
+percent  working  interest  in  the  Cerro  Gordo  property  in  Inyo  County,
+California.   The  property covers 80 patented and unpatented  mining  claims.
+The  agreement provides for ESI to arrange financing of up to $4.2 million  to
+place  the  "H"  area into production to earn an 80% working interest  in  the
+property.  Evaluation of a 4 hole drilling program conducted in December is in
+progress to determine further action on the property. See Item 2(f) below.
+
+On  November  15, 1996, ESI received notice from Battle Mountain Gold  Comapny
+("BMGC") that they had completed mining at the San Luis project at the end  of
+October  and  that  reclamation activities were continuing  with  an  expected
+completion date toward the end of March, 1997.
+
+
+                                       1
+<PAGE>
+
+In March 1997, ESI issued $2,510,000 of 4% convertible debentures (the
+"Debentures") for which ESI received net proceeds of  approximately
+$2,309,000.  Interest is payable quarterly. The Debentures are convertible at
+any time following 45 days after the issuance thereof and are all
+automatically convertible on March 31, 1999.  The Debentures are convertible
+into shares of common stock based on a 25% discount from the market price of
+the common stock at the time of conversion, but not in excess of $3.25 per
+share.  ESI is required to register the shares underlying the Debentures, and
+may repurchase the Debentures at a 25% premium under certain circumstances.
+
+On  February  18,  1997, ESI signed a Letter of Intent to acquire  a  majority
+equity  position in ADA Environmental Solutions LLC through a  combination  of
+stock and cash.  The closing of the acquisition, scheduled for April 30, 1997,
+is  subject  to  a  number  of preconditions, including  the  negotiation  and
+execution of definitive documentation.
+
+During 1996, through ESI's Venezuelan company, ESIGEO, formed by ESI in  joint
+venture  with GEO C.A. ("GEO"), ESI continued gold exploration and development
+activities in Venezuela. ESI also owns 49% of another company, Minera Antabari
+C.A. ("Antabari"), which received a contract on a 1200 acre site on the Guyana
+Shield  in  March 1992.  To date, geologic mapping, geochemistry of drainages,
+soils  and  old  workings,  and  detailed trenching  and  pitting  of  several
+mineralized   zones   has  been  performed.   ESIGEO  is  discussing   further
+exploration  work  at  this  contract area with third  parties.   Three  other
+contracts  were  filed  for in 1994 and refiled in 1995  with  the  Venezuelan
+Ministry of Energy and Mines ("MEM").  ESIGEO is awaiting response from MEM on
+these filings.  ESI reached agreement in 1996 with certain shareholders in GEO
+and Antabari to acquire their holdings in exchange for 20,000 shares of stock.
+When  the  transference of shares is completed in 1997, ESI will  have  a  67%
+ownership  of  GEO,  and an effective 83% ownership of  Antabari  and  ESIGEO.
+Several  other  sites with existing MEM concessions are being  evaluated,  and
+ESIGEO is negotiating with the current concession holders to obtain rights  to
+further  explore  these  areas.  In 1997 ESIGEO  expects  to  conduct  surface
+exploration  on the concessions, currently filed for, when they  are  granted,
+and other areas, if any, obtained from ongoing negotiations.
+
+     (b) Business of Issuer.
+Registrant  is a diversified mineral exploration and development company  with
+planned production of purified phosphate products in Calgary.  Registrant owns
+the  San  Luis  gold mine; a processing facility in Calgary,  Alberta,  Canada
+which  recovered  uranium  oxide  from  phosphoric  acid  and  for  which  the
+production of purified phosphate products is being pursued; alunite properties
+which contain alumina, sulfur and potash; other domestic properties containing
+gold,  vanadium  and  phosphate;  and controls  prospects  containing  copper,
+molybdenum, silver, lead and zinc.
+
+Registrant through its 49% ownership in Minera Antabari C.A. ("Antabari")  and
+its  50%  ownership in Recursos Minerales ESIGEO C.A. ("ESIGEO") is exploring,
+evaluating, acquiring and plans to develop gold resources in Venezuela.
+                               San Luis Gold Mine
+As  a result of transactions in 1987, ESI (1) sold its working interest in the
+San  Luis  gold  mine to BMGC, (2) acquired the underlying  property  and  (3)
+through a lease of the property to BMGC, has a 3 1/2% gross royalty on  future
+production from the mine. Mining and milling activities were completed by BMGC
+in 1996.
+
+During  1996 approximately 52,400 ounces of gold and 28,000 ounces  of  silver
+were  produced by BMGC from the property, as compared to 72,700 ounces of gold
+and  32,000 ounces of silver in 1995.  ESI recognized $692,000 in revenue from
+that  production in 1996, as compared to $978,000 in 1995. ESI recognized cash
+flow  of  approximately $720,000 from its royalty interest in 1996.  ESI  does
+not expect to recognize any significant royalty revenue from the San Luis mine
+in 1997 or thereafter.
+
+                       Calgary Solvent Extraction Facility
+In  1996,  ESI  continued  activities for  production  of  purified  phosphate
+products  at  the facility.  The planned schedule to re-start the facility  in
+Calgary,  Alberta  to produce purified phosphoric acid (PPA)  and  by-products
+targets  production  commencing in May 1997 assuming the planned  construction
+and  start-up  schedule can be maintained.  Earth Sciences Extraction  Company
+("ESEC"),  a  wholly-owned Canadian limited partnership  of  ESI,  intends  to
+produce  PPA  at  its  solvent extraction facility in Calgary,  Alberta.   The
+facility, with modification, is expected to have the capacity to produce
+
+
+                                       2
+<PAGE>
+in excess of 80,000 tons of P2O5 per year in the form of PPA and recover other
+valuable constituents available in the feedstock.
+
+ESEC's Facility
+The  phosphoric acid treatment facility has been maintained on a standby basis
+since its uranium recovery operations were suspended in 1987 when the adjacent
+fertilizer plant, which had supplied feedstock, suspended operations.  Certain
+contractual  restraints  and lower uranium prices have  made  the  stand-alone
+recovery  of  uranium  from  other  feedstock  sources  uneconomic.   ESEC  is
+modifying  the facility to purify superphosphoric acid ("SPA") to a  technical
+grade   PPA and manufacture by-products.  The SPA feedstock is to be purchased
+from  producers in Idaho and Florida for which  supply contracts  with  Agrium
+Inc. and Farmland Industries, Inc. have been negotiated.  In the future, it is
+anticipated that phosphate rock from an open pit deposit owned by ESI  may  be
+processed  under  a tolling arrangement to provide feedstock for  the  Calgary
+plant. (See Item 2(a) below).
+
+Market for Purified Phosphoric Acid
+Phosphorus in the form of  purified phosphoric acid, H3PO4 (PPA), is  a  basic
+commercial  chemical essential to a broad variety of industrial  and  consumer
+applications.  PPA  is  an  important  inorganic  acid  used  in  foods,  cola
+beverages,  cleaning  solutions,  fertilizers,  fire  retardants   and   metal
+treatments,  among other uses. At present ESEC would compete with  four  North
+American PPA producers in the 700,000 ton P2O5 industrial market where 200,000
+tons  P2O5 of direct consumption PPA is sold.  ESEC would be the sole producer
+in  Canada,  and would be the only producer in western North America.   ESEC's
+targeted market segments include those where growth is 10%  or more per  year,
+where  the  predominate users are in ESEC's freight advantage  area,  and  the
+large  Minneapolis/Chicago area market.  In the first year of production  ESEC
+expects  to  enter the North American PPA market by matching other  producers'
+quality  but with lower prices.  It is anticipated that cost advantages  would
+be  realized  from  the  use  of less expensive purification  through  solvent
+extraction and lower freight costs.  It is anticipated that by-products  would
+be  sold in local markets, which ESEC believes are large enough to absorb  the
+volume  without  being disrupted.  All of the facility's production  is  being
+marketed   through   an  agreement  dated  January  1,  1997   with   Twin-Kem
+International, Inc., a Colorado corporation ("TKI") whose principals have over
+60  years  of  combined  experience  in  the  marketing  and  distribution  of
+industrial  and agricultural chemicals.  The agreement is for an automatically
+renewing  one-year term where TKI will receive a commission of between  $2.00-
+$5.00  per  ton  of  product  sold.   A prepayment  of  $100,000  toward  such
+commission, consisting of 50% cash and 50% stock was made to TKI. There can be
+no  assurances that actual sales recognized by ESEC will equal the anticipated
+volumes.
+
+Solvent Extraction Process
+It  is anticipated that the facility will produce PPA using an environmentally
+clean  solvent extraction process employing tributyl phosphate with a kerosene
+diluent.   The basic process is well established in the industry and  believed
+by  ESEC  to be free of patent conflicts.  The ESEC process has been  verified
+for  anticipated  ESEC  feedstocks  by numerous  laboratory  bench  tests  and
+continuous recycle pilot plant runs.  The studies show that a competitive  PPA
+can  be  produced  from any fertilizer grade phosphoric  acid  feedstock  with
+extraction efficiencies of 70 to 90%. The remaining material will be  sold  in
+local  market  for  its  contained phosphate values.  ESEC  believes  that  no
+significant waste will be generated at the ESEC facility.
+
+Production Plan and Operating Costs
+ESEC  intends to start production in 1997 at the rate of 10,000 tons P2O5  per
+year  of  technical grade PPA, carrying 54.4% P2O5, or 18,400 tons of  product
+acid.  Associated with the PPA will be the production of 2,800  tons  of  P2O5
+contained in  other material.
+
+Future Potential
+The  upside  potential  of  the  ESEC  facility  in  Calgary  is  substantial.
+Management believes relatively minor changes would have to be made to increase
+the  output  from 10,000 tons to 80,000 tons P2O5 per year.  In addition,  the
+unextracted portion of the feedstock or "raffinate" contains a large number of
+valuable   elements  in  high  concentrations,  including  uranium,  vanadium,
+yttrium,  scandium and the rare earths. The technology for recovery  of  these
+elements  is  available.   The plant has a good deal of  additional  equipment
+including a second solvent extraction circuit that could possibly be  utilized
+for  that  purpose.  ESEC intends to pursue these recovery   opportunities  in
+earnest after the commencement of PPA production.
+
+
+                                       3
+<PAGE>
+
+
+                                        
+                           Venezuelan Gold Activities
+ESI's   Venezuelan  joint  venture  with  GEO  commenced  initial  exploration
+activities  in the fall of 1988.  No proven commercially viable reserves  have
+been discovered on the properties discussed.
+
+In  order to facilitate the development of the Company's various expected land
+concessions  in Venezuela, the Venezuelan corporate structure was  reorganized
+in  1994  by  forming a holding company called Recursos Minerales ESIGEO  C.A.
+("ESIGEO") that is controlled equally by ESI and its Venezuelan partners,  GEO
+C.A.  ("GEO").  It is anticipated that each new land concession will be placed
+in a separate entity, owned and controlled by ESIGEO. ESI reached agreement in
+1996  with certain shareholders in GEO and Antabari to acquire their  holdings
+in  exchange  for 20,000 shares of stock. When the transference of  shares  is
+completed in 1997, ESI will have a 67% ownership of GEO, and an effective  83%
+ownership  of  Antabari and ESIGEO. The joint company  will  continue  in  the
+manner  in  which ESI has conducted exploration for thirty years. That  is  to
+define and acquire land positions in key areas that have a high probability of
+being  within  the  heart of future mining districts. After  minimal  work  to
+define  mineral  potential,  these prospects are then  sold  to  major  mining
+companies  for  a  cash  payment  and  a royalty  on  future  production.   To
+facilitate  this approach, each land concession is to be held  in  a  separate
+company,  wholly-owned  by  ESIGEO,  which  can  be  sold  without  additional
+regulatory review and delay.  The goal of ESIGEO in Venezuela is to enter into
+several  such  agreements with major gold producers within  the  next  several
+years.
+
+The  decree  which empowered the Corporacion Venezolana de Guyana  ("CVG")  to
+issue land contracts in the Guyana Shield has been determined to be illegal by
+the  Venezuelan courts.  The Ministry of Energy and Mines ("MEM") is  expected
+to  issue concessions to replace the over 450 existing CVG contracts  after  a
+study commissioned to evaluate the existing contracts' status is complete  and
+final  legislative  action  annuls the rights  granted  CVG.   The  SAMI  land
+contract  is  included in this category and it is anticipated that  its  terms
+will  improve as the new concession terms will be more favorable.   The  three
+applications for new land contracts discussed below are included with some 300
+other  unacted-upon requests that have accumulated with CVG since March  1994,
+when  CVG  stopped signing contracts.  New applications to MEM have been  made
+for these three areas and assurances have been obtained that they will receive
+priority  when they are ultimately considered.  Due to political  complexities
+of  coordinating land use between MEM and designated regions and states, it is
+uncertain when these new applications will be acted upon.
+
+SAMI Area Contract
+In  1991, ESI and GEO formed Antabari, a Venezuelan company of which ESI  owns
+49%.   In  November  1991,  Antabari filed for a contract  with  CVG  for  488
+hectares to be explored and exploited for gold.  The area, called SAMI for San
+Miguel, is located southeast of the town of Upata, Bolivar state, Venezuela in
+the  open  country of the savannas, and is readily accessible from established
+roads.   The  contract, which was issued in March 1992, provides  a  two  year
+period  for  exploration  work and to prepare a  plan  for  exploitation.   An
+extension has been granted to complete further exploration work.  The contract
+requires   certain  financial  guarantees  with  regard  to  exploration   and
+reclamation, and requires that the area be reduced by one-half at the  end  of
+the exploration period.
+
+Antabari has performed geologic mapping, geochemistry of drainages, soils  and
+old workings, and trenching of several mineralized zones.  One such zone has a
+continuity of over 600 feet with a width of 40 feet and has yielded values  of
+up  to  1.6  ounces  per ton of gold.  Additional sampling and  analysis  from
+extensive pitting show a large (8 acre) anomalous gold area, clearly  open  to
+the  north  and  east.   Drilling and further sampling will  be  necessary  to
+determine  the  potential of the area.  ESIGEO is evaluating this  next  phase
+and/or a sale to third parties at this time.
+
+New Filings
+In 1994, formal applications were made to CVG, which in 1995 have been renewed
+in  applications  to MEM, to acquire exclusive mineral exploration  rights  on
+three  new  land areas located in the Bolivar state in southeastern Venezuela.
+ESI  has  been advised that ESIGEO's filings establish priority for the  areas
+sought.   The Company is very optimistic about the potential these areas  hold
+for   further  gold  exploration  and  exploitation.   The  areas  were  first
+identified  as potential targets through regional geochemistry   that  defined
+anomalous occurrences of gold and associated minerals, and legends of past
+
+
+                                       4
+<PAGE>
+production  by  primitive  methods  which  have  historically  been   key   to
+exploration  in  remote  areas.  Queries of natives  and  sampling  of  stream
+sediments has allowed selection of the best targets from a 130 square km  area
+that was investigated.
+
+Apicharai
+The first concession area covering 500 hectares (approx. 1200 acres), is known
+as  Apicharai, located about 165 km from the town of La Paragua.   This  small
+tributary  to  the  Antabari river has a history of panning  and  small  scale
+hydraulic  mining.  Apicharai has an abundance of thick quartz  veins  in  the
+drainage  and  gold is commonly visible.  The mineralization of  Apicharai  is
+typically associated with the quartz veining in acidic pyroclastics.   One  80
+meter  zone on the river is panned every year by the natives after  the  rainy
+season.   The gold particles commonly run 0.5mm and angular quartz is dominate
+in  the creek sediments.  As a result of the stream sediment sampling, an area
+has been selected for further work where the source of the gold mineralization
+is likely to be located.
+
+Man-cai
+The  second concession area, known as Man-cai, covers 500 hectares, is located
+in  a  remote  area near the Brazilian border accessible by boat from  the  La
+Paragua river. Sampling and estimates of alluvial-colluvial material show that
+there  is another 50-100 kilos available in a very small area.  It is believed
+that  this  gold can be easily recovered with portable equipment.  The  source
+rock  may  hold  significant potential and will be targeted early  on  in  the
+further exploration program.  Considerable pyrite exists in the volcanic  host
+rock  and upstream, out of the rhyolite, gold is at background levels, helping
+to define the source material.  The existence of easily obtainable gold in the
+surface  material and the boundary definition of the source rock make this  an
+excellent target for significant gold mineralization.
+
+Manaima
+The  third concession area, known as Manaima, also covers 500 hectares and  is
+located 50 Km from the town of La Paragua.  This is an area rich in history of
+small  primitive  mining operations.  The hydrothermal mineralization  on  the
+property  is associated with a fault zone where gold is typically  found  with
+copper and manganese.
+
+Specific  work programs are being formalized for initial detailed  exploration
+of  the  above  mentioned areas.  The plans provide for  the  building  of  an
+airstrip  to facilitate access and transportation of equipment into Apicharai,
+Man-cai  and  other  prospects.  Access is now being  accomplished  via  river
+routes.
+
+The  primary  objectives  of the 1997 plans are to  determine  as  quickly  as
+possible  the nature and extent of gold mineralization on the anticipated  new
+land concessions and to continue to define those additional areas where future
+filings  will be made.  Activities will include surface geochemistry, geologic
+mapping and trenching.
+
+                           ADA Environmental Solutions
+On February 18, 1997, ESI signed a Letter of Intent to acquire a majority
+equity position in ADA Environmental Solutions LLC ("ADA") through a
+combination of stock and cash. The acquisition was prompted by synergism
+involving products to be produced by the solvent extraction facility in
+Calgary. These products will be utilized by ADA in a new proprietary
+technology designed to reduce particulate emissions from plants burning low-
+sulfur coal.  It is expected that the 1990 Clean Air Act Amendments will
+result in 600 to 800 coal-fired boilers switching to low-sulfur coal by the
+year 2000. ADA anticipates entering this market with its proprietary non-toxic
+chemical conditioner which offers both technical and economic advantages over
+the hazardous chemicals currently being used.  The closing of the acquisition,
+scheduled for April 30, 1997, is subject to a number of preconditions,
+including the negotiation and execution of definitive documentation.  ADA
+estimates that a capital budget of approximately $1.6 million will be required
+to achieve a commercially viable status.
+
+The Letter of Intent provided for (i) an immediate cash payment of $400,000
+for a 4.8% equity interest, (ii) a combination of $500,000 in cash and $1.6
+million in notes to be paid at the scheduled closing, for the acquisition of
+an additional 46.2% interest in ADA, and (iii) an option to acquire the
+remaining equity interests (49%) in ADA during the six months following May 1,
+1998 for issuance of stock valued at approximately $5.8 million.  In addition,
+the principals of ADA will have an option to require ESI to sell its 51%
+interest in ADA for the price paid by ESI plus interest in the event ESI does
+not exercise its option.
+                                        
+                                        5
+<PAGE>
+                                        
+                  Mineral Properties and Other Business Matters
+During  1996  Registrant  maintained its ownership  position  in  the  several
+mineral  interests it holds.  The mineral interests maintained  by  Registrant
+include significant resource interests in alumina, gold, vanadium, potash  and
+sulfur, and prospects for copper/molybdenum and silver (see Item 2 below).
+Raw  materials,  as  the  term  is  generally  used,  are  not  essential   to
+Registrant's mineral acquisition and development activities performed for  its
+own  account.   However, Registrant's commercialization of its  properties  is
+dependent  upon securing adequate supplies of energy and water.   The  planned
+production  of PPA at the Calgary facility will require adequate  supplies  of
+SPA feedstock.  Adequate supplies of this material are currently available  in
+the  required quantities and at reasonable prices.  There can be no  assurance
+that such availability will continue in the future.
+
+Registrant  holds no patents, licenses, franchises or land contract  which  it
+considers  material in light of its other assets.  However,  Registrant  holds
+for  itself,  and  in  association with others, Federal Potassium  Prospecting
+Permits,  State Potash and Alunite Leases, Federal Potassium Preference  Right
+Leases  and  Applications,  Federal  Phosphate  Prospecting  Permits,  Federal
+Phosphate  Leases,  State  Phosphate Leases,  fee  mineral  rights  and  other
+exploration  and  mineral  interests which are the  basis  for  Registrant  to
+explore and develop the properties subject thereto. In certain instances  such
+mineral interests give preferential leasing rights to Registrant upon location
+and  demonstration to the US Geological Survey Conservation Division that  the
+deposit is a "valuable, workable deposit in commercial quantities".
+Registrant  also  holds  certain  of  its  mineral  properties  by  means   of
+"unpatented" lode and placer mining claim locations.  Unpatented mining claims
+require  compliance with certain Federal and State laws in order  to  maintain
+mineral  interests thereon.  Legislation enacted in October  1992  requires  a
+$100 per claim rental charge on all unpatented mining claims.
+
+Numerous  and in some regards conflicting bills have been introduced  and  are
+now  pending  in the US Congress which would supplant or radically  alter  the
+provisions  of the US Mining Law of 1872, under which npatented mining  claims
+are  located.   If enacted, such legislation could substantially increase  the
+cost  of  holding  unpatented mining claims and could impair  the  ability  of
+companies to develop mineral resources on unpatented mining claims.  Under the
+terms of these bills, the ability of companies to obtain patents on unpatented
+mining  claims would be nullified or substantially impaired, and most  contain
+provisions  for the payment of royalties to the federal government in  respect
+of  production from unpatented mining claims, which could adversely affect the
+potential  for  unpatented mining claims.  Registrant's financial  performance
+could therefore be affected adversely by passage of such legislation.  Pending
+possible  reform  of  the Mining Law of 1872, Congress  has  put  in  place  a
+moratorium  which  prohibits acceptance or processing of most  mineral  patent
+applications.  It is not possible to predict whether any change in the  Mining
+Law of 1872 will, in fact, be enacted or, if enacted, the form the changes may
+take.
+
+The  activities of Registrant performed for its own account are not  seasonal,
+although winter weather may limit certain activities.
+
+Registrant's mineral exploration and property acquisition activities  are  not
+dependent   upon  one  or  a  few  major  customers.   The  search   for   and
+commercialization  of economic mineral deposits is highly competitive.   Large
+companies  having greater financial resources than Registrant and  many  small
+mining  companies  are active in acquiring, evaluating and developing  mineral
+resource prospects in the western United States and Venezuela.
+
+Registrant   spent  approximately  $109,000  and  $183,000  on  research   and
+development activities related to the Calgary extraction facility during  1996
+and 1995, respectively.
+
+United States Federal and state environmental laws and regulations potentially
+applicable  to  mining exploration, development and operations  of  Registrant
+include:  (a) the assessment of environmental impacts pursuant to the National
+Environmental  Policy  Act  and  its state counterparts;  (b)  the  Endangered
+Species  Act  and  any  comparable state laws;  (c)  water  quality  laws  and
+regulations which address impacts on waters of the United States or  a  state;
+(d)  solid,  and possibly hazardous, waste laws and regulations to the  extent
+that  waste  is generated as a result of activities on the property;  (e)  air
+quality laws and regulations if air emissions result from site operations; and
+(f)  mined land operational and reclamation requirements.  In addition to  the
+imposition  of  requirements which may impact operations, a  number  of  these
+environmental laws and regulations impose permitting requirements related both
+to the initiation of certain mining
+
+
+                                       6
+<PAGE>
+activities  as well as to the ongoing operation once mining commences.   Local
+regulations   in  the  U.S.  typically  are  land  use  related  rather   than
+environmental.   Although environmental regulatory costs  to  date  and  those
+expected  in  1997  are not significant, they may become  substantial  in  the
+future.   Such  costs  are  considered  a  part  of  the  ordinary  costs   of
+Registrant's business.
+
+As  of  December  31,  1996  Registrant employed 5 personnel  at  its  Golden,
+Colorado, offices and 14 fulltime at the Calgary facility.  In addition, other
+personnel were employed on a contract basis for specific project tasks.
+
+
+Item 2.  Description of Property. (1)
+Registrant  owns,  controls and participates with others in  mineral  property
+interests  and  mineral  property  exploration  and  development  programs  in
+California,  Colorado,  Idaho,  Montana, Nevada,  Utah,  and  Venezuela.   The
+following  property descriptions contain deposit references according  to  the
+indicated  definitions,  although it has not been proven  that  any  of  these
+deposits,  except  the San Luis gold mine, are commercially viable.   In-house
+studies  for  several  of  the undeveloped properties indicate  technical  and
+economic   feasibility.   The  following  is  summary  information   regarding
+Registrant's principal properties.
+
+(See footnotes at the bottom of page 7)
+
+(a)Vanadium/Phosphate Property near Paris and Bloomington,  Idaho
+See  Item  3(f),  1975-1977 Forms 10-K for the property acquisition,  property
+rights, property description and exploration program prior to 1979.  See  Item
+1(c)  1981  Form 10-K concerning Registrant's sale and option of its interests
+on  the  properties  in  January,  1981.  Registrant  reacquired  all  of  the
+interests in the properties from the Conda Partnership in
+1992.
+
+To  date, drill testing on the southern portion of the deposit show tonnage of
+approximately 53 million tons of mineralized material. The grade of the  upper
+bed  material of the block is calculated to be 25% P2O5 over a thickness of  9
+feet  and the grade of the lower (main) bed material is calculated to  be  30%
+P2O5 over a 6 foot thickness.
+
+Metallurgical  test work on the vanadium bed has resulted in  a  patent  being
+issued  to Registrant regarding the extraction techniques which were developed
+as  a  result  of  such  work.  Economic feasibility  calculations  show  that
+production of vanadium from the property is commercially feasible.  Registrant
+is  investigating plans for development of the property, however there can  be
+no  assurance  that marketing and financing arrangements can be obtained.   In
+1993, Registrant negotiated an arrangement with a third party to allow a minor
+amount of phosphate ore to be removed from the outcrop on a portion of one  of
+its  properties held in fee interest.  That party obtained permits in 1994  to
+mine  3,000  tons from the property but no mining has yet taken  place.   This
+deposit  may  provide  a  source  for the intended  purified  phosphoric  acid
+production at the Calgary facility (See Item 1(a) above).
+
+(b) San Luis Gold Mine.
+See Item 3(h) 1975 Form 10-K for a description of the property.
+See  Item  1(c)(1)  1988 Form 10-K and above concerning Registrant's  sale  to
+BMGC,   other  related  transactions  in  1987  and  BMGC  development   work.
+Registrant owns the 800 acre site on which the mine is located, has leased the
+property  to  BMGC, and received a 3 1/2% gross royalty from  all  production.
+Mining  and  milling activities were completed by BMGC in 1996 and  Registrant
+does not expect any significant revenue in 1997 or thereafter.  BMGC commenced
+mining operations in early 1991.
+
+Production during the period from 1991 through 1996 was as follows:
+
+     Year       Ounces of Gold        Ounces of Silver
+     1991           31,500              21,600
+     1992           55,600              21,000
+     1993           72,800              27,000
+     1994           72,700              19,400
+     1995           72,700              31,800
+     1996           52,400              28,000
+
+(c)  Alunite Resources.(2)
+Alunite  is  a  source  of alumina (the raw material of  aluminum),  potassium
+sulfate fertilizer, sulfuric acid and sulfur.
+____________________________________________________________
+(1)  Mineral Deposit or Mineralized Material is a mineralized body which has
+been delineated by appropriately spaced drilling and/or underground sampling
+to support a sufficient tonnage and average grade of metal(s).  Such a deposit
+does not qualify as a reserve, until a comprehensive evaluation based upon
+unit cost, grade, recoveries, and other material factors conclude legal and
+economic feasibility.
+(2)  Acquisition  of  Federal  alunite mineral rights  is  accomplished  through
+Federal  Potassium  Preference Right Leases issued  under  Section  4  of  the
+Leasing Act of February 7, 1927.
+
+                                       7
+<PAGE>
+
+(1) "LC" Alunite Property.
+See  Item 3(b)(1), 1974 and 1975 Forms 10-K and Item 3(h), 1976 and 1977 Forms
+10-K  for property description, property rights and exploration work in  prior
+years.  Results of exploration work to date show a total of 61.1 million  tons
+of
+mineralized  material.   The grade of the material is  calculated  to  average
+approximately 39.6% alunite (approximately 14.7% alumina).
+
+
+
+In  1978, Registrant  applied for a Preference Right  Lease  for  potassium on
+the  property (a "PRLA"), in 1979 submitted the "initial showing" required  in
+the  lease  application  and  in 1982 submitted  the  operating  plan  for  an
+environmental impact assessment.  Approval of the project was recommended by a
+Bureau  of  Land Management advisory panel.  However, in 1985 a  Congressional
+resolution  suspended all Preference Right Lease activity in Wilderness  Study
+Areas.   Until further Congressional action is taken, progress on the  project
+will  be  restricted.  In 1991, Registrant received notice from the Department
+of  Interior that the Bureau of Land Management considers the PRLA as a  valid
+existing  right with respect to any future wilderness designation.  Registrant
+relinquished its 48 unpatented mining claims covering the alunite property  in
+1993.
+
+      (2)"NG" Property and Other Utah Alunite Interests.
+See  Item 3(a)(1), (2), (3), (4) and (5), 1974-1979 Forms 10-K for NG Property
+and  other Utah alunite interest descriptions, property rights and exploration
+programs prior to 1978.
+ESI  was  granted  Preference Right leases on the ten  principal  tracts  that
+comprise the NG deposit on January 13, 1983.  The leases were assigned to  the
+Alumet  Partnership  effective February 1, 1983.   Alumet  assigned  its  Utah
+alunite interests back to ESI in December, 1986 (See item 1(c)(1) 1986 Form 10-
+K).   ESI  relinquished a portion of the leases, reducing  the  acreage  under
+lease to 680 acres.  All required lease payments were made in 1996.
+
+Results  of exploration and drilling programs on the properties to  date  show
+129  million tons of mineralized material with a grade calculated to be  37.9%
+alunite (approximately 14.03% alumina) with an additional 287 million tons  of
+mineralized  material with average grades calculated to range  from  33.5%  to
+39.4% alunite (approximately 12.4% to 14.6% alumina).
+
+(d) Calgary Solvent Extraction Facility.
+Registrant  owns  a hydrometallurgical solvent extraction facility  which  was
+used  to extract uranium from phosphoric acid from June 1983 through September
+1987,  when the adjacent phosphoric acid fertilizer plant supplying feed stock
+shut  down.   (See Item 1(a) and 1(b) above). The facility occupies  a  20,000
+square foot building and is located in southeast Calgary, Alberta on a 12 acre
+site leased from the adjacent fertilizer plant.
+
+(e)  Emigrant Property.
+In  1987 Registrant acquired fee ownership of  two patented lode mining claims
+in  the  Emigrant Peak area, Park County, Montana containing approximately  38
+acres.  Registrant  also owns two other patented placer claims  containing  37
+acres  and holds 13 unpatented mining claims in the same area. This  block  of
+contiguous mining claims contains copper, molybdenum, gold, silver,  lead  and
+zinc  mineralization  which has not yet been fully delineated.  All  necessary
+payments were made to hold the unpatented claims in 1996.
+
+During  1992, a third party conducted limited geochemical sampling, geological
+mapping  and  a  remote sensing study using Landsat Thematic Mapper  data  and
+image enhancements.  One core hole was subsequently drilled to a depth of  588
+feet.   In 1993, an additional four reverse circulation holes were drilled  on
+the  property totaling 950 feet. Analysis of samples from the drilling  helped
+to  define the southwest boundaries of a breccia pipe containing gold, silver,
+copper,  zinc  and  lead mineralization.  Based on the  drilling  performed  a
+deposit  of  from 750,000 to 1.5 million tons of mineralized material  can  be
+delineated with current metal values of over $15 per ton.
+
+(f)  Cerro Gordo Property.
+In  July  1996,  Registrant  entered  into  an  agreement  with  Martin  Trost
+Associates ("MTA"), a Colorado joint venture which will allow it to earn up to
+an  80  percent working interest in the Cerro Gordo property in  Inyo  County,
+California. The agreement provides for Registrant to arrange financing  of  up
+to  $4.2  million to place the "H" area, or principal mineralized  zone,  into
+production  to earn an 80% working interest in the property.  No schedule  has
+yet been established
+
+                                       8
+<PAGE>
+for  the Company's arrangement of financing.  The Company is obligated to fund
+the  costs  of all joint venture activities up to the agreed $4.2  million  or
+until  the  joint venture achieves cash flow.  Nevertheless, the  Company  may
+cease funding activities upon 30 days notice, without further obligation.   In
+the  event  of such cessation in funding, Registrant would retain its  working
+interest  earned at that time and may chooses to fund further requirements  to
+maintain  such interest, or suffer dilution of that interest. MTA  acquired  a
+mineral lease in August 1995 on 75 unpatented and 5 patented claims.  Terms of
+the  lease are a 5% net smelter royalty and annual payments averaging  $36,000
+per  year.   Two patented claims lie within the claim block and are  currently
+held by third parties.
+
+The  Cerro  Gordo property lies in the Inyo Mountains east of Owens  Lake  and
+west  of Death Valley at an elevation of approximately 7800 feet.  Access   is
+by  an  existing, county maintained, gravel road.  Temperatures  are  moderate
+with limited snowfall during the months of January and February.  The property
+is  approximately equidistant from Reno and Las Vegas, Nevada and Los  Angles,
+California.
+
+Based on 36,000 feet of past drilling and old underground workings,
+gold/silver mineralization has been demonstrated along a NW-SE mineralized
+trend stretching 8,000 feet long and 5,600 feet wide.  The mineralized area
+appears zoned with a lead/zinc/silver/tungsten core trending outward to the
+west to a gold/silver zone.  The large areal extent of the gold/silver
+mineralization may lend itself to the discovery of a significant gold mine.
+Evaluation of a 4 hole drilling program conducted in December is in progress
+to determine further action on the property. There is no assurance that a
+commercially viable ore body exists in this property until further and
+appropriate geological work is done and economic feasibility studies based
+upon such work are concluded.
+
+                                       9
+<PAGE>
+
+
+                                    PART III
+Item 13.  Exhibits and Reports on Form 8-K.
+
+(a)   Exhibits  and  Index  of  Exhibits (all  exhibits  are  incorporated  by
+reference except Exhibit 27 which was filed electronically; Exhibits 3.1, 4.3,
+and  10.5  through 10.9 which were filed as exhibits to Registrant's  original
+1996  Form  10-KSB, and Exhibit 10.10 which is filed herewith; all other  such
+Exhibits were filed as Exhibits to Registrant's 1993 Form 10KSB).
+No.       Description
+3.1       Articles of Incorporation, as amended and restated.
+3.2       By-laws.
+4.1       Agreement for Conversion Rights dated July 31, 1991.
+4.2       Conversion Agreement dated June 23, 1993.
+4.3       Form of Convertible Debenture due March 31, 1999.
+10.1      Uranium Extraction Agreement dated May 14, 1976 between Registrant
+          and Western Co-operative Fertilizers, Limited.
+10.2      Lease dated April 3, 1978 between Western Co-operative Fertilizers,
+          Limited and ESI Resources, Ltd.
+10.3      Mining Lease dated October 1, 1987 between Registrant and Battle
+          Mountain Gold Company.
+10.4      Letter of Intent - Gold Joint Venture in Venezuela dated December
+          31, 1987 between Registrant and GEO C.A.
+10.5      Cerro Gordo Letter Agreement dated September 1, 1996 between
+          Registrant and Martin Trost Associates.
+10.6      Option Agreement dated January 20, 1997 between Registrant and
+          Yankee Atomic Electric Company and Vermont Yankee Nuclear Power
+          Corporation.
+10.7      Letter of Intent among ADA Environmental Solutions LLC, ADA-ES, Inc.
+          their respective members and shareholders and Registrant.
+10.8      Securities Purchase Agreement dated March 21, 1997.
+10.9      Registration Rights Agreement dated March 21, 1997.
+10.10     Independent Contractor Agreement dated January 1, 1997 between
+          Regiatrant and Twin-Kem International, Inc.
+21.1      Subsidiaries of Registrant.
+27        Financial Data Schedule.
+
+(b)  Reports on Form 8-K. None.
+
+
+                                       15
+<PAGE>
+
+SIGNATURES
+In accordance with Section 13 or 15(d) of the Exchange Act, the Registrant has
+duly  caused  this  report  to  be signed on its behalf  by  the  undersigned,
+thereunto duly authorized.
+
+Earth Sciences, Inc.
+ (Registrant)
+
+By /s/ Mark H. McKinnies                /s/ Duane N. Bloom
+Mark H. McKinnies, President            Duane N.  Bloom,  Member of
+and Principal Financial Officer         Executive Committee
+
+Date   July 10, 1997                    July 10, 1997
+
+In accordance with the Exchange Act, this report has been signed below by the
+following persons on behalf of the Registrant and in the capacities and on the
+dates indicated.
+
+/s/ Ramon E. Bisque                      /s/ Robert H. Lowdermilk
+Ramon E.  Bisque                        Robert H. Lowdermilk
+Chairman of The Board of Directors      Director
+
+July 10, 1997                           July 10, 1997
+    Date                                    Date
+
+/s/Duane N. Bloom                       /s/ Mark H. McKinnies
+Duane N.  Bloom, Director               Mark H. McKinnies, Director
+
+July 10, 1997                           July 10, 1997
+    Date                                    Date
+
+
+
+                                       16
+<PAGE>
+
+
+                                                                 Exhibit 10.10
+
+                        INDEPENDENT CONTRACTOR AGREEMENT
+                                        
+This Agreement is made effective as of January 1, 1997, by and between Earth
+Sciences, Inc., of 910 12th Street, Golden, Colorado 80401, and Twin-Kem
+International, Inc., of 4220 S. Allison Street, Lakewood, Colorado 80235.
+
+In this Agreement, the party who is contracting to receive services shall be
+referred to as "ESI" , and the party who will be providing the services shall
+be referred to as "Twin-Kem".
+
+Twin-Kem has a background in Chemical Marketing and is willing to provide
+services to ESI based on this background.
+
+ESI desires Twin-Kem to develop a sustained market for its purified phosphate
+produce.
+
+Therefore, the parties agree as follows:
+1.  DESCRIPTION OF SERVICES.  Beginning on January 1, 1997, Twin-Kem will
+provide the following services, (collectively, the "Services"):  co-ordinate
+the marketing of the entire production of the Calgary Plant which currently
+consists of Purified Phosphoric Acid (PPA) and Raffinate in the North American
+and International markets.  Twin-Kem will use its best efforts to move the
+plant's output on a timely basis.
+
+2.  PERFORMANCE OF SERVICES.  The manner in which "the Services" are to be
+performed and the specific hours to be worked by Twin-Kem shall be determined
+by Twin-Kem.  ESI will rely on Twin-Kem to work as many hours as may be
+reasonably necessary to fulfill Twin-Kem's obligations under this Agreement.
+
+3.  PAYMENT.  ESI will pay an initiating contract fee to Twin-Kem for "the
+Services" consisting of:  $50,000.00 cash plus 18,520 shares of ESI $0.01 par
+value common stock.  In addition, ESI will pay Twin-Kem a commission of $5.00
+per ton on PPA based products and $2.50 per ton on Raffinate sold.  However,
+initially the commission rate will be adjusted to $4.00 per ton PPA and $2.00
+per ton Raffinate, until the dollar reduction in PPA and Raffinate offset the
+initial cash payment.  Then they will return to above levels.  This commission
+shall be payable monthly, no later than the last day of the month following
+the period during which "the Services" were performed.  Upon termination of
+this Agreement, payments under this paragraph shall cease; provided, however,
+that Twin-Kem shall be entitled to payments for periods or partial periods
+that occurred prior to the date of termination and for which Twin-Kem has not
+yet been paid.  This fee may be periodically adjusted, as agreed, by both
+parties.  All funds are in US dollars.
+
+4.  EXPENSE REIMBURSEMENT.  Twin-Kem shall be responsible for its marketing
+expenses.  However, Twin-Kem shall be entitled to reimbursement from ESI for
+all "out-of-pocket" expenses where ESI asks Twin-Kem to do work outside the
+scope of this agreement.
+
+5.  TECHNICAL SUPPORT SERVICES.  ESI will provide the following support
+services for the benefit of Twin-Kem:  samples, literature, MSDS sheets, spec.
+sheets, and lab support.  Twin-Kem will support the development of technical
+data sheets, MSDS sheets and other technical information.
+
+6.  MARKETING SUPPORT SERVICES.  ESI will be responsible for the following:
+pricing, invoices, receivables, and freight.  Twin-Kem will assist in
+establishing appropriate information such as competitive pricing, invoice,
+receivable and freight systems, and web page development.  Some of the above
+may fall under new projects and need ESI approval.
+
+7.  MARKETING REPORTS.  Twin-Kem will regularly submit call reports and
+maintain other reports and records to keep ESI current on marketing
+developments and progress.
+
+8.  PRODUCT LIABILITY INSURANCE.  ESI will add Twin-Kem as a co-insured
+attached to ESI's liability policy in the amount of $1,000,000.00.
+
+9.  NEW PROJECT APPROVAL.  Twin-Kem and ESI recognize that Twin-Kem's services
+may include working on various projects for ESI.  Twin-Kem will submit a
+proposal and fee schedule and obtain the approval of ESI prior to the
+commencement of any such projects.
+
+                                      1
+<PAGE>
+
+
+10.  TERM/TERMINATION.  This Agreement shall be effective for a period of one
+year and shall automatically renew for successive terms of the same duration,
+unless either party provides 90 days written notice to the other party prior
+to the termination of the applicable initial term or renewal term.
+Nevertheless, in the event that Twin-Kem fails or is unable to perform the
+obligations of this agreement, ESI has the right to terminate this agreement
+with 30 days written notice.
+
+11.  RELATIONSHIP OF PARTIES.  It is understood by the parties that Twin-Kem
+is an independent contractor and not an employee of ESI.  ESI will not provide
+fringe benefits, including health insurance benefits, paid vacation, or any
+other employee benefits to Twin-Kem.
+
+12.  DISCLOSURE.  Twin-Kem is required to disclose any outside activities or
+interests, including ownership or participation in the development of prior
+inventions, that conflict or may conflict with the best interests of ESI.
+Prompt disclosure is required under this paragraph if the activity or interest
+is related, directly or indirectly, to:
+     - any activity that Twin-Kem may be involved with on behalf of ESI.
+
+13.  EMPLOYEES.  Twin-Kem's employees, if any, who perform services for ESI
+under this Agreement shall also be bound by the provisions of this Agreement.
+Ron Johnson and Rod Johnson shall remain as officers of Twin-Kem in their
+present capacity.
+
+14.  ASSIGNMENT.  Twin-Kem's obligations under this Agreement may not be
+assigned or transferred to any other person, firm, or corporation without the
+prior written consent of ESI.
+
+15.  CONFIDENTIALITY.  Twin-Kem recognizes that ESI has and will have the
+following information:
+     - inventions
+     - process information
+     - trade secrets
+and other proprietary information (collectively, "Information") which are
+valuable, special and unique assets of ESI.  Twin-Kem agrees that Twin-Kem
+will not at any time or in any manner, either directly or indirectly, use any
+"Information" for Twin-Kem's own benefit, or divulge, disclose, or communicate
+in any manner any "Information" to any third party without the prior written
+consent of ESI.  Twin-Kem will protect the "Information" and treat it as
+strictly confidential.  A violation of this paragraph shall be a material
+violation of this Agreement.
+
+16.  CONFIDENTIALITY AFTER TERMINATION.  This confidentiality provisions of
+this Agreement shall remain in full force and effect after the termination of
+this Agreement.
+
+17.  RETURN OF RECORDS.  Upon termination of this Agreement, Twin-Kem shall
+deliver all records, notes, data, memoranda, models, and equipment of any
+nature that are in Twin-Kem's possession or under Twin-Kem's control and that
+are ESI's property or relate to ESI's business.
+
+18.  NOTICES.  All notices required or permitted under this Agreement shall be
+in writing and shall be deemed delivered when delivered in person or deposited
+in the United States mail, postage prepaid, addressed as follows:
+
+IF for ESI:
+Earth Sciences, Inc.
+Mark H. McKinnies
+President
+910 12th Street
+Golden, Colorado 80401
+
+IF for Twin-Kem:
+Twin-Kem International, Inc.
+Ron Johnson
+Chairman of the Board
+4220 S. Allison Street
+Lakewood, Colorado 80235
+
+                                       2
+<PAGE>
+
+Such addresses may be changed from time to time by either party by providing
+written notice to the other in the manner set forth above.
+
+19.  ENTIRE AGREEMENT.  This Agreement contains the entire agreement of the
+parties and there are no other promises or conditions in any other agreement
+whether oral or written.  This Agreement supersedes any prior written or oral
+agreements between the parties.
+
+20.  AMENDMENT.  This Agreement may be modified or amended if the amendment is
+made in writing and is signed by both parties.
+
+21.  SEVERABILITY.  If any provision of this Agreement shall be held to be
+invalid or unenforceable for any reason, the remaining provisions shall
+continue to be valid and enforceable.  If a court finds that any provision of
+this Agreement is invalid or unenforceable, but that by limiting such
+provision it would become valid and enforceable, then such provision shall be
+deemed to be written, construed, and enforced as so limited.
+
+22.  WAIVER OF CONTRACTUAL RIGHT.  The failure of either party to enforce any
+provision of this Agreement shall not be construed as a waiver or limitation
+of that party's right to subsequently enforce and compel strict compliance
+with every provision of this Agreement.
+
+23.  APPLICABLE  LAW.  This Agreement shall be governed by the laws of the
+State of Colorado.
+Party receiving services:
+Earth Sciences, Inc.
+
+
+By:_/s/ Mark H. McKinnies_________
+     Mark H. McKinnies, President
+
+Party providing services:
+Twin-Kem International, Inc.
+
+
+By:_/s/ Ronald B. Johnson____________
+      Ron Johnson, Chairman of the Board
+
+
+                                       3
+<PAGE>
+
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

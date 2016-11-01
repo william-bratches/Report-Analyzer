@@ -1,0 +1,1454 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ VPv2BW71HtBvXxOpiWOQsYuAtD1we7Tv+Y/FEsUkZtbInn3pwBfwhnkNy8/4rdPt
+ MHEQgmQmQ/lOOECc7rCOcw==
+
+<SEC-DOCUMENT>0000017485-06-000002.txt : 20060117
+<SEC-HEADER>0000017485-06-000002.hdr.sgml : 20060116
+<ACCEPTANCE-DATETIME>20060117134716
+ACCESSION NUMBER:		0000017485-06-000002
+CONFORMED SUBMISSION TYPE:	10KSB
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20050930
+FILED AS OF DATE:		20060117
+DATE AS OF CHANGE:		20060117
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			CARDIFF COMMUNICATIONS INC
+		CENTRAL INDEX KEY:			0000017485
+		STANDARD INDUSTRIAL CLASSIFICATION:	CABLE & OTHER PAY TELEVISION SERVICES [4841]
+		IRS NUMBER:				870267292
+		STATE OF INCORPORATION:			NV
+		FISCAL YEAR END:			0930
+
+	FILING VALUES:
+		FORM TYPE:		10KSB
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-05663
+		FILM NUMBER:		06532486
+
+	BUSINESS ADDRESS:	
+		STREET 1:		848 N RAINBOW
+		STREET 2:		221
+		CITY:			LAS VEGAS
+		STATE:			NV
+		ZIP:			89107
+		BUSINESS PHONE:		7022776044
+
+	MAIL ADDRESS:	
+		STREET 1:		848 N RAINBOW
+		STREET 2:		221
+		CITY:			LAS VEGAS
+		STATE:			NV
+		ZIP:			89107
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	CARDIFF INDUSTRIES INC
+		DATE OF NAME CHANGE:	19810611
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>10KSB
+<SEQUENCE>1
+<FILENAME>cardsep05k.htm
+<TEXT>
+<HTML>
+<HEAD>
+</HEAD>
+<BODY TEXT="#000000" LINK="#0000ff" VLINK="#551a8b" ALINK="#ff0000" BGCOLOR="#FFFFFF">
+
+<hr size="6" color="#0000FF">
+
+<P ALIGN="CENTER">UNITED STATES</P>
+
+<P ALIGN="CENTER">SECURITIES AND EXCHANGE COMMISSION</P>
+
+<P ALIGN="CENTER">Washington, D.C.</P>
+
+<p align="center"><BR WP="BR2">
+<STRONG><FONT SIZE="+2">FORM 10-KSB</FONT></STRONG>
+<P>[ X ]	ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT
+OF 1934</P>
+
+<BR WP="BR1">	For the fiscal year ended <STRONG><FONT SIZE="+1">September 30, 2004</FONT></STRONG>
+
+<P>									</P>
+
+<P>[    ]	TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE
+ACT OF 1934</P>
+
+<BR WP="BR1"><BR WP="BR2">
+<P><CENTER>Commission File No.  <STRONG>0-5662</STRONG></CENTER>
+
+<BR WP="BR1"><BR WP="BR2">
+</P>
+
+<P><CENTER><FONT SIZE="+1"><STRONG><U>CARDIFF COMMUNICATIONS, INC.</U></STRONG></FONT></CENTER>
+</P>
+
+<P><CENTER>(Exact name of Registrant as specified in its charter)</CENTER>
+</P>
+
+<BR WP="BR1"><BR WP="BR2">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<U> 		<STRONG><FONT SIZE="+1">		NEVADA</FONT></STRONG></U>&nbsp;<STRONG><U>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+87-0267292<br>
+</U></STRONG>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+(State or other jurisdiction of&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+(IRS Employer Identification No.)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+incorporation or organization)
+<p>
+
+<BR WP="BR1">
+<P><FONT SIZE="+1"><CENTER> <STRONG><U> 378 North Main, #124; Layton, UT 84041</U></STRONG></FONT></CENTER>
+</P>
+
+<P><CENTER>(Address and zip code of principal executive offices)</CENTER>
+</P>
+
+<BR WP="BR1">Registrant's telephone number, including area code:<FONT SIZE="+1"><STRONG> (801) 497-9075</STRONG></FONT>
+<p>&nbsp;
+<P>Securities registered pursuant to Section 12(b) of the Act: NONE</P>
+
+<P>Securities registered pursuant to Section 12(g) of the Act: Common Capital Stock $.001 Par Value<STRONG></STRONG></P>
+
+<P><FONT SIZE="-1">Indicate by check mark whether the Registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange
+Act of 1934 during the preceding 12 months (or for such shorter period that the Registrant was required to file such reports, and (2) has been
+subject to such filing requirements for the past 90 days.</FONT>   <STRONG>[ X] Yes     [    ] No</STRONG><FONT SIZE="-1"></FONT></P>
+
+<P><FONT SIZE="-1">Indicate by check mark if disclosure of delinquent filers pursuant to Item 405 of Regulation S-K is not contained herein, and will not be
+contained, to the best of Registrant's knowledge, in definitive proxy or information statements incorporated by reference in Part III of this
+Form 10-K or any amendment to this Form 10-K.   </FONT> <STRONG>[ X ]</STRONG></P>
+
+<P>Revenue for the year ended September 30, 2004:<FONT COLOR="#ff0000">   </FONT>$0<BR WP="BR2">
+</P>
+
+<P>As of December 13, 2004 it is unclear as to the aggregate market value of the voting stock held by non-affiliates of
+the Registrant.  This is due to the low or almost non-existing trading of the Registrant's Securities.</P>
+
+<P>As of December 13, 2004 the number of shares outstanding of the Registrant's Common Stock was 9,990,544.</P>
+
+<BR WP="BR1"><BR WP="BR2">
+<BR WP="BR1">
+<hr color="#0000FF">
+<p>
+
+<CENTER><STRONG>PART I</STRONG></CENTER>
+
+
+<BR WP="BR1"><BR WP="BR2">
+</p>
+<P><HR color="#0000FF">
+
+<STRONG>ITEM 1.  DESCRIPTION OF BUSINESS</STRONG>
+
+<BR WP="BR1"><BR WP="BR2">
+<P>	Cardiff Communications, Inc.,  ("the Company") was organized in December 1906 in the State of Utah under the
+name Cardiff Mining &amp; Milling Company.  During the 60's the Company changed its name to Cardiff Industries, Inc. and sold
+its mining operations.  During the next decade the Company focused its operations on the television and radio industry.
+Consequently in 1980, the Company's name was changed to Cardiff Communications, Inc.. The Company changed it's
+domicile to the state of Nevada which was effective in 1999 and filed with the Secretary of State Nevada in 2000.  The
+Company has had no operations in the last 10 years, but intends to pursue business opportunities in the communications
+industry.</P>
+
+<P>					</P>
+
+<P>	The board of directors feel that the Company does not meet the criteria of a development stage company (as defined
+in SFAS 7 "<EM>Accounting and Reporting by Development Stage Enterprises</EM>") primarily because it is not currently producing
+or marketing a product or service. However, the Company is currently seeking a business opportunity to merge with or acquire
+ and effective September 14, 2004, Cardiff Communications, Inc., ("the Company") executed an agreement to acquire all of
+the equity of Summit Media, Inc. ("Summit"), a privately-held Utah corporation.  The company has only entered into this
+agreement, the agreement has not yet closed.</P>
+
+<BR WP="BR1"><BR WP="BR2">
+<P>          Upon closing of the acquisition, Summit will become a wholly-owned subsidiary of the Company. Pursuant to the
+transaction, the shareholders of Summit will be issued an aggregate of 150,000,000 shares of common stock and become the
+controlling shareholders of the Company. The Company currently only has 10 million shares authorized and approximately
+the same number of shares issued and outstanding. The Company intends to increase the authorized common shares to 200
+million in order to complete the acquisition.</P>
+
+<P>            The transaction will result in a change of control in terms of share ownership and the Board of directors. Following
+notice and filing pursuant to Rule 14f-1, the current sole officer and director of the Company will resign.</P>
+
+<P>            Summit Media was recently formed to acquire and develop television broadcast licenses. Summit has already acquired
+a low power television ("LPTV") station construction permit ("CP") licensed to the city of Acton, Tennessee.  The Purchase
+Agreement provides for payments to the sellers upon the occurrence of certain events in the FCC compliance process.  An
+initial $10,000 is due upon grant of authority for change of ownership by the FCC, and shares of common stock is due upon
+commencement of broadcasting.  The Company's goal is to create value to the station prior to the build out of the station.<FONT SIZE="-1"></FONT></P>
+
+<BR WP="BR1"><BR WP="BR2">
+<P>	<STRIKE></STRIKE>There is no assurance that the Company will be successful in completing this business opportunity to acquire Summit
+Media. </P>
+
+<P>	</P>
+
+<BR WP="BR1">
+<hr color="#0000FF">
+<p><BR WP="BR2">
+</p>
+<P><STRONG>ITEM 2.  DESCRIPTION OF PROPERTY</STRONG></P>
+
+<BR WP="BR1"><BR WP="BR2">
+<P>	The Company currently maintains its corporate presence from the office of the Company's legal counsel and pays
+no rent or expenses.</P>
+
+<BR WP="BR1"><BR WP="BR2">
+<P>	</P>
+
+<P><STRONG>ITEM 3.  LEGAL PROCEEDINGS</STRONG></P>
+
+<BR WP="BR1"><BR WP="BR2">
+<P>	None</P>
+
+<BR WP="BR1"><BR WP="BR2">
+<P><STRONG>ITEM 4.  SUBMISSION OF MATTERS TO A VOTE OF SECURITIES HOLDERS</STRONG></P>
+
+<BR WP="BR1"><BR WP="BR2">
+<P>	Subsequent to the fiscal year end, shareholders holding a majority of the company's shares currently issued and
+outstanding will consent to the an increase in the number of authorized common shares from ten million to two hundred
+million; effectuate up to a 100 to 1 reverse split, to be determined by the Board at a later date; and a change in the Company's
+name to be selected at a later date.</P>
+
+<BR WP="BR1"><BR WP="BR2">
+<BR WP="BR1"><BR WP="BR2">
+<BR WP="BR1"><BR WP="BR2">
+<BR WP="BR1"><BR WP="BR2">
+<P><FONT SIZE="-1"><HR color="#0000FF">
+
+<CENTER><STRONG>PART II</STRONG></CENTER>
+
+
+<BR WP="BR1"><BR WP="BR2">
+<P><HR color="#0000FF">
+
+<STRONG>ITEM 5.  MARKET PRICE FOR REGISTRANT'S COMMON EQUITY AND  RELATED STOCKHOLDER
+MATTERS</STRONG>
+
+<P>							</P>
+
+<P>	The Company is not currently trading in any public markets and has not been able to obtain any reliable trading
+history for the period reported.   As of December 13, 2004, the Company had approximately 1,259</FONT><FONT COLOR="#ff0000"> </FONT> shareholders of record.</P>
+
+<BR WP="BR1"><BR WP="BR2">
+<P>	The Company has not declared any cash dividends on its Common Stock in the last thirty years and its Board of
+Directors has no present intention of declaring any dividends.  For the foreseeable future, the Company intends to retain all
+earnings, if any, for use in the development and expansion of its business.</P>
+
+<BR WP="BR1"><BR WP="BR2">
+<P>	</P>
+
+<BR WP="BR1"><BR WP="BR2">
+<P><STRONG>ITEM 6.  MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION</STRONG>
+<STRONG>AND RESULTS OF OPERATIONS</STRONG></P>
+
+<BR WP="BR1"><BR WP="BR2">
+<P><STRONG>Financial Condition</STRONG></P>
+
+<BR WP="BR1"><BR WP="BR2">
+<P>	The Company had no revenue during the year ended September 30, 2004.  The total accumulated deficit for the year
+ended September 30, 2004 was  $127,441, as compared $110,313 at September 30, 2003. The Company has no operating
+capital for future operations.</P>
+
+<BR WP="BR1"><BR WP="BR2">
+<P><STRONG>Liquidity and Capital Resources</STRONG></P>
+
+<BR WP="BR1"><BR WP="BR2">
+<P>	The Company has  minimal liquid assets and is currently in the process of looking for business opportunities to merge
+with or acquire.  At minimum, the Company will need to raise additional capital through private funding to meet the financial
+needs of being a reporting company.  Historically, the Company has been successful in raising operational capital.  There is
+no guarantee that the Company will be successful in obtaining necessary funding to develop any business opportunities.</P>
+
+<BR WP="BR1"><BR WP="BR2">
+<P><STRONG>Results of Operations</STRONG></P>
+
+<BR WP="BR1"><BR WP="BR2">
+<P>	The Company reported a net loss of $17,128 for the year ended September 30, 2004, compared to a net loss of
+$66,316 for the previous year.  The Company anticipates very little or no overhead from future operations except for those
+expenses related to being a reporting company, until a successor business can be acquired or merged.</P>
+
+<P>	</P>
+
+<P>	During September 2004, approximately $7,300 of accounts payable were settled in exchange for convertible
+notes and are reflected in that portion of the Company's financial statements.</P>
+
+<BR WP="BR1"><BR WP="BR2">
+<BR WP="BR1"><BR WP="BR2">
+<BR WP="BR1"><BR WP="BR2">
+<P><STRONG>ITEM 7.  FINANCIAL STATEMENTS</STRONG></P>
+
+<BR WP="BR1"><BR WP="BR2">
+<P>(a)(1)	The following financial statements of the Company and its subsidiaries have been filed as part of this report. </P>
+
+<BR WP="BR1"><BR WP="BR2">
+<P>	Independent Auditors' Report</P>
+
+<BR WP="BR1"><BR WP="BR2">
+<P>	Balance Sheets as of September 30, 2004.</P>
+
+<BR WP="BR1"><BR WP="BR2">
+<P>	Statements of Operations for the years ended September 30, 2004 and September 30, 2003.</P>
+
+<BR WP="BR1"><BR WP="BR2">
+<P>	Statement of Stockholders' Equity for the period from October 1, 2000 to September 30, 2004.</P>
+
+<BR WP="BR1"><BR WP="BR2">
+<P>	Statement of Cash Flows for the years ended September 30, 2004 and September 30, 2003.</P>
+
+<BR WP="BR1"><BR WP="BR2">
+<P>	Notes to Financial Statements.</P>
+
+<BR WP="BR1"><BR WP="BR2">
+<P>  (2)	Schedules are omitted because of the absence of conditions under which they are required or because the required
+information is given in the financial statements or notes thereto.</P>
+
+<BR WP="BR1"><BR WP="BR2">
+<BR WP="BR1"><BR WP="BR2">
+<BR WP="BR1"><BR WP="BR2">
+<BR WP="BR1">
+<hr color="#0000FF">
+<p><BR WP="BR2">
+</p>
+<P>/Letterhead/</P>
+
+<BR WP="BR1"><BR WP="BR2">
+<BR WP="BR1"><BR WP="BR2">
+<P ALIGN="CENTER">INDEPENDENT AUDITOR'S REPORT</P>
+
+<BR WP="BR1"><BR WP="BR2">
+<BR WP="BR1"><BR WP="BR2">
+<P>Stockholders and Directors<br>
+Cardiff Communications, Inc.<br>
+Salt Lake City, Utah
+<BR WP="BR1"><BR WP="BR2">
+</P>
+
+<P>We have audited the accompanying balance sheet of Cardiff Communications, Inc., as of September
+30, 2004 and 2003, and the related statements of operations, stockholders' equity, and cash flows
+for the years then ended.  These financial statements are the responsibility of the company's
+management.  Our responsibility is to express and opinion on these financial statements based on
+our audit.</P>
+
+<P>We conducted our audits in accordance with standards of the Public Company Accounting Oversight
+Board, (United States of America).  Those standards require that we plan and perform the audits to
+obtain reasonable assurance about whether the financial statements are free of material misstatement.
+An audit includes examining, on a test basis, evidence supporting the amounts and disclosures in the
+financial statements.  An audit also includes assessing the accounting principles used and significant
+estimates made by management, as well as evaluating the overall financial statement presentation.
+We believe that our audits provide a reasonable basis for our opinion.</P>
+
+<P>In our opinion, the financial statements referred to above present fairly, in all material respects, the
+financial position of Cardiff Communications, Inc., at September 30, 2004 and 2003, and the results
+of its operations and cash flows for the years then ended in conformity with standards of the Public
+Company Accounting Oversight Board, (United States of America).</P>
+
+<P>The accompanying financial statements have been prepared assuming that the Company will
+continue as a going concern.  As discussed in Note 5, the Company's recurring operating losses and
+lack of working capital raise substantial doubt about its ability to continue as a going concern.
+Management's plans in regard to those matters are also described in Note 5.  The financial
+statements do not include any adjustments that might result from the outcome of this uncertainty.<BR WP="BR2">
+</P>
+
+<P>/S/ Chisholm, Bierwolf &amp; Nilson</P>
+
+<BR WP="BR1"><BR WP="BR2">
+<P>Chisholm, Bierwolf &amp; Nilson, LLC</P>
+
+<P>Salt Lake City, Utah</P>
+
+<P>January 10, 2005</P>
+
+<hr color="#0000FF">
+
+<P>&nbsp;</P>
+
+<P ALIGN="CENTER"><STRONG>Cardiff Communications, Inc.</STRONG></P>
+
+<P ALIGN="CENTER">Balance Sheets</P>
+
+<BR WP="BR1"><BR WP="BR2">
+<TABLE BORDER="0" WIDTH="100%">
+<TR VALIGN="TOP"><TD COLSPAN="3">
+<P ALIGN="CENTER"><STRONG>Assets</STRONG></TD></TR>
+<TR VALIGN="TOP"><TD></P>
+<BR WP="BR1"><BR WP="BR2"></TD>
+<TD><STRONG></STRONG>September 30,
+
+<P><U><CENTER>2004</CENTER>
+	</U></TD>
+<TD>September 30,</P>
+
+<P><U><CENTER>2003</CENTER>
+	</U></TD></TR>
+<TR VALIGN="TOP"><TD><U>Current Assets</U></TD>
+<TD ALIGN="RIGHT"></TD>
+<TD ALIGN="RIGHT"></TD></TR>
+<TR VALIGN="TOP"><TD>     Cash</TD>
+<TD><U>$	200 </U></TD>
+<TD><U>$	200 </U></TD></TR>
+<TR VALIGN="TOP"><TD>Total Current Assets</TD>
+<TD>$	200 </TD>
+<TD>$	200 </TD></TR>
+<TR VALIGN="TOP"><TD></TD>
+<TD ALIGN="RIGHT"></TD>
+<TD ALIGN="RIGHT"></TD></TR>
+<TR VALIGN="TOP"><TD COLSPAN="3"><CENTER><STRONG>Liabilities and Stockholders' Equity</STRONG></CENTER>
+</TD></TR>
+<TR VALIGN="TOP"><TD><U>Current Liabilities</U></TD>
+<TD ALIGN="RIGHT"></TD>
+<TD ALIGN="RIGHT"></TD></TR>
+<TR VALIGN="TOP"><TD>	Accounts Payable</TD>
+<TD>$	4,823 </TD>
+<TD>$	4,661 </TD></TR>
+<TR VALIGN="TOP"><TD>          	Interest Payable</TD>
+<TD>	30,785 </TD>
+<TD>	21,298 </TD></TR>
+<TR VALIGN="TOP"><TD>           Note Payable</TD>
+<TD><U>	146,575 </U></TD>
+<TD><U>	139,285 </U></TD></TR>
+<TR VALIGN="TOP"><TD>Total Current Liabilities		</TD>
+<TD>	182,183 </TD>
+<TD>	165,244 </TD></TR>
+<TR VALIGN="TOP"><TD><U>Stockholders' Equity (Deficit)</U></TD>
+<TD></TD>
+<TD></TD></TR>
+<TR VALIGN="TOP"><TD>     Common Stock 10,000,000 Shares Authorized </P>
+
+<P>      at $.001 Par Value; 9,990,544 Shares Issued  and
+    Outstanding at September 30, 2004 and September </P>
+
+<P>      30, 2003</TD>
+<TD></P>
+<BR WP="BR1"><BR WP="BR2">
+<BR WP="BR1"><BR WP="BR2">
+<BR WP="BR1"><BR WP="BR2">	9,991 </TD>
+<TD>
+<BR WP="BR1"><BR WP="BR2">
+<BR WP="BR1"><BR WP="BR2">
+<BR WP="BR1"><BR WP="BR2">	9,991 </TD></TR>
+<TR VALIGN="TOP"><TD>     Capital in Excess of Par Value</TD>
+<TD>	(64,721)</TD>
+<TD>	(64,721)</TD></TR>
+<TR VALIGN="TOP"><TD>     Retained Deficit</TD>
+<TD><U>	(127,253)</U></TD>
+<TD><U>	(110,314)</U></TD></TR>
+<TR VALIGN="TOP"><TD>Total Stockholders' Equity (Deficit)</TD>
+<TD><U>	(181,982)</U></TD>
+<TD><U>	(165,044)</U></TD></TR>
+<TR VALIGN="TOP"><TD>Total Liabilities &amp; Stockholders' Equity (Deficit)</TD>
+<TD>$	200 </TD>
+<TD>$	200 </TD></TR></TABLE>
+
+<BR WP="BR1"><BR WP="BR2">
+<hr color="#0000FF">
+<P><STRONG>Cardiff Communications, Inc.</STRONG></P>
+
+<P>Statements of Operations</P>
+
+<BR WP="BR1"><BR WP="BR2">
+<TABLE BORDER="0" WIDTH="100%">
+<TR VALIGN="TOP"><TD></TD>
+<TD><CENTER>September 30,</CENTER>
+
+
+<P><U><CENTER>2004</CENTER>
+	</U></TD>
+<TD><CENTER>September 30,</CENTER>
+</P>
+
+<P><U><CENTER>2003</CENTER>
+	</U></TD></TR>
+<TR VALIGN="TOP"><TD><U>Revenue</U></TD>
+<TD><U>$<CENTER>-</CENTER>
+	</U></TD>
+<TD><U>$<CENTER>-</CENTER>
+	</U></TD></TR>
+<TR VALIGN="TOP"><TD><U>Expenses</U></TD>
+<TD></TD>
+<TD></TD></TR>
+<TR VALIGN="TOP"><TD><U></U><U></U>     General &amp; Administrative<U></U></TD>
+<TD><U>	7,452 </U></TD>
+<TD><U>	60,661 </U></TD></TR>
+<TR VALIGN="TOP"><TD>     Total Operating Expenses</TD>
+<TD><U>	7,452 </U></TD>
+<TD><U>	60,661 </U></TD></TR>
+<TR VALIGN="TOP"><TD>     Net (Loss)</TD>
+<TD>	(7,452)</TD>
+<TD>	(60,661)</TD></TR>
+<TR VALIGN="TOP"><TD><U>Other Income (Expenses)</U></TD>
+<TD></TD>
+<TD></TD></TR>
+<TR VALIGN="TOP"><TD>      Interest (Expense)</TD>
+<TD><U>	(9,487)</U></TD>
+<TD><U>	(5,655)</U></TD></TR>
+<TR VALIGN="TOP"><TD>      Total Other Income (Expenses)</TD>
+<TD><U>	(9,487)</U></TD>
+<TD><U>	(5,655)</U></TD></TR>
+<TR VALIGN="TOP"><TD><U></U>      Net Income (Loss) - Before Taxes<U></U></TD>
+<TD>	(16,939)</TD>
+<TD>	(66,316)</TD></TR>
+<TR VALIGN="TOP"><TD>      Taxes</TD>
+<TD><U><CENTER>-</CENTER>
+	</U></TD>
+<TD><U><CENTER>-</CENTER>
+	</U></TD></TR>
+<TR VALIGN="TOP"><TD><U></U>      Net Income (Loss)<U></U></TD>
+<TD>$	(16,939)</TD>
+<TD>$	(66,316)</TD></TR>
+<TR VALIGN="TOP"><TD>      Loss per Common Share</TD>
+<TD>$            -</TD>
+<TD>$	(0.01)</TD></TR>
+<TR VALIGN="TOP"><TD>Weighted Average Outstanding Shares</TD>
+<TD>	9,990,544 </TD>
+<TD>	9,905,544 </P>
+</TD></TR></TABLE>
+
+<BR WP="BR1"><BR WP="BR2">
+<BR WP="BR1"><BR WP="BR2">
+<BR WP="BR1"><BR WP="BR2">
+<BR WP="BR1"><BR WP="BR2">
+<BR WP="BR1">
+<hr color="#0000FF">
+<p><BR WP="BR2">
+</p>
+<P ALIGN="CENTER"><STRONG>Cardiff Communications, Inc.</STRONG></P>
+
+<P ALIGN="CENTER">Statements of Stockholders' Equity</P>
+
+<P ALIGN="CENTER">October 1, 2000 through September 30, 2004</P>
+
+<BR WP="BR1"><BR WP="BR2">
+<TABLE BORDER="0" WIDTH="100%">
+<TR VALIGN="TOP"><TD ROWSPAN="2"></TD>
+<TD COLSPAN="2"><U><CENTER>Common Stock</CENTER>
+	</U></TD>
+<TD ROWSPAN="2"><CENTER>Capital In</CENTER>
+
+
+<P><CENTER>Excess of</CENTER>
+</P>
+
+<P><U><CENTER>Par Value</CENTER>
+	</U></TD>
+<TD ROWSPAN="2"></P>
+<BR WP="BR1"><BR WP="BR2"><CENTER>Retained<U></U></CENTER>
+
+
+<P><U><CENTER>Deficit</CENTER>
+	</U></TD></TR>
+<TR VALIGN="TOP"></TD>
+<TD><U><CENTER>Shares</CENTER>
+	</U></TD>
+<TD><U><CENTER>Amount</CENTER>
+	</U></TD>
+</TD>
+</TD></TR>
+<TR VALIGN="TOP"><TD>Balance, October 1, 2000</TD>
+<TD>	6,800,544 </TD>
+<TD>$	6,801 </TD>
+<TD>$	9,199 </TD>
+<TD>$	(4,566)</TD></TR>
+<TR VALIGN="TOP"><TD>Loss for the Year Ended</P>
+
+<P>   September 30, 2001</TD>
+<TD><U></U></P>
+<BR WP="BR1"><BR WP="BR2"><CENTER>-</CENTER>
+	</TD>
+<TD><U></U>
+<BR WP="BR1"><BR WP="BR2"><CENTER>-</CENTER>
+	</TD>
+<TD><U></U>
+<BR WP="BR1"><BR WP="BR2"><CENTER>-</CENTER>
+	</TD>
+<TD><U></U>
+<BR WP="BR1"><BR WP="BR2">	(16,895)</TD></TR>
+<TR VALIGN="TOP"><TD>Balance, September 30, 2001</TD>
+<TD>	6,800,544 </TD>
+<TD>	6,801 </TD>
+<TD>	9,199 </TD>
+<TD>	(21,461)</TD></TR>
+<TR VALIGN="TOP"><TD>Shares Issued for Cash
+
+<P>   at $.001 Per Share</TD>
+<TD></P>
+<BR WP="BR1"><BR WP="BR2">	20,000 </TD>
+<TD>
+<BR WP="BR1"><BR WP="BR2">	20 </TD>
+<TD>
+<BR WP="BR1"><BR WP="BR2">	180 </TD>
+<TD>
+<BR WP="BR1"><BR WP="BR2"><CENTER>-</CENTER>
+</TD></TR></TABLE>
+
+<TABLE BORDER="0" WIDTH="100%">
+<TR VALIGN="TOP"><TD><U></U>Shares Canceled</TD>
+<TD>	(1,900,000)</TD>
+<TD>	(1,900)</TD>
+<TD>	(74,100)</TD>
+<TD><CENTER>-</CENTER>
+</TD></TR>
+<TR VALIGN="TOP"><TD>Shares Issued for Services at
+
+<P>   $.001 Per Share</TD>
+<TD></P>
+<BR WP="BR1"><BR WP="BR2">	4,900,000 </TD>
+<TD>
+<BR WP="BR1"><BR WP="BR2">	4,900 </TD>
+<TD>
+<BR WP="BR1"><BR WP="BR2">		-</TD>
+<TD>
+<BR WP="BR1"><BR WP="BR2"><CENTER>-</CENTER>
+</TD></TR>
+<TR VALIGN="TOP"><TD>Loss for the Year Ended
+
+<P>   September 30, 2002</TD>
+<TD><U></U></P>
+<BR WP="BR1"><BR WP="BR2"><CENTER>-</CENTER>
+	</TD>
+<TD><U></U>
+<BR WP="BR1"><BR WP="BR2"><CENTER>-</CENTER>
+	</TD>
+<TD><U></U>
+<BR WP="BR1"><BR WP="BR2"><CENTER>-</CENTER>
+	</TD>
+<TD><U></U>
+<BR WP="BR1"><BR WP="BR2">	(22,537)</TD></TR>
+<TR VALIGN="TOP"><TD>Balance, September 30, 2002</TD>
+<TD>	9,820,544 </TD>
+<TD>	9,821 </TD>
+<TD>	(64,721)</TD>
+<TD>	(43,998)</TD></TR>
+<TR VALIGN="TOP"><TD>Shares Issued for Services at
+
+<P>   $.001 Per Share</TD>
+<TD></P>
+<BR WP="BR1"><BR WP="BR2">	170,000 </TD>
+<TD>
+<BR WP="BR1"><BR WP="BR2">	170 </TD>
+<TD>
+<BR WP="BR1"><BR WP="BR2"><CENTER>-</CENTER>
+</TD>
+<TD>
+<BR WP="BR1"><BR WP="BR2"><CENTER>-</CENTER>
+</TD></TR>
+<TR VALIGN="TOP"><TD>Loss for the Year Ended
+
+<P>   September 30, 2003</TD>
+<TD></P>
+<BR WP="BR1"><BR WP="BR2"><U><CENTER>-</CENTER>
+	</U></TD>
+<TD>
+<BR WP="BR1"><BR WP="BR2"><U><CENTER>-</CENTER>
+	</U></TD>
+<TD>
+<BR WP="BR1"><BR WP="BR2"><U><CENTER>-</CENTER>
+	</U></TD>
+<TD>
+<BR WP="BR1"><BR WP="BR2"><U>	(66,316)</U></TD></TR>
+<TR VALIGN="TOP"><TD>Balance, September 30, 2003</TD>
+<TD>	9,990,544 </TD>
+<TD>	9,991 </TD>
+<TD><CENTER>-</CENTER>
+</TD>
+<TD>	(110,314)</TD></TR>
+<TR VALIGN="TOP"><TD>Loss for the Year Ended
+
+<P>   September 30, 2004</TD>
+<TD></P>
+<BR WP="BR1"><BR WP="BR2"><U><CENTER>-</CENTER>
+	</U></TD>
+<TD>
+<BR WP="BR1"><BR WP="BR2"><U><CENTER>-</CENTER>
+	</U></TD>
+<TD>
+<BR WP="BR1"><BR WP="BR2"><U><CENTER>-</CENTER>
+	</U></TD>
+<TD>
+<BR WP="BR1"><BR WP="BR2"><U>	(16,939)</U></TD></TR>
+<TR VALIGN="TOP"><TD>Balance, September 30, 2004</TD>
+<TD>	9,990,544 </TD>
+<TD>$	9,991 </TD>
+<TD>$	(64,721)</TD>
+<TD>$	(127,253)</TD></TR></TABLE>
+
+<BR WP="BR1"><BR WP="BR2">
+<BR WP="BR1">
+<hr color="#0000FF">
+<p><BR WP="BR2">
+<BR WP="BR1"><BR WP="BR2">
+</p>
+<P><STRONG><CENTER>Cardiff Communications, Inc.</STRONG></CENTER>
+</P>
+
+<P><CENTER>Statements of Cash Flows</CENTER>
+</P>
+
+<BR WP="BR1"><BR WP="BR2">
+<TABLE BORDER="0" WIDTH="100%">
+<TR VALIGN="TOP"><TD></TD>
+<TD>September 30,
+
+<P><U><CENTER>2004</CENTER>
+	</U></TD>
+<TD>September 30,</P>
+
+<P><U><CENTER>2003</CENTER>
+	</U></TD></TR>
+<TR VALIGN="TOP"><TD><U>Cash Flows from Operating Activities</U></TD>
+<TD ALIGN="RIGHT"></TD>
+<TD ALIGN="RIGHT"></TD></TR>
+<TR VALIGN="TOP"><TD>     Net Income (Loss)				</TD>
+<TD>$	(16,939)</TD>
+<TD>$	(66,316)</TD></TR>
+<TR VALIGN="TOP"><TD>     Changes in Operating Assets &amp; Liabilities;</TD>
+<TD></TD>
+<TD></TD></TR>
+<TR VALIGN="TOP"><TD>          Stock Issued for Services</TD>
+<TD><CENTER>- </CENTER>
+</TD>
+<TD>	170 </TD></TR>
+<TR VALIGN="TOP"><TD>          (Increase) Decrease in Interest Receivable</TD>
+<TD><CENTER>-</CENTER>
+</TD>
+<TD><CENTER>- </CENTER>
+</TD></TR>
+<TR VALIGN="TOP"><TD>(Decrease) in Accounts Payable			 </TD>
+<TD>	162</TD>
+<TD>	(1,720)</TD></TR>
+<TR VALIGN="TOP"><TD><U></U>Increase in Interest Payable	<U></U></TD>
+<TD><U>	9,487 </U></TD>
+<TD><U>	5,655 </U></TD></TR>
+<TR VALIGN="TOP"><TD>Net Cash (Used) by Operating Activities		</TD>
+<TD>	(7,290)</TD>
+<TD>	(58,771)</TD></TR>
+<TR VALIGN="TOP"><TD></TD>
+<TD></TD>
+<TD></TD></TR>
+<TR VALIGN="TOP"><TD><U>Cash Flows from Investing Activities</U>	<U></U></TD>
+<TD><U><CENTER>-</CENTER>
+	</U></TD>
+<TD><U><CENTER>-</CENTER>
+	</U></TD></TR>
+<TR VALIGN="TOP"><TD>Net Cash (Used) by Investing Activities</TD>
+<TD><CENTER>-</CENTER>
+</TD>
+<TD><CENTER>-</CENTER>
+</TD></TR>
+<TR VALIGN="TOP"><TD><U>Cash Flows from Financing Activities</U></TD>
+<TD></TD>
+<TD></TD></TR>
+<TR VALIGN="TOP"><TD>Issuance of Stock for Cash				</TD>
+<TD><CENTER>-</CENTER>
+</TD>
+<TD><CENTER>-</CENTER>
+</TD></TR>
+<TR VALIGN="TOP"><TD>Proceeds from Notes Payable	<U></U></TD>
+<TD><U>	7,290 </U></TD>
+<TD><U>	62,211 </U></TD></TR>
+<TR VALIGN="TOP"><TD>     Net Cash Provided by Financing Activities	<U></U></TD>
+<TD><U>	7,290 </U></TD>
+<TD><U>	62,211 </U></TD></TR>
+<TR VALIGN="TOP"><TD>     Increase (Decrease) in Cash		</TD>
+<TD><CENTER>-</CENTER>
+</TD>
+<TD><CENTER>-</CENTER>
+</TD></TR>
+<TR VALIGN="TOP"><TD>     Cash, Beginning of Year</TD>
+<TD><U>	200 </U></TD>
+<TD><U><CENTER>                  200</U></CENTER>
+</TD></TR>
+<TR VALIGN="TOP"><TD>     Cash, End of Year		</TD>
+<TD>$	200 </TD>
+<TD>$	200 </TD></TR>
+<TR VALIGN="TOP"><TD><U>Supplemental Cash Disclosure</U></TD>
+<TD></TD>
+<TD></TD></TR>
+<TR VALIGN="TOP"><TD>     Interest	</TD>
+<TD>$<CENTER>-</CENTER>
+</TD>
+<TD>$<CENTER>-</CENTER>
+</TD></TR>
+<TR VALIGN="TOP"><TD>     Taxes</TD>
+<TD><CENTER>-</CENTER>
+</TD>
+<TD><CENTER>-</CENTER>
+</TD></TR></TABLE>
+<BR WP="BR1"><BR WP="BR2">
+<hr color="#0000FF">
+<p>
+<BR WP="BR1"><BR WP="BR2">
+<BR WP="BR1"><BR WP="BR2">
+</p>
+<P><STRONG><CENTER>Cardiff Communications, Inc.</STRONG></CENTER>
+</P>
+
+<P><CENTER>Notes to the Financial Statements</CENTER>
+</P>
+
+<P><CENTER>September 30, 2004</CENTER>
+</P>
+
+<BR WP="BR1"><BR WP="BR2">
+<P><STRONG>NOTE 1 - Corporate History</STRONG></P>
+
+<BR WP="BR1"><BR WP="BR2">
+<P>The Company was organized on December 8, 1906 in the State of Utah under the name of "Cardiff
+Industries."  Subsequently, the name was changed to "Cardiff Communications, Inc.".   During 2001,
+the Company changed its domicile to the State of Nevada.  The Company's management anticipates
+merging with or acquiring an as yet unidentified on-going business in the future.</P>
+
+<BR WP="BR1"><BR WP="BR2">
+<P><STRONG>NOTE 2 - Significant Accounting Policies</STRONG></P>
+
+<BR WP="BR1"><BR WP="BR2">
+<P>A.	The Company uses the accrual method of accounting.</P>
+
+<P>B.	Revenues and directly related expenses are recognized in the period when the goods are
+shipped to the customer. </P>
+
+<P>C.	The Company considers all short term, highly liquid investments that are readily convertible,
+within three months, to known amounts as cash equivalents.  The Company currently has no
+cash equivalents. </P>
+
+<P>D.	Basic Earnings Per Shares are computed by dividing income available to common
+stockholders by the weighted average number of common shares outstanding during the
+period.  Diluted Earnings Per Share shall be computed by including contingently issuable
+shares with the weighted average shares outstanding during the period.  When inclusion of
+the contingently issuable shares would have an antidilutive effect upon earnings per share
+no diluted earnings per share shall be presented.</P>
+
+<P>E.	Estimates:   The preparation of the financial statements in conformity with generally accepted
+accounting principles requires management to make estimates and assumptions that affect
+the amounts reported in the financial statements and accompanying notes.  Actual results
+could differ from those estimates.</P>
+
+<BR WP="BR1"><BR WP="BR2">
+<P><STRONG>NOTE 3 - Income Taxes</STRONG></P>
+
+<BR WP="BR1"><BR WP="BR2">
+<P>The Company adopted Statement of Financial Standards No. 109 "Accounting for Income taxes" in
+the fiscal year ended September 30, 1999.</P>
+
+<BR WP="BR1"><BR WP="BR2">
+<P>Statement of Financial Accounting Standards No. 109 "Accounting for Income Taxes" requires an
+asset and liability approach for financial accounting and reporting for income tax purposes.  This
+statement recognizes (a) the amount of taxes payable or refundable for the current year and (b)
+deferred tax liabilities and assets for future tax consequences of events that have been recognized
+in the financial statements or tax returns.</P>
+
+<BR WP="BR1"><BR WP="BR2">
+<P>Deferred income taxes result from temporary differences in the recognition of accounting
+transactions for tax and financial reporting purposes.  There were no temporary differences for the
+current year accordingly, no deferred tax liabilities have been recognized.</P>
+
+<hr color="#0000FF">
+
+<BR WP="BR1"><BR WP="BR2">
+<P><STRONG><CENTER>Cardiff Communications, Inc.</STRONG></CENTER>
+</P>
+
+<P><CENTER>Notes to the Financial Statements</CENTER>
+</P>
+
+<P><CENTER>September 30, 2004</CENTER>
+</P>
+
+<BR WP="BR1"><BR WP="BR2">
+<P><STRONG>NOTE 3 - Income Taxes (continued)</STRONG></P>
+
+<BR WP="BR1"><BR WP="BR2">
+<P>The Company has cumulative net operating loss carryforwards of approximately $110,000 at
+September 30, 2004.  No effect has been shown in the financial statements for the net operating loss
+carryforwards as the likelihood of future tax benefit from such net operating loss carryforwards is
+highly improbable.  Accordingly, the potential tax benefits of the net operating loss carryforwards,
+estimated based upon current tax rates at September 30, 2004 have been offset by valuation reserves
+of the same amount.</P>
+
+<BR WP="BR1"><BR WP="BR2">
+<P><STRONG>NOTE 4 - Notes Payable</STRONG></P>
+
+<BR WP="BR1"><BR WP="BR2">
+<P>In order to meet it's operating needs, the Company has issued several convertible promissory notes
+totaling $146,575.  The notes bear interest between the rates of 5% and 10% per annum, which are
+secured by the Company's common stock and are due on demand.  The notes are convertible to the
+Company's common shares, provided, however, such conversion may be made in amounts that do
+not result in the creation of new affiliate status or in the issuance of control to one person, or a group
+of persons who are affiliates of each other.  At September 30, 2004, the total accrued interest totaled
+$30,785.</P>
+
+<BR WP="BR1"><BR WP="BR2">
+<TABLE BORDER="0" WIDTH="100%">
+<TR VALIGN="TOP"><TD>The Company has the following notes payable
+obligations:</TD>
+<TD><CENTER>September</CENTER>
+
+
+<P><U><CENTER>30, 2004</CENTER>
+	</U></TD>
+<TD><CENTER>September</CENTER>
+</P>
+
+<P><U><CENTER>30, 2003</CENTER>
+	</U></TD></TR></TABLE>
+
+<TABLE BORDER="0" WIDTH="100%">
+<TR VALIGN="TOP"><TD>Convertible note payable to investor is due on
+demand plus accrued interest at a rate of 5% per
+annum.</TD>
+<TD></P>
+<BR WP="BR1"><BR WP="BR2">$	60,000 </TD>
+<TD>
+<BR WP="BR1"><BR WP="BR2">$	60,000 </TD></TR>
+<TR VALIGN="TOP"><TD>Convertible notes payable to investors are due on
+demand plus accrued interest at a rate of 8% per
+annum.</TD>
+<TD>
+<BR WP="BR1"><BR WP="BR2">	72,074 </TD>
+<TD>
+<BR WP="BR1"><BR WP="BR2">	72,074 </TD></TR>
+<TR VALIGN="TOP"><TD>Convertible notes payable to investors are due on
+demand plus accrued interest at a rate of 10% per
+annum.</TD>
+<TD>
+<BR WP="BR1"><BR WP="BR2">
+<BR WP="BR1"><BR WP="BR2"><U>	14,501 </U></TD>
+<TD>
+<BR WP="BR1"><BR WP="BR2">
+<BR WP="BR1"><BR WP="BR2"><U><CENTER></CENTER>
+	7,211 </U></TD></TR>
+<TR VALIGN="TOP"><TD>          Totals</TD>
+<TD>$	146,575 </TD>
+<TD>$	139,285 </TD></TR>
+<TR VALIGN="TOP"><TD>          Less Current Maturities</TD>
+<TD><U>	(146,575)</U></TD>
+<TD><U>	(139,285)</U></TD></TR>
+<TR VALIGN="TOP"><TD>          Total Long-Term Notes Payable</TD>
+<TD>$<CENTER>-</CENTER>
+	</TD>
+<TD>$<CENTER>-</CENTER>
+	</TD></TR></TABLE>
+
+<BR WP="BR1"><BR WP="BR2">
+<hr color="#0000FF">
+<P><STRONG><CENTER>Cardiff Communications, Inc.</STRONG></CENTER>
+</P>
+
+<P><CENTER>Notes to the Financial Statements</CENTER>
+</P>
+
+<P><CENTER>September 30, 2004</CENTER>
+</P>
+
+<BR WP="BR1"><BR WP="BR2">
+<P><STRONG></STRONG><STRONG>NOTE 4 - Notes Payable (continued)</STRONG></P>
+
+<BR WP="BR1"><BR WP="BR2">
+<P>Following are maturities of long-term debt for each of the next five years:</P>
+
+<TABLE BORDER="0" WIDTH="100%">
+<TR VALIGN="TOP"><TD><U><CENTER>Year</CENTER>
+	</U></TD>
+<TD><U><CENTER>Amount</CENTER>
+	</U></TD></TR>
+<TR VALIGN="TOP"><TD><CENTER>2005</CENTER>
+</TD>
+<TD>$	146,575 </TD></TR>
+<TR VALIGN="TOP"><TD><CENTER>2006</CENTER>
+</TD>
+<TD><CENTER>-</CENTER>
+</TD></TR>
+<TR VALIGN="TOP"><TD><CENTER>2007</CENTER>
+</TD>
+<TD><CENTER>-</CENTER>
+</TD></TR>
+<TR VALIGN="TOP"><TD><CENTER>2008</CENTER>
+</TD>
+<TD><CENTER>-</CENTER>
+</TD></TR>
+<TR VALIGN="TOP"><TD>Thereafter</TD>
+<TD><U><CENTER>-</CENTER>
+	</U></TD></TR>
+<TR VALIGN="TOP"><TD>Total</TD>
+<TD>$	146,575 </TD></TR></TABLE>
+
+<BR WP="BR1"><BR WP="BR2">
+<P><STRONG>NOTE 5 - Going Concern</STRONG></P>
+
+<BR WP="BR1"><BR WP="BR2">
+<P>The Company's financial statements are prepared using generally accepted accounting principles
+applicable to a going concern, which contemplates the realization of assets and liquidation of
+liabilities in the normal course of business.  Currently, the Company does not have significant cash
+or other material assets, nor does it have an established source of revenues sufficient to cover its
+operating costs and to allow it to continue as a going concern.  The Company does not currently
+possess a financial institution source of financing and the Company cannot be certain that it's
+existing sources of cash will be adequate to meet its liquidity requirements.  However, the Company
+is undertaking the following approach to meet its liquidity requirements.</P>
+
+<BR WP="BR1"><BR WP="BR2">
+<P>	(a)	Seek additional equity funding through private placements to raise sufficient funds to
+continue operations and fund its ongoing development, merger and acquisition activities. </P>
+
+<P>	(b)	The Company will seek to continue converting certain outstanding loans and payables
+into common stock in order to reduce future cash obligations;</P>
+
+<P>	(c)	Management is identifying prospective acquisition targets with sufficient cash flow to
+fund operations, as well as potentially generating operating cash flow that may sustain
+corporate administrative expenses; <BR>
+</P>
+
+<P>The Company's future capital requirements will depend on its ability to successfully implement these
+initiatives.</P>
+
+<BR WP="BR1"><BR WP="BR2">
+<hr color="#0000FF">
+<P ALIGN="CENTER"><STRONG>Cardiff Communications, Inc.</STRONG></P>
+
+<P ALIGN="CENTER">Notes to the Financial Statements</P>
+
+<P ALIGN="CENTER">September 30, 2004</P>
+
+<BR WP="BR1"><BR WP="BR2">
+<P><STRONG>NOTE 6 - Net Earnings (Loss) Per Share</STRONG></P>
+
+<BR WP="BR1"><BR WP="BR2">
+<P>Basic earnings (loss) per common share (BEPS) is based on the weighted-average number of
+common shares outstanding during each period.  Diluted earnings (loss) per common share is based
+on shares outstanding (computed as under BEPS) and dilutive potential common shares.  Shares
+from the exercise of the outstanding options were not included in the computation of diluted loss per
+share, because their inclusion would have been antidilutive for the year ended September 30, 2004.</P>
+
+<BR WP="BR1"><BR WP="BR2">
+<P>The following data shows the shares used in the computing loss per common share including dilutive
+potential common stock;</P>
+
+<BR WP="BR1"><BR WP="BR2">
+<P><STRONG></STRONG>	Common shares outstanding during the entire period</P>
+
+<P>	Weighted-average shares paid for, but not issued during the period.	<U>	9,990,544 </U></P>
+
+<P>	Weighted-average number of common shares used in basic EPS		</P>
+
+<P>		dilutive effect of options	<U>	9,990,544 </U></P>
+
+<P>	Weighted-average number of common shares and dilutive potential</P>
+
+<P>		common shares used in diluted EPS		9,990,544 </P>
+
+<BR WP="BR1"><BR WP="BR2">
+<P>Shares from the exercise of the outstanding options were not included in the computation of diluted loss per
+share because their inclusion would have been antidilutive for the year ended September 30, 2004.</P>
+
+<BR WP="BR1"><BR WP="BR2">
+<P><STRONG>NOTE 7 - Stockholders' Equity</STRONG></P>
+
+<BR WP="BR1"><BR WP="BR2">
+<P>During April 2003, 170,000 of the Company's common stock was issued to the president of the
+Company for services rendered as an officer and director.</P>
+
+<BR WP="BR1"><BR WP="BR2">
+<BR WP="BR1"><BR WP="BR2">
+<hr color="#0000FF">
+<p>
+<BR WP="BR1"><BR WP="BR2">
+</p>
+<P><STRONG>ITEM 8. 	CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON</STRONG></P>
+
+<P><STRONG>		ACCOUNTING AND FINANCIAL DISCLOSURE</STRONG></P>
+
+<P>			</P>
+
+<P>	In February 2004, due to partner rotations now required by the SEC, Bierwolf, Nilson &amp;
+Associates merged with the firm of Chisholm &amp; Associates.  The new name of the firm is Chisholm,
+Bierwolf, &amp; Nilson, LLC as referenced in the Form 8-K filed February 26, 2004.</P>
+
+<P>			</P>
+
+<BR WP="BR1"><BR WP="BR2">
+<P><STRONG>ITEM 8A.  CONTROLS AND PROCEDURES</STRONG></P>
+
+<BR WP="BR1"><BR WP="BR2">
+<P>	(a) Evaluation of disclosure controls and procedures.  The Company's principal executive
+officer and its principal financial officer, based on their evaluation of the Company's disclosure
+controls over financial reporting and procedures (as defined in Exchange Act Rules 13a-14 (c) as of
+September 30, 2004, have concluded that the Company's disclosure controls over financial reporting
+and procedures are adequate and effective for the purposes set forth in the definition in Exchange
+Act rules.</P>
+
+<BR WP="BR1"><BR WP="BR2">
+<P>	(b) Changes in internal controls over financial reporting.  There were no significant changes
+in the Company's internal controls over financial reporting or in other factors that could significantly
+affect the Company's internal controls subsequent to the date of their evaluation.</P>
+
+<BR WP="BR1"><BR WP="BR2">
+<BR WP="BR1"><BR WP="BR2">
+<P><HR color="#0000FF">
+
+<CENTER><STRONG>PART III</STRONG></CENTER>
+
+
+<BR WP="BR1"><BR WP="BR2">
+<P><HR color="#0000FF">
+
+<STRONG>ITEM 9.  DIRECTORS AND EXECUTIVE OFFICERS OF THE REGISTRANT</STRONG>
+
+<BR WP="BR1"><BR WP="BR2">
+<P>	The following information is furnished with respect to the Company's Board of Directors and
+executive officers.  There are no family relationship between or among any of the Company's
+directors or executive officers.</P>
+
+<BR WP="BR1"><BR WP="BR2">
+<P><STRONG>Directors and Executive Officers</STRONG></P>
+
+<BR WP="BR1"><BR WP="BR2">
+<P>	Age	Director	Position with</P>
+
+<P><U>Name	(2004)	Since	Company	</U></P>
+
+<P>Robert Wallace 	69	1999	President, CEO and Director</P>
+
+<P>4766 South Holladay Boulevard</P>
+
+<P>Holladay, Utah 84117</P>
+
+<BR WP="BR1"><BR WP="BR2">
+<P>	Robert Wallace, President and Director, was employed as a teacher, counselor and school
+administrator in the Saddleback Valley Unified School District from 1962 to 1992 as a school
+psychologist and counselor.  Since his retirement in 1962  from the school system, Mr. Wallace has
+been involved in private business consulting.</P>
+
+<BR WP="BR1"><BR WP="BR2">
+<P>	Mr. Wallace has a bachelors degree in animal husbandry from Brigham Young University,
+a masters degree in counseling psychology from Arizona State University, and a PHD in Counseling
+Psychology from USC.</P>
+
+<BR WP="BR1"><BR WP="BR2">
+<hr color="#0000FF">
+<P><STRONG>ITEM 10.  EXECUTIVE COMPENSATION</STRONG></P>
+
+<BR WP="BR1"><BR WP="BR2">
+<P><STRONG>Compensation of Executive Officers and Directors</STRONG></P>
+
+<BR WP="BR1"><BR WP="BR2">
+<P>	None.</P>
+
+<BR WP="BR1"><BR WP="BR2">
+<P><STRONG>Employment Agreements and Other Compensation Arrangements</STRONG></P>
+
+<BR WP="BR1"><BR WP="BR2">
+<P>	None.</P>
+
+<BR WP="BR1"><BR WP="BR2">
+<P><STRONG>Compensation of Non-Employee Directors</STRONG></P>
+
+<P>		</P>
+
+<P>	None.</P>
+
+<BR WP="BR1"><BR WP="BR2">
+<BR WP="BR1"><BR WP="BR2">
+<hr color="#0000FF">
+<p>
+<BR WP="BR1"><BR WP="BR2">
+</p>
+<P><STRONG>ITEM 11.  SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND
+MANAGEMENT</STRONG></P>
+
+<P>		</P>
+
+<TABLE BORDER="0" WIDTH="100%">
+<TR VALIGN="TOP"><TD>
+<BR WP="BR1"><BR WP="BR2"><U><CENTER>Name and Address of Beneficial Owner</CENTER>
+	</U></TD>
+<TD><CENTER>Number of shares of </CENTER>
+
+
+<P><U><CENTER>Beneficial Ownership</CENTER>
+	</U></TD>
+<TD><CENTER>Percent and </CENTER>
+</P>
+
+<P><U><CENTER>Class</CENTER>
+	</U></TD></TR>
+<TR VALIGN="TOP"><TD>BSI, Inc.</P>
+
+<P>1450 Military Way</P>
+
+<P>Salt Lake City, UT 84103</TD>
+<TD ALIGN="CENTER"></P>
+<BR WP="BR1"><BR WP="BR2">
+<BR WP="BR1"><BR WP="BR2">4,900,000    Common</TD>
+<TD ALIGN="CENTER">
+<BR WP="BR1"><BR WP="BR2">
+<BR WP="BR1"><BR WP="BR2">50%</TD></TR>
+<TR VALIGN="TOP"><TD>Stanley Searle
+
+<P>P.O. Box 39</P>
+
+<P>Monument,   CO 80132</TD>
+<TD ALIGN="CENTER"></P>
+<BR WP="BR1"><BR WP="BR2">
+<BR WP="BR1"><BR WP="BR2">1,165,219    Common</TD>
+<TD ALIGN="CENTER">
+<BR WP="BR1"><BR WP="BR2">
+<BR WP="BR1"><BR WP="BR2">12%</TD></TR>
+<TR VALIGN="TOP"><TD>Robert Wallace
+
+<P>378 North Main, #124</P>
+
+<P>Layton,   UT 84061</TD>
+<TD ALIGN="CENTER"></P>
+<BR WP="BR1"><BR WP="BR2">
+<BR WP="BR1"><BR WP="BR2">170,000    Common</TD>
+<TD ALIGN="CENTER">
+<BR WP="BR1"><BR WP="BR2">
+<BR WP="BR1"><BR WP="BR2">2% </TD></TR>
+<TR VALIGN="TOP"><TD>Officers and Directors as a Group</TD>
+<TD ALIGN="CENTER">170,000    Common</TD>
+<TD ALIGN="CENTER">2%</TD></TR></TABLE>
+
+<BR WP="BR1"><BR WP="BR2">
+<BR WP="BR1"><BR WP="BR2">
+<P><STRONG>ITEM 12.  CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS</STRONG></P>
+
+<BR WP="BR1"><BR WP="BR2">
+<P>	During the reported year the Registrant did not enter into any transactions with management
+which are to be reported under this Item. </P>
+
+<BR WP="BR1"><BR WP="BR2">
+<P><STRONG>ITEM 13.  EXHIBITS, AND REPORTS ON FORM 8-K</STRONG></P>
+
+<BR WP="BR1"><BR WP="BR2">
+<P>(a)	Exhibits.  The following exhibits were filed with this report.</P>
+
+<P>				</P>
+
+<P>	31. Written statement of Chief Executive Officer and Chief Financial Officer with respect
+to the compliance with Section 302 of the Sarbanes-Oxley Act of 2002.</P>
+
+<BR WP="BR1"><BR WP="BR2">
+<P>	32. Written statement of Chief Executive Officer and Chief Financial Officer with respect
+to the compliance with Section 13 (a) and 15(d) of the Securities Exchange Act of 1934 and pursuant
+to the 19 U.S.C. 1350, as adopted pursuant to ss. 906 of the Sarbanes-Oxley Act of 2002.</P>
+
+<BR WP="BR1"><BR WP="BR2">
+<P>(b)	Reports on Form 8-K filed.</P>
+
+<BR WP="BR1"><BR WP="BR2">
+<P>	1.  February 26, 2004 for a Change in Auditors.</P>
+
+<BR WP="BR1"><BR WP="BR2">
+<P><STRONG>ITEM 14.  PRINCIPLE ACCOUNTANT FEES AND SERVICES.</STRONG></P>
+
+<BR WP="BR1"><BR WP="BR2">
+<P>Audit Fees</P>
+
+<BR WP="BR1"><BR WP="BR2">
+<P>	The aggregate fees billed for professional services rendered by the Company's principal
+accountant for the audit of the annual financial statements included in the quarterly reports and other
+fees that are normally provided by the accountant in connection with statutory and regulatory filings
+or engagements for the fiscal years ended September 30, 2004 and 2003 were $5,500 and $4,400,
+respectfully.</P>
+
+<P>					</P>
+
+<P>Audit-Related Fees</P>
+
+<BR WP="BR1"><BR WP="BR2">
+<P>	The aggregate fees billed for assurance and related services by the Company's principal
+accountant that are reasonably related to the performance of the audit or review of the financial
+statements, other than those previously reported in this Item 14, for the fiscal years ended September
+30, 2004 and 2003 were $0 and $0, respectfully.</P>
+
+<P>								</P>
+
+<P>Tax Fees</P>
+
+<P>	</P>
+
+<P>	The aggregate fees billed for assurance and related services by the principal accountant for
+tax compliance, tax advice and tax planning for the fiscal years ended September 30, 2004 and 2003
+were $0 and $0, respectfully.  Services described above in this Item 14 were approved in advance
+by the Board of Directors. </P>
+
+<BR WP="BR1"><BR WP="BR2">
+<P>All Other Fees </P>
+
+<BR WP="BR1"><BR WP="BR2">
+<P>	The Company's Board of Directors functions as its audit committee.  The total all other fees
+for the fiscal years ended September 30, 2004 and 2003 were $0 and $0, respectively.  All of the
+services described above in this Item 14 were approved in advance by the Board of Directors.</P>
+
+<BR WP="BR1"><BR WP="BR2">
+<BR WP="BR1"><BR WP="BR2">
+<BR WP="BR1">
+<hr color="#0000FF">
+<p><BR WP="BR2">
+</p>
+<P ALIGN="CENTER"><STRONG>SIGNATURES</STRONG></P>
+
+<BR WP="BR1"><BR WP="BR2">
+<P>Pursuant to the requirements of Section 13 or 15(d) of the Securities Exchange Act of 1934, the
+Registrant has duly caused this Report to be signed on its behalf by the undersigned, thereunto duly
+authorized.</P>
+
+<BR WP="BR1"><BR WP="BR2">
+<P>		Cardiff Communications, Inc.</P>
+
+<BR WP="BR1"><BR WP="BR2">
+<P>		<U>/s/ Robert Wallace                                              </U></P>
+
+<BR WP="BR1"><BR WP="BR2">
+<P>Dated: January 12, 2005</P>
+
+<BR WP="BR1"><BR WP="BR2">
+<BR WP="BR1"><BR WP="BR2">
+<P>Pursuant to the requirements of the Securities Exchange Act of 1934, this report has been signed
+below by the following persons of behalf of the Registrant and in the capacities and on the dates
+indicated.</P>
+
+<BR WP="BR1"><BR WP="BR2">
+<BR WP="BR1"><BR WP="BR2">
+<P>SIGNATURE	TITLE	DATE</P>
+
+<BR WP="BR1"><BR WP="BR2">
+<P><U>/s/ Robert Wallace</U>	President, Director,	January 12, 2005</P>
+
+<P>		Principal Executive and</P>
+
+<P>		 Financial Officer	</P>
+
+<BR WP="BR1"><BR WP="BR2">
+<BR WP="BR1"><BR WP="BR2">
+<hr color="#0000FF">
+<p>
+<BR WP="BR1"><BR WP="BR2">
+<BR WP="BR1"><BR WP="BR2">
+<BR WP="BR1"><BR WP="BR2">
+<BR WP="BR1"><BR WP="BR2">
+</p>
+<P><STRONG>Exhibit 31</STRONG></P>
+
+<BR WP="BR1"><BR WP="BR2">
+<P ALIGN="CENTER"><STRONG>SECTION 302 CERTIFICATION</STRONG></P>
+
+<BR WP="BR1"><BR WP="BR2">
+<P>I, Robert Wallace, certify that:</P>
+
+<BR WP="BR1"><BR WP="BR2">
+<P>1. I have reviewed this annual report on Form 10-KSB of Cardiff Communications, Inc.;</P>
+
+<BR WP="BR1"><BR WP="BR2">
+<P>2. Based on my knowledge, this annual report does not contain any untrue statement of a material
+fact or omit to state a material fact necessary to make the statements made, in light of the
+circumstances under which such statements were made, not misleading with respect to the period
+covered by this annual report.</P>
+
+<BR WP="BR1"><BR WP="BR2">
+<P>3.  Based on my knowledge, the financial statements, and other financial information included in this
+annual report, fairly present in all material respects the financial condition, results of operations and
+cash flows of the registrant as of, and for, the periods presented in this annual report;</P>
+
+<BR WP="BR1"><BR WP="BR2">
+<P>4.  I am responsible for establishing and maintaining disclosure controls and procedures (as defined
+in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as
+defined in Exchange Act Rules 12a-15(f) and 15d-15(f)) for the registrant and have: </P>
+
+<BR WP="BR1"><BR WP="BR2">
+<BR WP="BR1"><BR WP="BR2">
+<P>	a) Designed such disclosure controls and procedures or caused such controls and procedures
+to be designed under my supervision, to ensure that material information relating to the
+registrant, including its consolidated subsidiaries, is made known to me by others within
+those entities, particularly during the period in which this quarterly report is being prepared.</P>
+
+<BR WP="BR1"><BR WP="BR2">
+<P>     	b) Evaluated the effectiveness of the registrant's disclosure controls and procedures and
+presented in this report my conclusions about the effectiveness of the disclosure controls and
+procedures as of the end of the period covered by this quarterly report based on such
+evaluations; and </P>
+
+<BR WP="BR1"><BR WP="BR2">
+<P>     	c) Disclosed in this report any change in the small business issuer's internal control over
+financial reporting that occurred during the small business issuer's most recent fiscal quarter
+that has materially affected, or is reasonably likely to materially affect, the registrant's
+internal control over financial reporting.</P>
+
+<BR WP="BR1"><BR WP="BR2">
+<P>5. I have disclosed, based on my most recent evaluation of internal control over financial reporting,
+to the registrant's auditors and the audit committee of registrant's board of directors (or persons
+performing the equivalent functions):</P>
+
+<BR WP="BR1"><BR WP="BR2">
+<BR WP="BR1"><BR WP="BR2">
+<P>     	a) All significant deficiencies and material weaknesses in the design or operation of internal
+controls over financial reporting which could adversely affect the registrant's ability to
+record, process, summarize and report financial data and have identified for the registrant's
+auditors any material weaknesses in internal controls over financial reporting; and</P>
+
+<BR WP="BR1"><BR WP="BR2">
+<P>     	b) Any fraud, whether or not material, that involves management or other employees who
+have a significant role in the registrant's internal controls over financial reporting.</P>
+
+<BR WP="BR1"><BR WP="BR2">
+<BR WP="BR1"><BR WP="BR2">
+<P>Date: January 12, 2005	<U>/s/                                                           </U></P>
+
+<P>		Robert Wallace</P>
+
+<P>		Chief Executive Officer</P>
+
+<P>		And Principal Accounting Officer</P>
+
+<BR WP="BR1"><BR WP="BR2">
+<hr color="#0000FF">
+<p><BR WP="BR2">
+</p>
+<P><STRONG>Exhibit 32</STRONG></P>
+
+<BR WP="BR1"><BR WP="BR2">
+<P><CENTER>CERTIFICATION PURSUANT TO </CENTER>
+</P>
+
+<P><CENTER>18 U.S.C. SECTION 1350, </CENTER>
+</P>
+
+<P><CENTER>AS ADOPTED PURSUANT BY </CENTER>
+</P>
+
+<P><CENTER>SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002</CENTER>
+</P>
+
+<P>         In connection with the Annual Report of Cardiff Communications, Inc., on Form 10-KSB for
+the period ending September 30, 2004 as filed with the Securities and Exchange Commission on the
+date hereof (the <EM>"Report"</EM>), the undersigned, Robert Wallace, Chief Executive Officer and Principal
+Accounting Officer  of the Company, certify, pursuant to 18 U.S.C. 1350, as adopted pursuant to
+ss. 906 of the Sarbanes-Oxley Act of 2002, that: </P>
+
+<P>(1) The Report fully complies with the requirements of section 13 (a) or 15 (d) of the Securities
+Exchange Act of 1934; and </P>
+
+<BR WP="BR1"><BR WP="BR2">
+<P>(2) The information contained in the Report fairly presents, in all material respects, the financial
+condition and result of operations of the Company. </P>
+
+<BR WP="BR1"><BR WP="BR2">
+<BR WP="BR1"><BR WP="BR2">
+<P>Date: January 12, 2005	<U>/s/                                                                     </U></P>
+
+<P>		Robert Wallace, Chief Executive Officer</P>
+
+<P>		And Principal Accounting Officer</P>
+
+<BR WP="BR1"><BR WP="BR2">
+<hr color="#0000FF" size="6">
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

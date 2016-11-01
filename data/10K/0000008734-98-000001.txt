@@ -1,0 +1,1785 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ HYNSzIB7v2Ni61D3xbMF/pnqoGxG3hY0JBhEQD2r61yoZK2yl591VLMmy4TYviTx
+ i9u+0NRbRxoZdvWmWbzhIg==
+
+<SEC-DOCUMENT>0000008734-98-000001.txt : 19980507
+<SEC-HEADER>0000008734-98-000001.hdr.sgml : 19980507
+ACCESSION NUMBER:		0000008734-98-000001
+CONFORMED SUBMISSION TYPE:	10KSB
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	19970529
+FILED AS OF DATE:		19980506
+SROS:			NASD
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			AMBASSADOR FOOD SERVICES CORP
+		CENTRAL INDEX KEY:			0000008734
+		STANDARD INDUSTRIAL CLASSIFICATION:	RETAIL-EATING PLACES [5812]
+		IRS NUMBER:				440656199
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0531
+
+	FILING VALUES:
+		FORM TYPE:		10KSB
+		SEC ACT:		
+		SEC FILE NUMBER:	000-01744
+		FILM NUMBER:		98611026
+
+	BUSINESS ADDRESS:	
+		STREET 1:		3269 ROANOKE ROAD
+		CITY:			KANSAS CITY
+		STATE:			MO
+		ZIP:			64111
+		BUSINESS PHONE:		8165616474
+
+	MAIL ADDRESS:	
+		STREET 1:		3269 ROANOKE ROAD
+		CITY:			KANSAS CITY
+		STATE:			MO
+		ZIP:			64111
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	AUTOMATIQUE INC
+		DATE OF NAME CHANGE:	19890810
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>10KSB
+<SEQUENCE>1
+<TEXT>
+
+
+
+
+                     U.S. SECURITIES AND EXCHANGE COMMISSION
+                             Washington, D.C.  20549
+                                    Form 10-KSB
+
+[X]     ANNUAL REPORT UNDER SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT 
+                          OF 1934 (FEE REQUIRED)
+
+For the fiscal year ended                     May 29, 1997                   
+                                                                 OR
+[ ]     TRANSITION REPORT UNDER SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE 
+                       ACT OF 1934 (NO FEE REQUIRED)
+
+For the transition period from                     to                      
+
+Commission file number                           0-1744                     
+
+                         Ambassador Food Services Corporation              
+                        (Name of small business issuer in its charter)
+
+Delaware                                           44-0656199           
+(State or other jurisdiction of     (I.R.S. Employer Identification No.)
+ incorporation or organization)
+
+3269 Roanoke Road, Kansas City, Missouri                             64111
+(Address of principal executive offices)                          (Zip Code)
+
+Issuer's telephone number:   816  561-6474       
+Securities registered pursuant to Section 12(b) of the Act:  None
+Securities registered pursuant to Section 12(g) of the Act:
+                          Common Stock (Par Value $1)
+                                (Title of Class)
+Check whether the Issuer (1) filed all reports required to be filed by 
+Section 13 or 15 (d) of the Exchange Act during the past 12 months (or for 
+such shorter period that the Registrant was required to file such 
+reports), and (2) has been subject to such filing requirements for the past 
+90 days.
+                 YES  X                      NO       
+Check if there is no disclosure of delinquent filers in response to Item
+405 of Regulation S-B contained in this form, and no disclosure will be 
+contained, to the best of Registrant's knowledge, in definitive proxy 
+or information statements incorporated by reference in Part III of this Form
+ 10-KSB or any amendment to this Form 10-KSB.     [X]
+
+Issuer's revenues for its most recent fiscal year are $22,770,546.
+
+At April 1, 1998 there were 745,456 shares of the Registrant's common stock
+outstanding.  Based on the average of the highest bid and lowest asked prices
+reported on the national over-the-counter market (NASDAQ Symbol AMBF), the 
+aggregate market value of the shares held by non-affiliates of the Registrant
+was $1,001,893.
+
+Exhibit Index is on page 37.
+Transitional Small Business Disclosure Format:           YES    NO   X   
+
+
+
+                                       PART I
+
+
+
+Item 1.     Description of Business
+
+     (a)     Business Development 
+
+     The Registrant (hereinafter "Company" or "Ambassador") is a Delaware
+corporation incorporated in 1963.  It is engaged, through divisions and a
+subsidiary, in the food service and janitorial industries in Iowa, Kansas,
+New York, Texas, New Jersey, Missouri, and Oklahoma.
+
+   The principal business activity of the Company is the servicing of its 
+customer accounts, primarily factories, offices, hospitals, schools, and social 
+service agencies, through the use of vending machines, cafeterias, and 
+prepared meals delivered from Company commissaries.
+     On August 1, 1989, the name of the Company was changed from Automatique,
+Incorporated to Ambassador Food Services Corporation.
+
+     (b)     Business of Issuer
+
+     (1)     Description of Business Done by the Registrant in its Food Segment
+
+     (i and ii)The vending and cafeteria segment of the Company's business 
+               consists of contracting to distribute beverages and food products
+               to customer locations consisting of factories, offices, 
+               hospitals, and schools.  The Company conducts surveys of 
+               potential customer locations, determines profitability of the 
+               location, and submits a proposal offering to provide the vending 
+               and/or cafeteria service for the customer location.  Business 
+               with local government social service agencies and not-for-profit 
+               agencies is obtained through competitive bidding and is 
+               serviced by producing meals in a central commissary and 
+               delivering them to various designated points for consumption.
+
+     (iii)     No new products have been developed by this segment.  The 
+               Company, in general, markets the product developed by its 
+               suppliers. 
+
+     (iv)     The vending food service business, made up of a few large 
+              companies and many small independently owned local and 
+              regional enterprises, is highly competitive.  The practice in the 
+              industry is to operate under written agreements with the 
+              locations served.  In the market areas where the Company is 
+              located, it has national, regional, and local competition, some of
+              which have substantially greater total sales and assets.  
+              Competition for locations in the food service industry 
+              normally comes in the form of pricing and in quality of 
+              service and product.
+
+     (v)     Raw materials, consisting of packaged products and commodities, are
+             purchased from manufacturers and purveyors and are warehoused 
+             or processed by the Company in the local market. There is an 
+             adequate supply of raw materials from normal sources; which 
+             include Midwest Food Distributors, Inc., Pepsi Cola General
+             Bottlers and Loeb and Mayer.
+            
+     (vi)     During the year ended May 29, 1997, this segment had no single 
+              customer whose sales were equal to 10 percent or more of the 
+              Company's consolidated revenues.
+
+          Because the Company's customers are primarily the employees and 
+          students of the various schools, colleges, factories, offices, and 
+          hospitals at which it has its vending and cafeteria services, the 
+          Company normally experiences a seasonal decline in sales during the 
+          summer months and around holidays, during which times many of these
+          customers vacation and many locations close completely.
+
+     (vii)     The distinctive logo associated with the Company has been 
+               registered under the laws of the United States relating to 
+               trade names and trademarks.  The Company regards such logo as 
+               valuable and will maintain the registration in effect for 
+               continuing use in connection with the Company's business.  In 
+               addition, the segment is a party to the following labor 
+               agreements:
+<TABLE>
+<S>                          <C>                           <C>
+Bargaining Unit              Market                        Expiration Date
+Teamsters Local #838         Kansas City                   1/1/00
+Teamsters Local #90          Des Moines                    4/30/98
+United Service Employees
+ Union #377                  New York                      12/31/99
+
+</TABLE>
+
+     (viii)     The Company does not have a material portion of its business 
+                subject to renegotiation or termination at the election of 
+                the Government.
+
+     (ix)     The Company does not believe that existing or probable government 
+              regulations have a material effect on its operation.
+
+     (b)     (2)     Description of Business Done by the Registrant in its 
+                     Janitorial Segment
+
+      (i and ii)     The janitorial and maintenance service division of the 
+                     Company's business consists primarily of contracting
+                     various types of routine cleaning services for            
+                     customers on a weekly, monthly, or as-needed basis.
+                     Customers currently include grocery stores and public     
+                     housing complexes in New York and New Jersey.             
+
+     (iii)     No new products have been introduced by this segment.
+
+     (iv)     The janitorial segment is limited to the New Jersey and New York 
+              metropolitan areas. Competition for janitorial contracts comes in 
+              the form of pricing and quality of service.  Competition in 
+              general is from regional and local companies.
+
+     (v)     The sources and availability of raw materials for this segment are 
+             adequate.  Sources of raw materials include Graco Manufacturing 
+             and Malone Chemical.
+
+     (vi)     During fiscal 1997, this segment had no single customer whose 
+              sales were equal to 10 percent or more of the Company's 
+              consolidated revenues.
+
+          This segment is not subject to material fluctuations in sales volume 
+          due to seasonality.
+
+          Sales in this segment are on open accounts receivable.  Inventory 
+          levels are not significant.
+
+     (vii)     This segment is operating without registered trademarks or 
+               patents.  The segment is a party to a labor agreement with 
+               the United Service Employees Union #377 in New York that expires 
+               December 31, 1999.
+
+     (viii)     The Company does not have a material portion of its business 
+                subject to renegotiation or termination at the election of the 
+                Government. 
+
+     (ix)     The Company does not believe that existing or probable government 
+              regulations have a material effect on its operations.
+
+
+     (b)     (x) Through (xii) with Respect to the Registrant's Business in 
+                General
+
+          (x)     The Company has not incurred any expense for research and 
+                  development activities during any of its last two (2) 
+                  fiscal years.
+
+          (xi)     Compliance with federal, state, and local laws and 
+                   regulations involving the protection of the environment 
+                   will not have a material effect.
+
+          (xii)     As of May 29, 1997, the Company and its subsidiary employed 
+                    approximately 300 persons.
+
+Item 2.     Description of Properties
+
+     The Company leased all real estate for office, warehouse, garage, repair 
+     shops, and commissaries in each of its market areas throughout fiscal 1997,
+     except for the property located at 3269 Roanoke Road, which was 
+     purchased in July 1990.  The property was encumbered by a mortgage in the 
+     amount of $277,552 at May 29, 1997.  Annual rentals were approximately 
+     $358,652 less $20,400 of sublease income.  The suitability of the leased 
+     properties is adequate; such properties are described below:
+<TABLE>
+<S>                                    <C>                  <C>       <C>
+                                                            Size      Expiration
+Location                               Type of Property     (Sq. Ft.) Date
+3269 Roanoke Rd., Kansas City, MO        Office/Whse          13,600  Owned
+208 E. Aurora, Des Moines, IA            Office/Whse           9,200  5/98
+10745 Midwest Indust Dr., St.Louis, MO   Office/Whse          15,800  9/98
+5-30 54th Ave., Long Island City, NY     Office/Whse           8,000  Mo/Mo
+41-43 24th St., Long Island City, NY     Office/Whse           2,500  3/01
+9100 Santa Fe Dr., Overland Park, KS     Restaurant-
+                                          Discontinued         1,800  2/04
+162 Closter Dock Rd., Closter, NJ        Office/Whse           1,200  Mo/Mo
+900 West 8th St., Kansas City, MO        Warehouse               300  Mo/Mo
+36 Clark St., Des Moines, IA             Office/Whse          10,600  3/01
+
+</TABLE>
+     The major portion of the physical properties used by the Company is made up
+     of automatic vending equipment and food service and production equipment.  
+     Most of the equipment used is owned by Company. In several instances, the 
+     cafeteria and vending equipment is owned by the account to which food 
+     services are rendered by the Company.  The Company operates 
+     approximately 100 vehicles in the conduct of its business, approximately
+     25% of which are leased and the balance owned.  The annual rentals on 
+     all such leased real estate properties, equipment, and vehicles are 
+     approximately $750,000.
+
+Item 3.     Legal Proceedings
+
+     None. 
+
+Item 4.     Submission of Matters to a Vote of Security Holders
+
+     No matters were submitted to a vote of security holders during the fourth 
+     quarter of the fiscal year of the Company.
+
+
+
+
+                                PART II
+
+Item 5.     Market for Common Equity and Related Stockholder Matters
+
+     (a)     Price Range of Common Stock
+
+     The principal market in which the common stock of the Company is traded is 
+     the national over-the-counter market (NASDAQ symbol AMBF).  
+     The bid quotation for the Company's common stock for each quarter during
+     fiscal years ended May 29, 1997 and May 30, 1996 are shown below: 
+
+<TABLE>
+ 
+                                   1996                 1995     
+                                Bid Quotation       Bid Quotation
+<S>                            <C>       <C>        <C>      <C>     
+                                High     Low        High     Low
+First Quarter                 1 1/16    1 1/16      3/4       3/4
+Second Quarter                1 1/8     1 1/16       3/4       3/4
+Third Quarter                 1 1/2     1 1/16       1        3/4
+Fourth Quarter                1 7/16    1 3/8     1 3/8      15/16
+</TABLE>
+     The quotations above reflect inter-dealer prices without retail mark-up, 
+     mark-down, or commission and may not represent actual transactions.
+
+     (b)     Number of Equity Security Holders
+
+     As of May 29, 1997, there were 601 record holders of the Company's common 
+     stock.
+
+     (c)     Dividends
+
+     The Company has never paid cash dividends on its common stock.  Payment of 
+     dividends will be within the discretion of the Company's Board of 
+     Directors and will depend, among other factors, on earnings, debt 
+     agreements, capital requirements, and the operating and financial 
+     condition of the Company.  
+
+Item 6.     Management's Discussion and Analysis of Financial Condition and 
+            Results of Operations
+
+     Results of Continuing Operations
+
+     1997 Results
+
+     Despite growth in sales of more than $ 2,000,000 from fiscal 1996 levels, 
+     Ambassador experienced a before tqax loss from continuing operations of
+     $1,164,217 compared to a before tax profit of $ 50,244 in 1996.  Growth in 
+     sales waas provided through the acquisition of a competitor in the Des 
+     Moines, Iowa market during the latter part of fiscal 1996 and the opening 
+     of a new operation in Tyler, Texas during the second quarter of 1997.
+
+     The loss reflects poor results in the Company's Midwest operations and the
+     costs associated with the sales of Ambassador's ooperations in St. Louis.
+     During 1997, operating losses of $432,000 were recorded in the St. Louis 
+     operation with an additional loss of $199,000 recorded on the sales of the
+     operation.  The new operation in Tyler, Texas failed to meet sales 
+     objectives and produced a loss of $31,000 during the year.  The operation 
+     in Tyler has been closed during fiscal 1998.
+
+     Cost of food products sold continue to increase as a percentage of sales.
+     This problem impacted all markets as cost of products rose dramatically 
+     during the year and price increases implemented were not adequate to offset
+     the effect of these rising costs.  Management continues to persue pricing
+     as well as purchasing opportunities to improve gross margins.
+
+     Operating costs increased dramatically due to the cost associated with the
+     closing of the St. Louis operation as well as high operating lease costs 
+     that relate to the acquisition in Iowa.  Administrative cost increased as a
+     percentage of sales due to higher payroll costs.  Additionally, the Company
+     experienced unusually high costs relating to placement fees within the
+     Company's corporate accounting office and late payment fees for various 
+     obligations.  Management has taken steps to reduce operating and 
+     administrative cost through staff reductions and stringent controls on
+     expenditures in all areas.
+
+     1996 Results
+     
+     Income from continuing operations declined from the 1995 level despite 
+     increased sales of $836,773 during the year ended May 30, 1996.  These 
+     earnings were $50,224 in fiscal 1996, down from $180,052 in 1995.  A 
+     change in the reserve relating to the Company's discontinued restaurant 
+     operations brought the net result to a loss of $42,076.  
+     This disappointing result reflects continued deterioration in margins in
+     the Company's vending and cafeteria operations.  While management 
+     implemented price increases throughout the year, food costs continued to
+     rise at a substantial rate resulting in a decline in margins during the 
+     year.  Price increases and improved controls and purchasing are being 
+     implemented to address this problem.  It is imperative that margins 
+     improve for the Company to return to profitability.
+
+     All other cost areas combined remained near 1995 levels in relation to 
+     sales.  Operating costs were lower as a percentage of sales due to lower
+     operating payroll; however, increased administrative payroll and 
+     interest costs offset these decreases.
+
+     Year 2000
+
+     Management has reviewed its systems relative to the Year 2000 issue and has
+     determined that no material expenditures will be required for modifications
+     or replacement of software due to this problem.  Management does anticipate
+     replacing its primary financial reporting and control systems as part of 
+     its short-term business plan and will ensure that all new systems are Year
+     2000 compliant.
+
+     Liquidity and Capital Resources
+
+     Working Capital at the close of fiscal 1997 was a deficit of almost     
+     $2,000,000.  This reflects the impact of the loss incurred during fiscal  
+     1997 coupled with the $1,000,000 deficit at the end of fiscal 1996.  The 
+     Company has implemented stringent controls on capital expenditures and has 
+     idle equipment in its vending operations to support substantial growth in 
+     sales,if needed.
+
+     Management has been successful in attaining financing during fiscal 1998
+     necessary to meet its current obligations.  Additionally, payments being  
+     received on the sale of its St. Louis operations continue to provide 
+     capital.  While financing continues to be available for the Company's
+     capital equipment needs, Ambassador's ability to maintain its lending
+     relationships are dependent upon a return to profitability.
+
+Item 7.     Consolidated Financial Statements
+
+     Index to Consolidated Financial Statements
+
+
+                                                                         Page
+     Report of Independent Certified Public Accountants                     10
+
+
+     Consolidated Balance Sheets as of May 29, 1997 and May 30, 1996      11-12
+
+
+     Consolidated Statements of Operations for the Years Ended 
+      May 29, 1997 and May 30, 1996                                        13
+
+
+     Consolidated Statement of Changes in Stockholders' Equity for the 
+     Years Ended May 29, 1997 and May 30, 1996                             14
+
+
+     Consolidated Statements of Cash Flows for the Years Ended May 29, 1997 
+     and May 30, 1996                                                      15-16
+
+
+     Notes to Consolidated Financial Statements                            17
+
+
+
+
+
+          REPORT OF INDEPENDENT
+CERTIFIED PUBLIC ACCOUNTANTS
+
+
+
+Board of Directors 
+Ambassador Food Services Corporation and Subsidiary
+
+
+We have audited the accompanying consolidated balance sheets of Ambassador Food 
+Services Corporation and Subsidiary as of May 29, 1997 and May 30, 1996 and the 
+related consolidated statements of operations, changes in stockholders' equity, 
+and cash flows for the years then ended. These financial statements are the 
+responsibility of the Company's management.  Our responsibility is to express an
+opinion on these financial statements based on our audits. 
+
+We conducted our audits in accordance with generally accepted auditing 
+standards.  Those standards require that we plan and perform the audits to 
+obtain reasonable assurance about whether the financial statements are free 
+of material misstatement.  An audit includes examining, on a test basis, 
+evidence supporting the amounts and disclosures in the financial statements.  
+An audit also includes assessing the accounting principles used and significant 
+estimates made by management, as well as evaluating the overall financial 
+statement presentation. We believe that our audits provide a reasonable 
+basis for our opinion.
+
+In our opinion, the financial statements referred to above present fairly, in 
+all material respects, the consolidated financial position of Ambassador Food
+Services Corporation and Subsidiary as of May 29, 1997 and May 30, 1996 and 
+the consolidated results of their operations and their cash flows for the years
+then ended in conformity with generally accepted accounting principles.
+
+
+
+
+
+Kansas City, Missouri
+November 24, 1997
+
+
+
+
+                        Ambassador Food Services Corporation and Subsidiary
+                                CONSOLIDATED BALANCE SHEETS
+                                May 29, 1997 and May 30, 1996
+<TABLE>
+<S>                                                    <C>         <C>
+
+               ASSETS                                     1997           1996
+CURRENT ASSETS   
+ Cash (including change funds of $241,719 in 1997
+        and $291,505 in 1996) (note A10)               $   370,340  $  402,768
+ Trade accounts receivable, net of allowance for
+     doubtful accounts of $118,234 in 1997 and
+     $22,174 in 1996 (notes A11 and D)                   1,697,773   1,768,211
+ Income taxes receivable                                     8,881      17,042
+ Inventories (note A4)                                     548,477     593,820
+ Prepaid expenses                                          186,817     248,916
+ Current portion of note receivable (notes N,O and P)      372,351     114,182      
+ Deferred income taxes (note J)                               -         30,033
+      Total current assets                               3,184,639   3,174,972
+PROPERTY AND EQUIPMENT - at cost (notes A5 and E)          
+ Vending equipment                                       4,804,840   5,044,062
+ Cafeteria, commissary, and restaurant equipment         1,205,077   1,171,549
+ Building and leasehold improvements                       641,814     649,877
+ Other                                                     991,570   1,056,859
+                                                         7,643,301   7,922,347 
+ Less accumulated depreciation and amortization          5,445,471   5,792,683
+      Total property and equipment                       2,197,830   2,129,664
+OTHER ASSETS                                       
+  Location contracts (note A6)                             267,530   1,242,656
+  Note receivable, less current portion (notes N,O and P)1,227,048     481,961       
+     Unrecognized prior service costs (notes A7 and H)     183,009     222,932   
+  Excess of purchase price over net assets acquired,net of
+     accumulated amortization of $20,375 in 1997 and
+     $19,355 in 1996 (note A6)                              23,054      93,771
+     Deferred expenses                                      52,432      58,012
+     Miscellaneous                                         180,320     273,398
+      Total other assets                                 2,372,730     1,616,174
+
+                The accompanying notes are an integral part of these statements.
+
+</TABLE>
+
+
+
+            Ambassador Food Services Corporation and Subsidiary
+                 CONSOLIDATED BALANCE SHEETS - CONTINUED 
+                    May 29, 1997 and May 30, 1996
+
+<TABLE>
+<S>                                              <C>          <C>
+      LIABILITIES AND STOCKHOLDERS' EQUITY           1997           1996
+CURRENT LIABILITIES          
+     Checks outstanding in excess of bank balances $ 662,086   $  567,769
+     Trade accounts payable                        1,532,775    1,564,088
+     Accrued expenses (note C)                     1,249,170      679,549
+     Current maturities of long-term debt (note E)   582,863      485,261
+     Line of credit (note D)                       1,142,213      949,352
+               Total current liabilities           3,413,343    3,254,400
+LONG-TERM LIABILITIES          
+     Deferred income taxes (note J)                    -          297,102
+     Projected benefit obligation (note H)           337,468      337,342
+     Other long-term liabilities                      42,035       68,522
+     Subordinated note payable to stockholder 
+      (note F)                                       250,000      250,000    
+     Long-term debt, less current maturities 
+      (note E)                                       921,617      910,939
+     Accrued costs of discontinued restaurant 
+      operations (note K)                             84,203       97,612
+     Accrued litigation and sales tax costs 
+      (note L)                                         -           46,594
+               Total long-term liabilities         1,635,323    2,008,111
+COMMITMENTS AND CONTINGENCIES
+  (notes G, I, K, L, and N)                            -                -
+STOCKHOLDERS' EQUITY (notes F and I)     
+     Common stock, par value $1.00 per share;
+      authorized, 2,000,000 shares; issued, 
+      1,009,230 shares                             1,009,230    1,009,230
+     Additional paid-in capital                      718,291      718,291
+     Retained earnings (accumulated deficit)        (917,528)     (20,380)
+                                                     809,993    1,707,141
+     Less treasury stock - 251,774 shares in 1997
+      and 241,274 shares in 1996                    (298,561)    (283,905)
+               Total stockholders' equity            511,432    1,423,236
+
+                The accompanying note are an integgral part of these statements.
+</TABLE>
+
+
+
+
+
+
+
+
+
+               Ambassador Food Services Corporation and Subsidiary
+                    CONSOLIDATED STATEMENTS OF OPERATIONS
+                  Years ended May 29, 1997 and May 30, 1996
+<TABLE>
+<S>                                            <C>               <C>
+
+                                                 1997                 1996
+Net sales 
+      Food                                      $20,839,872       $18,807,080
+      Janitorial                                  1,930,674         1,655,385
+                                                 22,770,546        20,462,465
+Cost and expenses          
+     Cost of food products sold                   9,497,576         8,300,394
+     Operating (note M)                           9,818,547         8,265,161
+     Selling and administrative                   3,521,127         2,930,109
+     Depreciation and amortization                  684,352           671,911
+     Interest                                       413,161           244,666
+          Total cost and expenses                23,934,763        20,412,241
+Earnings (loss) from continuing operations
+   before income taxes                           (1,164,217)           50,224
+     Income tax benefit (note J)                    267,069             -
+          Net earnings from continuing
+               operations                          (897,148)           50,224
+Discontinued operations          
+     Change in estimate of loss on 
+         disposal of restaurants (note K)             -               (92,300) 
+          Net Loss                               $ (897,148)     $    (42,076)
+          
+Earnings (loss) per common share:          
+     Earnings from continuing 
+         operations                               $   (1.18)      $        .07
+     Loss on disposal of restaurants                  -                   (.13)  
+          Net loss per
+              common share                        $   (1.18)      $       (.06)
+
+Weighted average common shares
+     outstanding (note A9)                           760,906           719,207
+
+
+</TABLE>
+
+
+                 Ambassador Food Services Corporation and Subsidiary
+                          CONSOLIDATED STATEMENT OF 
+                     CHANGES IN STOCKHOLDERS' EQUITY
+                     Years ended May 29, 1997 and May 30, 1996
+<TABLE>
+                                                          Retained
+                                             Additional   Earnings    Total
+                                              Paid-In (Accumulated Stockholders'
+                     Common Stock              Capital    Deficit)    Equity    
+                Issued         Treasury Stock                        
+           Shares     Amount   Shares    Cost                   
+<S>       <C>       <C>        <C>     <C>      <C>      <C>        <C>
+Balance at 
+June 1, 
+1995      1,009,230 $1,009,230 305,873 $348,504 $718,291 $  21,696 $1,400,713  
+   
+Net 
+earnings      -         -         -        -        -      (42,076)   (42,076)  
+   
+Sale of 
+treasury 
+stock         -         -      (77,267) (77,267)    -         -         77,267  
+    
+Purchase of 
+treasury 
+stock         -         -       12,668   12,668     -         -         (12,668)
+
+Balance at 
+May 30, 
+1996      1,009,230  1,009,230 241,274  283,905  718,291   (20,380)   1,423,236  
+    
+Net loss      -         -         -        -        -     (897,148)    (897,148)
+  
+Purchase of 
+treasury 
+stock         -         -       10,500   14,656     -         -         (14,656) 
+  
+Balance at 
+May 29, 
+19976       1,009,230 $1,009,230 251,774 $298,561 $718,291 $(917,528) $  511,432
+
+
+</TABLE>
+
+
+
+
+             Ambassador Food Services Corporation and Subsidiary
+                  CONSOLIDATED STATEMENTS OF CASH FLOWS
+                 Years ended May 29, 1997 and May 30, 1996
+<TABLE>
+<S>                                               <C>            <C>
+
+
+                                                      1997             1996
+Cash Flows From Operating Activities          
+     Net earnings (loss)                            $(897,148)       $(42,076) 
+     Adjustments to reconcile net earnings (loss)
+       to net cash provided by (used in) 
+       operations
+          Depreciation and amortization                684,352        671,911 
+          Gain on sale of property and equipment       198,898         (1,342)
+          Provision for bad debts                       96,060          9,589 
+          Deferred income taxes                       (267,069)          -
+          Changes in operating assets and 
+          liabilities:          
+                    Trade accounts receivable          (25,622)       (74,648) 
+                    Income taxes receivable              8,161          4,520
+                    Miscellaneous - other assets        39,264       (180,374)
+                    Inventories                         45,343       (110,537)
+                    Prepaid expenses                    62,099       (148,320) 
+                    Trade accounts payable and 
+                         accrued expenses              416,432        311,005
+                         Net cash provided by
+                         (used in) operating 
+                         activities                    360,770        438,728
+
+
+5
+Cash Flows From Investing Activities          
+     Purchase of property and equipment              (844,257)       (638,663)
+     Proceeds from sale of property and
+        equipment                                        -             12,174
+     Issuance of note receivable                         -           (600,000)           3,857             -
+     Collections on notes receivable                   96,744           3,857 
+                         Net cash used in investing
+                         activities                  (747,513)     (1,222,632)  
+Cash Flows From Financing Activities          
+     Proceeds from issuance of long-term debt         524,046       1,179,648
+     Principal payments on long-term obligations     (415,766)       (606,068)
+     Purchase of treasury stock                       (14,656)        (12,668)
+     Sale of treasury stock                              -             77,267  
+     Net increase in checks outstanding in excess
+       of bank balances                                94,317          58,927
+     Other financing activities                       (26,485)         41,675
+     Net borrowings under line of credit              192,861         125,420
+          Net cash provided by financing 
+          activities                                  354,315         864,201
+Net Increase (Decrease) in Cash                       (32,428)         81,297
+Cash, Beginning of Year                               402,768         321,471
+Cash, End of Year                                $    470,340      $  402,768
+
+Supplementary Schedule of Cash Flow Information:          
+     Cash paid during year for:          
+          Income taxes                           $         -      $     6,553
+          Interest                               $      422,629   $   250,436
+          
+     Noncash investing and financing activities:          
+          Purchase of Bassman Vending, Inc.
+               assets with long-term debt         $        -      $    251,000      
+          Sale of St. Louis location financed
+               with note receivable               $   1,200,000   $       -
+ 
+          
+</TABLE>
+
+
+
+                    Ambassador Food Services Corporation and Subsidiary
+                      NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+                       Years ended May 29, 1997 and May 30, 1996
+
+
+A.     SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+
+     A summary of the significant accounting policies consistently applied in
+     the preparation of the accompanying consolidated fanancial statements 
+     follows.
+
+     1.     Principles of Consolidation
+
+The consolidated financial statements include the accounts of Ambassador Food  
+Services Corporation and its wholly-owned subsidiary, Ambassador Fast   
+Services,Inc. All material intercompany balances and transactions have been
+eliminated.
+
+     2.     Nature of Business
+
+The Company and its subsidiary are engaged in two segments:  food service 
+(vending, cafeteria and catering) and janitorial service.  The Company's 
+customers are principally located in the Midwest and Northeast United States.
+
+     3.     Reporting Periods
+
+The Company has a fiscal year (52 or 53 weeks) ending on the Thursday nearest 
+May 31.  Both fiscal years 1997 and 1996 contained 52 weeks.
+
+     4.     Inventories
+
+Inventories are stated at the lower of cost (first-in, first-out method) or 
+market.
+
+     5.     Property and Equipment
+
+Property and equipment are stated at cost.  Depreciation is
+provided in amounts sufficient to relate the cost of depreciable assets to 
+operations over their estimated useful lives on the straight-line method.
+The estimated lives used in determining depreciation are:
+
+           Vending equipment                              8 years
+           Cafeteria and commissary equipment          3-10 years
+           Building and leasehold improvements         3-22 years
+           Other                                        2-4 years
+
+     6.     Location Contracts and Excess of Purchase Price Over Net Assets 
+            Acquired 
+Location contracts and excess of purchase price over net assets acquired arise 
+from the purchase of various companies and are carried at cost.  Location 
+contracts represent the amount paid for customer vending relationships in 
+existence at the time of acquisition which were generally cancelable by either 
+party with limited notice.  Amounts resulting from acquisitions prior to 
+November 1, 1970 ($1,064,787) were not amortized and relate mainly to St. 
+Louis operations.  During 1997, these costs for St. Louis were disposed of in
+conjunction with the sales of the operation (see Note O).  Acquisitions of 
+$568,173 expended subsequent to November 1, 1970 are being amortized on a  
+straight-line basis over 5 to 40 years.  
+
+          The Company's management continually evaluates the carrying value of 
+their intangible assets based upon local market and economic conditions, and, in
+their opinion, there has been no diminution in the value of these assets.
+
+     7.     Unrecognized Prior Service Costs
+
+Unrecognized prior service costs, related to the defined benefit pension plan 
+discussed in Note H, are being amortized straight-line over the average 
+remaining service period of the participants included in the plan.
+
+     8.     Costs and Expenses
+
+Preopening costs associated with new vending and cafeteria accounts are expensed
+as incurred.
+
+     9.     Earnings (Loss) Per Common Share
+
+Loss per share has been computed using the weighted average common 
+shares outstanding during the period.  In addition to these shares, certain 
+stock options and convertible debt exist that were outstanding during the  
+reporting periods.  These common stock equivalents were not considered in the 
+net loss per share calculation for fiscal year 1997 and 1996 as their effect 
+is antidilutive. 
+          
+     10.     Statements of Cash Flows
+
+For purposes of reporting cash flows, cash includes cash on hand, in banks, and 
+in change funds.
+
+     11.     Concentration of Credit Risk
+
+Approximately $1,300,000 in 1997 and $1,500,000 of the Company's accounts 
+receivable, are with customers located in the Northeast 
+United States.  The Company grants credit to customers; which includes 
+businesses, schools, and governmental agencies.  Collateral is generally not 
+required.
+
+
+     12.     Use of Estimates
+
+In preparing financial statements in conformity with generally accepted 
+accounting principles, management is required to make estimates and assumptions 
+that affect the reported amounts of assets and liabilities and the disclosure
+of contingent assets and liabilities at the date of the financial statements and
+revenues and expenses during the reporting period.  Actual results could differ 
+from those estimates.
+
+     13.     Financial Instruments
+
+The carrying value of the Company's financial instruments, including cash, 
+accounts and notes receivable, accounts payable, line of credit, and 
+long-term debt, approximate fair value.
+
+     14.     Reclassifications
+
+Certain items in the 1996 consolidated financial statements have been
+reclassified to conform to the 1997 presentation.
+
+B.     REALIZATION OF ASSETS
+
+       The accompanying consolidated financial statements have been prepared in
+       conformity with generally accepted accounting principles, which 
+       contemplate continuation of the Company as a going concern.
+
+       Recoverability of the recorded asset amounts shown in the accompanying
+       consolidated balance sheets is dependent upon continued operations of the
+       Company, which in turn is dependent upon the Company's ability to meet 
+       its financing requirements on a continuing basis and to succeed in its
+       future operations.  These financial statements do not include any 
+       adjustments relating to the recoverability and classification of recorded
+       asset amounts or amounts and classification of liabilities that might be
+       necessary should the Company be unable to continue in existence.
+
+       Management has taken the following steps to revise its operating and
+       financial reqquirements, which it believes are sufficient to provide the 
+       Company with the ability to continue in existence:
+
+              Certain unprofitable operations have been closed
+              Several administrative and regional positions have been eliminated
+              Steps to improve margins and reduce costs have been taken.
+              Making current operations profitable and growing through intenal
+                sales efforts have become the Company's focus.
+              The existing lender refinanced the equipment loan and the Company
+                obtained a short-term loan to provide additional liquidity.
+              Total debt has been reduced and debt service requirements
+                sucstantially decrease in June 1998.
+        
+C.     CURRENT LIABILITIES
+
+
+     Accrued expenses include the following:
+<TABLE>
+<S>                                                 <C>          <C>
+                                                      1997             1996
+Legal fees                                           $122,095      $ 108,874
+Vacation pay                                           69,546         97,376
+Commissions                                            61,543         61,674
+Taxes                                                 332,476         47,622
+Salaries                                              217,132        245,070
+Current portion of projected benefit
+     obligation (Note H)                               18,900         60,638
+Accrued costs of discontinued restaurant
+     operations (Note K)                               13,562         16,388
+Accrued litigation and sales tax costs
+     (Note L)                                         123,416         29,000
+Deferred revenue                                       98,405           -
+Medical Insurance                                      54,589           -
+Lease Termination                                      62,000           -
+Other                                                  75,506         12,907
+                                                   $1,249,170       $679,549
+</TABLE>
+
+D.     LINE OF CREDIT AGREEMENT
+
+     The Company has a line of credit agreement with a financing company that 
+     that carries interest at the publicly announced prime rate (8.5% at May 29
+     1997) plus 3.5%. The amount drawn cannot exceed 80% of eligible accounts  
+     receivable and is collateralized by the Company's accounts receivable. 
+     Borrowings are limited to a maximum of $1,500,000 plus the outstanding 
+     principal related to a portion of the line of credit due August 1997
+     ($213,878 at May 29, 1997). Interest is payable monthly and amounts 
+     outstanding are due upon demand.  At May 29,1997 and May 30,1996,amounts 
+     outstanding were $1,142,213 and $949,352,respectively.
+     
+E.     LONG-TERM DEBT
+<TABLE>
+<S>                                                    <C>          <C>
+                                                         1996           1995
+Note payable - bank, payable in monthly installments
+     of $2,848, including interest at prime rate 
+     (8.5% at May 29, 1997) plus 2.0%, due July 1998,
+     collateralized by building                          $277,552    $282,937
+Notes payable - equipment, payable in monthly 
+     installments of $57,449, including interest at 
+     rates ranging from 9% to 19.25%, due through 
+     July 2002, collateralized by equipment             1,014,837     817,467
+Note payable to Bassman Vending, Inc. payable in
+     monthly installments of $5,150, including interest 
+     at 8.5%, due through March 2001, collateralized by
+     certain location contracts and equipment 
+     (See Note N).                                        201,430     244,232
+Note payable - other                                       10,661      51,564
+                                                        1,504,480   1,396,200
+     Less current maturities                              582,863     485,261
+                                                       $  921,617  $  910,939
+</TABLE>
+
+     Aggregate annual principal payments applicable to long-term debt due 
+subsequent to May 29, 1997 are as follows:
+<TABLE>
+                       <S>            <C>
+                        Fiscal Year
+                        Ending             Amount  
+                        1998           $   582,863
+                        1999               542,938
+                        2000               202,453
+                        2001               138,924
+                        2002                37,302
+                                        $1,504,480
+</TABLE>
+
+F.     SUBORDINATED NOTE PAYABLE TO STOCKHOLDER
+
+During fiscal year 1996, the Company borrowed $250,000 from a stockholder and 
+officer. The note calls for interest at 10%, payable quarterly with quarterly 
+principal payments of $12,500 beginning June 30, 2001, with a final payment 
+June 30, 2006.
+
+     The note is subordinate to all other indebtedness of the Company.
+
+From April 30, 1998 to May 1, 2006, the note is convertible to shares of the 
+Company's stock at a price of $1.25 per share.  In the event any payments 
+are made on the note, the Company will issue warrants to the stockholder 
+which will entitle the stockholder to purchase an equivalent number of shares 
+during the same period.  The conversion terms may be adjusted upon certain 
+events to prevent dilution of the stockholder conversion rights.
+                     
+
+
+G.     LEASES
+
+     Future minimum lease payments under all noncancellable operating leases as 
+     of May 29, 1997 are as follows
+<TABLE>
+<S>            <C>             <C>              <C>
+
+Fiscal year
+ ending          Real estate     Equipment          Total     
+1998             $  209,392     $   436,352      $   645,744
+1999                195,921         370,494          566,415
+2000                156,606         314,231          470,837
+2001                135,580          39,678          175,258
+                 $  697,499      $1,160,755       $1,858,254
+
+</TABLE>
+     Rental expense charged to operations was as follows:
+
+<TABLE>
+<S>                                              <C>             <C>
+                                                   1997            1996    
+     Minimum rentals                              $845,198        $499,703
+     Less sublease rentals                            -            ( 6,630)
+                                                  $845,198        $493,073
+</TABLE>
+
+H.     EMPLOYEE BENEFIT PLANS
+
+The Company has a nonqualified defined benefit pension plan covering two key 
+employees and three former officers of the Company.  Under the terms of the 
+plan, each individual will receive a fixed monthly payment for ten years 
+after retirement.  The benefit does not vest until the employee reaches age 
+65.  If the individual dies, either during employment or after retirement, the 
+beneficiary is entitled to receive benefits as specified in the agreement. 
+The plan is unfunded.
+
+The following table sets forth the status and amounts recognized in the 
+Company's consolidated financial statements for 1997 and 1996:
+
+<TABLE>
+<S>                                                 <C>            <C>         
+                                                       1997         1996
+Actuarial present value of benefit obligations:
+        Accumulated benefit obligation, including
+          vested benefits of $248,080 in 1997 and
+          $302,806 in 1996                           $ 356,368      $ 397,980 
+     Projected benefit obligation for service
+          rendered to date                           $ 356,368      $ 397,980 
+Plan assets at fair value                               -              -  
+Projected benefit obligation in excess of 
+    plan assets                                        356,368        397,980 
+Additional minimum liability recorded                  183,009        183,009 
+Prior service cost not yet recognized in net
+     periodic pension cost                            (183,009)      (222,932)
+Net accrued pension cost                             $ 356,368      $ 397,980 
+          
+Net accrued pension cost is included in the accompanying consolidated financial 
+statements as follows:
+                                                     1996            1995
+Current portion included in accrued
+  expenses                                       $   18,900        $   60,638
+Long-term portion of obligation                     337,468           337,342
+                                                  $ 356,368         $ 397,980
+</TABLE>
+
+     The weighted-average discount rate used in determining the actuarial 
+present value of the projected benefit obligation was 8.0% in 1997 and 1996.
+
+     Net pension cost for 1997 and 1996 includes the following components: 
+
+<TABLE>
+<S>                                                   <C>         <C>
+
+                                                        1997         1996
+Service cost - benefits earned
+     during the period                                 $  5,491     $  5,085
+Interest cost on projected benefit
+     obligation                                          31,571       35,363
+Amortization of prior service cost                       37,746       37,745
+Net periodic pension cost                               $74,808      $78,193
+
+
+     The Company contributed approximately $74,000 and $83,000 in fiscal years 
+1997 and 1996, respectively, to several multi-employer pension plans for 
+employees covered by collective bargaining agreements. These plans are not 
+administered by the Company, and contributions are determined in accordance 
+with provisions of negotiated labor contracts.  
+
+     The Multiemployer Pension Plan Amendments Act of 1980(the Act) 
+significantly increased the pension responsibilities of participating employers.
+Under the provisions of the Act, if the plans terminate or the Company 
+withdraws, the Company could be subject to a substantial "withdrawl liability."
+Management has no intention of undertaking any action which would subject the 
+Company to this obligation.
+
+     The Company has a defined contribution plan that covers all permanent 
+nonunion employees.  Under the terms of the plan, employees can contribute 
+up to a maximum of 15% of their gross annual salary.  Company contributions 
+to the Plan are at the discretion of the Board of Directors.  The Company made 
+no contributions to this plan during fiscal year 1997 or 1996. 
+
+I.     STOCK OPTIONS
+
+In fiscal year 1993, the Board of Directors granted nonstatutory options for
+40,000 shares to an officer and certain key employees.  These options expired of 
+unexercised subsequent to May 29, 1997.  
+
+In fiscal year 1996, the Board of Directors approved the granting of 
+nonstatutory options for 65,000 shares to certain key employees.  The 
+exercise price of the options was $1 per share, which approximated the fair 
+market value of the shares on the date of grant of the option.  The options were
+exercised during fiscal year 1996.
+
+Stock option transactions for the two years are summarized below:
+
+
+</TABLE>
+<TABLE>
+<S>                                                    <C>          <C>
+                                                       Option Shares
+                                                          1997         1995
+Outstanding, beginning of year                            40,000      40,000 
+Granted                                                     -         65,000 
+Exercised                                                   -        (65,000)
+Outstanding, end of year                                  40,000      40,000 
+
+</TABLE>
+        
+
+J.          INCOME TAXES
+
+The net deferred tax liability in the accompanying consolidated balance sheets 
+includes the following amounts of deferred tax assets and liabilities:
+
+<TABLE>
+<S>                                               <C>              <C>
+                                                   1997                1996
+Deferred tax liability                             $ 232,883        $ 528,337   
+Deferred tax asset                                  (721,444)        (693,295)
+      Less:  Valuation allowance                     488,561          432,027   
+Net deferred tax liability                         $    -           $ 267,069   
+</TABLE>
+
+The net deferred tax liability is included in the accompanying consolidated 
+financial statements as follows:
+
+<TABLE>
+<S>                                               <C>           <C>
+                                                    1997               1996
+Deferred income taxes - noncurrent
+     liability                                     $    -           $ 297,102 
+Deferred income taxes - short-term
+     asset                                              -             (30,033)
+                                                        -           $ 267,069 
+</TABLE>
+
+The approximate tax effect of each temporary difference giving rise to the 
+deferred tax liability and asset was as follows at May 29, 1997 and May 30, 
+1996:
+
+<TABLE>
+<S>                                       <C>             <C>            
+                                               1997              1996
+Amortization of location contracts         $    1,201      $  297,069 
+Accelerated depreciation                      231,682         231,268 
+                                           $  232,883      $  528,337 
+
+Accrued costs                              $  (62,308)     $  (60,681)
+Amortization of pension costs                 (66,758)        (69,118)
+Vacation accrual                              (27,123)        (37,977)
+Allowance for bad debts                       (46,111)         (8,648)  
+Other                                          (7,689)            -
+Net operating loss carryforward               (244,847)      (243,834)
+AMT credit carryforward                       (106,504)      (108,716)
+Investment tax credit carryforward            (160,104)      (164,321)
+                                            $ (721,444)    $ (693,295)
+
+</TABLE>
+
+The valuation allowance was established to reduce the deferred tax asset to the 
+amount that will more likely than not be realized.  The reduction is necessary 
+due to prior operating losses and uncertainty as to the Company's ability to 
+utilize tax credit and net operating loss carryforwards before they expire.  
+The valuation allowance was increased $56,534 and $10,759 in 
+fiscal years 1997 and 1996, respectively.
+
+The income tax benefit reflected in the consolidated statements of operations 
+differs from the amounts computed at federal statutory income tax rates.  The 
+principal differences are as follows:
+
+<TABLE>
+<S>                                               <C>           <C>
+                                                    1996           1995
+Federal income tax benefit
+     computed at statutory rate                  $ (396,000)     $ (14,000) 
+State income tax benefit                            (58,000)        (2,000) 
+Tax effect of nondeductible expenses                 14,000         12,000 
+Increase in valuation allowance                      57,000         11,000
+Underaccrual of prior deferred tax liability        120,000            -
+Other, net                                           (4,000)        (7,000) 
+                                                 $ (267,000)      $    -
+</TABLE>
+
+The Company had available for income tax purposes the following investment 
+credit carryforwards at May 29, 1997:
+
+<TABLE>
+<S>                          <C>
+        Year of Expiration      Amount
+          1998                    59,630
+          1999                    25,168
+          2000                    49,551
+          2001                    25,755
+                                $160,104
+</TABLE>
+
+In addition, the Company had the following net operating loss carryforwards 
+available at May 29, 1997:
+
+<TABLE>
+<S>                      <C>
+Year of Expiration        Amount 
+         2008             $252,779
+         2009              138,822
+         2010               63,240
+         2011              156,463
+         2012               16,508
+                          $627,812
+</TABLE>
+
+K.          ACCRUED COSTS OF DISCONTINUED RESTAURANT OPERATIONS
+
+          During fiscal year 1988, management ceased restaurant operations. 
+The estimated obligation under the property lease, netof anticipated sublease
+rentals, is accrued.
+
+          The accrual is included in the accompanying consolidated financial 
+statements as follows:
+
+
+<TABLE>
+<S>                                              <C>             <C>           
+                                                    1997             1996
+Current portion included in accrued
+    expenses                                      $  13,562      $ 16,388
+Accrual included in long-term
+    liabilities                                      84,203        97,612
+                                                   $ 97,765      $114,000
+</TABLE>
+
+
+L.          ACCRUED LITIGATION AND SALES TAX COSTS
+
+         During fiscal year 1994, the Company established an accrual relating to
+a lawsuit filed by the federal government on behalf of the United States 
+Department of Agriculture.  To avoid further litigation expenses, an agreement
+for settlement was reached.  Terms of the agreement included payment by the 
+Company to the government of $164,000, the last installment of which was paid
+in 1996.
+          At May 30, 1996, the Company had an accrual of $75,594 relating to
+a New York state sales tax audit performed in 1988.  The amount is a total of
+the sales tax assessed plus interest and penalties, less total payments. During 
+the year the Company received a letter granting amnesty for the tax year 
+liability for 1988 and before.
+
+          During fiscal year 1997, the Company was assessed $133,233 in taxes 
+and penalties by the Missouri Department of Revenue for delinquent sales taxes 
+for the period from September 1996 through February 1997.  The Company entered
+into an agreement to pay this amount plus interest at 12% in monthly
+installments of $11,150 through April 1998.
+
+The accrual is in the accompanying consolidated financial statements 
+as follows:
+
+<TABLE>
+<S>                                              <C>         <C>
+                                                   1997          1996
+Current portion included in accrued expenses    $ 123,416     $ 29,000
+Reserve included in long-term liabilities             -         46,594
+                                                $ 123,416     $ 75,594
+</TABLE>
+
+          The New York State Department of Taxation and Finance is conducting a 
+sales and use tax examination for the period from June 1993 through November 
+1995.  The examination is not completed, and no adjustments have been proposed.
+
+          The ultimate outcome of this examination cannot presently be 
+determineed. Therefore, no provision for any liability that may result has been
+made in the accompanying consolidated financial statements.
+
+M.     OPERATING EXPENSES
+
+Operating expenses in the accompanying consolidated statements of operations are
+ composed of the following:
+
+<TABLE>
+<S>                                  <C>                     <C>
+                                         1996                     1995          
+Payroll and related costs             $6,676,089              $6,162,640     
+Equipment rental costs                   535,893                 255,431     
+Other                                  2,606,565               1,847,090     
+                                      $9,818,547              $8,265,161
+</TABLE>
+
+N.          ACQUISITION
+
+During fiscal year 1996, the Company acquired certain location contracts, parts 
+inventory and equipment from Bassman Vending, Inc. (BVI) for $251,000 allocated 
+as follows:
+
+<TABLE>
+<S>                                                          <C>
+Location contracts (in and around Des Moines, Iowa)           $161,000
+Parts inventory                                                 30,000
+Equipment                                                       60,000
+                                                              $251,000
+</TABLE>
+
+The purchase price was financed with a $251,000 note payable to BVI, which is 
+described in Note E. 
+
+In addition, the Company has entered into noncancellable operating leases with 
+BVI whereby the Company will lease certain equipment and real estate for $6,000 
+and $24,500 per month, respectively, from March 1996 through March 2001.
+
+Additionally, the Company lent BVI $600,000 (See Note P). 
+
+O.          SALE OF ST. LOUIS OPERATIONS
+
+During fiscal year 1997, the Company entered into an agreement to lease and sale
+equipment and location contracts for its St. Louis operations. The agreement 
+called for rental payments to be paid in monthly installments equal to 10% of 
+the gross revenues from all sales during the lease to customers identified in 
+the agreement.  Equipment located at customers no longer receiving service from
+the purchaser will be returned to the Company.  All returned equipment will 
+result in a credit to the purchase price of 50% of the yearly revenue of the
+customer as set forth in the agreement.
+
+At the end of the lease, the remaining equipment will be purchased for a sales
+price of $1,200,000,net of the credits above(See Note P).
+
+As a result of this sale, the Company recognized a loss of $198,898 during 
+fiscal year 1997.
+
+P.          NOTES RECEIVABLE
+
+          Notes receivable include the following: 
+
+<TABLE>
+<S>                                         <C>               <C>
+                                               1997              1996
+Note receivable from BVI, payable in 
+  monthly installments of $12,300, including                                
+  interest at 8.5% through April 2001,
+  collateralized by the equipment and real
+  estate being leased by the Company as
+  discussed in Note N                          $ 493,247          $ 596,143  
+
+Note receivable from sales of St. Louis
+  operations, with $120,000 payment due in
+  January 1998, with 60 monthly installments
+  commencing February 1998, plus interest
+  at 10%, collateralized by the equipment
+  sold as discussed in Note O                  1,106,152               -
+                                               1,599,399            596,143 
+Less current portion                             372,351            114,182                
+                                              $1,227,048          $ 481,961
+
+</TABLE>
+
+Q. YEAR-END ADJUSTMENTS
+
+The following adjustments were made in the fourth quarter of fiscal year 1997:
+
+<TABLE>
+
+<S>                                                    <C>
+                                                          (Income)
+                                                          expense
+Correct accounts payable                                 $ 154,000
+Increase in allowance for and write-off
+ of questionable trade and miscellaneous
+ receivables.                                              273,000
+Correct Iowa sales tax payable                              69,000
+Record loss on sales of St.Louis operations                199,000
+Reduce deferred tax liability                             (267,000)
+Amnesty on New York sales tax obligation                   (76,000)
+                                                         $ 352,000
+
+Item 8.     Changes in and Disagreements with Accountants on Accounting and
+             Financial Disclosure
+
+     There were no disagreements of the type described in paragraph (a) or any 
+reportable event as described in paragraph (b) of Item 304 of Regulation SB 
+during the two most recent fiscal years.
+
+
+                                     Part III
+
+
+Item 9.     Directors and Executive Officers of the Registrant; Compliance with 
+16 (a) of the Exchange Act.
+
+     (a), (b) The Executive Officers and Directors of the Company are:
+
+
+</TABLE>
+<TABLE>
+<S>                      <C>      <C>                                 <C>
+            Name         Age      Principal Occupation                Director
+                                                                        Since
+Arthur D. Stevens (1)      73     Chairman of the Board of Directors,
+                                  Executive Officer, and Treasurer of
+                                  Ambassador (2)                        1963
+George T. Terris(1)        75     Investor (3)                          1966
+Robert A. Laudicina(1)     57     Executive Vice-President and 
+                                  General Manager of Ambassador's
+                                  New York Operations (4)               1986
+Richard A. Mitchell        32     Assistant Secretary, Vice President 
+                                  ofOperations (5)                      N/A
+Ann W. Stevens             55                                           1996
+Douglas M. Schosser,CPA    27     Director,Key Asset Management Co.     1997
+
+</TABLE>
+
+     (1)     Member of Executive Committee of Board of Directors
+
+     (2)     Mr. Stevens has been Chairman of the Board of Directors of 
+             Ambassador since February 15, 1963, Chief Executive Officer 
+             since April 11, 1963, and Treasurer since January 26, 1972.  He was
+             also the first President and Treasurer of Ambassador beginning 
+             on April 19, 1963, relinquishing those positions in April 1978 
+             and October 1969, respectively.  He again assumed the position of 
+             President on January 1, 1987 upon the retirement of Mr. George 
+             Terris from that position. 
+
+     (3)     Mr. Terris, until his retirement January 1, 1987, was President and
+             Chief Operations Officer of Ambassador.
+
+     (4)     Mr. Laudicina was elected Executive Vice President February 22,
+             1989.  He served as Vice President prior to that time, beginning
+             in January 1982.  He was New York Sales and Marketing Director 
+             from December 1977 to January 1979 and has been divisional 
+             President of Ambassador's New York operations since January 1979.
+
+     (5)     Mr. Mitchell served as Manager of Operating Systems from August 
+             1991 through November 1994 and has served as Assistant Secretary 
+             since November 1991.  In November 1994, he was appointed to the 
+             position of Vice President of Operations.
+
+     (c)     Arthur D. Stevens,CEO and Chairman, and Ann W. Stevens,Director,are
+             husband and wife. No other family relationship exists between
+             any of the executive officers and directors listed above. 
+
+     Each Officer holds his office at the pleasure of the Board of Directors 
+     until the next annual meeting of the Directors and until his successor 
+     is duly elected and qualified.
+
+     (d)     The Executive Officers and Directors listed above were not involved
+              or a part of any legal proceedings as described in Item 401(d).
+
+Item 10.     Executive Compensation
+
+     (a), (b) The following table sets forth information as to the remuneration 
+              accrued by Ambassador Food Services Corporation and its 
+              subsidiary during the fiscal year ended May 29, 1997, for each 
+              Director and Officer whose aggregate remuneration for the year 
+              exceeded $100,000. 
+
+<TABLE>
+<S>                                                 <C>        <C>
+Names of Individuals,
+Number of Persons in Group                           Fiscal      Base
+and Capacities in which Served                        Year      Salary  
+Arthur D. Stevens,                                      1997    $144,144
+Chairman of the Board, President, Chief Executive       1996     188,428
+Officer and Treasurer of Ambassador and Officer         1995     161,100
+and Director of its Subsidiary
+
+Robert A. Laudicina,                                    1997    $157,000
+Executive Vice President and                            1996     169,597
+General Manager of New York Operations                  1995     140,446
+</TABLE>
+
+          Executive Retirement Program
+
+     An executive retirement program was adopted during the 1990 fiscal year to 
+provide a target annual retirement benefit at age 65 or upon retirement, if 
+later, in an amount equal to approximately 40-45% of annual salary, payable 
+for 10 years, for certain salaried employees, including the following officer:  
+Robert A. Laudicina.  This target retirement benefit will be provided through 
+the combination of (1) discretionary annual cash retirement  bonus payments in 
+the amount of $2,000, which must be invested in an individual retirement 
+account or a universal life insurance policy, and (2) a nonqualified (for tax 
+purposes) supplemental retirement agreement from the Company.  The nonqualified 
+retirement agreements will pay the estimated portion of the target retirement 
+benefit which cannot be funded by the executive through the annual cash 
+retirement bonus payments.  The nonqualified retirement arrangements will 
+also provide a pre-retirement death benefit in the event of the executive's 
+death prior to age 65.
+
+     These annual retirement benefits of the above named Officer, are estimated 
+     to be as follows:
+<TABLE>
+<S>                <C>   <C>                    <C>              <C>
+Name of Executive  Age   Estimated Benefit      Supplemental     Target
+                         From Cash               Retirement      Retirement
+                         Retirement                 Benefit      Benefit
+
+Robert A. Laudicina  57    $9,123                    $46,227          $55,350
+
+</TABLE>
+     *based upon contributions of $2,000 per year until age 65 and interest at 
+      8% annum.
+
+     The Company maintains insurance policies on the lives of the executives in 
+amounts estimated to be sufficient to reimburse it for most of the supplemental 
+retirement and/or death benefit payments.
+
+     (d)     Stock Options
+
+     There were no stock options held by any Officer or Director whose 
+remunerations exceeded $100,000 as of May 29, 1997.
+
+Item 11.     Security Ownership of Certain Beneficial Owners and Management
+
+     (a)      Security Ownership of Certain Beneficial Owners
+
+     The following table sets forth, as of May 29, 1997, the information with 
+respect to common stock ownership of each person known by the Company to own 
+beneficially more than 5% of the shares of the Company's common stock, and of
+all Officers and Directors as a group.
+
+<TABLE>
+<S>                                           <C>               <C>
+                                              Amount            Percent of
+                                              Beneficially      Outstanding
+Name and Address of Beneficial Owner(s)       Owned             Shares
+
+Arthur D. Stevens
+1901 W. 69th Street
+Mission Hills, KS  66205                       181,444      (1)        23.9%
+
+Thomas G. Berlin 
+800 Superior Avenue, Suite 2100 
+Cleveland, Ohio 44114                          124,218      (3)         16.4%
+
+George T. Terris
+936 West Shaker Circle
+Nequon, WI  53092                               50,000      (2)           6.6%
+
+George F. Crawford
+10110 Fontana Lane
+Overland Park, KS  66207                         52,597                   6.9%
+
+</TABLE>
+
+     (1)     Does not include 60,000 shares beneficially owned by Mr. Stevens' 
+             adult children, in which shares he disclaims any beneficial 
+             interest.  Additionally, does not include 200,000 shares which may 
+             be issued in the event of conversion of certain debt under its 
+             conversion provisions which are effective from April 30, 1998 to
+             May 1, 2006.
+
+     (2)     Does not include 4,000 shares owned by Mr. Terris' immediate 
+             family, in which shares he disclaims any beneficial interest.
+
+     (3)     Includes 12,800 shares owned by Mr. Berlin's wife. 
+
+     (b)     Security Ownership of Management
+
+<TABLE>
+<S>                                           <C>               <C>
+                                                      Shares of Stock
+                                                    Beneficially Owned
+                                                     May 29, 1997              
+Name                                             Number           Percent
+                                              of Shares          of Stock
+
+Arthur D. Stevens
+1901 W. 69th Street
+Mission Hills, KS  66205                        181,444   (1)      23.9%
+
+George T. Terris
+936 West Shaker Circle
+Nequon, WI  53092                                 50,000   (2)      6.6%
+
+Robert A. Laudicina
+303 Cedar Court
+Norwood, NJ  07648                                26,500            3.5%
+
+Ann W. Stevens
+1901 W. 69th Street
+Mission Hills, KS 66205                            1,000             0.1%
+
+Douglas M. Schosser
+1050 Allston Road
+Cleveland Heights, OH 44121                        2,000             0.3% 
+
+All Directors and Officers
+   as a Group (6 persons)                        264,144            34.9%
+
+</TABLE>
+
+     (1)     Does not include 60,000 shares beneficially owned by Mr. Stevens' 
+             adult children, in which shares he disclaims any beneficial 
+             interest.  Additionally, does not include 200,000 shares which may 
+             be issued in the event of conversion of certain debt under its 
+             conversion provisions which are effective from April 30, 1998 
+             to May 1, 2006.
+
+     (2)     Does not include 4,000 shares owned by Mr. Terris' immediate 
+             family, in which shares he disclaims any beneficial interest.
+
+
+     (c)     Changes in Control
+
+     The Company knows of no contractual arrangements which may, at a subsequent
+     date, result in a change in control of the Company.
+
+
+Item 12.     Certain Relationships and Related Transactions
+
+     (a)     Certain Business Relationships
+
+     There were no transactions with any member of management during 
+     fiscal 1997 which exceeded $60,000.
+
+Item 13.     Exhibits and Reports on Form 8-K 
+
+     (a)     Exhibit No.:
+
+          3A     Articles of Incorporation of the Registrant             (1)
+
+          3B     By-Laws of the Registrant                               (1)
+
+           6      1984 Incentive Stock Option Plan Dated January 31, 1984(2)
+
+          10     Material Contracts Agreement with Paul F. Leathers      (1)
+
+          22     Subsidiary of the Registrant                            (3)
+
+     (1)     This exhibit was filed with the Ambassador's 10-K for the fiscal 
+             year ended May 28, 1981.  A copy of the Certificate of Amendment 
+             of Certificate of Incorporation changing the Company's name was 
+             filed as a supplement to said exhibit for the fiscal year ended 
+             June 1, 1989.
+
+     (2)     This exhibit was filed with the Company's 10-K for the fiscal year 
+             ended May 31, 1984.
+
+     (3)     Exhibit attached as part of filing.
+
+
+Exhibit No. 22
+
+Subsidiary of the Registrant
+
+Ambassador Food Services Corporation (a Delaware Corporation), the parent 
+Company, has the following subsidiary, which is included in the consolidated 
+financial statements.
+
+Name of Subsidiary      State of Incorporation             % of Voting
+                                                         Securities Owned
+Ambassador Fast 
+Services, Inc.
+d/b/a Squire Maintenance
+ Services                   New York                              100%
+
+
+Note:     The Company will provide, on the written request of any stockholder, a
+           copy of any exhibit to this Form 10-KSB at a rate of $.15 per page.  
+           The minimum fee is $5.00.  Requests should be directed to Arthur 
+           D. Stevens, President, Ambassador Food Services Corporation, P.O. Box
+           419586, Kansas City, Missouri 64141-6586.
+
+
+
+
+
+                       Signatures
+
+
+Pursuant to the requirements of Section 13 or 15(d) of the Securities Exchange 
+Act of 1934, the registrant has duly caused this report to be signed on its 
+behalf by the undersigned, thereunto duly authorized.
+
+
+                                  AMBASSADOR FOOD SERVICES CORPORATION
+                                         (Registrant)
+
+
+             /s/ Robert A. Laudicina                 Date April 20, 1998       
+             Robert A. Laudicina
+             Interim President
+
+
+
+
+              /s/ Richard Mitchell                 Date April 20, 1998        
+              Richard Mitchell
+              Assistant Secretary
+
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, this report
+has been signed below by the following persons on behalf of the Registrant and 
+in the capacities and on the dates indicated.
+
+
+                                  
+                                   
+/s/ Arthur D. Stevens             Chairman of the Board      April 20, 1998   
+Arthur D. Stevens                 Title                      Date
+
+
+/s/ Robert A. Laudicina           Interim President/Director April 20, 1998  
+Robert A. Laudicina               Title                      Date
+
+
+/s/ Ann W. Stevens                Director                   April 20, 1998  
+Ann W. Stevens                    Title                      Date
+
+
+/s/ George T. Terris              Director                   April 20, 1998  
+George T. Terris                  Title                      Date
+
+/s/Douglas M. Schosser            Director                   April 20, 1998
+Douglas M. Schosser               Title                      Date
+
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-27
+<SEQUENCE>2
+<TEXT>
+
+<TABLE> <S> <C>
+
+<ARTICLE>   5
+       
+<S>                             <C>
+<PERIOD-TYPE>                    YEAR
+<FISCAL-YEAR-END>                MAY-29-1997
+<PERIOD-END>                     MAY-29-1997
+<CASH>                           370,340
+<SECURITIES>                     0
+<RECEIVABLES>                    1,697,773
+<ALLOWANCES>                     118,234
+<INVENTORY>                      548,477
+<CURRENT-ASSETS>                 3,184,639
+<PP&E>                           7,643,301
+<DEPRECIATION>                   5,445,471
+<TOTAL-ASSETS>                   7,315,862
+<CURRENT-LIABILITIES>            5,169,107
+<BONDS>                          0
+<COMMON>                         1,009,230
+<PREFERRED-MANDATORY>            0
+<PREFERRED>                      0
+<OTHER-SE>                       (199,237)
+<TOTAL-LIABILITY-AND-EQUITY>     7,315,862
+<SALES>                          22,770,546
+<TOTAL-REVENUES>                 22,770,546
+<CGS>                            19,316,123
+<TOTAL-COSTS>                    4,205,479
+<OTHER-EXPENSES>                 0
+<LOSS-PROVISION>                 0
+<INTEREST-EXPENSE>               413,161
+<INCOME-PRETAX>                  (1,164,217)
+<INCOME-TAX>                     (267,069)
+<INCOME-CONTINUING>              (897,148)
+<DISCONTINUED>                   0
+<EXTRAORDINARY>                  0 
+<CHANGES>                        0
+<NET-INCOME>                     (897,148)
+<EPS-PRIMARY>                    (1.18)
+<EPS-DILUTED>                    (1.18)
+
+        
+
+</TABLE>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----
