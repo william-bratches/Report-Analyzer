@@ -8,6 +8,7 @@
   "dependencies" : {
     "express"    : "latest",
     "request"    : "latest",
-    "cheerio"    : "latest"
+    "cheerio"    : "latest",
+    "lodash": "^4.13.1"
   }
 }
