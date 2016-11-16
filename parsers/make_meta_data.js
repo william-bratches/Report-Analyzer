@@ -1,7 +1,7 @@
 const fs = require('fs');
 const dataPath = '../data/10K';
 const _ = require('lodash');
-const output = '../data/bookworm/jsoncatalog.txt';
+const jsoncatalog = '../data/bookworm/jsoncatalog.txt';
 
 const findLine = (regex, lines) => {
   return _.find(lines, (line) => {
@@ -26,7 +26,8 @@ const getCompanyName = (lines) => {
 };
 
 const getReportYear = (lines) => {
-  return findLine('ACCESSION NUMBER', lines).split('-')[1];
+  const year = findLine('ACCESSION NUMBER', lines).split('-')[1];
+  return new Date(`12-01-${year}`);
 };
 
 const createSearchString = (fileName, lines) => {
@@ -55,10 +56,15 @@ const readAndParse = (file, directory, cb) => {
 };
 
 const writeMeta = (metadata, output) => {
-  console.log(metadata);
+  fs.appendFile(output, JSON.stringify(metadata) + '\n', function (err) {
+    if (err) {
+      console.log('error writing:' +  metadata.filename);
+    }
+  });
 };
 
-const parseAndWriteAll = (directory) => {
+const parseAndWriteAll = (directory, output) => {
+
   fs.readdir(directory, (err, files) => {
     if (err) {
       return console.log('ERROR:', err);
@@ -74,12 +80,4 @@ const parseAndWriteAll = (directory) => {
   });
 };
 
-parseAndWriteAll(dataPath);
-
- // {
- //   "searchstring" : 10K_link, https://www.sec.gov/Archives/edgar/data/1490196/000149019610000002/0001490196-10-000002.txt
- //   "companyName": companyName, // can categorize
- //   "year" : year,
- //   "filename" : filename,
- //   "industry" : subjectArray, // can categorize
- // }
+parseAndWriteAll(dataPath, jsoncatalog);
