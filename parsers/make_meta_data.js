@@ -30,11 +30,12 @@ const getReportYear = (lines) => {
 };
 
 const createSearchString = (fileName, lines) => {
-  const root = 'https://www.sec.gov/Archives/edgar/data'
-  const fileNameStripped = fileName.replace('-', '').replace('.txt', '');
+  const rootUrl = 'https://www.sec.gov/Archives/edgar/data/';
+  const fileNameStripped = fileName.replace('-', '').replace('.txt', '').replace('-', '');
   const indexKey = findLine('CENTRAL INDEX KEY', lines).replace(' ', '').split(':')[1];
-  const indexKeyStripped = stripIndexKey(indexKey);
-  return `${root}$/${indexKeyStripped}/${fileNameStripped}/${fileName}`;
+  const indexKeyStripped = stripIndexKey(indexKey).trim();
+  const url = `${rootUrl}${indexKeyStripped}/${fileNameStripped}/${fileName}`;
+  return url;
 };
 
 const readAndParse = (file, directory, cb) => {
