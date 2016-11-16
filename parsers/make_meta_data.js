@@ -50,7 +50,7 @@ const readAndParse = (file, directory, cb) => {
       companyName: getCompanyName(lines),
       year: getReportYear(lines),
       industry: getIndustry(lines),
-      filename: file,
+      filename: file.replace('.txt', ''),
     });
   });
 };
